@@ -1,0 +1,710 @@
+{
+ "laptops": {
+  "entry": [
+   {
+    "brand": "HP",
+    "title": "HP 255R G10 15.6\" Ryzen-3 8GB 512GB Win 11 Home Notebook",
+    "spec": "8GB RAM · 512GB SSD",
+    "price": "R8 506",
+    "handle": "hp-255r-g10-15-6-ryzen-3-8gb-512gb-win-11-home-notebook",
+    "url": "https://ubratech.co.za/products/hp-255r-g10-15-6-ryzen-3-8gb-512gb-win-11-home-notebook",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/0/D0ML8AT_1a63.jpg"
+   },
+   {
+    "brand": "HP",
+    "title": "HP 250 G9 15.6\" Core i3 16GB 256GB Win 11 Pro Notebook",
+    "spec": "Core i3 · 16GB RAM · 256GB SSD",
+    "price": "R9 686",
+    "handle": "hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
+    "url": "https://ubratech.co.za/products/hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et"
+   },
+   {
+    "brand": "HP",
+    "title": "HP 255R G10 15.6\" Ryzen 5 8GB 512GB Win 11 Home Notebook",
+    "spec": "Ryzen 5 · 8GB RAM · 512GB SSD",
+    "price": "R9 897",
+    "handle": "hp-255r-g10-15-6-ryzen-5-7535u-8gb-512gb-win-11-home-notebook",
+    "url": "https://ubratech.co.za/products/hp-255r-g10-15-6-ryzen-5-7535u-8gb-512gb-win-11-home-notebook",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/0/D0ML7AT_85e8.jpg"
+   }
+  ],
+  "mid": [
+   {
+    "brand": "Lenovo",
+    "title": "Lenovo V15 Laptop — Core i3 · 256GB SSD",
+    "spec": "Core i3 · 256GB SSD",
+    "price": "R13 289",
+    "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
+    "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza"
+   },
+   {
+    "brand": "Lenovo",
+    "title": "Lenovo V15 Laptop — Core i5 · 512GB SSD",
+    "spec": "Core i5 · 512GB SSD",
+    "price": "R14 779",
+    "handle": "lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
+    "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za"
+   },
+   {
+    "brand": "Dell",
+    "title": "Dell Pro 15 Essential 15.6\" Core i5 8GB 512GB Win 11 Pro",
+    "spec": "Core i5 · 8GB RAM · 512GB SSD",
+    "price": "R14 725",
+    "handle": "dell-pro-15-essential-15-6-core-i5-8gb-512gb-win-11-pro-notebook",
+    "url": "https://ubratech.co.za/products/dell-pro-15-essential-15-6-core-i5-8gb-512gb-win-11-pro-notebook",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/P/V/PV15250_RPLU_001_P_4c46.jpg"
+   }
+  ],
+  "high": [
+   {
+    "brand": "Microsoft",
+    "title": "Microsoft Surface Laptop (Snapdragon X Plus) 16GB 512GB",
+    "spec": "16GB RAM · 512GB SSD",
+    "price": "R20 063",
+    "handle": "microsoft-surface-laptop-snapdragon-x-plus-laptop-16gb-ep2-31279",
+    "url": "https://ubratech.co.za/products/microsoft-surface-laptop-snapdragon-x-plus-laptop-16gb-ep2-31279"
+   },
+   {
+    "brand": "Lenovo",
+    "title": "Lenovo ThinkBook 16 — Core Ultra 7 · 16GB · 512GB SSD",
+    "spec": "Core Ultra 7 · 16GB RAM · 512GB SSD",
+    "price": "R20 120",
+    "handle": "lenovo-tb-16-ial-u7-255h-16gb-ddr5-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-16-0-wuxga-300nits-fhd-camera-wi-fi-ax-2x2-6e-bluetooth-y-fpr-3-cell-3-year-cci",
+    "url": "https://ubratech.co.za/products/lenovo-tb-16-ial-u7-255h-16gb-ddr5-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-16-0-wuxga-300nits-fhd-camera-wi-fi-ax-2x2-6e-bluetooth-y-fpr-3-cell-3-year-cci",
+    "image": "https://s3.amazonaws.com/tarsus.co.za/21SK001AZA_default.jpg"
+   },
+   {
+    "brand": "HP",
+    "title": "HP ProBook 440 G11 14\" Core Ultra 5 16GB 512GB Win 11 Pro",
+    "spec": "16GB RAM · 512GB SSD",
+    "price": "R20 243",
+    "handle": "hp-probook-440-g11-14-core-u5-16gb-512gb-win-11-pro-silver-notebook",
+    "url": "https://ubratech.co.za/products/hp-probook-440-g11-14-core-u5-16gb-512gb-win-11-pro-silver-notebook",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/3/A38B8ET__3bbe.jpg"
+   }
+  ],
+  "creator": [
+   {
+    "brand": "Asus",
+    "title": "Asus VivoBook (RTX) V3607VH 16\" Core i7 16GB 1TB Win 11 Pro",
+    "spec": "RTX · 16GB RAM · 1TB SSD",
+    "price": "R27 944",
+    "handle": "asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
+    "url": "https://ubratech.co.za/products/asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/V/3/V3607VH_I71610B0X__1__7ef3.png"
+   },
+   {
+    "brand": "HP",
+    "title": "HP ZBook 8 G1i — Core Ultra 7 · 32GB · 1TB SSD · RTX",
+    "spec": "RTX · Core Ultra 7 · 32GB · 1TB SSD",
+    "price": "R45 953",
+    "handle": "hp-zbook-8-g1i-laptop-core-ultra-7-32gb-1tb-ssd-cg0g9et",
+    "url": "https://ubratech.co.za/products/hp-zbook-8-g1i-laptop-core-ultra-7-32gb-1tb-ssd-cg0g9et"
+   },
+   {
+    "brand": "HP",
+    "title": "HP ZBook 8 G1i — Core Ultra 7 · 512GB SSD · RTX",
+    "spec": "RTX · Core Ultra 7 · 512GB SSD",
+    "price": "R37 681",
+    "handle": "hp-zbook-8-g1i-laptop-core-ultra-7-512gb-ssd-cg0k8et",
+    "url": "https://ubratech.co.za/products/hp-zbook-8-g1i-laptop-core-ultra-7-512gb-ssd-cg0k8et"
+   }
+  ]
+ },
+ "desktop": {
+  "entry": [
+   {
+    "brand": "Dell",
+    "title": "Dell Pro Slim Essential QVS1260 Desktop — Core i3 8GB 512GB",
+    "spec": "Everyday desktop PC",
+    "price": "R13 915",
+    "handle": "dell-pro-slim-essential-qvs1260-desktop-pc-core-i3-bto001_qvs1260_emea",
+    "url": "https://ubratech.co.za/products/dell-pro-slim-essential-qvs1260-desktop-pc-core-i3-bto001_qvs1260_emea"
+   },
+   {
+    "brand": "Lenovo",
+    "title": "Lenovo Neo 50s G6 Desktop — Core Ultra 5 · 16GB · 512GB SSD",
+    "spec": "Performance desktop",
+    "price": "R16 244",
+    "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
+    "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa"
+   }
+  ],
+  "mid": [
+   {
+    "brand": "Lenovo",
+    "title": "Lenovo Neo 50s G6 Desktop — Core Ultra 5 · 16GB · 512GB SSD",
+    "spec": "Performance desktop",
+    "price": "R16 244",
+    "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
+    "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa"
+   },
+   {
+    "brand": "Dell",
+    "title": "Dell Pro Slim QCS1250 Desktop — Core Ultra 5 · 512GB SSD",
+    "spec": "Performance desktop",
+    "price": "R25 531",
+    "handle": "dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
+    "url": "https://ubratech.co.za/products/dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea"
+   }
+  ],
+  "high": [
+   {
+    "brand": "Dell",
+    "title": "Dell Pro Slim QCS1250 Desktop — Core Ultra 5 · 512GB SSD",
+    "spec": "Premium desktop",
+    "price": "R25 531",
+    "handle": "dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
+    "url": "https://ubratech.co.za/products/dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea"
+   },
+   {
+    "brand": "Dell",
+    "title": "Dell Pro Micro QCM1250 Desktop — Core Ultra 5 · 16GB",
+    "spec": "Premium desktop",
+    "price": "R26 236",
+    "handle": "dell-pro-micro-qcm1250-desktop-pc-core-ultra-5-16gb-bto106_qcm1250_emea",
+    "url": "https://ubratech.co.za/products/dell-pro-micro-qcm1250-desktop-pc-core-ultra-5-16gb-bto106_qcm1250_emea"
+   }
+  ],
+  "creator": [
+   {
+    "brand": "Dell",
+    "title": "Dell Pro Max Tower T2 Workstation — Core Ultra 7 · RTX",
+    "spec": "Workstation · pro graphics",
+    "price": "R45 088",
+    "handle": "dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-512gb-ssd-fct2250-u7-16512gb-8gfx",
+    "url": "https://ubratech.co.za/products/dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-512gb-ssd-fct2250-u7-16512gb-8gfx"
+   }
+  ]
+ },
+ "gaming": {
+  "entry": [
+   {
+    "brand": "Acer",
+    "title": "Acer Nitro V 16 Ryzen 7 16GB 1TB 180Hz Gaming Laptop",
+    "spec": "16GB RAM · 1TB SSD",
+    "price": "R24 839",
+    "handle": "acer-nitro-v-16-r7-260-16gb-1tb-16in-wuxga-ips-180hz-display-5050-windows-11-home",
+    "url": "https://ubratech.co.za/products/acer-nitro-v-16-r7-260-16gb-1tb-16in-wuxga-ips-180hz-display-5050-windows-11-home",
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NH.QYWEA.002_default.png"
+   }
+  ],
+  "ultra": [
+   {
+    "brand": "Dell",
+    "title": "Dell Alienware 16 Aurora — RTX 4050 · 16GB · 512GB SSD",
+    "spec": "RTX 4050 · 16GB RAM · 512GB SSD",
+    "price": "R35 729",
+    "handle": "dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
+    "url": "https://ubratech.co.za/products/dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/C/AC16250_RPLH_R_006_794e.jpg"
+   },
+   {
+    "brand": "Asus",
+    "title": "Asus ROG Strix G16 — Ryzen 9 · 16GB · 1TB SSD",
+    "spec": "Ryzen 9 · 16GB RAM · 1TB SSD",
+    "price": "R36 198",
+    "handle": "asus-rog-strix-g16-16-ryzen-9-16gb-1tb-win-11-home-gaming-notebook",
+    "url": "https://ubratech.co.za/products/asus-rog-strix-g16-16-ryzen-9-16gb-1tb-win-11-home-gaming-notebook",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/4/_/4_80fe.png"
+   },
+   {
+    "brand": "Asus",
+    "title": "Asus ROG Strix 16 — Ryzen 9 · 16GB · 1TB SSD",
+    "spec": "Ryzen 9 · 16GB RAM · 1TB SSD",
+    "price": "R43 439",
+    "handle": "asus-rog-strix-16-ryzen-9-16gb-1tb-win-11-home-notebook",
+    "url": "https://ubratech.co.za/products/asus-rog-strix-16-ryzen-9-16gb-1tb-win-11-home-notebook",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/r/Artboard_1_15_100_7231.jpg"
+   }
+  ],
+  "desktop": [
+   {
+    "brand": "Dell",
+    "title": "Dell Pro Max Tower T2 Workstation — Core Ultra 7 · NVIDIA RTX",
+    "spec": "NVIDIA RTX · Core Ultra 7 · 16GB · 512GB SSD",
+    "price": "R45 088",
+    "handle": "dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-512gb-ssd-fct2250-u7-16512gb-8gfx",
+    "url": "https://ubratech.co.za/products/dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-512gb-ssd-fct2250-u7-16512gb-8gfx"
+   }
+  ]
+ },
+ "monitors": {
+  "office": [
+   {
+    "brand": "Dell",
+    "title": "Dell E2225HM Pro 21.5\" FHD Monitor",
+    "spec": "Crisp everyday screen",
+    "price": "R1 828",
+    "handle": "dell-e2225hm-pro-21-5-fhd-monitor",
+    "url": "https://ubratech.co.za/products/dell-e2225hm-pro-21-5-fhd-monitor",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQMZ_4276.jpg"
+   },
+   {
+    "brand": "Dell",
+    "title": "Dell Pro E2425HM 24\" Full-HD Monitor",
+    "spec": "Crisp everyday screen",
+    "price": "R1 788",
+    "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
+    "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
+   },
+   {
+    "brand": "Dell",
+    "title": "Dell SE2726HM 27\" FHD Monitor",
+    "spec": "Crisp everyday screen",
+    "price": "R2 255",
+    "handle": "dell-se2726hm-27-fhd-monitor",
+    "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
+   }
+  ],
+  "creative": [
+   {
+    "brand": "Dell",
+    "title": "Dell UltraSharp 24 — U2424H",
+    "spec": "Colour-accurate",
+    "price": "R5 303",
+    "handle": "dell-ultrasharp-24-monitor-u2424h-60-47cm-23-8",
+    "url": "https://ubratech.co.za/products/dell-ultrasharp-24-monitor-u2424h-60-47cm-23-8",
+    "image": "http://cdn.cs.1worldsync.com/87/5d/875dcfd7-2045-4edb-b96d-354be9119927.jpg"
+   },
+   {
+    "brand": "Dell",
+    "title": "Dell UltraSharp 24 USB-C Hub — U2424HE",
+    "spec": "Colour-accurate · USB-C",
+    "price": "R6 228",
+    "handle": "dell-ultrasharp-24-usb-c-hub-monitor-u2424he-60-47cm-23-8",
+    "url": "https://ubratech.co.za/products/dell-ultrasharp-24-usb-c-hub-monitor-u2424he-60-47cm-23-8",
+    "image": "http://cdn.cs.1worldsync.com/05/4c/054ce9ac-adff-4f1a-ae29-83d3e471de5e.jpg"
+   }
+  ],
+  "gaming": [
+   {
+    "brand": "Dell",
+    "title": "Dell SE2426H 24\" FHD Gaming Monitor",
+    "spec": "High refresh · smooth motion",
+    "price": "R1 922",
+    "handle": "dell-se2426h-24-fhd-gaming-monitor",
+    "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
+   },
+   {
+    "brand": "Acer",
+    "title": "Acer 24\" IPS FHD 120Hz Monitor",
+    "spec": "High refresh · smooth motion",
+    "price": "R1 986",
+    "handle": "acer-24-ips-fhd-120hz-monitor-3yr",
+    "url": "https://ubratech.co.za/products/acer-24-ips-fhd-120hz-monitor-3yr",
+    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.QE1EE.G08_default.png"
+   },
+   {
+    "brand": "Acer",
+    "title": "Acer 27\" IPS FHD 120Hz Monitor",
+    "spec": "High refresh · smooth motion",
+    "price": "R2 359",
+    "handle": "acer-27-ips-fhd-120hz-monitor-3yr",
+    "url": "https://ubratech.co.za/products/acer-27-ips-fhd-120hz-monitor-3yr",
+    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
+   }
+  ],
+  "multi": [
+   {
+    "brand": "Dell",
+    "title": "Dell Pro E2425HM 24\" Full-HD Monitor",
+    "spec": "Slim bezel · great for lots of windows",
+    "price": "R1 788",
+    "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
+    "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
+   },
+   {
+    "brand": "Dell",
+    "title": "Dell SE2726HM 27\" FHD Monitor",
+    "spec": "Slim bezel · great for lots of windows",
+    "price": "R2 255",
+    "handle": "dell-se2726hm-27-fhd-monitor",
+    "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
+   }
+  ]
+ },
+ "ups": {
+  "router": [
+   {
+    "brand": "Lalela",
+    "title": "Lalela Wi-Fi UPS for router (2–3 hour runtime)",
+    "spec": "Keeps Wi-Fi on through outages",
+    "price": "R310",
+    "handle": "lalela-r1800-wi-fi-ups-for-router-and-ont-32wh-2-3-hour-runtime",
+    "url": "https://ubratech.co.za/products/lalela-r1800-wi-fi-ups-for-router-and-ont-32wh-2-3-hour-runtime",
+    "image": "https://s3.amazonaws.com/tarsus.co.za/LAL-R1800_default.png"
+   },
+   {
+    "brand": "Lalela",
+    "title": "Lalela Wi-Fi UPS for router (4–6 hour runtime)",
+    "spec": "Keeps Wi-Fi on through outages",
+    "price": "R374",
+    "handle": "lalela-r1800-wi-fi-ups-for-router-and-ont-48-8wh-4-6-hour-runtime",
+    "url": "https://ubratech.co.za/products/lalela-r1800-wi-fi-ups-for-router-and-ont-48-8wh-4-6-hour-runtime",
+    "image": "https://s3.amazonaws.com/tarsus.co.za/LAL-R1818_default.jpg"
+   }
+  ],
+  "desk": [
+   {
+    "brand": "Hikvision",
+    "title": "Hikvision 1000VA UPS",
+    "spec": "Backs up a PC + screen",
+    "price": "R953",
+    "handle": "hikvision-1000va-1kva-ups",
+    "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
+   },
+   {
+    "brand": "APC",
+    "title": "APC Back-UPS 1200VA / 650W",
+    "spec": "Backs up a PC + screen",
+    "price": "R2 409",
+    "handle": "apc-backup-ups-1200va-1-2kva-650w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
+    "url": "https://ubratech.co.za/products/apc-backup-ups-1200va-1-2kva-650w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BX1200MI_default.jpg"
+   }
+  ],
+  "multi": [
+   {
+    "brand": "Eaton",
+    "title": "Eaton 5E 1600VA UPS",
+    "spec": "Backs up a whole desk",
+    "price": "R2 931",
+    "handle": "eaton-5e-1600va-gen2-usb-iec-ups",
+    "url": "https://ubratech.co.za/products/eaton-5e-1600va-gen2-usb-iec-ups",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
+   },
+   {
+    "brand": "APC",
+    "title": "APC Back-UPS 1600VA / 900W",
+    "spec": "Backs up a whole desk",
+    "price": "R3 068",
+    "handle": "apc-backup-ups-1600va-1-6kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
+    "url": "https://ubratech.co.za/products/apc-backup-ups-1600va-1-6kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BX1600MI_default.jpg"
+   }
+  ],
+  "server": [
+   {
+    "brand": "APC",
+    "title": "APC Smart-UPS 1000VA LCD (SmartConnect)",
+    "spec": "Rack-mount · critical kit",
+    "price": "R9 402",
+    "handle": "apc-smart-ups-1000va-lcd-230v-with-smartconnect",
+    "url": "https://ubratech.co.za/products/apc-smart-ups-1000va-lcd-230v-with-smartconnect",
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SMT1000IC_default.jpg"
+   },
+   {
+    "brand": "APC",
+    "title": "APC Smart-UPS 1500VA LCD RM 2U (SmartConnect)",
+    "spec": "Rack-mount · critical kit",
+    "price": "R15 524",
+    "handle": "apc-smart-ups-1500va-lcd-rm-2u-230v-with-smartconnect",
+    "url": "https://ubratech.co.za/products/apc-smart-ups-1500va-lcd-rm-2u-230v-with-smartconnect",
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SMT1500RMI2UC_default.jpg"
+   }
+  ]
+ },
+ "mesh": {
+  "flat": [
+   {
+    "brand": "Mercusys",
+    "title": "Mercusys Halo H50G Mesh Wi-Fi System (2-pack)",
+    "spec": "Whole-home Wi-Fi · easy setup",
+    "price": "R976",
+    "handle": "mercusys-halo-h50g-home-mesh-wi-fi-system-2-pack",
+    "url": "https://ubratech.co.za/products/mercusys-halo-h50g-home-mesh-wi-fi-system-2-pack",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/H/A/HALO_H50G_2_PACK_e525.png"
+   }
+  ],
+  "house": [
+   {
+    "brand": "TP-Link",
+    "title": "TP-Link Deco M4 Mesh Wi-Fi System (3-pack)",
+    "spec": "Covers a full house · one network name",
+    "price": "R2 297",
+    "handle": "tp-link-deco-m4-whole-home-mesh-wi-fi-system-3-pack",
+    "url": "https://ubratech.co.za/products/tp-link-deco-m4-whole-home-mesh-wi-fi-system-3-pack",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/E/DECO_M4_3_PACK_b101.jpg"
+   },
+   {
+    "brand": "Mercusys",
+    "title": "Mercusys Halo H30G Mesh Wi-Fi System (3-pack)",
+    "spec": "Covers a full house · one network name",
+    "price": "R1 419",
+    "handle": "mercusys-halo-h30g-home-mesh-wi-fi-system-3-pack",
+    "url": "https://ubratech.co.za/products/mercusys-halo-h30g-home-mesh-wi-fi-system-3-pack",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/H/A/HALO_H30G_3_PACK_f3ee.png"
+   }
+  ],
+  "large": [
+   {
+    "brand": "TP-Link",
+    "title": "TP-Link Deco M4 Mesh Wi-Fi System (3-pack)",
+    "spec": "Big-property coverage",
+    "price": "R2 297",
+    "handle": "tp-link-deco-m4-whole-home-mesh-wi-fi-system-3-pack",
+    "url": "https://ubratech.co.za/products/tp-link-deco-m4-whole-home-mesh-wi-fi-system-3-pack",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/E/DECO_M4_3_PACK_b101.jpg"
+   }
+  ]
+ },
+ "printers": {
+  "docs": [
+   {
+    "brand": "HP",
+    "title": "HP LaserJet Pro MFP 4103FDW Mono All-in-One",
+    "spec": "Laser · sharp text · low running cost",
+    "price": "R8 203",
+    "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
+    "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
+    "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
+   },
+   {
+    "brand": "HP",
+    "title": "HP LaserJet Enterprise MFP M430f All-in-One",
+    "spec": "Laser · sharp text · low running cost",
+    "price": "R10 882",
+    "handle": "hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
+    "url": "https://ubratech.co.za/products/hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
+    "image": "https://s3.amazonaws.com/tarsus.co.za/3PZ55A_default.png"
+   }
+  ],
+  "photo": [
+   {
+    "brand": "Canon",
+    "title": "Canon GX2040 MegaTank All-in-One",
+    "spec": "Refillable ink · cheap colour",
+    "price": "R4 788",
+    "handle": "canon-gx2040-megatank-maxify-business-range-wireless-all-in-one-printer-6171c021aa",
+    "url": "https://ubratech.co.za/products/canon-gx2040-megatank-maxify-business-range-wireless-all-in-one-printer-6171c021aa"
+   },
+   {
+    "brand": "HP",
+    "title": "HP Smart Tank 790 Wireless All-in-One",
+    "spec": "Refillable ink · cheap colour",
+    "price": "R8 382",
+    "handle": "hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
+    "url": "https://ubratech.co.za/products/hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a"
+   }
+  ],
+  "volume": [
+   {
+    "brand": "HP",
+    "title": "HP LaserJet Pro MFP 4103FDW Mono All-in-One",
+    "spec": "All-in-one · built for an office",
+    "price": "R8 203",
+    "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
+    "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
+    "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
+   },
+   {
+    "brand": "HP",
+    "title": "HP LaserJet Enterprise MFP M430f All-in-One",
+    "spec": "All-in-one · built for an office",
+    "price": "R10 882",
+    "handle": "hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
+    "url": "https://ubratech.co.za/products/hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
+    "image": "https://s3.amazonaws.com/tarsus.co.za/3PZ55A_default.png"
+   }
+  ]
+ },
+ "cctv": {
+  "small": [
+   {
+    "brand": "Hikvision",
+    "title": "Hikvision 2MP ColorVu Fixed Turret Camera",
+    "spec": "HD camera · night vision",
+    "price": "R439",
+    "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
+    "url": "https://ubratech.co.za/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
+   },
+   {
+    "brand": "Hikvision",
+    "title": "Hikvision 2MP Smart Hybrid Light Bullet Camera",
+    "spec": "HD camera · night vision",
+    "price": "R472",
+    "handle": "hikvision-2mp-2-8mm-smart-hybrid-light-lamp-camera-with-audio-fixed-bullet-camera",
+    "url": "https://ubratech.co.za/products/hikvision-2mp-2-8mm-smart-hybrid-light-lamp-camera-with-audio-fixed-bullet-camera",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE18D0T_LFS_2.8MM_f4c5.png"
+   }
+  ],
+  "medium": [
+   {
+    "brand": "Hikvision",
+    "title": "Hikvision 5MP Colour Audio Turret Camera",
+    "spec": "Sharp camera · colour night vision",
+    "price": "R725",
+    "handle": "hikvision-3k-5mp-color-audio-fixed-turret-analogue-camera",
+    "url": "https://ubratech.co.za/products/hikvision-3k-5mp-color-audio-fixed-turret-analogue-camera",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE72KF0T_LFS_2.8MM_7488.jpg"
+   },
+   {
+    "brand": "Hikvision",
+    "title": "Hikvision Low-Light Colour Camera",
+    "spec": "Sharp camera · colour night vision",
+    "price": "R748",
+    "handle": "hikvision-720p-cmos-low-light-colour-1mm-analogue-camera",
+    "url": "https://ubratech.co.za/products/hikvision-720p-cmos-low-light-colour-1mm-analogue-camera",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/E/AE_VC136T_1.0MM_4564.jpg"
+   }
+  ],
+  "large": [
+   {
+    "brand": "Hikvision",
+    "title": "Hikvision 2MP Fixed Mini Bullet Network Camera",
+    "spec": "IP camera · project-grade",
+    "price": "R1 207",
+    "handle": "hikvision-2mp-fixed-mini-bullet-network-camera",
+    "url": "https://ubratech.co.za/products/hikvision-2mp-fixed-mini-bullet-network-camera",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2021G0_LIU_2.8MM_9325.png"
+   }
+  ]
+ },
+ "dock": {
+  "usbc": [
+   {
+    "brand": "Port",
+    "title": "Port USB-C Mini Dock with HDMI",
+    "spec": "One cable · power + screen",
+    "price": "R227",
+    "handle": "port-usb-c-mini-with-hdmi-docking-station",
+    "url": "https://ubratech.co.za/products/port-usb-c-mini-with-hdmi-docking-station",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900140_0708.jpg"
+   },
+   {
+    "brand": "Dell",
+    "title": "Dell Pro 4-in-1 USB-C Travel Hub (DA225)",
+    "spec": "One cable · power + screens",
+    "price": "R738",
+    "handle": "dell-pro-4-in-1-usb-c-travel-hub-da225",
+    "url": "https://ubratech.co.za/products/dell-pro-4-in-1-usb-c-travel-hub-da225",
+    "image": "https://s3.amazonaws.com/tarsus.co.za/470-BFBN_default.png"
+   }
+  ],
+  "mac": [
+   {
+    "brand": "Microsoft",
+    "title": "Microsoft Surface USB-C Travel Hub",
+    "spec": "For MacBook / Surface",
+    "price": "R977",
+    "handle": "microsoft-surface-usb-c-travel-hub-black",
+    "url": "https://ubratech.co.za/products/microsoft-surface-usb-c-travel-hub-black",
+    "image": "https://s3.amazonaws.com/tarsus.co.za/1E4-00002_default.png"
+   }
+  ],
+  "legacy": [
+   {
+    "brand": "Port",
+    "title": "Port 100W USB-C & USB-A Docking Station",
+    "spec": "Works with older laptops",
+    "price": "R3 355",
+    "handle": "port-100w-usb-c-usb-a-docking-station",
+    "url": "https://ubratech.co.za/products/port-100w-usb-c-usb-a-docking-station",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/901908_W_EU_011e.jpg"
+   }
+  ]
+ },
+ "meet": {
+  "desk": [
+   {
+    "brand": "HP",
+    "title": "HP 320 Full-HD USB Webcam",
+    "spec": "Full-HD webcam",
+    "price": "R502",
+    "handle": "hp-320-black-full-hd-usb-webcam",
+    "url": "https://ubratech.co.za/products/hp-320-black-full-hd-usb-webcam",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/5/3/53X26AA_9bf9.png"
+   },
+   {
+    "brand": "HP",
+    "title": "HP Poly Blackwire 3220 USB-C Headset",
+    "spec": "Clear-audio headset",
+    "price": "R619",
+    "handle": "hp-poly-blackwire-3220-usb-c-wired-black-headset",
+    "url": "https://ubratech.co.za/products/hp-poly-blackwire-3220-usb-c-wired-black-headset",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/8/X/8X228AA_74f8.png"
+   }
+  ],
+  "board": [
+   {
+    "brand": "Logitech",
+    "title": "Logitech Rally Bar Mini (all-in-one video)",
+    "spec": "Boardroom video system",
+    "price": "R55 636",
+    "handle": "logitech-all-in-one-graphite-mini-rally-bar",
+    "url": "https://ubratech.co.za/products/logitech-all-in-one-graphite-mini-rally-bar",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/960_001341_3f7e.png"
+   }
+  ]
+ },
+ "netgear": {
+  "switch": [
+   {
+    "brand": "TP-Link",
+    "title": "TP-Link 5-Port Gigabit Desktop Switch",
+    "spec": "More wired ports",
+    "price": "R153",
+    "handle": "tp-link-5-port-desktop-switch",
+    "url": "https://ubratech.co.za/products/tp-link-5-port-desktop-switch",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SF1005D_0617.jpg"
+   },
+   {
+    "brand": "TP-Link",
+    "title": "TP-Link 8-Port Desktop Switch",
+    "spec": "More wired ports",
+    "price": "R173",
+    "handle": "tp-link-8-port-desktop-switch",
+    "url": "https://ubratech.co.za/products/tp-link-8-port-desktop-switch",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SF1008D_2687.jpg"
+   }
+  ],
+  "rack": [
+   {
+    "brand": "Zone",
+    "title": "Zone Lite 4U Wall-Mount Cabinet (with fan)",
+    "spec": "Houses your equipment",
+    "price": "R1 647",
+    "handle": "zone-lite-4u-400-100-deep-swing-frame-wall-mount-cabinet-with-fan",
+    "url": "https://ubratech.co.za/products/zone-lite-4u-400-100-deep-swing-frame-wall-mount-cabinet-with-fan",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/i/m/image001_3c6f.png"
+   },
+   {
+    "brand": "Zone",
+    "title": "Zone Lite 6U Wall-Mount Cabinet",
+    "spec": "Houses your equipment",
+    "price": "R2 050",
+    "handle": "zone-lite-6u-400-200mm-swing-frame-black-wall-mount-cabinet",
+    "url": "https://ubratech.co.za/products/zone-lite-6u-400-200mm-swing-frame-black-wall-mount-cabinet",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/i/m/image001_3918.png"
+   }
+  ]
+ },
+ "wifi_ap": [
+  {
+   "brand": "TP-Link",
+   "title": "TP-Link N300 Wall-Plate Access Point",
+   "spec": "Wall AP · strong coverage",
+   "price": "R484",
+   "handle": "tp-link-n300-300mbps-wireless-n-wall-plate-access-point",
+   "url": "https://ubratech.co.za/products/tp-link-n300-300mbps-wireless-n-wall-plate-access-point",
+   "image": "https://www.pinnacle.co.za/media/catalog/product/E/A/EAP115_WALL_605e.png"
+  },
+  {
+   "brand": "TP-Link",
+   "title": "TP-Link Ceiling-Mount Access Point",
+   "spec": "Ceiling AP · strong coverage",
+   "price": "R533",
+   "handle": "tp-link-300mbps-wireless-n-ceiling-mount-access-point",
+   "url": "https://ubratech.co.za/products/tp-link-300mbps-wireless-n-ceiling-mount-access-point",
+   "image": "https://www.pinnacle.co.za/media/catalog/product/E/A/EAP115_7d9d.jpg"
+  }
+ ]
+}
