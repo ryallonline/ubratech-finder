@@ -17,7 +17,7 @@
     "price": "R9 686",
     "handle": "hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
     "url": "https://ubratech.co.za/products/hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/DF6L7ET_default_6276409a-9266-4821-9c98-bc0ffe110400.jpg"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DF6L7ET_default.jpg"
    },
    {
     "brand": "HP",
@@ -37,7 +37,7 @@
     "price": "R13 289",
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/83GW006CZA_default.jpg"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
     "brand": "Lenovo",
@@ -46,13 +46,13 @@
     "price": "R14 779",
     "handle": "lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/Lenovo.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA_default.jpg"
    },
    {
     "brand": "Dell",
     "title": "Dell Pro 15 Essential 15.6\" Core i5 8GB 512GB Win 11 Pro",
     "spec": "Core i5 · 8GB RAM · 512GB SSD",
-    "price": "R14 725",
+    "price": "R14 702",
     "handle": "dell-pro-15-essential-15-6-core-i5-8gb-512gb-win-11-pro-notebook",
     "url": "https://ubratech.co.za/products/dell-pro-15-essential-15-6-core-i5-8gb-512gb-win-11-pro-notebook",
     "image": "https://www.pinnacle.co.za/media/catalog/product/P/V/PV15250_RPLU_001_P_4c46.jpg"
@@ -66,7 +66,7 @@
     "price": "R20 063",
     "handle": "microsoft-surface-laptop-snapdragon-x-plus-laptop-16gb-ep2-31279",
     "url": "https://ubratech.co.za/products/microsoft-surface-laptop-snapdragon-x-plus-laptop-16gb-ep2-31279",
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/EP2-31279_default_16db9a6c-e885-4771-b64c-4a47ce506bd1.jpg"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/EP2-31279_default.jpg"
    },
    {
     "brand": "Lenovo",
@@ -104,16 +104,16 @@
     "price": "R45 953",
     "handle": "hp-zbook-8-g1i-laptop-core-ultra-7-32gb-1tb-ssd-cg0g9et",
     "url": "https://ubratech.co.za/products/hp-zbook-8-g1i-laptop-core-ultra-7-32gb-1tb-ssd-cg0g9et",
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/CG0G9ET_default_9c97097f-cfb0-4192-91f8-cbd0bbfbd987.jpg"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/CG0G9ET_default.jpg"
    },
    {
     "brand": "HP",
     "title": "HP ZBook 8 G1i — Core Ultra 7 · 512GB SSD · RTX",
     "spec": "RTX · Core Ultra 7 · 512GB SSD",
-    "price": "R37 681",
+    "price": "R42 612",
     "handle": "hp-zbook-8-g1i-laptop-core-ultra-7-512gb-ssd-cg0k8et",
     "url": "https://ubratech.co.za/products/hp-zbook-8-g1i-laptop-core-ultra-7-512gb-ssd-cg0k8et",
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/CG0K8ET_default_2a4488e8-dcec-42ae-8e59-8c7a556949c2.jpg"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/CG0K8ET_default.jpg"
    }
   ]
  },
@@ -126,7 +126,7 @@
     "price": "R13 915",
     "handle": "dell-pro-slim-essential-qvs1260-desktop-pc-core-i3-bto001_qvs1260_emea",
     "url": "https://ubratech.co.za/products/dell-pro-slim-essential-qvs1260-desktop-pc-core-i3-bto001_qvs1260_emea",
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/BTO001_QVS1260_EMEA_default.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO001_QVS1260_EMEA_default.png"
    },
    {
     "brand": "Lenovo",
@@ -155,7 +155,7 @@
     "price": "R25 531",
     "handle": "dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
     "url": "https://ubratech.co.za/products/dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/BTO105_QCS1250_EMEA_default_5c0dae23-1983-4ccb-8b1c-714ac67f8c80.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO105_QCS1250_EMEA_default.png"
    }
   ],
   "high": [
@@ -166,7 +166,7 @@
     "price": "R25 531",
     "handle": "dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
     "url": "https://ubratech.co.za/products/dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/BTO105_QCS1250_EMEA_default_5c0dae23-1983-4ccb-8b1c-714ac67f8c80.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO105_QCS1250_EMEA_default.png"
    },
    {
     "brand": "Dell",
@@ -175,7 +175,7 @@
     "price": "R26 236",
     "handle": "dell-pro-micro-qcm1250-desktop-pc-core-ultra-5-16gb-bto106_qcm1250_emea",
     "url": "https://ubratech.co.za/products/dell-pro-micro-qcm1250-desktop-pc-core-ultra-5-16gb-bto106_qcm1250_emea",
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/BTO106_QCM1250_EMEA_default_b6140ccb-8b2f-4325-bc95-e60997b6a68d.jpg"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO106_QCM1250_EMEA_default.jpg"
    }
   ],
   "creator": [
@@ -186,7 +186,7 @@
     "price": "R45 088",
     "handle": "dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-512gb-ssd-fct2250-u7-16512gb-8gfx",
     "url": "https://ubratech.co.za/products/dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-512gb-ssd-fct2250-u7-16512gb-8gfx",
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/FCT2250-U7-16512GB-8GFX_default_372195bb-8fb4-49bf-85cb-3b3518020f83.jpg"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/FCT2250-U7-16512GB-8GFX_default.jpg"
    }
   ]
  },
@@ -239,7 +239,7 @@
     "price": "R45 088",
     "handle": "dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-512gb-ssd-fct2250-u7-16512gb-8gfx",
     "url": "https://ubratech.co.za/products/dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-512gb-ssd-fct2250-u7-16512gb-8gfx",
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/FCT2250-U7-16512GB-8GFX_default_372195bb-8fb4-49bf-85cb-3b3518020f83.jpg"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/FCT2250-U7-16512GB-8GFX_default.jpg"
    }
   ]
  },
@@ -498,7 +498,7 @@
     "price": "R4 788",
     "handle": "canon-gx2040-megatank-maxify-business-range-wireless-all-in-one-printer-6171c021aa",
     "url": "https://ubratech.co.za/products/canon-gx2040-megatank-maxify-business-range-wireless-all-in-one-printer-6171c021aa",
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/6171C021AA_default_b7556c8a-8a5e-4d43-ab70-e6d60cd63d6c.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/6171C021AA_default.png"
    },
    {
     "brand": "HP",
@@ -507,7 +507,7 @@
     "price": "R8 382",
     "handle": "hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
     "url": "https://ubratech.co.za/products/hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/4WF66A_default_3893440e-7d87-441f-9388-9fa0750bcf9c.jpg"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    }
   ],
   "volume": [
