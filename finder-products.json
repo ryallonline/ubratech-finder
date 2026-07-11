@@ -14,10 +14,10 @@
     "brand": "HP",
     "title": "HP 250 G9 15.6\" Core i3 16GB 256GB Win 11 Pro Notebook",
     "spec": "Core i3 · 16GB RAM · 256GB SSD",
-    "price": "R9 686",
+    "price": "R11 549",
     "handle": "hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
     "url": "https://ubratech.co.za/products/hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/DF6L7ET_default_6276409a-9266-4821-9c98-bc0ffe110400.jpg"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DF6L7ET_default.jpg"
    },
    {
     "brand": "HP",
@@ -72,10 +72,9 @@
     "brand": "Lenovo",
     "title": "Lenovo ThinkBook 16 — Core Ultra 7 · 16GB · 512GB SSD",
     "spec": "Core Ultra 7 · 16GB RAM · 512GB SSD",
-    "price": "R19 996",
+    "price": "R20 120",
     "handle": "lenovo-tb-16-ial-u7-255h-16gb-ddr5-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-16-0-wuxga-300nits-fhd-camera-wi-fi-ax-2x2-6e-bluetooth-y-fpr-3-cell-3-year-cci",
-    "url": "https://ubratech.co.za/products/lenovo-tb-16-ial-u7-255h-16gb-ddr5-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-16-0-wuxga-300nits-fhd-camera-wi-fi-ax-2x2-6e-bluetooth-y-fpr-3-cell-3-year-cci",
-    "image": "https://s3.amazonaws.com/tarsus.co.za/21SK001AZA_default.jpg"
+    "url": "https://ubratech.co.za/products/lenovo-tb-16-ial-u7-255h-16gb-ddr5-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-16-0-wuxga-300nits-fhd-camera-wi-fi-ax-2x2-6e-bluetooth-y-fpr-3-cell-3-year-cci"
    },
    {
     "brand": "HP",
@@ -216,7 +215,7 @@
     "brand": "Asus",
     "title": "Asus ROG Strix G16 — Ryzen 9 · 16GB · 1TB SSD",
     "spec": "Ryzen 9 · 16GB RAM · 1TB SSD",
-    "price": "R36 198",
+    "price": "R45 953",
     "handle": "asus-rog-strix-g16-16-ryzen-9-16gb-1tb-win-11-home-gaming-notebook",
     "url": "https://ubratech.co.za/products/asus-rog-strix-g16-16-ryzen-9-16gb-1tb-win-11-home-gaming-notebook",
     "image": "https://www.pinnacle.co.za/media/catalog/product/4/_/4_80fe.png"
@@ -225,7 +224,7 @@
     "brand": "Asus",
     "title": "Asus ROG Strix 16 — Ryzen 9 · 16GB · 1TB SSD",
     "spec": "Ryzen 9 · 16GB RAM · 1TB SSD",
-    "price": "R43 439",
+    "price": "R52 908",
     "handle": "asus-rog-strix-16-ryzen-9-16gb-1tb-win-11-home-notebook",
     "url": "https://ubratech.co.za/products/asus-rog-strix-16-ryzen-9-16gb-1tb-win-11-home-notebook",
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/r/Artboard_1_15_100_7231.jpg"
@@ -568,8 +567,7 @@
     "spec": "Sharp camera · colour night vision",
     "price": "R748",
     "handle": "hikvision-720p-cmos-low-light-colour-1mm-analogue-camera",
-    "url": "https://ubratech.co.za/products/hikvision-720p-cmos-low-light-colour-1mm-analogue-camera",
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/E/AE_VC136T_1.0MM_4564.jpg"
+    "url": "https://ubratech.co.za/products/hikvision-720p-cmos-low-light-colour-1mm-analogue-camera"
    }
   ],
   "large": [
