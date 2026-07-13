@@ -91,7 +91,7 @@
     "brand": "Asus",
     "title": "Asus VivoBook (RTX) V3607VH 16\" Core i7 16GB 1TB Win 11 Pro",
     "spec": "RTX · 16GB RAM · 1TB SSD",
-    "price": "R27 944",
+    "price": "R23 969",
     "handle": "asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
     "url": "https://ubratech.co.za/products/asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
     "image": "https://www.pinnacle.co.za/media/catalog/product/V/3/V3607VH_I71610B0X__1__7ef3.png"
@@ -134,7 +134,7 @@
     "price": "R16 244",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/13DM0038SA_default_ba6f59a0-aff7-4d25-b65b-e551f7522195.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    }
   ],
   "mid": [
@@ -145,7 +145,7 @@
     "price": "R16 244",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/13DM0038SA_default_ba6f59a0-aff7-4d25-b65b-e551f7522195.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    },
    {
     "brand": "Dell",
@@ -279,8 +279,7 @@
     "spec": "Colour-accurate",
     "price": "R5 303",
     "handle": "dell-ultrasharp-24-monitor-u2424h-60-47cm-23-8",
-    "url": "https://ubratech.co.za/products/dell-ultrasharp-24-monitor-u2424h-60-47cm-23-8",
-    "image": "http://cdn.cs.1worldsync.com/87/5d/875dcfd7-2045-4edb-b96d-354be9119927.jpg"
+    "url": "https://ubratech.co.za/products/dell-ultrasharp-24-monitor-u2424h-60-47cm-23-8"
    },
    {
     "brand": "Dell",
@@ -567,7 +566,8 @@
     "spec": "Sharp camera · colour night vision",
     "price": "R748",
     "handle": "hikvision-720p-cmos-low-light-colour-1mm-analogue-camera",
-    "url": "https://ubratech.co.za/products/hikvision-720p-cmos-low-light-colour-1mm-analogue-camera"
+    "url": "https://ubratech.co.za/products/hikvision-720p-cmos-low-light-colour-1mm-analogue-camera",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/E/AE_VC136T_1.0MM_4564.jpg"
    }
   ],
   "large": [
