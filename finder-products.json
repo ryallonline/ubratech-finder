@@ -37,7 +37,7 @@
     "price": "R12 970",
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
-    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
+    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/83GW006CZA_default.jpg"
    },
    {
     "brand": "Lenovo",
@@ -46,7 +46,7 @@
     "price": "R14 669",
     "handle": "lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
-    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA_default.jpg"
+    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/Lenovo.png"
    },
    {
     "brand": "Dell",
@@ -194,7 +194,7 @@
     "brand": "Acer",
     "title": "Acer Nitro V 16 Ryzen 7 16GB 1TB 180Hz Gaming Laptop",
     "spec": "16GB RAM · 1TB SSD",
-    "price": "R25 184",
+    "price": "R22 665",
     "handle": "acer-nitro-v-16-r7-260-16gb-1tb-16in-wuxga-ips-180hz-display-5050-windows-11-home",
     "url": "https://ubratech.co.za/products/acer-nitro-v-16-r7-260-16gb-1tb-16in-wuxga-ips-180hz-display-5050-windows-11-home",
     "image": "https://s3.amazonaws.com/tarsus.co.za/NH.QYWEA.002_default.png"
@@ -247,7 +247,7 @@
     "brand": "Dell",
     "title": "Dell E2225HM Pro 21.5\" FHD Monitor",
     "spec": "Crisp everyday screen",
-    "price": "R1 853",
+    "price": "R1 586",
     "handle": "dell-e2225hm-pro-21-5-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-e2225hm-pro-21-5-fhd-monitor",
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQMZ_4276.jpg"
@@ -543,7 +543,7 @@
     "brand": "Hikvision",
     "title": "Hikvision 2MP Smart Hybrid Light Bullet Camera",
     "spec": "HD camera · night vision",
-    "price": "R479",
+    "price": "R729",
     "handle": "hikvision-2mp-2-8mm-smart-hybrid-light-lamp-camera-with-audio-fixed-bullet-camera",
     "url": "https://ubratech.co.za/products/hikvision-2mp-2-8mm-smart-hybrid-light-lamp-camera-with-audio-fixed-bullet-camera",
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE18D0T_LFS_2.8MM_f4c5.png"
@@ -554,7 +554,7 @@
     "brand": "Hikvision",
     "title": "Hikvision 5MP Colour Audio Turret Camera",
     "spec": "Sharp camera · colour night vision",
-    "price": "R735",
+    "price": "R691",
     "handle": "hikvision-3k-5mp-color-audio-fixed-turret-analogue-camera",
     "url": "https://ubratech.co.za/products/hikvision-3k-5mp-color-audio-fixed-turret-analogue-camera",
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE72KF0T_LFS_2.8MM_7488.jpg"
@@ -574,7 +574,7 @@
     "brand": "Hikvision",
     "title": "Hikvision 2MP Fixed Mini Bullet Network Camera",
     "spec": "IP camera · project-grade",
-    "price": "R1 224",
+    "price": "R1 200",
     "handle": "hikvision-2mp-fixed-mini-bullet-network-camera",
     "url": "https://ubratech.co.za/products/hikvision-2mp-fixed-mini-bullet-network-camera",
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2021G0_LIU_2.8MM_9325.png"
