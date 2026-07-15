@@ -133,7 +133,7 @@
     "price": "R16 470",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/13DM0038SA_default_ba6f59a0-aff7-4d25-b65b-e551f7522195.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    }
   ],
   "mid": [
@@ -144,7 +144,7 @@
     "price": "R16 470",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/13DM0038SA_default_ba6f59a0-aff7-4d25-b65b-e551f7522195.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    },
    {
     "brand": "Dell",
@@ -607,10 +607,9 @@
     "brand": "Microsoft",
     "title": "Microsoft Surface USB-C Travel Hub",
     "spec": "For MacBook / Surface",
-    "price": "R991",
+    "price": "R977",
     "handle": "microsoft-surface-usb-c-travel-hub-black",
-    "url": "https://ubratech.co.za/products/microsoft-surface-usb-c-travel-hub-black",
-    "image": "https://s3.amazonaws.com/tarsus.co.za/1E4-00002_default.png"
+    "url": "https://ubratech.co.za/products/microsoft-surface-usb-c-travel-hub-black"
    }
   ],
   "legacy": [
