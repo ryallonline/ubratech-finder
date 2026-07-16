@@ -130,7 +130,7 @@
     "brand": "Lenovo",
     "title": "Lenovo Neo 50s G6 Desktop — Core Ultra 5 · 16GB · 512GB SSD",
     "spec": "Performance desktop",
-    "price": "R16 470",
+    "price": "R17 250",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
@@ -141,7 +141,7 @@
     "brand": "Lenovo",
     "title": "Lenovo Neo 50s G6 Desktop — Core Ultra 5 · 16GB · 512GB SSD",
     "spec": "Performance desktop",
-    "price": "R16 470",
+    "price": "R17 250",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
@@ -596,7 +596,7 @@
     "brand": "Dell",
     "title": "Dell Pro 4-in-1 USB-C Travel Hub (DA225)",
     "spec": "One cable · power + screens",
-    "price": "R748",
+    "price": "R735",
     "handle": "dell-pro-4-in-1-usb-c-travel-hub-da225",
     "url": "https://ubratech.co.za/products/dell-pro-4-in-1-usb-c-travel-hub-da225",
     "image": "https://s3.amazonaws.com/tarsus.co.za/470-BFBN_default.png"
@@ -650,9 +650,10 @@
     "brand": "Logitech",
     "title": "Logitech Rally Bar Mini (all-in-one video)",
     "spec": "Boardroom video system",
-    "price": "R55 636",
+    "price": "R56 409",
     "handle": "logitech-all-in-one-graphite-mini-rally-bar",
-    "url": "https://ubratech.co.za/products/logitech-all-in-one-graphite-mini-rally-bar"
+    "url": "https://ubratech.co.za/products/logitech-all-in-one-graphite-mini-rally-bar",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/960_001341_3f7e.png"
    }
   ]
  },
