@@ -17,13 +17,13 @@
     "price": "R9 821",
     "handle": "hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
     "url": "https://ubratech.co.za/products/hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DF6L7ET_default.jpg"
+    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/DF6L7ET_default_6276409a-9266-4821-9c98-bc0ffe110400.jpg"
    },
    {
     "brand": "HP",
     "title": "HP 255R G10 15.6\" Ryzen 5 8GB 512GB Win 11 Home Notebook",
     "spec": "Ryzen 5 · 8GB RAM · 512GB SSD",
-    "price": "R10 035",
+    "price": "R10 254",
     "handle": "hp-255r-g10-15-6-ryzen-5-7535u-8gb-512gb-win-11-home-notebook",
     "url": "https://ubratech.co.za/products/hp-255r-g10-15-6-ryzen-5-7535u-8gb-512gb-win-11-home-notebook",
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/0/D0ML7AT_85e8.jpg"
@@ -37,7 +37,7 @@
     "price": "R12 970",
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/83GW006CZA_default.jpg"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
     "brand": "Lenovo",
@@ -46,16 +46,15 @@
     "price": "R14 669",
     "handle": "lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/Lenovo.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA_default.jpg"
    },
    {
     "brand": "Dell",
     "title": "Dell Pro 15 Essential 15.6\" Core i5 8GB 512GB Win 11 Pro",
     "spec": "Core i5 · 8GB RAM · 512GB SSD",
-    "price": "R14 703",
+    "price": "R14 702",
     "handle": "dell-pro-15-essential-15-6-core-i5-8gb-512gb-win-11-pro-notebook",
-    "url": "https://ubratech.co.za/products/dell-pro-15-essential-15-6-core-i5-8gb-512gb-win-11-pro-notebook",
-    "image": "https://www.pinnacle.co.za/media/catalog/product/P/V/PV15250_RPLU_001_P_4c46.jpg"
+    "url": "https://ubratech.co.za/products/dell-pro-15-essential-15-6-core-i5-8gb-512gb-win-11-pro-notebook"
    }
   ],
   "high": [
@@ -80,7 +79,7 @@
     "brand": "HP",
     "title": "HP ProBook 440 G11 14\" Core Ultra 5 16GB 512GB Win 11 Pro",
     "spec": "16GB RAM · 512GB SSD",
-    "price": "R20 525",
+    "price": "R21 003",
     "handle": "hp-probook-440-g11-14-core-u5-16gb-512gb-win-11-pro-silver-notebook",
     "url": "https://ubratech.co.za/products/hp-probook-440-g11-14-core-u5-16gb-512gb-win-11-pro-silver-notebook",
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/3/A38B8ET__3bbe.jpg"
@@ -134,7 +133,7 @@
     "price": "R16 470",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/13DM0038SA_default_ba6f59a0-aff7-4d25-b65b-e551f7522195.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    }
   ],
   "mid": [
@@ -145,7 +144,7 @@
     "price": "R16 470",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/13DM0038SA_default_ba6f59a0-aff7-4d25-b65b-e551f7522195.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    },
    {
     "brand": "Dell",
@@ -692,10 +691,9 @@
     "brand": "Zone",
     "title": "Zone Lite 6U Wall-Mount Cabinet",
     "spec": "Houses your equipment",
-    "price": "R2 078",
+    "price": "R2 050",
     "handle": "zone-lite-6u-400-200mm-swing-frame-black-wall-mount-cabinet",
-    "url": "https://ubratech.co.za/products/zone-lite-6u-400-200mm-swing-frame-black-wall-mount-cabinet",
-    "image": "https://www.pinnacle.co.za/media/catalog/product/i/m/image001_3918.png"
+    "url": "https://ubratech.co.za/products/zone-lite-6u-400-200mm-swing-frame-black-wall-mount-cabinet"
    }
   ]
  },
