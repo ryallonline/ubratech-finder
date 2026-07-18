@@ -12,15 +12,6 @@
    },
    {
     "brand": "HP",
-    "title": "HP 250 G9 15.6\" Core i3 16GB 256GB Win 11 Pro Notebook",
-    "spec": "Core i3 · 16GB RAM · 256GB SSD",
-    "price": "R9 821",
-    "handle": "hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
-    "url": "https://ubratech.co.za/products/hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/DF6L7ET_default_6276409a-9266-4821-9c98-bc0ffe110400.jpg"
-   },
-   {
-    "brand": "HP",
     "title": "HP 255R G10 15.6\" Ryzen 5 8GB 512GB Win 11 Home Notebook",
     "spec": "Ryzen 5 · 8GB RAM · 512GB SSD",
     "price": "R10 254",
@@ -47,14 +38,6 @@
     "handle": "lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
     "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/Lenovo.png"
-   },
-   {
-    "brand": "Dell",
-    "title": "Dell Pro 15 Essential 15.6\" Core i5 8GB 512GB Win 11 Pro",
-    "spec": "Core i5 · 8GB RAM · 512GB SSD",
-    "price": "R14 702",
-    "handle": "dell-pro-15-essential-15-6-core-i5-8gb-512gb-win-11-pro-notebook",
-    "url": "https://ubratech.co.za/products/dell-pro-15-essential-15-6-core-i5-8gb-512gb-win-11-pro-notebook"
    }
   ],
   "high": [
@@ -66,14 +49,6 @@
     "handle": "microsoft-surface-laptop-snapdragon-x-plus-laptop-16gb-ep2-31279",
     "url": "https://ubratech.co.za/products/microsoft-surface-laptop-snapdragon-x-plus-laptop-16gb-ep2-31279",
     "image": "https://s3.amazonaws.com/tarsus.co.za/EP2-31279_default.jpg"
-   },
-   {
-    "brand": "Lenovo",
-    "title": "Lenovo ThinkBook 16 — Core Ultra 7 · 16GB · 512GB SSD",
-    "spec": "Core Ultra 7 · 16GB RAM · 512GB SSD",
-    "price": "R20 120",
-    "handle": "lenovo-tb-16-ial-u7-255h-16gb-ddr5-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-16-0-wuxga-300nits-fhd-camera-wi-fi-ax-2x2-6e-bluetooth-y-fpr-3-cell-3-year-cci",
-    "url": "https://ubratech.co.za/products/lenovo-tb-16-ial-u7-255h-16gb-ddr5-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-16-0-wuxga-300nits-fhd-camera-wi-fi-ax-2x2-6e-bluetooth-y-fpr-3-cell-3-year-cci"
    },
    {
     "brand": "HP",
@@ -176,17 +151,7 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO106_QCM1250_EMEA_default.jpg"
    }
   ],
-  "creator": [
-   {
-    "brand": "Dell",
-    "title": "Dell Pro Max Tower T2 Workstation — Core Ultra 7 · RTX",
-    "spec": "Workstation · pro graphics",
-    "price": "R45 088",
-    "handle": "dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-512gb-ssd-fct2250-u7-16512gb-8gfx",
-    "url": "https://ubratech.co.za/products/dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-512gb-ssd-fct2250-u7-16512gb-8gfx",
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/FCT2250-U7-16512GB-8GFX_default_372195bb-8fb4-49bf-85cb-3b3518020f83.jpg"
-   }
-  ]
+  "creator": []
  },
  "gaming": {
   "entry": [
@@ -229,17 +194,7 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/r/Artboard_1_15_100_7231.jpg"
    }
   ],
-  "desktop": [
-   {
-    "brand": "Dell",
-    "title": "Dell Pro Max Tower T2 Workstation — Core Ultra 7 · NVIDIA RTX",
-    "spec": "NVIDIA RTX · Core Ultra 7 · 16GB · 512GB SSD",
-    "price": "R45 088",
-    "handle": "dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-512gb-ssd-fct2250-u7-16512gb-8gfx",
-    "url": "https://ubratech.co.za/products/dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-512gb-ssd-fct2250-u7-16512gb-8gfx",
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/FCT2250-U7-16512GB-8GFX_default_372195bb-8fb4-49bf-85cb-3b3518020f83.jpg"
-   }
-  ]
+  "desktop": []
  },
  "monitors": {
   "office": [
@@ -272,14 +227,6 @@
    }
   ],
   "creative": [
-   {
-    "brand": "Dell",
-    "title": "Dell UltraSharp 24 — U2424H",
-    "spec": "Colour-accurate",
-    "price": "R5 303",
-    "handle": "dell-ultrasharp-24-monitor-u2424h-60-47cm-23-8",
-    "url": "https://ubratech.co.za/products/dell-ultrasharp-24-monitor-u2424h-60-47cm-23-8"
-   },
    {
     "brand": "Dell",
     "title": "Dell UltraSharp 24 USB-C Hub — U2424HE",
@@ -602,16 +549,7 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/470-BFBN_default.png"
    }
   ],
-  "mac": [
-   {
-    "brand": "Microsoft",
-    "title": "Microsoft Surface USB-C Travel Hub",
-    "spec": "For MacBook / Surface",
-    "price": "R977",
-    "handle": "microsoft-surface-usb-c-travel-hub-black",
-    "url": "https://ubratech.co.za/products/microsoft-surface-usb-c-travel-hub-black"
-   }
-  ],
+  "mac": [],
   "legacy": [
    {
     "brand": "Port",
@@ -678,24 +616,7 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SF1008D_2687.jpg"
    }
   ],
-  "rack": [
-   {
-    "brand": "Zone",
-    "title": "Zone Lite 4U Wall-Mount Cabinet (with fan)",
-    "spec": "Houses your equipment",
-    "price": "R1 647",
-    "handle": "zone-lite-4u-400-100-deep-swing-frame-wall-mount-cabinet-with-fan",
-    "url": "https://ubratech.co.za/products/zone-lite-4u-400-100-deep-swing-frame-wall-mount-cabinet-with-fan"
-   },
-   {
-    "brand": "Zone",
-    "title": "Zone Lite 6U Wall-Mount Cabinet",
-    "spec": "Houses your equipment",
-    "price": "R2 050",
-    "handle": "zone-lite-6u-400-200mm-swing-frame-black-wall-mount-cabinet",
-    "url": "https://ubratech.co.za/products/zone-lite-6u-400-200mm-swing-frame-black-wall-mount-cabinet"
-   }
-  ]
+  "rack": []
  },
  "wifi_ap": [
   {
