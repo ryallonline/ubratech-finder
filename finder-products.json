@@ -112,16 +112,6 @@
  "desktop": {
   "entry": [
    {
-    "brand": "Dell",
-    "title": "Dell Pro Slim Essential QVS1260 Desktop — Core i3 8GB 512GB",
-    "spec": "Everyday desktop PC",
-    "price": "R14 109",
-    "handle": "dell-pro-slim-essential-qvs1260-desktop-pc-core-i3-bto001_qvs1260_emea",
-    "url": "https://ubratech.co.za/products/dell-pro-slim-essential-qvs1260-desktop-pc-core-i3-bto001_qvs1260_emea",
-    "qty": 1,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO001_QVS1260_EMEA_default.png"
-   },
-   {
     "brand": "Lenovo",
     "title": "Lenovo Neo 50s G6 Desktop — Core Ultra 5 · 16GB · 512GB SSD",
     "spec": "Performance desktop",
@@ -336,16 +326,6 @@
     "url": "https://ubratech.co.za/products/lalela-r1800-wi-fi-ups-for-router-and-ont-32wh-2-3-hour-runtime",
     "qty": 14,
     "image": "https://s3.amazonaws.com/tarsus.co.za/LAL-R1800_default.png"
-   },
-   {
-    "brand": "Lalela",
-    "title": "Lalela Wi-Fi UPS for router (4–6 hour runtime)",
-    "spec": "Keeps Wi-Fi on through outages",
-    "price": "R379",
-    "handle": "lalela-r1800-wi-fi-ups-for-router-and-ont-48-8wh-4-6-hour-runtime",
-    "url": "https://ubratech.co.za/products/lalela-r1800-wi-fi-ups-for-router-and-ont-48-8wh-4-6-hour-runtime",
-    "qty": 1,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/LAL-R1818_default.jpg"
    }
   ],
   "desk": [
