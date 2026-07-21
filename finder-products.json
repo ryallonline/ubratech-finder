@@ -47,7 +47,7 @@
     "brand": "Dell",
     "title": "Dell Pro 15 Essential 15.6\" Core i5 8GB 512GB Win 11 Pro",
     "spec": "Core i5 · 8GB RAM · 512GB SSD",
-    "price": "R13 544",
+    "price": "R14 910",
     "handle": "dell-pro-15-essential-15-6-core-i5-8gb-512gb-win-11-pro-notebook",
     "url": "https://ubratech.co.za/products/dell-pro-15-essential-15-6-core-i5-8gb-512gb-win-11-pro-notebook",
     "qty": 1,
@@ -263,10 +263,10 @@
     "brand": "Dell",
     "title": "Dell E2225HM Pro 21.5\" FHD Monitor",
     "spec": "Crisp everyday screen",
-    "price": "R1 586",
+    "price": "R1 888",
     "handle": "dell-e2225hm-pro-21-5-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-e2225hm-pro-21-5-fhd-monitor",
-    "qty": 1,
+    "qty": 4,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQMZ_4276.jpg"
    },
    {
@@ -286,7 +286,7 @@
     "price": "R2 286",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 879,
+    "qty": 876,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ],
@@ -310,7 +310,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 784,
+    "qty": 782,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -352,7 +352,7 @@
     "price": "R2 286",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 879,
+    "qty": 876,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ]
@@ -378,7 +378,7 @@
     "price": "R1 010",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 215,
+    "qty": 213,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -422,7 +422,7 @@
     "price": "R9 533",
     "handle": "apc-smart-ups-1000va-lcd-230v-with-smartconnect",
     "url": "https://ubratech.co.za/products/apc-smart-ups-1000va-lcd-230v-with-smartconnect",
-    "qty": 6,
+    "qty": 5,
     "image": "https://s3.amazonaws.com/tarsus.co.za/SMT1000IC_default.jpg"
    },
    {
@@ -720,7 +720,7 @@
     "price": "R628",
     "handle": "hp-poly-blackwire-3220-usb-c-wired-black-headset",
     "url": "https://ubratech.co.za/products/hp-poly-blackwire-3220-usb-c-wired-black-headset",
-    "qty": 113,
+    "qty": 87,
     "image": "https://www.pinnacle.co.za/media/catalog/product/8/X/8X228AA_74f8.png"
    }
   ],
@@ -953,7 +953,7 @@
     "handle": "xiaomi-robot-vacuum-s40c",
     "url": "https://ubratech.co.za/products/xiaomi-robot-vacuum-s40c",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/BHR9664EU_Xiaomi-Robot-Vacuum-S40C_wr_08a.jpg",
-    "qty": 108
+    "qty": 107
    }
   ],
   "audio": [
