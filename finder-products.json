@@ -30,8 +30,8 @@
     "price": "R12 575",
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
+    "qty": 98,
+    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/83GW006CZA_default.jpg"
    },
    {
     "brand": "Lenovo",
@@ -41,17 +41,7 @@
     "handle": "lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
     "qty": 100,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA_default.jpg"
-   },
-   {
-    "brand": "Dell",
-    "title": "Dell Pro 15 Essential 15.6\" Core i5 8GB 512GB Win 11 Pro",
-    "spec": "Core i5 · 8GB RAM · 512GB SSD",
-    "price": "R14 910",
-    "handle": "dell-pro-15-essential-15-6-core-i5-8gb-512gb-win-11-pro-notebook",
-    "url": "https://ubratech.co.za/products/dell-pro-15-essential-15-6-core-i5-8gb-512gb-win-11-pro-notebook",
-    "qty": 1,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/P/V/PV15250_RPLU_001_P_4c46.jpg"
+    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/Lenovo.png"
    }
   ],
   "high": [
@@ -81,7 +71,7 @@
     "brand": "Asus",
     "title": "Asus VivoBook (RTX) V3607VH 16\" Core i7 16GB 1TB Win 11 Pro",
     "spec": "RTX · 16GB RAM · 1TB SSD",
-    "price": "R24 302",
+    "price": "R24 089",
     "handle": "asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
     "url": "https://ubratech.co.za/products/asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
     "qty": 129,
@@ -119,7 +109,7 @@
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "qty": 45,
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/13DM0038SA_default_ba6f59a0-aff7-4d25-b65b-e551f7522195.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    }
   ],
   "mid": [
@@ -131,7 +121,7 @@
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "qty": 45,
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/13DM0038SA_default_ba6f59a0-aff7-4d25-b65b-e551f7522195.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    },
    {
     "brand": "Dell",
@@ -175,7 +165,7 @@
     "handle": "dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-1tb-ssd-fct2250-u7-161tb-8gfx",
     "url": "https://ubratech.co.za/products/dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-1tb-ssd-fct2250-u7-161tb-8gfx",
     "image": "https://s3.amazonaws.com/tarsus.co.za/FCT2250-U7-161TB-8GFX_default.jpg",
-    "qty": 13
+    "qty": 12
    },
    {
     "brand": "Asus",
@@ -253,7 +243,7 @@
     "handle": "dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-1tb-ssd-fct2250-u7-161tb-8gfx",
     "url": "https://ubratech.co.za/products/dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-1tb-ssd-fct2250-u7-161tb-8gfx",
     "image": "https://s3.amazonaws.com/tarsus.co.za/FCT2250-U7-161TB-8GFX_default.jpg",
-    "qty": 13
+    "qty": 12
    }
   ]
  },
@@ -286,7 +276,7 @@
     "price": "R2 286",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 876,
+    "qty": 875,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ],
@@ -310,7 +300,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 782,
+    "qty": 779,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -352,7 +342,7 @@
     "price": "R2 286",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 876,
+    "qty": 875,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ]
@@ -378,7 +368,7 @@
     "price": "R1 010",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 213,
+    "qty": 208,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -616,7 +606,7 @@
     "price": "R691",
     "handle": "hikvision-3k-5mp-color-audio-fixed-turret-analogue-camera",
     "url": "https://ubratech.co.za/products/hikvision-3k-5mp-color-audio-fixed-turret-analogue-camera",
-    "qty": 17,
+    "qty": 6,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE72KF0T_LFS_2.8MM_7488.jpg"
    },
    {
@@ -720,7 +710,7 @@
     "price": "R628",
     "handle": "hp-poly-blackwire-3220-usb-c-wired-black-headset",
     "url": "https://ubratech.co.za/products/hp-poly-blackwire-3220-usb-c-wired-black-headset",
-    "qty": 87,
+    "qty": 2,
     "image": "https://www.pinnacle.co.za/media/catalog/product/8/X/8X228AA_74f8.png"
    }
   ],
@@ -729,7 +719,7 @@
     "brand": "Logitech",
     "title": "Logitech C920s Pro Full-HD USB Webcam",
     "spec": "Sharp video for meeting rooms",
-    "price": "R1 724",
+    "price": "R1 700",
     "handle": "logitech-c920s-pro-full-hd-usb-webcam",
     "url": "https://ubratech.co.za/products/logitech-c920s-pro-full-hd-usb-webcam",
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/960_001252_9ebb.jpg",
@@ -813,7 +803,7 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 191
+    "qty": 178
    },
    {
     "brand": "Seagate",
@@ -1017,7 +1007,7 @@
     "handle": "gizzu-surge-protector-10a-kettle-plug-cable-1-5m",
     "url": "https://ubratech.co.za/products/gizzu-surge-protector-10a-kettle-plug-cable-1-5m",
     "image": "https://www.syntech.co.za/wp-content/uploads/2023/08/GSPIEC1_wr_01a.jpg",
-    "qty": 26
+    "qty": 24
    }
   ],
   "comfort": [
@@ -1035,7 +1025,7 @@
     "brand": "Logitech",
     "title": "Logitech MK540 Advanced Wireless Combo",
     "spec": "Keyboard & mouse · palm rest",
-    "price": "R831",
+    "price": "R839",
     "handle": "logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "url": "https://ubratech.co.za/products/logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "image": "https://s3.amazonaws.com/tarsus.co.za/920-008685_default.jpg",
@@ -1045,7 +1035,7 @@
     "brand": "Logitech",
     "title": "Logitech C920s Pro Full-HD Webcam",
     "spec": "Sharp video for calls",
-    "price": "R1 724",
+    "price": "R1 700",
     "handle": "logitech-c920s-pro-full-hd-usb-webcam",
     "url": "https://ubratech.co.za/products/logitech-c920s-pro-full-hd-usb-webcam",
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/960_001252_9ebb.jpg",
