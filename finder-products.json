@@ -41,7 +41,7 @@
     "handle": "lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
     "qty": 100,
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/Lenovo.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA_default.jpg"
    }
   ],
   "high": [
@@ -109,7 +109,7 @@
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "qty": 44,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
+    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/13DM0038SA_default_ba6f59a0-aff7-4d25-b65b-e551f7522195.png"
    }
   ],
   "mid": [
@@ -121,7 +121,7 @@
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "qty": 44,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
+    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/13DM0038SA_default_ba6f59a0-aff7-4d25-b65b-e551f7522195.png"
    },
    {
     "brand": "Dell",
@@ -253,10 +253,10 @@
     "brand": "Dell",
     "title": "Dell E2225HM Pro 21.5\" FHD Monitor",
     "spec": "Crisp everyday screen",
-    "price": "R1 888",
+    "price": "R1 910",
     "handle": "dell-e2225hm-pro-21-5-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-e2225hm-pro-21-5-fhd-monitor",
-    "qty": 2,
+    "qty": 1145,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQMZ_4276.jpg"
    },
    {
