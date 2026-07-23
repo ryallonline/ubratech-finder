@@ -286,7 +286,7 @@
     "price": "R2 286",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 915,
+    "qty": 911,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ],
@@ -310,7 +310,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 670,
+    "qty": 669,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -352,7 +352,7 @@
     "price": "R2 286",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 915,
+    "qty": 911,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ]
@@ -572,16 +572,6 @@
     "url": "https://ubratech.co.za/products/bixolon-xd3-40t-4-direct-thermal-label-printer",
     "image": "https://www.pinnacle.co.za/media/catalog/product/X/D/XD3_40TEK_PNC_3_ca89.png",
     "qty": 21
-   },
-   {
-    "brand": "Zebra",
-    "title": "Zebra ZT411 4\" Thermal Transfer Label Printer",
-    "spec": "Industrial · high volume",
-    "price": "R19 580",
-    "handle": "zebra-zt411-4-thermal-transfer-label-printer",
-    "url": "https://ubratech.co.za/products/zebra-zt411-4-thermal-transfer-label-printer",
-    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/T/ZT41142_T0E0000Z_4906.png",
-    "qty": 1
    }
   ]
  },
@@ -662,7 +652,7 @@
     "price": "R735",
     "handle": "dell-pro-4-in-1-usb-c-travel-hub-da225",
     "url": "https://ubratech.co.za/products/dell-pro-4-in-1-usb-c-travel-hub-da225",
-    "qty": 15,
+    "qty": 12,
     "image": "https://s3.amazonaws.com/tarsus.co.za/470-BFBN_default.png"
    }
   ],
@@ -814,16 +804,6 @@
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
     "qty": 170
-   },
-   {
-    "brand": "Seagate",
-    "title": "Seagate Basic 2TB USB-A Portable HDD",
-    "spec": "Plug-in bulk storage",
-    "price": "R2 143",
-    "handle": "seagate-basic-2tb-usb-a-portable-hdd",
-    "url": "https://ubratech.co.za/products/seagate-basic-2tb-usb-a-portable-hdd",
-    "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/STJL2000400_c835.jpg",
-    "qty": 39
    },
    {
     "brand": "Seagate",
