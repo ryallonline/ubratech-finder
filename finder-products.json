@@ -641,6 +641,40 @@
     "qty": 24,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2021G0_LIU_2.8MM_9325.png"
    }
+  ],
+  "ip_small": [
+   {
+    "brand": "Hikvision",
+    "title": "Hikvision 4MP DarkFighter IP Dome Camera",
+    "spec": "IP camera · 4MP · AcuSense",
+    "price": "R2 150",
+    "handle": "hikvision-4mp-darkfighter-fixed-dome-ip-camera",
+    "url": "https://ubratech.co.za/products/hikvision-4mp-darkfighter-fixed-dome-ip-camera",
+    "qty": null,
+    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/DS_2CD2146G2H_ISU_2.8MM_1_061c.png?v=1778327358"
+   },
+   {
+    "brand": "Hikvision",
+    "title": "Hikvision 2MP Mini Bullet Network Camera",
+    "spec": "IP camera · 2MP · compact",
+    "price": "R1 200",
+    "handle": "hikvision-2mp-fixed-mini-bullet-network-camera",
+    "url": "https://ubratech.co.za/products/hikvision-2mp-fixed-mini-bullet-network-camera",
+    "qty": 24,
+    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/DS_2CD2021G0_LIU_2.8MM_9325_e85a74b3-ce3c-4216-b481-48010688e6e1.png?v=1781597935"
+   }
+  ],
+  "ip_medium": [
+   {
+    "brand": "Hikvision",
+    "title": "Hikvision 4MP DarkFighter IP Dome Camera",
+    "spec": "IP camera · 4MP · AcuSense",
+    "price": "R2 150",
+    "handle": "hikvision-4mp-darkfighter-fixed-dome-ip-camera",
+    "url": "https://ubratech.co.za/products/hikvision-4mp-darkfighter-fixed-dome-ip-camera",
+    "qty": null,
+    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/DS_2CD2146G2H_ISU_2.8MM_1_061c.png?v=1778327358"
+   }
   ]
  },
  "dock": {
