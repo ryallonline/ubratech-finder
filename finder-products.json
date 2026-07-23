@@ -175,7 +175,7 @@
     "handle": "dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-1tb-ssd-fct2250-u7-161tb-8gfx",
     "url": "https://ubratech.co.za/products/dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-1tb-ssd-fct2250-u7-161tb-8gfx",
     "image": "https://s3.amazonaws.com/tarsus.co.za/FCT2250-U7-161TB-8GFX_default.jpg",
-    "qty": 3
+    "qty": 7
    },
    {
     "brand": "Asus",
@@ -253,7 +253,7 @@
     "handle": "dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-1tb-ssd-fct2250-u7-161tb-8gfx",
     "url": "https://ubratech.co.za/products/dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-1tb-ssd-fct2250-u7-161tb-8gfx",
     "image": "https://s3.amazonaws.com/tarsus.co.za/FCT2250-U7-161TB-8GFX_default.jpg",
-    "qty": 3
+    "qty": 7
    }
   ]
  },
@@ -276,7 +276,7 @@
     "price": "R1 813",
     "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
     "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 13,
+    "qty": 10,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
    },
    {
@@ -310,7 +310,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 676,
+    "qty": 670,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -342,7 +342,7 @@
     "price": "R1 813",
     "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
     "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 13,
+    "qty": 10,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
    },
    {
@@ -378,7 +378,7 @@
     "price": "R1 010",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 202,
+    "qty": 201,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -400,7 +400,7 @@
     "price": "R2 972",
     "handle": "eaton-5e-1600va-gen2-usb-iec-ups",
     "url": "https://ubratech.co.za/products/eaton-5e-1600va-gen2-usb-iec-ups",
-    "qty": 16,
+    "qty": 17,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
    },
    {
@@ -581,7 +581,7 @@
     "handle": "zebra-zt411-4-thermal-transfer-label-printer",
     "url": "https://ubratech.co.za/products/zebra-zt411-4-thermal-transfer-label-printer",
     "image": "https://www.pinnacle.co.za/media/catalog/product/Z/T/ZT41142_T0E0000Z_4906.png",
-    "qty": 2
+    "qty": 1
    }
   ]
  },
@@ -640,40 +640,6 @@
     "url": "https://ubratech.co.za/products/hikvision-2mp-fixed-mini-bullet-network-camera",
     "qty": 24,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2021G0_LIU_2.8MM_9325.png"
-   }
-  ],
-  "ip_small": [
-   {
-    "brand": "Hikvision",
-    "title": "Hikvision 4MP DarkFighter IP Dome Camera",
-    "spec": "IP camera · 4MP · AcuSense",
-    "price": "R2 150",
-    "handle": "hikvision-4mp-darkfighter-fixed-dome-ip-camera",
-    "url": "https://ubratech.co.za/products/hikvision-4mp-darkfighter-fixed-dome-ip-camera",
-    "qty": null,
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/DS_2CD2146G2H_ISU_2.8MM_1_061c.png?v=1778327358"
-   },
-   {
-    "brand": "Hikvision",
-    "title": "Hikvision 2MP Mini Bullet Network Camera",
-    "spec": "IP camera · 2MP · compact",
-    "price": "R1 200",
-    "handle": "hikvision-2mp-fixed-mini-bullet-network-camera",
-    "url": "https://ubratech.co.za/products/hikvision-2mp-fixed-mini-bullet-network-camera",
-    "qty": 24,
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/DS_2CD2021G0_LIU_2.8MM_9325_e85a74b3-ce3c-4216-b481-48010688e6e1.png?v=1781597935"
-   }
-  ],
-  "ip_medium": [
-   {
-    "brand": "Hikvision",
-    "title": "Hikvision 4MP DarkFighter IP Dome Camera",
-    "spec": "IP camera · 4MP · AcuSense",
-    "price": "R2 150",
-    "handle": "hikvision-4mp-darkfighter-fixed-dome-ip-camera",
-    "url": "https://ubratech.co.za/products/hikvision-4mp-darkfighter-fixed-dome-ip-camera",
-    "qty": null,
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/DS_2CD2146G2H_ISU_2.8MM_1_061c.png?v=1778327358"
    }
   ]
  },
@@ -751,10 +717,10 @@
     "brand": "HP",
     "title": "HP Poly Blackwire 3220 USB-C Headset",
     "spec": "Clear-audio headset",
-    "price": "R628",
+    "price": "R666",
     "handle": "hp-poly-blackwire-3220-usb-c-wired-black-headset",
     "url": "https://ubratech.co.za/products/hp-poly-blackwire-3220-usb-c-wired-black-headset",
-    "qty": 1,
+    "qty": 100,
     "image": "https://www.pinnacle.co.za/media/catalog/product/8/X/8X228AA_74f8.png"
    }
   ],
@@ -847,7 +813,17 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 175
+    "qty": 170
+   },
+   {
+    "brand": "Seagate",
+    "title": "Seagate Basic 2TB USB-A Portable HDD",
+    "spec": "Plug-in bulk storage",
+    "price": "R2 143",
+    "handle": "seagate-basic-2tb-usb-a-portable-hdd",
+    "url": "https://ubratech.co.za/products/seagate-basic-2tb-usb-a-portable-hdd",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/STJL2000400_c835.jpg",
+    "qty": 39
    },
    {
     "brand": "Seagate",
@@ -1031,7 +1007,7 @@
     "handle": "lenovo-dual-usb-c-65w-gan-charger",
     "url": "https://ubratech.co.za/products/lenovo-dual-usb-c-65w-gan-charger",
     "image": "https://s3.amazonaws.com/tarsus.co.za/40AW065BEU_default.jpg",
-    "qty": 28
+    "qty": 29
    },
    {
     "brand": "Gizzu",
@@ -1063,7 +1039,7 @@
     "handle": "logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "url": "https://ubratech.co.za/products/logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "image": "https://s3.amazonaws.com/tarsus.co.za/920-008685_default.jpg",
-    "qty": 17
+    "qty": 16
    },
    {
     "brand": "Logitech",
