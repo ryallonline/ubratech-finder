@@ -118,7 +118,7 @@
     "price": "R14 985",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 44,
+    "qty": 50,
     "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    }
   ],
@@ -130,7 +130,7 @@
     "price": "R14 985",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 44,
+    "qty": 50,
     "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    },
    {
@@ -210,7 +210,7 @@
     "price": "R36 225",
     "handle": "dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
     "url": "https://ubratech.co.za/products/dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
-    "qty": 2,
+    "qty": 3,
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/C/AC16250_RPLH_R_006_794e.jpg"
    },
    {
@@ -263,10 +263,10 @@
     "brand": "Dell",
     "title": "Dell E2225HM Pro 21.5\" FHD Monitor",
     "spec": "Crisp everyday screen",
-    "price": "R1 910",
+    "price": "R1 888",
     "handle": "dell-e2225hm-pro-21-5-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-e2225hm-pro-21-5-fhd-monitor",
-    "qty": 1134,
+    "qty": 5,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQMZ_4276.jpg"
    },
    {
@@ -276,7 +276,7 @@
     "price": "R1 813",
     "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
     "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 23,
+    "qty": 16,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
    },
    {
@@ -286,7 +286,7 @@
     "price": "R2 286",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 919,
+    "qty": 915,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ],
@@ -342,7 +342,7 @@
     "price": "R1 813",
     "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
     "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 23,
+    "qty": 16,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
    },
    {
@@ -352,7 +352,7 @@
     "price": "R2 286",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 919,
+    "qty": 915,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ]
@@ -432,7 +432,7 @@
     "price": "R15 739",
     "handle": "apc-smart-ups-1500va-lcd-rm-2u-230v-with-smartconnect",
     "url": "https://ubratech.co.za/products/apc-smart-ups-1500va-lcd-rm-2u-230v-with-smartconnect",
-    "qty": 2,
+    "qty": 1,
     "image": "https://s3.amazonaws.com/tarsus.co.za/SMT1500RMI2UC_default.jpg"
    }
   ]
@@ -504,7 +504,7 @@
     "price": "R11 034",
     "handle": "hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
     "url": "https://ubratech.co.za/products/hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
-    "qty": 84,
+    "qty": 88,
     "image": "https://s3.amazonaws.com/tarsus.co.za/3PZ55A_default.png"
    }
   ],
@@ -548,7 +548,7 @@
     "price": "R11 034",
     "handle": "hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
     "url": "https://ubratech.co.za/products/hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
-    "qty": 84,
+    "qty": 88,
     "image": "https://s3.amazonaws.com/tarsus.co.za/3PZ55A_default.png"
    }
   ],
@@ -720,7 +720,7 @@
     "price": "R628",
     "handle": "hp-poly-blackwire-3220-usb-c-wired-black-headset",
     "url": "https://ubratech.co.za/products/hp-poly-blackwire-3220-usb-c-wired-black-headset",
-    "qty": 2,
+    "qty": 1,
     "image": "https://www.pinnacle.co.za/media/catalog/product/8/X/8X228AA_74f8.png"
    }
   ],
@@ -813,17 +813,7 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 176
-   },
-   {
-    "brand": "Seagate",
-    "title": "Seagate Basic 2TB USB-A Portable HDD",
-    "spec": "Plug-in bulk storage",
-    "price": "R2 143",
-    "handle": "seagate-basic-2tb-usb-a-portable-hdd",
-    "url": "https://ubratech.co.za/products/seagate-basic-2tb-usb-a-portable-hdd",
-    "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/STJL2000400_c835.jpg",
-    "qty": 39
+    "qty": 175
    },
    {
     "brand": "Seagate",
@@ -873,7 +863,7 @@
     "brand": "Asus",
     "title": "Asus TUF Gaming RTX 5060 8GB GDDR7 OC",
     "spec": "Desktop PCIe · 1080p/1440p gaming",
-    "price": "R10 247",
+    "price": "R8 939",
     "handle": "asus-tuf-gaming-geforce-rtx-5060-8gb-gddr7-oc-edition-graphics-card",
     "url": "https://ubratech.co.za/products/asus-tuf-gaming-geforce-rtx-5060-8gb-gddr7-oc-edition-graphics-card",
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/TUF-RTX5060-O8G_ASUS-TUF-Gaming-GeForce-RTX-5060-8GB-GDDR7-OC-Edition-Graphics-Card_wr_01.jpg",
@@ -953,7 +943,7 @@
     "handle": "xiaomi-robot-vacuum-s40c",
     "url": "https://ubratech.co.za/products/xiaomi-robot-vacuum-s40c",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/BHR9664EU_Xiaomi-Robot-Vacuum-S40C_wr_08a.jpg",
-    "qty": 101
+    "qty": 100
    }
   ],
   "audio": [
