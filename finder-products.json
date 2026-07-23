@@ -154,29 +154,9 @@
     "url": "https://ubratech.co.za/products/dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
     "qty": 16,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO105_QCS1250_EMEA_default.png"
-   },
-   {
-    "brand": "Dell",
-    "title": "Dell Pro Micro QCM1250 Desktop — Core Ultra 5 · 16GB",
-    "spec": "Premium desktop",
-    "price": "R26 600",
-    "handle": "dell-pro-micro-qcm1250-desktop-pc-core-ultra-5-16gb-bto106_qcm1250_emea",
-    "url": "https://ubratech.co.za/products/dell-pro-micro-qcm1250-desktop-pc-core-ultra-5-16gb-bto106_qcm1250_emea",
-    "qty": 1,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO106_QCM1250_EMEA_default.jpg"
    }
   ],
   "creator": [
-   {
-    "brand": "Dell",
-    "title": "Dell Pro Max Tower T2 Workstation — Core Ultra 7 · 16GB · 1TB · RTX",
-    "spec": "Workstation · pro graphics",
-    "price": "R54 126",
-    "handle": "dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-1tb-ssd-fct2250-u7-161tb-8gfx",
-    "url": "https://ubratech.co.za/products/dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-1tb-ssd-fct2250-u7-161tb-8gfx",
-    "image": "https://s3.amazonaws.com/tarsus.co.za/FCT2250-U7-161TB-8GFX_default.jpg",
-    "qty": 7
-   },
    {
     "brand": "Asus",
     "title": "Asus ROG G700 Gaming PC — Ultra 5 255F · 16GB DDR5 · 1TB SSD",
@@ -244,16 +224,6 @@
     "url": "https://ubratech.co.za/products/asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg",
     "qty": 12
-   },
-   {
-    "brand": "Dell",
-    "title": "Dell Pro Max Tower T2 — Core Ultra 7 · 16GB · 1TB · RTX",
-    "spec": "RTX workstation tower",
-    "price": "R54 126",
-    "handle": "dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-1tb-ssd-fct2250-u7-161tb-8gfx",
-    "url": "https://ubratech.co.za/products/dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-1tb-ssd-fct2250-u7-161tb-8gfx",
-    "image": "https://s3.amazonaws.com/tarsus.co.za/FCT2250-U7-161TB-8GFX_default.jpg",
-    "qty": 7
    }
   ]
  },
