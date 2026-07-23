@@ -13,6 +13,16 @@
    },
    {
     "brand": "HP",
+    "title": "HP 250 G9 15.6\" Core i3 16GB 256GB Win 11 Pro Notebook",
+    "spec": "Core i3 · 16GB RAM · 256GB SSD",
+    "price": "R9 821",
+    "handle": "hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
+    "url": "https://ubratech.co.za/products/hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
+    "qty": 42,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DF6L7ET_default.jpg"
+   },
+   {
+    "brand": "HP",
     "title": "HP 255R G10 15.6\" Ryzen 5 8GB 512GB Win 11 Home Notebook",
     "spec": "Ryzen 5 · 8GB RAM · 512GB SSD",
     "price": "R10 035",
@@ -30,8 +40,8 @@
     "price": "R12 575",
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
-    "qty": 97,
-    "image": "https://cdn.shopify.com/s/files/1/0666/6505/4304/files/83GW006CZA_default.jpg"
+    "qty": 100,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
     "brand": "Lenovo",
@@ -74,7 +84,7 @@
     "price": "R24 089",
     "handle": "asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
     "url": "https://ubratech.co.za/products/asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
-    "qty": 33,
+    "qty": 32,
     "image": "https://www.pinnacle.co.za/media/catalog/product/V/3/V3607VH_I71610B0X__1__7ef3.png"
    },
    {
@@ -165,7 +175,7 @@
     "handle": "dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-1tb-ssd-fct2250-u7-161tb-8gfx",
     "url": "https://ubratech.co.za/products/dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-1tb-ssd-fct2250-u7-161tb-8gfx",
     "image": "https://s3.amazonaws.com/tarsus.co.za/FCT2250-U7-161TB-8GFX_default.jpg",
-    "qty": 7
+    "qty": 4
    },
    {
     "brand": "Asus",
@@ -243,7 +253,7 @@
     "handle": "dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-1tb-ssd-fct2250-u7-161tb-8gfx",
     "url": "https://ubratech.co.za/products/dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-1tb-ssd-fct2250-u7-161tb-8gfx",
     "image": "https://s3.amazonaws.com/tarsus.co.za/FCT2250-U7-161TB-8GFX_default.jpg",
-    "qty": 7
+    "qty": 4
    }
   ]
  },
@@ -276,7 +286,7 @@
     "price": "R2 286",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 969,
+    "qty": 919,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ],
@@ -300,7 +310,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 756,
+    "qty": 733,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -342,7 +352,7 @@
     "price": "R2 286",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 969,
+    "qty": 919,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ]
@@ -813,7 +823,7 @@
     "handle": "seagate-basic-2tb-usb-a-portable-hdd",
     "url": "https://ubratech.co.za/products/seagate-basic-2tb-usb-a-portable-hdd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/STJL2000400_c835.jpg",
-    "qty": 41
+    "qty": 39
    },
    {
     "brand": "Seagate",
