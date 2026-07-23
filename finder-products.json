@@ -118,7 +118,7 @@
     "price": "R14 985",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 50,
+    "qty": 47,
     "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    }
   ],
@@ -130,7 +130,7 @@
     "price": "R14 985",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 50,
+    "qty": 47,
     "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    },
    {
@@ -175,7 +175,7 @@
     "handle": "dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-1tb-ssd-fct2250-u7-161tb-8gfx",
     "url": "https://ubratech.co.za/products/dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-1tb-ssd-fct2250-u7-161tb-8gfx",
     "image": "https://s3.amazonaws.com/tarsus.co.za/FCT2250-U7-161TB-8GFX_default.jpg",
-    "qty": 4
+    "qty": 3
    },
    {
     "brand": "Asus",
@@ -217,20 +217,20 @@
     "brand": "Asus",
     "title": "Asus ROG Strix G16 — Ryzen 9 · 16GB · 1TB SSD",
     "spec": "Ryzen 9 · 16GB RAM · 1TB SSD",
-    "price": "R42 813",
+    "price": "R36 701",
     "handle": "asus-rog-strix-g16-16-ryzen-9-16gb-1tb-win-11-home-gaming-notebook",
     "url": "https://ubratech.co.za/products/asus-rog-strix-g16-16-ryzen-9-16gb-1tb-win-11-home-gaming-notebook",
-    "qty": 2,
+    "qty": 9,
     "image": "https://www.pinnacle.co.za/media/catalog/product/4/_/4_80fe.png"
    },
    {
     "brand": "Asus",
     "title": "Asus ROG Strix 16 — Ryzen 9 · 16GB · 1TB SSD",
     "spec": "Ryzen 9 · 16GB RAM · 1TB SSD",
-    "price": "R53 643",
+    "price": "R43 110",
     "handle": "asus-rog-strix-16-ryzen-9-16gb-1tb-win-11-home-notebook",
     "url": "https://ubratech.co.za/products/asus-rog-strix-16-ryzen-9-16gb-1tb-win-11-home-notebook",
-    "qty": 9,
+    "qty": 10,
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/r/Artboard_1_15_100_7231.jpg"
    }
   ],
@@ -253,7 +253,7 @@
     "handle": "dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-1tb-ssd-fct2250-u7-161tb-8gfx",
     "url": "https://ubratech.co.za/products/dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-1tb-ssd-fct2250-u7-161tb-8gfx",
     "image": "https://s3.amazonaws.com/tarsus.co.za/FCT2250-U7-161TB-8GFX_default.jpg",
-    "qty": 4
+    "qty": 3
    }
   ]
  },
@@ -276,7 +276,7 @@
     "price": "R1 813",
     "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
     "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 16,
+    "qty": 13,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
    },
    {
@@ -310,7 +310,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 733,
+    "qty": 676,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -342,7 +342,7 @@
     "price": "R1 813",
     "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
     "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 16,
+    "qty": 13,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
    },
    {
@@ -378,7 +378,7 @@
     "price": "R1 010",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 204,
+    "qty": 202,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
