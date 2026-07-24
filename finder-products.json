@@ -246,7 +246,7 @@
     "price": "R1 813",
     "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
     "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 10,
+    "qty": 15,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
    },
    {
@@ -312,7 +312,7 @@
     "price": "R1 813",
     "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
     "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 10,
+    "qty": 15,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
    },
    {
@@ -774,6 +774,16 @@
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
     "qty": 170
+   },
+   {
+    "brand": "Seagate",
+    "title": "Seagate Basic 2TB USB-A Portable HDD",
+    "spec": "Plug-in bulk storage",
+    "price": "R2 143",
+    "handle": "seagate-basic-2tb-usb-a-portable-hdd",
+    "url": "https://ubratech.co.za/products/seagate-basic-2tb-usb-a-portable-hdd",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/STJL2000400_c835.jpg",
+    "qty": 1
    },
    {
     "brand": "Seagate",
