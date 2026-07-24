@@ -18,7 +18,7 @@
     "price": "R9 821",
     "handle": "hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
     "url": "https://ubratech.co.za/products/hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
-    "qty": 37,
+    "qty": 36,
     "image": "https://s3.amazonaws.com/tarsus.co.za/DF6L7ET_default.jpg"
    },
    {
@@ -28,7 +28,7 @@
     "price": "R10 035",
     "handle": "hp-255r-g10-15-6-ryzen-5-7535u-8gb-512gb-win-11-home-notebook",
     "url": "https://ubratech.co.za/products/hp-255r-g10-15-6-ryzen-5-7535u-8gb-512gb-win-11-home-notebook",
-    "qty": 463,
+    "qty": 462,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/0/D0ML7AT_85e8.jpg"
    }
   ],
@@ -236,7 +236,7 @@
     "price": "R1 853",
     "handle": "dell-e2225hm-pro-21-5-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-e2225hm-pro-21-5-fhd-monitor",
-    "qty": 199,
+    "qty": 197,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQMZ_4276.jpg"
    },
    {
@@ -280,7 +280,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 670,
+    "qty": 650,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -542,6 +542,16 @@
     "url": "https://ubratech.co.za/products/bixolon-xd3-40t-4-direct-thermal-label-printer",
     "image": "https://www.pinnacle.co.za/media/catalog/product/X/D/XD3_40TEK_PNC_3_ca89.png",
     "qty": 21
+   },
+   {
+    "brand": "Zebra",
+    "title": "Zebra ZT411 4\" Thermal Transfer Label Printer",
+    "spec": "Industrial · high volume",
+    "price": "R19 580",
+    "handle": "zebra-zt411-4-thermal-transfer-label-printer",
+    "url": "https://ubratech.co.za/products/zebra-zt411-4-thermal-transfer-label-printer",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/T/ZT41142_T0E0000Z_4906.png",
+    "qty": 1
    }
   ]
  },
@@ -773,7 +783,7 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 167
+    "qty": 166
    },
    {
     "brand": "Seagate",
@@ -783,7 +793,7 @@
     "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
-    "qty": 48
+    "qty": 47
    }
   ],
   "memory": [
