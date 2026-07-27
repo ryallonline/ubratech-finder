@@ -81,10 +81,10 @@
     "brand": "Asus",
     "title": "Asus VivoBook (RTX) V3607VH 16\" Core i7 16GB 1TB Win 11 Pro",
     "spec": "RTX · 16GB RAM · 1TB SSD",
-    "price": "R24 089",
+    "price": "R25 184",
     "handle": "asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
     "url": "https://ubratech.co.za/products/asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
-    "qty": 31,
+    "qty": 12,
     "image": "https://www.pinnacle.co.za/media/catalog/product/V/3/V3607VH_I71610B0X__1__7ef3.png"
    },
    {
@@ -236,7 +236,7 @@
     "price": "R1 853",
     "handle": "dell-e2225hm-pro-21-5-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-e2225hm-pro-21-5-fhd-monitor",
-    "qty": 199,
+    "qty": 168,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQMZ_4276.jpg"
    },
    {
@@ -253,14 +253,24 @@
     "brand": "Dell",
     "title": "Dell SE2726HM 27\" FHD Monitor",
     "spec": "Crisp everyday screen",
-    "price": "R2 286",
+    "price": "R2 289",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 892,
+    "qty": 860,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ],
   "creative": [
+   {
+    "brand": "Dell",
+    "title": "Dell UltraSharp 24 — U2424H",
+    "spec": "Colour-accurate",
+    "price": "R5 347",
+    "handle": "dell-ultrasharp-24-monitor-u2424h-60-47cm-23-8",
+    "url": "https://ubratech.co.za/products/dell-ultrasharp-24-monitor-u2424h-60-47cm-23-8",
+    "qty": 5,
+    "image": "http://cdn.cs.1worldsync.com/87/5d/875dcfd7-2045-4edb-b96d-354be9119927.jpg"
+   },
    {
     "brand": "Dell",
     "title": "Dell UltraSharp 24 USB-C Hub — U2424HE",
@@ -319,10 +329,10 @@
     "brand": "Dell",
     "title": "Dell SE2726HM 27\" FHD Monitor",
     "spec": "Slim bezel · great for lots of windows",
-    "price": "R2 286",
+    "price": "R2 289",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 892,
+    "qty": 860,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ]
@@ -413,7 +423,7 @@
     "brand": "Mercusys",
     "title": "Mercusys Halo H50G Mesh Wi-Fi System (2-pack)",
     "spec": "Whole-home Wi-Fi · easy setup",
-    "price": "R989",
+    "price": "R843",
     "handle": "mercusys-halo-h50g-home-mesh-wi-fi-system-2-pack",
     "url": "https://ubratech.co.za/products/mercusys-halo-h50g-home-mesh-wi-fi-system-2-pack",
     "qty": 13,
@@ -425,7 +435,7 @@
     "brand": "TP-Link",
     "title": "TP-Link Deco M4 Mesh Wi-Fi System (3-pack)",
     "spec": "Covers a full house · one network name",
-    "price": "R2 329",
+    "price": "R1 985",
     "handle": "tp-link-deco-m4-whole-home-mesh-wi-fi-system-3-pack",
     "url": "https://ubratech.co.za/products/tp-link-deco-m4-whole-home-mesh-wi-fi-system-3-pack",
     "qty": 13,
@@ -435,7 +445,7 @@
     "brand": "Mercusys",
     "title": "Mercusys Halo H30G Mesh Wi-Fi System (3-pack)",
     "spec": "Covers a full house · one network name",
-    "price": "R1 438",
+    "price": "R1 226",
     "handle": "mercusys-halo-h30g-home-mesh-wi-fi-system-3-pack",
     "url": "https://ubratech.co.za/products/mercusys-halo-h30g-home-mesh-wi-fi-system-3-pack",
     "qty": 8,
@@ -447,7 +457,7 @@
     "brand": "TP-Link",
     "title": "TP-Link Deco M4 Mesh Wi-Fi System (3-pack)",
     "spec": "Big-property coverage",
-    "price": "R2 329",
+    "price": "R1 985",
     "handle": "tp-link-deco-m4-whole-home-mesh-wi-fi-system-3-pack",
     "url": "https://ubratech.co.za/products/tp-link-deco-m4-whole-home-mesh-wi-fi-system-3-pack",
     "qty": 13,
@@ -687,10 +697,10 @@
     "brand": "HP",
     "title": "HP Poly Blackwire 3220 USB-C Headset",
     "spec": "Clear-audio headset",
-    "price": "R666",
+    "price": "R628",
     "handle": "hp-poly-blackwire-3220-usb-c-wired-black-headset",
     "url": "https://ubratech.co.za/products/hp-poly-blackwire-3220-usb-c-wired-black-headset",
-    "qty": 100,
+    "qty": 37,
     "image": "https://www.pinnacle.co.za/media/catalog/product/8/X/8X228AA_74f8.png"
    }
   ],
@@ -723,7 +733,7 @@
     "brand": "TP-Link",
     "title": "TP-Link 5-Port Gigabit Desktop Switch",
     "spec": "More wired ports",
-    "price": "R156",
+    "price": "R133",
     "handle": "tp-link-5-port-desktop-switch",
     "url": "https://ubratech.co.za/products/tp-link-5-port-desktop-switch",
     "qty": 80,
@@ -733,7 +743,7 @@
     "brand": "TP-Link",
     "title": "TP-Link 8-Port Desktop Switch",
     "spec": "More wired ports",
-    "price": "R175",
+    "price": "R150",
     "handle": "tp-link-8-port-desktop-switch",
     "url": "https://ubratech.co.za/products/tp-link-8-port-desktop-switch",
     "qty": 70,
@@ -783,7 +793,7 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 163
+    "qty": 162
    },
    {
     "brand": "Seagate",
@@ -889,7 +899,7 @@
     "brand": "TP-Link",
     "title": "TP-Link Tapo C200 Pan/Tilt Wi-Fi Camera",
     "spec": "Pan/tilt · night vision",
-    "price": "R539",
+    "price": "R459",
     "handle": "tp-link-tapo-c200-pan-tilt-home-security-wi-fi-camera",
     "url": "https://ubratech.co.za/products/tp-link-tapo-c200-pan-tilt-home-security-wi-fi-camera",
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/A/TAPO_C200_bc67.png",
@@ -899,7 +909,7 @@
     "brand": "TP-Link",
     "title": "TP-Link Tapo D205 2K Battery Video Doorbell",
     "spec": "See & talk to visitors",
-    "price": "R980",
+    "price": "R835",
     "handle": "tp-link-tapo-d205-2k-battery-video-doorbell-mini",
     "url": "https://ubratech.co.za/products/tp-link-tapo-d205-2k-battery-video-doorbell-mini",
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/A/TAPO_D205_5ba3.jpg",
@@ -945,7 +955,7 @@
     "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
     "url": "https://ubratech.co.za/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg",
-    "qty": 200
+    "qty": 199
    }
   ],
   "everyday": [
@@ -1018,7 +1028,7 @@
    "brand": "TP-Link",
    "title": "TP-Link N300 Wall-Plate Access Point",
    "spec": "Wall AP · strong coverage",
-   "price": "R491",
+   "price": "R418",
    "handle": "tp-link-n300-300mbps-wireless-n-wall-plate-access-point",
    "url": "https://ubratech.co.za/products/tp-link-n300-300mbps-wireless-n-wall-plate-access-point",
    "qty": 1,
@@ -1028,7 +1038,7 @@
    "brand": "TP-Link",
    "title": "TP-Link Ceiling-Mount Access Point",
    "spec": "Ceiling AP · strong coverage",
-   "price": "R540",
+   "price": "R460",
    "handle": "tp-link-300mbps-wireless-n-ceiling-mount-access-point",
    "url": "https://ubratech.co.za/products/tp-link-300mbps-wireless-n-ceiling-mount-access-point",
    "qty": 7,
