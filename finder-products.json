@@ -10,9 +10,29 @@
     "url": "https://ubratech.co.za/products/hp-255r-g10-15-6-ryzen-3-8gb-512gb-win-11-home-notebook",
     "qty": 100,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/0/D0ML8AT_1a63.jpg"
+   },
+   {
+    "brand": "HP",
+    "title": "HP 250 G9 15.6\" Core i3 16GB 256GB Win 11 Pro Notebook",
+    "spec": "Core i3 · 16GB RAM · 256GB SSD",
+    "price": "R9 821",
+    "handle": "hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
+    "url": "https://ubratech.co.za/products/hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
+    "qty": 32,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DF6L7ET_default.jpg"
    }
   ],
   "mid": [
+   {
+    "brand": "Lenovo",
+    "title": "Lenovo V15 Laptop — Core i3 · 256GB SSD",
+    "spec": "Core i3 · 256GB SSD",
+    "price": "R12 575",
+    "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
+    "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
+    "qty": 100,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
+   },
    {
     "brand": "Lenovo",
     "title": "Lenovo V15 Laptop — Core i5 · 512GB SSD",
@@ -42,7 +62,7 @@
     "price": "R20 525",
     "handle": "hp-probook-440-g11-14-core-u5-16gb-512gb-win-11-pro-silver-notebook",
     "url": "https://ubratech.co.za/products/hp-probook-440-g11-14-core-u5-16gb-512gb-win-11-pro-silver-notebook",
-    "qty": 159,
+    "qty": 158,
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/3/A38B8ET__3bbe.jpg"
    }
   ],
@@ -80,29 +100,8 @@
   ]
  },
  "desktop": {
-  "entry": [
-   {
-    "brand": "Lenovo",
-    "title": "Lenovo Neo 50s G6 Desktop — Core Ultra 5 · 16GB · 512GB SSD",
-    "spec": "Performance desktop",
-    "price": "R14 985",
-    "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 30,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
-   }
-  ],
+  "entry": [],
   "mid": [
-   {
-    "brand": "Lenovo",
-    "title": "Lenovo Neo 50s G6 Desktop — Core Ultra 5 · 16GB · 512GB SSD",
-    "spec": "Performance desktop",
-    "price": "R14 985",
-    "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 30,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
-   },
    {
     "brand": "Dell",
     "title": "Dell Pro Slim QCS1250 Desktop — Core Ultra 5 · 512GB SSD",
@@ -226,7 +225,7 @@
     "price": "R2 298",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1537,
+    "qty": 1531,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ],
@@ -260,7 +259,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 619,
+    "qty": 618,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -302,7 +301,7 @@
     "price": "R2 298",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1537,
+    "qty": 1531,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ]
@@ -357,7 +356,7 @@
     "brand": "APC",
     "title": "APC Back-UPS 1600VA / 900W",
     "spec": "Backs up a whole desk",
-    "price": "R3 110",
+    "price": "R3 073",
     "handle": "apc-backup-ups-1600va-1-6kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
     "url": "https://ubratech.co.za/products/apc-backup-ups-1600va-1-6kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
     "qty": 5,
@@ -531,7 +530,7 @@
     "brand": "Hikvision",
     "title": "Hikvision 2MP ColorVu Fixed Turret Camera",
     "spec": "HD camera · night vision",
-    "price": "R445",
+    "price": "R400",
     "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
     "url": "https://ubratech.co.za/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
     "qty": 3876,
@@ -660,7 +659,7 @@
     "price": "R628",
     "handle": "hp-poly-blackwire-3220-usb-c-wired-black-headset",
     "url": "https://ubratech.co.za/products/hp-poly-blackwire-3220-usb-c-wired-black-headset",
-    "qty": 37,
+    "qty": 31,
     "image": "https://www.pinnacle.co.za/media/catalog/product/8/X/8X228AA_74f8.png"
    }
   ],
