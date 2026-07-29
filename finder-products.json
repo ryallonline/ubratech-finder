@@ -90,8 +90,29 @@
   ]
  },
  "desktop": {
-  "entry": [],
+  "entry": [
+   {
+    "brand": "Lenovo",
+    "title": "Lenovo Neo 50s G6 Desktop — Core Ultra 5 · 16GB · 512GB SSD",
+    "spec": "Performance desktop",
+    "price": "R14 985",
+    "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
+    "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
+    "qty": 29,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA-BUN6Q2_default.jpg"
+   }
+  ],
   "mid": [
+   {
+    "brand": "Lenovo",
+    "title": "Lenovo Neo 50s G6 Desktop — Core Ultra 5 · 16GB · 512GB SSD",
+    "spec": "Performance desktop",
+    "price": "R14 985",
+    "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
+    "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
+    "qty": 29,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA-BUN6Q2_default.jpg"
+   },
    {
     "brand": "Dell",
     "title": "Dell Pro Slim QCS1250 Desktop — Core Ultra 5 · 512GB SSD",
