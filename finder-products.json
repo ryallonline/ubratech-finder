@@ -52,7 +52,7 @@
     "price": "R20 525",
     "handle": "hp-probook-440-g11-14-core-u5-16gb-512gb-win-11-pro-silver-notebook",
     "url": "https://ubratech.co.za/products/hp-probook-440-g11-14-core-u5-16gb-512gb-win-11-pro-silver-notebook",
-    "qty": 158,
+    "qty": 156,
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/3/A38B8ET__3bbe.jpg"
    }
   ],
@@ -74,7 +74,7 @@
     "price": "R46 591",
     "handle": "hp-zbook-8-g1i-laptop-core-ultra-7-32gb-1tb-ssd-cg0g9et",
     "url": "https://ubratech.co.za/products/hp-zbook-8-g1i-laptop-core-ultra-7-32gb-1tb-ssd-cg0g9et",
-    "qty": 56,
+    "qty": 55,
     "image": "https://s3.amazonaws.com/tarsus.co.za/CG0G9ET_default.jpg"
    },
    {
@@ -116,16 +116,6 @@
    }
   ],
   "creator": [
-   {
-    "brand": "Dell",
-    "title": "Dell Pro Max Tower T2 Workstation — Core Ultra 7 · 16GB · 1TB · RTX",
-    "spec": "Workstation · pro graphics",
-    "price": "R54 126",
-    "handle": "dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-1tb-ssd-fct2250-u7-161tb-8gfx",
-    "url": "https://ubratech.co.za/products/dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-1tb-ssd-fct2250-u7-161tb-8gfx",
-    "image": "https://s3.amazonaws.com/tarsus.co.za/FCT2250-U7-161TB-8GFX_default.jpg",
-    "qty": 1
-   },
    {
     "brand": "Asus",
     "title": "Asus ROG G700 Gaming PC — Ultra 5 255F · 16GB DDR5 · 1TB SSD",
@@ -193,16 +183,6 @@
     "url": "https://ubratech.co.za/products/asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg",
     "qty": 12
-   },
-   {
-    "brand": "Dell",
-    "title": "Dell Pro Max Tower T2 — Core Ultra 7 · 16GB · 1TB · RTX",
-    "spec": "RTX workstation tower",
-    "price": "R54 126",
-    "handle": "dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-1tb-ssd-fct2250-u7-161tb-8gfx",
-    "url": "https://ubratech.co.za/products/dell-pro-max-tower-t2-fct2250-workstation-desktop-pc-core-ultra-7-16gb-1tb-ssd-fct2250-u7-161tb-8gfx",
-    "image": "https://s3.amazonaws.com/tarsus.co.za/FCT2250-U7-161TB-8GFX_default.jpg",
-    "qty": 1
    }
   ]
  },
@@ -215,7 +195,7 @@
     "price": "R1 853",
     "handle": "dell-e2225hm-pro-21-5-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-e2225hm-pro-21-5-fhd-monitor",
-    "qty": 163,
+    "qty": 143,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQMZ_4276.jpg"
    },
    {
@@ -235,7 +215,7 @@
     "price": "R2 298",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1499,
+    "qty": 1501,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ],
@@ -269,7 +249,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 607,
+    "qty": 606,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -311,7 +291,7 @@
     "price": "R2 298",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1499,
+    "qty": 1501,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ]
@@ -344,7 +324,7 @@
     "brand": "APC",
     "title": "APC Back-UPS 1200VA / 650W",
     "spec": "Backs up a PC + screen",
-    "price": "R2 393",
+    "price": "R2 418",
     "handle": "apc-backup-ups-1200va-1-2kva-650w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
     "url": "https://ubratech.co.za/products/apc-backup-ups-1200va-1-2kva-650w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
     "qty": 40,
@@ -388,7 +368,7 @@
     "brand": "APC",
     "title": "APC Smart-UPS 1500VA LCD RM 2U (SmartConnect)",
     "spec": "Rack-mount · critical kit",
-    "price": "R15 739",
+    "price": "R15 865",
     "handle": "apc-smart-ups-1500va-lcd-rm-2u-230v-with-smartconnect",
     "url": "https://ubratech.co.za/products/apc-smart-ups-1500va-lcd-rm-2u-230v-with-smartconnect",
     "qty": 1,
@@ -611,7 +591,7 @@
     "price": "R735",
     "handle": "dell-pro-4-in-1-usb-c-travel-hub-da225",
     "url": "https://ubratech.co.za/products/dell-pro-4-in-1-usb-c-travel-hub-da225",
-    "qty": 11,
+    "qty": 10,
     "image": "https://s3.amazonaws.com/tarsus.co.za/470-BFBN_default.png"
    }
   ],
@@ -762,13 +742,13 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 157
+    "qty": 147
    },
    {
     "brand": "Seagate",
     "title": "Seagate IronWolf NAS 8TB 3.5\" SATA HDD",
     "spec": "NAS-grade · always-on",
-    "price": "R6 561",
+    "price": "R6 446",
     "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
@@ -784,7 +764,7 @@
     "handle": "hiksemi-hiker-8gb-3200mhz-ddr4-sodimm",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-8gb-3200mhz-ddr4-sodimm",
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/HSC408S32Z1-8G_wr_-2.jpg",
-    "qty": 218
+    "qty": 206
    },
    {
     "brand": "Hiksemi",
