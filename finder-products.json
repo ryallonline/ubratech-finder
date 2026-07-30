@@ -84,7 +84,7 @@
     "price": "R46 591",
     "handle": "hp-zbook-8-g1i-laptop-core-ultra-7-32gb-1tb-ssd-cg0g9et",
     "url": "https://ubratech.co.za/products/hp-zbook-8-g1i-laptop-core-ultra-7-32gb-1tb-ssd-cg0g9et",
-    "qty": 55,
+    "qty": 54,
     "image": "https://s3.amazonaws.com/tarsus.co.za/CG0G9ET_default.jpg"
    },
    {
@@ -693,7 +693,7 @@
     "handle": "logitech-c920s-pro-full-hd-usb-webcam",
     "url": "https://ubratech.co.za/products/logitech-c920s-pro-full-hd-usb-webcam",
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/960_001252_9ebb.jpg",
-    "qty": 13
+    "qty": 12
    },
    {
     "brand": "Dell",
@@ -815,7 +815,7 @@
     "handle": "geil-orion-rgb-16gb-6000mhz-ddr5-desktop-gaming-memory-grey",
     "url": "https://ubratech.co.za/products/geil-orion-rgb-16gb-6000mhz-ddr5-desktop-gaming-memory-grey",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/GAVSG516GB6000C36CSC_Geil-Orion-V-RGB-16GB-6000MHz-DDR5-Desktop-Gaming-Memory-Grey_wr_01.jpg",
-    "qty": 7
+    "qty": 5
    }
   ],
   "graphics": [
@@ -999,7 +999,7 @@
     "handle": "logitech-c920s-pro-full-hd-usb-webcam",
     "url": "https://ubratech.co.za/products/logitech-c920s-pro-full-hd-usb-webcam",
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/960_001252_9ebb.jpg",
-    "qty": 13
+    "qty": 12
    }
   ]
  },
