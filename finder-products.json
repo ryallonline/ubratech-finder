@@ -52,7 +52,7 @@
     "price": "R23 974",
     "handle": "hp-probook-440-g11-14-core-u5-16gb-512gb-win-11-pro-silver-notebook",
     "url": "https://ubratech.co.za/products/hp-probook-440-g11-14-core-u5-16gb-512gb-win-11-pro-silver-notebook",
-    "qty": 17,
+    "qty": 240,
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/3/A38B8ET__3bbe.jpg"
    }
   ],
@@ -61,7 +61,7 @@
     "brand": "Asus",
     "title": "Asus VivoBook (RTX) V3607VH 16\" Core i7 16GB 1TB Win 11 Pro",
     "spec": "RTX · 16GB RAM · 1TB SSD",
-    "price": "R25 184",
+    "price": "R24 089",
     "handle": "asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
     "url": "https://ubratech.co.za/products/asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
     "qty": 11,
@@ -112,9 +112,30 @@
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "qty": 25,
     "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
+   },
+   {
+    "brand": "Dell",
+    "title": "Dell Pro Slim QCS1250 Desktop — Core Ultra 5 · 512GB SSD",
+    "spec": "Performance desktop",
+    "price": "R25 885",
+    "handle": "dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
+    "url": "https://ubratech.co.za/products/dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
+    "qty": 2,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO105_QCS1250_EMEA_default.png"
    }
   ],
-  "high": [],
+  "high": [
+   {
+    "brand": "Dell",
+    "title": "Dell Pro Slim QCS1250 Desktop — Core Ultra 5 · 512GB SSD",
+    "spec": "Premium desktop",
+    "price": "R25 885",
+    "handle": "dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
+    "url": "https://ubratech.co.za/products/dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
+    "qty": 2,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO105_QCS1250_EMEA_default.png"
+   }
+  ],
   "creator": [
    {
     "brand": "Asus",
@@ -195,7 +216,7 @@
     "price": "R2 114",
     "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
     "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 2,
+    "qty": 1,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
    },
    {
@@ -205,7 +226,7 @@
     "price": "R2 298",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1417,
+    "qty": 1415,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ],
@@ -227,7 +248,7 @@
     "price": "R6 315",
     "handle": "dell-ultrasharp-24-usb-c-hub-monitor-u2424he-60-47cm-23-8",
     "url": "https://ubratech.co.za/products/dell-ultrasharp-24-usb-c-hub-monitor-u2424he-60-47cm-23-8",
-    "qty": 26,
+    "qty": 25,
     "image": "http://cdn.cs.1worldsync.com/05/4c/054ce9ac-adff-4f1a-ae29-83d3e471de5e.jpg"
    }
   ],
@@ -239,7 +260,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 544,
+    "qty": 542,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -271,7 +292,7 @@
     "price": "R2 114",
     "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
     "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 2,
+    "qty": 1,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
    },
    {
@@ -281,7 +302,7 @@
     "price": "R2 298",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1417,
+    "qty": 1415,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ]
@@ -317,7 +338,7 @@
     "price": "R2 417",
     "handle": "apc-backup-ups-1200va-1-2kva-650w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
     "url": "https://ubratech.co.za/products/apc-backup-ups-1200va-1-2kva-650w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
-    "qty": 40,
+    "qty": 39,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BX1200MI_default.jpg"
    }
   ],
@@ -336,7 +357,7 @@
     "brand": "APC",
     "title": "APC Back-UPS 1600VA / 900W",
     "spec": "Backs up a whole desk",
-    "price": "R3 073",
+    "price": "R3 071",
     "handle": "apc-backup-ups-1600va-1-6kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
     "url": "https://ubratech.co.za/products/apc-backup-ups-1600va-1-6kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
     "qty": 2,
@@ -639,7 +660,7 @@
     "price": "R666",
     "handle": "hp-poly-blackwire-3220-usb-c-wired-black-headset",
     "url": "https://ubratech.co.za/products/hp-poly-blackwire-3220-usb-c-wired-black-headset",
-    "qty": 67,
+    "qty": 64,
     "image": "https://www.pinnacle.co.za/media/catalog/product/8/X/8X228AA_74f8.png"
    }
   ],
@@ -732,7 +753,7 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 192
+    "qty": 191
    },
    {
     "brand": "Seagate",
@@ -938,7 +959,7 @@
     "handle": "hp-330-black-wireless-keyboard-mouse-combo",
     "url": "https://ubratech.co.za/products/hp-330-black-wireless-keyboard-mouse-combo",
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/v/2v9e6aa_keyboards_42935554637988_1000x_16e7.png",
-    "qty": 84
+    "qty": 79
    },
    {
     "brand": "Logitech",
@@ -948,7 +969,7 @@
     "handle": "logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "url": "https://ubratech.co.za/products/logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "image": "https://s3.amazonaws.com/tarsus.co.za/920-008685_default.jpg",
-    "qty": 7
+    "qty": 6
    },
    {
     "brand": "Logitech",
