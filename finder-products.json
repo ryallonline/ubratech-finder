@@ -27,7 +27,7 @@
     "brand": "Lenovo",
     "title": "Lenovo V15 Laptop — Core i3 · 256GB SSD",
     "spec": "Core i3 · 256GB SSD",
-    "price": "R12 579",
+    "price": "R12 567",
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "qty": 100,
@@ -37,7 +37,7 @@
     "brand": "Lenovo",
     "title": "Lenovo V15 Laptop — Core i5 · 512GB SSD",
     "spec": "Core i5 · 512GB SSD",
-    "price": "R14 990",
+    "price": "R14 984",
     "handle": "lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
     "qty": 100,
@@ -71,10 +71,10 @@
     "brand": "Asus",
     "title": "Asus VivoBook (RTX) V3607VH 16\" Core i7 16GB 1TB Win 11 Pro",
     "spec": "RTX · 16GB RAM · 1TB SSD",
-    "price": "R24 089",
+    "price": "R25 184",
     "handle": "asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
     "url": "https://ubratech.co.za/products/asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
-    "qty": 1,
+    "qty": 10,
     "image": "https://www.pinnacle.co.za/media/catalog/product/V/3/V3607VH_I71610B0X__1__7ef3.png"
    },
    {
@@ -105,10 +105,10 @@
     "brand": "Lenovo",
     "title": "Lenovo Neo 50s G6 Desktop — Core Ultra 5 · 16GB · 512GB SSD",
     "spec": "Performance desktop",
-    "price": "R14 990",
+    "price": "R14 985",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 24,
+    "qty": 25,
     "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA-BUN6Q2_default.png"
    }
   ],
@@ -117,10 +117,10 @@
     "brand": "Lenovo",
     "title": "Lenovo Neo 50s G6 Desktop — Core Ultra 5 · 16GB · 512GB SSD",
     "spec": "Performance desktop",
-    "price": "R14 990",
+    "price": "R14 985",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 24,
+    "qty": 25,
     "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA-BUN6Q2_default.png"
    },
    {
@@ -226,7 +226,7 @@
     "price": "R1 853",
     "handle": "dell-e2225hm-pro-21-5-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-e2225hm-pro-21-5-fhd-monitor",
-    "qty": 118,
+    "qty": 117,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQMZ_4276.jpg"
    },
    {
@@ -236,7 +236,7 @@
     "price": "R2 298",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1375,
+    "qty": 1371,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ],
@@ -270,7 +270,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 463,
+    "qty": 461,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -302,7 +302,7 @@
     "price": "R2 298",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1375,
+    "qty": 1371,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ]
@@ -335,7 +335,7 @@
     "brand": "APC",
     "title": "APC Back-UPS 1200VA / 650W",
     "spec": "Backs up a PC + screen",
-    "price": "R2 418",
+    "price": "R2 558",
     "handle": "apc-backup-ups-1200va-1-2kva-650w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
     "url": "https://ubratech.co.za/products/apc-backup-ups-1200va-1-2kva-650w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
     "qty": 38,
@@ -357,7 +357,7 @@
     "brand": "APC",
     "title": "APC Back-UPS 1600VA / 900W",
     "spec": "Backs up a whole desk",
-    "price": "R3 047",
+    "price": "R3 225",
     "handle": "apc-backup-ups-1600va-1-6kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
     "url": "https://ubratech.co.za/products/apc-backup-ups-1600va-1-6kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
     "qty": 1,
@@ -369,7 +369,7 @@
     "brand": "APC",
     "title": "APC Smart-UPS 1000VA LCD (SmartConnect)",
     "spec": "Rack-mount · critical kit",
-    "price": "R9 419",
+    "price": "R9 968",
     "handle": "apc-smart-ups-1000va-lcd-230v-with-smartconnect",
     "url": "https://ubratech.co.za/products/apc-smart-ups-1000va-lcd-230v-with-smartconnect",
     "qty": 5,
@@ -379,7 +379,7 @@
     "brand": "APC",
     "title": "APC Smart-UPS 1500VA LCD RM 2U (SmartConnect)",
     "spec": "Rack-mount · critical kit",
-    "price": "R15 865",
+    "price": "R16 791",
     "handle": "apc-smart-ups-1500va-lcd-rm-2u-230v-with-smartconnect",
     "url": "https://ubratech.co.za/products/apc-smart-ups-1500va-lcd-rm-2u-230v-with-smartconnect",
     "qty": 1,
@@ -441,7 +441,7 @@
     "brand": "HP",
     "title": "HP LaserJet Pro MFP 4103FDW Mono All-in-One",
     "spec": "Laser · sharp text · low running cost",
-    "price": "R7 859",
+    "price": "R8 317",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "qty": 100,
@@ -451,7 +451,7 @@
     "brand": "HP",
     "title": "HP LaserJet Enterprise MFP M430f All-in-One",
     "spec": "Laser · sharp text · low running cost",
-    "price": "R10 425",
+    "price": "R11 034",
     "handle": "hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
     "url": "https://ubratech.co.za/products/hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
     "qty": 87,
@@ -463,7 +463,7 @@
     "brand": "HP",
     "title": "HP Smart Tank 790 Wireless All-in-One",
     "spec": "Refillable ink · cheap colour",
-    "price": "R8 030",
+    "price": "R8 499",
     "handle": "hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
     "url": "https://ubratech.co.za/products/hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
     "qty": 100,
@@ -475,7 +475,7 @@
     "brand": "HP",
     "title": "HP LaserJet Pro MFP 4103FDW Mono All-in-One",
     "spec": "All-in-one · built for an office",
-    "price": "R7 859",
+    "price": "R8 317",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "qty": 100,
@@ -485,7 +485,7 @@
     "brand": "HP",
     "title": "HP LaserJet Enterprise MFP M430f All-in-One",
     "spec": "All-in-one · built for an office",
-    "price": "R10 425",
+    "price": "R11 034",
     "handle": "hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
     "url": "https://ubratech.co.za/products/hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
     "qty": 87,
@@ -534,7 +534,7 @@
     "price": "R400",
     "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
     "url": "https://ubratech.co.za/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 4,
+    "qty": 1851,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
@@ -567,7 +567,7 @@
     "handle": "hikvision-720p-cmos-low-light-colour-1mm-analogue-camera",
     "url": "https://ubratech.co.za/products/hikvision-720p-cmos-low-light-colour-1mm-analogue-camera",
     "qty": 7,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/E/AE_VC136T_1.0MM_4564.jpg"
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/E/AE_VC136T_1.0MM_4564.png"
    }
   ],
   "large": [
@@ -742,7 +742,7 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 188
+    "qty": 186
    },
    {
     "brand": "Seagate",
@@ -752,7 +752,7 @@
     "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
-    "qty": 8
+    "qty": 3
    }
   ],
   "memory": [
@@ -922,7 +922,7 @@
     "brand": "Lenovo",
     "title": "Lenovo Dual USB-C 65W GaN Charger",
     "spec": "Two devices at once",
-    "price": "R1 050",
+    "price": "R1 049",
     "handle": "lenovo-dual-usb-c-65w-gan-charger",
     "url": "https://ubratech.co.za/products/lenovo-dual-usb-c-65w-gan-charger",
     "image": "https://s3.amazonaws.com/tarsus.co.za/40AW065BEU_default.jpg",
