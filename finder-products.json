@@ -221,16 +221,6 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro E2425HM 24\" Full-HD Monitor",
-    "spec": "Crisp everyday screen",
-    "price": "R2 114",
-    "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
-    "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 2,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
-   },
-   {
-    "brand": "Dell",
     "title": "Dell SE2726HM 27\" FHD Monitor",
     "spec": "Crisp everyday screen",
     "price": "R2 298",
@@ -295,16 +285,6 @@
    }
   ],
   "multi": [
-   {
-    "brand": "Dell",
-    "title": "Dell Pro E2425HM 24\" Full-HD Monitor",
-    "spec": "Slim bezel · great for lots of windows",
-    "price": "R2 114",
-    "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
-    "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 2,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
-   },
    {
     "brand": "Dell",
     "title": "Dell SE2726HM 27\" FHD Monitor",
@@ -544,7 +524,7 @@
     "price": "R400",
     "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
     "url": "https://ubratech.co.za/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 4,
+    "qty": 1851,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
@@ -599,10 +579,10 @@
     "brand": "Port",
     "title": "Port USB-C Mini Dock with HDMI",
     "spec": "One cable · power + screen",
-    "price": "R230",
+    "price": "R248",
     "handle": "port-usb-c-mini-with-hdmi-docking-station",
     "url": "https://ubratech.co.za/products/port-usb-c-mini-with-hdmi-docking-station",
-    "qty": 128,
+    "qty": 152,
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900140_0708.jpg"
    },
    {
@@ -638,18 +618,7 @@
     "qty": 4
    }
   ],
-  "legacy": [
-   {
-    "brand": "Port",
-    "title": "Port 100W USB-C & USB-A Docking Station",
-    "spec": "Works with older laptops",
-    "price": "R3 402",
-    "handle": "port-100w-usb-c-usb-a-docking-station",
-    "url": "https://ubratech.co.za/products/port-100w-usb-c-usb-a-docking-station",
-    "qty": 1,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/901908_W_EU_011e.jpg"
-   }
-  ]
+  "legacy": []
  },
  "meet": {
   "desk": [
