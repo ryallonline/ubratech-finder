@@ -226,7 +226,7 @@
     "price": "R1 585",
     "handle": "dell-e2225hm-pro-21-5-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-e2225hm-pro-21-5-fhd-monitor",
-    "qty": 114,
+    "qty": 113,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQMZ_4276.jpg"
    },
    {
@@ -280,7 +280,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 1,
+    "qty": 1452,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -541,7 +541,7 @@
     "handle": "zebra-zt411-4-thermal-transfer-label-printer",
     "url": "https://ubratech.co.za/products/zebra-zt411-4-thermal-transfer-label-printer",
     "image": "https://www.pinnacle.co.za/media/catalog/product/Z/T/ZT41142_T0E0000Z_4906.png",
-    "qty": 2
+    "qty": 1
    }
   ]
  },
@@ -622,7 +622,7 @@
     "price": "R735",
     "handle": "dell-pro-4-in-1-usb-c-travel-hub-da225",
     "url": "https://ubratech.co.za/products/dell-pro-4-in-1-usb-c-travel-hub-da225",
-    "qty": 10,
+    "qty": 22,
     "image": "https://s3.amazonaws.com/tarsus.co.za/470-BFBN_default.png"
    }
   ],
@@ -784,7 +784,7 @@
     "handle": "hiksemi-hiker-8gb-3200mhz-ddr4-sodimm",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-8gb-3200mhz-ddr4-sodimm",
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/HSC408S32Z1-8G_wr_-2.jpg",
-    "qty": 206
+    "qty": 205
    },
    {
     "brand": "Hiksemi",
@@ -794,7 +794,7 @@
     "handle": "hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/HSC516U48Z1-16G_Hiksemi-Hiker-16GB-DDR5-4800MHz-Desktop-Memory_wr_01a.jpg",
-    "qty": 234
+    "qty": 222
    },
    {
     "brand": "GeIL",
@@ -848,7 +848,7 @@
     "handle": "deepcool-ak400-g2-120mm-cpu-air-cooler-white",
     "url": "https://ubratech.co.za/products/deepcool-ak400-g2-120mm-cpu-air-cooler-white",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/R-AK400G2-WHNNMN-GJD_DeepCool-AK400-G2-120mm-CPU-Air-Cooler-White_wr_01.jpg",
-    "qty": 30
+    "qty": 29
    },
    {
     "brand": "Gizzu",
