@@ -100,29 +100,8 @@
   ]
  },
  "desktop": {
-  "entry": [
-   {
-    "brand": "Lenovo",
-    "title": "Lenovo Neo 50s G6 Desktop — Core Ultra 5 · 16GB · 512GB SSD",
-    "spec": "Performance desktop",
-    "price": "R14 985",
-    "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 3,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
-   }
-  ],
+  "entry": [],
   "mid": [
-   {
-    "brand": "Lenovo",
-    "title": "Lenovo Neo 50s G6 Desktop — Core Ultra 5 · 16GB · 512GB SSD",
-    "spec": "Performance desktop",
-    "price": "R14 985",
-    "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 3,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
-   },
    {
     "brand": "Dell",
     "title": "Dell Pro Slim QCS1250 Desktop — Core Ultra 5 · 512GB SSD",
@@ -564,7 +543,7 @@
     "price": "R400",
     "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
     "url": "https://ubratech.co.za/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 4,
+    "qty": 1791,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
@@ -583,7 +562,7 @@
     "brand": "Hikvision",
     "title": "Hikvision 5MP Colour Audio Turret Camera",
     "spec": "Sharp camera · colour night vision",
-    "price": "R691",
+    "price": "R715",
     "handle": "hikvision-3k-5mp-color-audio-fixed-turret-analogue-camera",
     "url": "https://ubratech.co.za/products/hikvision-3k-5mp-color-audio-fixed-turret-analogue-camera",
     "qty": 11,
@@ -593,7 +572,7 @@
     "brand": "Hikvision",
     "title": "Hikvision Low-Light Colour Camera",
     "spec": "Sharp camera · colour night vision",
-    "price": "R758",
+    "price": "R774",
     "handle": "hikvision-720p-cmos-low-light-colour-1mm-analogue-camera",
     "url": "https://ubratech.co.za/products/hikvision-720p-cmos-low-light-colour-1mm-analogue-camera",
     "qty": 7,
@@ -605,7 +584,7 @@
     "brand": "Hikvision",
     "title": "Hikvision 2MP Fixed Mini Bullet Network Camera",
     "spec": "IP camera · project-grade",
-    "price": "R1 200",
+    "price": "R1 227",
     "handle": "hikvision-2mp-fixed-mini-bullet-network-camera",
     "url": "https://ubratech.co.za/products/hikvision-2mp-fixed-mini-bullet-network-camera",
     "qty": 18,
@@ -637,16 +616,6 @@
    }
   ],
   "mac": [
-   {
-    "brand": "Dell",
-    "title": "Dell Pro Thunderbolt 4 Dock — WD25TB4",
-    "spec": "Thunderbolt · works with MacBook",
-    "price": "R5 548",
-    "handle": "dell-pro-thunderbolt-4-dock-wd25tb4",
-    "url": "https://ubratech.co.za/products/dell-pro-thunderbolt-4-dock-wd25tb4",
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BTHY_default.jpg",
-    "qty": 2
-   },
    {
     "brand": "Dell",
     "title": "Dell Pro Thunderbolt 5 Dock — WD25TB5",
