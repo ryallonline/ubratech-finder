@@ -74,7 +74,7 @@
     "price": "R24 089",
     "handle": "asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
     "url": "https://ubratech.co.za/products/asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
-    "qty": 15,
+    "qty": 13,
     "image": "https://www.pinnacle.co.za/media/catalog/product/V/3/V3607VH_I71610B0X__1__7ef3.png"
    },
    {
@@ -100,8 +100,29 @@
   ]
  },
  "desktop": {
-  "entry": [],
+  "entry": [
+   {
+    "brand": "Lenovo",
+    "title": "Lenovo Neo 50s G6 Desktop — Core Ultra 5 · 16GB · 512GB SSD",
+    "spec": "Performance desktop",
+    "price": "R14 985",
+    "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
+    "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
+    "qty": 17,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
+   }
+  ],
   "mid": [
+   {
+    "brand": "Lenovo",
+    "title": "Lenovo Neo 50s G6 Desktop — Core Ultra 5 · 16GB · 512GB SSD",
+    "spec": "Performance desktop",
+    "price": "R14 985",
+    "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
+    "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
+    "qty": 17,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
+   },
    {
     "brand": "Dell",
     "title": "Dell Pro Slim QCS1250 Desktop — Core Ultra 5 · 512GB SSD",
@@ -225,7 +246,7 @@
     "price": "R2 297",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1435,
+    "qty": 1434,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ],
@@ -269,7 +290,7 @@
     "price": "R2 014",
     "handle": "acer-24-ips-fhd-120hz-monitor-3yr",
     "url": "https://ubratech.co.za/products/acer-24-ips-fhd-120hz-monitor-3yr",
-    "qty": 4,
+    "qty": 12,
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.QE1EE.G08_default.png"
    },
    {
@@ -301,7 +322,7 @@
     "price": "R2 297",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1435,
+    "qty": 1434,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ]
@@ -472,7 +493,7 @@
     "brand": "HP",
     "title": "HP Smart Tank 790 Wireless All-in-One",
     "spec": "Refillable ink · cheap colour",
-    "price": "R8 312",
+    "price": "R8 047",
     "handle": "hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
     "url": "https://ubratech.co.za/products/hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
     "qty": 100,
@@ -543,7 +564,7 @@
     "price": "R400",
     "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
     "url": "https://ubratech.co.za/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 6,
+    "qty": 1791,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
@@ -598,10 +619,10 @@
     "brand": "Port",
     "title": "Port USB-C Mini Dock with HDMI",
     "spec": "One cable · power + screen",
-    "price": "R248",
+    "price": "R230",
     "handle": "port-usb-c-mini-with-hdmi-docking-station",
     "url": "https://ubratech.co.za/products/port-usb-c-mini-with-hdmi-docking-station",
-    "qty": 152,
+    "qty": 128,
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900140_0708.jpg"
    },
    {
@@ -627,7 +648,18 @@
     "qty": 4
    }
   ],
-  "legacy": []
+  "legacy": [
+   {
+    "brand": "Port",
+    "title": "Port 100W USB-C & USB-A Docking Station",
+    "spec": "Works with older laptops",
+    "price": "R3 402",
+    "handle": "port-100w-usb-c-usb-a-docking-station",
+    "url": "https://ubratech.co.za/products/port-100w-usb-c-usb-a-docking-station",
+    "qty": 1,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/901908_W_EU_011e.jpg"
+   }
+  ]
  },
  "meet": {
   "desk": [
@@ -648,7 +680,7 @@
     "price": "R666",
     "handle": "hp-poly-blackwire-3220-usb-c-wired-black-headset",
     "url": "https://ubratech.co.za/products/hp-poly-blackwire-3220-usb-c-wired-black-headset",
-    "qty": 35,
+    "qty": 32,
     "image": "https://www.pinnacle.co.za/media/catalog/product/8/X/8X228AA_74f8.png"
    }
   ],
@@ -661,7 +693,7 @@
     "handle": "logitech-c920s-pro-full-hd-usb-webcam",
     "url": "https://ubratech.co.za/products/logitech-c920s-pro-full-hd-usb-webcam",
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/960_001252_9ebb.jpg",
-    "qty": 12
+    "qty": 10
    },
    {
     "brand": "Dell",
@@ -684,7 +716,7 @@
     "price": "R133",
     "handle": "tp-link-5-port-desktop-switch",
     "url": "https://ubratech.co.za/products/tp-link-5-port-desktop-switch",
-    "qty": 80,
+    "qty": 70,
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SF1005D_0617.jpg"
    },
    {
@@ -694,7 +726,7 @@
     "price": "R150",
     "handle": "tp-link-8-port-desktop-switch",
     "url": "https://ubratech.co.za/products/tp-link-8-port-desktop-switch",
-    "qty": 70,
+    "qty": 65,
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SF1008D_2687.jpg"
    }
   ],
@@ -751,7 +783,7 @@
     "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
-    "qty": 38
+    "qty": 28
    }
   ],
   "memory": [
@@ -967,7 +999,7 @@
     "handle": "logitech-c920s-pro-full-hd-usb-webcam",
     "url": "https://ubratech.co.za/products/logitech-c920s-pro-full-hd-usb-webcam",
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/960_001252_9ebb.jpg",
-    "qty": 12
+    "qty": 10
    }
   ]
  },
