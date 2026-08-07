@@ -18,7 +18,7 @@
     "price": "R9 821",
     "handle": "hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
     "url": "https://ubratech.co.za/products/hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
-    "qty": 23,
+    "qty": 22,
     "image": "https://s3.amazonaws.com/tarsus.co.za/DF6L7ET_default.jpg"
    }
   ],
@@ -231,16 +231,6 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro E2425HM 24\" Full-HD Monitor",
-    "spec": "Crisp everyday screen",
-    "price": "R2 386",
-    "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
-    "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 3,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
-   },
-   {
-    "brand": "Dell",
     "title": "Dell SE2726HM 27\" FHD Monitor",
     "spec": "Crisp everyday screen",
     "price": "R2 297",
@@ -280,7 +270,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 1,
+    "qty": 1370,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -305,16 +295,6 @@
    }
   ],
   "multi": [
-   {
-    "brand": "Dell",
-    "title": "Dell Pro E2425HM 24\" Full-HD Monitor",
-    "spec": "Slim bezel · great for lots of windows",
-    "price": "R2 386",
-    "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
-    "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 3,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
-   },
    {
     "brand": "Dell",
     "title": "Dell SE2726HM 27\" FHD Monitor",
@@ -428,7 +408,7 @@
     "price": "R1 985",
     "handle": "tp-link-deco-m4-whole-home-mesh-wi-fi-system-3-pack",
     "url": "https://ubratech.co.za/products/tp-link-deco-m4-whole-home-mesh-wi-fi-system-3-pack",
-    "qty": 10,
+    "qty": 9,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/E/DECO_M4_3_PACK_b101.jpg"
    },
    {
@@ -450,7 +430,7 @@
     "price": "R1 985",
     "handle": "tp-link-deco-m4-whole-home-mesh-wi-fi-system-3-pack",
     "url": "https://ubratech.co.za/products/tp-link-deco-m4-whole-home-mesh-wi-fi-system-3-pack",
-    "qty": 10,
+    "qty": 9,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/E/DECO_M4_3_PACK_b101.jpg"
    }
   ]
@@ -773,7 +753,7 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 226
+    "qty": 215
    },
    {
     "brand": "Seagate",
@@ -795,7 +775,7 @@
     "handle": "hiksemi-hiker-8gb-3200mhz-ddr4-sodimm",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-8gb-3200mhz-ddr4-sodimm",
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/HSC408S32Z1-8G_wr_-2.jpg",
-    "qty": 204
+    "qty": 203
    },
    {
     "brand": "Hiksemi",
