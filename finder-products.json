@@ -31,7 +31,7 @@
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "qty": 100,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA-BUN1Q2_default.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
     "brand": "Lenovo",
@@ -41,7 +41,7 @@
     "handle": "lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
     "qty": 100,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA-BUN3Q2_default.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA_default.jpg"
    }
   ],
   "high": [
@@ -105,11 +105,11 @@
     "brand": "Lenovo",
     "title": "Lenovo Neo 50s G6 Desktop — Core Ultra 5 · 16GB · 512GB SSD",
     "spec": "Performance desktop",
-    "price": "R14 985",
+    "price": "R16 897",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 2,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
+    "qty": 8,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA-BUN6Q2_default.png"
    }
   ],
   "mid": [
@@ -117,11 +117,11 @@
     "brand": "Lenovo",
     "title": "Lenovo Neo 50s G6 Desktop — Core Ultra 5 · 16GB · 512GB SSD",
     "spec": "Performance desktop",
-    "price": "R14 985",
+    "price": "R16 897",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 2,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
+    "qty": 8,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA-BUN6Q2_default.png"
    },
    {
     "brand": "Dell",
@@ -174,16 +174,6 @@
   ],
   "ultra": [
    {
-    "brand": "Dell",
-    "title": "Dell Alienware 16 Aurora — RTX 4050 · 16GB · 512GB SSD",
-    "spec": "RTX 4050 · 16GB RAM · 512GB SSD",
-    "price": "R36 225",
-    "handle": "dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
-    "url": "https://ubratech.co.za/products/dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
-    "qty": 3,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/C/AC16250_RPLH_R_006_794e.jpg"
-   },
-   {
     "brand": "Asus",
     "title": "Asus ROG Strix G16 — Ryzen 9 · 16GB · 1TB SSD",
     "spec": "Ryzen 9 · 16GB RAM · 1TB SSD",
@@ -226,7 +216,7 @@
     "price": "R1 585",
     "handle": "dell-e2225hm-pro-21-5-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-e2225hm-pro-21-5-fhd-monitor",
-    "qty": 56,
+    "qty": 89,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQMZ_4276.jpg"
    },
    {
@@ -270,7 +260,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 1361,
+    "qty": 1360,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
