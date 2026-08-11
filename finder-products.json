@@ -5,21 +5,11 @@
     "brand": "HP",
     "title": "HP 255R G10 15.6\" Ryzen-3 8GB 512GB Win 11 Home Notebook",
     "spec": "8GB RAM · 512GB SSD",
-    "price": "R8 625",
+    "price": "R10 816",
     "handle": "hp-255r-g10-15-6-ryzen-3-8gb-512gb-win-11-home-notebook",
     "url": "https://ubratech.co.za/products/hp-255r-g10-15-6-ryzen-3-8gb-512gb-win-11-home-notebook",
     "qty": 100,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/0/D0ML8AT_1a63.jpg"
-   },
-   {
-    "brand": "HP",
-    "title": "HP 250 G9 15.6\" Core i3 16GB 256GB Win 11 Pro Notebook",
-    "spec": "Core i3 · 16GB RAM · 256GB SSD",
-    "price": "R9 821",
-    "handle": "hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
-    "url": "https://ubratech.co.za/products/hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
-    "qty": 22,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DF6L7ET_default.jpg"
    }
   ],
   "mid": [
@@ -31,7 +21,7 @@
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "qty": 100,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA-BUN1Q2_default.png"
    },
    {
     "brand": "Lenovo",
@@ -41,7 +31,7 @@
     "handle": "lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
     "qty": 100,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA_default.jpg"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA-BUN3Q2_default.png"
    }
   ],
   "high": [
@@ -49,7 +39,7 @@
     "brand": "Microsoft",
     "title": "Microsoft Surface Laptop (Snapdragon X Plus) 16GB 512GB",
     "spec": "16GB RAM · 512GB SSD",
-    "price": "R20 342",
+    "price": "R25 720",
     "handle": "microsoft-surface-laptop-snapdragon-x-plus-laptop-16gb-ep2-31279",
     "url": "https://ubratech.co.za/products/microsoft-surface-laptop-snapdragon-x-plus-laptop-16gb-ep2-31279",
     "qty": 4,
@@ -62,7 +52,7 @@
     "price": "R21 619",
     "handle": "hp-probook-440-g11-14-core-u5-16gb-512gb-win-11-pro-silver-notebook",
     "url": "https://ubratech.co.za/products/hp-probook-440-g11-14-core-u5-16gb-512gb-win-11-pro-silver-notebook",
-    "qty": 4,
+    "qty": 5,
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/3/A38B8ET__3bbe.jpg"
    }
   ],
@@ -81,7 +71,7 @@
     "brand": "HP",
     "title": "HP ZBook 8 G1i — Core Ultra 7 · 32GB · 1TB SSD · RTX",
     "spec": "RTX · Core Ultra 7 · 32GB · 1TB SSD",
-    "price": "R46 591",
+    "price": "R86 013",
     "handle": "hp-zbook-8-g1i-laptop-core-ultra-7-32gb-1tb-ssd-cg0g9et",
     "url": "https://ubratech.co.za/products/hp-zbook-8-g1i-laptop-core-ultra-7-32gb-1tb-ssd-cg0g9et",
     "qty": 48,
@@ -91,7 +81,7 @@
     "brand": "HP",
     "title": "HP ZBook 8 G1i — Core Ultra 7 · 512GB SSD · RTX",
     "spec": "RTX · Core Ultra 7 · 512GB SSD",
-    "price": "R42 184",
+    "price": "R52 299",
     "handle": "hp-zbook-8-g1i-laptop-core-ultra-7-512gb-ssd-cg0k8et",
     "url": "https://ubratech.co.za/products/hp-zbook-8-g1i-laptop-core-ultra-7-512gb-ssd-cg0k8et",
     "qty": 23,
@@ -127,7 +117,7 @@
     "brand": "Dell",
     "title": "Dell Pro Slim QCS1250 Desktop — Core Ultra 5 · 512GB SSD",
     "spec": "Performance desktop",
-    "price": "R25 885",
+    "price": "R24 892",
     "handle": "dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
     "url": "https://ubratech.co.za/products/dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
     "qty": 2,
@@ -139,7 +129,7 @@
     "brand": "Dell",
     "title": "Dell Pro Slim QCS1250 Desktop — Core Ultra 5 · 512GB SSD",
     "spec": "Premium desktop",
-    "price": "R25 885",
+    "price": "R24 892",
     "handle": "dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
     "url": "https://ubratech.co.za/products/dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
     "qty": 2,
@@ -165,7 +155,7 @@
     "brand": "Acer",
     "title": "Acer Nitro V 16 Ryzen 7 16GB 1TB 180Hz Gaming Laptop",
     "spec": "16GB RAM · 1TB SSD",
-    "price": "R22 665",
+    "price": "R24 043",
     "handle": "acer-nitro-v-16-r7-260-16gb-1tb-16in-wuxga-ips-180hz-display-5050-windows-11-home",
     "url": "https://ubratech.co.za/products/acer-nitro-v-16-r7-260-16gb-1tb-16in-wuxga-ips-180hz-display-5050-windows-11-home",
     "qty": 6,
@@ -260,14 +250,14 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 818,
+    "qty": 777,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
     "brand": "Acer",
     "title": "Acer 24\" IPS FHD 120Hz Monitor",
     "spec": "High refresh · smooth motion",
-    "price": "R2 014",
+    "price": "R1 966",
     "handle": "acer-24-ips-fhd-120hz-monitor-3yr",
     "url": "https://ubratech.co.za/products/acer-24-ips-fhd-120hz-monitor-3yr",
     "qty": 12,
@@ -277,7 +267,7 @@
     "brand": "Acer",
     "title": "Acer 27\" IPS FHD 120Hz Monitor",
     "spec": "High refresh · smooth motion",
-    "price": "R2 391",
+    "price": "R2 372",
     "handle": "acer-27-ips-fhd-120hz-monitor-3yr",
     "url": "https://ubratech.co.za/products/acer-27-ips-fhd-120hz-monitor-3yr",
     "qty": 5,
@@ -298,18 +288,7 @@
   ]
  },
  "ups": {
-  "router": [
-   {
-    "brand": "Lalela",
-    "title": "Lalela Wi-Fi UPS for router (2–3 hour runtime)",
-    "spec": "Keeps Wi-Fi on through outages",
-    "price": "R315",
-    "handle": "lalela-r1800-wi-fi-ups-for-router-and-ont-32wh-2-3-hour-runtime",
-    "url": "https://ubratech.co.za/products/lalela-r1800-wi-fi-ups-for-router-and-ont-32wh-2-3-hour-runtime",
-    "qty": 13,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/LAL-R1800_default.png"
-   }
-  ],
+  "router": [],
   "desk": [
    {
     "brand": "Hikvision",
@@ -340,7 +319,7 @@
     "price": "R2 972",
     "handle": "eaton-5e-1600va-gen2-usb-iec-ups",
     "url": "https://ubratech.co.za/products/eaton-5e-1600va-gen2-usb-iec-ups",
-    "qty": 21,
+    "qty": 47,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
    },
    {
@@ -456,7 +435,7 @@
     "price": "R4 854",
     "handle": "canon-gx2040-megatank-maxify-business-range-wireless-all-in-one-printer-6171c021aa",
     "url": "https://ubratech.co.za/products/canon-gx2040-megatank-maxify-business-range-wireless-all-in-one-printer-6171c021aa",
-    "qty": 3,
+    "qty": 4,
     "image": "https://s3.amazonaws.com/tarsus.co.za/6171C021AA_default.png"
    },
    {
@@ -578,7 +557,7 @@
     "price": "R1 227",
     "handle": "hikvision-2mp-fixed-mini-bullet-network-camera",
     "url": "https://ubratech.co.za/products/hikvision-2mp-fixed-mini-bullet-network-camera",
-    "qty": 18,
+    "qty": 16,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2021G0_LIU_2.8MM_9325.png"
    }
   ]
@@ -599,7 +578,7 @@
     "brand": "Dell",
     "title": "Dell Pro 4-in-1 USB-C Travel Hub (DA225)",
     "spec": "One cable · power + screens",
-    "price": "R704",
+    "price": "R207",
     "handle": "dell-pro-4-in-1-usb-c-travel-hub-da225",
     "url": "https://ubratech.co.za/products/dell-pro-4-in-1-usb-c-travel-hub-da225",
     "qty": 22,
@@ -647,10 +626,10 @@
     "brand": "HP",
     "title": "HP Poly Blackwire 3220 USB-C Headset",
     "spec": "Clear-audio headset",
-    "price": "R666",
+    "price": "R894",
     "handle": "hp-poly-blackwire-3220-usb-c-wired-black-headset",
     "url": "https://ubratech.co.za/products/hp-poly-blackwire-3220-usb-c-wired-black-headset",
-    "qty": 25,
+    "qty": 20,
     "image": "https://www.pinnacle.co.za/media/catalog/product/8/X/8X228AA_74f8.png"
    }
   ],
@@ -743,7 +722,7 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 190
+    "qty": 189
    },
    {
     "brand": "Seagate",
@@ -873,7 +852,7 @@
     "handle": "xiaomi-robot-vacuum-s40c",
     "url": "https://ubratech.co.za/products/xiaomi-robot-vacuum-s40c",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/BHR9664EU_Xiaomi-Robot-Vacuum-S40C_wr_02a-1.jpg",
-    "qty": 38
+    "qty": 37
    }
   ],
   "audio": [
@@ -885,7 +864,7 @@
     "handle": "xiaomi-soundbar-2-0ch",
     "url": "https://ubratech.co.za/products/xiaomi-soundbar-2-0ch",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/QBH4286EU_Xiaomi-Soundbar-2.0ch_wr_01.jpg",
-    "qty": 45
+    "qty": 44
    },
    {
     "brand": "Xiaomi",
@@ -905,7 +884,7 @@
     "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
     "url": "https://ubratech.co.za/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg",
-    "qty": 205
+    "qty": 176
    }
   ],
   "everyday": [
