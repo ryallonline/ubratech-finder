@@ -205,18 +205,8 @@
     "price": "R1 910",
     "handle": "dell-e2225hm-pro-21-5-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-e2225hm-pro-21-5-fhd-monitor",
-    "qty": 1090,
+    "qty": 986,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQMZ_4276.jpg"
-   },
-   {
-    "brand": "Dell",
-    "title": "Dell Pro E2425HM 24\" Full-HD Monitor",
-    "spec": "Crisp everyday screen",
-    "price": "R2 386",
-    "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
-    "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 1,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
    },
    {
     "brand": "Dell",
@@ -284,16 +274,6 @@
    }
   ],
   "multi": [
-   {
-    "brand": "Dell",
-    "title": "Dell Pro E2425HM 24\" Full-HD Monitor",
-    "spec": "Slim bezel · great for lots of windows",
-    "price": "R2 386",
-    "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
-    "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 1,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
-   },
    {
     "brand": "Dell",
     "title": "Dell SE2726HM 27\" FHD Monitor",
@@ -523,7 +503,7 @@
     "price": "R400",
     "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
     "url": "https://ubratech.co.za/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 1787,
+    "qty": 6,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
