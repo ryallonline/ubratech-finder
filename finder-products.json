@@ -144,7 +144,7 @@
     "brand": "Acer",
     "title": "Acer Nitro V 16 Ryzen 7 16GB 1TB 180Hz Gaming Laptop",
     "spec": "16GB RAM · 1TB SSD",
-    "price": "R24 043",
+    "price": "R22 665",
     "handle": "acer-nitro-v-16-r7-260-16gb-1tb-16in-wuxga-ips-180hz-display-5050-windows-11-home",
     "url": "https://ubratech.co.za/products/acer-nitro-v-16-r7-260-16gb-1tb-16in-wuxga-ips-180hz-display-5050-windows-11-home",
     "qty": 6,
@@ -152,6 +152,16 @@
    }
   ],
   "ultra": [
+   {
+    "brand": "Dell",
+    "title": "Dell Alienware 16 Aurora — RTX 4050 · 16GB · 512GB SSD",
+    "spec": "RTX 4050 · 16GB RAM · 512GB SSD",
+    "price": "R36 225",
+    "handle": "dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
+    "url": "https://ubratech.co.za/products/dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
+    "qty": 2,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/C/AC16250_RPLH_R_006_794e.jpg"
+   },
    {
     "brand": "Asus",
     "title": "Asus ROG Strix G16 — Ryzen 9 · 16GB · 1TB SSD",
@@ -215,7 +225,7 @@
     "price": "R2 297",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1099,
+    "qty": 1094,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ],
@@ -256,7 +266,7 @@
     "brand": "Acer",
     "title": "Acer 24\" IPS FHD 120Hz Monitor",
     "spec": "High refresh · smooth motion",
-    "price": "R1 966",
+    "price": "R2 014",
     "handle": "acer-24-ips-fhd-120hz-monitor-3yr",
     "url": "https://ubratech.co.za/products/acer-24-ips-fhd-120hz-monitor-3yr",
     "qty": 12,
@@ -266,7 +276,7 @@
     "brand": "Acer",
     "title": "Acer 27\" IPS FHD 120Hz Monitor",
     "spec": "High refresh · smooth motion",
-    "price": "R2 372",
+    "price": "R2 391",
     "handle": "acer-27-ips-fhd-120hz-monitor-3yr",
     "url": "https://ubratech.co.za/products/acer-27-ips-fhd-120hz-monitor-3yr",
     "qty": 5,
@@ -291,7 +301,7 @@
     "price": "R2 297",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1099,
+    "qty": 1094,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ]
@@ -324,7 +334,7 @@
     "brand": "APC",
     "title": "APC Back-UPS 1200VA / 650W",
     "spec": "Backs up a PC + screen",
-    "price": "R2 418",
+    "price": "R2 443",
     "handle": "apc-backup-ups-1200va-1-2kva-650w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
     "url": "https://ubratech.co.za/products/apc-backup-ups-1200va-1-2kva-650w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
     "qty": 38,
@@ -339,7 +349,7 @@
     "price": "R2 972",
     "handle": "eaton-5e-1600va-gen2-usb-iec-ups",
     "url": "https://ubratech.co.za/products/eaton-5e-1600va-gen2-usb-iec-ups",
-    "qty": 47,
+    "qty": 46,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
    }
   ],
@@ -629,7 +639,7 @@
     "price": "R509",
     "handle": "hp-320-black-full-hd-usb-webcam",
     "url": "https://ubratech.co.za/products/hp-320-black-full-hd-usb-webcam",
-    "qty": 10,
+    "qty": 9,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/3/53X26AA_9bf9.png"
    },
    {
