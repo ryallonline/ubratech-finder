@@ -84,7 +84,7 @@
     "price": "R46 591",
     "handle": "hp-zbook-8-g1i-laptop-core-ultra-7-32gb-1tb-ssd-cg0g9et",
     "url": "https://ubratech.co.za/products/hp-zbook-8-g1i-laptop-core-ultra-7-32gb-1tb-ssd-cg0g9et",
-    "qty": 47,
+    "qty": 46,
     "image": "https://s3.amazonaws.com/tarsus.co.za/CG0G9ET_default.jpg"
    },
    {
@@ -215,7 +215,7 @@
     "price": "R2 297",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1071,
+    "qty": 299,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ],
@@ -249,7 +249,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 736,
+    "qty": 500,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -281,7 +281,7 @@
     "price": "R2 297",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1071,
+    "qty": 299,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ]
@@ -317,7 +317,7 @@
     "price": "R2 443",
     "handle": "apc-backup-ups-1200va-1-2kva-650w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
     "url": "https://ubratech.co.za/products/apc-backup-ups-1200va-1-2kva-650w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
-    "qty": 38,
+    "qty": 58,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BX1200MI_default.jpg"
    }
   ],
@@ -329,7 +329,7 @@
     "price": "R2 972",
     "handle": "eaton-5e-1600va-gen2-usb-iec-ups",
     "url": "https://ubratech.co.za/products/eaton-5e-1600va-gen2-usb-iec-ups",
-    "qty": 43,
+    "qty": 44,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
    }
   ],
@@ -351,7 +351,7 @@
     "price": "R15 739",
     "handle": "apc-smart-ups-1500va-lcd-rm-2u-230v-with-smartconnect",
     "url": "https://ubratech.co.za/products/apc-smart-ups-1500va-lcd-rm-2u-230v-with-smartconnect",
-    "qty": 1,
+    "qty": 2,
     "image": "https://s3.amazonaws.com/tarsus.co.za/SMT1500RMI2UC_default.jpg"
    }
   ]
@@ -362,7 +362,7 @@
     "brand": "Mercusys",
     "title": "Mercusys Halo H50G Mesh Wi-Fi System (2-pack)",
     "spec": "Whole-home Wi-Fi · easy setup",
-    "price": "R843",
+    "price": "R941",
     "handle": "mercusys-halo-h50g-home-mesh-wi-fi-system-2-pack",
     "url": "https://ubratech.co.za/products/mercusys-halo-h50g-home-mesh-wi-fi-system-2-pack",
     "qty": 13,
@@ -384,7 +384,7 @@
     "brand": "Mercusys",
     "title": "Mercusys Halo H30G Mesh Wi-Fi System (3-pack)",
     "spec": "Covers a full house · one network name",
-    "price": "R1 226",
+    "price": "R1 269",
     "handle": "mercusys-halo-h30g-home-mesh-wi-fi-system-3-pack",
     "url": "https://ubratech.co.za/products/mercusys-halo-h30g-home-mesh-wi-fi-system-3-pack",
     "qty": 8,
@@ -652,7 +652,7 @@
     "brand": "TP-Link",
     "title": "TP-Link 5-Port Gigabit Desktop Switch",
     "spec": "More wired ports",
-    "price": "R133",
+    "price": "R130",
     "handle": "tp-link-5-port-desktop-switch",
     "url": "https://ubratech.co.za/products/tp-link-5-port-desktop-switch",
     "qty": 70,
@@ -662,7 +662,7 @@
     "brand": "TP-Link",
     "title": "TP-Link 8-Port Desktop Switch",
     "spec": "More wired ports",
-    "price": "R150",
+    "price": "R146",
     "handle": "tp-link-8-port-desktop-switch",
     "url": "https://ubratech.co.za/products/tp-link-8-port-desktop-switch",
     "qty": 65,
@@ -833,6 +833,16 @@
     "url": "https://ubratech.co.za/products/tp-link-tapo-d205-2k-battery-video-doorbell-mini",
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/A/TAPO_D205_5ba3.jpg",
     "qty": 16
+   },
+   {
+    "brand": "Xiaomi",
+    "title": "Xiaomi Robot Vacuum S40C",
+    "spec": "App control · auto cleaning",
+    "price": "R3 763",
+    "handle": "xiaomi-robot-vacuum-s40c",
+    "url": "https://ubratech.co.za/products/xiaomi-robot-vacuum-s40c",
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/BHR9664EU_Xiaomi-Robot-Vacuum-S40C_wr_02a-1.jpg",
+    "qty": 38
    }
   ],
   "audio": [
@@ -937,7 +947,7 @@
    "brand": "TP-Link",
    "title": "TP-Link N300 Wall-Plate Access Point",
    "spec": "Wall AP · strong coverage",
-   "price": "R418",
+   "price": "R450",
    "handle": "tp-link-n300-300mbps-wireless-n-wall-plate-access-point",
    "url": "https://ubratech.co.za/products/tp-link-n300-300mbps-wireless-n-wall-plate-access-point",
    "qty": 1,
@@ -947,7 +957,7 @@
    "brand": "TP-Link",
    "title": "TP-Link Ceiling-Mount Access Point",
    "spec": "Ceiling AP · strong coverage",
-   "price": "R460",
+   "price": "R490",
    "handle": "tp-link-300mbps-wireless-n-ceiling-mount-access-point",
    "url": "https://ubratech.co.za/products/tp-link-300mbps-wireless-n-ceiling-mount-access-point",
    "qty": 2,
