@@ -49,7 +49,7 @@
     "brand": "Microsoft",
     "title": "Microsoft Surface Laptop (Snapdragon X Plus) 16GB 512GB",
     "spec": "16GB RAM · 512GB SSD",
-    "price": "R20 342",
+    "price": "R17 748",
     "handle": "microsoft-surface-laptop-snapdragon-x-plus-laptop-16gb-ep2-31279",
     "url": "https://ubratech.co.za/products/microsoft-surface-laptop-snapdragon-x-plus-laptop-16gb-ep2-31279",
     "qty": 4,
@@ -193,7 +193,7 @@
     "price": "R2 297",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1067,
+    "qty": 1057,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ],
@@ -237,7 +237,7 @@
     "price": "R2 014",
     "handle": "acer-24-ips-fhd-120hz-monitor-3yr",
     "url": "https://ubratech.co.za/products/acer-24-ips-fhd-120hz-monitor-3yr",
-    "qty": 10,
+    "qty": 1,
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.QE1EE.G08_default.png"
    },
    {
@@ -259,7 +259,7 @@
     "price": "R2 297",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1067,
+    "qty": 1057,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ]
@@ -316,7 +316,7 @@
     "brand": "APC",
     "title": "APC Smart-UPS 1000VA LCD (SmartConnect)",
     "spec": "Rack-mount · critical kit",
-    "price": "R9 418",
+    "price": "R9 632",
     "handle": "apc-smart-ups-1000va-lcd-230v-with-smartconnect",
     "url": "https://ubratech.co.za/products/apc-smart-ups-1000va-lcd-230v-with-smartconnect",
     "qty": 5,
@@ -326,7 +326,7 @@
     "brand": "APC",
     "title": "APC Smart-UPS 1500VA LCD RM 2U (SmartConnect)",
     "spec": "Rack-mount · critical kit",
-    "price": "R15 739",
+    "price": "R17 628",
     "handle": "apc-smart-ups-1500va-lcd-rm-2u-230v-with-smartconnect",
     "url": "https://ubratech.co.za/products/apc-smart-ups-1500va-lcd-rm-2u-230v-with-smartconnect",
     "qty": 2,
@@ -413,7 +413,7 @@
     "price": "R4 854",
     "handle": "canon-gx2040-megatank-maxify-business-range-wireless-all-in-one-printer-6171c021aa",
     "url": "https://ubratech.co.za/products/canon-gx2040-megatank-maxify-business-range-wireless-all-in-one-printer-6171c021aa",
-    "qty": 2,
+    "qty": 1,
     "image": "https://s3.amazonaws.com/tarsus.co.za/6171C021AA_default.png"
    },
    {
@@ -423,7 +423,7 @@
     "price": "R8 047",
     "handle": "hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
     "url": "https://ubratech.co.za/products/hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
-    "qty": 97,
+    "qty": 96,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    }
   ],
@@ -491,7 +491,7 @@
     "price": "R400",
     "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
     "url": "https://ubratech.co.za/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 1786,
+    "qty": 6,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
@@ -679,7 +679,7 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 185
+    "qty": 184
    },
    {
     "brand": "Seagate",
@@ -689,7 +689,7 @@
     "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
-    "qty": 26
+    "qty": 25
    }
   ],
   "memory": [
@@ -701,7 +701,7 @@
     "handle": "hiksemi-hiker-8gb-3200mhz-ddr4-sodimm",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-8gb-3200mhz-ddr4-sodimm",
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/HSC408S32Z1-8G_wr_-2.jpg",
-    "qty": 202
+    "qty": 201
    },
    {
     "brand": "Hiksemi",
@@ -711,7 +711,7 @@
     "handle": "hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/HSC516U48Z1-16G_Hiksemi-Hiker-16GB-DDR5-4800MHz-Desktop-Memory_wr_01a.jpg",
-    "qty": 213
+    "qty": 209
    },
    {
     "brand": "GeIL",
@@ -789,7 +789,7 @@
     "handle": "tp-link-tapo-c200-pan-tilt-home-security-wi-fi-camera",
     "url": "https://ubratech.co.za/products/tp-link-tapo-c200-pan-tilt-home-security-wi-fi-camera",
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/A/TAPO_C200_bc67.png",
-    "qty": 48
+    "qty": 1
    },
    {
     "brand": "TP-Link",
@@ -821,7 +821,7 @@
     "handle": "xiaomi-soundbar-2-0ch",
     "url": "https://ubratech.co.za/products/xiaomi-soundbar-2-0ch",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/QBH4286EU_Xiaomi-Soundbar-2.0ch_wr_01.jpg",
-    "qty": 71
+    "qty": 69
    },
    {
     "brand": "Xiaomi",
@@ -864,16 +864,6 @@
     "url": "https://ubratech.co.za/products/lenovo-dual-usb-c-65w-gan-charger",
     "image": "https://s3.amazonaws.com/tarsus.co.za/40AW065BEU_default.jpg",
     "qty": 28
-   },
-   {
-    "brand": "Gizzu",
-    "title": "Gizzu Surge Protector 10A Kettle Plug 1.5m",
-    "spec": "Protects your gear",
-    "price": "R60",
-    "handle": "gizzu-surge-protector-10a-kettle-plug-cable-1-5m",
-    "url": "https://ubratech.co.za/products/gizzu-surge-protector-10a-kettle-plug-cable-1-5m",
-    "image": "https://www.syntech.co.za/wp-content/uploads/2023/08/GSPIEC1_wr_01a.jpg",
-    "qty": 7
    }
   ],
   "comfort": [
