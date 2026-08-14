@@ -102,7 +102,18 @@
  "desktop": {
   "entry": [],
   "mid": [],
-  "high": [],
+  "high": [
+   {
+    "brand": "Dell",
+    "title": "Dell Pro Micro QCM1250 Desktop — Core Ultra 5 · 16GB",
+    "spec": "Premium desktop",
+    "price": "R26 888",
+    "handle": "dell-pro-micro-qcm1250-desktop-pc-core-ultra-5-16gb-bto106_qcm1250_emea",
+    "url": "https://ubratech.co.za/products/dell-pro-micro-qcm1250-desktop-pc-core-ultra-5-16gb-bto106_qcm1250_emea",
+    "qty": 12,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO106_QCM1250_EMEA_default.jpg"
+   }
+  ],
   "creator": [
    {
     "brand": "Asus",
@@ -112,7 +123,7 @@
     "handle": "asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
     "url": "https://ubratech.co.za/products/asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg",
-    "qty": 11
+    "qty": 8
    }
   ]
  },
@@ -170,7 +181,7 @@
     "handle": "asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
     "url": "https://ubratech.co.za/products/asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg",
-    "qty": 11
+    "qty": 8
    }
   ]
  },
@@ -180,10 +191,10 @@
     "brand": "Dell",
     "title": "Dell E2225HM Pro 21.5\" FHD Monitor",
     "spec": "Crisp everyday screen",
-    "price": "R1 910",
+    "price": "R1 853",
     "handle": "dell-e2225hm-pro-21-5-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-e2225hm-pro-21-5-fhd-monitor",
-    "qty": 985,
+    "qty": 20,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQMZ_4276.jpg"
    },
    {
@@ -193,7 +204,7 @@
     "price": "R2 297",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1057,
+    "qty": 1054,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ],
@@ -227,7 +238,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 691,
+    "qty": 1,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -259,7 +270,7 @@
     "price": "R2 297",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1057,
+    "qty": 1054,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ]
@@ -349,16 +360,6 @@
   ],
   "house": [
    {
-    "brand": "TP-Link",
-    "title": "TP-Link Deco M4 Mesh Wi-Fi System (3-pack)",
-    "spec": "Covers a full house · one network name",
-    "price": "R1 985",
-    "handle": "tp-link-deco-m4-whole-home-mesh-wi-fi-system-3-pack",
-    "url": "https://ubratech.co.za/products/tp-link-deco-m4-whole-home-mesh-wi-fi-system-3-pack",
-    "qty": 9,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/E/DECO_M4_3_PACK_b101.jpg"
-   },
-   {
     "brand": "Mercusys",
     "title": "Mercusys Halo H30G Mesh Wi-Fi System (3-pack)",
     "spec": "Covers a full house · one network name",
@@ -369,18 +370,7 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/A/HALO_H30G_3_PACK_f3ee.png"
    }
   ],
-  "large": [
-   {
-    "brand": "TP-Link",
-    "title": "TP-Link Deco M4 Mesh Wi-Fi System (3-pack)",
-    "spec": "Big-property coverage",
-    "price": "R1 985",
-    "handle": "tp-link-deco-m4-whole-home-mesh-wi-fi-system-3-pack",
-    "url": "https://ubratech.co.za/products/tp-link-deco-m4-whole-home-mesh-wi-fi-system-3-pack",
-    "qty": 9,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/E/DECO_M4_3_PACK_b101.jpg"
-   }
-  ]
+  "large": []
  },
  "printers": {
   "docs": [
@@ -469,16 +459,6 @@
     "url": "https://ubratech.co.za/products/bixolon-xd3-40t-4-direct-thermal-label-printer",
     "image": "https://www.pinnacle.co.za/media/catalog/product/X/D/XD3_40TEK_PNC_3_ca89.png",
     "qty": 20
-   },
-   {
-    "brand": "Zebra",
-    "title": "Zebra ZT411 4\" Thermal Transfer Label Printer",
-    "spec": "Industrial · high volume",
-    "price": "R18 853",
-    "handle": "zebra-zt411-4-thermal-transfer-label-printer",
-    "url": "https://ubratech.co.za/products/zebra-zt411-4-thermal-transfer-label-printer",
-    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/T/ZT41142_T0E0000Z_4906.png",
-    "qty": 1
    }
   ]
  },
@@ -535,7 +515,7 @@
     "price": "R1 227",
     "handle": "hikvision-2mp-fixed-mini-bullet-network-camera",
     "url": "https://ubratech.co.za/products/hikvision-2mp-fixed-mini-bullet-network-camera",
-    "qty": 249,
+    "qty": 248,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2021G0_LIU_2.8MM_9325.png"
    }
   ]
@@ -679,7 +659,7 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 184
+    "qty": 183
    },
    {
     "brand": "Seagate",
@@ -689,7 +669,7 @@
     "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
-    "qty": 25
+    "qty": 20
    }
   ],
   "memory": [
@@ -733,7 +713,7 @@
     "handle": "asus-tuf-gaming-geforce-rtx-5060-8gb-gddr7-oc-edition-graphics-card",
     "url": "https://ubratech.co.za/products/asus-tuf-gaming-geforce-rtx-5060-8gb-gddr7-oc-edition-graphics-card",
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/TUF-RTX5060-O8G_ASUS-TUF-Gaming-GeForce-RTX-5060-8GB-GDDR7-OC-Edition-Graphics-Card_wr_01.jpg",
-    "qty": 5
+    "qty": 4
    },
    {
     "brand": "Asus",
@@ -743,7 +723,7 @@
     "handle": "asus-tuf-gaming-geforce-rtx-5070-12gb-gddr7-oc-edition",
     "url": "https://ubratech.co.za/products/asus-tuf-gaming-geforce-rtx-5070-12gb-gddr7-oc-edition",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/TUF-RTX5070-O12G-GAMING-wr-01.jpg",
-    "qty": 6
+    "qty": 5
    }
   ],
   "power": [
@@ -789,7 +769,7 @@
     "handle": "tp-link-tapo-c200-pan-tilt-home-security-wi-fi-camera",
     "url": "https://ubratech.co.za/products/tp-link-tapo-c200-pan-tilt-home-security-wi-fi-camera",
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/A/TAPO_C200_bc67.png",
-    "qty": 1
+    "qty": 4
    },
    {
     "brand": "TP-Link",
@@ -821,7 +801,7 @@
     "handle": "xiaomi-soundbar-2-0ch",
     "url": "https://ubratech.co.za/products/xiaomi-soundbar-2-0ch",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/QBH4286EU_Xiaomi-Soundbar-2.0ch_wr_01.jpg",
-    "qty": 69
+    "qty": 66
    },
    {
     "brand": "Xiaomi",
@@ -909,16 +889,6 @@
    "url": "https://ubratech.co.za/products/tp-link-n300-300mbps-wireless-n-wall-plate-access-point",
    "qty": 1,
    "image": "https://www.pinnacle.co.za/media/catalog/product/E/A/EAP115_WALL_605e.png"
-  },
-  {
-   "brand": "TP-Link",
-   "title": "TP-Link Ceiling-Mount Access Point",
-   "spec": "Ceiling AP · strong coverage",
-   "price": "R490",
-   "handle": "tp-link-300mbps-wireless-n-ceiling-mount-access-point",
-   "url": "https://ubratech.co.za/products/tp-link-300mbps-wireless-n-ceiling-mount-access-point",
-   "qty": 2,
-   "image": "https://www.pinnacle.co.za/media/catalog/product/E/A/EAP115_7d9d.jpg"
   }
  ]
 }
