@@ -10,16 +10,6 @@
     "url": "https://ubratech.co.za/products/hp-255r-g10-15-6-ryzen-3-8gb-512gb-win-11-home-notebook",
     "qty": 100,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/0/D0ML8AT_1a63.jpg"
-   },
-   {
-    "brand": "HP",
-    "title": "HP 250 G9 15.6\" Core i3 16GB 256GB Win 11 Pro Notebook",
-    "spec": "Core i3 · 16GB RAM · 256GB SSD",
-    "price": "R9 821",
-    "handle": "hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
-    "url": "https://ubratech.co.za/products/hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
-    "qty": 20,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DF6L7ET_default.jpg"
    }
   ],
   "mid": [
@@ -101,30 +91,8 @@
  },
  "desktop": {
   "entry": [],
-  "mid": [
-   {
-    "brand": "Dell",
-    "title": "Dell Pro Slim QCS1250 Desktop — Core Ultra 5 · 512GB SSD",
-    "spec": "Performance desktop",
-    "price": "R25 885",
-    "handle": "dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
-    "url": "https://ubratech.co.za/products/dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
-    "qty": 2,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO105_QCS1250_EMEA_default.png"
-   }
-  ],
-  "high": [
-   {
-    "brand": "Dell",
-    "title": "Dell Pro Slim QCS1250 Desktop — Core Ultra 5 · 512GB SSD",
-    "spec": "Premium desktop",
-    "price": "R25 885",
-    "handle": "dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
-    "url": "https://ubratech.co.za/products/dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
-    "qty": 2,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO105_QCS1250_EMEA_default.png"
-   }
-  ],
+  "mid": [],
+  "high": [],
   "creator": [
    {
     "brand": "Asus",
@@ -611,18 +579,7 @@
   ]
  },
  "meet": {
-  "desk": [
-   {
-    "brand": "HP",
-    "title": "HP Poly Blackwire 3220 USB-C Headset",
-    "spec": "Clear-audio headset",
-    "price": "R842",
-    "handle": "hp-poly-blackwire-3220-usb-c-wired-black-headset",
-    "url": "https://ubratech.co.za/products/hp-poly-blackwire-3220-usb-c-wired-black-headset",
-    "qty": 20,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/8/X/8X228AA_74f8.png"
-   }
-  ],
+  "desk": [],
   "board": [
    {
     "brand": "Logitech",
