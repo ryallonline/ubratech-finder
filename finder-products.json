@@ -18,7 +18,7 @@
     "price": "R9 821",
     "handle": "hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
     "url": "https://ubratech.co.za/products/hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
-    "qty": 20,
+    "qty": 17,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/F/DF6L7ET_4f9d.jpg"
    }
   ],
@@ -100,7 +100,18 @@
   ]
  },
  "desktop": {
-  "entry": [],
+  "entry": [
+   {
+    "brand": "Dell",
+    "title": "Dell Pro Slim Essential QVS1260 Desktop — Core i3 8GB 512GB",
+    "spec": "Everyday desktop PC",
+    "price": "R17 313",
+    "handle": "dell-pro-slim-essential-qvs1260-desktop-pc-core-i3-bto001_qvs1260_emea",
+    "url": "https://ubratech.co.za/products/dell-pro-slim-essential-qvs1260-desktop-pc-core-i3-bto001_qvs1260_emea",
+    "qty": 100,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO001_QVS1260_EMEA_default.png"
+   }
+  ],
   "mid": [],
   "high": [
    {
@@ -110,7 +121,7 @@
     "price": "R26 888",
     "handle": "dell-pro-micro-qcm1250-desktop-pc-core-ultra-5-16gb-bto106_qcm1250_emea",
     "url": "https://ubratech.co.za/products/dell-pro-micro-qcm1250-desktop-pc-core-ultra-5-16gb-bto106_qcm1250_emea",
-    "qty": 12,
+    "qty": 11,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO106_QCM1250_EMEA_default.jpg"
    }
   ],
@@ -204,7 +215,7 @@
     "price": "R2 297",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1054,
+    "qty": 1055,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ],
@@ -248,7 +259,7 @@
     "price": "R2 014",
     "handle": "acer-24-ips-fhd-120hz-monitor-3yr",
     "url": "https://ubratech.co.za/products/acer-24-ips-fhd-120hz-monitor-3yr",
-    "qty": 1,
+    "qty": 10,
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.QE1EE.G08_default.png"
    },
    {
@@ -258,7 +269,7 @@
     "price": "R2 391",
     "handle": "acer-27-ips-fhd-120hz-monitor-3yr",
     "url": "https://ubratech.co.za/products/acer-27-ips-fhd-120hz-monitor-3yr",
-    "qty": 8,
+    "qty": 7,
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
    }
   ],
@@ -270,7 +281,7 @@
     "price": "R2 297",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1054,
+    "qty": 1055,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ]
@@ -281,7 +292,7 @@
     "brand": "Lalela",
     "title": "Lalela Wi-Fi UPS for router (2–3 hour runtime)",
     "spec": "Keeps Wi-Fi on through outages",
-    "price": "R315",
+    "price": "R417",
     "handle": "lalela-r1800-wi-fi-ups-for-router-and-ont-32wh-2-3-hour-runtime",
     "url": "https://ubratech.co.za/products/lalela-r1800-wi-fi-ups-for-router-and-ont-32wh-2-3-hour-runtime",
     "qty": 13,
@@ -378,7 +389,7 @@
     "brand": "HP",
     "title": "HP LaserJet Pro MFP 4103FDW Mono All-in-One",
     "spec": "Laser · sharp text · low running cost",
-    "price": "R8 073",
+    "price": "R7 810",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "qty": 100,
@@ -388,7 +399,7 @@
     "brand": "HP",
     "title": "HP LaserJet Enterprise MFP M430f All-in-One",
     "spec": "Laser · sharp text · low running cost",
-    "price": "R11 122",
+    "price": "R10 880",
     "handle": "hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
     "url": "https://ubratech.co.za/products/hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
     "qty": 85,
@@ -422,7 +433,7 @@
     "brand": "HP",
     "title": "HP LaserJet Pro MFP 4103FDW Mono All-in-One",
     "spec": "All-in-one · built for an office",
-    "price": "R8 073",
+    "price": "R7 810",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "qty": 100,
@@ -432,7 +443,7 @@
     "brand": "HP",
     "title": "HP LaserJet Enterprise MFP M430f All-in-One",
     "spec": "All-in-one · built for an office",
-    "price": "R11 122",
+    "price": "R10 880",
     "handle": "hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
     "url": "https://ubratech.co.za/products/hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
     "qty": 85,
@@ -515,7 +526,7 @@
     "price": "R1 227",
     "handle": "hikvision-2mp-fixed-mini-bullet-network-camera",
     "url": "https://ubratech.co.za/products/hikvision-2mp-fixed-mini-bullet-network-camera",
-    "qty": 248,
+    "qty": 239,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2021G0_LIU_2.8MM_9325.png"
    }
   ]
@@ -691,7 +702,7 @@
     "handle": "hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/HSC516U48Z1-16G_Hiksemi-Hiker-16GB-DDR5-4800MHz-Desktop-Memory_wr_01a.jpg",
-    "qty": 209
+    "qty": 210
    },
    {
     "brand": "GeIL",
@@ -769,7 +780,7 @@
     "handle": "tp-link-tapo-c200-pan-tilt-home-security-wi-fi-camera",
     "url": "https://ubratech.co.za/products/tp-link-tapo-c200-pan-tilt-home-security-wi-fi-camera",
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/A/TAPO_C200_bc67.png",
-    "qty": 4
+    "qty": 1
    },
    {
     "brand": "TP-Link",
@@ -801,7 +812,7 @@
     "handle": "xiaomi-soundbar-2-0ch",
     "url": "https://ubratech.co.za/products/xiaomi-soundbar-2-0ch",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/QBH4286EU_Xiaomi-Soundbar-2.0ch_wr_01.jpg",
-    "qty": 66
+    "qty": 64
    },
    {
     "brand": "Xiaomi",
@@ -865,7 +876,7 @@
     "handle": "logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "url": "https://ubratech.co.za/products/logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "image": "https://s3.amazonaws.com/tarsus.co.za/920-008685_default.jpg",
-    "qty": 21
+    "qty": 27
    },
    {
     "brand": "Logitech",
