@@ -10,6 +10,16 @@
     "url": "https://ubratech.co.za/products/hp-255r-g10-15-6-ryzen-3-8gb-512gb-win-11-home-notebook",
     "qty": 100,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/0/D0ML8AT_1a63.jpg"
+   },
+   {
+    "brand": "HP",
+    "title": "HP 250 G9 15.6\" Core i3 16GB 256GB Win 11 Pro Notebook",
+    "spec": "Core i3 · 16GB RAM · 256GB SSD",
+    "price": "R9 821",
+    "handle": "hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
+    "url": "https://ubratech.co.za/products/hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
+    "qty": 20,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/F/DF6L7ET_4f9d.jpg"
    }
   ],
   "mid": [
@@ -183,7 +193,7 @@
     "price": "R2 297",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1068,
+    "qty": 1067,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ],
@@ -217,7 +227,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 706,
+    "qty": 691,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -249,7 +259,7 @@
     "price": "R2 297",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1068,
+    "qty": 1067,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ]
