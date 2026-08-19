@@ -353,16 +353,6 @@
     "url": "https://ubratech.co.za/products/apc-smart-ups-1000va-lcd-230v-with-smartconnect",
     "qty": 4,
     "image": "https://s3.amazonaws.com/tarsus.co.za/SMT1000IC_default.jpg"
-   },
-   {
-    "brand": "APC",
-    "title": "APC Smart-UPS 1500VA LCD RM 2U (SmartConnect)",
-    "spec": "Rack-mount · critical kit",
-    "price": "R17 628",
-    "handle": "apc-smart-ups-1500va-lcd-rm-2u-230v-with-smartconnect",
-    "url": "https://ubratech.co.za/products/apc-smart-ups-1500va-lcd-rm-2u-230v-with-smartconnect",
-    "qty": 2,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SMT1500RMI2UC_default.jpg"
    }
   ]
  },
