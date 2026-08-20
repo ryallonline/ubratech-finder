@@ -225,7 +225,7 @@
     "price": "R2 286",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 448,
+    "qty": 406,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ],
@@ -281,7 +281,7 @@
     "price": "R2 286",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 448,
+    "qty": 406,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ]
@@ -670,7 +670,7 @@
     "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
-    "qty": 16
+    "qty": 15
    }
   ],
   "memory": [
@@ -682,7 +682,7 @@
     "handle": "hiksemi-hiker-8gb-3200mhz-ddr4-sodimm",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-8gb-3200mhz-ddr4-sodimm",
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/HSC408S32Z1-8G_wr_-2.jpg",
-    "qty": 252
+    "qty": 228
    },
    {
     "brand": "Hiksemi",
