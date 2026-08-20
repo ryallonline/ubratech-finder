@@ -225,7 +225,7 @@
     "price": "R2 286",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 499,
+    "qty": 449,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ],
@@ -249,7 +249,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 663,
+    "qty": 612,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -281,7 +281,7 @@
     "price": "R2 286",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 499,
+    "qty": 449,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ]
@@ -404,7 +404,7 @@
     "price": "R8 047",
     "handle": "hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
     "url": "https://ubratech.co.za/products/hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
-    "qty": 96,
+    "qty": 95,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    }
   ],
@@ -537,6 +537,16 @@
   "mac": [
    {
     "brand": "Dell",
+    "title": "Dell Pro Thunderbolt 4 Dock — WD25TB4",
+    "spec": "Thunderbolt · works with MacBook",
+    "price": "R5 548",
+    "handle": "dell-pro-thunderbolt-4-dock-wd25tb4",
+    "url": "https://ubratech.co.za/products/dell-pro-thunderbolt-4-dock-wd25tb4",
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BTHY_default.jpg",
+    "qty": 8
+   },
+   {
+    "brand": "Dell",
     "title": "Dell Pro Thunderbolt 5 Dock — WD25TB5",
     "spec": "Thunderbolt 5 · max bandwidth",
     "price": "R7 831",
@@ -650,7 +660,7 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 175
+    "qty": 173
    },
    {
     "brand": "Seagate",
@@ -660,7 +670,7 @@
     "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
-    "qty": 19
+    "qty": 16
    }
   ],
   "memory": [
