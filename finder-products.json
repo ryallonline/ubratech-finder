@@ -31,7 +31,7 @@
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "qty": 100,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA-BUN1Q2_default.png"
    },
    {
     "brand": "Lenovo",
@@ -212,6 +212,16 @@
   "creative": [
    {
     "brand": "Dell",
+    "title": "Dell UltraSharp 24 — U2424H",
+    "spec": "Colour-accurate",
+    "price": "R5 265",
+    "handle": "dell-ultrasharp-24-monitor-u2424h-60-47cm-23-8",
+    "url": "https://ubratech.co.za/products/dell-ultrasharp-24-monitor-u2424h-60-47cm-23-8",
+    "qty": 11,
+    "image": "http://cdn.cs.1worldsync.com/87/5d/875dcfd7-2045-4edb-b96d-354be9119927.jpg"
+   },
+   {
+    "brand": "Dell",
     "title": "Dell UltraSharp 24 USB-C Hub — U2424HE",
     "spec": "Colour-accurate · USB-C",
     "price": "R6 260",
@@ -229,7 +239,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 594,
+    "qty": 598,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
