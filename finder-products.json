@@ -59,10 +59,10 @@
     "brand": "HP",
     "title": "HP ProBook 440 G11 14\" Core Ultra 5 16GB 512GB Win 11 Pro",
     "spec": "16GB RAM · 512GB SSD",
-    "price": "R23 974",
+    "price": "R21 628",
     "handle": "hp-probook-440-g11-14-core-u5-16gb-512gb-win-11-pro-silver-notebook",
     "url": "https://ubratech.co.za/products/hp-probook-440-g11-14-core-u5-16gb-512gb-win-11-pro-silver-notebook",
-    "qty": 228,
+    "qty": 50,
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/3/A38B8ET__3bbe.jpg"
    }
   ],
@@ -200,6 +200,16 @@
    },
    {
     "brand": "Dell",
+    "title": "Dell Pro E2425HM 24\" Full-HD Monitor",
+    "spec": "Crisp everyday screen",
+    "price": "R2 114",
+    "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
+    "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
+    "qty": 98,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
+   },
+   {
+    "brand": "Dell",
     "title": "Dell SE2726HM 27\" FHD Monitor",
     "spec": "Crisp everyday screen",
     "price": "R2 286",
@@ -239,7 +249,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 595,
+    "qty": 582,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -254,6 +264,16 @@
    }
   ],
   "multi": [
+   {
+    "brand": "Dell",
+    "title": "Dell Pro E2425HM 24\" Full-HD Monitor",
+    "spec": "Slim bezel · great for lots of windows",
+    "price": "R2 114",
+    "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
+    "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
+    "qty": 98,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
+   },
    {
     "brand": "Dell",
     "title": "Dell SE2726HM 27\" FHD Monitor",
@@ -523,7 +543,7 @@
     "handle": "dell-pro-thunderbolt-4-dock-wd25tb4",
     "url": "https://ubratech.co.za/products/dell-pro-thunderbolt-4-dock-wd25tb4",
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BTHY_default.jpg",
-    "qty": 8
+    "qty": 3
    },
    {
     "brand": "Dell",
@@ -704,7 +724,7 @@
     "handle": "asus-tuf-gaming-geforce-rtx-5070-12gb-gddr7-oc-edition",
     "url": "https://ubratech.co.za/products/asus-tuf-gaming-geforce-rtx-5070-12gb-gddr7-oc-edition",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/TUF-RTX5070-O12G-GAMING-wr-01.jpg",
-    "qty": 12
+    "qty": 19
    }
   ],
   "power": [
