@@ -5,7 +5,7 @@
     "brand": "HP",
     "title": "HP 255R G10 15.6\" Ryzen-3 8GB 512GB Win 11 Home Notebook",
     "spec": "8GB RAM · 512GB SSD",
-    "price": "R13 611",
+    "price": "R10 576",
     "handle": "hp-255r-g10-15-6-ryzen-3-8gb-512gb-win-11-home-notebook",
     "url": "https://ubratech.co.za/products/hp-255r-g10-15-6-ryzen-3-8gb-512gb-win-11-home-notebook",
     "qty": 93,
@@ -18,7 +18,7 @@
     "price": "R12 025",
     "handle": "hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
     "url": "https://ubratech.co.za/products/hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
-    "qty": 700,
+    "qty": 699,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/F/DF6L7ET_4f9d.jpg"
    }
   ],
@@ -81,7 +81,7 @@
     "brand": "HP",
     "title": "HP ZBook 8 G1i — Core Ultra 7 · 32GB · 1TB SSD · RTX",
     "spec": "RTX · Core Ultra 7 · 32GB · 1TB SSD",
-    "price": "R46 591",
+    "price": "R47 095",
     "handle": "hp-zbook-8-g1i-laptop-core-ultra-7-32gb-1tb-ssd-cg0g9et",
     "url": "https://ubratech.co.za/products/hp-zbook-8-g1i-laptop-core-ultra-7-32gb-1tb-ssd-cg0g9et",
     "qty": 33,
@@ -91,10 +91,10 @@
     "brand": "HP",
     "title": "HP ZBook 8 G1i — Core Ultra 7 · 512GB SSD · RTX",
     "spec": "RTX · Core Ultra 7 · 512GB SSD",
-    "price": "R42 184",
+    "price": "R43 695",
     "handle": "hp-zbook-8-g1i-laptop-core-ultra-7-512gb-ssd-cg0k8et",
     "url": "https://ubratech.co.za/products/hp-zbook-8-g1i-laptop-core-ultra-7-512gb-ssd-cg0k8et",
-    "qty": 16,
+    "qty": 22,
     "image": "https://s3.amazonaws.com/tarsus.co.za/CG0K8ET_default.jpg"
    }
   ]
@@ -215,7 +215,7 @@
     "price": "R2 286",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 403,
+    "qty": 402,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ],
@@ -249,7 +249,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 569,
+    "qty": 563,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -281,7 +281,7 @@
     "price": "R2 286",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 403,
+    "qty": 402,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ]
@@ -331,6 +331,16 @@
     "url": "https://ubratech.co.za/products/eaton-5e-1600va-gen2-usb-iec-ups",
     "qty": 44,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
+   },
+   {
+    "brand": "APC",
+    "title": "APC Back-UPS 1600VA / 900W",
+    "spec": "Backs up a whole desk",
+    "price": "R3 782",
+    "handle": "apc-backup-ups-1600va-1-6kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
+    "url": "https://ubratech.co.za/products/apc-backup-ups-1600va-1-6kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
+    "qty": 5,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BX1600MI_default.jpg"
    }
   ],
   "server": [
@@ -672,7 +682,7 @@
     "handle": "hiksemi-hiker-8gb-3200mhz-ddr4-sodimm",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-8gb-3200mhz-ddr4-sodimm",
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/HSC408S32Z1-8G_wr_-2.jpg",
-    "qty": 228
+    "qty": 223
    },
    {
     "brand": "Hiksemi",
