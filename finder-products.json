@@ -30,7 +30,7 @@
     "price": "R12 567",
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
-    "qty": 99,
+    "qty": 98,
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
@@ -62,7 +62,7 @@
     "price": "R21 027",
     "handle": "hp-probook-440-g11-14-core-u5-16gb-512gb-win-11-pro-silver-notebook",
     "url": "https://ubratech.co.za/products/hp-probook-440-g11-14-core-u5-16gb-512gb-win-11-pro-silver-notebook",
-    "qty": 143,
+    "qty": 141,
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/3/A38B8ET__3bbe.jpg"
    }
   ],
@@ -215,7 +215,7 @@
     "price": "R2 286",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 399,
+    "qty": 398,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ],
@@ -249,7 +249,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 559,
+    "qty": 537,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -281,7 +281,7 @@
     "price": "R2 286",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 399,
+    "qty": 398,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ]
@@ -670,7 +670,7 @@
     "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
-    "qty": 14
+    "qty": 13
    }
   ],
   "memory": [
@@ -682,7 +682,7 @@
     "handle": "hiksemi-hiker-8gb-3200mhz-ddr4-sodimm",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-8gb-3200mhz-ddr4-sodimm",
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/HSC408S32Z1-8G_wr_-2.jpg",
-    "qty": 223
+    "qty": 219
    },
    {
     "brand": "Hiksemi",
