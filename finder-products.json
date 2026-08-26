@@ -8,7 +8,7 @@
     "price": "R10 576",
     "handle": "hp-255r-g10-15-6-ryzen-3-8gb-512gb-win-11-home-notebook",
     "url": "https://ubratech.co.za/products/hp-255r-g10-15-6-ryzen-3-8gb-512gb-win-11-home-notebook",
-    "qty": 93,
+    "qty": 91,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/0/D0ML8AT_1a63.jpg"
    },
    {
@@ -18,7 +18,7 @@
     "price": "R12 025",
     "handle": "hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
     "url": "https://ubratech.co.za/products/hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
-    "qty": 699,
+    "qty": 698,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/F/DF6L7ET_4f9d.jpg"
    }
   ],
@@ -30,7 +30,7 @@
     "price": "R12 567",
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
-    "qty": 98,
+    "qty": 97,
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
@@ -40,7 +40,7 @@
     "price": "R14 984",
     "handle": "lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
-    "qty": 91,
+    "qty": 90,
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA_default.jpg"
    }
   ],
@@ -52,7 +52,7 @@
     "price": "R17 748",
     "handle": "microsoft-surface-laptop-snapdragon-x-plus-laptop-16gb-ep2-31279",
     "url": "https://ubratech.co.za/products/microsoft-surface-laptop-snapdragon-x-plus-laptop-16gb-ep2-31279",
-    "qty": 2,
+    "qty": 1,
     "image": "https://s3.amazonaws.com/tarsus.co.za/EP2-31279_default.jpg"
    },
    {
@@ -62,21 +62,11 @@
     "price": "R21 027",
     "handle": "hp-probook-440-g11-14-core-u5-16gb-512gb-win-11-pro-silver-notebook",
     "url": "https://ubratech.co.za/products/hp-probook-440-g11-14-core-u5-16gb-512gb-win-11-pro-silver-notebook",
-    "qty": 141,
+    "qty": 140,
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/3/A38B8ET__3bbe.jpg"
    }
   ],
   "creator": [
-   {
-    "brand": "Asus",
-    "title": "Asus VivoBook (RTX) V3607VH 16\" Core i7 16GB 1TB Win 11 Pro",
-    "spec": "RTX · 16GB RAM · 1TB SSD",
-    "price": "R24 089",
-    "handle": "asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
-    "url": "https://ubratech.co.za/products/asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
-    "qty": 1,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/V/3/V3607VH_I71610B0X__1__7ef3.png"
-   },
    {
     "brand": "HP",
     "title": "HP ZBook 8 G1i — Core Ultra 7 · 32GB · 1TB SSD · RTX",
@@ -84,7 +74,7 @@
     "price": "R47 095",
     "handle": "hp-zbook-8-g1i-laptop-core-ultra-7-32gb-1tb-ssd-cg0g9et",
     "url": "https://ubratech.co.za/products/hp-zbook-8-g1i-laptop-core-ultra-7-32gb-1tb-ssd-cg0g9et",
-    "qty": 32,
+    "qty": 31,
     "image": "https://s3.amazonaws.com/tarsus.co.za/CG0G9ET_default.jpg"
    },
    {
@@ -94,7 +84,7 @@
     "price": "R43 695",
     "handle": "hp-zbook-8-g1i-laptop-core-ultra-7-512gb-ssd-cg0k8et",
     "url": "https://ubratech.co.za/products/hp-zbook-8-g1i-laptop-core-ultra-7-512gb-ssd-cg0k8et",
-    "qty": 22,
+    "qty": 21,
     "image": "https://s3.amazonaws.com/tarsus.co.za/CG0K8ET_default.jpg"
    }
   ]
@@ -108,7 +98,7 @@
     "price": "R17 313",
     "handle": "dell-pro-slim-essential-qvs1260-desktop-pc-core-i3-bto001_qvs1260_emea",
     "url": "https://ubratech.co.za/products/dell-pro-slim-essential-qvs1260-desktop-pc-core-i3-bto001_qvs1260_emea",
-    "qty": 100,
+    "qty": 99,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO001_QVS1260_EMEA_default.png"
    }
   ],
@@ -121,7 +111,7 @@
     "price": "R26 888",
     "handle": "dell-pro-micro-qcm1250-desktop-pc-core-ultra-5-16gb-bto106_qcm1250_emea",
     "url": "https://ubratech.co.za/products/dell-pro-micro-qcm1250-desktop-pc-core-ultra-5-16gb-bto106_qcm1250_emea",
-    "qty": 17,
+    "qty": 16,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO106_QCM1250_EMEA_default.jpg"
    }
   ],
@@ -134,7 +124,7 @@
     "handle": "asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
     "url": "https://ubratech.co.za/products/asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg",
-    "qty": 11
+    "qty": 10
    }
   ]
  },
@@ -147,7 +137,7 @@
     "price": "R22 665",
     "handle": "acer-nitro-v-16-r7-260-16gb-1tb-16in-wuxga-ips-180hz-display-5050-windows-11-home",
     "url": "https://ubratech.co.za/products/acer-nitro-v-16-r7-260-16gb-1tb-16in-wuxga-ips-180hz-display-5050-windows-11-home",
-    "qty": 3,
+    "qty": 2,
     "image": "https://s3.amazonaws.com/tarsus.co.za/NH.QYWEA.002_default.png"
    }
   ],
@@ -159,7 +149,7 @@
     "price": "R40 142",
     "handle": "dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
     "url": "https://ubratech.co.za/products/dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
-    "qty": 6,
+    "qty": 5,
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/C/AC16250_RPLH_R_006_794e.jpg"
    },
    {
@@ -169,7 +159,7 @@
     "price": "R43 110",
     "handle": "asus-rog-strix-16-ryzen-9-16gb-1tb-win-11-home-notebook",
     "url": "https://ubratech.co.za/products/asus-rog-strix-16-ryzen-9-16gb-1tb-win-11-home-notebook",
-    "qty": 10,
+    "qty": 9,
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/r/Artboard_1_15_100_7231.jpg"
    }
   ],
@@ -182,7 +172,7 @@
     "handle": "asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
     "url": "https://ubratech.co.za/products/asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg",
-    "qty": 11
+    "qty": 10
    }
   ]
  },
@@ -195,7 +185,7 @@
     "price": "R1 853",
     "handle": "dell-e2225hm-pro-21-5-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-e2225hm-pro-21-5-fhd-monitor",
-    "qty": 4,
+    "qty": 3,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQMZ_4276.jpg"
    },
    {
@@ -205,7 +195,7 @@
     "price": "R2 401",
     "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
     "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 98,
+    "qty": 97,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
    },
    {
@@ -215,7 +205,7 @@
     "price": "R2 286",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 398,
+    "qty": 397,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ],
@@ -227,7 +217,7 @@
     "price": "R5 265",
     "handle": "dell-ultrasharp-24-monitor-u2424h-60-47cm-23-8",
     "url": "https://ubratech.co.za/products/dell-ultrasharp-24-monitor-u2424h-60-47cm-23-8",
-    "qty": 11,
+    "qty": 10,
     "image": "http://cdn.cs.1worldsync.com/87/5d/875dcfd7-2045-4edb-b96d-354be9119927.jpg"
    },
    {
@@ -237,7 +227,7 @@
     "price": "R6 260",
     "handle": "dell-ultrasharp-24-usb-c-hub-monitor-u2424he-60-47cm-23-8",
     "url": "https://ubratech.co.za/products/dell-ultrasharp-24-usb-c-hub-monitor-u2424he-60-47cm-23-8",
-    "qty": 15,
+    "qty": 14,
     "image": "http://cdn.cs.1worldsync.com/05/4c/054ce9ac-adff-4f1a-ae29-83d3e471de5e.jpg"
    }
   ],
@@ -249,7 +239,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 537,
+    "qty": 536,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -259,7 +249,7 @@
     "price": "R2 391",
     "handle": "acer-27-ips-fhd-120hz-monitor-3yr",
     "url": "https://ubratech.co.za/products/acer-27-ips-fhd-120hz-monitor-3yr",
-    "qty": 5,
+    "qty": 4,
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
    }
   ],
@@ -271,7 +261,7 @@
     "price": "R2 401",
     "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
     "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 98,
+    "qty": 97,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
    },
    {
@@ -281,7 +271,7 @@
     "price": "R2 286",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 398,
+    "qty": 397,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ]
@@ -295,7 +285,7 @@
     "price": "R379",
     "handle": "lalela-r1800-wi-fi-ups-for-router-and-ont-32wh-2-3-hour-runtime",
     "url": "https://ubratech.co.za/products/lalela-r1800-wi-fi-ups-for-router-and-ont-32wh-2-3-hour-runtime",
-    "qty": 9,
+    "qty": 8,
     "image": "https://s3.amazonaws.com/tarsus.co.za/LAL-R1800_default.png"
    }
   ],
@@ -307,7 +297,7 @@
     "price": "R1 010",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 151,
+    "qty": 150,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -317,7 +307,7 @@
     "price": "R2 443",
     "handle": "apc-backup-ups-1200va-1-2kva-650w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
     "url": "https://ubratech.co.za/products/apc-backup-ups-1200va-1-2kva-650w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
-    "qty": 56,
+    "qty": 55,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BX1200MI_default.jpg"
    }
   ],
@@ -329,7 +319,7 @@
     "price": "R2 972",
     "handle": "eaton-5e-1600va-gen2-usb-iec-ups",
     "url": "https://ubratech.co.za/products/eaton-5e-1600va-gen2-usb-iec-ups",
-    "qty": 44,
+    "qty": 43,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
    },
    {
@@ -339,7 +329,7 @@
     "price": "R3 782",
     "handle": "apc-backup-ups-1600va-1-6kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
     "url": "https://ubratech.co.za/products/apc-backup-ups-1600va-1-6kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
-    "qty": 5,
+    "qty": 4,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BX1600MI_default.jpg"
    }
   ],
@@ -351,7 +341,7 @@
     "price": "R9 632",
     "handle": "apc-smart-ups-1000va-lcd-230v-with-smartconnect",
     "url": "https://ubratech.co.za/products/apc-smart-ups-1000va-lcd-230v-with-smartconnect",
-    "qty": 4,
+    "qty": 3,
     "image": "https://s3.amazonaws.com/tarsus.co.za/SMT1000IC_default.jpg"
    }
   ]
@@ -365,7 +355,7 @@
     "price": "R941",
     "handle": "mercusys-halo-h50g-home-mesh-wi-fi-system-2-pack",
     "url": "https://ubratech.co.za/products/mercusys-halo-h50g-home-mesh-wi-fi-system-2-pack",
-    "qty": 13,
+    "qty": 12,
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/A/HALO_H50G_2_PACK_e525.png"
    }
   ],
@@ -377,7 +367,7 @@
     "price": "R1 269",
     "handle": "mercusys-halo-h30g-home-mesh-wi-fi-system-3-pack",
     "url": "https://ubratech.co.za/products/mercusys-halo-h30g-home-mesh-wi-fi-system-3-pack",
-    "qty": 8,
+    "qty": 7,
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/A/HALO_H30G_3_PACK_f3ee.png"
    }
   ],
@@ -392,7 +382,7 @@
     "price": "R7 810",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 86,
+    "qty": 85,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
    },
    {
@@ -402,7 +392,7 @@
     "price": "R10 880",
     "handle": "hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
     "url": "https://ubratech.co.za/products/hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
-    "qty": 85,
+    "qty": 84,
     "image": "https://s3.amazonaws.com/tarsus.co.za/3PZ55A_default.png"
    }
   ],
@@ -414,7 +404,7 @@
     "price": "R8 047",
     "handle": "hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
     "url": "https://ubratech.co.za/products/hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
-    "qty": 100,
+    "qty": 99,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    }
   ],
@@ -426,7 +416,7 @@
     "price": "R7 810",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 86,
+    "qty": 85,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
    },
    {
@@ -436,7 +426,7 @@
     "price": "R10 880",
     "handle": "hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
     "url": "https://ubratech.co.za/products/hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
-    "qty": 85,
+    "qty": 84,
     "image": "https://s3.amazonaws.com/tarsus.co.za/3PZ55A_default.png"
    }
   ],
@@ -449,7 +439,7 @@
     "handle": "niimbot-d11-portable-thermal-label-printer-green",
     "url": "https://ubratech.co.za/products/niimbot-d11-portable-thermal-label-printer-green",
     "image": "https://www.syntech.co.za/wp-content/uploads/2023/09/D11-BL_wr_01a-1.jpg",
-    "qty": 159
+    "qty": 158
    },
    {
     "brand": "Bixolon",
@@ -459,7 +449,7 @@
     "handle": "bixolon-xd3-40t-4-direct-thermal-label-printer",
     "url": "https://ubratech.co.za/products/bixolon-xd3-40t-4-direct-thermal-label-printer",
     "image": "https://www.pinnacle.co.za/media/catalog/product/X/D/XD3_40TEK_PNC_3_ca89.png",
-    "qty": 19
+    "qty": 18
    }
   ]
  },
@@ -472,18 +462,8 @@
     "price": "R400",
     "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
     "url": "https://ubratech.co.za/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 1702,
+    "qty": 1701,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
-   },
-   {
-    "brand": "Hikvision",
-    "title": "Hikvision 2MP Smart Hybrid Light Bullet Camera",
-    "spec": "HD camera · night vision",
-    "price": "R729",
-    "handle": "hikvision-2mp-2-8mm-smart-hybrid-light-lamp-camera-with-audio-fixed-bullet-camera",
-    "url": "https://ubratech.co.za/products/hikvision-2mp-2-8mm-smart-hybrid-light-lamp-camera-with-audio-fixed-bullet-camera",
-    "qty": 1,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE18D0T_LFS_2.8MM_f4c5.png"
    }
   ],
   "medium": [
@@ -494,7 +474,7 @@
     "price": "R715",
     "handle": "hikvision-3k-5mp-color-audio-fixed-turret-analogue-camera",
     "url": "https://ubratech.co.za/products/hikvision-3k-5mp-color-audio-fixed-turret-analogue-camera",
-    "qty": 10,
+    "qty": 9,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE72KF0T_LFS_2.8MM_7488.jpg"
    },
    {
@@ -504,7 +484,7 @@
     "price": "R774",
     "handle": "hikvision-720p-cmos-low-light-colour-1mm-analogue-camera",
     "url": "https://ubratech.co.za/products/hikvision-720p-cmos-low-light-colour-1mm-analogue-camera",
-    "qty": 7,
+    "qty": 6,
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/E/AE_VC136T_1.0MM_4564.jpg"
    }
   ],
@@ -516,7 +496,7 @@
     "price": "R1 227",
     "handle": "hikvision-2mp-fixed-mini-bullet-network-camera",
     "url": "https://ubratech.co.za/products/hikvision-2mp-fixed-mini-bullet-network-camera",
-    "qty": 214,
+    "qty": 213,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2021G0_LIU_2.8MM_9325.png"
    }
   ]
@@ -530,7 +510,7 @@
     "price": "R230",
     "handle": "port-usb-c-mini-with-hdmi-docking-station",
     "url": "https://ubratech.co.za/products/port-usb-c-mini-with-hdmi-docking-station",
-    "qty": 113,
+    "qty": 112,
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900140_0708.jpg"
    },
    {
@@ -540,34 +520,12 @@
     "price": "R703",
     "handle": "dell-pro-4-in-1-usb-c-travel-hub-da225",
     "url": "https://ubratech.co.za/products/dell-pro-4-in-1-usb-c-travel-hub-da225",
-    "qty": 21,
+    "qty": 20,
     "image": "https://s3.amazonaws.com/tarsus.co.za/470-BFBN_default.png"
    }
   ],
-  "mac": [
-   {
-    "brand": "Dell",
-    "title": "Dell Pro Thunderbolt 4 Dock — WD25TB4",
-    "spec": "Thunderbolt · works with MacBook",
-    "price": "R5 303",
-    "handle": "dell-pro-thunderbolt-4-dock-wd25tb4",
-    "url": "https://ubratech.co.za/products/dell-pro-thunderbolt-4-dock-wd25tb4",
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BTHY_default.jpg",
-    "qty": 3
-   }
-  ],
-  "legacy": [
-   {
-    "brand": "Port",
-    "title": "Port 100W USB-C & USB-A Docking Station",
-    "spec": "Works with older laptops",
-    "price": "R3 402",
-    "handle": "port-100w-usb-c-usb-a-docking-station",
-    "url": "https://ubratech.co.za/products/port-100w-usb-c-usb-a-docking-station",
-    "qty": 1,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/901908_W_EU_011e.jpg"
-   }
-  ]
+  "mac": [],
+  "legacy": []
  },
  "meet": {
   "desk": [],
@@ -580,7 +538,7 @@
     "handle": "logitech-c920s-pro-full-hd-usb-webcam",
     "url": "https://ubratech.co.za/products/logitech-c920s-pro-full-hd-usb-webcam",
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/960_001252_9ebb.jpg",
-    "qty": 9
+    "qty": 8
    },
    {
     "brand": "Dell",
@@ -589,7 +547,7 @@
     "price": "R6 103",
     "handle": "dell-pro-premium-wireless-anc-headset-wl7024",
     "url": "https://ubratech.co.za/products/dell-pro-premium-wireless-anc-headset-wl7024",
-    "qty": 24,
+    "qty": 23,
     "image": "https://staxdstoragecdn.blob.core.windows.net/axd-live/dell_520-bbhc.jpg"
    }
   ]
@@ -603,7 +561,7 @@
     "price": "R130",
     "handle": "tp-link-5-port-desktop-switch",
     "url": "https://ubratech.co.za/products/tp-link-5-port-desktop-switch",
-    "qty": 65,
+    "qty": 64,
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SF1005D_0617.jpg"
    },
    {
@@ -613,7 +571,7 @@
     "price": "R146",
     "handle": "tp-link-8-port-desktop-switch",
     "url": "https://ubratech.co.za/products/tp-link-8-port-desktop-switch",
-    "qty": 63,
+    "qty": 62,
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SF1008D_2687.jpg"
    }
   ],
@@ -626,7 +584,7 @@
     "handle": "hikvision-8-port-gigabit-smart-managed-switch",
     "url": "https://ubratech.co.za/products/hikvision-8-port-gigabit-smart-managed-switch",
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_3E1510P_SI_3ee9.jpg",
-    "qty": 3
+    "qty": 2
    },
    {
     "brand": "Cudy",
@@ -636,7 +594,7 @@
     "handle": "cudy-16-port-layer-2-managed-gigabit-poe-switch",
     "url": "https://ubratech.co.za/products/cudy-16-port-layer-2-managed-gigabit-poe-switch",
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/GS2018PS2_wr_01.jpg",
-    "qty": 5
+    "qty": 4
    },
    {
     "brand": "Dell",
@@ -646,7 +604,7 @@
     "handle": "dell-networking-x1018-smart-web-managed-switch-16x-1gbe-and-2x-1gbe-sfp-ports-lifetime-limited-hardware-warranty-minimum-warranty-add-575-bbee-to-make-the-switch-rackmountable",
     "url": "https://ubratech.co.za/products/dell-networking-x1018-smart-web-managed-switch-16x-1gbe-and-2x-1gbe-sfp-ports-lifetime-limited-hardware-warranty-minimum-warranty-add-575-bbee-to-make-the-switch-rackmountable",
     "image": "http://cdn.cs.1worldsync.com/68/24/68243f1e-919f-4cfc-a520-172158f90122.jpg",
-    "qty": 25
+    "qty": 24
    }
   ]
  },
@@ -660,7 +618,7 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 162
+    "qty": 161
    },
    {
     "brand": "Seagate",
@@ -670,7 +628,7 @@
     "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
-    "qty": 13
+    "qty": 12
    }
   ],
   "memory": [
@@ -682,7 +640,7 @@
     "handle": "hiksemi-hiker-8gb-3200mhz-ddr4-sodimm",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-8gb-3200mhz-ddr4-sodimm",
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/HSC408S32Z1-8G_wr_-2.jpg",
-    "qty": 219
+    "qty": 218
    },
    {
     "brand": "Hiksemi",
@@ -692,7 +650,7 @@
     "handle": "hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/HSC516U48Z1-16G_Hiksemi-Hiker-16GB-DDR5-4800MHz-Desktop-Memory_wr_01a.jpg",
-    "qty": 213
+    "qty": 212
    },
    {
     "brand": "GeIL",
@@ -702,7 +660,7 @@
     "handle": "geil-orion-rgb-16gb-6000mhz-ddr5-desktop-gaming-memory-grey",
     "url": "https://ubratech.co.za/products/geil-orion-rgb-16gb-6000mhz-ddr5-desktop-gaming-memory-grey",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/GAVSG516GB6000C36CSC_Geil-Orion-V-RGB-16GB-6000MHz-DDR5-Desktop-Gaming-Memory-Grey_wr_01.jpg",
-    "qty": 2
+    "qty": 1
    }
   ],
   "graphics": [
@@ -714,7 +672,7 @@
     "handle": "asus-tuf-gaming-geforce-rtx-5060-8gb-gddr7-oc-edition-graphics-card",
     "url": "https://ubratech.co.za/products/asus-tuf-gaming-geforce-rtx-5060-8gb-gddr7-oc-edition-graphics-card",
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/TUF-RTX5060-O8G_ASUS-TUF-Gaming-GeForce-RTX-5060-8GB-GDDR7-OC-Edition-Graphics-Card_wr_01.jpg",
-    "qty": 5
+    "qty": 4
    },
    {
     "brand": "Asus",
@@ -724,7 +682,7 @@
     "handle": "asus-tuf-gaming-geforce-rtx-5070-12gb-gddr7-oc-edition",
     "url": "https://ubratech.co.za/products/asus-tuf-gaming-geforce-rtx-5070-12gb-gddr7-oc-edition",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/TUF-RTX5070-O12G-GAMING-wr-01.jpg",
-    "qty": 19
+    "qty": 18
    }
   ],
   "power": [
@@ -736,7 +694,7 @@
     "handle": "asus-prime-750w-80-plus-bronze-atx-non-modular-power-supply",
     "url": "https://ubratech.co.za/products/asus-prime-750w-80-plus-bronze-atx-non-modular-power-supply",
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/PRIME-750B-BLACK_Asus-PRIME-750W-80-PLUS-Bronze-ATX-Non-modular-Power-Supply_wr_01a.jpg",
-    "qty": 124
+    "qty": 123
    },
    {
     "brand": "DeepCool",
@@ -746,7 +704,7 @@
     "handle": "deepcool-ak400-g2-120mm-cpu-air-cooler-white",
     "url": "https://ubratech.co.za/products/deepcool-ak400-g2-120mm-cpu-air-cooler-white",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/R-AK400G2-WHNNMN-GJD_DeepCool-AK400-G2-120mm-CPU-Air-Cooler-White_wr_01.jpg",
-    "qty": 25
+    "qty": 24
    },
    {
     "brand": "Gizzu",
@@ -756,22 +714,12 @@
     "handle": "gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "url": "https://ubratech.co.za/products/gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GU30WPRO_wr_01a.jpg",
-    "qty": 224
+    "qty": 223
    }
   ]
  },
  "lifestyle": {
   "smart": [
-   {
-    "brand": "TP-Link",
-    "title": "TP-Link Tapo C200 Pan/Tilt Wi-Fi Camera",
-    "spec": "Pan/tilt · night vision",
-    "price": "R459",
-    "handle": "tp-link-tapo-c200-pan-tilt-home-security-wi-fi-camera",
-    "url": "https://ubratech.co.za/products/tp-link-tapo-c200-pan-tilt-home-security-wi-fi-camera",
-    "image": "https://www.pinnacle.co.za/media/catalog/product/T/A/TAPO_C200_bc67.png",
-    "qty": 1
-   },
    {
     "brand": "TP-Link",
     "title": "TP-Link Tapo D205 2K Battery Video Doorbell",
@@ -780,7 +728,7 @@
     "handle": "tp-link-tapo-d205-2k-battery-video-doorbell-mini",
     "url": "https://ubratech.co.za/products/tp-link-tapo-d205-2k-battery-video-doorbell-mini",
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/A/TAPO_D205_5ba3.jpg",
-    "qty": 14
+    "qty": 13
    },
    {
     "brand": "Xiaomi",
@@ -790,7 +738,7 @@
     "handle": "xiaomi-robot-vacuum-s40c",
     "url": "https://ubratech.co.za/products/xiaomi-robot-vacuum-s40c",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/BHR9664EU_Xiaomi-Robot-Vacuum-S40C_wr_02a-1.jpg",
-    "qty": 200
+    "qty": 199
    }
   ],
   "audio": [
@@ -802,7 +750,7 @@
     "handle": "xiaomi-soundbar-2-0ch",
     "url": "https://ubratech.co.za/products/xiaomi-soundbar-2-0ch",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/QBH4286EU_Xiaomi-Soundbar-2.0ch_wr_01.jpg",
-    "qty": 56
+    "qty": 55
    },
    {
     "brand": "Xiaomi",
@@ -812,7 +760,7 @@
     "handle": "xiaomi-sound-outdoor-30w-portable-bluetooth-speaker-black",
     "url": "https://ubratech.co.za/products/xiaomi-sound-outdoor-30w-portable-bluetooth-speaker-black",
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/QBH4261GL_wr_01a.jpg",
-    "qty": 124
+    "qty": 123
    },
    {
     "brand": "WINX",
@@ -822,7 +770,7 @@
     "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
     "url": "https://ubratech.co.za/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg",
-    "qty": 177
+    "qty": 176
    }
   ],
   "everyday": [
@@ -834,7 +782,7 @@
     "handle": "gizzu-2-port-65w-gan-wall-charger",
     "url": "https://ubratech.co.za/products/gizzu-2-port-65w-gan-wall-charger",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/GWCCU65W_Gizzu-2-Port-65W-GaN-Wall-Charger-White_wr_01b.jpg",
-    "qty": 300
+    "qty": 299
    },
    {
     "brand": "Lenovo",
@@ -844,7 +792,7 @@
     "handle": "lenovo-dual-usb-c-65w-gan-charger",
     "url": "https://ubratech.co.za/products/lenovo-dual-usb-c-65w-gan-charger",
     "image": "https://s3.amazonaws.com/tarsus.co.za/40AW065BEU_default.jpg",
-    "qty": 26
+    "qty": 25
    }
   ],
   "comfort": [
@@ -856,7 +804,7 @@
     "handle": "hp-330-black-wireless-keyboard-mouse-combo",
     "url": "https://ubratech.co.za/products/hp-330-black-wireless-keyboard-mouse-combo",
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/v/2v9e6aa_keyboards_42935554637988_1000x_16e7.png",
-    "qty": 55
+    "qty": 54
    },
    {
     "brand": "Logitech",
@@ -866,7 +814,7 @@
     "handle": "logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "url": "https://ubratech.co.za/products/logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "image": "https://s3.amazonaws.com/tarsus.co.za/920-008685_default.jpg",
-    "qty": 25
+    "qty": 24
    },
    {
     "brand": "Logitech",
@@ -876,20 +824,9 @@
     "handle": "logitech-c920s-pro-full-hd-usb-webcam",
     "url": "https://ubratech.co.za/products/logitech-c920s-pro-full-hd-usb-webcam",
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/960_001252_9ebb.jpg",
-    "qty": 9
+    "qty": 8
    }
   ]
  },
- "wifi_ap": [
-  {
-   "brand": "TP-Link",
-   "title": "TP-Link N300 Wall-Plate Access Point",
-   "spec": "Wall AP · strong coverage",
-   "price": "R450",
-   "handle": "tp-link-n300-300mbps-wireless-n-wall-plate-access-point",
-   "url": "https://ubratech.co.za/products/tp-link-n300-300mbps-wireless-n-wall-plate-access-point",
-   "qty": 1,
-   "image": "https://www.pinnacle.co.za/media/catalog/product/E/A/EAP115_WALL_605e.png"
-  }
- ]
+ "wifi_ap": []
 }
