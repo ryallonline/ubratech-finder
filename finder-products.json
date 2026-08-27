@@ -41,7 +41,7 @@
     "handle": "lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
     "qty": 92,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA_default.jpg"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA-BUN3Q2_default.png"
    }
   ],
   "high": [
@@ -643,16 +643,6 @@
    }
   ],
   "memory": [
-   {
-    "brand": "Hiksemi",
-    "title": "Hiksemi Hiker 8GB DDR4 3200MHz SODIMM",
-    "spec": "Laptop memory upgrade",
-    "price": "R1 132",
-    "handle": "hiksemi-hiker-8gb-3200mhz-ddr4-sodimm",
-    "url": "https://ubratech.co.za/products/hiksemi-hiker-8gb-3200mhz-ddr4-sodimm",
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/HSC408S32Z1-8G_wr_-2.jpg",
-    "qty": 217
-   },
    {
     "brand": "Hiksemi",
     "title": "Hiksemi Hiker 16GB DDR5 4800MHz Desktop Memory",
