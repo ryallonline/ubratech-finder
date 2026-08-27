@@ -41,7 +41,7 @@
     "handle": "lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
     "qty": 91,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA-BUN3Q2_default.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA_default.jpg"
    }
   ],
   "high": [
@@ -68,6 +68,16 @@
   ],
   "creator": [
    {
+    "brand": "Asus",
+    "title": "Asus VivoBook (RTX) V3607VH 16\" Core i7 16GB 1TB Win 11 Pro",
+    "spec": "RTX · 16GB RAM · 1TB SSD",
+    "price": "R25 184",
+    "handle": "asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
+    "url": "https://ubratech.co.za/products/asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
+    "qty": 4,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/V/3/V3607VH_I71610B0X__1__7ef3.png"
+   },
+   {
     "brand": "HP",
     "title": "HP ZBook 8 G1i — Core Ultra 7 · 32GB · 1TB SSD · RTX",
     "spec": "RTX · Core Ultra 7 · 32GB · 1TB SSD",
@@ -84,7 +94,7 @@
     "price": "R43 695",
     "handle": "hp-zbook-8-g1i-laptop-core-ultra-7-512gb-ssd-cg0k8et",
     "url": "https://ubratech.co.za/products/hp-zbook-8-g1i-laptop-core-ultra-7-512gb-ssd-cg0k8et",
-    "qty": 19,
+    "qty": 18,
     "image": "https://s3.amazonaws.com/tarsus.co.za/CG0K8ET_default.jpg"
    }
   ]
@@ -205,7 +215,7 @@
     "price": "R2 401",
     "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
     "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 32,
+    "qty": 31,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
    },
    {
@@ -215,7 +225,7 @@
     "price": "R2 291",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1311,
+    "qty": 1291,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ],
@@ -249,7 +259,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 379,
+    "qty": 374,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -271,7 +281,7 @@
     "price": "R2 401",
     "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
     "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 32,
+    "qty": 31,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
    },
    {
@@ -281,7 +291,7 @@
     "price": "R2 291",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1311,
+    "qty": 1291,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ]
@@ -317,7 +327,7 @@
     "price": "R2 443",
     "handle": "apc-backup-ups-1200va-1-2kva-650w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
     "url": "https://ubratech.co.za/products/apc-backup-ups-1200va-1-2kva-650w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
-    "qty": 54,
+    "qty": 49,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BX1200MI_default.jpg"
    }
   ],
@@ -530,7 +540,7 @@
     "price": "R703",
     "handle": "dell-pro-4-in-1-usb-c-travel-hub-da225",
     "url": "https://ubratech.co.za/products/dell-pro-4-in-1-usb-c-travel-hub-da225",
-    "qty": 20,
+    "qty": 19,
     "image": "https://s3.amazonaws.com/tarsus.co.za/470-BFBN_default.png"
    }
   ],
@@ -639,7 +649,7 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 158
+    "qty": 156
    },
    {
     "brand": "Seagate",
