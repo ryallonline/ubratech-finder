@@ -18,7 +18,7 @@
     "price": "R10 010",
     "handle": "hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
     "url": "https://ubratech.co.za/products/hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
-    "qty": 40,
+    "qty": 10,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/F/DF6L7ET_4f9d.jpg"
    }
   ],
@@ -40,8 +40,8 @@
     "price": "R14 984",
     "handle": "lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
-    "qty": 91,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA_default.jpg"
+    "qty": 89,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA-BUN3Q2_default.png"
    }
   ],
   "high": [
@@ -194,7 +194,7 @@
     "price": "R2 401",
     "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
     "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 28,
+    "qty": 25,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
    },
    {
@@ -204,7 +204,7 @@
     "price": "R2 291",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1290,
+    "qty": 1288,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ],
@@ -260,7 +260,7 @@
     "price": "R2 401",
     "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
     "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 28,
+    "qty": 25,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
    },
    {
@@ -270,7 +270,7 @@
     "price": "R2 291",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1290,
+    "qty": 1288,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ]
@@ -309,16 +309,6 @@
     "url": "https://ubratech.co.za/products/eaton-5e-1600va-gen2-usb-iec-ups",
     "qty": 46,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
-   },
-   {
-    "brand": "APC",
-    "title": "APC Back-UPS 1600VA / 900W",
-    "spec": "Backs up a whole desk",
-    "price": "R2 972",
-    "handle": "apc-backup-ups-1600va-1-6kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
-    "url": "https://ubratech.co.za/products/apc-backup-ups-1600va-1-6kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
-    "qty": 3,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BX1600MI_default.jpg"
    }
   ],
   "server": [
@@ -370,7 +360,7 @@
     "price": "R7 810",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 97,
+    "qty": 96,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
    },
    {
@@ -404,7 +394,7 @@
     "price": "R7 810",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 97,
+    "qty": 96,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
    },
    {
@@ -450,7 +440,7 @@
     "price": "R400",
     "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
     "url": "https://ubratech.co.za/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 5,
+    "qty": 1651,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    }
   ],
@@ -793,7 +783,7 @@
     "handle": "logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "url": "https://ubratech.co.za/products/logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "image": "https://s3.amazonaws.com/tarsus.co.za/920-008685_default.jpg",
-    "qty": 8
+    "qty": 6
    },
    {
     "brand": "Logitech",
