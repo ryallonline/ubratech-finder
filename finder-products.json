@@ -41,7 +41,7 @@
     "handle": "lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
     "qty": 88,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA-BUN3Q2_default.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA_default.jpg"
    }
   ],
   "high": [
@@ -150,26 +150,6 @@
     "url": "https://ubratech.co.za/products/dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
     "qty": 5,
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/C/AC16250_RPLH_R_006_794e.jpg"
-   },
-   {
-    "brand": "Asus",
-    "title": "Asus ROG Strix G16 — Ryzen 9 · 16GB · 1TB SSD",
-    "spec": "Ryzen 9 · 16GB RAM · 1TB SSD",
-    "price": "R36 701",
-    "handle": "asus-rog-strix-g16-16-ryzen-9-16gb-1tb-win-11-home-gaming-notebook",
-    "url": "https://ubratech.co.za/products/asus-rog-strix-g16-16-ryzen-9-16gb-1tb-win-11-home-gaming-notebook",
-    "qty": 7,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/4/_/4_80fe.png"
-   },
-   {
-    "brand": "Asus",
-    "title": "Asus ROG Strix 16 — Ryzen 9 · 16GB · 1TB SSD",
-    "spec": "Ryzen 9 · 16GB RAM · 1TB SSD",
-    "price": "R43 110",
-    "handle": "asus-rog-strix-16-ryzen-9-16gb-1tb-win-11-home-notebook",
-    "url": "https://ubratech.co.za/products/asus-rog-strix-16-ryzen-9-16gb-1tb-win-11-home-notebook",
-    "qty": 9,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/r/Artboard_1_15_100_7231.jpg"
    }
   ],
   "desktop": [
@@ -214,7 +194,7 @@
     "price": "R2 291",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1298,
+    "qty": 1299,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ],
@@ -280,7 +260,7 @@
     "price": "R2 291",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1298,
+    "qty": 1299,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    }
   ]
