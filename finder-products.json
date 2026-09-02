@@ -31,7 +31,7 @@
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "qty": 96,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA-BUN1Q2_default.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
     "brand": "Lenovo",
@@ -40,8 +40,8 @@
     "price": "R14 984",
     "handle": "lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
-    "qty": 80,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA-BUN3Q2_default.png"
+    "qty": 79,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA_default.jpg"
    }
   ],
   "high": [
@@ -64,7 +64,7 @@
     "price": "R26 613",
     "handle": "asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
     "url": "https://ubratech.co.za/products/asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
-    "qty": 3,
+    "qty": 2,
     "image": "https://www.pinnacle.co.za/media/catalog/product/V/3/V3607VH_I71610B0X__1__7ef3.png"
    },
    {
@@ -129,7 +129,18 @@
   ]
  },
  "gaming": {
-  "entry": [],
+  "entry": [
+   {
+    "brand": "Acer",
+    "title": "Acer Nitro V 16 Ryzen 7 16GB 1TB 180Hz Gaming Laptop",
+    "spec": "16GB RAM · 1TB SSD",
+    "price": "R22 665",
+    "handle": "acer-nitro-v-16-r7-260-16gb-1tb-16in-wuxga-ips-180hz-display-5050-windows-11-home",
+    "url": "https://ubratech.co.za/products/acer-nitro-v-16-r7-260-16gb-1tb-16in-wuxga-ips-180hz-display-5050-windows-11-home",
+    "qty": 1,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NH.QYWEA.002_default.png"
+   }
+  ],
   "ultra": [
    {
     "brand": "Dell",
@@ -174,7 +185,7 @@
     "price": "R2 401",
     "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
     "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 40,
+    "qty": 39,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
    },
    {
@@ -240,7 +251,7 @@
     "price": "R2 401",
     "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
     "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 40,
+    "qty": 39,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
    },
    {
@@ -265,7 +276,7 @@
     "price": "R1 010",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 142,
+    "qty": 140,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -306,7 +317,7 @@
     "brand": "APC",
     "title": "APC Smart-UPS 1500VA LCD RM 2U (SmartConnect)",
     "spec": "Rack-mount · critical kit",
-    "price": "R20 284",
+    "price": "R16 429",
     "handle": "apc-smart-ups-1500va-lcd-rm-2u-230v-with-smartconnect",
     "url": "https://ubratech.co.za/products/apc-smart-ups-1500va-lcd-rm-2u-230v-with-smartconnect",
     "qty": 2,
@@ -464,7 +475,7 @@
     "price": "R1 390",
     "handle": "hikvision-2mp-fixed-mini-bullet-network-camera",
     "url": "https://ubratech.co.za/products/hikvision-2mp-fixed-mini-bullet-network-camera",
-    "qty": 211,
+    "qty": 206,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2021G0_LIU_2.8MM_9325.png"
    }
   ]
@@ -528,7 +539,7 @@
     "handle": "logitech-c920s-pro-full-hd-usb-webcam",
     "url": "https://ubratech.co.za/products/logitech-c920s-pro-full-hd-usb-webcam",
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/960_001252_9ebb.jpg",
-    "qty": 5
+    "qty": 4
    },
    {
     "brand": "Dell",
@@ -608,7 +619,7 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 131
+    "qty": 129
    },
    {
     "brand": "Seagate",
@@ -618,7 +629,7 @@
     "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
-    "qty": 7
+    "qty": 6
    }
   ],
   "memory": [
@@ -720,7 +731,7 @@
     "handle": "xiaomi-soundbar-2-0ch",
     "url": "https://ubratech.co.za/products/xiaomi-soundbar-2-0ch",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/QBH4286EU_Xiaomi-Soundbar-2.0ch_wr_01.jpg",
-    "qty": 52
+    "qty": 51
    },
    {
     "brand": "Xiaomi",
@@ -784,7 +795,7 @@
     "handle": "logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "url": "https://ubratech.co.za/products/logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "image": "https://s3.amazonaws.com/tarsus.co.za/920-008685_default.jpg",
-    "qty": 6
+    "qty": 5
    },
    {
     "brand": "Logitech",
@@ -794,7 +805,7 @@
     "handle": "logitech-c920s-pro-full-hd-usb-webcam",
     "url": "https://ubratech.co.za/products/logitech-c920s-pro-full-hd-usb-webcam",
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/960_001252_9ebb.jpg",
-    "qty": 5
+    "qty": 4
    }
   ]
  },
