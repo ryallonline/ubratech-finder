@@ -586,7 +586,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1704,
+    "qty": 1705,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -762,7 +762,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1704,
+    "qty": 1705,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -848,6 +848,28 @@
     "url": "/products/eaton-5e-1600va-gen2-usb-iec-ups",
     "qty": 10,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
+   },
+   {
+    "brand": "Acconet",
+    "title": "Acconet Mini UPS DC Jack Input 12V 2.3A | AC-UPS-MINI-V2",
+    "spec": "13200mAh Battery, 4 Way Cable - 1x USB, 1x 9V, 2x 12V, no PSU included",
+    "price": "R240",
+    "handle": "acconet-mini-ups-dc-jack-input-12v-2-3a-ac-ups-mini-v2",
+    "url": "/pages/acconet-mini-ups-dc-jack-input-12v-2-3a-ac-ups-mini-v2",
+    "qty": 9,
+    "image": "https://miro.co.za/img/p/9/8/9/0/9890.jpg",
+    "enquiry": true
+   },
+   {
+    "brand": "Acconet",
+    "title": "Acconet Mini DC UPS 13200mAh with 12V 2A Power Supply | AC-UPS-MINI-V2-KIT",
+    "spec": "13200mAh Battery, 4 Way Cable - 1x USB, 1x 9V, 2x 12V, includes PSU-12",
+    "price": "R362",
+    "handle": "acconet-mini-dc-ups-13200mah-with-12v-2a-power-supply-ac-ups-mini-v2-kit",
+    "url": "/pages/acconet-mini-dc-ups-13200mah-with-12v-2a-power-supply-ac-ups-mini-v2-kit",
+    "qty": 9,
+    "image": "https://miro.co.za/img/p/1/7/2/2/2/17222.jpg",
+    "enquiry": true
    }
   ],
   "desk": [
@@ -1187,14 +1209,14 @@
     "enquiry": true
    },
    {
-    "brand": "TP-Link Omada",
-    "title": "TP-Link Omada BE3600 Wi-Fi 7 Wall Plate AP | EAP725-W",
-    "spec": "2× 2.5G Ports + 2× Gigabit Ports, 688Mbps at 2.4 GHz + 2882 Mbps at 5 ",
-    "price": "R2 434",
-    "handle": "tp-link-omada-be3600-wi-fi-7-wall-plate-ap-eap725-w",
-    "url": "/pages/tp-link-omada-be3600-wi-fi-7-wall-plate-ap-eap725-w",
+    "brand": "Cambium Networks",
+    "title": "Cambium cnPilot Enterprise WiFi 6 120° Outdoor AP | CNP-XV-2T1",
+    "spec": "2x2 Dual Band 802.11ax, 30W PoE out, 1 x 2.5 Gb Port, 1 x Gb Port, PoE",
+    "price": "R14 646",
+    "handle": "cambium-cnpilot-enterprise-wifi-6-120-outdoor-ap-cnp-xv-2t1",
+    "url": "/pages/cambium-cnpilot-enterprise-wifi-6-120-outdoor-ap-cnp-xv-2t1",
     "qty": 9,
-    "image": "https://miro.co.za/img/p/1/8/0/9/7/18097.jpg",
+    "image": "https://miro.co.za/img/p/8/5/0/0/8500.jpg",
     "enquiry": true
    }
   ]
@@ -1810,7 +1832,7 @@
     "price": "R515",
     "handle": "hp-320-black-full-hd-usb-webcam",
     "url": "https://ubratech.co.za/products/hp-320-black-full-hd-usb-webcam",
-    "qty": 28,
+    "qty": 29,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/3/53X26AA_9bf9.png"
    },
    {
@@ -1834,14 +1856,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS105_wr_01.jpg"
    },
    {
-    "brand": "Logitech",
-    "title": "Logitech H540 USB Computer Headset with HD Sound and On-Ear… (981-000480)",
+    "brand": "WINX",
+    "title": "WINX CALL Pro 2 Mono AI Noise Cancelling Headset",
     "spec": "Headsets",
-    "price": "R666",
-    "handle": "logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
-    "url": "/products/logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
-    "qty": 25,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/981-000480_default.jpg"
+    "price": "R699",
+    "handle": "winx-call-pro-2-mono-ai-noise-cancelling-headset",
+    "url": "/products/winx-call-pro-2-mono-ai-noise-cancelling-headset",
+    "qty": 296,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS113_WINX-CALL-Pro-Wireless-Noise-Cancelling-Mic-Headset-Black_wr_01a.jpg"
    },
    {
     "brand": "Logitech",
@@ -1872,7 +1894,7 @@
     "price": "R6 103",
     "handle": "dell-pro-premium-wireless-anc-headset-wl7024",
     "url": "https://ubratech.co.za/products/dell-pro-premium-wireless-anc-headset-wl7024",
-    "qty": 22,
+    "qty": 21,
     "image": "https://staxdstoragecdn.blob.core.windows.net/axd-live/dell_520-bbhc.jpg"
    }
   ]
@@ -1994,14 +2016,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008MP_68a7.jpg"
    },
    {
-    "brand": "Ubiquiti",
-    "title": "Ubiquiti Rack Mount Brush Panel | UACC-Rack-Panel-Brush-1U",
-    "spec": "1U, Ubiquiti Racks Supported",
-    "price": "R871",
-    "handle": "ubiquiti-rack-mount-brush-panel-uacc-rack-panel-brush-1u",
-    "url": "/pages/ubiquiti-rack-mount-brush-panel-uacc-rack-panel-brush-1u",
+    "brand": "Acconet",
+    "title": "Acconet 4U Unassembled Fixed Wall Mount Box 450mm",
+    "spec": "Flat Pack, Glass Door",
+    "price": "R1 239",
+    "handle": "acconet-4u-unassembled-fixed-wall-mount-box-450mm",
+    "url": "/pages/acconet-4u-unassembled-fixed-wall-mount-box-450mm",
     "qty": 9,
-    "image": "https://miro.co.za/img/p/1/9/8/2/3/19823.jpg",
+    "image": "https://miro.co.za/img/p/1/3/4/2/6/13426.jpg",
     "enquiry": true
    },
    {
@@ -2118,7 +2140,7 @@
     "price": "R2 435",
     "handle": "8gb-ddr4-single-rank",
     "url": "/products/8gb-ddr4-single-rank",
-    "qty": 15,
+    "qty": 14,
     "image": "http://cdn.cs.1worldsync.com/12/52/1252ca09-0d1a-4abc-9e0f-c852ee1647dc.jpg"
    },
    {
@@ -2398,7 +2420,7 @@
     "price": "R6 103",
     "handle": "dell-pro-premium-wireless-anc-headset-wl7024",
     "url": "/products/dell-pro-premium-wireless-anc-headset-wl7024",
-    "qty": 22,
+    "qty": 21,
     "image": "https://staxdstoragecdn.blob.core.windows.net/axd-live/dell_520-bbhc.jpg"
    }
   ],
@@ -2444,14 +2466,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900717_1_a313.png"
    },
    {
-    "brand": "TP-Link",
-    "title": "TP-Link TAPO A100 Battery Pack",
+    "brand": "Targus",
+    "title": "Targus Wireless Presenter With Laser Pointer, lear & intuitive… (AMP13EU)",
     "spec": "Accessories",
-    "price": "R459",
-    "handle": "tp-link-tapo-a100-battery-pack",
-    "url": "/products/tp-link-tapo-a100-battery-pack",
-    "qty": 40,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/T/A/TAPO_A100_1_7135.png"
+    "price": "R453",
+    "handle": "targus-wireless-presenter-with-laser-pointer-lear-intuitive-layout-2-4-ghz-wireless-technology-operates-up-to-15-metres-away-usb-port-required-true-plug-and-play-device-no-drivers-required-pc-mac-and",
+    "url": "/products/targus-wireless-presenter-with-laser-pointer-lear-intuitive-layout-2-4-ghz-wireless-technology-operates-up-to-15-metres-away-usb-port-required-true-plug-and-play-device-no-drivers-required-pc-mac-and",
+    "qty": 34,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/AMP13EU_default.jpg"
    },
    {
     "brand": "Lenovo",
@@ -2496,14 +2518,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/RD-BM-4049_wr_01.jpg"
    },
    {
-    "brand": "Redragon",
-    "title": "Redragon K733 COVE RGB Wireless Mechanical Numpad",
-    "spec": "Keyboards",
-    "price": "R354",
-    "handle": "redragon-k733-cove-rgb-wireless-mechanical-numpad",
-    "url": "/products/redragon-k733-cove-rgb-wireless-mechanical-numpad",
-    "qty": 124,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/RD-K733-RGB-WL_Redragon-K733-COVE-RGB-Wireless-Mechanical-Numpad-Keyboard_wr_01a.jpg"
+    "brand": "Port",
+    "title": "Port Connect Ergo Shape Rechargeable Wireless Mouse",
+    "spec": "Mice",
+    "price": "R351",
+    "handle": "port-connect-ergo-shape-rechargeable-wireless-mouse",
+    "url": "/products/port-connect-ergo-shape-rechargeable-wireless-mouse",
+    "qty": 107,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/910008_PORT-MOUSE-ERGO-RECHARGEABLE-BT-LEFT_wr_09.jpg"
    },
    {
     "brand": "REDRAGON",
@@ -2529,58 +2551,69 @@
  },
  "wifi_ap": [
   {
-   "brand": "TP-Link Omada",
-   "title": "TP-Link AC1200 Wall Plate Access Point",
-   "spec": "867Mbps (5GHz) + 300Mbps (2.4GHz), 4 Gigabit Ports, 802.3at/af PoE wit",
-   "price": "R942",
-   "handle": "tp-link-ac1200-wall-plate-access-point",
-   "url": "/pages/tp-link-ac1200-wall-plate-access-point",
-   "qty": 9,
-   "image": "https://miro.co.za/img/p/4/9/7/4/4974.jpg",
-   "enquiry": true
-  },
-  {
-   "brand": "TP-Link Omada",
-   "title": "TP-Link AX1800 Wall-Plate Dual-Band Access Point",
-   "spec": "1× Gigabit RJ45 Port; Downlink: 3× Gb RJ45 Port, 574Mbps at  2.4 GHz +",
-   "price": "R1 099",
-   "handle": "tp-link-ax1800-wall-plate-dual-band-access-point",
-   "url": "/pages/tp-link-ax1800-wall-plate-dual-band-access-point",
-   "qty": 9,
-   "image": "https://miro.co.za/img/p/8/3/5/0/8350.jpg",
-   "enquiry": true
-  },
-  {
    "brand": "MikroTik",
-   "title": "MikroTik cAP ac Dual Band 1200Mbps Wi-Fi 5 PoE  Ceiling AP | MT-RBCAP-AC",
-   "spec": "802.11 b/g/n/ac, 2dBi gain, Dual chain, PoE-in 802.3af/at, PoE out - p",
-   "price": "R1 500",
-   "handle": "mikrotik-cap-ac-dual-band-1200mbps-wi-fi-5-poe-ceiling-ap-mt-rbcap-ac",
-   "url": "/pages/mikrotik-cap-ac-dual-band-1200mbps-wi-fi-5-poe-ceiling-ap-mt-rbcap-ac",
+   "title": "MikroTik cAP 2nD - 2.4GHz Indoor AP",
+   "spec": "650MHz CPU, 64MB RAM, 802.11b/g/n dual chain, 1 x 10/100 LAN, RouterOS",
+   "price": "R903",
+   "handle": "mikrotik-cap-2nd-2-4ghz-indoor-ap",
+   "url": "/pages/mikrotik-cap-2nd-2-4ghz-indoor-ap",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/4/7/4/0/4740.jpg",
-   "enquiry": true
-  },
-  {
-   "brand": "MikroTik",
-   "title": "Mikrotik cAP AC XL Dual Band 1200Mbps Wi-Fi 5 Ceiling AP | MT-RBCAP-AC-XL",
-   "spec": "802.11 b/g/n/ac, 6dBi (2.4GHz) 5.5dBi (5GHz), Dual chain, PoE-in 802.3",
-   "price": "R1 781",
-   "handle": "mikrotik-cap-ac-xl-dual-band-1200mbps-wi-fi-5-ceiling-ap-mt-rbcap-ac-xl",
-   "url": "/pages/mikrotik-cap-ac-xl-dual-band-1200mbps-wi-fi-5-ceiling-ap-mt-rbcap-ac-xl",
-   "qty": 9,
-   "image": "https://miro.co.za/img/p/5/7/0/2/5702.jpg",
+   "image": "https://miro.co.za/img/p/9/5/9/959.jpg",
    "enquiry": true
   },
   {
    "brand": "TP-Link Omada",
-   "title": "TP-Link Omada BE3600 Wi-Fi 7 Wall Plate AP | EAP725-W",
-   "spec": "2× 2.5G Ports + 2× Gigabit Ports, 688Mbps at 2.4 GHz + 2882 Mbps at 5 ",
-   "price": "R2 434",
-   "handle": "tp-link-omada-be3600-wi-fi-7-wall-plate-ap-eap725-w",
-   "url": "/pages/tp-link-omada-be3600-wi-fi-7-wall-plate-ap-eap725-w",
+   "title": "TP-Link AX1800 Ceiling Mount Dual-Band Access Point | TP-EAP613",
+   "spec": "1 Gb RJ45 Port, Ultra-Slim Design, Omada Mesh,  574Mbps at  2.4 GHz + ",
+   "price": "R1 413",
+   "handle": "tp-link-ax1800-ceiling-mount-dual-band-access-point-tp-eap613",
+   "url": "/pages/tp-link-ax1800-ceiling-mount-dual-band-access-point-tp-eap613",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/8/0/9/7/18097.jpg",
+   "image": "https://miro.co.za/img/p/1/6/3/3/8/16338.jpg",
+   "enquiry": true
+  },
+  {
+   "brand": "Grandstream",
+   "title": "Grandstream Enterprise Outdoor WiFi 5 Long Range AP | GWN7630LR",
+   "spec": "2.33Gbps, 300 metres, 4x4 MIMO, 200+ client devices, Advanced QoS, GWN",
+   "price": "R2 010",
+   "handle": "grandstream-enterprise-outdoor-wifi-5-long-range-ap-gwn7630lr",
+   "url": "/pages/grandstream-enterprise-outdoor-wifi-5-long-range-ap-gwn7630lr",
+   "qty": 9,
+   "image": "https://miro.co.za/img/p/3/7/2/1/3721.jpg",
+   "enquiry": true
+  },
+  {
+   "brand": "Grandstream",
+   "title": "Grandstream Enterprise Outdoor WiFi 6 Long Range Access Point | GWN7664ELR",
+   "spec": "6Gbps, 4x4:4 2.4/5G, 1x 2.5GbE, 1x SFP 2.5G, 512 client devices, Embed",
+   "price": "R3 185",
+   "handle": "grandstream-enterprise-outdoor-wifi-6-long-range-access-point-gwn7664elr",
+   "url": "/pages/grandstream-enterprise-outdoor-wifi-6-long-range-access-point-gwn7664elr",
+   "qty": 9,
+   "image": "https://miro.co.za/img/p/1/5/3/5/6/15356.jpg",
+   "enquiry": true
+  },
+  {
+   "brand": "Cambium Networks",
+   "title": "Cambium cnPilot WiFi 5 Wave 2 Indoor Wall Plate AP | CNP-E430H",
+   "spec": "Indoor 2x2 Dual Band 802.11ac Wave 2 MU-MIMO Wall Plate AP PoE pass-th",
+   "price": "R4 587",
+   "handle": "cambium-cnpilot-wifi-5-wave-2-indoor-wall-plate-ap-cnp-e430h",
+   "url": "/pages/cambium-cnpilot-wifi-5-wave-2-indoor-wall-plate-ap-cnp-e430h",
+   "qty": 9,
+   "image": "https://miro.co.za/img/p/2/2/1/221.jpg",
+   "enquiry": true
+  },
+  {
+   "brand": "Cambium Networks",
+   "title": "Cambium cnPilot Enterprise WiFi 6 120° Outdoor AP | CNP-XV-2T1",
+   "spec": "2x2 Dual Band 802.11ax, 30W PoE out, 1 x 2.5 Gb Port, 1 x Gb Port, PoE",
+   "price": "R14 646",
+   "handle": "cambium-cnpilot-enterprise-wifi-6-120-outdoor-ap-cnp-xv-2t1",
+   "url": "/pages/cambium-cnpilot-enterprise-wifi-6-120-outdoor-ap-cnp-xv-2t1",
+   "qty": 9,
+   "image": "https://miro.co.za/img/p/8/5/0/0/8500.jpg",
    "enquiry": true
   }
  ],
