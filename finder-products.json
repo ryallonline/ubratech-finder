@@ -48,7 +48,7 @@
     "price": "R12 023",
     "handle": "dell-pro-15-essential-15-6-core-i3-8gb-512gb-win-11-pro-notebook",
     "url": "/products/dell-pro-15-essential-15-6-core-i3-8gb-512gb-win-11-pro-notebook",
-    "qty": 14,
+    "qty": 13,
     "image": "https://www.pinnacle.co.za/media/catalog/product/P/V/PV15250_RPLU_004_P_56c0.jpg"
    },
    {
@@ -90,7 +90,7 @@
     "price": "R17 344",
     "handle": "asus-vivobook-14-flip-14-oled-touch-core-u7-16gb-1tb-win-11-home-notebook",
     "url": "/products/asus-vivobook-14-flip-14-oled-touch-core-u7-16gb-1tb-win-11-home-notebook",
-    "qty": 4,
+    "qty": 3,
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/P/TP3407SA_OU71610G1W_66cc.jpg"
    },
    {
@@ -100,7 +100,7 @@
     "price": "R20 349",
     "handle": "dell-pro-14-essential-14-core-5-16gb-512gb-win-11-pro-notebook",
     "url": "/products/dell-pro-14-essential-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "qty": 9,
+    "qty": 8,
     "image": "https://www.pinnacle.co.za/media/catalog/product/P/V/PV14250_RPLR_002_af59.jpg"
    },
    {
@@ -146,14 +146,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DB04250_LNL_202_HOM_default.png"
    },
    {
-    "brand": "Asus",
-    "title": "Asus Zenbook S16 UM5606GA 16\" 3K OLED 120Hz Ryzen AI 9-465 16GB 1TB Win 11 Pro Notebook",
-    "spec": "16\" screen",
-    "price": "R39 665",
-    "handle": "asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
-    "url": "/products/asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
-    "qty": 2,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_S16_UM5606GA_Product_photo_3G_Antrim_Gray_03__1__de3e.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 13 Premium PA13250 Ultra 5 236V Copil Laptop — 512GB SSD",
+    "spec": "512GB SSD",
+    "price": "R39 959",
+    "handle": "dell-pro-13-premium-pa13250-ultra-5-236v-copilot-16gb-cant-upg-512gb-ssd-gen4-13-3-fhd-arc-fgrpr-cams-mic-wlan-bt-backlit-kb-5g-3-cell-w11pro-vpro-3y-prospt",
+    "url": "/products/dell-pro-13-premium-pa13250-ultra-5-236v-copilot-16gb-cant-upg-512gb-ssd-gen4-13-3-fhd-arc-fgrpr-cams-mic-wlan-bt-backlit-kb-5g-3-cell-w11pro-vpro-3y-prospt",
+    "qty": 11,
+    "image": "https://staxdstoragecdn.blob.core.windows.net/axd-live/dell_bto203_pa13250_emea-5g.jpg"
    },
    {
     "brand": "Dell",
@@ -162,7 +162,7 @@
     "price": "R85 156",
     "handle": "dell-16-premium-da16250-u7-255hx-32gb-lpddr5x-7467mt-s-integrated-dual-channel-1tb-ssd-m-2-pcie-nvme-solid-state-drive-nvidia-geforce-rtx-5060-8gb-gddr7-45w-fingerprint-reader-intel-killer-wi-fi-7",
     "url": "/products/dell-16-premium-da16250-u7-255hx-32gb-lpddr5x-7467mt-s-integrated-dual-channel-1tb-ssd-m-2-pcie-nvme-solid-state-drive-nvidia-geforce-rtx-5060-8gb-gddr7-45w-fingerprint-reader-intel-killer-wi-fi-7",
-    "qty": 1,
+    "qty": 5,
     "image": "https://s3.amazonaws.com/tarsus.co.za/DA16250_ARLH_011_default.jpg"
    }
   ],
@@ -174,7 +174,7 @@
     "price": "R46 969",
     "handle": "hp-zbook-8-g1i-laptop-core-ultra-7-32gb-1tb-ssd-cg0g9et",
     "url": "https://ubratech.co.za/products/hp-zbook-8-g1i-laptop-core-ultra-7-32gb-1tb-ssd-cg0g9et",
-    "qty": 26,
+    "qty": 25,
     "image": "https://s3.amazonaws.com/tarsus.co.za/CG0G9ET_default.jpg"
    },
    {
@@ -414,23 +414,13 @@
     "price": "R72 632",
     "handle": "dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
     "url": "/products/dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
-    "qty": 31,
+    "qty": 30,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PW516261-U7-321TB-5G_default.jpg"
    }
   ]
  },
  "gaming": {
   "entry": [
-   {
-    "brand": "Acer",
-    "title": "Acer Nitro V 16 Ryzen 7 16GB 1TB 180Hz Gaming Laptop",
-    "spec": "16GB RAM · 1TB SSD",
-    "price": "R22 665",
-    "handle": "acer-nitro-v-16-r7-260-16gb-1tb-16in-wuxga-ips-180hz-display-5050-windows-11-home",
-    "url": "https://ubratech.co.za/products/acer-nitro-v-16-r7-260-16gb-1tb-16in-wuxga-ips-180hz-display-5050-windows-11-home",
-    "qty": 1,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NH.QYWEA.002_default.png"
-   },
    {
     "brand": "Acer",
     "title": "Acer NITRO V 15 Gaming Laptop 15.6″ | Laptop",
@@ -452,14 +442,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/NH.QUAEA.00D_default.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer NITRO V 15 Gaming Laptop — Ryzen 5",
-    "spec": "Notebooks",
-    "price": "R21 784",
-    "handle": "acer-nitro-v-15-gaming-laptop-15-6-amd-ryzen-5-16gb-512gb-rtx-5050-8gb-windows-11-home",
-    "url": "/products/acer-nitro-v-15-gaming-laptop-15-6-amd-ryzen-5-16gb-512gb-rtx-5050-8gb-windows-11-home",
-    "qty": 65,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NH.U3NEA.001_Acr-NITRO-V-15-Gaming-Laptop-15.6inch_wr001.jpg"
+    "brand": "PCBuilder",
+    "title": "PCBuilder Ryzen 5 5600XT PATHFINDER Windows 11 Gaming PC",
+    "spec": "Desktops",
+    "price": "R21 677",
+    "handle": "pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
+    "url": "/products/pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
+    "qty": 7,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/11/PCB_PATHFINDER_01_PCBuilder-Ryzen-5-5600XT-PATHFINDER-Windows-11-Gaming-PC_wr_01c.jpg"
    },
    {
     "brand": "Acer",
@@ -576,7 +566,7 @@
     "price": "R1 585",
     "handle": "dell-e2225hm-pro-21-5-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-e2225hm-pro-21-5-fhd-monitor",
-    "qty": 2,
+    "qty": 1,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQMZ_4276.jpg"
    },
    {
@@ -586,7 +576,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1705,
+    "qty": 1703,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -690,7 +680,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 569,
+    "qty": 561,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -762,7 +752,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1705,
+    "qty": 1703,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -887,7 +877,7 @@
     "brand": "APC",
     "title": "APC Back-UPS 1200VA / 650W",
     "spec": "Backs up a PC + screen",
-    "price": "R2 443",
+    "price": "R2 467",
     "handle": "apc-backup-ups-1200va-1-2kva-650w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
     "url": "https://ubratech.co.za/products/apc-backup-ups-1200va-1-2kva-650w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
     "qty": 28,
@@ -1230,7 +1220,7 @@
     "price": "R7 563",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 88,
+    "qty": 87,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
    },
    {
@@ -1250,7 +1240,7 @@
     "price": "R725",
     "handle": "canon-pixma-mg2541s-inkjet-mfp-3-in-1-a4-grey-a4-mfp-print-copy-and-scan-8ipm-mono-4-0ipm-colour-4800-x-600-print-resolution-600-x-1200-dpi-scan-resolution-60-sheet-rear-tray-manual-duplex-usb-4-ink",
     "url": "/products/canon-pixma-mg2541s-inkjet-mfp-3-in-1-a4-grey-a4-mfp-print-copy-and-scan-8ipm-mono-4-0ipm-colour-4800-x-600-print-resolution-600-x-1200-dpi-scan-resolution-60-sheet-rear-tray-manual-duplex-usb-4-ink",
-    "qty": 22,
+    "qty": 20,
     "image": "https://s3.amazonaws.com/tarsus.co.za/0727C067AA_default.png"
    },
    {
@@ -1354,7 +1344,7 @@
     "price": "R7 563",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 88,
+    "qty": 87,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
    },
    {
@@ -1374,7 +1364,7 @@
     "price": "R6 969",
     "handle": "hp-laserjet-pro-4103dw-mfp-mono-printer",
     "url": "/products/hp-laserjet-pro-4103dw-mfp-mono-printer",
-    "qty": 91,
+    "qty": 72,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z627A_default.png"
    },
    {
@@ -1709,13 +1699,13 @@
    },
    {
     "brand": "Port",
-    "title": "Port USB-C & USB-A Combo Docking Station",
+    "title": "Port Connect Multi-port USB Type-C 2x4K Office Docking Station",
     "spec": "Docking Station",
-    "price": "R3 285",
-    "handle": "port-usb-c-usb-a-combo-docking-station",
-    "url": "/products/port-usb-c-usb-a-combo-docking-station",
-    "qty": 1,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/901908_9f97.jpg"
+    "price": "R3 083",
+    "handle": "port-connect-multi-port-usb-type-c-2x4k-office-docking-station",
+    "url": "/products/port-connect-multi-port-usb-type-c-2x4k-office-docking-station",
+    "qty": 34,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/901908V2EU_Port-Connect-Multi-port-USB-Type-C-2x4K-Office-Docking-Station-Black_wr_01a.jpg"
    },
    {
     "brand": "Dell",
@@ -1740,14 +1730,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900140_0708.jpg"
    },
    {
-    "brand": "Targus",
-    "title": "Targus - USB-C Multi-Function DisplayPort Alt Triple Video with 85W… (DOCK430EUZ)",
+    "brand": "Dell",
+    "title": "Dell Pro 7-in-1 USB-C Mobile Docking Station",
     "spec": "Docking Station",
-    "price": "R2 191",
-    "handle": "targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
-    "url": "/products/targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
-    "qty": 71,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK430EUZ_default.jpg"
+    "price": "R1 537",
+    "handle": "dell-pro-7-in-1-usb-c-mobile-docking-station",
+    "url": "/products/dell-pro-7-in-1-usb-c-mobile-docking-station",
+    "qty": 24,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__23__d7c1.png"
    },
    {
     "brand": "Port",
@@ -2466,14 +2456,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900717_1_a313.png"
    },
    {
-    "brand": "Targus",
-    "title": "Targus Wireless Presenter With Laser Pointer, lear & intuitive… (AMP13EU)",
+    "brand": "TP-Link",
+    "title": "TP-Link TAPO A100 Battery Pack",
     "spec": "Accessories",
-    "price": "R453",
-    "handle": "targus-wireless-presenter-with-laser-pointer-lear-intuitive-layout-2-4-ghz-wireless-technology-operates-up-to-15-metres-away-usb-port-required-true-plug-and-play-device-no-drivers-required-pc-mac-and",
-    "url": "/products/targus-wireless-presenter-with-laser-pointer-lear-intuitive-layout-2-4-ghz-wireless-technology-operates-up-to-15-metres-away-usb-port-required-true-plug-and-play-device-no-drivers-required-pc-mac-and",
-    "qty": 34,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/AMP13EU_default.jpg"
+    "price": "R459",
+    "handle": "tp-link-tapo-a100-battery-pack",
+    "url": "/products/tp-link-tapo-a100-battery-pack",
+    "qty": 40,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/T/A/TAPO_A100_1_7135.png"
    },
    {
     "brand": "Lenovo",
