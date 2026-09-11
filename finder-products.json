@@ -70,7 +70,7 @@
     "price": "R12 567",
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
-    "qty": 92,
+    "qty": 87,
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
@@ -147,13 +147,13 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro 13 Premium PA13250 Ultra 5 236V Copil Laptop — 512GB SSD",
-    "spec": "512GB SSD",
-    "price": "R39 959",
-    "handle": "dell-pro-13-premium-pa13250-ultra-5-236v-copilot-16gb-cant-upg-512gb-ssd-gen4-13-3-fhd-arc-fgrpr-cams-mic-wlan-bt-backlit-kb-5g-3-cell-w11pro-vpro-3y-prospt",
-    "url": "/products/dell-pro-13-premium-pa13250-ultra-5-236v-copilot-16gb-cant-upg-512gb-ssd-gen4-13-3-fhd-arc-fgrpr-cams-mic-wlan-bt-backlit-kb-5g-3-cell-w11pro-vpro-3y-prospt",
-    "qty": 11,
-    "image": "https://staxdstoragecdn.blob.core.windows.net/axd-live/dell_bto203_pa13250_emea-5g.jpg"
+    "title": "Dell Alienware 16 Aurora 16\" RTX 4050 Core 5-210H 16GB 512GB Win 11 Pro Gaming Notebook",
+    "spec": "16\" screen",
+    "price": "R40 142",
+    "handle": "dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
+    "url": "/products/dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
+    "qty": 4,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/C/AC16250_RPLH_R_006_794e.jpg"
    },
    {
     "brand": "Dell",
@@ -208,14 +208,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/S/ASUS_Vivobook_S14_S3407AA_Product_photo_2S_Cool_Silver_03_2400x2400__1__b555.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus Zenbook S16 UM5606GA 16\" 3K OLED 120Hz Ryzen AI 9-465 16GB 1TB Win 11 Pro Notebook",
+    "brand": "Dell",
+    "title": "Dell Alienware 16 Aurora 16\" RTX 4050 Core 5-210H 16GB 512GB Win 11 Pro Gaming Notebook",
     "spec": "16\" screen",
-    "price": "R39 665",
-    "handle": "asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
-    "url": "/products/asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
-    "qty": 2,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_S16_UM5606GA_Product_photo_3G_Antrim_Gray_03__1__de3e.jpg"
+    "price": "R40 142",
+    "handle": "dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
+    "url": "/products/dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
+    "qty": 4,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/C/AC16250_RPLH_R_006_794e.jpg"
    },
    {
     "brand": "ASUS",
@@ -490,7 +490,7 @@
     "price": "R26 605",
     "handle": "pcbuilder-ryzen-5-8400f-recon-windows-11-gaming-pc-pcb-recon-02",
     "url": "/products/pcbuilder-ryzen-5-8400f-recon-windows-11-gaming-pc-pcb-recon-02",
-    "qty": 4,
+    "qty": 6,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_RECON_02_PCBuilder-Ryzen-5-8400F-RECON-Windows-11-Gaming-PC_wr_01b.jpg"
    },
    {
@@ -537,23 +537,23 @@
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder Ryzen 5 5600XT PATHFINDER Windows 11 Gaming PC",
+    "title": "PCBuilder Ryzen 5 8400F RECON Windows 11 Gaming PC (PCB_RECON_02)",
     "spec": "Desktops",
-    "price": "R21 677",
-    "handle": "pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
-    "url": "/products/pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
+    "price": "R26 605",
+    "handle": "pcbuilder-ryzen-5-8400f-recon-windows-11-gaming-pc-pcb-recon-02",
+    "url": "/products/pcbuilder-ryzen-5-8400f-recon-windows-11-gaming-pc-pcb-recon-02",
     "qty": 6,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/11/PCB_PATHFINDER_01_PCBuilder-Ryzen-5-5600XT-PATHFINDER-Windows-11-Gaming-PC_wr_01c.jpg"
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_RECON_02_PCBuilder-Ryzen-5-8400F-RECON-Windows-11-Gaming-PC_wr_01b.jpg"
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder Ryzen 5 7600 SEEKER Windows 11 Gaming PC (PCB_SEEKER_02)",
+    "title": "PCBuilder Ryzen 5 7600 SPECIALIST Windows 11 Gaming PC (PCB_SPECIALIST_07)",
     "spec": "Desktops",
-    "price": "R39 415",
-    "handle": "pcbuilder-ryzen-5-7600-seeker-windows-11-gaming-pc-pcb-seeker-02",
-    "url": "/products/pcbuilder-ryzen-5-7600-seeker-windows-11-gaming-pc-pcb-seeker-02",
-    "qty": 2,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_SEEKER_02_PCBuilder-Ryzen-5-7600-SEEKER-Windows-11-Gaming-PC_wr_01a.jpg"
+    "price": "R33 509",
+    "handle": "pcbuilder-ryzen-5-7600-specialist-windows-11-gaming-pc-pcb-specialist-07",
+    "url": "/products/pcbuilder-ryzen-5-7600-specialist-windows-11-gaming-pc-pcb-specialist-07",
+    "qty": 4,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_SPECIALIST_07_PCBuilder-Ryzen-5-7600-SPECIALIST-Windows-11-Gaming-PC_wr_01b.jpg"
    },
    {
     "brand": "PCBuilder",
@@ -573,7 +573,7 @@
     "brand": "Dell",
     "title": "Dell E2225HM Pro 21.5\" FHD Monitor",
     "spec": "Crisp everyday screen",
-    "price": "R1 585",
+    "price": "R1 853",
     "handle": "dell-e2225hm-pro-21-5-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-e2225hm-pro-21-5-fhd-monitor",
     "qty": 1,
@@ -586,7 +586,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1691,
+    "qty": 1686,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -680,7 +680,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 529,
+    "qty": 523,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -710,7 +710,7 @@
     "price": "R1 871",
     "handle": "msi-mon-pro-ips-25-1080p-120hz-1ms",
     "url": "/products/msi-mon-pro-ips-25-1080p-120hz-1ms",
-    "qty": 29,
+    "qty": 28,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/09/PROMP251E2_wr_01.jpg"
    },
    {
@@ -752,7 +752,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1691,
+    "qty": 1686,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -1057,7 +1057,7 @@
     "brand": "Cudy",
     "title": "Cudy AX3000 Wi-Fi 6 Mesh Kit 1 Pack - White",
     "spec": "Wi-Fi 6",
-    "price": "R1 028",
+    "price": "R1 025",
     "handle": "cudy-ax3000-wi-fi-6-mesh-kit-1-pack-white",
     "url": "/products/cudy-ax3000-wi-fi-6-mesh-kit-1-pack-white",
     "qty": 105,
@@ -1070,7 +1070,7 @@
     "price": "R1 623",
     "handle": "cudy-ax1500-gigabit-mesh-wi-fi-6-system-2-pack",
     "url": "/products/cudy-ax1500-gigabit-mesh-wi-fi-6-system-2-pack",
-    "qty": 70,
+    "qty": 68,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/12/M1500-2PACK_Cudy-AX1500-Dual-Band-Wi-Fi-6-Mesh-Kit-With-Gigabit-2Pack.jpg"
    },
    {
@@ -1102,7 +1102,7 @@
     "price": "R1 623",
     "handle": "cudy-ax1500-gigabit-mesh-wi-fi-6-system-2-pack",
     "url": "/products/cudy-ax1500-gigabit-mesh-wi-fi-6-system-2-pack",
-    "qty": 70,
+    "qty": 68,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/12/M1500-2PACK_Cudy-AX1500-Dual-Band-Wi-Fi-6-Mesh-Kit-With-Gigabit-2Pack.jpg"
    },
    {
@@ -1272,7 +1272,7 @@
     "price": "R4 854",
     "handle": "canon-gx2040-megatank-maxify-business-range-wireless-all-in-one-printer-6171c021aa",
     "url": "https://ubratech.co.za/products/canon-gx2040-megatank-maxify-business-range-wireless-all-in-one-printer-6171c021aa",
-    "qty": 3,
+    "qty": 2,
     "image": "https://s3.amazonaws.com/tarsus.co.za/6171C021AA_default.png"
    },
    {
@@ -1292,7 +1292,7 @@
     "price": "R1 578",
     "handle": "xiaomi-portable-photo-printer-1s-silver",
     "url": "/products/xiaomi-portable-photo-printer-1s-silver",
-    "qty": 67,
+    "qty": 65,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/BHR9974GL_Xiaomi-Portable-Photo-Printer-S1_04.jpeg"
    },
    {
@@ -1618,7 +1618,7 @@
     "price": "R9 431",
     "handle": "hikvision-4-4mp-25x-colorvu-ir-network-speed-dome",
     "url": "/products/hikvision-4-4mp-25x-colorvu-ir-network-speed-dome",
-    "qty": 17,
+    "qty": 16,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2SE4C425MWG_E_14F0_09e8.png"
    },
    {
@@ -1674,18 +1674,8 @@
     "price": "R136",
     "handle": "port-connect-usb-type-c-to-4-port-usb-a-3-0-2-0-hub",
     "url": "/products/port-connect-usb-type-c-to-4-port-usb-a-3-0-2-0-hub",
-    "qty": 34,
+    "qty": 33,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/900160_Port-Connect-USB-Type-C-to-4-port-USB-A-3.0-2.0-Hub_wr_01a.jpg"
-   },
-   {
-    "brand": "UGREEN",
-    "title": "UGREEN 9-in-1 Type-C Hub | HDMI | VGA | LAN | SD/TF | 100W PD | USB3.0",
-    "spec": "Docking Station",
-    "price": "R728",
-    "handle": "ugreen-9-in-1-type-c-hub-hdmi-vga-lan-sd-tf-100w-pd-usb3-0",
-    "url": "/products/ugreen-9-in-1-type-c-hub-hdmi-vga-lan-sd-tf-100w-pd-usb3-0",
-    "qty": 109,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM498-15600-wr-01a.jpg"
    },
    {
     "brand": "HP",
@@ -1788,7 +1778,7 @@
     "price": "R728",
     "handle": "ugreen-9-in-1-type-c-hub-hdmi-vga-lan-sd-tf-100w-pd-usb3-0",
     "url": "/products/ugreen-9-in-1-type-c-hub-hdmi-vga-lan-sd-tf-100w-pd-usb3-0",
-    "qty": 109,
+    "qty": 108,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM498-15600-wr-01a.jpg"
    },
    {
@@ -1912,14 +1902,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/M/S/MS105_fcc4.png"
    },
    {
-    "brand": "Cudy",
-    "title": "Cudy 4 Port Gigabit PoE 1x PoE Input 60W Switch",
-    "spec": "4 ports",
-    "price": "R518",
-    "handle": "cudy-4-port-gigabit-poe-1x-poe-input-60w-switch",
-    "url": "/products/cudy-4-port-gigabit-poe-1x-poe-input-60w-switch",
-    "qty": 35,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/POE40_Cudy_4_Port_Gigabit_PoE_1x_PoE_Input_60W_wr_02.png"
+    "brand": "TP-Link",
+    "title": "TP-Link 8 Port Gigabit Smart Switch",
+    "spec": "8 ports",
+    "price": "R526",
+    "handle": "tp-link-8-port-gigabit-smart-switch",
+    "url": "/products/tp-link-8-port-gigabit-smart-switch",
+    "qty": 8,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG108E_36a3.jpg"
    },
    {
     "brand": "Huawei",
@@ -1969,7 +1959,7 @@
     "brand": "Cudy",
     "title": "Cudy 16-Port Layer 2 Managed Gigabit PoE Switch",
     "spec": "Managed · PoE for cameras & APs",
-    "price": "R3 697",
+    "price": "R3 779",
     "handle": "cudy-16-port-layer-2-managed-gigabit-poe-switch",
     "url": "https://ubratech.co.za/products/cudy-16-port-layer-2-managed-gigabit-poe-switch",
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/GS2018PS2_wr_01.jpg",
@@ -2029,7 +2019,7 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 109
+    "qty": 106
    },
    {
     "brand": "Seagate",
@@ -2172,7 +2162,7 @@
     "price": "R1 393",
     "handle": "asus-geforce-gt-710-2gb-gddr5-evo-graphics-card",
     "url": "/products/asus-geforce-gt-710-2gb-gddr5-evo-graphics-card",
-    "qty": 145,
+    "qty": 144,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/04/ASUS_GT710-SL-2GD5-BRK-EVO_wr_01a.jpg"
    },
    {
@@ -2385,13 +2375,13 @@
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi Redmi Headphones Neo ANC Wireless Over-Ears - White",
+    "title": "Xiaomi Redmi Headphones Neo ANC Wireless Over-Ears – Black",
     "spec": "Tv And Audio",
     "price": "R1 213",
-    "handle": "xiaomi-redmi-headphones-neo-anc-wireless-over-ears-white",
-    "url": "/products/xiaomi-redmi-headphones-neo-anc-wireless-over-ears-white",
-    "qty": 24,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/BHR08W2GL_Redmi-Headphones-Neo-ANC-Wireless-Over-Ears-White_wr_01a.jpg"
+    "handle": "xiaomi-redmi-headphones-neo-anc-wireless-over-ears-black",
+    "url": "/products/xiaomi-redmi-headphones-neo-anc-wireless-over-ears-black",
+    "qty": 41,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/BHR08W5GL_Redmi-Headphones-Neo-ANC-Wireless-Over-Ears-Black_wr_01a.jpg"
    },
    {
     "brand": "Dell",
@@ -2436,24 +2426,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2018/09/N301-10-SV-PRO_wr_01a.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port Comfortable Ergonomic Mouse Pad",
-    "spec": "Accessories",
-    "price": "R132",
-    "handle": "port-comfortable-ergonomic-mouse-pad",
-    "url": "/products/port-comfortable-ergonomic-mouse-pad",
-    "qty": 199,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900717_1_a313.png"
+    "brand": "UGREEN",
+    "title": "UGREEN Cat8 Nylon Braided Ethernet Cable - 40Gbps with Modular Plugs - 5m",
+    "spec": "Cables And Adapters",
+    "price": "R128",
+    "handle": "ugreen-cat8-nylon-braided-ethernet-cable-40gbps-with-modular-plugs-5m",
+    "url": "/products/ugreen-cat8-nylon-braided-ethernet-cable-40gbps-with-modular-plugs-5m",
+    "qty": 15,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/nw153-wr-02.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi 20W Wireless Charging Stand",
-    "spec": "Power Adapter",
-    "price": "R462",
-    "handle": "xiaomi-20w-wireless-charging-stand",
-    "url": "/products/xiaomi-20w-wireless-charging-stand",
-    "qty": 137,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2021/01/GDS4145GL_wr_01.jpg"
+    "brand": "Dell",
+    "title": "Dell Kensington N17 Wedge Combination Lock",
+    "spec": "Accessories",
+    "price": "R445",
+    "handle": "dell-kensington-n17-wedge-combination-lock",
+    "url": "/products/dell-kensington-n17-wedge-combination-lock",
+    "qty": 66,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/K68008EU_default.jpg"
    },
    {
     "brand": "Lenovo",
@@ -2485,7 +2475,7 @@
     "handle": "logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "url": "https://ubratech.co.za/products/logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "image": "https://s3.amazonaws.com/tarsus.co.za/920-008685_default.jpg",
-    "qty": 14
+    "qty": 6
    },
    {
     "brand": "Redragon",
