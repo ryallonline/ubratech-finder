@@ -542,7 +542,7 @@
     "price": "R21 677",
     "handle": "pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
-    "qty": 7,
+    "qty": 6,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/11/PCB_PATHFINDER_01_PCBuilder-Ryzen-5-5600XT-PATHFINDER-Windows-11-Gaming-PC_wr_01c.jpg"
    },
    {
@@ -586,7 +586,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1693,
+    "qty": 1691,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -680,7 +680,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 540,
+    "qty": 529,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -752,7 +752,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1693,
+    "qty": 1691,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -762,7 +762,7 @@
     "price": "R1 671",
     "handle": "pcbuilder-flex-15-6-full-hd-ips-portable-monitor",
     "url": "/products/pcbuilder-flex-15-6-full-hd-ips-portable-monitor",
-    "qty": 200,
+    "qty": 199,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/PCB-PM15-FHD_PCBuilder-FLEX-15.6-inch-Full-HD-IPS-Portable-Monitor_wr_01a.jpg"
    },
    {
@@ -1158,14 +1158,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/12/M3600-3PACK_Cudy-BE3600-Gigabit-Mesh-Wi-Fi-7-System-M3600-3-Pack_wr_01a.jpg"
    },
    {
-    "brand": "Cudy",
-    "title": "Cudy BE11000 Wi-Fi7 Tri-band Mesh Wi-Fi System - 2 Pack",
-    "spec": "Wi-Fi 7",
-    "price": "R5 092",
-    "handle": "cudy-be11000-wi-fi7-tri-band-mesh-wi-fi-system-2-pack",
-    "url": "/products/cudy-be11000-wi-fi7-tri-band-mesh-wi-fi-system-2-pack",
-    "qty": 18,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/12/M11000-2PACK_Cudy-BE11000-Mesh-Kit-2.5G-Wifi7.jpeg"
+    "brand": "Xiaomi",
+    "title": "Xiaomi Mesh System BE3600 Pro – 3 Pack",
+    "spec": "Router",
+    "price": "R6 104",
+    "handle": "xiaomi-mesh-system-be3600-pro-3-pack",
+    "url": "/products/xiaomi-mesh-system-be3600-pro-3-pack",
+    "qty": 2,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/DVB4480GL_Xiaomi-BE3600-Pro-Dual-Band-Mesh-Router-3-Pack_hr01a.jpeg"
    },
    {
     "brand": "Asus",
@@ -1210,7 +1210,7 @@
     "price": "R7 563",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 87,
+    "qty": 85,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
    },
    {
@@ -1334,7 +1334,7 @@
     "price": "R7 563",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 87,
+    "qty": 85,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
    },
    {
@@ -1440,7 +1440,7 @@
     "price": "R1 583",
     "handle": "hikvision-4mp-2-8mm-fixed-bullet-network-camera",
     "url": "/products/hikvision-4mp-2-8mm-fixed-bullet-network-camera",
-    "qty": 1482,
+    "qty": 1477,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2041G0_LIU_2.8MM_e3b5.png"
    },
    {
@@ -1768,7 +1768,7 @@
     "price": "R166",
     "handle": "ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
     "url": "/products/ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
-    "qty": 96,
+    "qty": 90,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CR113-20290_UGREEN-4-Port-USB-3.0-Hub-with-Micro-USB_wr_01a.jpg"
    },
    {
@@ -1898,7 +1898,7 @@
     "price": "R146",
     "handle": "tp-link-8-port-desktop-switch",
     "url": "https://ubratech.co.za/products/tp-link-8-port-desktop-switch",
-    "qty": 60,
+    "qty": 59,
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SF1008D_2687.jpg"
    },
    {
@@ -2514,7 +2514,7 @@
     "price": "R737",
     "handle": "redragon-bragi-pro-k688-98-1-gasket-wireless-mechanical-keyboard-triple-mode-rgb-hot-swappable-cream-linear-switches",
     "url": "/products/redragon-bragi-pro-k688-98-1-gasket-wireless-mechanical-keyboard-triple-mode-rgb-hot-swappable-cream-linear-switches",
-    "qty": 30,
+    "qty": 28,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/RD-K688GB-RGB-PRO_REDRAGON-KB-MECH-BRAGI-PRO-RGB-BK_wr_01.jpg"
    },
    {
@@ -2553,14 +2553,14 @@
    "enquiry": true
   },
   {
-   "brand": "Grandstream",
-   "title": "Grandstream Enterprise Outdoor WiFi 5 Long Range AP | GWN7630LR",
-   "spec": "2.33Gbps, 300 metres, 4x4 MIMO, 200+ client devices, Advanced QoS, GWN",
-   "price": "R2 010",
-   "handle": "grandstream-enterprise-outdoor-wifi-5-long-range-ap-gwn7630lr",
-   "url": "/pages/grandstream-enterprise-outdoor-wifi-5-long-range-ap-gwn7630lr",
+   "brand": "TP-Link Omada",
+   "title": "TP-Link Omada BE3600 Ceiling Mount Wi-Fi 7 Access Point | TP-EAP723",
+   "spec": "1×2.5G RJ45 Port, 688Mbps at 2.4 GHz + 4324 Mbps at 5 GHz, 802.3at PoE",
+   "price": "R1 963",
+   "handle": "tp-link-omada-be3600-ceiling-mount-wi-fi-7-access-point-tp-eap723",
+   "url": "/pages/tp-link-omada-be3600-ceiling-mount-wi-fi-7-access-point-tp-eap723",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/3/7/2/1/3721.jpg",
+   "image": "https://miro.co.za/img/p/1/6/9/5/7/16957.jpg",
    "enquiry": true
   },
   {
