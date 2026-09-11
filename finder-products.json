@@ -137,23 +137,23 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell 14 Plus Laptop — Core Ultra 5 · 512GB SSD (DB04250_LNL_202_HOM)",
-    "spec": "512GB SSD",
-    "price": "R29 604",
-    "handle": "dell-14-plus-2in1-db04250-intel-core-ultra-5-226v-8m-cache-up-to-4-5-ghz-14-0-fhd-1920x1200-wide-view-antiglare-touch-300nits-16gb-8533mt-s-lpddr5x-512gb-ssd-pcie-nvme-m-2-graphics-intel-arch-db04250-lnl-202-hom",
-    "url": "/products/dell-14-plus-2in1-db04250-intel-core-ultra-5-226v-8m-cache-up-to-4-5-ghz-14-0-fhd-1920x1200-wide-view-antiglare-touch-300nits-16gb-8533mt-s-lpddr5x-512gb-ssd-pcie-nvme-m-2-graphics-intel-arch-db04250-lnl-202-hom",
-    "qty": 27,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DB04250_LNL_202_HOM_default.png"
+    "title": "Dell Pro 16 AI 16\" Core-U5 16GB 512GB Win 11 Pro Notebook",
+    "spec": "16\" screen",
+    "price": "R29 675",
+    "handle": "dell-pro-16-ai-16-core-u5-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/dell-pro-16-ai-16-core-u5-16gb-512gb-win-11-pro-notebook",
+    "qty": 19,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/B/T/BTO105_PB16250_dc38.jpg"
    },
    {
     "brand": "Dell",
-    "title": "Dell Alienware 16 Aurora 16\" RTX 4050 Core 5-210H 16GB 512GB Win 11 Pro Gaming Notebook",
-    "spec": "16\" screen",
-    "price": "R40 142",
-    "handle": "dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
-    "url": "/products/dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
-    "qty": 4,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/C/AC16250_RPLH_R_006_794e.jpg"
+    "title": "Dell Pro 13 Premium PA13250 Ultra 5 236V Copil Laptop — 512GB SSD",
+    "spec": "512GB SSD",
+    "price": "R39 959",
+    "handle": "dell-pro-13-premium-pa13250-ultra-5-236v-copilot-16gb-cant-upg-512gb-ssd-gen4-13-3-fhd-arc-fgrpr-cams-mic-wlan-bt-backlit-kb-5g-3-cell-w11pro-vpro-3y-prospt",
+    "url": "/products/dell-pro-13-premium-pa13250-ultra-5-236v-copilot-16gb-cant-upg-512gb-ssd-gen4-13-3-fhd-arc-fgrpr-cams-mic-wlan-bt-backlit-kb-5g-3-cell-w11pro-vpro-3y-prospt",
+    "qty": 11,
+    "image": "https://staxdstoragecdn.blob.core.windows.net/axd-live/dell_bto203_pa13250_emea-5g.jpg"
    },
    {
     "brand": "Dell",
@@ -586,7 +586,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1686,
+    "qty": 1673,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -680,7 +680,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 523,
+    "qty": 516,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -752,7 +752,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1686,
+    "qty": 1673,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -1716,7 +1716,7 @@
     "price": "R1 537",
     "handle": "dell-pro-7-in-1-usb-c-mobile-docking-station",
     "url": "/products/dell-pro-7-in-1-usb-c-mobile-docking-station",
-    "qty": 23,
+    "qty": 22,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__23__d7c1.png"
    },
    {
@@ -2452,7 +2452,7 @@
     "price": "R2 439",
     "handle": "lenovo-usb-c-dual-display-travel-dock-with-100w-adapter-the-lenovo-usb-c-dual-display-travel-dock-40b9-is-an-essential-companion-for-the-modern-remote-professional-this-compact-dynamo-supports-dual",
     "url": "/products/lenovo-usb-c-dual-display-travel-dock-with-100w-adapter-the-lenovo-usb-c-dual-display-travel-dock-40b9-is-an-essential-companion-for-the-modern-remote-professional-this-compact-dynamo-supports-dual",
-    "qty": 33,
+    "qty": 31,
     "image": "https://s3.amazonaws.com/tarsus.co.za/40B90100SA_default.png"
    }
   ],
