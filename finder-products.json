@@ -147,13 +147,13 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro 13 Premium PA13250 Ultra 5 236V Copil Laptop — 512GB SSD",
-    "spec": "512GB SSD",
-    "price": "R39 959",
-    "handle": "dell-pro-13-premium-pa13250-ultra-5-236v-copilot-16gb-cant-upg-512gb-ssd-gen4-13-3-fhd-arc-fgrpr-cams-mic-wlan-bt-backlit-kb-5g-3-cell-w11pro-vpro-3y-prospt",
-    "url": "/products/dell-pro-13-premium-pa13250-ultra-5-236v-copilot-16gb-cant-upg-512gb-ssd-gen4-13-3-fhd-arc-fgrpr-cams-mic-wlan-bt-backlit-kb-5g-3-cell-w11pro-vpro-3y-prospt",
-    "qty": 11,
-    "image": "https://staxdstoragecdn.blob.core.windows.net/axd-live/dell_bto203_pa13250_emea-5g.jpg"
+    "title": "Dell Alienware 16 Aurora 16\" RTX 4050 Core 5-210H 16GB 512GB Win 11 Pro Gaming Notebook",
+    "spec": "16\" screen",
+    "price": "R40 142",
+    "handle": "dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
+    "url": "/products/dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
+    "qty": 4,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/C/AC16250_RPLH_R_006_794e.jpg"
    },
    {
     "brand": "Dell",
@@ -189,13 +189,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP ProBook 4 G1ah 14\" FHD Radeon 740M Ryzen 5-220 16GB 512GB Win 11 Pro Notebook",
-    "spec": "14\" screen",
-    "price": "R18 887",
-    "handle": "hp-probook-4-g1ah-14-fhd-radeon-740m-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/hp-probook-4-g1ah-14-fhd-radeon-740m-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
-    "qty": 90,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KTAT_4090.jpg"
+    "title": "HP ProBook 4 G1ah 16\" Radeon 740M WUXGA Ryzen 5-220 16GB 512GB Win 11 Pro Notebook",
+    "spec": "16\" screen",
+    "price": "R18 660",
+    "handle": "hp-probook-4-g1ah-16-radeon-740m-wuxga-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/hp-probook-4-g1ah-16-radeon-740m-wuxga-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
+    "qty": 39,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KSAT_9f51.jpg"
    },
    {
     "brand": "Asus",
@@ -252,14 +252,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/DN74-3399R42E5G-GIA-V2_wr_01.jpg"
    },
    {
-    "brand": "Giada",
-    "title": "Giada VM27 with N6210 4G DDR4 on board, 64G EMMC on board",
+    "brand": "PCBuilder",
+    "title": "PCBuilder AMD Ryzen 5 3400G HOME MASTER Windows 11 Desktop PC",
     "spec": "Desktops",
-    "price": "R7 898",
-    "handle": "giada-vm27-with-n6210-4g-ddr4-on-board-64g-emmc-on-board",
-    "url": "/products/giada-vm27-with-n6210-4g-ddr4-on-board-64g-emmc-on-board",
-    "qty": 26,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/VM27-N621042E6G-GIA_wr_01a.jpg"
+    "price": "R7 879",
+    "handle": "pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc",
+    "url": "/products/pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc",
+    "qty": 13,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_HOME_R58G-V1_PCBuilder-AMD-Ryzen-5-3400G-HOME-MASTER-Windows-11-Desktop-PC_wr_01.jpg"
    },
    {
     "brand": "Giada",
@@ -273,13 +273,13 @@
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder CUBE Intel i5-1235U 16GB DDR4 1TB Windows 11 Home Mini PC",
+    "title": "PCBuilder CUBE Intel i5-1235U 8GB DDR4 512GB Windows 11 Home Mini PC",
     "spec": "Desktops",
-    "price": "R11 826",
-    "handle": "pcbuilder-cube-intel-i5-1235u-16gb-ddr4-1tb-windows-11-home-mini-pc",
-    "url": "/products/pcbuilder-cube-intel-i5-1235u-16gb-ddr4-1tb-windows-11-home-mini-pc",
-    "qty": 4,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/PCB_CUBE_I516G_HOME_PCBuilder-CUBE-i5-1235U-16GB-DDR4-1TB-Windows-11-Home-Mini-PC_wr_01a.jpg"
+    "price": "R9 860",
+    "handle": "pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
+    "url": "/products/pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
+    "qty": 29,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_CUBE_I58G_HOME_V2_PCBuilder-CUBE-Intel-i5-1235U-8GB-DDR4-512GB-Windows-11-Home-Mini-PC_wr_01a.jpg"
    }
   ],
   "mid": [
@@ -294,14 +294,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_HOME_R716G_wr_01a.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer VS2720G_W_FR 300W 89+ TCO10.0 EMEA CH Win Desktop PC (DT.R1PEA.00N)",
+    "brand": "Dell",
+    "title": "Dell Pro Tower Essential QVT1260 Core-i3 8GB 512GB Windows 11 Pro Desktop",
     "spec": "Desktops",
-    "price": "R16 369",
-    "handle": "acer-vs2720g-w-fr-300w-89-tco10-0-emea-ch-windows-11-pro-64-r40v04-intel-ci5-14400-8g-1-1024g-1-ssd-wi-fi-6e-2x2-bluetooth-intel-cnvi-usb-keyboard-mouse-built-in-speakers-odd-windows-11-professional",
-    "url": "/products/acer-vs2720g-w-fr-300w-89-tco10-0-emea-ch-windows-11-pro-64-r40v04-intel-ci5-14400-8g-1-1024g-1-ssd-wi-fi-6e-2x2-bluetooth-intel-cnvi-usb-keyboard-mouse-built-in-speakers-odd-windows-11-professional",
+    "price": "R16 372",
+    "handle": "dell-pro-tower-essential-qvt1260-core-i3-8gb-512gb-windows-11-pro-desktop",
+    "url": "/products/dell-pro-tower-essential-qvt1260-core-i3-8gb-512gb-windows-11-pro-desktop",
     "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DT.R1PEA.00N_default.png"
+    "image": "https://www.pinnacle.co.za/media/catalog/product/B/T/BTO001_QVT1260_EMEA_aad7.jpg"
    },
    {
     "brand": "PCBuilder",
@@ -326,44 +326,34 @@
   ],
   "high": [
    {
-    "brand": "Dell",
-    "title": "Dell Pro Micro QCM1250 Desktop — Core Ultra 5 · 16GB",
-    "spec": "Premium desktop",
-    "price": "R28 628",
-    "handle": "dell-pro-micro-qcm1250-desktop-pc-core-ultra-5-16gb-bto106_qcm1250_emea",
-    "url": "https://ubratech.co.za/products/dell-pro-micro-qcm1250-desktop-pc-core-ultra-5-16gb-bto106_qcm1250_emea",
-    "qty": 14,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO106_QCM1250_EMEA_default.jpg"
-   },
-   {
-    "brand": "Dell",
-    "title": "Dell Pro Micro QCM1250 Desktop PC — Core Ultra 5 · 512GB SSD (BTO102_QCM1250_EMEA)",
+    "brand": "Lenovo",
+    "title": "Lenovo M70s G6 Desktop PC — Core Ultra 7 · 16GB · 512GB SSD (12YQ000ESA)",
     "spec": "512GB SSD",
-    "price": "R23 606",
-    "handle": "dell-pro-micro-qcm1250-intel-core-ultra-5-235t-13-tops-up-to-5-0-ghz-8gb-1x8gb-5600mt-s-ddr5-512gb-ssd-pcie-integrated-graphics-intel-dual-band-wireless-ax211-wi-fi-6-6e-bluetooth-dell-kb216",
-    "url": "/products/dell-pro-micro-qcm1250-intel-core-ultra-5-235t-13-tops-up-to-5-0-ghz-8gb-1x8gb-5600mt-s-ddr5-512gb-ssd-pcie-integrated-graphics-intel-dual-band-wireless-ax211-wi-fi-6-6e-bluetooth-dell-kb216",
-    "qty": 27,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO102_QCM1250_EMEA_default.png"
+    "price": "R25 562",
+    "handle": "lenovo-m70s-g6-sff-u7-265-13-tops-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-integrated-windows-11-pro-64-intel-ax211-2x2ax-6e-bluetooth-internal-speaker-usb-trd-us-eng-usb-clp-mouse-pub-fra-ara-eng-1year",
+    "url": "/products/lenovo-m70s-g6-sff-u7-265-13-tops-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-integrated-windows-11-pro-64-intel-ax211-2x2ax-6e-bluetooth-internal-speaker-usb-trd-us-eng-usb-clp-mouse-pub-fra-ara-eng-1year",
+    "qty": 13,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/12YQ000ESA_default.jpg"
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro Micro QCM1250 Desktop PC — Core Ultra 7 · 512GB SSD (BTO107_QCM1250_EMEA)",
-    "spec": "512GB SSD",
-    "price": "R30 235",
-    "handle": "dell-pro-micro-qcm1250-intel-core-ultra-7-265t-13-tops-up-to-5-3-ghz-16gb-1x16-gb-5600mt-s-ddr5-512gb-ssd-pcie-integrated-graphics-intel-dual-band-wireless-ax211-wi-fi-6-6e-bluetooth-dell-kb216",
-    "url": "/products/dell-pro-micro-qcm1250-intel-core-ultra-7-265t-13-tops-up-to-5-3-ghz-16gb-1x16-gb-5600mt-s-ddr5-512gb-ssd-pcie-integrated-graphics-intel-dual-band-wireless-ax211-wi-fi-6-6e-bluetooth-dell-kb216",
-    "qty": 1,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO107_QCM1250_EMEA_default.png"
+    "title": "Dell OptiPlex 7490 Desktop PC — Core i7 (210-AYVE-16610622)",
+    "spec": "Desktops",
+    "price": "R30 573",
+    "handle": "dell-optiplex-7490-intel-core-i7-11700-32gb-2x16gb-ddr4-non-ecc-3-5-inch-1tb-7200rpm-sata-8x-dvd-rw-9-5mm-wireless-keyboard-and-mouse-windows-10-pro-basic-onsite-service-extension-emerging-only-24",
+    "url": "/products/dell-optiplex-7490-intel-core-i7-11700-32gb-2x16gb-ddr4-non-ecc-3-5-inch-1tb-7200rpm-sata-8x-dvd-rw-9-5mm-wireless-keyboard-and-mouse-windows-10-pro-basic-onsite-service-extension-emerging-only-24",
+    "qty": 4,
+    "image": "https://staxdstoragecdn.blob.core.windows.net/axd-live/dell_210-ayve-16610622.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell 27 AIO EC27250 25 06 2025:Intel Desktop PC — 1TB SSD (EC27250_RPLU-R_003S)",
-    "spec": "1TB SSD",
-    "price": "R42 614",
-    "handle": "dell-27-aio-ec27250-25-06-2025-intel-core-7-150u-12mb-cache-up-to-5-4-ghz-27-fhd-touch-1920x1080-16gb-5200mt-s-ddr5-1tb-ssd-pcie-nvme-m-2-nvidia-geforce-mx570a-with-2gb-gddr6-graphics-memory-camera",
-    "url": "/products/dell-27-aio-ec27250-25-06-2025-intel-core-7-150u-12mb-cache-up-to-5-4-ghz-27-fhd-touch-1920x1080-16gb-5200mt-s-ddr5-1tb-ssd-pcie-nvme-m-2-nvidia-geforce-mx570a-with-2gb-gddr6-graphics-memory-camera",
-    "qty": 8,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/EC27250_RPLU-R_003S_default.jpg"
+    "brand": "PCBuilder",
+    "title": "PCBuilder Ryzen 5 7600 MAVERICK Windows 11 Gaming PC (PCB_MAVERICK_02)",
+    "spec": "Desktops",
+    "price": "R43 365",
+    "handle": "pcbuilder-ryzen-5-7600-maverick-windows-11-gaming-pc-pcb-maverick-02",
+    "url": "/products/pcbuilder-ryzen-5-7600-maverick-windows-11-gaming-pc-pcb-maverick-02",
+    "qty": 11,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_MAVERICK_02_PCBuilder-Ryzen-5-7600-MAVERICK-Windows-11-Gaming-PC_wr_01.jpg"
    },
    {
     "brand": "HP",
@@ -423,16 +413,6 @@
   "entry": [
    {
     "brand": "Acer",
-    "title": "Acer Nitro V 16 Ryzen 7 16GB 1TB 180Hz Gaming Laptop",
-    "spec": "16GB RAM · 1TB SSD",
-    "price": "R22 665",
-    "handle": "acer-nitro-v-16-r7-260-16gb-1tb-16in-wuxga-ips-180hz-display-5050-windows-11-home",
-    "url": "https://ubratech.co.za/products/acer-nitro-v-16-r7-260-16gb-1tb-16in-wuxga-ips-180hz-display-5050-windows-11-home",
-    "qty": 1,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NH.QYWEA.002_default.png"
-   },
-   {
-    "brand": "Acer",
     "title": "Acer NITRO V 15 Gaming Laptop 15.6″ | Laptop",
     "spec": "Notebooks",
     "price": "R19 139",
@@ -452,14 +432,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/NH.QUAEA.00D_default.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer NITRO V 15 Gaming Laptop — Ryzen 5",
-    "spec": "Notebooks",
-    "price": "R21 784",
-    "handle": "acer-nitro-v-15-gaming-laptop-15-6-amd-ryzen-5-16gb-512gb-rtx-5050-8gb-windows-11-home",
-    "url": "/products/acer-nitro-v-15-gaming-laptop-15-6-amd-ryzen-5-16gb-512gb-rtx-5050-8gb-windows-11-home",
-    "qty": 65,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NH.U3NEA.001_Acr-NITRO-V-15-Gaming-Laptop-15.6inch_wr001.jpg"
+    "brand": "PCBuilder",
+    "title": "PCBuilder Ryzen 5 5600XT PATHFINDER Windows 11 Gaming PC",
+    "spec": "Desktops",
+    "price": "R21 677",
+    "handle": "pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
+    "url": "/products/pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
+    "qty": 6,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/11/PCB_PATHFINDER_01_PCBuilder-Ryzen-5-5600XT-PATHFINDER-Windows-11-Gaming-PC_wr_01c.jpg"
    },
    {
     "brand": "Acer",
@@ -586,7 +566,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1673,
+    "qty": 1678,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -642,24 +622,24 @@
     "image": "http://cdn.cs.1worldsync.com/05/4c/054ce9ac-adff-4f1a-ae29-83d3e471de5e.jpg"
    },
    {
-    "brand": "MSI",
-    "title": "MSI MAG 273QP QD-OLED X24 27\" WQHD 240Hz 0.03ms Gaming Monitor",
-    "spec": "27\" screen",
-    "price": "R10 073",
-    "handle": "msi-mag-273qp-qd-oled-x24-27-wqhd-240hz-0-03ms-gaming-monitor",
-    "url": "/products/msi-mag-273qp-qd-oled-x24-27-wqhd-240hz-0-03ms-gaming-monitor",
-    "qty": 1,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/07/MAG273QPQD-OLEDX24_MSI-MPG-MAG273QP-QD-OLEDX24-27-inch-WQHD-240Hz-Gaming-Monitor_wr_01.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 32 Plus QHD USB-C Hub Monitor - P3225DE, 80.1cm (31.5\")",
+    "spec": "31.5\" screen",
+    "price": "R9 125",
+    "handle": "dell-pro-32-plus-qhd-usb-c-hub-monitor-p3225de-80-1cm-31-5",
+    "url": "/products/dell-pro-32-plus-qhd-usb-c-hub-monitor-p3225de-80-1cm-31-5",
+    "qty": 16,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BRDP_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell UltraSharp U4323QE 42.51\" 4K USB-C Hub Monitor",
-    "spec": "51\" screen",
-    "price": "R19 357",
-    "handle": "dell-ultrasharp-u4323qe-42-51-4k-usb-c-hub-monitor",
-    "url": "/products/dell-ultrasharp-u4323qe-42-51-4k-usb-c-hub-monitor",
+    "brand": "Asus",
+    "title": "Asus ROG Strix 27\" QD-OLED HDR 400 True Black 480Hz Gaming Monitor",
+    "spec": "27\" screen",
+    "price": "R21 218",
+    "handle": "asus-rog-strix-27-qd-oled-hdr-400-true-black-480hz-gaming-monitor",
+    "url": "/products/asus-rog-strix-27-qd-oled-hdr-400-true-black-480hz-gaming-monitor",
     "qty": 1,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BFIS_e8aa.png"
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PG27AQDP_Asus_ROG_Strix_27_QD-OLED_HDR_400_True_B_wr_01.png"
    },
    {
     "brand": "Asus",
@@ -680,7 +660,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 516,
+    "qty": 517,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -752,7 +732,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1673,
+    "qty": 1678,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -2045,21 +2025,21 @@
     "brand": "SanDisk",
     "title": "SanDisk Portable SSD 1TB",
     "spec": "Storage",
-    "price": "R2 404",
+    "price": "R2 403",
     "handle": "sandisk-portable-ssd-1tb",
     "url": "/products/sandisk-portable-ssd-1tb",
     "qty": 17,
     "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__4__2cde.png"
    },
    {
-    "brand": "Patriot",
-    "title": "Patriot Viper VP4300 Lite 2TB Gen 4 M.2 PCIe NVMe SSD",
+    "brand": "SanDisk",
+    "title": "SanDisk Extreme Portable SSD (V3) - 1TB",
     "spec": "Storage",
-    "price": "R5 414",
-    "handle": "patriot-viper-vp4300-lite-2tb-gen-4-m-2-pcie-nvme-ssd",
-    "url": "/products/patriot-viper-vp4300-lite-2tb-gen-4-m-2-pcie-nvme-ssd",
-    "qty": 10,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/VP4300L2TBM28H_Patriot-Viper-VP4300-Lite-2TB-Gen-4-M.2-PCIe-NVMe-SSD_wr_02.jpg"
+    "price": "R5 364",
+    "handle": "sandisk-extreme-portable-ssd-v3-1tb",
+    "url": "/products/sandisk-extreme-portable-ssd-v3-1tb",
+    "qty": 11,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__2__954f.png"
    },
    {
     "brand": "Hiksemi",
@@ -2153,7 +2133,7 @@
     "handle": "asus-tuf-gaming-geforce-rtx-5070-12gb-gddr7-oc-edition",
     "url": "https://ubratech.co.za/products/asus-tuf-gaming-geforce-rtx-5070-12gb-gddr7-oc-edition",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/TUF-RTX5070-O12G-GAMING-wr-01.jpg",
-    "qty": 17
+    "qty": 16
    },
    {
     "brand": "Asus",
@@ -2427,23 +2407,23 @@
    },
    {
     "brand": "UGREEN",
-    "title": "UGREEN Cat8 Nylon Braided Ethernet Cable - 40Gbps with Modular Plugs - 5m",
+    "title": "UGREEN NW102 Cat6 U/UTP Flat Ethernet Cable 15m - Black",
     "spec": "Cables And Adapters",
-    "price": "R128",
-    "handle": "ugreen-cat8-nylon-braided-ethernet-cable-40gbps-with-modular-plugs-5m",
-    "url": "/products/ugreen-cat8-nylon-braided-ethernet-cable-40gbps-with-modular-plugs-5m",
-    "qty": 15,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/nw153-wr-02.jpg"
+    "price": "R127",
+    "handle": "ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
+    "url": "/products/ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
+    "qty": 219,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/NW102-50172-wr-01.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Kensington N17 Wedge Combination Lock",
-    "spec": "Accessories",
-    "price": "R445",
-    "handle": "dell-kensington-n17-wedge-combination-lock",
-    "url": "/products/dell-kensington-n17-wedge-combination-lock",
-    "qty": 66,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/K68008EU_default.jpg"
+    "brand": "WINX",
+    "title": "WINX POWER Easy Universal 3-IN-1 Wireless Charger",
+    "spec": "Power Adapter",
+    "price": "R441",
+    "handle": "winx-power-easy-universal-3-in-1-wireless-charger",
+    "url": "/products/winx-power-easy-universal-3-in-1-wireless-charger",
+    "qty": 219,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2023/08/WX-CS101_wr_01a.jpg"
    },
    {
     "brand": "Lenovo",
@@ -2532,25 +2512,25 @@
    "enquiry": true
   },
   {
-   "brand": "TP-Link Omada",
-   "title": "TP-Link AX1800 Ceiling Mount Dual-Band Access Point | TP-EAP613",
-   "spec": "1 Gb RJ45 Port, Ultra-Slim Design, Omada Mesh,  574Mbps at  2.4 GHz + ",
-   "price": "R1 413",
-   "handle": "tp-link-ax1800-ceiling-mount-dual-band-access-point-tp-eap613",
-   "url": "/pages/tp-link-ax1800-ceiling-mount-dual-band-access-point-tp-eap613",
+   "brand": "Grandstream",
+   "title": "Grandstream Enterprise WiFi 6 In-Wall Indoor Access Point | GWN7661E",
+   "spec": "3 Gbps, 2x2:2 2.4G/5G, 1x GbE PoE, 2x GbE,100m coverage,256 clients, E",
+   "price": "R1 415",
+   "handle": "grandstream-enterprise-wifi-6-in-wall-indoor-access-point-gwn7661e",
+   "url": "/pages/grandstream-enterprise-wifi-6-in-wall-indoor-access-point-gwn7661e",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/6/3/3/8/16338.jpg",
+   "image": "https://miro.co.za/img/p/1/5/3/4/6/15346.jpg",
    "enquiry": true
   },
   {
    "brand": "TP-Link Omada",
-   "title": "TP-Link Omada BE3600 Ceiling Mount Wi-Fi 7 Access Point | TP-EAP723",
-   "spec": "1×2.5G RJ45 Port, 688Mbps at 2.4 GHz + 4324 Mbps at 5 GHz, 802.3at PoE",
-   "price": "R1 963",
-   "handle": "tp-link-omada-be3600-ceiling-mount-wi-fi-7-access-point-tp-eap723",
-   "url": "/pages/tp-link-omada-be3600-ceiling-mount-wi-fi-7-access-point-tp-eap723",
+   "title": "TP-Link AX1800 Indoor/Outdoor Dual-Band Access Point",
+   "spec": "1× Gb RJ45 Port, 574Mbps at 2.4 GHz + 1201 Mbps at 5 GHz, Centralized ",
+   "price": "R2 041",
+   "handle": "tp-link-ax1800-indoor-outdoor-dual-band-access-point",
+   "url": "/pages/tp-link-ax1800-indoor-outdoor-dual-band-access-point",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/6/9/5/7/16957.jpg",
+   "image": "https://miro.co.za/img/p/8/5/1/0/8510.jpg",
    "enquiry": true
   },
   {
