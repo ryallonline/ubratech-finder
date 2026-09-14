@@ -94,14 +94,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/P/TP3407SA_OU71610G1W_66cc.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 14 Essential 14\" Core-5 16GB 512GB Win 11 Pro Notebook",
-    "spec": "14\" screen",
-    "price": "R20 349",
-    "handle": "dell-pro-14-essential-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/dell-pro-14-essential-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "qty": 9,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/P/V/PV14250_RPLR_002_af59.jpg"
+    "brand": "HP",
+    "title": "HP ProBook 4 G1iR 14' Core-5 16GB 512GB Win 11 Pro Notebook",
+    "spec": "Notebooks",
+    "price": "R20 336",
+    "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
+    "qty": 99,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
    },
    {
     "brand": "Acer",
@@ -796,7 +796,7 @@
     "price": "R1 648",
     "handle": "eaton-5e-900va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-900va-gen2-usb-iec-ups",
-    "qty": 61,
+    "qty": 60,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E900UI_761f.png"
    },
    {
@@ -860,7 +860,7 @@
     "price": "R1 648",
     "handle": "eaton-5e-900va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-900va-gen2-usb-iec-ups",
-    "qty": 61,
+    "qty": 60,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E900UI_761f.png"
    },
    {
@@ -1324,7 +1324,7 @@
     "price": "R6 969",
     "handle": "hp-laserjet-pro-4103dw-mfp-mono-printer",
     "url": "/products/hp-laserjet-pro-4103dw-mfp-mono-printer",
-    "qty": 72,
+    "qty": 73,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z627A_default.png"
    },
    {
@@ -1822,7 +1822,7 @@
     "price": "R4 721",
     "handle": "hp-poly-vfree-60-cb-earbuds-bt700c-tschc",
     "url": "/products/hp-poly-vfree-60-cb-earbuds-bt700c-tschc",
-    "qty": 18,
+    "qty": 17,
     "image": "https://s3.amazonaws.com/tarsus.co.za/7Y8G4AA_default.png"
    }
   ],
@@ -1999,7 +1999,7 @@
     "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
-    "qty": 138
+    "qty": 132
    },
    {
     "brand": "Kingston",
@@ -2397,13 +2397,13 @@
    },
    {
     "brand": "UGREEN",
-    "title": "UGREEN NW102 Cat6 U/UTP Flat Ethernet Cable 15m - Black",
+    "title": "UGREEN Cat8 Nylon Braided Ethernet Cable - 40Gbps with Modular Plugs - 5m",
     "spec": "Cables And Adapters",
-    "price": "R127",
-    "handle": "ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
-    "url": "/products/ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
-    "qty": 219,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/NW102-50172-wr-01.jpg"
+    "price": "R128",
+    "handle": "ugreen-cat8-nylon-braided-ethernet-cable-40gbps-with-modular-plugs-5m",
+    "url": "/products/ugreen-cat8-nylon-braided-ethernet-cable-40gbps-with-modular-plugs-5m",
+    "qty": 15,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/nw153-wr-02.jpg"
    },
    {
     "brand": "WINX",
@@ -2422,7 +2422,7 @@
     "price": "R2 439",
     "handle": "lenovo-usb-c-dual-display-travel-dock-with-100w-adapter-the-lenovo-usb-c-dual-display-travel-dock-40b9-is-an-essential-companion-for-the-modern-remote-professional-this-compact-dynamo-supports-dual",
     "url": "/products/lenovo-usb-c-dual-display-travel-dock-with-100w-adapter-the-lenovo-usb-c-dual-display-travel-dock-40b9-is-an-essential-companion-for-the-modern-remote-professional-this-compact-dynamo-supports-dual",
-    "qty": 31,
+    "qty": 32,
     "image": "https://s3.amazonaws.com/tarsus.co.za/40B90100SA_default.png"
    }
   ],
