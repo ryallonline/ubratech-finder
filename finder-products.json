@@ -8,7 +8,7 @@
     "price": "R10 576",
     "handle": "hp-255r-g10-15-6-ryzen-3-8gb-512gb-win-11-home-notebook",
     "url": "https://ubratech.co.za/products/hp-255r-g10-15-6-ryzen-3-8gb-512gb-win-11-home-notebook",
-    "qty": 72,
+    "qty": 70,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/0/D0ML8AT_1a63.jpg"
    },
    {
@@ -1410,7 +1410,7 @@
     "price": "R445",
     "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
     "url": "https://ubratech.co.za/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 5,
+    "qty": 1503,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
@@ -2522,25 +2522,25 @@
    "enquiry": true
   },
   {
-   "brand": "TP-Link Omada",
-   "title": "TP-Link AX1800 Ceiling Mount Dual-Band Access Point | TP-EAP613",
-   "spec": "1 Gb RJ45 Port, Ultra-Slim Design, Omada Mesh,  574Mbps at  2.4 GHz + ",
-   "price": "R1 413",
-   "handle": "tp-link-ax1800-ceiling-mount-dual-band-access-point-tp-eap613",
-   "url": "/pages/tp-link-ax1800-ceiling-mount-dual-band-access-point-tp-eap613",
+   "brand": "Grandstream",
+   "title": "Grandstream Enterprise WiFi 6 In-Wall Indoor Access Point | GWN7661E",
+   "spec": "3 Gbps, 2x2:2 2.4G/5G, 1x GbE PoE, 2x GbE,100m coverage,256 clients, E",
+   "price": "R1 415",
+   "handle": "grandstream-enterprise-wifi-6-in-wall-indoor-access-point-gwn7661e",
+   "url": "/pages/grandstream-enterprise-wifi-6-in-wall-indoor-access-point-gwn7661e",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/6/3/3/8/16338.jpg",
+   "image": "https://miro.co.za/img/p/1/5/3/4/6/15346.jpg",
    "enquiry": true
   },
   {
-   "brand": "Grandstream",
-   "title": "Grandstream Enterprise Outdoor WiFi 5 Long Range AP | GWN7630LR",
-   "spec": "2.33Gbps, 300 metres, 4x4 MIMO, 200+ client devices, Advanced QoS, GWN",
-   "price": "R2 010",
-   "handle": "grandstream-enterprise-outdoor-wifi-5-long-range-ap-gwn7630lr",
-   "url": "/pages/grandstream-enterprise-outdoor-wifi-5-long-range-ap-gwn7630lr",
+   "brand": "TP-Link Omada",
+   "title": "TP-Link AX1800 Indoor/Outdoor Dual-Band Access Point",
+   "spec": "1× Gb RJ45 Port, 574Mbps at 2.4 GHz + 1201 Mbps at 5 GHz, Centralized ",
+   "price": "R2 041",
+   "handle": "tp-link-ax1800-indoor-outdoor-dual-band-access-point",
+   "url": "/pages/tp-link-ax1800-indoor-outdoor-dual-band-access-point",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/3/7/2/1/3721.jpg",
+   "image": "https://miro.co.za/img/p/8/5/1/0/8510.jpg",
    "enquiry": true
   },
   {
@@ -2555,14 +2555,14 @@
    "enquiry": true
   },
   {
-   "brand": "Cambium Networks",
-   "title": "Cambium cnPilot WiFi 5 Wave 2 Indoor Wall Plate AP | CNP-E430H",
-   "spec": "Indoor 2x2 Dual Band 802.11ac Wave 2 MU-MIMO Wall Plate AP PoE pass-th",
-   "price": "R4 587",
-   "handle": "cambium-cnpilot-wifi-5-wave-2-indoor-wall-plate-ap-cnp-e430h",
-   "url": "/pages/cambium-cnpilot-wifi-5-wave-2-indoor-wall-plate-ap-cnp-e430h",
+   "brand": "Ubiquiti",
+   "title": "Ubiquiti UniFi Wi-Fi 7 Pro XG Black Indoor Access Point | U7-Pro-XG-B",
+   "spec": "No PoE Injector included, 6 Spatial Streams, 300+ connected devices, 1",
+   "price": "R4 493",
+   "handle": "ubiquiti-unifi-wi-fi-7-pro-xg-black-indoor-access-point-u7-pro-xg-b",
+   "url": "/pages/ubiquiti-unifi-wi-fi-7-pro-xg-black-indoor-access-point-u7-pro-xg-b",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/2/2/1/221.jpg",
+   "image": "https://miro.co.za/img/p/1/9/6/3/3/19633.jpg",
    "enquiry": true
   },
   {
