@@ -90,7 +90,7 @@
     "price": "R17 344",
     "handle": "asus-vivobook-14-flip-14-oled-touch-core-u7-16gb-1tb-win-11-home-notebook",
     "url": "/products/asus-vivobook-14-flip-14-oled-touch-core-u7-16gb-1tb-win-11-home-notebook",
-    "qty": 3,
+    "qty": 4,
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/P/TP3407SA_OU71610G1W_66cc.jpg"
    },
    {
@@ -100,7 +100,7 @@
     "price": "R20 349",
     "handle": "dell-pro-14-essential-14-core-5-16gb-512gb-win-11-pro-notebook",
     "url": "/products/dell-pro-14-essential-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "qty": 8,
+    "qty": 9,
     "image": "https://www.pinnacle.co.za/media/catalog/product/P/V/PV14250_RPLR_002_af59.jpg"
    },
    {
@@ -551,22 +551,12 @@
   "office": [
    {
     "brand": "Dell",
-    "title": "Dell E2225HM Pro 21.5\" FHD Monitor",
-    "spec": "Crisp everyday screen",
-    "price": "R1 853",
-    "handle": "dell-e2225hm-pro-21-5-fhd-monitor",
-    "url": "https://ubratech.co.za/products/dell-e2225hm-pro-21-5-fhd-monitor",
-    "qty": 1,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQMZ_4276.jpg"
-   },
-   {
-    "brand": "Dell",
     "title": "Dell SE2726HM 27\" FHD Monitor",
     "spec": "Crisp everyday screen",
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1682,
+    "qty": 1683,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -580,14 +570,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo S27 4e 27.0'' FHD Monitor",
+    "brand": "Xiaomi",
+    "title": "Xiaomi G24i 2026 24″ 200Hz Full HD 1080p IPS Gaming Monitor",
     "spec": "Monitors And Displays",
-    "price": "R2 479",
-    "handle": "lenovo-s27-4e-27-0-monitor-ips-panel-100hz-1920-x-1080-input-connectors-vga-hdmi-1-4-cables-included-hdmi-windows-11-3-years-warranty",
-    "url": "/products/lenovo-s27-4e-27-0-monitor-ips-panel-100hz-1920-x-1080-input-connectors-vga-hdmi-1-4-cables-included-hdmi-windows-11-3-years-warranty",
-    "qty": 71,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/64BEKAT1SA_default.jpg"
+    "price": "R2 546",
+    "handle": "xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
+    "url": "/products/xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
+    "qty": 161,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6364EU_Xiaomi-G24i-2026-24%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01b.jpg"
    },
    {
     "brand": "Acer",
@@ -660,7 +650,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 517,
+    "qty": 537,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -732,7 +722,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1682,
+    "qty": 1683,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
