@@ -70,7 +70,7 @@
     "price": "R12 567",
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
-    "qty": 87,
+    "qty": 84,
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA-BUN1Q2_default.png"
    },
    {
@@ -85,23 +85,23 @@
    },
    {
     "brand": "Acer",
-    "title": "Acer EXO14 72 51AG Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.ELVEA.001)",
+    "title": "Acer Extensa 15.6″ Laptop | Laptop — Core i5 · 16GB · 512GB SSD",
     "spec": "512GB SSD",
-    "price": "R17 628",
-    "handle": "acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
-    "url": "/products/acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.ELVEA.001_default.jpg"
+    "price": "R17 243",
+    "handle": "acer-extensa-15-6-laptop-intel-core-i5-120u-16gb-ddr5-512gb-nvme-intel-graphics-windows-11-pro",
+    "url": "/products/acer-extensa-15-6-laptop-intel-core-i5-120u-16gb-ddr5-512gb-nvme-intel-graphics-windows-11-pro",
+    "qty": 13,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/NX_EJ9EA_011_Acer_Extensa_156_Laptop_Intel_Core_i5-12_wr_01.png"
    },
    {
-    "brand": "HP",
-    "title": "HP ProBook 4 G1iR 14' Core-5 16GB 512GB Win 11 Pro Notebook",
-    "spec": "Notebooks",
-    "price": "R20 336",
-    "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "qty": 99,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 14 Essential 14\" Core-5 16GB 512GB Win 11 Pro Notebook",
+    "spec": "14\" screen",
+    "price": "R20 349",
+    "handle": "dell-pro-14-essential-14-core-5-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/dell-pro-14-essential-14-core-5-16gb-512gb-win-11-pro-notebook",
+    "qty": 8,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/P/V/PV14250_RPLR_002_af59.jpg"
    },
    {
     "brand": "Acer",
@@ -290,18 +290,18 @@
     "price": "R12 809",
     "handle": "pcbuilder-amd-ryzen-7-5700g-home-master-windows-11-desktop-pc",
     "url": "/products/pcbuilder-amd-ryzen-7-5700g-home-master-windows-11-desktop-pc",
-    "qty": 12,
+    "qty": 10,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_HOME_R716G_wr_01a.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer VS2720G_W_FR 300W 89+ TCO10.0 EMEA CH Win Desktop PC (DT.R1PEA.00N)",
+    "brand": "Dell",
+    "title": "Dell Pro Tower Essential QVT1260 Core-i3 8GB 512GB Windows 11 Pro Desktop",
     "spec": "Desktops",
-    "price": "R16 369",
-    "handle": "acer-vs2720g-w-fr-300w-89-tco10-0-emea-ch-windows-11-pro-64-r40v04-intel-ci5-14400-8g-1-1024g-1-ssd-wi-fi-6e-2x2-bluetooth-intel-cnvi-usb-keyboard-mouse-built-in-speakers-odd-windows-11-professional",
-    "url": "/products/acer-vs2720g-w-fr-300w-89-tco10-0-emea-ch-windows-11-pro-64-r40v04-intel-ci5-14400-8g-1-1024g-1-ssd-wi-fi-6e-2x2-bluetooth-intel-cnvi-usb-keyboard-mouse-built-in-speakers-odd-windows-11-professional",
+    "price": "R16 372",
+    "handle": "dell-pro-tower-essential-qvt1260-core-i3-8gb-512gb-windows-11-pro-desktop",
+    "url": "/products/dell-pro-tower-essential-qvt1260-core-i3-8gb-512gb-windows-11-pro-desktop",
     "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DT.R1PEA.00N_default.png"
+    "image": "https://www.pinnacle.co.za/media/catalog/product/B/T/BTO001_QVT1260_EMEA_aad7.jpg"
    },
    {
     "brand": "PCBuilder",
@@ -670,7 +670,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 510,
+    "qty": 507,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -700,7 +700,7 @@
     "price": "R1 871",
     "handle": "msi-mon-pro-ips-25-1080p-120hz-1ms",
     "url": "/products/msi-mon-pro-ips-25-1080p-120hz-1ms",
-    "qty": 20,
+    "qty": 17,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/09/PROMP251E2_wr_01.jpg"
    },
    {
@@ -762,7 +762,7 @@
     "price": "R2 731",
     "handle": "asus-zenscreen-16-fhd-ips-60hz-portable-monitor",
     "url": "/products/asus-zenscreen-16-fhd-ips-60hz-portable-monitor",
-    "qty": 21,
+    "qty": 20,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/MB16FC_Asus_ZenScreen_16_FHD_IPS_60Hz_Portable__wr_01.png"
    },
    {
@@ -974,7 +974,7 @@
     "price": "R24 962",
     "handle": "gizzu-hero-ultra-plus-3840wh-ups-power-station",
     "url": "/products/gizzu-hero-ultra-plus-3840wh-ups-power-station",
-    "qty": 22,
+    "qty": 21,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/01/GPS3800UE_wr_01a.jpg"
    }
   ],
@@ -1220,7 +1220,7 @@
     "price": "R725",
     "handle": "canon-pixma-mg2541s-inkjet-mfp-3-in-1-a4-grey-a4-mfp-print-copy-and-scan-8ipm-mono-4-0ipm-colour-4800-x-600-print-resolution-600-x-1200-dpi-scan-resolution-60-sheet-rear-tray-manual-duplex-usb-4-ink",
     "url": "/products/canon-pixma-mg2541s-inkjet-mfp-3-in-1-a4-grey-a4-mfp-print-copy-and-scan-8ipm-mono-4-0ipm-colour-4800-x-600-print-resolution-600-x-1200-dpi-scan-resolution-60-sheet-rear-tray-manual-duplex-usb-4-ink",
-    "qty": 20,
+    "qty": 21,
     "image": "https://s3.amazonaws.com/tarsus.co.za/0727C067AA_default.png"
    },
    {
@@ -1282,7 +1282,7 @@
     "price": "R1 578",
     "handle": "xiaomi-portable-photo-printer-1s-silver",
     "url": "/products/xiaomi-portable-photo-printer-1s-silver",
-    "qty": 65,
+    "qty": 64,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/BHR9974GL_Xiaomi-Portable-Photo-Printer-S1_04.jpeg"
    },
    {
@@ -1344,7 +1344,7 @@
     "price": "R6 969",
     "handle": "hp-laserjet-pro-4103dw-mfp-mono-printer",
     "url": "/products/hp-laserjet-pro-4103dw-mfp-mono-printer",
-    "qty": 72,
+    "qty": 70,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z627A_default.png"
    },
    {
@@ -1410,7 +1410,7 @@
     "price": "R445",
     "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
     "url": "https://ubratech.co.za/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 5,
+    "qty": 1503,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
@@ -1425,13 +1425,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP 2.8mm Fixed Bullet Network Camera",
+    "title": "Hikvision 4MP 4mm Build-In Mic Fixed Network IP Camera",
     "spec": "4MP",
-    "price": "R1 583",
-    "handle": "hikvision-4mp-2-8mm-fixed-bullet-network-camera",
-    "url": "/products/hikvision-4mp-2-8mm-fixed-bullet-network-camera",
-    "qty": 1477,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2041G0_LIU_2.8MM_e3b5.png"
+    "price": "R1 636",
+    "handle": "hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
+    "url": "/products/hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
+    "qty": 228,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2141G0_LIU_4MM_ee84.jpg"
    },
    {
     "brand": "Hikvision",
@@ -1519,13 +1519,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Acusense 4mm Strobe Light and Audible Warning Fixed…",
+    "title": "Hikvision 4MP Acusense Bullet IP Camera (DS-2CD2T46G2-4I-6MM)",
     "spec": "4MP",
-    "price": "R2 952",
-    "handle": "hikvision-4mp-acusense-4mm-strobe-light-and-audible-warning-fixed-bullet-network-ip-camera",
-    "url": "/products/hikvision-4mp-acusense-4mm-strobe-light-and-audible-warning-fixed-bullet-network-ip-camera",
-    "qty": 5,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_IS2U_SL_4MM_8444.jpg"
+    "price": "R2 900",
+    "handle": "hikvision-4mp-acusense-bullet-ip-camera-ds-2cd2t46g2-4i-6mm",
+    "url": "/products/hikvision-4mp-acusense-bullet-ip-camera-ds-2cd2t46g2-4i-6mm",
+    "qty": 55,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2_4I_6MM_ff4a.jpg"
    },
    {
     "brand": "Hikvision",
@@ -1565,31 +1565,31 @@
     "brand": "Hikvision",
     "title": "Hikvision 2MP Fixed Mini Bullet Network Camera",
     "spec": "IP camera · project-grade",
-    "price": "R1 390",
+    "price": "R1 239",
     "handle": "hikvision-2mp-fixed-mini-bullet-network-camera",
     "url": "https://ubratech.co.za/products/hikvision-2mp-fixed-mini-bullet-network-camera",
-    "qty": 205,
+    "qty": 149,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2021G0_LIU_2.8MM_9325.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP ColorVU Fixed Bullet IP Camera",
+    "title": "Hikvision 4MP Smart Hybrid Colorvu Fixed Turret IP Camera (DS-2CD2347G2H-LISU-SL-2.8MM)",
     "spec": "4MP",
-    "price": "R3 138",
-    "handle": "hikvision-4mp-colorvu-fixed-bullet-ip-camera",
-    "url": "/products/hikvision-4mp-colorvu-fixed-bullet-ip-camera",
-    "qty": 17,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T47G2_L_6MM_1977.jpg"
+    "price": "R3 146",
+    "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-turret-ip-camera-ds-2cd2347g2h-lisu-sl-2-8mm",
+    "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-turret-ip-camera-ds-2cd2347g2h-lisu-sl-2-8mm",
+    "qty": 1,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2347G2H_LISU_SL_2.8MM_1_dbbf.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Smartt Hybrid Colorvu Fixed Bullet IP Camera",
+    "title": "Hikvision 4MP Colorvu Fixed Bullet Polymer Anti-Corrosion Network IP Camera",
     "spec": "4MP",
-    "price": "R3 480",
-    "handle": "hikvision-4mp-smartt-hybrid-colorvu-fixed-bullet-ip-camera",
-    "url": "/products/hikvision-4mp-smartt-hybrid-colorvu-fixed-bullet-ip-camera",
-    "qty": 12,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T47G2H_LISU_SL_4MM_90df.jpg"
+    "price": "R3 496",
+    "handle": "hikvision-4mp-colorvu-fixed-bullet-polymer-anti-corrosion-network-ip-camera",
+    "url": "/products/hikvision-4mp-colorvu-fixed-bullet-polymer-anti-corrosion-network-ip-camera",
+    "qty": 47,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2XC6027G0_LS_1_23b9.png"
    },
    {
     "brand": "Hikvision",
@@ -1748,7 +1748,7 @@
     "price": "R166",
     "handle": "ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
     "url": "/products/ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
-    "qty": 74,
+    "qty": 71,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CR113-20290_UGREEN-4-Port-USB-3.0-Hub-with-Micro-USB_wr_01a.jpg"
    },
    {
@@ -1778,7 +1778,7 @@
     "price": "R2 649",
     "handle": "ugreen-14-in-1-usb-type-c-to-usb-2x-hdmi-dp-rj45-docking-station",
     "url": "/products/ugreen-14-in-1-usb-type-c-to-usb-2x-hdmi-dp-rj45-docking-station",
-    "qty": 10,
+    "qty": 7,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/CM843-85489_UGreen_USB_Type-C_TO_USB2x_HDMIDPRJ45_Do_wr_01.jpg"
    }
   ]
@@ -1842,7 +1842,7 @@
     "price": "R4 721",
     "handle": "hp-poly-vfree-60-cb-earbuds-bt700c-tschc",
     "url": "/products/hp-poly-vfree-60-cb-earbuds-bt700c-tschc",
-    "qty": 14,
+    "qty": 17,
     "image": "https://s3.amazonaws.com/tarsus.co.za/7Y8G4AA_default.png"
    }
   ],
@@ -2009,7 +2009,7 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 104
+    "qty": 93
    },
    {
     "brand": "Seagate",
@@ -2033,13 +2033,13 @@
    },
    {
     "brand": "SanDisk",
-    "title": "SanDisk Portable SSD (V3) - 500GB",
+    "title": "SanDisk Portable SSD 1TB",
     "spec": "Storage",
-    "price": "R2 306",
-    "handle": "sandisk-portable-ssd-v3-500gb",
-    "url": "/products/sandisk-portable-ssd-v3-500gb",
-    "qty": 18,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_9437.png"
+    "price": "R2 403",
+    "handle": "sandisk-portable-ssd-1tb",
+    "url": "/products/sandisk-portable-ssd-1tb",
+    "qty": 17,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__4__2cde.png"
    },
    {
     "brand": "Patriot",
@@ -2162,7 +2162,7 @@
     "price": "R6 836",
     "handle": "asrock-intel-arc-b580-challenger-oc-12gb-gddr6-192-bit-graphics-card",
     "url": "/products/asrock-intel-arc-b580-challenger-oc-12gb-gddr6-192-bit-graphics-card",
-    "qty": 31,
+    "qty": 30,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/90-GA5LZZ-00UANF_wr_01a.jpg"
    },
    {
@@ -2350,7 +2350,7 @@
     "price": "R116",
     "handle": "xiaomi-in-ear-headphones-type-c-black",
     "url": "/products/xiaomi-in-ear-headphones-type-c-black",
-    "qty": 185,
+    "qty": 179,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/BHR8930GL_wr_01.jpg"
    },
    {
@@ -2365,13 +2365,13 @@
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi Redmi Headphones Neo ANC Wireless Over-Ears - White",
+    "title": "Xiaomi Redmi Headphones Neo ANC Wireless Over-Ears – Black",
     "spec": "Tv And Audio",
     "price": "R1 213",
-    "handle": "xiaomi-redmi-headphones-neo-anc-wireless-over-ears-white",
-    "url": "/products/xiaomi-redmi-headphones-neo-anc-wireless-over-ears-white",
-    "qty": 24,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/BHR08W2GL_Redmi-Headphones-Neo-ANC-Wireless-Over-Ears-White_wr_01a.jpg"
+    "handle": "xiaomi-redmi-headphones-neo-anc-wireless-over-ears-black",
+    "url": "/products/xiaomi-redmi-headphones-neo-anc-wireless-over-ears-black",
+    "qty": 41,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/BHR08W5GL_Redmi-Headphones-Neo-ANC-Wireless-Over-Ears-Black_wr_01a.jpg"
    },
    {
     "brand": "Dell",
@@ -2465,7 +2465,7 @@
     "handle": "logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "url": "https://ubratech.co.za/products/logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "image": "https://s3.amazonaws.com/tarsus.co.za/920-008685_default.jpg",
-    "qty": 6
+    "qty": 3
    },
    {
     "brand": "Redragon",
@@ -2522,25 +2522,25 @@
    "enquiry": true
   },
   {
-   "brand": "Grandstream",
-   "title": "Grandstream Enterprise WiFi 6 In-Wall Indoor Access Point | GWN7661E",
-   "spec": "3 Gbps, 2x2:2 2.4G/5G, 1x GbE PoE, 2x GbE,100m coverage,256 clients, E",
-   "price": "R1 415",
-   "handle": "grandstream-enterprise-wifi-6-in-wall-indoor-access-point-gwn7661e",
-   "url": "/pages/grandstream-enterprise-wifi-6-in-wall-indoor-access-point-gwn7661e",
+   "brand": "TP-Link Omada",
+   "title": "TP-Link AX1800 Ceiling Mount Dual-Band Access Point | TP-EAP613",
+   "spec": "1 Gb RJ45 Port, Ultra-Slim Design, Omada Mesh,  574Mbps at  2.4 GHz + ",
+   "price": "R1 413",
+   "handle": "tp-link-ax1800-ceiling-mount-dual-band-access-point-tp-eap613",
+   "url": "/pages/tp-link-ax1800-ceiling-mount-dual-band-access-point-tp-eap613",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/5/3/4/6/15346.jpg",
+   "image": "https://miro.co.za/img/p/1/6/3/3/8/16338.jpg",
    "enquiry": true
   },
   {
-   "brand": "TP-Link Omada",
-   "title": "TP-Link AX1800 Indoor/Outdoor Dual-Band Access Point",
-   "spec": "1× Gb RJ45 Port, 574Mbps at 2.4 GHz + 1201 Mbps at 5 GHz, Centralized ",
-   "price": "R2 041",
-   "handle": "tp-link-ax1800-indoor-outdoor-dual-band-access-point",
-   "url": "/pages/tp-link-ax1800-indoor-outdoor-dual-band-access-point",
+   "brand": "Grandstream",
+   "title": "Grandstream Enterprise Outdoor WiFi 5 Long Range AP | GWN7630LR",
+   "spec": "2.33Gbps, 300 metres, 4x4 MIMO, 200+ client devices, Advanced QoS, GWN",
+   "price": "R2 010",
+   "handle": "grandstream-enterprise-outdoor-wifi-5-long-range-ap-gwn7630lr",
+   "url": "/pages/grandstream-enterprise-outdoor-wifi-5-long-range-ap-gwn7630lr",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/8/5/1/0/8510.jpg",
+   "image": "https://miro.co.za/img/p/3/7/2/1/3721.jpg",
    "enquiry": true
   },
   {
