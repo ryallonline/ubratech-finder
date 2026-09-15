@@ -85,13 +85,13 @@
    },
    {
     "brand": "Acer",
-    "title": "Acer EXO14 72 51AG Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.ELVEA.001)",
+    "title": "Acer Extensa 15.6″ Laptop | Laptop — Core i5 · 16GB · 512GB SSD",
     "spec": "512GB SSD",
-    "price": "R17 628",
-    "handle": "acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
-    "url": "/products/acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.ELVEA.001_default.jpg"
+    "price": "R17 243",
+    "handle": "acer-extensa-15-6-laptop-intel-core-i5-120u-16gb-ddr5-512gb-nvme-intel-graphics-windows-11-pro",
+    "url": "/products/acer-extensa-15-6-laptop-intel-core-i5-120u-16gb-ddr5-512gb-nvme-intel-graphics-windows-11-pro",
+    "qty": 12,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/NX_EJ9EA_011_Acer_Extensa_156_Laptop_Intel_Core_i5-12_wr_01.png"
    },
    {
     "brand": "HP",
@@ -137,23 +137,23 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro 16 AI 16\" Core-U5 16GB 512GB Win 11 Pro Notebook",
-    "spec": "16\" screen",
-    "price": "R29 675",
-    "handle": "dell-pro-16-ai-16-core-u5-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/dell-pro-16-ai-16-core-u5-16gb-512gb-win-11-pro-notebook",
-    "qty": 19,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/T/BTO105_PB16250_dc38.jpg"
+    "title": "Dell 14 Plus Laptop — Core Ultra 5 · 512GB SSD (DB04250_LNL_202_HOM)",
+    "spec": "512GB SSD",
+    "price": "R29 604",
+    "handle": "dell-14-plus-2in1-db04250-intel-core-ultra-5-226v-8m-cache-up-to-4-5-ghz-14-0-fhd-1920x1200-wide-view-antiglare-touch-300nits-16gb-8533mt-s-lpddr5x-512gb-ssd-pcie-nvme-m-2-graphics-intel-arch",
+    "url": "/products/dell-14-plus-2in1-db04250-intel-core-ultra-5-226v-8m-cache-up-to-4-5-ghz-14-0-fhd-1920x1200-wide-view-antiglare-touch-300nits-16gb-8533mt-s-lpddr5x-512gb-ssd-pcie-nvme-m-2-graphics-intel-arch",
+    "qty": 27,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DB04250_LNL_202_HOM_default.png"
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro 13 Premium PA13250 Ultra 5 236V Copil Laptop — 512GB SSD",
-    "spec": "512GB SSD",
-    "price": "R39 959",
-    "handle": "dell-pro-13-premium-pa13250-ultra-5-236v-copilot-16gb-cant-upg-512gb-ssd-gen4-13-3-fhd-arc-fgrpr-cams-mic-wlan-bt-backlit-kb-5g-3-cell-w11pro-vpro-3y-prospt",
-    "url": "/products/dell-pro-13-premium-pa13250-ultra-5-236v-copilot-16gb-cant-upg-512gb-ssd-gen4-13-3-fhd-arc-fgrpr-cams-mic-wlan-bt-backlit-kb-5g-3-cell-w11pro-vpro-3y-prospt",
-    "qty": 11,
-    "image": "https://staxdstoragecdn.blob.core.windows.net/axd-live/dell_bto203_pa13250_emea-5g.jpg"
+    "title": "Dell Alienware 16 Aurora 16\" RTX 4050 Core 5-210H 16GB 512GB Win 11 Pro Gaming Notebook",
+    "spec": "16\" screen",
+    "price": "R40 142",
+    "handle": "dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
+    "url": "/products/dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
+    "qty": 4,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/C/AC16250_RPLH_R_006_794e.jpg"
    },
    {
     "brand": "Dell",
@@ -252,14 +252,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/DN74-3399R42E5G-GIA-V2_wr_01.jpg"
    },
    {
-    "brand": "Giada",
-    "title": "Giada VM27 with N6210 4G DDR4 on board, 64G EMMC on board",
+    "brand": "PCBuilder",
+    "title": "PCBuilder AMD Ryzen 5 3400G HOME MASTER Windows 11 Desktop PC",
     "spec": "Desktops",
-    "price": "R7 898",
-    "handle": "giada-vm27-with-n6210-4g-ddr4-on-board-64g-emmc-on-board",
-    "url": "/products/giada-vm27-with-n6210-4g-ddr4-on-board-64g-emmc-on-board",
-    "qty": 26,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/VM27-N621042E6G-GIA_wr_01a.jpg"
+    "price": "R7 879",
+    "handle": "pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc",
+    "url": "/products/pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc",
+    "qty": 16,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_HOME_R58G-V1_PCBuilder-AMD-Ryzen-5-3400G-HOME-MASTER-Windows-11-Desktop-PC_wr_01.jpg"
    },
    {
     "brand": "Giada",
@@ -310,7 +310,7 @@
     "price": "R18 721",
     "handle": "pcbuilder-ryzen-5-5600xt-sentinel-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600xt-sentinel-windows-11-gaming-pc",
-    "qty": 15,
+    "qty": 18,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SENTINEL_01_wr_01e.jpg"
    },
    {
@@ -428,7 +428,7 @@
     "price": "R16 749",
     "handle": "pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
-    "qty": 16,
+    "qty": 19,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SCOUT_05_wr_01e.jpg"
    },
    {
@@ -532,7 +532,7 @@
     "price": "R16 749",
     "handle": "pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
-    "qty": 16,
+    "qty": 19,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SCOUT_05_wr_01e.jpg"
    },
    {
@@ -670,7 +670,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 497,
+    "qty": 494,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -772,7 +772,7 @@
     "price": "R4 239",
     "handle": "msi-mag-275qf-e20-27-wqhd-200hz-ips-gaming-monitor",
     "url": "/products/msi-mag-275qf-e20-27-wqhd-200hz-ips-gaming-monitor",
-    "qty": 26,
+    "qty": 25,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-275QF-E20_MSI-MAG-275QF-E20-27-inch-WQHD-200Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
@@ -974,7 +974,7 @@
     "price": "R24 962",
     "handle": "gizzu-hero-ultra-plus-3840wh-ups-power-station",
     "url": "/products/gizzu-hero-ultra-plus-3840wh-ups-power-station",
-    "qty": 20,
+    "qty": 19,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/01/GPS3800UE_wr_01a.jpg"
    }
   ],
@@ -1200,7 +1200,7 @@
     "price": "R7 563",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 84,
+    "qty": 83,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
    },
    {
@@ -1255,16 +1255,6 @@
    }
   ],
   "photo": [
-   {
-    "brand": "Canon",
-    "title": "Canon GX2040 MegaTank All-in-One",
-    "spec": "Refillable ink · cheap colour",
-    "price": "R4 854",
-    "handle": "canon-gx2040-megatank-maxify-business-range-wireless-all-in-one-printer-6171c021aa",
-    "url": "https://ubratech.co.za/products/canon-gx2040-megatank-maxify-business-range-wireless-all-in-one-printer-6171c021aa",
-    "qty": 1,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/6171C021AA_default.png"
-   },
    {
     "brand": "HP",
     "title": "HP Smart Tank 790 Wireless All-in-One",
@@ -1324,7 +1314,7 @@
     "price": "R7 563",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 84,
+    "qty": 83,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
    },
    {
@@ -1440,7 +1430,7 @@
     "price": "R2 729",
     "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-mini-bullet-ip-camera",
     "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-mini-bullet-ip-camera",
-    "qty": 7,
+    "qty": 1,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LIU_SL_4MM_0fc0.jpg"
    },
    {
@@ -1684,7 +1674,7 @@
     "price": "R8 461",
     "handle": "dell-pro-thunderbolt-5-smart-dock-sd25tb5",
     "url": "/products/dell-pro-thunderbolt-5-smart-dock-sd25tb5",
-    "qty": 9,
+    "qty": 8,
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BRFN_default.png"
    }
   ],
@@ -1726,7 +1716,7 @@
     "price": "R8 461",
     "handle": "dell-pro-thunderbolt-5-smart-dock-sd25tb5",
     "url": "/products/dell-pro-thunderbolt-5-smart-dock-sd25tb5",
-    "qty": 9,
+    "qty": 8,
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BRFN_default.png"
    }
   ],
@@ -1768,7 +1758,7 @@
     "price": "R728",
     "handle": "ugreen-9-in-1-type-c-hub-hdmi-vga-lan-sd-tf-100w-pd-usb3-0",
     "url": "/products/ugreen-9-in-1-type-c-hub-hdmi-vga-lan-sd-tf-100w-pd-usb3-0",
-    "qty": 96,
+    "qty": 93,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM498-15600-wr-01a.jpg"
    },
    {
@@ -1812,7 +1802,7 @@
     "price": "R204",
     "handle": "winx-call-clear-3-5mm-headset",
     "url": "/products/winx-call-clear-3-5mm-headset",
-    "qty": 215,
+    "qty": 299,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS105_wr_01.jpg"
    },
    {
@@ -1999,7 +1989,7 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 93
+    "qty": 92
    },
    {
     "brand": "Seagate",
@@ -2023,13 +2013,13 @@
    },
    {
     "brand": "SanDisk",
-    "title": "SanDisk Portable SSD 1TB",
+    "title": "SanDisk Portable SSD (V3) - 500GB",
     "spec": "Storage",
-    "price": "R2 403",
-    "handle": "sandisk-portable-ssd-1tb",
-    "url": "/products/sandisk-portable-ssd-1tb",
-    "qty": 17,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__4__2cde.png"
+    "price": "R2 306",
+    "handle": "sandisk-portable-ssd-v3-500gb",
+    "url": "/products/sandisk-portable-ssd-v3-500gb",
+    "qty": 18,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_9437.png"
    },
    {
     "brand": "SanDisk",
@@ -2146,14 +2136,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/04/ASUS_GT710-SL-2GD5-BRK-EVO_wr_01a.jpg"
    },
    {
-    "brand": "ASRock",
-    "title": "ASRock Intel Arc B580 Challenger OC 12GB GDDR6 192-BIT Graphics Card",
+    "brand": "MSI",
+    "title": "MSI GeForce RTX 3050 VENTUS 2X E 6GB OC Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R6 836",
-    "handle": "asrock-intel-arc-b580-challenger-oc-12gb-gddr6-192-bit-graphics-card",
-    "url": "/products/asrock-intel-arc-b580-challenger-oc-12gb-gddr6-192-bit-graphics-card",
-    "qty": 39,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/90-GA5LZZ-00UANF_wr_01a.jpg"
+    "price": "R6 515",
+    "handle": "msi-geforce-rtx-3050-ventus-2x-e-6gb-oc-graphics-card",
+    "url": "/products/msi-geforce-rtx-3050-ventus-2x-e-6gb-oc-graphics-card",
+    "qty": 106,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/RTX3050VENTUS2XE6GOC-WR-01.jpg"
    },
    {
     "brand": "MSI",
@@ -2166,14 +2156,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/RTX5060TISHADOW2XOCPLU_MSI-GeForce-RTX-5060-Ti-SHADOW-2X-OC-PLUS-128-bit-GDDR7-8GB-Graphics-Card_wr_01a.jpg"
    },
    {
-    "brand": "MSI",
-    "title": "MSI GeForce RTX 5080 VENTUS 3X OC 16G Graphics Card",
+    "brand": "Asus",
+    "title": "Asus TUF Gaming Radeon RX 9070 XT OC Edition 16GB GDDR6 Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R32 578",
-    "handle": "msi-geforce-rtx-5080-ventus-3x-oc-16g-graphics-card",
-    "url": "/products/msi-geforce-rtx-5080-ventus-3x-oc-16g-graphics-card",
-    "qty": 1,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/01/MSI_RTX5080VENTUS3XOC16GB_wr_01.jpg"
+    "price": "R21 403",
+    "handle": "asus-tuf-gaming-radeon-rx-9070-xt-oc-edition-16gb-gddr6-graphics-card",
+    "url": "/products/asus-tuf-gaming-radeon-rx-9070-xt-oc-edition-16gb-gddr6-graphics-card",
+    "qty": 2,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/Asus_TUF-RX9070XT-O16G-GAMING_wr_01a.jpg"
    }
   ],
   "power": [
@@ -2331,7 +2321,7 @@
     "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
     "url": "https://ubratech.co.za/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg",
-    "qty": 137
+    "qty": 136
    },
    {
     "brand": "Xiaomi",
@@ -2407,23 +2397,23 @@
    },
    {
     "brand": "UGREEN",
-    "title": "UGREEN HD104-10109 HDMI 4K Cable Male to Male Black 5m - Black",
+    "title": "UGREEN Cat8 Nylon Braided Ethernet Cable - 40Gbps with Modular Plugs - 5m",
     "spec": "Cables And Adapters",
     "price": "R128",
-    "handle": "ugreen-hd104-10109-hdmi-4k-cable-male-to-male-black-5m-black",
-    "url": "/products/ugreen-hd104-10109-hdmi-4k-cable-male-to-male-black-5m-black",
-    "qty": 172,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/hd-104-10106-wr-01.jpg"
+    "handle": "ugreen-cat8-nylon-braided-ethernet-cable-40gbps-with-modular-plugs-5m",
+    "url": "/products/ugreen-cat8-nylon-braided-ethernet-cable-40gbps-with-modular-plugs-5m",
+    "qty": 14,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/nw153-wr-02.jpg"
    },
    {
-    "brand": "HDCVT",
-    "title": "HDCVT 1x4 HDMI 1.4 Splitter 4K with EDID Management",
-    "spec": "Cables And Adapters",
-    "price": "R438",
-    "handle": "hdcvt-1x4-hdmi-1-4-splitter-4k-with-edid-management",
-    "url": "/products/hdcvt-1x4-hdmi-1-4-splitter-4k-with-edid-management",
-    "qty": 219,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/05/HDC-SP914CN_wr_01.jpg"
+    "brand": "HP",
+    "title": "HP Keyed Cable Lock 10mm",
+    "spec": "Accessories",
+    "price": "R439",
+    "handle": "hp-keyed-cable-lock-10mm",
+    "url": "/products/hp-keyed-cable-lock-10mm",
+    "qty": 92,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/T1A62AA_default.jpg"
    },
    {
     "brand": "Lenovo",
@@ -2445,7 +2435,7 @@
     "handle": "hp-330-black-wireless-keyboard-mouse-combo",
     "url": "https://ubratech.co.za/products/hp-330-black-wireless-keyboard-mouse-combo",
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/v/2v9e6aa_keyboards_42935554637988_1000x_16e7.png",
-    "qty": 43
+    "qty": 42
    },
    {
     "brand": "Logitech",
