@@ -58,7 +58,7 @@
     "price": "R12 730",
     "handle": "hp-15s-15-6-fhd-ultraslim-ryzen-5-7520u-16gb-512gb-win-11-home-silver-notebook",
     "url": "/products/hp-15s-15-6-fhd-ultraslim-ryzen-5-7520u-16gb-512gb-win-11-home-silver-notebook",
-    "qty": 72,
+    "qty": 71,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D68F4EA_ffc4.jpg"
    }
   ],
@@ -224,7 +224,7 @@
     "price": "R61 181",
     "handle": "dell-alienware-16-aurora-16-rtx-5060-core-7-32gb-1tb-win-11-pro-notebook",
     "url": "/products/dell-alienware-16-aurora-16-rtx-5060-core-7-32gb-1tb-win-11-pro-notebook",
-    "qty": 4,
+    "qty": 2,
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/C/AC16250_RPLH_R_010_7f52.jpg"
    }
   ]
@@ -404,7 +404,7 @@
     "price": "R72 632",
     "handle": "dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
     "url": "/products/dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
-    "qty": 30,
+    "qty": 28,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PW516261-U7-321TB-5G_default.jpg"
    }
   ]
@@ -576,7 +576,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1671,
+    "qty": 1669,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -590,24 +590,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
-    "brand": "MSI",
-    "title": "MSI MAG 255F E20 25\" FHD 200Hz Rapid IPS Gaming Monitor",
-    "spec": "25\" screen",
-    "price": "R2 461",
-    "handle": "msi-mag-255f-e20-25-fhd-200hz-rapid-ips-gaming-monitor",
-    "url": "/products/msi-mag-255f-e20-25-fhd-200hz-rapid-ips-gaming-monitor",
-    "qty": 202,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-E20_MSI-MAG-255F-E20-25-inch-FHD-200Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
+    "brand": "Xiaomi",
+    "title": "Xiaomi A27i 2026 27″ 144Hz Full HD 1080P IPS Office Monitor",
+    "spec": "Monitors And Displays",
+    "price": "R2 448",
+    "handle": "xiaomi-a27i-2026-27-144hz-full-hd-1080p-ips-office-monitor",
+    "url": "/products/xiaomi-a27i-2026-27-144hz-full-hd-1080p-ips-office-monitor",
+    "qty": 201,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6410EU_Xiaomi-A27i-2026-27-inch-144Hz-Full-HD-1080P-IPS-Office-Monitor_wr_01a.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer Nitro VG270 27\" IPS FHD 1MS 240HZ Gaming Monitor 3Yr",
-    "spec": "27\" screen",
-    "price": "R3 273",
-    "handle": "acer-nitro-vg270-27-ips-fhd-1ms-240hz-gaming-monitor-3yr",
-    "url": "/products/acer-nitro-vg270-27-ips-fhd-1ms-240hz-gaming-monitor-3yr",
-    "qty": 2,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HV0EE.W01_default.jpg"
+    "brand": "Lenovo",
+    "title": "Lenovo L15 15\" FHD IPS USB-C Portable Monitor",
+    "spec": "15\" screen",
+    "price": "R3 253",
+    "handle": "lenovo-l15-15-fhd-ips-usb-c-portable-monitor",
+    "url": "/products/lenovo-l15-15-fhd-ips-usb-c-portable-monitor",
+    "qty": 4,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/6/6/66E4UAC1WL_e99a.jpg"
    },
    {
     "brand": "LG",
@@ -632,24 +632,24 @@
     "image": "http://cdn.cs.1worldsync.com/05/4c/054ce9ac-adff-4f1a-ae29-83d3e471de5e.jpg"
    },
    {
-    "brand": "MSI",
-    "title": "MSI MAG 273QP QD-OLED X24 27\" WQHD 240Hz 0.03ms Gaming Monitor",
-    "spec": "27\" screen",
-    "price": "R10 073",
-    "handle": "msi-mag-273qp-qd-oled-x24-27-wqhd-240hz-0-03ms-gaming-monitor",
-    "url": "/products/msi-mag-273qp-qd-oled-x24-27-wqhd-240hz-0-03ms-gaming-monitor",
-    "qty": 1,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/07/MAG273QPQD-OLEDX24_MSI-MPG-MAG273QP-QD-OLEDX24-27-inch-WQHD-240Hz-Gaming-Monitor_wr_01.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 32 Plus QHD USB-C Hub Monitor - P3225DE, 80.1cm (31.5\")",
+    "spec": "31.5\" screen",
+    "price": "R9 125",
+    "handle": "dell-pro-32-plus-qhd-usb-c-hub-monitor-p3225de-80-1cm-31-5",
+    "url": "/products/dell-pro-32-plus-qhd-usb-c-hub-monitor-p3225de-80-1cm-31-5",
+    "qty": 16,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BRDP_default.jpg"
    },
    {
-    "brand": "LG",
-    "title": "LG UltraGear 27\" QHD OLED Gaming 480Hz 0,03ms",
-    "spec": "27\" screen",
-    "price": "R18 636",
-    "handle": "lg-ultragear-27-qhd-oled-gaming-480hz-0-03ms",
-    "url": "/products/lg-ultragear-27-qhd-oled-gaming-480hz-0-03ms",
-    "qty": 2,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/27GX790A-B.AFB_LG-UltraGear-27-inch-QHD-OLED-480Hz-Gaming-Monitor_wr_01a.jpg"
+    "brand": "Dell",
+    "title": "Dell Alienware 27 4K QD-OLED 240Hz Gaming Monitor (210-BQWV)",
+    "spec": "Monitors And Displays",
+    "price": "R16 369",
+    "handle": "dell-alienware-27-4k-qd-oled-gaming-monitor-resolution-refresh-rate-3840-x-2160-240hz-stand-adjustments-tilt-ivot-height-swivel-connectivity-displayport-1-4-2-hdmi-ports-usb-5gbps-3-year-advance",
+    "url": "/products/dell-alienware-27-4k-qd-oled-gaming-monitor-resolution-refresh-rate-3840-x-2160-240hz-stand-adjustments-tilt-ivot-height-swivel-connectivity-displayport-1-4-2-hdmi-ports-usb-5gbps-3-year-advance",
+    "qty": 3,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BQWV_default.png"
    },
    {
     "brand": "Asus",
@@ -670,7 +670,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 494,
+    "qty": 483,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -700,28 +700,28 @@
     "price": "R1 871",
     "handle": "msi-mon-pro-ips-25-1080p-120hz-1ms",
     "url": "/products/msi-mon-pro-ips-25-1080p-120hz-1ms",
-    "qty": 17,
+    "qty": 16,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/09/PROMP251E2_wr_01.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP Series 3 Pro 322pv 21.45\" FHD 100Hz 5ms LED VA Monitor",
-    "spec": "45\" screen",
-    "price": "R3 160",
-    "handle": "hp-series-3-pro-322pv-21-45-fhd-100hz-5ms-led-va-monitor",
-    "url": "/products/hp-series-3-pro-322pv-21-45-fhd-100hz-5ms-led-va-monitor",
-    "qty": 60,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/H/P/HP_9U5A2AA_9a08.jpg"
+    "brand": "MSI",
+    "title": "MSI MAG 275F E20 27\" FHD 200Hz Rapid IPS Gaming Monitor",
+    "spec": "27\" screen",
+    "price": "R3 249",
+    "handle": "msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
+    "url": "/products/msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
+    "qty": 120,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-275F-E20_MSI-MAG-275F-E20-27inch-FHD-200Hz-Gaming-Montor-wr01.jpeg"
    },
    {
-    "brand": "Samsung",
-    "title": "Samsung Odyssey G55T Gaming 1000R 34\" QHD Monitor (LC34G55TWWPXEN)",
-    "spec": "34\" screen",
-    "price": "R8 360",
-    "handle": "samsung-odyssey-g55t-gaming-1000r-borderless-34-display-va-response-1ms-mprt-ar-21-9-resolution-3440x1440-uwqhd-rr-165hz-hdmi-display-port-speaker-no-power-supply-external-tilt-yes-swivel-no-pivot-no",
-    "url": "/products/samsung-odyssey-g55t-gaming-1000r-borderless-34-display-va-response-1ms-mprt-ar-21-9-resolution-3440x1440-uwqhd-rr-165hz-hdmi-display-port-speaker-no-power-supply-external-tilt-yes-swivel-no-pivot-no",
-    "qty": 12,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/LC34G55TWWPXEN_default.png"
+    "brand": "Xiaomi",
+    "title": "Xiaomi G Pro 27i 27\" 2K 1440p Mini LED IPS Gaming Monitor (180Hz, 1ms)",
+    "spec": "27\" screen",
+    "price": "R8 194",
+    "handle": "xiaomi-g-pro-27i-27-2k-1440p-mini-led-ips-gaming-monitor-180hz-1ms",
+    "url": "/products/xiaomi-g-pro-27i-27-2k-1440p-mini-led-ips-gaming-monitor-180hz-1ms",
+    "qty": 32,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/ELA5585EU_Xiaomi-G-Pro-27i_27-inch_2k_qhd_gaming_monitor_wr_01b.jpg"
    },
    {
     "brand": "Asus",
@@ -742,7 +742,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 1671,
+    "qty": 1669,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -756,14 +756,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/PCB-PM15-FHD_PCBuilder-FLEX-15.6-inch-Full-HD-IPS-Portable-Monitor_wr_01a.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus ZenScreen 16\" FHD IPS 60Hz Portable Monitor",
-    "spec": "16\" screen",
-    "price": "R2 731",
-    "handle": "asus-zenscreen-16-fhd-ips-60hz-portable-monitor",
-    "url": "/products/asus-zenscreen-16-fhd-ips-60hz-portable-monitor",
-    "qty": 20,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/MB16FC_Asus_ZenScreen_16_FHD_IPS_60Hz_Portable__wr_01.png"
+    "brand": "MSI",
+    "title": "MSI MAG 255F X24 25″ FHD 240Hz IPS Gaming Monitor",
+    "spec": "Monitors And Displays",
+    "price": "R2 661",
+    "handle": "msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
+    "url": "/products/msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
+    "qty": 138,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-X24_MSI-MAG-255F-X24-25-inch-FHD-240Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
     "brand": "MSI",
@@ -1400,7 +1400,7 @@
     "price": "R445",
     "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
     "url": "https://ubratech.co.za/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 5,
+    "qty": 1481,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
@@ -1471,10 +1471,10 @@
     "brand": "Hikvision",
     "title": "Hikvision 5MP Colour Audio Turret Camera",
     "spec": "Sharp camera · colour night vision",
-    "price": "R782",
+    "price": "R800",
     "handle": "hikvision-3k-5mp-color-audio-fixed-turret-analogue-camera",
     "url": "https://ubratech.co.za/products/hikvision-3k-5mp-color-audio-fixed-turret-analogue-camera",
-    "qty": 4,
+    "qty": 5,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE72KF0T_LFS_2.8MM_7488.jpg"
    },
    {
@@ -2008,7 +2008,7 @@
     "price": "R298",
     "handle": "kinston-64gb-usb3-2-gen-1-datatraveler-kyson",
     "url": "/products/kinston-64gb-usb3-2-gen-1-datatraveler-kyson",
-    "qty": 26,
+    "qty": 21,
     "image": "https://s3.amazonaws.com/tarsus.co.za/DTKN/64GB_default.jpg"
    },
    {
@@ -2209,13 +2209,13 @@
    },
    {
     "brand": "FSP",
-    "title": "FSP VITA BD 850W 80PLUS Bronze ATX3.1 Non-modular Power Supply",
+    "title": "FSP 350W 80 PLUS Gold ATX Non-modular Power Supply",
     "spec": "Power Supplies",
-    "price": "R1 585",
-    "handle": "fsp-vita-bd-850w-80plus-bronze-atx3-1-non-modular-power-supply",
-    "url": "/products/fsp-vita-bd-850w-80plus-bronze-atx3-1-non-modular-power-supply",
-    "qty": 27,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/VITA-850BD_FSP-VITA-BD-850W-80PLUS-Bronze-ATX3.1-Non-modular-Power-Supply_wr_01.jpg"
+    "price": "R1 308",
+    "handle": "fsp-350w-80-plus-gold-atx-non-modular-power-supply",
+    "url": "/products/fsp-350w-80-plus-gold-atx-non-modular-power-supply",
+    "qty": 197,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/FSP350-50EGN_FSP_350W_80_PLUS_Gold_ATX_Non-modular_Po_wr_01.png"
    },
    {
     "brand": "Asus",
@@ -2288,7 +2288,7 @@
     "price": "R4 658",
     "handle": "xiaomi-smart-steam-air-fryer-7l",
     "url": "/products/xiaomi-smart-steam-air-fryer-7l",
-    "qty": 20,
+    "qty": 19,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/05/BHR08U4EU-_Xiaomi-Smart-Steam-Air-Fryer-7L_wr01.jpeg"
    }
   ],
@@ -2330,7 +2330,7 @@
     "price": "R116",
     "handle": "xiaomi-in-ear-headphones-type-c-black",
     "url": "/products/xiaomi-in-ear-headphones-type-c-black",
-    "qty": 179,
+    "qty": 172,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/BHR8930GL_wr_01.jpg"
    },
    {
@@ -2397,13 +2397,13 @@
    },
    {
     "brand": "UGREEN",
-    "title": "UGREEN Cat8 Nylon Braided Ethernet Cable - 40Gbps with Modular Plugs - 5m",
+    "title": "UGREEN HD104-10109 HDMI 4K Cable Male to Male Black 5m - Black",
     "spec": "Cables And Adapters",
     "price": "R128",
-    "handle": "ugreen-cat8-nylon-braided-ethernet-cable-40gbps-with-modular-plugs-5m",
-    "url": "/products/ugreen-cat8-nylon-braided-ethernet-cable-40gbps-with-modular-plugs-5m",
-    "qty": 14,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/nw153-wr-02.jpg"
+    "handle": "ugreen-hd104-10109-hdmi-4k-cable-male-to-male-black-5m-black",
+    "url": "/products/ugreen-hd104-10109-hdmi-4k-cable-male-to-male-black-5m-black",
+    "qty": 165,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/hd-104-10106-wr-01.jpg"
    },
    {
     "brand": "HP",
@@ -2435,7 +2435,7 @@
     "handle": "hp-330-black-wireless-keyboard-mouse-combo",
     "url": "https://ubratech.co.za/products/hp-330-black-wireless-keyboard-mouse-combo",
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/v/2v9e6aa_keyboards_42935554637988_1000x_16e7.png",
-    "qty": 42
+    "qty": 40
    },
    {
     "brand": "Logitech",
@@ -2459,23 +2459,23 @@
    },
    {
     "brand": "Port",
-    "title": "Port Connect Ergo Shape Bluetooth Rechargeable Mouse",
+    "title": "Port Connect Ergo Shape Rechargeable Wireless Mouse",
     "spec": "Mice",
     "price": "R351",
-    "handle": "port-connect-ergo-shape-bluetooth-rechargeable-mouse",
-    "url": "/products/port-connect-ergo-shape-bluetooth-rechargeable-mouse",
-    "qty": 80,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/910007_.PORT-MOUSE-ERGO-RECHARGEABLE-BT-RIGHT_wr_08.jpg"
+    "handle": "port-connect-ergo-shape-rechargeable-wireless-mouse",
+    "url": "/products/port-connect-ergo-shape-rechargeable-wireless-mouse",
+    "qty": 107,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/910008_PORT-MOUSE-ERGO-RECHARGEABLE-BT-LEFT_wr_09.jpg"
    },
    {
-    "brand": "REDRAGON",
-    "title": "REDRAGON Horus Mini Pro 61Key Wireless Bluetooth Red Switch RGB Low…",
+    "brand": "Redragon",
+    "title": "Redragon BRAGI PRO K688 98+1 Gasket Wireless Mechanical Keyboard…",
     "spec": "Keyboards",
     "price": "R737",
-    "handle": "redragon-horus-mini-pro-61key-wireless-bluetooth-red-switch-rgb-low-profile-gaming-mechanical-keyboard-black",
-    "url": "/products/redragon-horus-mini-pro-61key-wireless-bluetooth-red-switch-rgb-low-profile-gaming-mechanical-keyboard-black",
-    "qty": 56,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/11/RD-K632RGB-PRO_wr_01.jpg"
+    "handle": "redragon-bragi-pro-k688-98-1-gasket-wireless-mechanical-keyboard-triple-mode-rgb-hot-swappable-cream-linear-switches",
+    "url": "/products/redragon-bragi-pro-k688-98-1-gasket-wireless-mechanical-keyboard-triple-mode-rgb-hot-swappable-cream-linear-switches",
+    "qty": 27,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/RD-K688GB-RGB-PRO_REDRAGON-KB-MECH-BRAGI-PRO-RGB-BK_wr_01.jpg"
    },
    {
     "brand": "Keychron",
@@ -2513,14 +2513,14 @@
    "enquiry": true
   },
   {
-   "brand": "TP-Link Omada",
-   "title": "TP-Link AX1800 Indoor/Outdoor Dual-Band Access Point",
-   "spec": "1× Gb RJ45 Port, 574Mbps at 2.4 GHz + 1201 Mbps at 5 GHz, Centralized ",
-   "price": "R2 041",
-   "handle": "tp-link-ax1800-indoor-outdoor-dual-band-access-point",
-   "url": "/pages/tp-link-ax1800-indoor-outdoor-dual-band-access-point",
+   "brand": "Grandstream",
+   "title": "Grandstream Enterprise Outdoor WiFi 5 Long Range AP | GWN7630LR",
+   "spec": "2.33Gbps, 300 metres, 4x4 MIMO, 200+ client devices, Advanced QoS, GWN",
+   "price": "R2 010",
+   "handle": "grandstream-enterprise-outdoor-wifi-5-long-range-ap-gwn7630lr",
+   "url": "/pages/grandstream-enterprise-outdoor-wifi-5-long-range-ap-gwn7630lr",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/8/5/1/0/8510.jpg",
+   "image": "https://miro.co.za/img/p/3/7/2/1/3721.jpg",
    "enquiry": true
   },
   {
