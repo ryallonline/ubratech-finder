@@ -8,7 +8,7 @@
     "price": "R10 576",
     "handle": "hp-255r-g10-15-6-ryzen-3-8gb-512gb-win-11-home-notebook",
     "url": "https://ubratech.co.za/products/hp-255r-g10-15-6-ryzen-3-8gb-512gb-win-11-home-notebook",
-    "qty": 71,
+    "qty": 70,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/0/D0ML8AT_1a63.jpg"
    },
    {
@@ -58,7 +58,7 @@
     "price": "R12 730",
     "handle": "hp-15s-15-6-fhd-ultraslim-ryzen-5-7520u-16gb-512gb-win-11-home-silver-notebook",
     "url": "/products/hp-15s-15-6-fhd-ultraslim-ryzen-5-7520u-16gb-512gb-win-11-home-silver-notebook",
-    "qty": 70,
+    "qty": 69,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D68F4EA_ffc4.jpg"
    }
   ],
@@ -71,7 +71,7 @@
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "qty": 84,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA-BUN1Q2_default.png"
    },
    {
     "brand": "Asus",
@@ -94,14 +94,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/NX_EJ9EA_011_Acer_Extensa_156_Laptop_Intel_Core_i5-12_wr_01.png"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 14 Essential 14\" Core-5 16GB 512GB Win 11 Pro Notebook",
-    "spec": "14\" screen",
-    "price": "R20 349",
-    "handle": "dell-pro-14-essential-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/dell-pro-14-essential-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "qty": 8,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/P/V/PV14250_RPLR_002_af59.jpg"
+    "brand": "Acer",
+    "title": "Acer EXO16 51 77QK Laptop — Core Ultra 7 · 16GB · 512GB SSD (NX.EM3EA.003)",
+    "spec": "512GB SSD",
+    "price": "R20 462",
+    "handle": "acer-exo16-51-77qk-intel-core-ultra-7-processor-155u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
+    "url": "/products/acer-exo16-51-77qk-intel-core-ultra-7-processor-155u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.003_default.jpg"
    },
    {
     "brand": "Acer",
@@ -146,14 +146,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO208_PB16250_EMEA_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Alienware 16 Aurora 16\" RTX 4050 Core 5-210H 16GB 512GB Win 11 Pro Gaming Notebook",
+    "brand": "HP",
+    "title": "HP EliteBook 6 G1i 16\" AI Intel Core U7-255U 16GB 512GB LTE Win 11 Pro Notebook",
     "spec": "16\" screen",
-    "price": "R40 142",
-    "handle": "dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
-    "url": "/products/dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
-    "qty": 4,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/C/AC16250_RPLH_R_006_794e.jpg"
+    "price": "R40 336",
+    "handle": "hp-elitebook-6-g1i-16-ai-intel-core-u7-255u-16gb-512gb-lte-win-11-pro-notebook",
+    "url": "/products/hp-elitebook-6-g1i-16-ai-intel-core-u7-255u-16gb-512gb-lte-win-11-pro-notebook",
+    "qty": 23,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/K/CK8G4EA_1f3f.jpg"
    },
    {
     "brand": "Dell",
@@ -310,7 +310,7 @@
     "price": "R18 721",
     "handle": "pcbuilder-ryzen-5-5600xt-sentinel-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600xt-sentinel-windows-11-gaming-pc",
-    "qty": 18,
+    "qty": 20,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SENTINEL_01_wr_01e.jpg"
    },
    {
@@ -428,7 +428,7 @@
     "price": "R16 749",
     "handle": "pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
-    "qty": 19,
+    "qty": 23,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SCOUT_05_wr_01e.jpg"
    },
    {
@@ -532,7 +532,7 @@
     "price": "R16 749",
     "handle": "pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
-    "qty": 19,
+    "qty": 23,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SCOUT_05_wr_01e.jpg"
    },
    {
@@ -598,16 +598,6 @@
     "url": "/products/acer-monitor-v206h-flat-19-5-tn-led-response-time-5-ms-resolution-1600-x-900-viewing-angle-178-h-178-v-aspect-ratio-16-09-digital-frequency-100hz-interface-x1-hdmi-1x-vga-speaker-none-power-supply",
     "qty": 99,
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
-   },
-   {
-    "brand": "Dell",
-    "title": "Dell Pro 27 Monitor - E2726H 1x HDMI, 1x DP, 1x VGA (Includes DP & Power Cable)",
-    "spec": "Monitors And Displays",
-    "price": "R2 444",
-    "handle": "dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
-    "url": "/products/dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
-    "qty": 80,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPN_default.jpg"
    },
    {
     "brand": "Lenovo",
@@ -776,14 +766,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/PCB-PM15-FHD_PCBuilder-FLEX-15.6-inch-Full-HD-IPS-Portable-Monitor_wr_01a.jpg"
    },
    {
-    "brand": "MSI",
-    "title": "MSI MAG 255F X24 25″ FHD 240Hz IPS Gaming Monitor",
+    "brand": "Xiaomi",
+    "title": "Xiaomi G24i 2026 24″ 200Hz Full HD 1080p IPS Gaming Monitor",
     "spec": "Monitors And Displays",
-    "price": "R2 661",
-    "handle": "msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
-    "url": "/products/msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
-    "qty": 138,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-X24_MSI-MAG-255F-X24-25-inch-FHD-240Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
+    "price": "R2 546",
+    "handle": "xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
+    "url": "/products/xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
+    "qty": 161,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6364EU_Xiaomi-G24i-2026-24%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01b.jpg"
    },
    {
     "brand": "HP",
@@ -1726,7 +1716,7 @@
     "price": "R3 535",
     "handle": "port-office-docking-station-3-x-4-usb-c-11-devices-100w",
     "url": "/products/port-office-docking-station-3-x-4-usb-c-11-devices-100w",
-    "qty": 9,
+    "qty": 5,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901910V2EU_PORT_Office_docking_station_3_X_4_USB-C__wr_01.png"
    },
    {
@@ -1832,7 +1822,7 @@
     "price": "R1 510",
     "handle": "port-connect-on-r-500-bluetooth-stereo-headset",
     "url": "/products/port-connect-on-r-500-bluetooth-stereo-headset",
-    "qty": 53,
+    "qty": 38,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/912002_PORT-CONNECT-BINAURAL-HEADSET-BT_wr_06.jpg"
    },
    {
@@ -2162,7 +2152,7 @@
     "price": "R6 515",
     "handle": "msi-geforce-rtx-3050-ventus-2x-e-6gb-oc-graphics-card",
     "url": "/products/msi-geforce-rtx-3050-ventus-2x-e-6gb-oc-graphics-card",
-    "qty": 106,
+    "qty": 86,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/RTX3050VENTUS2XE6GOC-WR-01.jpg"
    },
    {
@@ -2293,13 +2283,13 @@
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi Smart Standing Air Circulation Fan",
+    "title": "Xiaomi Smart Tower Fan 2",
     "spec": "Appliances",
-    "price": "R1 864",
-    "handle": "xiaomi-smart-standing-air-circulation-fan",
-    "url": "/products/xiaomi-smart-standing-air-circulation-fan",
-    "qty": 181,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/6932554413064_BHR9849EU_Front-Right.jpeg"
+    "price": "R1 862",
+    "handle": "xiaomi-smart-tower-fan-2",
+    "url": "/products/xiaomi-smart-tower-fan-2",
+    "qty": 184,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/BHR8846EU_Xiaomi-Smart-Tower-Fan-2-White_wr_01a.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -2484,7 +2474,7 @@
     "price": "R351",
     "handle": "port-connect-ergo-shape-bluetooth-rechargeable-mouse",
     "url": "/products/port-connect-ergo-shape-bluetooth-rechargeable-mouse",
-    "qty": 80,
+    "qty": 60,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/910007_.PORT-MOUSE-ERGO-RECHARGEABLE-BT-RIGHT_wr_08.jpg"
    },
    {
