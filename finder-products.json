@@ -71,7 +71,7 @@
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "qty": 84,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA-BUN1Q2_default.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
     "brand": "Asus",
@@ -85,23 +85,23 @@
    },
    {
     "brand": "Acer",
-    "title": "Acer EXO14 72 51AG Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.ELVEA.001)",
+    "title": "Acer Extensa 15.6″ Laptop | Laptop — Core i5 · 16GB · 512GB SSD",
     "spec": "512GB SSD",
-    "price": "R17 628",
-    "handle": "acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
-    "url": "/products/acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.ELVEA.001_default.jpg"
+    "price": "R17 243",
+    "handle": "acer-extensa-15-6-laptop-intel-core-i5-120u-16gb-ddr5-512gb-nvme-intel-graphics-windows-11-pro",
+    "url": "/products/acer-extensa-15-6-laptop-intel-core-i5-120u-16gb-ddr5-512gb-nvme-intel-graphics-windows-11-pro",
+    "qty": 13,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/NX_EJ9EA_011_Acer_Extensa_156_Laptop_Intel_Core_i5-12_wr_01.png"
    },
    {
-    "brand": "HP",
-    "title": "HP ProBook 4 G1iR 14' Core-5 16GB 512GB Win 11 Pro Notebook",
-    "spec": "Notebooks",
-    "price": "R20 336",
-    "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "qty": 99,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 14 Essential 14\" Core-5 16GB 512GB Win 11 Pro Notebook",
+    "spec": "14\" screen",
+    "price": "R20 349",
+    "handle": "dell-pro-14-essential-14-core-5-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/dell-pro-14-essential-14-core-5-16gb-512gb-win-11-pro-notebook",
+    "qty": 8,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/P/V/PV14250_RPLR_002_af59.jpg"
    },
    {
     "brand": "Acer",
@@ -990,14 +990,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SMC1000IC_default.jpg"
    },
    {
-    "brand": "Eaton",
-    "title": "Eaton 9SX 1000i On-Line UPS 1000VA 200-240V Tower 9SX1000I",
+    "brand": "APC",
+    "title": "APC Smart-UPS, Line Interactive, 2200VA, Tower, 230V, 8x IEC C13+2x…",
     "spec": "Ups And Power",
-    "price": "R13 512",
-    "handle": "eaton-9sx-1000i-on-line-ups-1000va-200-240v-tower-9sx1000i",
-    "url": "/products/eaton-9sx-1000i-on-line-ups-1000va-200-240v-tower-9sx1000i",
-    "qty": 6,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/S/9SX1500I_1_38d0.png"
+    "price": "R20 940",
+    "handle": "apc-smart-ups-line-interactive-2200va-tower-230v-8x-iec-c13-2x-iec-c19-outlets-smartconnect-port-smartslot-avr-lcd",
+    "url": "/products/apc-smart-ups-line-interactive-2200va-tower-230v-8x-iec-c13-2x-iec-c19-outlets-smartconnect-port-smartslot-avr-lcd",
+    "qty": 3,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SMT2200IC_default.jpg"
    },
    {
     "brand": "APC",
@@ -1816,16 +1816,6 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS105_wr_01.jpg"
    },
    {
-    "brand": "WINX",
-    "title": "WINX CALL Pro 2 Mono AI Noise Cancelling Headset",
-    "spec": "Headsets",
-    "price": "R699",
-    "handle": "winx-call-pro-2-mono-ai-noise-cancelling-headset",
-    "url": "/products/winx-call-pro-2-mono-ai-noise-cancelling-headset",
-    "qty": 296,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS113_WINX-CALL-Pro-Wireless-Noise-Cancelling-Mic-Headset-Black_wr_01a.jpg"
-   },
-   {
     "brand": "Logitech",
     "title": "Logitech Headset-Zone 300-Black- BT-N/A-EMEA28i-935, dual…",
     "spec": "Headsets",
@@ -2364,14 +2354,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/05/Winx_WX-HS109_Vibe-Pure-Hybrid-ANC-Headphones_45-0051-Edit1500x1500-96DPI.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi Redmi Headphones Neo ANC Wireless Over-Ears – Black",
-    "spec": "Tv And Audio",
-    "price": "R1 213",
-    "handle": "xiaomi-redmi-headphones-neo-anc-wireless-over-ears-black",
-    "url": "/products/xiaomi-redmi-headphones-neo-anc-wireless-over-ears-black",
-    "qty": 41,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/BHR08W5GL_Redmi-Headphones-Neo-ANC-Wireless-Over-Ears-Black_wr_01a.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro Desktop Speakerphone - SP3022",
+    "spec": "Headsets",
+    "price": "R1 235",
+    "handle": "dell-pro-desktop-speakerphone-sp3022",
+    "url": "/products/dell-pro-desktop-speakerphone-sp3022",
+    "qty": 3,
+    "image": "http://cdn.cs.1worldsync.com/b5/eb/b5eb657e-f223-46e6-a22d-ce26532bde7b.jpg"
    },
    {
     "brand": "Dell",
@@ -2417,23 +2407,23 @@
    },
    {
     "brand": "UGREEN",
-    "title": "UGREEN HD104-10109 HDMI 4K Cable Male to Male Black 5m - Black",
+    "title": "UGREEN Cat8 Nylon Braided Ethernet Cable - 40Gbps with Modular Plugs - 5m",
     "spec": "Cables And Adapters",
     "price": "R128",
-    "handle": "ugreen-hd104-10109-hdmi-4k-cable-male-to-male-black-5m-black",
-    "url": "/products/ugreen-hd104-10109-hdmi-4k-cable-male-to-male-black-5m-black",
-    "qty": 172,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/hd-104-10106-wr-01.jpg"
+    "handle": "ugreen-cat8-nylon-braided-ethernet-cable-40gbps-with-modular-plugs-5m",
+    "url": "/products/ugreen-cat8-nylon-braided-ethernet-cable-40gbps-with-modular-plugs-5m",
+    "qty": 15,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/nw153-wr-02.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP Keyed Cable Lock 10mm",
-    "spec": "Accessories",
-    "price": "R439",
-    "handle": "hp-keyed-cable-lock-10mm",
-    "url": "/products/hp-keyed-cable-lock-10mm",
-    "qty": 92,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/T1A62AA_default.jpg"
+    "brand": "WINX",
+    "title": "WINX POWER Easy Universal 3-IN-1 Wireless Charger",
+    "spec": "Power Adapter",
+    "price": "R441",
+    "handle": "winx-power-easy-universal-3-in-1-wireless-charger",
+    "url": "/products/winx-power-easy-universal-3-in-1-wireless-charger",
+    "qty": 219,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2023/08/WX-CS101_wr_01a.jpg"
    },
    {
     "brand": "Lenovo",
