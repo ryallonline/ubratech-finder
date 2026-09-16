@@ -42,14 +42,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/NX.DZAEA.002_default.png"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo Ideapad Slim 3 15.6\" FHD Radeon 610M Ryzen 5-40 8GB 512GB Win 11 Home Notebook",
-    "spec": "15.6\" screen",
-    "price": "R12 130",
-    "handle": "lenovo-ideapad-slim-3-15-6-fhd-radeon-610m-ryzen-5-40-8gb-512gb-win-11-home-notebook",
-    "url": "/products/lenovo-ideapad-slim-3-15-6-fhd-radeon-610m-ryzen-5-40-8gb-512gb-win-11-home-notebook",
-    "qty": 9,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/8/2/82XQ01EESA_0043.jpg"
+    "brand": "Acer",
+    "title": "Acer Lite 15 Laptop — Ryzen 5",
+    "spec": "Notebooks",
+    "price": "R12 088",
+    "handle": "acer-lite-15-r5-7430u-8-512-15-6-fhd-ips-slim-bezel-windows-11-home-64bit-single-language",
+    "url": "/products/acer-lite-15-r5-7430u-8-512-15-6-fhd-ips-slim-bezel-windows-11-home-64bit-single-language",
+    "qty": 80,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.DJVEA.001_default.png"
    },
    {
     "brand": "HP",
@@ -84,24 +84,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0077ZA-BUN2Q2_default.png"
    },
    {
-    "brand": "Acer",
-    "title": "Acer EXO14 72 51AG Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.ELVEA.001)",
-    "spec": "512GB SSD",
-    "price": "R17 628",
-    "handle": "acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
-    "url": "/products/acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.ELVEA.001_default.jpg"
+    "brand": "HP",
+    "title": "HP 15S 15.6\" FHD UltraSlim AI Ultra 7-225U 16GB 512GB Win 11 Home Silver Notebook",
+    "spec": "15.6\" screen",
+    "price": "R18 004",
+    "handle": "hp-15s-15-6-fhd-ultraslim-ai-ultra-7-225u-16gb-512gb-win-11-home-silver-notebook",
+    "url": "/products/hp-15s-15-6-fhd-ultraslim-ai-ultra-7-225u-16gb-512gb-win-11-home-silver-notebook",
+    "qty": 69,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D6ZT6EA_91d2.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 15 Essential PV15250 Laptop — 8GB (PV15250_RPLU_006_P8L)",
-    "spec": "Notebooks",
-    "price": "R20 525",
-    "handle": "dell-pro-15-essential-pv15250-i7-1355u-intel-rpl-p-u15-i7-8-layer-pcb-15-6-non-touch-fhd-120hz-wva-ips-anti-glare-250-nit-8-gb-1-x-8-gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd-graphics",
-    "url": "/products/dell-pro-15-essential-pv15250-i7-1355u-intel-rpl-p-u15-i7-8-layer-pcb-15-6-non-touch-fhd-120hz-wva-ips-anti-glare-250-nit-8-gb-1-x-8-gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd-graphics",
+    "brand": "Acer",
+    "title": "Acer EXO16 51 77QK Laptop — Core Ultra 7 · 16GB · 512GB SSD (NX.EM3EA.003)",
+    "spec": "512GB SSD",
+    "price": "R20 462",
+    "handle": "acer-exo16-51-77qk-intel-core-ultra-7-processor-155u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
+    "url": "/products/acer-exo16-51-77qk-intel-core-ultra-7-processor-155u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
     "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_006_P8L_default.jpg"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.003_default.jpg"
    },
    {
     "brand": "Acer",
@@ -152,7 +152,7 @@
     "price": "R40 336",
     "handle": "hp-elitebook-6-g1i-16-ai-intel-core-u7-255u-16gb-512gb-lte-win-11-pro-notebook",
     "url": "/products/hp-elitebook-6-g1i-16-ai-intel-core-u7-255u-16gb-512gb-lte-win-11-pro-notebook",
-    "qty": 23,
+    "qty": 22,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/K/CK8G4EA_1f3f.jpg"
    },
    {
@@ -238,7 +238,7 @@
     "price": "R17 313",
     "handle": "dell-pro-slim-essential-qvs1260-desktop-pc-core-i3-bto001_qvs1260_emea",
     "url": "https://ubratech.co.za/products/dell-pro-slim-essential-qvs1260-desktop-pc-core-i3-bto001_qvs1260_emea",
-    "qty": 99,
+    "qty": 67,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO001_QVS1260_EMEA_default.png"
    },
    {
@@ -248,18 +248,18 @@
     "price": "R4 601",
     "handle": "giada-dn74-rk3399-4gb-ddr4-32gb-emmc",
     "url": "/products/giada-dn74-rk3399-4gb-ddr4-32gb-emmc",
-    "qty": 6,
+    "qty": 5,
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/DN74-3399R42E5G-GIA-V2_wr_01.jpg"
    },
    {
-    "brand": "PCBuilder",
-    "title": "PCBuilder AMD Ryzen 5 3400G HOME MASTER Windows 11 Desktop PC",
+    "brand": "Giada",
+    "title": "Giada VM27 with N6210 4G DDR4 on board, 64G EMMC on board",
     "spec": "Desktops",
-    "price": "R7 879",
-    "handle": "pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc",
-    "url": "/products/pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc",
-    "qty": 15,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_HOME_R58G-V1_PCBuilder-AMD-Ryzen-5-3400G-HOME-MASTER-Windows-11-Desktop-PC_wr_01.jpg"
+    "price": "R7 898",
+    "handle": "giada-vm27-with-n6210-4g-ddr4-on-board-64g-emmc-on-board",
+    "url": "/products/giada-vm27-with-n6210-4g-ddr4-on-board-64g-emmc-on-board",
+    "qty": 26,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/VM27-N621042E6G-GIA_wr_01a.jpg"
    },
    {
     "brand": "Giada",
@@ -273,13 +273,13 @@
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder CUBE Intel i5-1235U 8GB DDR4 512GB Windows 11 Home Mini PC",
+    "title": "PCBuilder CUBE Intel i5-1235U 16GB DDR4 1TB Windows 11 Home Mini PC",
     "spec": "Desktops",
-    "price": "R9 860",
-    "handle": "pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
-    "url": "/products/pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
-    "qty": 28,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_CUBE_I58G_HOME_V2_PCBuilder-CUBE-Intel-i5-1235U-8GB-DDR4-512GB-Windows-11-Home-Mini-PC_wr_01a.jpg"
+    "price": "R11 826",
+    "handle": "pcbuilder-cube-intel-i5-1235u-16gb-ddr4-1tb-windows-11-home-mini-pc",
+    "url": "/products/pcbuilder-cube-intel-i5-1235u-16gb-ddr4-1tb-windows-11-home-mini-pc",
+    "qty": 3,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/PCB_CUBE_I516G_HOME_PCBuilder-CUBE-i5-1235U-16GB-DDR4-1TB-Windows-11-Home-Mini-PC_wr_01a.jpg"
    }
   ],
   "mid": [
@@ -304,24 +304,24 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/B/T/BTO001_QVT1260_EMEA_aad7.jpg"
    },
    {
-    "brand": "PCBuilder",
-    "title": "PCBuilder Intel i7-14700 HOME Master Windows 11 Desktop PC",
+    "brand": "Dell",
+    "title": "Dell Pro Slim Essential QVS1260: Desktop PC — Core i3 (BTO001_QVS1260_EMEA)",
     "spec": "Desktops",
-    "price": "R18 229",
-    "handle": "pcbuilder-intel-i7-14700-home-master-windows-11-desktop-pc",
-    "url": "/products/pcbuilder-intel-i7-14700-home-master-windows-11-desktop-pc",
-    "qty": 1,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_HOME_I716G-V2_PCBuilder-Intel-i7-14700-HOME-Master-Windows-11-Desktop-PC_wr_01a.jpg"
+    "price": "R17 313",
+    "handle": "dell-pro-slim-essential-qvs1260-intel-core-i3-14100-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-8gb-8gbx1-ddr5-4800mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2-802",
+    "url": "/products/dell-pro-slim-essential-qvs1260-intel-core-i3-14100-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-8gb-8gbx1-ddr5-4800mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2-802",
+    "qty": 67,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO001_QVS1260_EMEA_default.png"
    },
    {
-    "brand": "PCBuilder",
-    "title": "PCBuilder Ryzen 5 5600XT PATHFINDER Windows 11 Gaming PC",
+    "brand": "Dell",
+    "title": "Dell Pro Slim Essential QVS1260: Desktop PC — Core i5 · 16GB (BTO004_QVS1260_EMEA)",
     "spec": "Desktops",
-    "price": "R21 677",
-    "handle": "pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
-    "url": "/products/pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
-    "qty": 1,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/11/PCB_PATHFINDER_01_PCBuilder-Ryzen-5-5600XT-PATHFINDER-Windows-11-Gaming-PC_wr_01c.jpg"
+    "price": "R21 461",
+    "handle": "dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
+    "url": "/products/dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO004_QVS1260_EMEA_default.jpg"
    }
   ],
   "high": [
@@ -346,14 +346,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO108_QCS1250_EMEA_default.jpg"
    },
    {
-    "brand": "PCBuilder",
-    "title": "PCBuilder Ryzen 5 7600 MAVERICK Windows 11 Gaming PC (PCB_MAVERICK_02)",
-    "spec": "Desktops",
-    "price": "R43 365",
-    "handle": "pcbuilder-ryzen-5-7600-maverick-windows-11-gaming-pc-pcb-maverick-02",
-    "url": "/products/pcbuilder-ryzen-5-7600-maverick-windows-11-gaming-pc-pcb-maverick-02",
-    "qty": 11,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_MAVERICK_02_PCBuilder-Ryzen-5-7600-MAVERICK-Windows-11-Gaming-PC_wr_01.jpg"
+    "brand": "Dell",
+    "title": "Dell 27 AIO EC27250 25 06 2025:Intel Desktop PC — 1TB SSD (EC27250_RPLU-R_003S)",
+    "spec": "1TB SSD",
+    "price": "R42 614",
+    "handle": "dell-27-aio-ec27250-25-06-2025-intel-core-7-150u-12mb-cache-up-to-5-4-ghz-27-fhd-touch-1920x1080-16gb-5200mt-s-ddr5-1tb-ssd-pcie-nvme-m-2-nvidia-geforce-mx570a-with-2gb-gddr6-graphics-memory-camera",
+    "url": "/products/dell-27-aio-ec27250-25-06-2025-intel-core-7-150u-12mb-cache-up-to-5-4-ghz-27-fhd-touch-1920x1080-16gb-5200mt-s-ddr5-1tb-ssd-pcie-nvme-m-2-nvidia-geforce-mx570a-with-2gb-gddr6-graphics-memory-camera",
+    "qty": 6,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/EC27250_RPLU-R_003S_default.jpg"
    },
    {
     "brand": "HP",
@@ -384,18 +384,8 @@
     "price": "R44 446",
     "handle": "dell-pro-precision-7-t1-pw7t1260-intel-core-ultra-7-265-30-mb-cache-20-cores-20-threads-1-8-ghz-to-5-3-ghz-65w-16gb-1-x-16gb-ddr5-up-to-5600-mt-s-512gb-m-2-2230-tlc-pcie-gen4-ssd-nvidia-a1000-8gb",
     "url": "/products/dell-pro-precision-7-t1-pw7t1260-intel-core-ultra-7-265-30-mb-cache-20-cores-20-threads-1-8-ghz-to-5-3-ghz-65w-16gb-1-x-16gb-ddr5-up-to-5600-mt-s-512gb-m-2-2230-tlc-pcie-gen4-ssd-nvidia-a1000-8gb",
-    "qty": 7,
+    "qty": 5,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PWT1260-U7-16512GB-8GFX_default.png"
-   },
-   {
-    "brand": "Dell",
-    "title": "Dell Pro Precision 7 T1 PW7T1260 Desktop PC — Core Ultra 7 · 16GB (PWT1260-U7-161TB-8GFX)",
-    "spec": "Desktops",
-    "price": "R48 616",
-    "handle": "dell-pro-precision-7-t1-pw7t1260-intel-core-ultra-7-265-30-mb-cache-20-cores-20-threads-1-8-ghz-to-5-3-ghz-65w-16gb-1-x-16gb-ddr5-up-to-5600-mt-s-1tb-m-2-2230-tlc-pcie-gen4-ssd-nvidia-a1000-8-gb",
-    "url": "/products/dell-pro-precision-7-t1-pw7t1260-intel-core-ultra-7-265-30-mb-cache-20-cores-20-threads-1-8-ghz-to-5-3-ghz-65w-16gb-1-x-16gb-ddr5-up-to-5600-mt-s-1tb-m-2-2230-tlc-pcie-gen4-ssd-nvidia-a1000-8-gb",
-    "qty": 1,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/PWT1260-U7-161TB-8GFX_default.png"
    },
    {
     "brand": "Dell",
@@ -428,28 +418,28 @@
     "price": "R16 749",
     "handle": "pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
-    "qty": 21,
+    "qty": 16,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SCOUT_05_wr_01e.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus ROG G700 Intel Ultra 5 255F Gaming PC | 16GB DDR5 | 1TB SSD | Win 11 Home",
-    "spec": "1TB SSD",
-    "price": "R20 525",
-    "handle": "asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
-    "url": "/products/asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
-    "qty": 8,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg"
+    "brand": "Acer",
+    "title": "Acer NITRO V 15 Gaming Laptop 15.6″ | Laptop",
+    "spec": "Notebooks",
+    "price": "R19 139",
+    "handle": "acer-nitro-v-15-gaming-laptop-15-6-intel-core-5-210h-16gb-512gb-rtx-4050-6gb-windows-11-home",
+    "url": "/products/acer-nitro-v-15-gaming-laptop-15-6-intel-core-5-210h-16gb-512gb-rtx-4050-6gb-windows-11-home",
+    "qty": 12,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NH.QUAEA_.00C_Acer-NITRO-V-15-Gaming-Laptop-15.6inch_wr001.jpg"
    },
    {
-    "brand": "PCBuilder",
-    "title": "PCBuilder Ryzen 5 5600XT PATHFINDER Windows 11 Gaming PC",
-    "spec": "Desktops",
-    "price": "R21 677",
-    "handle": "pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
-    "url": "/products/pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
-    "qty": 1,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/11/PCB_PATHFINDER_01_PCBuilder-Ryzen-5-5600XT-PATHFINDER-Windows-11-Gaming-PC_wr_01c.jpg"
+    "brand": "Acer",
+    "title": "Acer NITRO V 15 Gaming Laptop — Ryzen 5",
+    "spec": "Notebooks",
+    "price": "R21 784",
+    "handle": "acer-nitro-v-15-gaming-laptop-15-6-amd-ryzen-5-16gb-512gb-rtx-5050-8gb-windows-11-home",
+    "url": "/products/acer-nitro-v-15-gaming-laptop-15-6-amd-ryzen-5-16gb-512gb-rtx-5050-8gb-windows-11-home",
+    "qty": 65,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NH.U3NEA.001_Acr-NITRO-V-15-Gaming-Laptop-15.6inch_wr001.jpg"
    },
    {
     "brand": "Acer",
@@ -532,7 +522,7 @@
     "price": "R16 749",
     "handle": "pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
-    "qty": 21,
+    "qty": 16,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SCOUT_05_wr_01e.jpg"
    },
    {
@@ -680,7 +670,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 222,
+    "qty": 221,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -1292,7 +1282,7 @@
     "price": "R1 578",
     "handle": "xiaomi-portable-photo-printer-1s-silver",
     "url": "/products/xiaomi-portable-photo-printer-1s-silver",
-    "qty": 54,
+    "qty": 50,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/BHR9974GL_Xiaomi-Portable-Photo-Printer-S1_04.jpeg"
    },
    {
@@ -1400,6 +1390,16 @@
     "qty": 25
    },
    {
+    "brand": "Zebra",
+    "title": "Zebra ZT411 4\" Thermal Transfer Label Printer",
+    "spec": "Industrial · high volume",
+    "price": "R18 560",
+    "handle": "zebra-zt411-4-thermal-transfer-label-printer",
+    "url": "https://ubratech.co.za/products/zebra-zt411-4-thermal-transfer-label-printer",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/T/ZT41142_T0E0000Z_4906.png",
+    "qty": 2
+   },
+   {
     "brand": "NIIMBOT",
     "title": "NIIMBOT D11 D110 D101 H1S Thermal Label 12.5x7 Printer",
     "spec": "Printers",
@@ -1440,7 +1440,7 @@
     "price": "R1 636",
     "handle": "hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
     "url": "/products/hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
-    "qty": 224,
+    "qty": 197,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2141G0_LIU_4MM_ee84.jpg"
    },
    {
@@ -1461,7 +1461,7 @@
     "handle": "hikvision-4mp-fixed-mini-bullet-network-camera",
     "url": "/products/hikvision-4mp-fixed-mini-bullet-network-camera",
     "qty": 121,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_4MM_1_306c.png"
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_4MM_1_306c.jpg"
    },
    {
     "brand": "TP-Link VIGI",
@@ -1778,7 +1778,7 @@
     "price": "R728",
     "handle": "ugreen-9-in-1-type-c-hub-hdmi-vga-lan-sd-tf-100w-pd-usb3-0",
     "url": "/products/ugreen-9-in-1-type-c-hub-hdmi-vga-lan-sd-tf-100w-pd-usb3-0",
-    "qty": 93,
+    "qty": 90,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM498-15600-wr-01a.jpg"
    },
    {
@@ -1803,7 +1803,7 @@
     "handle": "hp-320-black-full-hd-usb-webcam",
     "url": "https://ubratech.co.za/products/hp-320-black-full-hd-usb-webcam",
     "qty": 29,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/5/3/53X26AA_9bf9.png"
+    "image": "https://www.pinnacle.co.za/media/catalog/product/5/3/53X26AA_9bf9.jpeg"
    },
    {
     "brand": "WINX",
@@ -2009,7 +2009,7 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 87
+    "qty": 86
    },
    {
     "brand": "Seagate",
@@ -2042,14 +2042,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__4__2cde.png"
    },
    {
-    "brand": "SanDisk",
-    "title": "SanDisk Extreme Portable SSD (V3) - 1TB",
+    "brand": "Patriot",
+    "title": "Patriot Viper VP4300 Lite 2TB Gen 4 M.2 PCIe NVMe SSD",
     "spec": "Storage",
-    "price": "R5 364",
-    "handle": "sandisk-extreme-portable-ssd-v3-1tb",
-    "url": "/products/sandisk-extreme-portable-ssd-v3-1tb",
-    "qty": 11,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__2__954f.png"
+    "price": "R5 414",
+    "handle": "patriot-viper-vp4300-lite-2tb-gen-4-m-2-pcie-nvme-ssd",
+    "url": "/products/patriot-viper-vp4300-lite-2tb-gen-4-m-2-pcie-nvme-ssd",
+    "qty": 6,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/VP4300L2TBM28H_Patriot-Viper-VP4300-Lite-2TB-Gen-4-M.2-PCIe-NVMe-SSD_wr_02.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -2406,24 +2406,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2018/09/N301-10-SV-PRO_wr_01a.jpg"
    },
    {
-    "brand": "TP-Link",
-    "title": "TP-Link AC650 High Gain Wi-Fi USB Adapter",
+    "brand": "Xiaomi",
+    "title": "Xiaomi 3A Braided USB Type-C to USB Type-C Cable 1M - White",
     "spec": "Cables And Adapters",
-    "price": "R130",
-    "handle": "tp-link-ac650-high-gain-wi-fi-usb-adapter",
-    "url": "/products/tp-link-ac650-high-gain-wi-fi-usb-adapter",
-    "qty": 82,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__77__2632.png"
+    "price": "R131",
+    "handle": "xiaomi-3a-braided-usb-type-c-to-usb-type-c-cable-1m-white",
+    "url": "/products/xiaomi-3a-braided-usb-type-c-to-usb-type-c-cable-1m-white",
+    "qty": 143,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/BHR0878GL_Xiaomi-3A-Braided-USB-Type-C-to-USB-Type-C-Cable-1M-White_wr_01a.jpg"
    },
    {
-    "brand": "WINX",
-    "title": "WINX RISE Simple Adjustable Dual Monitor Arm",
+    "brand": "Targus",
+    "title": "Targus DEFCON Ultimate Universal Resettable Combination Lock Wedge lock Kensington Nano",
     "spec": "Accessories",
-    "price": "R451",
-    "handle": "winx-rise-simple-adjustable-dual-monitor-arm",
-    "url": "/products/winx-rise-simple-adjustable-dual-monitor-arm",
-    "qty": 70,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/02/WX-BR107_wr_01.jpg"
+    "price": "R452",
+    "handle": "targus-defcon-ultimate-universal-resettable-combination-lock-wedge-lock-kensington-nano",
+    "url": "/products/targus-defcon-ultimate-universal-resettable-combination-lock-wedge-lock-kensington-nano",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/ASP96RGLX_default.png"
    },
    {
     "brand": "Lenovo",
