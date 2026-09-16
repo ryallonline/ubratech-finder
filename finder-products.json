@@ -33,13 +33,23 @@
    },
    {
     "brand": "Acer",
-    "title": "Acer Lite 15 Laptop — Ryzen 5",
-    "spec": "Notebooks",
-    "price": "R12 088",
-    "handle": "acer-lite-15-r5-7430u-8-512-15-6-fhd-ips-slim-bezel-windows-11-home-64bit-single-language",
-    "url": "/products/acer-lite-15-r5-7430u-8-512-15-6-fhd-ips-slim-bezel-windows-11-home-64bit-single-language",
-    "qty": 79,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.DJVEA.001_default.png"
+    "title": "AcerLITE 15 R3 5400U 8 256 15.6\" FHD IPS SLIM BEZEL Windows 11 Home",
+    "spec": "15.6\" screen",
+    "price": "R10 073",
+    "handle": "acerlite-15-r3-5400u-8-256-15-6-fhd-ips-slim-bezel-windows-11-home",
+    "url": "/products/acerlite-15-r3-5400u-8-256-15-6-fhd-ips-slim-bezel-windows-11-home",
+    "qty": 94,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.DZAEA.002_default.png"
+   },
+   {
+    "brand": "Lenovo",
+    "title": "Lenovo Ideapad Slim 3 15.6\" FHD Radeon 610M Ryzen 5-40 8GB 512GB Win 11 Home Notebook",
+    "spec": "15.6\" screen",
+    "price": "R12 130",
+    "handle": "lenovo-ideapad-slim-3-15-6-fhd-radeon-610m-ryzen-5-40-8gb-512gb-win-11-home-notebook",
+    "url": "/products/lenovo-ideapad-slim-3-15-6-fhd-radeon-610m-ryzen-5-40-8gb-512gb-win-11-home-notebook",
+    "qty": 9,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/8/2/82XQ01EESA_0043.jpg"
    },
    {
     "brand": "HP",
@@ -184,7 +194,7 @@
     "price": "R18 660",
     "handle": "hp-probook-4-g1ah-16-radeon-740m-wuxga-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
     "url": "/products/hp-probook-4-g1ah-16-radeon-740m-wuxga-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
-    "qty": 37,
+    "qty": 22,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KSAT_9f51.jpg"
    },
    {
@@ -384,7 +394,7 @@
     "price": "R48 616",
     "handle": "dell-pro-precision-7-t1-pw7t1260-intel-core-ultra-7-265-30-mb-cache-20-cores-20-threads-1-8-ghz-to-5-3-ghz-65w-16gb-1-x-16gb-ddr5-up-to-5600-mt-s-1tb-m-2-2230-tlc-pcie-gen4-ssd-nvidia-a1000-8-gb",
     "url": "/products/dell-pro-precision-7-t1-pw7t1260-intel-core-ultra-7-265-30-mb-cache-20-cores-20-threads-1-8-ghz-to-5-3-ghz-65w-16gb-1-x-16gb-ddr5-up-to-5600-mt-s-1tb-m-2-2230-tlc-pcie-gen4-ssd-nvidia-a1000-8-gb",
-    "qty": 3,
+    "qty": 2,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PWT1260-U7-161TB-8GFX_default.png"
    },
    {
@@ -394,7 +404,7 @@
     "price": "R72 632",
     "handle": "dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
     "url": "/products/dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
-    "qty": 28,
+    "qty": 27,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PW516261-U7-321TB-5G_default.jpg"
    }
   ]
@@ -576,7 +586,7 @@
     "price": "R2 205",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 999,
+    "qty": 998,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -588,6 +598,16 @@
     "url": "/products/acer-monitor-v206h-flat-19-5-tn-led-response-time-5-ms-resolution-1600-x-900-viewing-angle-178-h-178-v-aspect-ratio-16-09-digital-frequency-100hz-interface-x1-hdmi-1x-vga-speaker-none-power-supply",
     "qty": 99,
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
+   },
+   {
+    "brand": "Dell",
+    "title": "Dell Pro 27 Monitor - E2726H 1x HDMI, 1x DP, 1x VGA (Includes DP & Power Cable)",
+    "spec": "Monitors And Displays",
+    "price": "R2 444",
+    "handle": "dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
+    "url": "/products/dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
+    "qty": 78,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPN_default.jpg"
    },
    {
     "brand": "Lenovo",
@@ -660,7 +680,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 483,
+    "qty": 227,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -742,7 +762,7 @@
     "price": "R2 205",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 999,
+    "qty": 998,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -756,14 +776,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/PCB-PM15-FHD_PCBuilder-FLEX-15.6-inch-Full-HD-IPS-Portable-Monitor_wr_01a.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi G24i 2026 24″ 200Hz Full HD 1080p IPS Gaming Monitor",
+    "brand": "MSI",
+    "title": "MSI MAG 255F X24 25″ FHD 240Hz IPS Gaming Monitor",
     "spec": "Monitors And Displays",
-    "price": "R2 546",
-    "handle": "xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
-    "url": "/products/xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
-    "qty": 161,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6364EU_Xiaomi-G24i-2026-24%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01b.jpg"
+    "price": "R2 661",
+    "handle": "msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
+    "url": "/products/msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
+    "qty": 138,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-X24_MSI-MAG-255F-X24-25-inch-FHD-240Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
     "brand": "HP",
@@ -990,24 +1010,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SMC1000IC_default.jpg"
    },
    {
-    "brand": "APC",
-    "title": "APC Smart-UPS, Line Interactive, 2200VA, Tower, 230V, 8x IEC C13+2x…",
+    "brand": "Eaton",
+    "title": "Eaton 9SX 1000i On-Line UPS 1000VA 200-240V Tower 9SX1000I",
     "spec": "Ups And Power",
-    "price": "R20 940",
-    "handle": "apc-smart-ups-line-interactive-2200va-tower-230v-8x-iec-c13-2x-iec-c19-outlets-smartconnect-port-smartslot-avr-lcd",
-    "url": "/products/apc-smart-ups-line-interactive-2200va-tower-230v-8x-iec-c13-2x-iec-c19-outlets-smartconnect-port-smartslot-avr-lcd",
-    "qty": 3,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SMT2200IC_default.jpg"
+    "price": "R13 512",
+    "handle": "eaton-9sx-1000i-on-line-ups-1000va-200-240v-tower-9sx1000i",
+    "url": "/products/eaton-9sx-1000i-on-line-ups-1000va-200-240v-tower-9sx1000i",
+    "qty": 6,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/S/9SX1500I_1_38d0.png"
    },
    {
     "brand": "APC",
-    "title": "APC Smart Line Interactive 3000VA/ 3KVA 2100W UPS Rack Mount…",
+    "title": "APC Smart Line Interactive 3000VA/ 3KVA 2100W UPS Tower Rack Mount…",
     "spec": "3KVA UPS",
-    "price": "R26 570",
-    "handle": "apc-smart-line-interactive-3000va-3kva-2100w-ups-rack-mount-included-yes-rack-type-2u-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
-    "url": "/products/apc-smart-line-interactive-3000va-3kva-2100w-ups-rack-mount-included-yes-rack-type-2u-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
-    "qty": 1,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SMC3000RMI2U_default.jpg"
+    "price": "R28 370",
+    "handle": "apc-smart-line-interactive-3000va-3kva-2100w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
+    "url": "/products/apc-smart-line-interactive-3000va-3kva-2100w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
+    "qty": 3,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SMC3000I_default.jpg"
    },
    {
     "brand": "APC",
@@ -1220,7 +1240,7 @@
     "price": "R725",
     "handle": "canon-pixma-mg2541s-inkjet-mfp-3-in-1-a4-grey-a4-mfp-print-copy-and-scan-8ipm-mono-4-0ipm-colour-4800-x-600-print-resolution-600-x-1200-dpi-scan-resolution-60-sheet-rear-tray-manual-duplex-usb-4-ink",
     "url": "/products/canon-pixma-mg2541s-inkjet-mfp-3-in-1-a4-grey-a4-mfp-print-copy-and-scan-8ipm-mono-4-0ipm-colour-4800-x-600-print-resolution-600-x-1200-dpi-scan-resolution-60-sheet-rear-tray-manual-duplex-usb-4-ink",
-    "qty": 18,
+    "qty": 14,
     "image": "https://s3.amazonaws.com/tarsus.co.za/0727C067AA_default.png"
    },
    {
@@ -1334,7 +1354,7 @@
     "price": "R6 969",
     "handle": "hp-laserjet-pro-4103dw-mfp-mono-printer",
     "url": "/products/hp-laserjet-pro-4103dw-mfp-mono-printer",
-    "qty": 70,
+    "qty": 69,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z627A_default.png"
    },
    {
@@ -1420,7 +1440,7 @@
     "price": "R1 636",
     "handle": "hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
     "url": "/products/hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
-    "qty": 228,
+    "qty": 227,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2141G0_LIU_4MM_ee84.jpg"
    },
    {
@@ -1693,7 +1713,7 @@
     "brand": "Dell",
     "title": "Dell Pro 7-in-1 USB-C Mobile Docking Station",
     "spec": "Docking Station",
-    "price": "R1 537",
+    "price": "R1 511",
     "handle": "dell-pro-7-in-1-usb-c-mobile-docking-station",
     "url": "/products/dell-pro-7-in-1-usb-c-mobile-docking-station",
     "qty": 21,
@@ -2397,23 +2417,23 @@
    },
    {
     "brand": "UGREEN",
-    "title": "UGREEN HD104-10109 HDMI 4K Cable Male to Male Black 5m - Black",
+    "title": "UGREEN Cat8 Nylon Braided Ethernet Cable - 40Gbps with Modular Plugs - 5m",
     "spec": "Cables And Adapters",
     "price": "R128",
-    "handle": "ugreen-hd104-10109-hdmi-4k-cable-male-to-male-black-5m-black",
-    "url": "/products/ugreen-hd104-10109-hdmi-4k-cable-male-to-male-black-5m-black",
-    "qty": 165,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/hd-104-10106-wr-01.jpg"
+    "handle": "ugreen-cat8-nylon-braided-ethernet-cable-40gbps-with-modular-plugs-5m",
+    "url": "/products/ugreen-cat8-nylon-braided-ethernet-cable-40gbps-with-modular-plugs-5m",
+    "qty": 14,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/nw153-wr-02.jpg"
    },
    {
-    "brand": "WINX",
-    "title": "WINX POWER Easy Universal 3-IN-1 Wireless Charger",
+    "brand": "PD",
+    "title": "PD Power 9CH PSU 12V 8.3A PTC",
     "spec": "Power Adapter",
-    "price": "R441",
-    "handle": "winx-power-easy-universal-3-in-1-wireless-charger",
-    "url": "/products/winx-power-easy-universal-3-in-1-wireless-charger",
-    "qty": 219,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2023/08/WX-CS101_wr_01a.jpg"
+    "price": "R450",
+    "handle": "pd-power-9ch-psu-12v-8-3a-ptc",
+    "url": "/products/pd-power-9ch-psu-12v-8-3a-ptc",
+    "qty": 20,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2015/01/PCS-100-9M_wr_01a.jpg"
    },
    {
     "brand": "Lenovo",
