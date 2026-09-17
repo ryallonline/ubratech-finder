@@ -8,7 +8,7 @@
     "price": "R10 576",
     "handle": "hp-255r-g10-15-6-ryzen-3-8gb-512gb-win-11-home-notebook",
     "url": "https://ubratech.co.za/products/hp-255r-g10-15-6-ryzen-3-8gb-512gb-win-11-home-notebook",
-    "qty": 70,
+    "qty": 66,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/0/D0ML8AT_1a63.jpg"
    },
    {
@@ -33,13 +33,13 @@
    },
    {
     "brand": "Acer",
-    "title": "AcerLITE 15 R3 5400U 8 256 15.6\" FHD IPS SLIM BEZEL Windows 11 Home",
-    "spec": "15.6\" screen",
-    "price": "R10 073",
-    "handle": "acerlite-15-r3-5400u-8-256-15-6-fhd-ips-slim-bezel-windows-11-home",
-    "url": "/products/acerlite-15-r3-5400u-8-256-15-6-fhd-ips-slim-bezel-windows-11-home",
-    "qty": 91,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.DZAEA.002_default.png"
+    "title": "Acer Chromebook Spin 512 Laptop",
+    "spec": "Notebooks",
+    "price": "R9 641",
+    "handle": "acer-chromebook-spin-512-r856t-tco-c8b3-12-n100-8gb-64gb-google-chrome-operating-system",
+    "url": "/products/acer-chromebook-spin-512-r856t-tco-c8b3-12-n100-8gb-64gb-google-chrome-operating-system",
+    "qty": 4,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/NX_KE3EA_002_Acer_Chromebook_512_-_R856T-TCO-C8B3_-_N_wr_01.jpg"
    },
    {
     "brand": "Acer",
@@ -74,14 +74,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA-BUN1Q2_default.png"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo V15 G4 IRU Laptop — Core i5 · 512GB SSD (83GW0077ZA)",
-    "spec": "512GB SSD",
-    "price": "R14 354",
-    "handle": "lenovo-v15-g4-iru-i5-13420h-8gb-base-ddr4-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-home-64-15-6-fhd-tnhd-cam-wi-fi-ax-2x2-btn-fpr2-cell-38whr65w-3pin-zakb-us-eng1-year-carry-in-lenovo-16",
-    "url": "/products/lenovo-v15-g4-iru-i5-13420h-8gb-base-ddr4-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-home-64-15-6-fhd-tnhd-cam-wi-fi-ax-2x2-btn-fpr2-cell-38whr65w-3pin-zakb-us-eng1-year-carry-in-lenovo-16",
-    "qty": 33,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0077ZA-BUN2Q2_default.png"
+    "brand": "Dell",
+    "title": "Dell Pro 15 Essential 15.6\" Core i3 8GB 512GB Win 11 Pro Notebook",
+    "spec": "15.6\" screen",
+    "price": "R13 392",
+    "handle": "dell-pro-15-essential-15-6-core-i3-8gb-512gb-win-11-pro-notebook",
+    "url": "/products/dell-pro-15-essential-15-6-core-i3-8gb-512gb-win-11-pro-notebook",
+    "qty": 28,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/P/V/PV15250_RPLU_004_P_56c0.jpg"
    },
    {
     "brand": "HP",
@@ -94,14 +94,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D6ZT6EA_91d2.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 15 Essential PV15250 Laptop — 8GB (PV15250_RPLU_006_P8L)",
-    "spec": "Notebooks",
-    "price": "R20 525",
-    "handle": "dell-pro-15-essential-pv15250-i7-1355u-intel-rpl-p-u15-i7-8-layer-pcb-15-6-non-touch-fhd-120hz-wva-ips-anti-glare-250-nit-8-gb-1-x-8-gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd-graphics",
-    "url": "/products/dell-pro-15-essential-pv15250-i7-1355u-intel-rpl-p-u15-i7-8-layer-pcb-15-6-non-touch-fhd-120hz-wva-ips-anti-glare-250-nit-8-gb-1-x-8-gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd-graphics",
+    "brand": "Acer",
+    "title": "Acer EXO16 51 77QK Laptop — Core Ultra 7 · 16GB · 512GB SSD (NX.EM3EA.003)",
+    "spec": "512GB SSD",
+    "price": "R20 462",
+    "handle": "acer-exo16-51-77qk-intel-core-ultra-7-processor-155u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
+    "url": "/products/acer-exo16-51-77qk-intel-core-ultra-7-processor-155u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
     "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_006_P8L_default.jpg"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.003_default.jpg"
    },
    {
     "brand": "Acer",
@@ -132,7 +132,7 @@
     "price": "R22 021",
     "handle": "dell-pro-15-essential-pv15250-i7-1355u-intel-rpl-p-u15-i7-8-layer-pcb-15-6-non-touch-fhd-120hz-wva-ips-anti-glare-250-nit-16gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-fingerprint",
     "url": "/products/dell-pro-15-essential-pv15250-i7-1355u-intel-rpl-p-u15-i7-8-layer-pcb-15-6-non-touch-fhd-120hz-wva-ips-anti-glare-250-nit-16gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-fingerprint",
-    "qty": 91,
+    "qty": 90,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
@@ -142,18 +142,18 @@
     "price": "R30 243",
     "handle": "dell-pro-14-ai-14-core-u7-16gb-512gb-win-11-pro-notebook",
     "url": "/products/dell-pro-14-ai-14-core-u7-16gb-512gb-win-11-pro-notebook",
-    "qty": 28,
+    "qty": 24,
     "image": "https://www.pinnacle.co.za/media/catalog/product/B/T/BTO107_PC14250_6153.jpg"
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro 14 Plus PB14250 Laptop — Core Ultra 7 · 16GB (BTO216_PB14250_EMEA)",
+    "title": "Dell Pro 13 Plus Laptop — Core Ultra 7 (BTO212_PB13250_EMEA)",
     "spec": "Notebooks",
     "price": "R40 402",
-    "handle": "dell-pro-14-plus-pb14250-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-onboard-512-gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro",
-    "url": "/products/dell-pro-14-plus-pb14250-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-onboard-512-gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro",
-    "qty": 36,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO216_PB14250_EMEA_default.jpg"
+    "handle": "dell-pro-13-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16gb-lpddr5x-8533-mt-s-onboard-512gb-ssd-integrated-intel-arc-graphics-for-intelcore-ultra-7-266v-vpro-processor-16gb",
+    "url": "/products/dell-pro-13-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16gb-lpddr5x-8533-mt-s-onboard-512gb-ssd-integrated-intel-arc-graphics-for-intelcore-ultra-7-266v-vpro-processor-16gb",
+    "qty": 31,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO212_PB13250_EMEA_default.jpg"
    },
    {
     "brand": "Dell",
@@ -294,14 +294,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_HOME_R716G_wr_01a.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer VS2720G_W_FR 300W 89+ TCO10.0 EMEA CH Win Desktop PC (DT.R1PEA.00N)",
+    "brand": "Dell",
+    "title": "Dell Pro Tower Essential QVT1260 Core-i3 8GB 512GB Windows 11 Pro Desktop",
     "spec": "Desktops",
-    "price": "R16 369",
-    "handle": "acer-vs2720g-w-fr-300w-89-tco10-0-emea-ch-windows-11-pro-64-r40v04-intel-ci5-14400-8g-1-1024g-1-ssd-wi-fi-6e-2x2-bluetooth-intel-cnvi-usb-keyboard-mouse-built-in-speakers-odd-windows-11-professional",
-    "url": "/products/acer-vs2720g-w-fr-300w-89-tco10-0-emea-ch-windows-11-pro-64-r40v04-intel-ci5-14400-8g-1-1024g-1-ssd-wi-fi-6e-2x2-bluetooth-intel-cnvi-usb-keyboard-mouse-built-in-speakers-odd-windows-11-professional",
+    "price": "R16 372",
+    "handle": "dell-pro-tower-essential-qvt1260-core-i3-8gb-512gb-windows-11-pro-desktop",
+    "url": "/products/dell-pro-tower-essential-qvt1260-core-i3-8gb-512gb-windows-11-pro-desktop",
     "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DT.R1PEA.00N_default.png"
+    "image": "https://www.pinnacle.co.za/media/catalog/product/B/T/BTO001_QVT1260_EMEA_aad7.jpg"
    },
    {
     "brand": "Dell",
@@ -337,13 +337,13 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro Slim QCS1250 Desktop PC — Core Ultra 7 · 512GB SSD (BTO108_QCS1250_EMEA)",
+    "title": "Dell 24 AIO EC24250:Intel Desktop PC — Core i5 · 512GB SSD (EC24250_RPLU-R_007S)",
     "spec": "512GB SSD",
-    "price": "R31 865",
-    "handle": "dell-pro-slim-qcs1250-intel-core-ultra-7-265-13-tops-up-to-5-3-ghz-16gb-1x16gb-5600mt-s-ddr5-512gb-ssd-tlc-integrated-graphics-no-wi-fi-bluetooth-dell-kb216-multimedia-usb-keyboard-dell-ms116-optical",
-    "url": "/products/dell-pro-slim-qcs1250-intel-core-ultra-7-265-13-tops-up-to-5-3-ghz-16gb-1x16gb-5600mt-s-ddr5-512gb-ssd-tlc-integrated-graphics-no-wi-fi-bluetooth-dell-kb216-multimedia-usb-keyboard-dell-ms116-optical",
-    "qty": 11,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO108_QCS1250_EMEA_default.jpg"
+    "price": "R33 164",
+    "handle": "dell-24-aio-ec24250-intel-core-i5-1334u-12m-cache-up-to-4-6-ghz-23-8-fhd-1920x1080-antiglare-16gb-5200mt-s-ddr5-512gb-ssd-pcie-nvme-m-2-graphics-intel-uhdgraphics-camera-mirophone-5mp-ir-tilt-camera",
+    "url": "/products/dell-24-aio-ec24250-intel-core-i5-1334u-12m-cache-up-to-4-6-ghz-23-8-fhd-1920x1080-antiglare-16gb-5200mt-s-ddr5-512gb-ssd-pcie-nvme-m-2-graphics-intel-uhdgraphics-camera-mirophone-5mp-ir-tilt-camera",
+    "qty": 15,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/EC24250_RPLU-R_007S_default.jpg"
    },
    {
     "brand": "Dell",
@@ -484,14 +484,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__48__bbef.png"
    },
    {
-    "brand": "Asus",
-    "title": "Asus ROG Strix G16 G614PP Laptop — Ryzen 9",
+    "brand": "Dell",
+    "title": "Dell Alienware 16:Intel Laptop (AC16250_RPLH-R_007)",
     "spec": "Notebooks",
-    "price": "R50 621",
-    "handle": "asus-rog-strix-g16-g614pp-16-rtx5070-240hz-ryzen-9-8940hx-16gb-1tb-win-11-home-gaming-notebook",
-    "url": "/products/asus-rog-strix-g16-g614pp-16-rtx5070-240hz-ryzen-9-8940hx-16gb-1tb-win-11-home-gaming-notebook",
-    "qty": 8,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/0/2/02_G_New_16_L__8__d684.png"
+    "price": "R45 620",
+    "handle": "dell-alienware-16-intel-core-7-240h-24mb-up-to-5-2-ghz-16gb-2x8gb-5600mt-s-ddr5-16-0-wqxga-2560x1600-comfortviewplus-300nits-nvidia-geforce-rtx-4050-6gb-mediatek-wi-fi-7-mt7925-2x2-bluetooth-backlit",
+    "url": "/products/dell-alienware-16-intel-core-7-240h-24mb-up-to-5-2-ghz-16gb-2x8gb-5600mt-s-ddr5-16-0-wqxga-2560x1600-comfortviewplus-300nits-nvidia-geforce-rtx-4050-6gb-mediatek-wi-fi-7-mt7925-2x2-bluetooth-backlit",
+    "qty": 39,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/AC16250_RPLH-R_007_default.jpg"
    },
    {
     "brand": "Asus",
@@ -576,7 +576,7 @@
     "price": "R2 435",
     "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
     "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 635,
+    "qty": 570,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
    },
    {
@@ -606,7 +606,7 @@
     "price": "R2 444",
     "handle": "dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
     "url": "/products/dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
-    "qty": 77,
+    "qty": 76,
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPN_default.jpg"
    },
    {
@@ -642,14 +642,14 @@
     "image": "http://cdn.cs.1worldsync.com/05/4c/054ce9ac-adff-4f1a-ae29-83d3e471de5e.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi G Pro 27i 27\" 2K 1440p Mini LED IPS Gaming Monitor (180Hz, 1ms)",
-    "spec": "27\" screen",
-    "price": "R8 194",
-    "handle": "xiaomi-g-pro-27i-27-2k-1440p-mini-led-ips-gaming-monitor-180hz-1ms",
-    "url": "/products/xiaomi-g-pro-27i-27-2k-1440p-mini-led-ips-gaming-monitor-180hz-1ms",
-    "qty": 32,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/ELA5585EU_Xiaomi-G-Pro-27i_27-inch_2k_qhd_gaming_monitor_wr_01b.jpg"
+    "brand": "Dell",
+    "title": "Dell S3225QS 32\" UHD Monitor",
+    "spec": "32\" screen",
+    "price": "R8 495",
+    "handle": "dell-s3225qs-32-uhd-monitor",
+    "url": "/products/dell-s3225qs-32-uhd-monitor",
+    "qty": 68,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQWP__1__883d.jpg"
    },
    {
     "brand": "Dell",
@@ -680,7 +680,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 221,
+    "qty": 207,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -752,7 +752,7 @@
     "price": "R2 435",
     "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
     "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 635,
+    "qty": 570,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
    },
    {
@@ -776,24 +776,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/PCB-PM15-FHD_PCBuilder-FLEX-15.6-inch-Full-HD-IPS-Portable-Monitor_wr_01a.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi G24i 2026 24″ 200Hz Full HD 1080p IPS Gaming Monitor",
+    "brand": "MSI",
+    "title": "MSI MAG 255F X24 25″ FHD 240Hz IPS Gaming Monitor",
     "spec": "Monitors And Displays",
-    "price": "R2 546",
-    "handle": "xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
-    "url": "/products/xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
-    "qty": 135,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6364EU_Xiaomi-G24i-2026-24%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01b.jpg"
+    "price": "R2 661",
+    "handle": "msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
+    "url": "/products/msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
+    "qty": 138,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-X24_MSI-MAG-255F-X24-25-inch-FHD-240Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi G27Qi 2026 27″ 2K QHD 200Hz Fast IPS Gaming Monitor",
-    "spec": "Monitors And Displays",
-    "price": "R4 051",
-    "handle": "xiaomi-g27qi-2026-27-2k-qhd-200hz-fast-ips-gaming-monitor",
-    "url": "/products/xiaomi-g27qi-2026-27-2k-qhd-200hz-fast-ips-gaming-monitor",
-    "qty": 22,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6556EU_Xiaomi-G27Qi-2026-27-inch-2K-QHD-200Hz-IPS-Gaming-Monitor_wr_01a.jpg"
+    "brand": "HP",
+    "title": "HP Series 3 Pro 27\" FHD IPS Monitor",
+    "spec": "27\" screen",
+    "price": "R3 776",
+    "handle": "hp-series-3-pro-27-fhd-ips-monitor",
+    "url": "/products/hp-series-3-pro-27-fhd-ips-monitor",
+    "qty": 10,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/B/0/B0CG3UT_30b1.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -890,7 +890,7 @@
     "price": "R2 467",
     "handle": "apc-backup-ups-1200va-1-2kva-650w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
     "url": "https://ubratech.co.za/products/apc-backup-ups-1200va-1-2kva-650w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
-    "qty": 6,
+    "qty": 5,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BX1200MI_default.jpg"
    },
    {
@@ -1354,7 +1354,7 @@
     "price": "R6 969",
     "handle": "hp-laserjet-pro-4103dw-mfp-mono-printer",
     "url": "/products/hp-laserjet-pro-4103dw-mfp-mono-printer",
-    "qty": 64,
+    "qty": 69,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z627A_default.png"
    },
    {
@@ -1427,10 +1427,10 @@
     "brand": "Hikvision",
     "title": "Hikvision 2MP ColorVu Fixed Turret Camera",
     "spec": "HD camera · night vision",
-    "price": "R445",
+    "price": "R446",
     "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
     "url": "https://ubratech.co.za/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 5,
+    "qty": 1508,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
@@ -1623,23 +1623,23 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4\" 4MP 25X Colorvu & IR Network Speed Dome",
-    "spec": "4\" screen · 4MP",
-    "price": "R9 431",
-    "handle": "hikvision-4-4mp-25x-colorvu-ir-network-speed-dome",
-    "url": "/products/hikvision-4-4mp-25x-colorvu-ir-network-speed-dome",
-    "qty": 16,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2SE4C425MWG_E_14F0_09e8.png"
+    "title": "Hikvision 4MP DeepinView ANPR Moto Varifocal Bullet IP Camera",
+    "spec": "4MP",
+    "price": "R9 752",
+    "handle": "hikvision-4mp-deepinview-anpr-moto-varifocal-bullet-ip-camera",
+    "url": "/products/hikvision-4mp-deepinview-anpr-moto-varifocal-bullet-ip-camera",
+    "qty": 97,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/I/D/IDS_2CD7A46G2_P_IZHS2.8_12MM_ac9b.jpg"
    },
    {
     "brand": "Uniview",
-    "title": "Uniview UNV EASY Series 8-Channel NVR with 8 PoE Ports | NVR301-08B-LP8-IQ",
-    "spec": "Uniview NVR - 80 Mbps Incoming Bandwidth, Hard Drive Not Included, Sma",
-    "price": "R3 038",
-    "handle": "uniview-unv-easy-series-8-channel-nvr-with-8-poe-ports-nvr301-08b-lp8-iq",
-    "url": "/pages/uniview-unv-easy-series-8-channel-nvr-with-8-poe-ports-nvr301-08b-lp8-iq",
+    "title": "Uniview UNV 5MP LightHunter Motorized Dome IP Camera 2.7-13.5mm | IPC3235SB-ADZK-I0",
+    "spec": "Uniview Smart Analytics, PoE, IR 40m, 2.7-13.5mm Motorised, IP67, IK10",
+    "price": "R3 061",
+    "handle": "uniview-unv-5mp-lighthunter-motorized-dome-ip-camera-2-7-13-5mm-ipc3235sb-adzk-i0",
+    "url": "/pages/uniview-unv-5mp-lighthunter-motorized-dome-ip-camera-2-7-13-5mm-ipc3235sb-adzk-i0",
     "qty": 9,
-    "image": "https://miro.co.za/img/p/1/5/2/1/6/15216.jpg",
+    "image": "https://miro.co.za/img/p/4/8/6/8/4868.jpg",
     "enquiry": true
    },
    {
@@ -1798,7 +1798,7 @@
     "price": "R2 649",
     "handle": "ugreen-14-in-1-usb-type-c-to-usb-2x-hdmi-dp-rj45-docking-station",
     "url": "/products/ugreen-14-in-1-usb-type-c-to-usb-2x-hdmi-dp-rj45-docking-station",
-    "qty": 12,
+    "qty": 11,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/CM843-85489_UGreen_USB_Type-C_TO_USB2x_HDMIDPRJ45_Do_wr_01.jpg"
    }
   ]
@@ -1832,7 +1832,7 @@
     "price": "R724",
     "handle": "redragon-h889w-spectra-pro-over-ear-wireless-headphones-white",
     "url": "/products/redragon-h889w-spectra-pro-over-ear-wireless-headphones-white",
-    "qty": 20,
+    "qty": 19,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/RD-H889WG_Redragon-H889W-SPECTRA-PRO-Over-Ear-Wireless-Headphones-White_wr_01a.jpg"
    },
    {
@@ -1918,7 +1918,7 @@
     "price": "R4 438",
     "handle": "tp-link-jetstream-28-port-smart-managed-poe-switch",
     "url": "/products/tp-link-jetstream-28-port-smart-managed-poe-switch",
-    "qty": 11,
+    "qty": 10,
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/G/SG2428P_1_e994.png"
    },
    {
@@ -2029,7 +2029,7 @@
     "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
-    "qty": 128
+    "qty": 116
    },
    {
     "brand": "Kingston",
@@ -2043,23 +2043,23 @@
    },
    {
     "brand": "SanDisk",
-    "title": "SanDisk Portable SSD 1TB",
+    "title": "SANDISK Optimus GX 7100 NVMe SSD - 500GB, M.2 2280",
     "spec": "Storage",
-    "price": "R2 403",
-    "handle": "sandisk-portable-ssd-1tb",
-    "url": "/products/sandisk-portable-ssd-1tb",
-    "qty": 17,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__4__2cde.png"
+    "price": "R2 369",
+    "handle": "sandisk-optimus-gx-7100-nvme-ssd-500gb-m-2-2280",
+    "url": "/products/sandisk-optimus-gx-7100-nvme-ssd-500gb-m-2-2280",
+    "qty": 119,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_53d3.png"
    },
    {
-    "brand": "SanDisk",
-    "title": "SanDisk Extreme Portable SSD (V3) - 1TB",
+    "brand": "HPE",
+    "title": "HPE 240GB SATA RI SFF SC MV SSD",
     "spec": "Storage",
-    "price": "R5 364",
-    "handle": "sandisk-extreme-portable-ssd-v3-1tb",
-    "url": "/products/sandisk-extreme-portable-ssd-v3-1tb",
-    "qty": 11,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__2__954f.png"
+    "price": "R5 284",
+    "handle": "hpe-240gb-sata-ri-sff-sc-mv-ssd",
+    "url": "/products/hpe-240gb-sata-ri-sff-sc-mv-ssd",
+    "qty": 9,
+    "image": "http://cdn.cs.1worldsync.com/b9/a9/b9a91720-9782-40d7-89ce-e7f885eac582.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -2364,24 +2364,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/BHR8930GL_wr_01.jpg"
    },
    {
-    "brand": "REDRAGON",
-    "title": "REDRAGON Over-Ear PANDORA USB (Power Only)|Aux (Mic and Headset)…",
+    "brand": "Soundcore",
+    "title": "Havit SK832BT Ring Light Wless Speaker Black",
     "spec": "Headsets",
-    "price": "R496",
-    "handle": "redragon-over-ear-pandora-usb-power-only-aux-mic-and-headset-rgb-gaming-headset-black",
-    "url": "/products/redragon-over-ear-pandora-usb-power-only-aux-mic-and-headset-rgb-gaming-headset-black",
-    "qty": 144,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2020/08/RD-H350RGB-1_wr_01.jpg"
+    "price": "R473",
+    "handle": "havit-sk832bt-ring-light-wless-speaker-black",
+    "url": "/products/havit-sk832bt-ring-light-wless-speaker-black",
+    "qty": 1,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/HAV-SK832BT_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro Desktop Speakerphone - SP3022",
-    "spec": "Headsets",
-    "price": "R1 235",
-    "handle": "dell-pro-desktop-speakerphone-sp3022",
-    "url": "/products/dell-pro-desktop-speakerphone-sp3022",
-    "qty": 3,
-    "image": "http://cdn.cs.1worldsync.com/b5/eb/b5eb657e-f223-46e6-a22d-ce26532bde7b.jpg"
+    "brand": "Xiaomi",
+    "title": "Xiaomi Redmi Headphones Neo ANC Wireless Over-Ears - White",
+    "spec": "Tv And Audio",
+    "price": "R1 213",
+    "handle": "xiaomi-redmi-headphones-neo-anc-wireless-over-ears-white",
+    "url": "/products/xiaomi-redmi-headphones-neo-anc-wireless-over-ears-white",
+    "qty": 24,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/BHR08W2GL_Redmi-Headphones-Neo-ANC-Wireless-Over-Ears-White_wr_01a.jpg"
    },
    {
     "brand": "Dell",
@@ -2426,14 +2426,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2018/09/N301-10-SV-PRO_wr_01a.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi 3A Braided USB Type-C to USB Type-C Cable 1M - White",
+    "brand": "UGREEN",
+    "title": "UGREEN Cat8 Nylon Braided Ethernet Cable - 40Gbps with Modular Plugs - 5m",
     "spec": "Cables And Adapters",
-    "price": "R131",
-    "handle": "xiaomi-3a-braided-usb-type-c-to-usb-type-c-cable-1m-white",
-    "url": "/products/xiaomi-3a-braided-usb-type-c-to-usb-type-c-cable-1m-white",
-    "qty": 143,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/BHR0878GL_Xiaomi-3A-Braided-USB-Type-C-to-USB-Type-C-Cable-1M-White_wr_01a.jpg"
+    "price": "R128",
+    "handle": "ugreen-cat8-nylon-braided-ethernet-cable-40gbps-with-modular-plugs-5m",
+    "url": "/products/ugreen-cat8-nylon-braided-ethernet-cable-40gbps-with-modular-plugs-5m",
+    "qty": 14,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/nw153-wr-02.jpg"
    },
    {
     "brand": "Targus",
@@ -2442,7 +2442,7 @@
     "price": "R453",
     "handle": "targus-wireless-presenter-with-laser-pointer-lear-intuitive-layout-2-4-ghz-wireless-technology-operates-up-to-15-metres-away-usb-port-required-true-plug-and-play-device-no-drivers-required-pc-mac-and",
     "url": "/products/targus-wireless-presenter-with-laser-pointer-lear-intuitive-layout-2-4-ghz-wireless-technology-operates-up-to-15-metres-away-usb-port-required-true-plug-and-play-device-no-drivers-required-pc-mac-and",
-    "qty": 32,
+    "qty": 31,
     "image": "https://s3.amazonaws.com/tarsus.co.za/AMP13EU_default.jpg"
    },
    {
@@ -2488,24 +2488,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/RD-BM-4049_wr_01.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port Connect Ergo Shape Bluetooth Rechargeable Mouse",
-    "spec": "Mice",
+    "brand": "Logitech",
+    "title": "Logitech MK235 Wireless Mouse & Keyboard Combo - Black.…",
+    "spec": "Wired Mouse",
     "price": "R351",
-    "handle": "port-connect-ergo-shape-bluetooth-rechargeable-mouse",
-    "url": "/products/port-connect-ergo-shape-bluetooth-rechargeable-mouse",
-    "qty": 40,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/910007_.PORT-MOUSE-ERGO-RECHARGEABLE-BT-RIGHT_wr_08.jpg"
+    "handle": "logitech-mk235-wireless-mouse-keyboard-combo-black-spill-resistant-keyboard-smooth-mouse-long-battery-life-one-usb-nano-receiver",
+    "url": "/products/logitech-mk235-wireless-mouse-keyboard-combo-black-spill-resistant-keyboard-smooth-mouse-long-battery-life-one-usb-nano-receiver",
+    "qty": 84,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/920-007931_default.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port Executive Wireless Black Mouse",
-    "spec": "Wired Mouse",
-    "price": "R729",
-    "handle": "port-executive-wireless-black-mouse",
-    "url": "/products/port-executive-wireless-black-mouse",
-    "qty": 100,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_044c.png"
+    "brand": "Redragon",
+    "title": "Redragon BRAGI PRO K688 98+1 Gasket Wireless Mechanical Keyboard…",
+    "spec": "Keyboards",
+    "price": "R737",
+    "handle": "redragon-bragi-pro-k688-98-1-gasket-wireless-mechanical-keyboard-triple-mode-rgb-hot-swappable-cream-linear-switches",
+    "url": "/products/redragon-bragi-pro-k688-98-1-gasket-wireless-mechanical-keyboard-triple-mode-rgb-hot-swappable-cream-linear-switches",
+    "qty": 26,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/RD-K688GB-RGB-PRO_REDRAGON-KB-MECH-BRAGI-PRO-RGB-BK_wr_01.jpg"
    },
    {
     "brand": "Keychron",
@@ -2555,13 +2555,13 @@
   },
   {
    "brand": "Grandstream",
-   "title": "Grandstream Enterprise Outdoor WiFi 6 Long Range Access Point | GWN7664ELR",
-   "spec": "6Gbps, 4x4:4 2.4/5G, 1x 2.5GbE, 1x SFP 2.5G, 512 client devices, Embed",
-   "price": "R3 185",
-   "handle": "grandstream-enterprise-outdoor-wifi-6-long-range-access-point-gwn7664elr",
-   "url": "/pages/grandstream-enterprise-outdoor-wifi-6-long-range-access-point-gwn7664elr",
+   "title": "Grandstream Enterprise WiFi 7 Indoor Access Point | GWN7672",
+   "spec": "3.6Gbps, Dual-band 2x2:2 MU-MIMO,256 client devices, 2x 2.5GbE, BLE, E",
+   "price": "R3 176",
+   "handle": "grandstream-enterprise-wifi-7-indoor-access-point-gwn7672",
+   "url": "/pages/grandstream-enterprise-wifi-7-indoor-access-point-gwn7672",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/5/3/5/6/15356.jpg",
+   "image": "https://miro.co.za/img/p/1/8/6/6/5/18665.jpg",
    "enquiry": true
   },
   {
