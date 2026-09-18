@@ -136,24 +136,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 14 AI 14\" Core-U7 16GB 512GB Win 11 Pro Notebook",
-    "spec": "14\" screen",
-    "price": "R30 243",
-    "handle": "dell-pro-14-ai-14-core-u7-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/dell-pro-14-ai-14-core-u7-16gb-512gb-win-11-pro-notebook",
-    "qty": 20,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/T/BTO107_PC14250_6153.jpg"
+    "brand": "HP",
+    "title": "HP ProBook 4 G2i AI 16In Laptop — 16GB · 512GB SSD",
+    "spec": "512GB SSD",
+    "price": "R30 435",
+    "handle": "hp-probook-4-g2i-ai-16in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "url": "/products/hp-probook-4-g2i-ai-16in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "qty": 73,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DW2G5ET_default.png"
    },
    {
     "brand": "Dell",
-    "title": "Dell Alienware 16 Aurora 16\" RTX 4050 Core 5-210H 16GB 512GB Win 11 Pro Gaming Notebook",
-    "spec": "16\" screen",
-    "price": "R40 142",
-    "handle": "dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
-    "url": "/products/dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
-    "qty": 4,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/C/AC16250_RPLH_R_006_794e.jpg"
+    "title": "Dell Pro 13 Plus Laptop — Core Ultra 7 (BTO212_PB13250_EMEA)",
+    "spec": "Notebooks",
+    "price": "R40 402",
+    "handle": "dell-pro-13-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16gb-lpddr5x-8533-mt-s-onboard-512gb-ssd-integrated-intel-arc-graphics-for-intelcore-ultra-7-266v-vpro-processor-16gb",
+    "url": "/products/dell-pro-13-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16gb-lpddr5x-8533-mt-s-onboard-512gb-ssd-integrated-intel-arc-graphics-for-intelcore-ultra-7-266v-vpro-processor-16gb",
+    "qty": 31,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO212_PB13250_EMEA_default.jpg"
    },
    {
     "brand": "Dell",
@@ -332,18 +332,18 @@
     "price": "R25 562",
     "handle": "lenovo-m70s-g6-sff-u7-265-13-tops-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-integrated-windows-11-pro-64-intel-ax211-2x2ax-6e-bluetooth-internal-speaker-usb-trd-us-eng-usb-clp-mouse-pub-fra-ara-eng-1year",
     "url": "/products/lenovo-m70s-g6-sff-u7-265-13-tops-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-integrated-windows-11-pro-64-intel-ax211-2x2ax-6e-bluetooth-internal-speaker-usb-trd-us-eng-usb-clp-mouse-pub-fra-ara-eng-1year",
-    "qty": 18,
+    "qty": 23,
     "image": "https://s3.amazonaws.com/tarsus.co.za/12YQ000ESA_default.jpg"
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro Slim QCS1250 Desktop PC — Core Ultra 7 · 512GB SSD (BTO108_QCS1250_EMEA)",
+    "title": "Dell 24 AiO EC24250:Intel Desktop PC — Core i5 · 512GB SSD (EC24250_RPLU-R_007S)",
     "spec": "512GB SSD",
-    "price": "R31 865",
-    "handle": "dell-pro-slim-qcs1250-intel-core-ultra-7-265-13-tops-up-to-5-3-ghz-16gb-1x16gb-5600mt-s-ddr5-512gb-ssd-tlc-integrated-graphics-no-wi-fi-bluetooth-dell-kb216-multimedia-usb-keyboard-dell-ms116-optical",
-    "url": "/products/dell-pro-slim-qcs1250-intel-core-ultra-7-265-13-tops-up-to-5-3-ghz-16gb-1x16gb-5600mt-s-ddr5-512gb-ssd-tlc-integrated-graphics-no-wi-fi-bluetooth-dell-kb216-multimedia-usb-keyboard-dell-ms116-optical",
-    "qty": 11,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO108_QCS1250_EMEA_default.jpg"
+    "price": "R33 164",
+    "handle": "dell-24-aio-ec24250-intel-core-i5-1334u-12m-cache-up-to-4-6-ghz-23-8-fhd-1920x1080-antiglare-16gb-5200mt-s-ddr5-512gb-ssd-pcie-nvme-m-2-graphics-intel-uhdgraphics-camera-mirophone-5mp-ir-tilt-camera",
+    "url": "/products/dell-24-aio-ec24250-intel-core-i5-1334u-12m-cache-up-to-4-6-ghz-23-8-fhd-1920x1080-antiglare-16gb-5200mt-s-ddr5-512gb-ssd-pcie-nvme-m-2-graphics-intel-uhdgraphics-camera-mirophone-5mp-ir-tilt-camera",
+    "qty": 13,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/EC24250_RPLU-R_007S_default.jpg"
    },
    {
     "brand": "Dell",
@@ -475,23 +475,23 @@
    },
    {
     "brand": "Asus",
-    "title": "Asus TUF Gaming F16 16\" Core-i7 16GB 512GB Win 11 Home Notebook",
-    "spec": "16\" screen",
-    "price": "R35 887",
-    "handle": "asus-tuf-gaming-f16-16-core-i7-16gb-512gb-win-11-home-notebook",
-    "url": "/products/asus-tuf-gaming-f16-16-core-i7-16gb-512gb-win-11-home-notebook",
-    "qty": 23,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__48__bbef.png"
+    "title": "Asus ROG Strix G16 G614PP Laptop — Ryzen 9",
+    "spec": "Notebooks",
+    "price": "R39 287",
+    "handle": "asus-rog-strix-g16-g614pp-16-rtx5070-240hz-ryzen-9-8940hx-16gb-1tb-win-11-home-gaming-notebook",
+    "url": "/products/asus-rog-strix-g16-g614pp-16-rtx5070-240hz-ryzen-9-8940hx-16gb-1tb-win-11-home-gaming-notebook",
+    "qty": 8,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/0/2/02_G_New_16_L__8__d684.png"
    },
    {
     "brand": "Asus",
-    "title": "Asus ROG Zephyrus G16 Gaming Laptop 16″ | Ultr Laptop — 16GB · 1TB SSD (GU605CP-OU91610G0X)",
-    "spec": "1TB SSD",
-    "price": "R43 317",
-    "handle": "asus-rog-zephyrus-g16-gaming-laptop-16-ultra-9-285h-16gb-ddr5-rtx-5070-1tb-ssd-windows-11-pro",
-    "url": "/products/asus-rog-zephyrus-g16-gaming-laptop-16-ultra-9-285h-16gb-ddr5-rtx-5070-1tb-ssd-windows-11-pro",
-    "qty": 9,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/GU605CP-OU91610G0X_Asus-ROG-Zephyrus-G16-Intel-Core-Ultra-9-285H-16-inch-Windows-11-Gaming-Laptop-Grey_wr_01a.jpg"
+    "title": "Asus TUF Gaming F16 16\" Core-i7 16GB 1TB Win 11 Pro Notebook",
+    "spec": "16\" screen",
+    "price": "R43 827",
+    "handle": "asus-tuf-gaming-f16-16-core-i7-16gb-1tb-win-11-pro-notebook",
+    "url": "/products/asus-tuf-gaming-f16-16-core-i7-16gb-1tb-win-11-pro-notebook",
+    "qty": 11,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__44__6285.png"
    },
    {
     "brand": "Asus",
@@ -667,10 +667,10 @@
     "brand": "Dell",
     "title": "Dell SE2426H 24\" FHD Gaming Monitor",
     "spec": "High refresh · smooth motion",
-    "price": "R1 949",
+    "price": "R1 933",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 142,
+    "qty": 999,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -800,14 +800,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GU30WPRO_wr_01a.jpg"
    },
    {
-    "brand": "Hikvision",
-    "title": "Hikvision 1000VA 1KVA UPS",
-    "spec": "1KVA UPS",
-    "price": "R1 024",
-    "handle": "hikvision-1000va-1kva-ups",
-    "url": "/products/hikvision-1000va-1kva-ups",
-    "qty": 425,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
+    "brand": "Lalela",
+    "title": "Lalela R1818 Wi-Fi UPS for Router and ONT 48.8WH 6-8 Hour Runtime",
+    "spec": "Ups And Power",
+    "price": "R442",
+    "handle": "lalela-r1818-wi-fi-ups-for-router-and-ont-48-8wh-6-8-hour-runtime",
+    "url": "/products/lalela-r1818-wi-fi-ups-for-router-and-ont-48-8wh-6-8-hour-runtime",
+    "qty": 21,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/LAL-R1818_default.jpg"
    },
    {
     "brand": "Eaton",
@@ -816,7 +816,7 @@
     "price": "R1 648",
     "handle": "eaton-5e-900va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-900va-gen2-usb-iec-ups",
-    "qty": 60,
+    "qty": 57,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E900UI_761f.png"
    },
    {
@@ -880,18 +880,18 @@
     "price": "R1 648",
     "handle": "eaton-5e-900va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-900va-gen2-usb-iec-ups",
-    "qty": 60,
+    "qty": 57,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E900UI_761f.png"
    },
    {
     "brand": "Eaton",
-    "title": "Eaton 5E 1600VA GEN2 USB IEC UPS",
+    "title": "Eaton 5E 2200VA GEN2 USB IEC UPS",
     "spec": "Ups And Power",
-    "price": "R2 972",
-    "handle": "eaton-5e-1600va-gen2-usb-iec-ups",
-    "url": "/products/eaton-5e-1600va-gen2-usb-iec-ups",
-    "qty": 10,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
+    "price": "R3 701",
+    "handle": "eaton-5e-2200va-gen2-usb-iec-ups",
+    "url": "/products/eaton-5e-2200va-gen2-usb-iec-ups",
+    "qty": 12,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E2200UI_1_03c6.png"
    },
    {
     "brand": "APC",
@@ -949,13 +949,13 @@
    },
    {
     "brand": "APC",
-    "title": "APC Smart Line Interative 1500VA/ 1.5KVA 900W UPS Tower Rack Mount…",
-    "spec": "1.5KVA UPS",
-    "price": "R11 445",
-    "handle": "apc-smart-line-interative-1500va-1-5kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
-    "url": "/products/apc-smart-line-interative-1500va-1-5kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
-    "qty": 2,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SMC1500IC_default.jpg"
+    "title": "APC Smart Line Interactive 1000VA/ 1KVA 600W UPS Tower Rack Mount…",
+    "spec": "1KVA UPS",
+    "price": "R8 108",
+    "handle": "apc-smart-line-interactive-1000va-1kva-600w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
+    "url": "/products/apc-smart-line-interactive-1000va-1kva-600w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
+    "qty": 3,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SMC1000IC_default.jpg"
    },
    {
     "brand": "Eaton",
@@ -1060,7 +1060,7 @@
     "price": "R1 623",
     "handle": "cudy-ax1500-gigabit-mesh-wi-fi-6-system-2-pack",
     "url": "/products/cudy-ax1500-gigabit-mesh-wi-fi-6-system-2-pack",
-    "qty": 67,
+    "qty": 65,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/12/M1500-2PACK_Cudy-AX1500-Dual-Band-Wi-Fi-6-Mesh-Kit-With-Gigabit-2Pack.jpg"
    },
    {
@@ -1102,7 +1102,7 @@
     "price": "R1 623",
     "handle": "cudy-ax1500-gigabit-mesh-wi-fi-6-system-2-pack",
     "url": "/products/cudy-ax1500-gigabit-mesh-wi-fi-6-system-2-pack",
-    "qty": 67,
+    "qty": 65,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/12/M1500-2PACK_Cudy-AX1500-Dual-Band-Wi-Fi-6-Mesh-Kit-With-Gigabit-2Pack.jpg"
    },
    {
@@ -1292,7 +1292,7 @@
     "price": "R1 578",
     "handle": "xiaomi-portable-photo-printer-1s-silver",
     "url": "/products/xiaomi-portable-photo-printer-1s-silver",
-    "qty": 50,
+    "qty": 48,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/BHR9974GL_Xiaomi-Portable-Photo-Printer-S1_04.jpeg"
    },
    {
@@ -1694,7 +1694,7 @@
     "price": "R728",
     "handle": "ugreen-9-in-1-type-c-hub-hdmi-vga-lan-sd-tf-100w-pd-usb3-0",
     "url": "/products/ugreen-9-in-1-type-c-hub-hdmi-vga-lan-sd-tf-100w-pd-usb3-0",
-    "qty": 68,
+    "qty": 56,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM498-15600-wr-01a.jpg"
    },
    {
@@ -1778,7 +1778,7 @@
     "price": "R166",
     "handle": "ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
     "url": "/products/ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
-    "qty": 88,
+    "qty": 83,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CR113-20290_UGREEN-4-Port-USB-3.0-Hub-with-Micro-USB_wr_01a.jpg"
    },
    {
@@ -1798,7 +1798,7 @@
     "price": "R728",
     "handle": "ugreen-9-in-1-type-c-hub-hdmi-vga-lan-sd-tf-100w-pd-usb3-0",
     "url": "/products/ugreen-9-in-1-type-c-hub-hdmi-vga-lan-sd-tf-100w-pd-usb3-0",
-    "qty": 68,
+    "qty": 56,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM498-15600-wr-01a.jpg"
    },
    {
@@ -2172,7 +2172,7 @@
     "price": "R1 393",
     "handle": "asus-geforce-gt-710-2gb-gddr5-evo-graphics-card",
     "url": "/products/asus-geforce-gt-710-2gb-gddr5-evo-graphics-card",
-    "qty": 122,
+    "qty": 121,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/04/ASUS_GT710-SL-2GD5-BRK-EVO_wr_01a.jpg"
    },
    {
@@ -2370,7 +2370,7 @@
     "price": "R116",
     "handle": "xiaomi-in-ear-headphones-type-c-black",
     "url": "/products/xiaomi-in-ear-headphones-type-c-black",
-    "qty": 172,
+    "qty": 169,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/BHR8930GL_wr_01.jpg"
    },
    {
@@ -2436,14 +2436,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/BHR0878GL_Xiaomi-3A-Braided-USB-Type-C-to-USB-Type-C-Cable-1M-White_wr_01a.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi 20W Wireless Charging Stand",
-    "spec": "Power Adapter",
-    "price": "R462",
-    "handle": "xiaomi-20w-wireless-charging-stand",
-    "url": "/products/xiaomi-20w-wireless-charging-stand",
-    "qty": 134,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2021/01/GDS4145GL_wr_01.jpg"
+    "brand": "HP",
+    "title": "HP Nano Combination Cable Lock 49 x 18 x 9 mm; 8 mm (diameter) One-Year Limited Warranty",
+    "spec": "Accessories",
+    "price": "R465",
+    "handle": "hp-nano-combination-cable-lock-49-x-18-x-9-mm-8-mm-diameter-one-year-limited-warranty",
+    "url": "/products/hp-nano-combination-cable-lock-49-x-18-x-9-mm-8-mm-diameter-one-year-limited-warranty",
+    "qty": 49,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/63B28AA_default.jpg"
    },
    {
     "brand": "Lenovo",
