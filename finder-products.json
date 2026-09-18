@@ -74,14 +74,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA-BUN1Q2_default.png"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo V15 G4 IRU Laptop — Core i5 · 512GB SSD (83GW0077ZA)",
-    "spec": "512GB SSD",
-    "price": "R14 354",
-    "handle": "lenovo-v15-g4-iru-i5-13420h-8gb-base-ddr4-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-home-64-15-6-fhd-tnhd-cam-wi-fi-ax-2x2-btn-fpr2-cell-38whr65w-3pin-zakb-us-eng1-year-carry-in-lenovo-16",
-    "url": "/products/lenovo-v15-g4-iru-i5-13420h-8gb-base-ddr4-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-home-64-15-6-fhd-tnhd-cam-wi-fi-ax-2x2-btn-fpr2-cell-38whr65w-3pin-zakb-us-eng1-year-carry-in-lenovo-16",
-    "qty": 32,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0077ZA-BUN2Q2_default.png"
+    "brand": "Dell",
+    "title": "Dell Pro 15 Essential 15.6\" Core i3 8GB 512GB Win 11 Pro Notebook",
+    "spec": "15.6\" screen",
+    "price": "R13 392",
+    "handle": "dell-pro-15-essential-15-6-core-i3-8gb-512gb-win-11-pro-notebook",
+    "url": "/products/dell-pro-15-essential-15-6-core-i3-8gb-512gb-win-11-pro-notebook",
+    "qty": 7,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/P/V/PV15250_RPLU_004_P_56c0.jpg"
    },
    {
     "brand": "HP",
@@ -408,7 +408,7 @@
     "price": "R22 665",
     "handle": "acer-nitro-v-16-r7-260-16gb-1tb-16in-wuxga-ips-180hz-display-5050-windows-11-home",
     "url": "https://ubratech.co.za/products/acer-nitro-v-16-r7-260-16gb-1tb-16in-wuxga-ips-180hz-display-5050-windows-11-home",
-    "qty": 3,
+    "qty": 2,
     "image": "https://s3.amazonaws.com/tarsus.co.za/NH.QYWEA.002_default.png"
    },
    {
@@ -638,7 +638,7 @@
     "price": "R8 495",
     "handle": "dell-s3225qs-32-uhd-monitor",
     "url": "/products/dell-s3225qs-32-uhd-monitor",
-    "qty": 64,
+    "qty": 61,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQWP__1__883d.jpg"
    },
    {
@@ -1354,7 +1354,7 @@
     "price": "R6 969",
     "handle": "hp-laserjet-pro-4103dw-mfp-mono-printer",
     "url": "/products/hp-laserjet-pro-4103dw-mfp-mono-printer",
-    "qty": 68,
+    "qty": 63,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z627A_default.png"
    },
    {
