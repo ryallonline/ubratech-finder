@@ -70,7 +70,7 @@
     "price": "R12 567",
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
-    "qty": 82,
+    "qty": 81,
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA-BUN1Q2_default.png"
    },
    {
@@ -94,14 +94,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D6ZT6EA_91d2.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 15 Essential PV15250 Laptop — 8GB (PV15250_RPLU_006_P8L)",
-    "spec": "Notebooks",
-    "price": "R20 525",
-    "handle": "dell-pro-15-essential-pv15250-i7-1355u-intel-rpl-p-u15-i7-8-layer-pcb-15-6-non-touch-fhd-120hz-wva-ips-anti-glare-250-nit-8-gb-1-x-8-gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd-graphics",
-    "url": "/products/dell-pro-15-essential-pv15250-i7-1355u-intel-rpl-p-u15-i7-8-layer-pcb-15-6-non-touch-fhd-120hz-wva-ips-anti-glare-250-nit-8-gb-1-x-8-gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd-graphics",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_006_P8L_default.jpg"
+    "brand": "Acer",
+    "title": "Acer Nitro V 15 Core 7 240H 16GB 512GB 4050 15.6\" FHD IPS 165Hz Display Windows 11 Home",
+    "spec": "15.6\" screen",
+    "price": "R20 776",
+    "handle": "acer-nitro-v-15-core-7-240h-16gb-512gb-4050-15-6-fhd-ips-165hz-display-windows-11-home",
+    "url": "/products/acer-nitro-v-15-core-7-240h-16gb-512gb-4050-15-6-fhd-ips-165hz-display-windows-11-home",
+    "qty": 1,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NH.QUAEA.00D_default.jpg"
    },
    {
     "brand": "Acer",
@@ -147,13 +147,13 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro 13 Premium PA13250 Ultra 5 236V Copil Laptop — 512GB SSD",
-    "spec": "512GB SSD",
-    "price": "R39 959",
-    "handle": "dell-pro-13-premium-pa13250-ultra-5-236v-copilot-16gb-cant-upg-512gb-ssd-gen4-13-3-fhd-arc-fgrpr-cams-mic-wlan-bt-backlit-kb-5g-3-cell-w11pro-vpro-3y-prospt",
-    "url": "/products/dell-pro-13-premium-pa13250-ultra-5-236v-copilot-16gb-cant-upg-512gb-ssd-gen4-13-3-fhd-arc-fgrpr-cams-mic-wlan-bt-backlit-kb-5g-3-cell-w11pro-vpro-3y-prospt",
-    "qty": 11,
-    "image": "https://staxdstoragecdn.blob.core.windows.net/axd-live/dell_bto203_pa13250_emea-5g.jpg"
+    "title": "Dell Alienware 16 Aurora 16\" RTX 4050 Core 5-210H 16GB 512GB Win 11 Pro Gaming Notebook",
+    "spec": "16\" screen",
+    "price": "R40 142",
+    "handle": "dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
+    "url": "/products/dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
+    "qty": 4,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/C/AC16250_RPLH_R_006_794e.jpg"
    },
    {
     "brand": "Dell",
@@ -253,13 +253,13 @@
    },
    {
     "brand": "Giada",
-    "title": "Giada VM27 with N6210 4G DDR4 on board, 64G EMMC on board",
+    "title": "Giada DK310 Celeron J6412 4GB",
     "spec": "Desktops",
-    "price": "R7 898",
-    "handle": "giada-vm27-with-n6210-4g-ddr4-on-board-64g-emmc-on-board",
-    "url": "/products/giada-vm27-with-n6210-4g-ddr4-on-board-64g-emmc-on-board",
-    "qty": 26,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/VM27-N621042E6G-GIA_wr_01a.jpg"
+    "price": "R8 045",
+    "handle": "giada-dk310-celeron-j6412-4gb",
+    "url": "/products/giada-dk310-celeron-j6412-4gb",
+    "qty": 30,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/11/DK310-J641242M0G-GIA_wr_01a.jpg"
    },
    {
     "brand": "Giada",
@@ -320,7 +320,7 @@
     "price": "R21 701",
     "handle": "dell-pro-tower-essential-qvt1260-intel-core-ultra-5-225-20-mb-cache-10-cores-10-threads-up-to-4-9ghz-65w-16gb-1-x-16gb-ddr5-5600-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-mediatek-wi-fi-6",
     "url": "/products/dell-pro-tower-essential-qvt1260-intel-core-ultra-5-225-20-mb-cache-10-cores-10-threads-up-to-4-9ghz-65w-16gb-1-x-16gb-ddr5-5600-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-mediatek-wi-fi-6",
-    "qty": 18,
+    "qty": 15,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO101_QVT1260_EMEA_default.jpg"
    }
   ],
@@ -428,7 +428,7 @@
     "price": "R19 139",
     "handle": "acer-nitro-v-15-gaming-laptop-15-6-intel-core-5-210h-16gb-512gb-rtx-4050-6gb-windows-11-home",
     "url": "/products/acer-nitro-v-15-gaming-laptop-15-6-intel-core-5-210h-16gb-512gb-rtx-4050-6gb-windows-11-home",
-    "qty": 11,
+    "qty": 10,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NH.QUAEA_.00C_Acer-NITRO-V-15-Gaming-Laptop-15.6inch_wr001.jpg"
    },
    {
@@ -485,13 +485,23 @@
    },
    {
     "brand": "Asus",
-    "title": "Asus ROG Strix G16 Gaming Laptop — 32GB · 1TB SSD",
+    "title": "Asus ROG Zephyrus G16 Gaming Laptop 16″ | Ultr Laptop — 16GB · 1TB SSD (GU605CP-OU91610G0X)",
     "spec": "1TB SSD",
-    "price": "R67 011",
-    "handle": "asus-rog-strix-g16-gaming-laptop-16-ultra-9-275hx-32gb-ddr5-rtx-5080-1tb-ssd-windows-11-home",
-    "url": "/products/asus-rog-strix-g16-gaming-laptop-16-ultra-9-275hx-32gb-ddr5-rtx-5080-1tb-ssd-windows-11-home",
+    "price": "R43 317",
+    "handle": "asus-rog-zephyrus-g16-gaming-laptop-16-ultra-9-285h-16gb-ddr5-rtx-5070-1tb-ssd-windows-11-pro",
+    "url": "/products/asus-rog-zephyrus-g16-gaming-laptop-16-ultra-9-285h-16gb-ddr5-rtx-5070-1tb-ssd-windows-11-pro",
+    "qty": 9,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/GU605CP-OU91610G0X_Asus-ROG-Zephyrus-G16-Intel-Core-Ultra-9-285H-16-inch-Windows-11-Gaming-Laptop-Grey_wr_01a.jpg"
+   },
+   {
+    "brand": "Asus",
+    "title": "Asus ROG Strix G16 16\" Core-U9 32GB 1TB Win 11 Home Notebook",
+    "spec": "16\" screen",
+    "price": "R77 170",
+    "handle": "asus-rog-strix-g16-16-core-u9-32gb-1tb-win-11-home-notebook",
+    "url": "/products/asus-rog-strix-g16-16-core-u9-32gb-1tb-win-11-home-notebook",
     "qty": 1,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/G615LW-U93210G0W_Asus-ROG-Strix-G16-Intel-Core-Ultra-9-275HX-16-inch-Windows-11-Gaming-Laptop-Grey_wr_01a.jpg"
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__46__957f.png"
    }
   ],
   "desktop": [
@@ -586,7 +596,7 @@
     "price": "R2 448",
     "handle": "xiaomi-a27i-2026-27-144hz-full-hd-1080p-ips-office-monitor",
     "url": "/products/xiaomi-a27i-2026-27-144hz-full-hd-1080p-ips-office-monitor",
-    "qty": 110,
+    "qty": 109,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6410EU_Xiaomi-A27i-2026-27-inch-144Hz-Full-HD-1080P-IPS-Office-Monitor_wr_01a.jpg"
    },
    {
@@ -606,7 +616,7 @@
     "price": "R5 950",
     "handle": "lg-ultragear-27-qhd-gaming-monitor",
     "url": "/products/lg-ultragear-27-qhd-gaming-monitor",
-    "qty": 101,
+    "qty": 105,
     "image": "https://www.pinnacle.co.za/media/catalog/product/3/2/32GS60QC_B.AFBQ_6413.jpg"
    }
   ],
@@ -628,18 +638,18 @@
     "price": "R8 495",
     "handle": "dell-s3225qs-32-uhd-monitor",
     "url": "/products/dell-s3225qs-32-uhd-monitor",
-    "qty": 61,
+    "qty": 60,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQWP__1__883d.jpg"
    },
    {
     "brand": "Dell",
-    "title": "Dell Alienware 27 4K QD-OLED 240Hz Gaming Monitor (210-BQWV)",
-    "spec": "Monitors And Displays",
-    "price": "R16 369",
-    "handle": "dell-alienware-27-4k-qd-oled-gaming-monitor-resolution-refresh-rate-3840-x-2160-240hz-stand-adjustments-tilt-ivot-height-swivel-connectivity-displayport-1-4-2-hdmi-ports-usb-5gbps-3-year-advance",
-    "url": "/products/dell-alienware-27-4k-qd-oled-gaming-monitor-resolution-refresh-rate-3840-x-2160-240hz-stand-adjustments-tilt-ivot-height-swivel-connectivity-displayport-1-4-2-hdmi-ports-usb-5gbps-3-year-advance",
-    "qty": 3,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BQWV_default.png"
+    "title": "Dell P2722HE 27\" FHD IPS Monitor",
+    "spec": "27\" screen",
+    "price": "R17 762",
+    "handle": "dell-p2722he-27-fhd-ips-monitor",
+    "url": "/products/dell-p2722he-27-fhd-ips-monitor",
+    "qty": 5,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BMDW_1_c0eb.png"
    },
    {
     "brand": "Asus",
@@ -660,7 +670,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 146,
+    "qty": 142,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -694,14 +704,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HV0EE.W01_default.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi G Pro 27i 27\" 2K 1440p Mini LED IPS Gaming Monitor (180Hz, 1ms)",
-    "spec": "27\" screen",
-    "price": "R8 194",
-    "handle": "xiaomi-g-pro-27i-27-2k-1440p-mini-led-ips-gaming-monitor-180hz-1ms",
-    "url": "/products/xiaomi-g-pro-27i-27-2k-1440p-mini-led-ips-gaming-monitor-180hz-1ms",
-    "qty": 29,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/ELA5585EU_Xiaomi-G-Pro-27i_27-inch_2k_qhd_gaming_monitor_wr_01b.jpg"
+    "brand": "Samsung",
+    "title": "Samsung Odyssey G55T Gaming 1000R 34\" QHD Monitor (LC34G55TWWPXEN)",
+    "spec": "34\" screen",
+    "price": "R8 360",
+    "handle": "samsung-odyssey-g55t-gaming-1000r-borderless-34-display-va-response-1ms-mprt-ar-21-9-resolution-3440x1440-uwqhd-rr-165hz-hdmi-display-port-speaker-no-power-supply-external-tilt-yes-swivel-no-pivot-no",
+    "url": "/products/samsung-odyssey-g55t-gaming-1000r-borderless-34-display-va-response-1ms-mprt-ar-21-9-resolution-3440x1440-uwqhd-rr-165hz-hdmi-display-port-speaker-no-power-supply-external-tilt-yes-swivel-no-pivot-no",
+    "qty": 11,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/LC34G55TWWPXEN_default.png"
    },
    {
     "brand": "Asus",
@@ -796,7 +806,7 @@
     "price": "R1 024",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "/products/hikvision-1000va-1kva-ups",
-    "qty": 426,
+    "qty": 425,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -850,7 +860,7 @@
     "price": "R1 024",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 426,
+    "qty": 425,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -1174,7 +1184,7 @@
     "price": "R22 014",
     "handle": "asus-zenwifi-bq16-quad-band-wi-fi-7-mesh-system-2-pack",
     "url": "/products/asus-zenwifi-bq16-quad-band-wi-fi-7-mesh-system-2-pack",
-    "qty": 9,
+    "qty": 3,
     "image": "https://www.pinnacle.co.za/media/catalog/product/B/Q/BQ16_2PK_7888.jpg"
    },
    {
@@ -1210,7 +1220,7 @@
     "price": "R7 563",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 78,
+    "qty": 77,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
    },
    {
@@ -1324,7 +1334,7 @@
     "price": "R7 563",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 78,
+    "qty": 77,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
    },
    {
@@ -1420,7 +1430,7 @@
     "price": "R446",
     "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
     "url": "https://ubratech.co.za/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 1463,
+    "qty": 1508,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
@@ -1440,7 +1450,7 @@
     "price": "R1 611",
     "handle": "hikvision-4mp-2-8mm-fixed-bullet-network-camera",
     "url": "/products/hikvision-4mp-2-8mm-fixed-bullet-network-camera",
-    "qty": 2862,
+    "qty": 2855,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2041G0_LIU_2.8MM_e3b5.png"
    },
    {
@@ -1664,7 +1674,7 @@
     "price": "R703",
     "handle": "dell-pro-4-in-1-usb-c-travel-hub-da225",
     "url": "https://ubratech.co.za/products/dell-pro-4-in-1-usb-c-travel-hub-da225",
-    "qty": 19,
+    "qty": 18,
     "image": "https://s3.amazonaws.com/tarsus.co.za/470-BFBN_default.png"
    },
    {
@@ -1676,6 +1686,16 @@
     "url": "/products/port-connect-usb-type-c-to-4-port-usb-a-3-0-2-0-hub",
     "qty": 32,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/900160_Port-Connect-USB-Type-C-to-4-port-USB-A-3.0-2.0-Hub_wr_01a.jpg"
+   },
+   {
+    "brand": "UGREEN",
+    "title": "UGREEN 9-in-1 Type-C Hub | HDMI | VGA | LAN | SD/TF | 100W PD | USB3.0",
+    "spec": "Docking Station",
+    "price": "R728",
+    "handle": "ugreen-9-in-1-type-c-hub-hdmi-vga-lan-sd-tf-100w-pd-usb3-0",
+    "url": "/products/ugreen-9-in-1-type-c-hub-hdmi-vga-lan-sd-tf-100w-pd-usb3-0",
+    "qty": 68,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM498-15600-wr-01a.jpg"
    },
    {
     "brand": "HP",
@@ -1694,7 +1714,7 @@
     "price": "R8 461",
     "handle": "dell-pro-thunderbolt-5-smart-dock-sd25tb5",
     "url": "/products/dell-pro-thunderbolt-5-smart-dock-sd25tb5",
-    "qty": 7,
+    "qty": 6,
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BRFN_default.png"
    }
   ],
@@ -1736,7 +1756,7 @@
     "price": "R8 461",
     "handle": "dell-pro-thunderbolt-5-smart-dock-sd25tb5",
     "url": "/products/dell-pro-thunderbolt-5-smart-dock-sd25tb5",
-    "qty": 7,
+    "qty": 6,
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BRFN_default.png"
    }
   ],
@@ -1778,7 +1798,7 @@
     "price": "R728",
     "handle": "ugreen-9-in-1-type-c-hub-hdmi-vga-lan-sd-tf-100w-pd-usb3-0",
     "url": "/products/ugreen-9-in-1-type-c-hub-hdmi-vga-lan-sd-tf-100w-pd-usb3-0",
-    "qty": 89,
+    "qty": 68,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM498-15600-wr-01a.jpg"
    },
    {
@@ -1842,7 +1862,7 @@
     "price": "R4 721",
     "handle": "hp-poly-vfree-60-cb-earbuds-bt700c-tschc",
     "url": "/products/hp-poly-vfree-60-cb-earbuds-bt700c-tschc",
-    "qty": 17,
+    "qty": 16,
     "image": "https://s3.amazonaws.com/tarsus.co.za/7Y8G4AA_default.png"
    }
   ],
@@ -1912,14 +1932,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SF1006P_a8c6.png"
    },
    {
-    "brand": "TP-Link",
-    "title": "TP-Link Jetstream 28 Port Smart Managed POE Switch",
-    "spec": "28 ports",
-    "price": "R4 438",
-    "handle": "tp-link-jetstream-28-port-smart-managed-poe-switch",
-    "url": "/products/tp-link-jetstream-28-port-smart-managed-poe-switch",
-    "qty": 10,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/S/G/SG2428P_1_e994.png"
+    "brand": "Dell",
+    "title": "Dell Networking X1018 Smart Web Managed Switch/ 16x 1GbE and 2x…",
+    "spec": "Networking And Wireless",
+    "price": "R3 695",
+    "handle": "dell-networking-x1018-smart-web-managed-switch-16x-1gbe-and-2x-1gbe-sfp-ports-lifetime-limited-hardware-warranty-minimum-warranty-add-575-bbee-to-make-the-switch-rackmountable",
+    "url": "/products/dell-networking-x1018-smart-web-managed-switch-16x-1gbe-and-2x-1gbe-sfp-ports-lifetime-limited-hardware-warranty-minimum-warranty-add-575-bbee-to-make-the-switch-rackmountable",
+    "qty": 24,
+    "image": "http://cdn.cs.1worldsync.com/68/24/68243f1e-919f-4cfc-a520-172158f90122.jpg"
    },
    {
     "brand": "Huawei",
@@ -2019,7 +2039,7 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 84
+    "qty": 76
    },
    {
     "brand": "Seagate",
@@ -2052,14 +2072,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/PBE960GS25SSDR_Patriot-Burst-Elite-960GB-2.5-inch-SATA-III-SSD-Black_wr_01.jpg"
    },
    {
-    "brand": "Patriot",
-    "title": "Patriot Viper VP4300 Lite 2TB Gen 4 M.2 PCIe NVMe SSD",
+    "brand": "Dell",
+    "title": "Dell 480GB PCIe Gen4 M.2 2280 NVMe SSD for BOSS-N1 Controller Card",
     "spec": "Storage",
-    "price": "R5 414",
-    "handle": "patriot-viper-vp4300-lite-2tb-gen-4-m-2-pcie-nvme-ssd",
-    "url": "/products/patriot-viper-vp4300-lite-2tb-gen-4-m-2-pcie-nvme-ssd",
-    "qty": 4,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/VP4300L2TBM28H_Patriot-Viper-VP4300-Lite-2TB-Gen-4-M.2-PCIe-NVMe-SSD_wr_02.jpg"
+    "price": "R5 432",
+    "handle": "dell-480gb-pcie-gen4-m-2-2280-nvme-ssd-for-boss-n1-controller-card",
+    "url": "/products/dell-480gb-pcie-gen4-m-2-2280-nvme-ssd-for-boss-n1-controller-card",
+    "qty": 5,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/4/0/400_BONG_7e2a.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -2209,13 +2229,13 @@
    },
    {
     "brand": "Antec",
-    "title": "Antec Atom V350 Non-Modular Power Supply",
+    "title": "Antec Atom V450 Non-Modular Power Supply",
     "spec": "Power Supplies",
-    "price": "R414",
-    "handle": "antec-atom-v350-non-modular-power-supply",
-    "url": "/products/antec-atom-v350-non-modular-power-supply",
-    "qty": 1,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/ATOM-V350_wr_01a.jpg"
+    "price": "R448",
+    "handle": "antec-atom-v450-non-modular-power-supply",
+    "url": "/products/antec-atom-v450-non-modular-power-supply",
+    "qty": 118,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/ATOM-V450_wr_01a.jpg"
    },
    {
     "brand": "FSP",
@@ -2229,13 +2249,13 @@
    },
    {
     "brand": "FSP",
-    "title": "FSP 350W 80 PLUS Gold ATX Non-modular Power Supply",
+    "title": "FSP VITA BD 850W 80PLUS Bronze ATX3.1 Non-modular Power Supply",
     "spec": "Power Supplies",
-    "price": "R1 308",
-    "handle": "fsp-350w-80-plus-gold-atx-non-modular-power-supply",
-    "url": "/products/fsp-350w-80-plus-gold-atx-non-modular-power-supply",
-    "qty": 197,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/FSP350-50EGN_FSP_350W_80_PLUS_Gold_ATX_Non-modular_Po_wr_01.png"
+    "price": "R1 585",
+    "handle": "fsp-vita-bd-850w-80plus-bronze-atx3-1-non-modular-power-supply",
+    "url": "/products/fsp-vita-bd-850w-80plus-bronze-atx3-1-non-modular-power-supply",
+    "qty": 27,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/VITA-850BD_FSP-VITA-BD-850W-80PLUS-Bronze-ATX3.1-Non-modular-Power-Supply_wr_01.jpg"
    },
    {
     "brand": "Asus",
@@ -2293,13 +2313,13 @@
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi Smart Tower Fan 2",
+    "title": "Xiaomi Smart Standing Air Circulation Fan",
     "spec": "Appliances",
-    "price": "R1 862",
-    "handle": "xiaomi-smart-tower-fan-2",
-    "url": "/products/xiaomi-smart-tower-fan-2",
-    "qty": 203,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/BHR8846EU_Xiaomi-Smart-Tower-Fan-2-White_wr_01a.jpg"
+    "price": "R1 864",
+    "handle": "xiaomi-smart-standing-air-circulation-fan",
+    "url": "/products/xiaomi-smart-standing-air-circulation-fan",
+    "qty": 202,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/6932554413064_BHR9849EU_Front-Right.jpeg"
    },
    {
     "brand": "Xiaomi",
@@ -2331,7 +2351,7 @@
     "handle": "xiaomi-sound-outdoor-30w-portable-bluetooth-speaker-black",
     "url": "https://ubratech.co.za/products/xiaomi-sound-outdoor-30w-portable-bluetooth-speaker-black",
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/QBH4261GL_wr_01a.jpg",
-    "qty": 100
+    "qty": 112
    },
    {
     "brand": "WINX",
@@ -2416,14 +2436,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/BHR0878GL_Xiaomi-3A-Braided-USB-Type-C-to-USB-Type-C-Cable-1M-White_wr_01a.jpg"
    },
    {
-    "brand": "TP-Link",
-    "title": "TP-Link TAPO A100 Battery Pack",
-    "spec": "Accessories",
-    "price": "R459",
-    "handle": "tp-link-tapo-a100-battery-pack",
-    "url": "/products/tp-link-tapo-a100-battery-pack",
-    "qty": 40,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/T/A/TAPO_A100_1_7135.png"
+    "brand": "Xiaomi",
+    "title": "Xiaomi 20W Wireless Charging Stand",
+    "spec": "Power Adapter",
+    "price": "R462",
+    "handle": "xiaomi-20w-wireless-charging-stand",
+    "url": "/products/xiaomi-20w-wireless-charging-stand",
+    "qty": 134,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2021/01/GDS4145GL_wr_01.jpg"
    },
    {
     "brand": "Lenovo",
