@@ -74,14 +74,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA-BUN1Q2_default.png"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 15 Essential 15.6\" Core i3 8GB 512GB Win 11 Pro Notebook",
-    "spec": "15.6\" screen",
-    "price": "R13 392",
-    "handle": "dell-pro-15-essential-15-6-core-i3-8gb-512gb-win-11-pro-notebook",
-    "url": "/products/dell-pro-15-essential-15-6-core-i3-8gb-512gb-win-11-pro-notebook",
-    "qty": 3,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/P/V/PV15250_RPLU_004_P_56c0.jpg"
+    "brand": "Lenovo",
+    "title": "Lenovo V15 G4 IRU Laptop — Core i5 · 512GB SSD (83GW0077ZA)",
+    "spec": "512GB SSD",
+    "price": "R14 354",
+    "handle": "lenovo-v15-g4-iru-i5-13420h-8gb-base-ddr4-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-home-64-15-6-fhd-tnhd-cam-wi-fi-ax-2x2-btn-fpr2-cell-38whr65w-3pin-zakb-us-eng1-year-carry-in-lenovo-16",
+    "url": "/products/lenovo-v15-g4-iru-i5-13420h-8gb-base-ddr4-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-home-64-15-6-fhd-tnhd-cam-wi-fi-ax-2x2-btn-fpr2-cell-38whr65w-3pin-zakb-us-eng1-year-carry-in-lenovo-16",
+    "qty": 32,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0077ZA-BUN2Q2_default.png"
    },
    {
     "brand": "HP",
@@ -122,7 +122,7 @@
     "price": "R21 027",
     "handle": "hp-probook-440-g11-14-core-u5-16gb-512gb-win-11-pro-silver-notebook",
     "url": "https://ubratech.co.za/products/hp-probook-440-g11-14-core-u5-16gb-512gb-win-11-pro-silver-notebook",
-    "qty": 109,
+    "qty": 112,
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/3/A38B8ET__3bbe.jpg"
    },
    {
@@ -136,14 +136,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus VivoBook S14 S3407AA 14\" OLED Ultra 7-355 16GB 512GB Win 11 Home Silver Notebook",
+    "brand": "Dell",
+    "title": "Dell Pro 14 AI 14\" Core-U7 16GB 512GB Win 11 Pro Notebook",
     "spec": "14\" screen",
-    "price": "R29 969",
-    "handle": "asus-vivobook-s14-s3407aa-14-oled-ultra-7-355-16gb-512gb-win-11-home-silver-notebook",
-    "url": "/products/asus-vivobook-s14-s3407aa-14-oled-ultra-7-355-16gb-512gb-win-11-home-silver-notebook",
-    "qty": 16,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/S/ASUS_Vivobook_S14_S3407AA_Product_photo_2S_Cool_Silver_03_2400x2400__1__b555.jpg"
+    "price": "R30 243",
+    "handle": "dell-pro-14-ai-14-core-u7-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/dell-pro-14-ai-14-core-u7-16gb-512gb-win-11-pro-notebook",
+    "qty": 20,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/B/T/BTO107_PC14250_6153.jpg"
    },
    {
     "brand": "Dell",
@@ -566,7 +566,7 @@
     "price": "R2 435",
     "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
     "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 570,
+    "qty": 558,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
    },
    {
@@ -576,7 +576,7 @@
     "price": "R2 205",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 987,
+    "qty": 972,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -590,24 +590,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 27 Monitor - E2726H 1x HDMI, 1x DP, 1x VGA (Includes DP & Power Cable)",
+    "brand": "Xiaomi",
+    "title": "Xiaomi A27i 2026 27″ 144Hz Full HD 1080P IPS Office Monitor",
     "spec": "Monitors And Displays",
-    "price": "R2 444",
-    "handle": "dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
-    "url": "/products/dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
-    "qty": 72,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPN_default.jpg"
+    "price": "R2 448",
+    "handle": "xiaomi-a27i-2026-27-144hz-full-hd-1080p-ips-office-monitor",
+    "url": "/products/xiaomi-a27i-2026-27-144hz-full-hd-1080p-ips-office-monitor",
+    "qty": 110,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6410EU_Xiaomi-A27i-2026-27-inch-144Hz-Full-HD-1080P-IPS-Office-Monitor_wr_01a.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer Nitro VG270 27\" IPS FHD 1MS 240HZ Gaming Monitor 3Yr",
-    "spec": "27\" screen",
-    "price": "R3 273",
-    "handle": "acer-nitro-vg270-27-ips-fhd-1ms-240hz-gaming-monitor-3yr",
-    "url": "/products/acer-nitro-vg270-27-ips-fhd-1ms-240hz-gaming-monitor-3yr",
-    "qty": 2,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HV0EE.W01_default.jpg"
+    "brand": "Lenovo",
+    "title": "Lenovo L15 15\" FHD IPS USB-C Portable Monitor",
+    "spec": "15\" screen",
+    "price": "R3 253",
+    "handle": "lenovo-l15-15-fhd-ips-usb-c-portable-monitor",
+    "url": "/products/lenovo-l15-15-fhd-ips-usb-c-portable-monitor",
+    "qty": 4,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/6/6/66E4UAC1WL_e99a.jpg"
    },
    {
     "brand": "LG",
@@ -638,7 +638,7 @@
     "price": "R8 495",
     "handle": "dell-s3225qs-32-uhd-monitor",
     "url": "/products/dell-s3225qs-32-uhd-monitor",
-    "qty": 68,
+    "qty": 64,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQWP__1__883d.jpg"
    },
    {
@@ -670,7 +670,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 195,
+    "qty": 184,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -694,24 +694,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
    },
    {
-    "brand": "MSI",
-    "title": "MSI MON PRO IPS 25 1080P 120HZ 1MS",
-    "spec": "Monitors And Displays",
-    "price": "R1 871",
-    "handle": "msi-mon-pro-ips-25-1080p-120hz-1ms",
-    "url": "/products/msi-mon-pro-ips-25-1080p-120hz-1ms",
-    "qty": 2,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/09/PROMP251E2_wr_01.jpg"
-   },
-   {
-    "brand": "MSI",
-    "title": "MSI MAG 275F E20 27\" FHD 200Hz Rapid IPS Gaming Monitor",
+    "brand": "Acer",
+    "title": "Acer Nitro VG270 27\" IPS FHD 1MS 240HZ Gaming Monitor 3Yr",
     "spec": "27\" screen",
-    "price": "R3 249",
-    "handle": "msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
-    "url": "/products/msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
-    "qty": 120,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-275F-E20_MSI-MAG-275F-E20-27inch-FHD-200Hz-Gaming-Montor-wr01.jpeg"
+    "price": "R3 273",
+    "handle": "acer-nitro-vg270-27-ips-fhd-1ms-240hz-gaming-monitor-3yr",
+    "url": "/products/acer-nitro-vg270-27-ips-fhd-1ms-240hz-gaming-monitor-3yr",
+    "qty": 2,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HV0EE.W01_default.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -720,7 +710,7 @@
     "price": "R8 194",
     "handle": "xiaomi-g-pro-27i-27-2k-1440p-mini-led-ips-gaming-monitor-180hz-1ms",
     "url": "/products/xiaomi-g-pro-27i-27-2k-1440p-mini-led-ips-gaming-monitor-180hz-1ms",
-    "qty": 31,
+    "qty": 29,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/ELA5585EU_Xiaomi-G-Pro-27i_27-inch_2k_qhd_gaming_monitor_wr_01b.jpg"
    },
    {
@@ -742,7 +732,7 @@
     "price": "R2 435",
     "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
     "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 570,
+    "qty": 558,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
    },
    {
@@ -752,7 +742,7 @@
     "price": "R2 205",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 987,
+    "qty": 972,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -762,7 +752,7 @@
     "price": "R1 671",
     "handle": "pcbuilder-flex-15-6-full-hd-ips-portable-monitor",
     "url": "/products/pcbuilder-flex-15-6-full-hd-ips-portable-monitor",
-    "qty": 220,
+    "qty": 217,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/PCB-PM15-FHD_PCBuilder-FLEX-15.6-inch-Full-HD-IPS-Portable-Monitor_wr_01a.jpg"
    },
    {
@@ -792,7 +782,7 @@
     "price": "R8 194",
     "handle": "xiaomi-g-pro-27i-27-2k-1440p-mini-led-ips-gaming-monitor-180hz-1ms",
     "url": "/products/xiaomi-g-pro-27i-27-2k-1440p-mini-led-ips-gaming-monitor-180hz-1ms",
-    "qty": 31,
+    "qty": 29,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/ELA5585EU_Xiaomi-G-Pro-27i_27-inch_2k_qhd_gaming_monitor_wr_01b.jpg"
    }
   ]
@@ -1086,6 +1076,16 @@
   ],
   "house": [
    {
+    "brand": "TP-Link",
+    "title": "TP-Link Deco M4 Mesh Wi-Fi System (3-pack)",
+    "spec": "Covers a full house · one network name",
+    "price": "R2 527",
+    "handle": "tp-link-deco-m4-whole-home-mesh-wi-fi-system-3-pack",
+    "url": "https://ubratech.co.za/products/tp-link-deco-m4-whole-home-mesh-wi-fi-system-3-pack",
+    "qty": 7,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/E/DECO_M4_3_PACK_b101.jpg"
+   },
+   {
     "brand": "Mercusys",
     "title": "Mercusys Halo H30G Mesh Wi-Fi System (3-pack)",
     "spec": "Covers a full house · one network name",
@@ -1137,6 +1137,16 @@
    }
   ],
   "large": [
+   {
+    "brand": "TP-Link",
+    "title": "TP-Link Deco M4 Mesh Wi-Fi System (3-pack)",
+    "spec": "Big-property coverage",
+    "price": "R2 527",
+    "handle": "tp-link-deco-m4-whole-home-mesh-wi-fi-system-3-pack",
+    "url": "https://ubratech.co.za/products/tp-link-deco-m4-whole-home-mesh-wi-fi-system-3-pack",
+    "qty": 7,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/E/DECO_M4_3_PACK_b101.jpg"
+   },
    {
     "brand": "Cudy",
     "title": "Cudy AX3000 Wi-Fi 6 Mesh Kit 3 Pack - White",
@@ -1578,7 +1588,7 @@
     "price": "R1 239",
     "handle": "hikvision-2mp-fixed-mini-bullet-network-camera",
     "url": "https://ubratech.co.za/products/hikvision-2mp-fixed-mini-bullet-network-camera",
-    "qty": 147,
+    "qty": 143,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2021G0_LIU_2.8MM_9325.png"
    },
    {
@@ -1802,7 +1812,7 @@
     "price": "R515",
     "handle": "hp-320-black-full-hd-usb-webcam",
     "url": "https://ubratech.co.za/products/hp-320-black-full-hd-usb-webcam",
-    "qty": 18,
+    "qty": 13,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/3/53X26AA_9bf9.png"
    },
    {
@@ -1902,14 +1912,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/M/S/MS105_fcc4.png"
    },
    {
-    "brand": "Cudy",
-    "title": "Cudy 4 Port Gigabit PoE 1x PoE Input 60W Switch",
-    "spec": "4 ports",
-    "price": "R543",
-    "handle": "cudy-4-port-gigabit-poe-1x-poe-input-60w-switch",
-    "url": "/products/cudy-4-port-gigabit-poe-1x-poe-input-60w-switch",
-    "qty": 35,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/POE40_Cudy_4_Port_Gigabit_PoE_1x_PoE_Input_60W_wr_02.png"
+    "brand": "TP-Link",
+    "title": "TP-Link 6 Port Unmanaged POE Desktop Switch",
+    "spec": "6 ports",
+    "price": "R492",
+    "handle": "tp-link-6-port-unmanaged-poe-desktop-switch",
+    "url": "/products/tp-link-6-port-unmanaged-poe-desktop-switch",
+    "qty": 13,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SF1006P_a8c6.png"
    },
    {
     "brand": "TP-Link",
@@ -2042,24 +2052,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DTKN/64GB_default.jpg"
    },
    {
-    "brand": "SanDisk",
-    "title": "SANDISK Optimus GX 7100 NVMe SSD - 500GB, M.2 2280",
-    "spec": "Storage",
-    "price": "R2 369",
-    "handle": "sandisk-optimus-gx-7100-nvme-ssd-500gb-m-2-2280",
-    "url": "/products/sandisk-optimus-gx-7100-nvme-ssd-500gb-m-2-2280",
-    "qty": 119,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_53d3.png"
+    "brand": "Patriot",
+    "title": "Patriot Burst Elite 960GB 2.5\" SATA III SSD",
+    "spec": "2.5\" screen",
+    "price": "R2 442",
+    "handle": "patriot-burst-elite-960gb-2-5-sata-iii-ssd",
+    "url": "/products/patriot-burst-elite-960gb-2-5-sata-iii-ssd",
+    "qty": 19,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/PBE960GS25SSDR_Patriot-Burst-Elite-960GB-2.5-inch-SATA-III-SSD-Black_wr_01.jpg"
    },
    {
-    "brand": "SanDisk",
-    "title": "SanDisk Extreme Portable SSD (V3) - 1TB",
+    "brand": "Patriot",
+    "title": "Patriot Viper VP4300 Lite 2TB Gen 4 M.2 PCIe NVMe SSD",
     "spec": "Storage",
-    "price": "R5 303",
-    "handle": "sandisk-extreme-portable-ssd-v3-1tb",
-    "url": "/products/sandisk-extreme-portable-ssd-v3-1tb",
-    "qty": 21,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__2__954f.png"
+    "price": "R5 414",
+    "handle": "patriot-viper-vp4300-lite-2tb-gen-4-m-2-pcie-nvme-ssd",
+    "url": "/products/patriot-viper-vp4300-lite-2tb-gen-4-m-2-pcie-nvme-ssd",
+    "qty": 5,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/VP4300L2TBM28H_Patriot-Viper-VP4300-Lite-2TB-Gen-4-M.2-PCIe-NVMe-SSD_wr_02.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -2298,7 +2308,7 @@
     "price": "R1 862",
     "handle": "xiaomi-smart-tower-fan-2",
     "url": "/products/xiaomi-smart-tower-fan-2",
-    "qty": 180,
+    "qty": 203,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/BHR8846EU_Xiaomi-Smart-Tower-Fan-2-White_wr_01a.jpg"
    },
    {
@@ -2360,7 +2370,7 @@
     "price": "R490",
     "handle": "winx-vibe-pure-hybrid-anc-headphones",
     "url": "/products/winx-vibe-pure-hybrid-anc-headphones",
-    "qty": 79,
+    "qty": 74,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/05/Winx_WX-HS109_Vibe-Pure-Hybrid-ANC-Headphones_45-0051-Edit1500x1500-96DPI.jpg"
    },
    {
@@ -2406,24 +2416,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2018/09/N301-10-SV-PRO_wr_01a.jpg"
    },
    {
-    "brand": "UGREEN",
-    "title": "UGREEN NW102 Cat6 U/UTP Flat Ethernet Cable 15m - Black",
+    "brand": "TP-Link",
+    "title": "TP-Link AC650 High Gain Wi-Fi USB Adapter",
     "spec": "Cables And Adapters",
-    "price": "R127",
-    "handle": "ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
-    "url": "/products/ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
-    "qty": 219,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/NW102-50172-wr-01.jpg"
+    "price": "R130",
+    "handle": "tp-link-ac650-high-gain-wi-fi-usb-adapter",
+    "url": "/products/tp-link-ac650-high-gain-wi-fi-usb-adapter",
+    "qty": 82,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__77__2632.png"
    },
    {
-    "brand": "SanDisk",
-    "title": "SanDisk Ultra Curve USB 3.2 256GB 100MB/s R Navy BLUE",
+    "brand": "Targus",
+    "title": "Targus DEFCON Ultimate Universal Resettable Combination Lock Wedge lock Kensington Nano",
     "spec": "Accessories",
-    "price": "R434",
-    "handle": "sandisk-ultra-curve-usb-3-2-256gb-100mb-s-r-navy-blue",
-    "url": "/products/sandisk-ultra-curve-usb-3-2-256gb-100mb-s-r-navy-blue",
-    "qty": 46,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__18__2938.png"
+    "price": "R452",
+    "handle": "targus-defcon-ultimate-universal-resettable-combination-lock-wedge-lock-kensington-nano",
+    "url": "/products/targus-defcon-ultimate-universal-resettable-combination-lock-wedge-lock-kensington-nano",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/ASP96RGLX_default.png"
    },
    {
     "brand": "Lenovo",
@@ -2478,14 +2488,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/RD-BM-4049_wr_01.jpg"
    },
    {
-    "brand": "Logitech",
-    "title": "Logitech MK235 Wireless Mouse & Keyboard Combo - Black.…",
-    "spec": "Wired Mouse",
+    "brand": "Port",
+    "title": "Port Connect Ergo Shape Bluetooth Rechargeable Mouse",
+    "spec": "Mice",
     "price": "R351",
-    "handle": "logitech-mk235-wireless-mouse-keyboard-combo-black-spill-resistant-keyboard-smooth-mouse-long-battery-life-one-usb-nano-receiver",
-    "url": "/products/logitech-mk235-wireless-mouse-keyboard-combo-black-spill-resistant-keyboard-smooth-mouse-long-battery-life-one-usb-nano-receiver",
-    "qty": 81,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/920-007931_default.jpg"
+    "handle": "port-connect-ergo-shape-bluetooth-rechargeable-mouse",
+    "url": "/products/port-connect-ergo-shape-bluetooth-rechargeable-mouse",
+    "qty": 40,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/910007_.PORT-MOUSE-ERGO-RECHARGEABLE-BT-RIGHT_wr_08.jpg"
    },
    {
     "brand": "Redragon",
