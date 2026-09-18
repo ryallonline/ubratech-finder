@@ -48,7 +48,7 @@
     "price": "R12 088",
     "handle": "acer-lite-15-r5-7430u-8-512-15-6-fhd-ips-slim-bezel-windows-11-home-64bit-single-language",
     "url": "/products/acer-lite-15-r5-7430u-8-512-15-6-fhd-ips-slim-bezel-windows-11-home-64bit-single-language",
-    "qty": 77,
+    "qty": 76,
     "image": "https://s3.amazonaws.com/tarsus.co.za/NX.DJVEA.001_default.png"
    },
    {
@@ -74,14 +74,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA-BUN1Q2_default.png"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 15 Essential 15.6\" Core i3 8GB 512GB Win 11 Pro Notebook",
-    "spec": "15.6\" screen",
-    "price": "R13 392",
-    "handle": "dell-pro-15-essential-15-6-core-i3-8gb-512gb-win-11-pro-notebook",
-    "url": "/products/dell-pro-15-essential-15-6-core-i3-8gb-512gb-win-11-pro-notebook",
-    "qty": 7,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/P/V/PV15250_RPLU_004_P_56c0.jpg"
+    "brand": "Lenovo",
+    "title": "Lenovo V15 G4 IRU Laptop — Core i5 · 512GB SSD (83GW0077ZA)",
+    "spec": "512GB SSD",
+    "price": "R14 354",
+    "handle": "lenovo-v15-g4-iru-i5-13420h-8gb-base-ddr4-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-home-64-15-6-fhd-tnhd-cam-wi-fi-ax-2x2-btn-fpr2-cell-38whr65w-3pin-zakb-us-eng1-year-carry-in-lenovo-16",
+    "url": "/products/lenovo-v15-g4-iru-i5-13420h-8gb-base-ddr4-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-home-64-15-6-fhd-tnhd-cam-wi-fi-ax-2x2-btn-fpr2-cell-38whr65w-3pin-zakb-us-eng1-year-carry-in-lenovo-16",
+    "qty": 32,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0077ZA-BUN2Q2_default.png"
    },
    {
     "brand": "HP",
@@ -94,14 +94,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D6ZT6EA_91d2.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer EXO16 51 77QK Laptop — Core Ultra 7 · 16GB · 512GB SSD (NX.EM3EA.003)",
-    "spec": "512GB SSD",
-    "price": "R20 462",
-    "handle": "acer-exo16-51-77qk-intel-core-ultra-7-processor-155u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
-    "url": "/products/acer-exo16-51-77qk-intel-core-ultra-7-processor-155u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
-    "qty": 98,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.003_default.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 15 Essential PV15250 Laptop — 8GB (PV15250_RPLU_006_P8L)",
+    "spec": "Notebooks",
+    "price": "R20 525",
+    "handle": "dell-pro-15-essential-pv15250-i7-1355u-intel-rpl-p-u15-i7-8-layer-pcb-15-6-non-touch-fhd-120hz-wva-ips-anti-glare-250-nit-8-gb-1-x-8-gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd-graphics",
+    "url": "/products/dell-pro-15-essential-pv15250-i7-1355u-intel-rpl-p-u15-i7-8-layer-pcb-15-6-non-touch-fhd-120hz-wva-ips-anti-glare-250-nit-8-gb-1-x-8-gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd-graphics",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_006_P8L_default.jpg"
    },
    {
     "brand": "Acer",
@@ -208,14 +208,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/S/ASUS_Vivobook_S14_S3407AA_Product_photo_2S_Cool_Silver_03_2400x2400__1__b555.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Alienware 16 Aurora 16\" RTX 4050 Core 5-210H 16GB 512GB Win 11 Pro Gaming Notebook",
+    "brand": "Asus",
+    "title": "Asus Zenbook S16 UM5606GA 16\" 3K OLED 120Hz Ryzen AI 9-465 16GB 1TB Win 11 Pro Notebook",
     "spec": "16\" screen",
-    "price": "R40 142",
-    "handle": "dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
-    "url": "/products/dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
-    "qty": 4,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/C/AC16250_RPLH_R_006_794e.jpg"
+    "price": "R39 665",
+    "handle": "asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
+    "url": "/products/asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
+    "qty": 2,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_S16_UM5606GA_Product_photo_3G_Antrim_Gray_03__1__de3e.jpg"
    },
    {
     "brand": "Dell",
@@ -304,24 +304,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DT.R1PEA.00N_default.png"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro Slim Essential QVS1260: Desktop PC — Core i3 (BTO001_QVS1260_EMEA)",
+    "brand": "PCBuilder",
+    "title": "PCBuilder Intel i7-14700 HOME Master Windows 11 Desktop PC",
     "spec": "Desktops",
-    "price": "R17 313",
-    "handle": "dell-pro-slim-essential-qvs1260-intel-core-i3-14100-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-8gb-8gbx1-ddr5-4800mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2-802",
-    "url": "/products/dell-pro-slim-essential-qvs1260-intel-core-i3-14100-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-8gb-8gbx1-ddr5-4800mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2-802",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO001_QVS1260_EMEA_default.png"
+    "price": "R18 229",
+    "handle": "pcbuilder-intel-i7-14700-home-master-windows-11-desktop-pc",
+    "url": "/products/pcbuilder-intel-i7-14700-home-master-windows-11-desktop-pc",
+    "qty": 1,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_HOME_I716G-V2_PCBuilder-Intel-i7-14700-HOME-Master-Windows-11-Desktop-PC_wr_01a.jpg"
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro Slim Essential QVS1260: Desktop PC — Core i5 · 16GB (BTO004_QVS1260_EMEA)",
+    "title": "Dell Pro Tower Essential QVT1260 Desktop PC — Core Ultra 5 · 16GB (BTO101_QVT1260_EMEA)",
     "spec": "Desktops",
-    "price": "R21 461",
-    "handle": "dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
-    "url": "/products/dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO004_QVS1260_EMEA_default.jpg"
+    "price": "R21 701",
+    "handle": "dell-pro-tower-essential-qvt1260-intel-core-ultra-5-225-20-mb-cache-10-cores-10-threads-up-to-4-9ghz-65w-16gb-1-x-16gb-ddr5-5600-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-mediatek-wi-fi-6",
+    "url": "/products/dell-pro-tower-essential-qvt1260-intel-core-ultra-5-225-20-mb-cache-10-cores-10-threads-up-to-4-9ghz-65w-16gb-1-x-16gb-ddr5-5600-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-mediatek-wi-fi-6",
+    "qty": 18,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO101_QVT1260_EMEA_default.jpg"
    }
   ],
   "high": [
@@ -352,7 +352,7 @@
     "price": "R42 614",
     "handle": "dell-27-aio-ec27250-25-06-2025-intel-core-7-150u-12mb-cache-up-to-5-4-ghz-27-fhd-touch-1920x1080-16gb-5200mt-s-ddr5-1tb-ssd-pcie-nvme-m-2-nvidia-geforce-mx570a-with-2gb-gddr6-graphics-memory-camera",
     "url": "/products/dell-27-aio-ec27250-25-06-2025-intel-core-7-150u-12mb-cache-up-to-5-4-ghz-27-fhd-touch-1920x1080-16gb-5200mt-s-ddr5-1tb-ssd-pcie-nvme-m-2-nvidia-geforce-mx570a-with-2gb-gddr6-graphics-memory-camera",
-    "qty": 6,
+    "qty": 7,
     "image": "https://s3.amazonaws.com/tarsus.co.za/EC27250_RPLU-R_003S_default.jpg"
    },
    {
@@ -485,16 +485,6 @@
    },
    {
     "brand": "Asus",
-    "title": "Asus ROG Zephyrus G16 Gaming Laptop 16″ | Ultr Laptop — 16GB · 1TB SSD (GU605CP-OU91610G0X)",
-    "spec": "1TB SSD",
-    "price": "R43 317",
-    "handle": "asus-rog-zephyrus-g16-gaming-laptop-16-ultra-9-285h-16gb-ddr5-rtx-5070-1tb-ssd-windows-11-pro",
-    "url": "/products/asus-rog-zephyrus-g16-gaming-laptop-16-ultra-9-285h-16gb-ddr5-rtx-5070-1tb-ssd-windows-11-pro",
-    "qty": 9,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/GU605CP-OU91610G0X_Asus-ROG-Zephyrus-G16-Intel-Core-Ultra-9-285H-16-inch-Windows-11-Gaming-Laptop-Grey_wr_01a.jpg"
-   },
-   {
-    "brand": "Asus",
     "title": "Asus ROG Strix G16 Gaming Laptop — 32GB · 1TB SSD",
     "spec": "1TB SSD",
     "price": "R67 011",
@@ -576,7 +566,7 @@
     "price": "R2 205",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 972,
+    "qty": 967,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -670,7 +660,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 184,
+    "qty": 146,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -742,7 +732,7 @@
     "price": "R2 205",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 972,
+    "qty": 967,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -1082,7 +1072,7 @@
     "price": "R2 527",
     "handle": "tp-link-deco-m4-whole-home-mesh-wi-fi-system-3-pack",
     "url": "https://ubratech.co.za/products/tp-link-deco-m4-whole-home-mesh-wi-fi-system-3-pack",
-    "qty": 7,
+    "qty": 5,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/E/DECO_M4_3_PACK_b101.jpg"
    },
    {
@@ -1144,7 +1134,7 @@
     "price": "R2 527",
     "handle": "tp-link-deco-m4-whole-home-mesh-wi-fi-system-3-pack",
     "url": "https://ubratech.co.za/products/tp-link-deco-m4-whole-home-mesh-wi-fi-system-3-pack",
-    "qty": 7,
+    "qty": 5,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/E/DECO_M4_3_PACK_b101.jpg"
    },
    {
@@ -1220,7 +1210,7 @@
     "price": "R7 563",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 83,
+    "qty": 78,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
    },
    {
@@ -1334,7 +1324,7 @@
     "price": "R7 563",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 83,
+    "qty": 78,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
    },
    {
@@ -1354,7 +1344,7 @@
     "price": "R6 969",
     "handle": "hp-laserjet-pro-4103dw-mfp-mono-printer",
     "url": "/products/hp-laserjet-pro-4103dw-mfp-mono-printer",
-    "qty": 63,
+    "qty": 61,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z627A_default.png"
    },
    {
@@ -1534,7 +1524,7 @@
     "price": "R2 726",
     "handle": "hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
     "url": "/products/hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
-    "qty": 841,
+    "qty": 840,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LI_2.8MM_e360.jpg"
    },
    {
@@ -1544,7 +1534,7 @@
     "price": "R2 978",
     "handle": "hikvision-4mp-fixed-mini-bullet-network-camera",
     "url": "/products/hikvision-4mp-fixed-mini-bullet-network-camera",
-    "qty": 121,
+    "qty": 116,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_4MM_1_306c.png"
    },
    {
@@ -2068,7 +2058,7 @@
     "price": "R5 414",
     "handle": "patriot-viper-vp4300-lite-2tb-gen-4-m-2-pcie-nvme-ssd",
     "url": "/products/patriot-viper-vp4300-lite-2tb-gen-4-m-2-pcie-nvme-ssd",
-    "qty": 5,
+    "qty": 4,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/VP4300L2TBM28H_Patriot-Viper-VP4300-Lite-2TB-Gen-4-M.2-PCIe-NVMe-SSD_wr_02.jpg"
    },
    {
@@ -2416,24 +2406,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2018/09/N301-10-SV-PRO_wr_01a.jpg"
    },
    {
-    "brand": "TP-Link",
-    "title": "TP-Link AC650 High Gain Wi-Fi USB Adapter",
+    "brand": "Xiaomi",
+    "title": "Xiaomi 3A Braided USB Type-C to USB Type-C Cable 1M - White",
     "spec": "Cables And Adapters",
-    "price": "R130",
-    "handle": "tp-link-ac650-high-gain-wi-fi-usb-adapter",
-    "url": "/products/tp-link-ac650-high-gain-wi-fi-usb-adapter",
-    "qty": 82,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__77__2632.png"
+    "price": "R131",
+    "handle": "xiaomi-3a-braided-usb-type-c-to-usb-type-c-cable-1m-white",
+    "url": "/products/xiaomi-3a-braided-usb-type-c-to-usb-type-c-cable-1m-white",
+    "qty": 143,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/BHR0878GL_Xiaomi-3A-Braided-USB-Type-C-to-USB-Type-C-Cable-1M-White_wr_01a.jpg"
    },
    {
-    "brand": "Targus",
-    "title": "Targus DEFCON Ultimate Universal Resettable Combination Lock Wedge lock Kensington Nano",
+    "brand": "TP-Link",
+    "title": "TP-Link TAPO A100 Battery Pack",
     "spec": "Accessories",
-    "price": "R452",
-    "handle": "targus-defcon-ultimate-universal-resettable-combination-lock-wedge-lock-kensington-nano",
-    "url": "/products/targus-defcon-ultimate-universal-resettable-combination-lock-wedge-lock-kensington-nano",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/ASP96RGLX_default.png"
+    "price": "R459",
+    "handle": "tp-link-tapo-a100-battery-pack",
+    "url": "/products/tp-link-tapo-a100-battery-pack",
+    "qty": 40,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/T/A/TAPO_A100_1_7135.png"
    },
    {
     "brand": "Lenovo",
