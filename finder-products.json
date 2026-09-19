@@ -18,7 +18,7 @@
     "price": "R12 044",
     "handle": "hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
     "url": "https://ubratech.co.za/products/hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
-    "qty": 472,
+    "qty": 471,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/F/DF6L7ET_4f9d.jpg"
    },
    {
@@ -85,13 +85,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP OmniBook 5 16\" AI Ultra 5-225U 16GB 512GB Win Home 11 Silver Notebook",
-    "spec": "16\" screen",
-    "price": "R18 056",
-    "handle": "hp-omnibook-5-16-ai-ultra-5-225u-16gb-512gb-win-home-11-silver-notebook",
-    "url": "/products/hp-omnibook-5-16-ai-ultra-5-225u-16gb-512gb-win-home-11-silver-notebook",
-    "qty": 70,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D67WBEA_7fbb.jpg"
+    "title": "HP 15S 15.6\" FHD UltraSlim AI Ultra 7-225U 16GB 512GB Win 11 Home Silver Notebook",
+    "spec": "15.6\" screen",
+    "price": "R18 004",
+    "handle": "hp-15s-15-6-fhd-ultraslim-ai-ultra-7-225u-16gb-512gb-win-11-home-silver-notebook",
+    "url": "/products/hp-15s-15-6-fhd-ultraslim-ai-ultra-7-225u-16gb-512gb-win-11-home-silver-notebook",
+    "qty": 69,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D6ZT6EA_91d2.jpg"
    },
    {
     "brand": "Asus",
@@ -122,7 +122,7 @@
     "price": "R21 027",
     "handle": "hp-probook-440-g11-14-core-u5-16gb-512gb-win-11-pro-silver-notebook",
     "url": "https://ubratech.co.za/products/hp-probook-440-g11-14-core-u5-16gb-512gb-win-11-pro-silver-notebook",
-    "qty": 112,
+    "qty": 127,
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/3/A38B8ET__3bbe.jpg"
    },
    {
@@ -136,14 +136,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP ProBook 4 G2i AI 16In Laptop — 16GB · 512GB SSD",
-    "spec": "512GB SSD",
-    "price": "R30 435",
-    "handle": "hp-probook-4-g2i-ai-16in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "url": "/products/hp-probook-4-g2i-ai-16in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "qty": 73,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DW2G5ET_default.png"
+    "brand": "Dell",
+    "title": "Dell Pro 14 AI 14\" Core-U7 16GB 512GB Win 11 Pro Notebook",
+    "spec": "14\" screen",
+    "price": "R30 243",
+    "handle": "dell-pro-14-ai-14-core-u7-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/dell-pro-14-ai-14-core-u7-16gb-512gb-win-11-pro-notebook",
+    "qty": 20,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/B/T/BTO107_PC14250_6153.jpg"
    },
    {
     "brand": "Dell",
@@ -337,23 +337,23 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell 24 AiO EC24250:Intel Desktop PC — Core i5 · 512GB SSD (EC24250_RPLU-R_007S)",
+    "title": "Dell Pro Slim QCS1250 Desktop PC — Core Ultra 7 · 512GB SSD (BTO108_QCS1250_EMEA)",
     "spec": "512GB SSD",
-    "price": "R33 164",
-    "handle": "dell-24-aio-ec24250-intel-core-i5-1334u-12m-cache-up-to-4-6-ghz-23-8-fhd-1920x1080-antiglare-16gb-5200mt-s-ddr5-512gb-ssd-pcie-nvme-m-2-graphics-intel-uhdgraphics-camera-mirophone-5mp-ir-tilt-camera",
-    "url": "/products/dell-24-aio-ec24250-intel-core-i5-1334u-12m-cache-up-to-4-6-ghz-23-8-fhd-1920x1080-antiglare-16gb-5200mt-s-ddr5-512gb-ssd-pcie-nvme-m-2-graphics-intel-uhdgraphics-camera-mirophone-5mp-ir-tilt-camera",
-    "qty": 13,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/EC24250_RPLU-R_007S_default.jpg"
+    "price": "R31 865",
+    "handle": "dell-pro-slim-qcs1250-intel-core-ultra-7-265-13-tops-up-to-5-3-ghz-16gb-1x16gb-5600mt-s-ddr5-512gb-ssd-tlc-integrated-graphics-no-wi-fi-bluetooth-dell-kb216-multimedia-usb-keyboard-dell-ms116-optical",
+    "url": "/products/dell-pro-slim-qcs1250-intel-core-ultra-7-265-13-tops-up-to-5-3-ghz-16gb-1x16gb-5600mt-s-ddr5-512gb-ssd-tlc-integrated-graphics-no-wi-fi-bluetooth-dell-kb216-multimedia-usb-keyboard-dell-ms116-optical",
+    "qty": 11,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO108_QCS1250_EMEA_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell 27 AIO EC27250 25 06 2025:Intel Desktop PC — 1TB SSD (EC27250_RPLU-R_003S)",
-    "spec": "1TB SSD",
-    "price": "R42 614",
-    "handle": "dell-27-aio-ec27250-25-06-2025-intel-core-7-150u-12mb-cache-up-to-5-4-ghz-27-fhd-touch-1920x1080-16gb-5200mt-s-ddr5-1tb-ssd-pcie-nvme-m-2-nvidia-geforce-mx570a-with-2gb-gddr6-graphics-memory-camera",
-    "url": "/products/dell-27-aio-ec27250-25-06-2025-intel-core-7-150u-12mb-cache-up-to-5-4-ghz-27-fhd-touch-1920x1080-16gb-5200mt-s-ddr5-1tb-ssd-pcie-nvme-m-2-nvidia-geforce-mx570a-with-2gb-gddr6-graphics-memory-camera",
-    "qty": 7,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/EC27250_RPLU-R_003S_default.jpg"
+    "brand": "PCBuilder",
+    "title": "PCBuilder Ryzen 5 7600 MAVERICK Windows 11 Gaming PC (PCB_MAVERICK_02)",
+    "spec": "Desktops",
+    "price": "R43 365",
+    "handle": "pcbuilder-ryzen-5-7600-maverick-windows-11-gaming-pc-pcb-maverick-02",
+    "url": "/products/pcbuilder-ryzen-5-7600-maverick-windows-11-gaming-pc-pcb-maverick-02",
+    "qty": 11,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_MAVERICK_02_PCBuilder-Ryzen-5-7600-MAVERICK-Windows-11-Gaming-PC_wr_01.jpg"
    },
    {
     "brand": "HP",
@@ -422,14 +422,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_DEFENDER_05_wr_01e.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus ROG G700 Intel Ultra 5 255F Gaming PC | 16GB DDR5 | 1TB SSD | Win 11 Home",
-    "spec": "1TB SSD",
-    "price": "R20 525",
-    "handle": "asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
-    "url": "/products/asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
-    "qty": 8,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg"
+    "brand": "Acer",
+    "title": "Acer NITRO V 15 Gaming Laptop 15.6″ | Laptop",
+    "spec": "Notebooks",
+    "price": "R20 691",
+    "handle": "acer-nitro-v-15-gaming-laptop-15-6-intel-core-5-210h-16gb-512gb-rtx-4050-6gb-windows-11-home",
+    "url": "/products/acer-nitro-v-15-gaming-laptop-15-6-intel-core-5-210h-16gb-512gb-rtx-4050-6gb-windows-11-home",
+    "qty": 9,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NH.QUAEA_.00C_Acer-NITRO-V-15-Gaming-Laptop-15.6inch_wr001.jpg"
    },
    {
     "brand": "Acer",
@@ -445,7 +445,7 @@
     "brand": "Acer",
     "title": "Acer NITRO V 16 Gaming Laptop 16″ | Laptop — Ryzen 5",
     "spec": "Notebooks",
-    "price": "R23 106",
+    "price": "R24 630",
     "handle": "acer-nitro-v-16-gaming-laptop-16-amd-ryzen-5-16gb-1tb-rtx-5060-8gb-windows-11-home",
     "url": "/products/acer-nitro-v-16-gaming-laptop-16-amd-ryzen-5-16gb-1tb-rtx-5060-8gb-windows-11-home",
     "qty": 44,
@@ -590,16 +590,6 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 27 Monitor - E2726H 1x HDMI, 1x DP, 1x VGA (Includes DP & Power Cable)",
-    "spec": "Monitors And Displays",
-    "price": "R2 444",
-    "handle": "dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
-    "url": "/products/dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
-    "qty": 69,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPN_default.jpg"
-   },
-   {
     "brand": "Lenovo",
     "title": "Lenovo L15 15\" FHD IPS USB-C Portable Monitor",
     "spec": "15\" screen",
@@ -643,13 +633,13 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell P2722HE 27\" FHD IPS Monitor",
-    "spec": "27\" screen",
-    "price": "R17 762",
-    "handle": "dell-p2722he-27-fhd-ips-monitor",
-    "url": "/products/dell-p2722he-27-fhd-ips-monitor",
-    "qty": 5,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BMDW_1_c0eb.png"
+    "title": "Dell Alienware 27 4K QD-OLED 240Hz Gaming Monitor (210-BQWV)",
+    "spec": "Monitors And Displays",
+    "price": "R16 369",
+    "handle": "dell-alienware-27-4k-qd-oled-gaming-monitor-resolution-refresh-rate-3840-x-2160-240hz-stand-adjustments-tilt-ivot-height-swivel-connectivity-displayport-1-4-2-hdmi-ports-usb-5gbps-3-year-advance",
+    "url": "/products/dell-alienware-27-4k-qd-oled-gaming-monitor-resolution-refresh-rate-3840-x-2160-240hz-stand-adjustments-tilt-ivot-height-swivel-connectivity-displayport-1-4-2-hdmi-ports-usb-5gbps-3-year-advance",
+    "qty": 3,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BQWV_default.png"
    },
    {
     "brand": "Asus",
@@ -704,14 +694,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HV0EE.W01_default.jpg"
    },
    {
-    "brand": "Samsung",
-    "title": "Samsung Odyssey G55T Gaming 1000R 34\" QHD Monitor (LC34G55TWWPXEN)",
-    "spec": "34\" screen",
-    "price": "R8 360",
-    "handle": "samsung-odyssey-g55t-gaming-1000r-borderless-34-display-va-response-1ms-mprt-ar-21-9-resolution-3440x1440-uwqhd-rr-165hz-hdmi-display-port-speaker-no-power-supply-external-tilt-yes-swivel-no-pivot-no",
-    "url": "/products/samsung-odyssey-g55t-gaming-1000r-borderless-34-display-va-response-1ms-mprt-ar-21-9-resolution-3440x1440-uwqhd-rr-165hz-hdmi-display-port-speaker-no-power-supply-external-tilt-yes-swivel-no-pivot-no",
-    "qty": 11,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/LC34G55TWWPXEN_default.png"
+    "brand": "Xiaomi",
+    "title": "Xiaomi G Pro 27i 27\" 2K 1440p Mini LED IPS Gaming Monitor (180Hz, 1ms)",
+    "spec": "27\" screen",
+    "price": "R8 194",
+    "handle": "xiaomi-g-pro-27i-27-2k-1440p-mini-led-ips-gaming-monitor-180hz-1ms",
+    "url": "/products/xiaomi-g-pro-27i-27-2k-1440p-mini-led-ips-gaming-monitor-180hz-1ms",
+    "qty": 29,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/ELA5585EU_Xiaomi-G-Pro-27i_27-inch_2k_qhd_gaming_monitor_wr_01b.jpg"
    },
    {
     "brand": "Asus",
@@ -767,13 +757,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP Series 3 Pro 27\" FHD IPS Monitor",
-    "spec": "27\" screen",
-    "price": "R3 776",
-    "handle": "hp-series-3-pro-27-fhd-ips-monitor",
-    "url": "/products/hp-series-3-pro-27-fhd-ips-monitor",
-    "qty": 10,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/0/B0CG3UT_30b1.jpg"
+    "title": "HP Series 3 Pro 24\" FHD Monitor (9U5C1AS)",
+    "spec": "24\" screen",
+    "price": "R3 413",
+    "handle": "hp-series-3-pro-24-fhd-monitor-9u5c1as",
+    "url": "/products/hp-series-3-pro-24-fhd-monitor-9u5c1as",
+    "qty": 49,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5C1AS_b69f.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -800,14 +790,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GU30WPRO_wr_01a.jpg"
    },
    {
-    "brand": "Hikvision",
-    "title": "Hikvision 1000VA 1KVA UPS",
-    "spec": "1KVA UPS",
-    "price": "R1 024",
-    "handle": "hikvision-1000va-1kva-ups",
-    "url": "/products/hikvision-1000va-1kva-ups",
-    "qty": 425,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
+    "brand": "Lalela",
+    "title": "Lalela R1818 Wi-Fi UPS for Router and ONT 48.8WH 6-8 Hour Runtime",
+    "spec": "Ups And Power",
+    "price": "R442",
+    "handle": "lalela-r1818-wi-fi-ups-for-router-and-ont-48-8wh-6-8-hour-runtime",
+    "url": "/products/lalela-r1818-wi-fi-ups-for-router-and-ont-48-8wh-6-8-hour-runtime",
+    "qty": 21,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/LAL-R1818_default.jpg"
    },
    {
     "brand": "Eaton",
@@ -874,24 +864,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/BX1200MI_default.jpg"
    },
    {
-    "brand": "APC",
-    "title": "APC Backup UPS 950VA 520W UPS Tower Rack mount included: No Rack…",
+    "brand": "Eaton",
+    "title": "Eaton 5E 900VA GEN2 USB IEC UPS",
     "spec": "Ups And Power",
-    "price": "R1 900",
-    "handle": "apc-backup-ups-950va-520w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
-    "url": "/products/apc-backup-ups-950va-520w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
-    "qty": 1,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BX950MI_default.jpg"
+    "price": "R1 648",
+    "handle": "eaton-5e-900va-gen2-usb-iec-ups",
+    "url": "/products/eaton-5e-900va-gen2-usb-iec-ups",
+    "qty": 57,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E900UI_761f.png"
    },
    {
     "brand": "Eaton",
-    "title": "Eaton 5E 1600VA GEN2 USB IEC UPS",
+    "title": "Eaton 5E 2200VA GEN2 USB IEC UPS",
     "spec": "Ups And Power",
-    "price": "R2 972",
-    "handle": "eaton-5e-1600va-gen2-usb-iec-ups",
-    "url": "/products/eaton-5e-1600va-gen2-usb-iec-ups",
-    "qty": 10,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
+    "price": "R3 701",
+    "handle": "eaton-5e-2200va-gen2-usb-iec-ups",
+    "url": "/products/eaton-5e-2200va-gen2-usb-iec-ups",
+    "qty": 12,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E2200UI_1_03c6.png"
    },
    {
     "brand": "APC",
@@ -1450,7 +1440,7 @@
     "price": "R1 611",
     "handle": "hikvision-4mp-2-8mm-fixed-bullet-network-camera",
     "url": "/products/hikvision-4mp-2-8mm-fixed-bullet-network-camera",
-    "qty": 2155,
+    "qty": 2153,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2041G0_LIU_2.8MM_e3b5.png"
    },
    {
@@ -1836,24 +1826,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS105_wr_01.jpg"
    },
    {
-    "brand": "WINX",
-    "title": "WINX CALL Pro 2 Mono AI Noise Cancelling Headset",
+    "brand": "Redragon",
+    "title": "Redragon H889W SPECTRA PRO Over-Ear Wireless Headphones - White",
     "spec": "Headsets",
-    "price": "R699",
-    "handle": "winx-call-pro-2-mono-ai-noise-cancelling-headset",
-    "url": "/products/winx-call-pro-2-mono-ai-noise-cancelling-headset",
-    "qty": 296,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS113_WINX-CALL-Pro-Wireless-Noise-Cancelling-Mic-Headset-Black_wr_01a.jpg"
+    "price": "R724",
+    "handle": "redragon-h889w-spectra-pro-over-ear-wireless-headphones-white",
+    "url": "/products/redragon-h889w-spectra-pro-over-ear-wireless-headphones-white",
+    "qty": 39,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/RD-H889WG_Redragon-H889W-SPECTRA-PRO-Over-Ear-Wireless-Headphones-White_wr_01a.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port Connect ON’R 500 Bluetooth® Stereo Headset",
+    "brand": "HP",
+    "title": "HP POLY 5220 Stereo USB-A Wired Black Headset",
     "spec": "Headsets",
-    "price": "R1 510",
-    "handle": "port-connect-on-r-500-bluetooth-stereo-headset",
-    "url": "/products/port-connect-on-r-500-bluetooth-stereo-headset",
-    "qty": 28,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/912002_PORT-CONNECT-BINAURAL-HEADSET-BT_wr_06.jpg"
+    "price": "R1 519",
+    "handle": "hp-poly-5220-stereo-usb-a-wired-black-headset",
+    "url": "/products/hp-poly-5220-stereo-usb-a-wired-black-headset",
+    "qty": 16,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/8/X/8X231AA_4dd6.png"
    },
    {
     "brand": "HP",
@@ -1966,7 +1956,7 @@
     "brand": "Ubiquiti",
     "title": "Ubiquiti UniFi Pro 48 Port 40 PoE 600W Switch 4SFP+ | USW-Pro-48-PoE",
     "spec": "1.3\" touch LCM;auto-sensing 802.3at PoE+ and 802.3bt PoE++ 600W PoE bu",
-    "price": "R23 505",
+    "price": "R23 741",
     "handle": "ubiquiti-unifi-pro-48-port-40-poe-600w-switch-4sfp-usw-pro-48-poe",
     "url": "/pages/ubiquiti-unifi-pro-48-port-40-poe-600w-switch-4sfp-usw-pro-48-poe",
     "qty": 9,
@@ -2063,23 +2053,23 @@
    },
    {
     "brand": "Patriot",
-    "title": "Patriot iLuxe Cube 1TB Type-C Smart Backup Solution - White",
-    "spec": "Storage",
-    "price": "R2 517",
-    "handle": "patriot-iluxe-cube-1tb-type-c-smart-backup-solution-white",
-    "url": "/products/patriot-iluxe-cube-1tb-type-c-smart-backup-solution-white",
-    "qty": 4,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/PI1TBCUW30C_Patriot-iLuxe-Cube-1TB-Type-C-Smart-Backup-Solution-White_wr_01.jpg"
+    "title": "Patriot Burst Elite 960GB 2.5\" SATA III SSD",
+    "spec": "2.5\" screen",
+    "price": "R2 442",
+    "handle": "patriot-burst-elite-960gb-2-5-sata-iii-ssd",
+    "url": "/products/patriot-burst-elite-960gb-2-5-sata-iii-ssd",
+    "qty": 19,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/PBE960GS25SSDR_Patriot-Burst-Elite-960GB-2.5-inch-SATA-III-SSD-Black_wr_01.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell 480GB PCIe Gen4 M.2 2280 NVMe SSD for BOSS-N1 Controller Card",
+    "brand": "PATRIOT",
+    "title": "PATRIOT SSD VP4000 M.2 NVME 2TB 2230",
     "spec": "Storage",
-    "price": "R5 432",
-    "handle": "dell-480gb-pcie-gen4-m-2-2280-nvme-ssd-for-boss-n1-controller-card",
-    "url": "/products/dell-480gb-pcie-gen4-m-2-2280-nvme-ssd-for-boss-n1-controller-card",
-    "qty": 5,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/4/0/400_BONG_7e2a.jpg"
+    "price": "R5 665",
+    "handle": "patriot-ssd-vp4000-m-2-nvme-2tb-2230",
+    "url": "/products/patriot-ssd-vp4000-m-2-nvme-2tb-2230",
+    "qty": 9,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/VP4000M2TBM23_Patriot-Viper-VP4000-Mini-2TB-M.2-2230-PCIe-Gen4x4-SSD_wr_01.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -2361,7 +2351,7 @@
     "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
     "url": "https://ubratech.co.za/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg",
-    "qty": 136
+    "qty": 196
    },
    {
     "brand": "Xiaomi",
@@ -2374,14 +2364,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/BHR8930GL_wr_01.jpg"
    },
    {
-    "brand": "Soundcore",
-    "title": "Havit SK832BT Ring Light Wless Speaker Black",
-    "spec": "Headsets",
-    "price": "R473",
-    "handle": "havit-sk832bt-ring-light-wless-speaker-black",
-    "url": "/products/havit-sk832bt-ring-light-wless-speaker-black",
-    "qty": 1,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/HAV-SK832BT_default.jpg"
+    "brand": "WINX",
+    "title": "WINX VIBE Pure Hybrid ANC Headphones",
+    "spec": "Tv And Audio",
+    "price": "R490",
+    "handle": "winx-vibe-pure-hybrid-anc-headphones",
+    "url": "/products/winx-vibe-pure-hybrid-anc-headphones",
+    "qty": 74,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/05/Winx_WX-HS109_Vibe-Pure-Hybrid-ANC-Headphones_45-0051-Edit1500x1500-96DPI.jpg"
+   },
+   {
+    "brand": "Xiaomi",
+    "title": "Xiaomi Redmi Headphones Neo ANC Wireless Over-Ears - White",
+    "spec": "Tv And Audio",
+    "price": "R1 213",
+    "handle": "xiaomi-redmi-headphones-neo-anc-wireless-over-ears-white",
+    "url": "/products/xiaomi-redmi-headphones-neo-anc-wireless-over-ears-white",
+    "qty": 24,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/BHR08W2GL_Redmi-Headphones-Neo-ANC-Wireless-Over-Ears-White_wr_01a.jpg"
    },
    {
     "brand": "Dell",
@@ -2426,34 +2426,34 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2018/09/N301-10-SV-PRO_wr_01a.jpg"
    },
    {
-    "brand": "TP-Link",
-    "title": "TP-Link N300 High Gain USB Wi-Fi Adapter",
-    "spec": "Cables And Adapters",
-    "price": "R130",
-    "handle": "tp-link-n300-high-gain-usb-wi-fi-adapter",
-    "url": "/products/tp-link-n300-high-gain-usb-wi-fi-adapter",
-    "qty": 65,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__18__825e.png"
-   },
-   {
     "brand": "Port",
-    "title": "Port 65W Acer & Toshiba AC Adapter",
-    "spec": "Power Adapter",
-    "price": "R465",
-    "handle": "port-65w-acer-toshiba-ac-adapter",
-    "url": "/products/port-65w-acer-toshiba-ac-adapter",
-    "qty": 52,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900093_ACTO_1_c203.png"
+    "title": "Port Comfortable Ergonomic Mouse Pad",
+    "spec": "Accessories",
+    "price": "R132",
+    "handle": "port-comfortable-ergonomic-mouse-pad",
+    "url": "/products/port-comfortable-ergonomic-mouse-pad",
+    "qty": 199,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900717_1_a313.png"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo USB-C Dual Display Travel Dock with 100W Adapter The Lenovo… (40B90100SA)",
-    "spec": "Cables And Adapters",
-    "price": "R2 439",
-    "handle": "lenovo-usb-c-dual-display-travel-dock-with-100w-adapter-the-lenovo-usb-c-dual-display-travel-dock-40b9-is-an-essential-companion-for-the-modern-remote-professional-this-compact-dynamo-supports-dual",
-    "url": "/products/lenovo-usb-c-dual-display-travel-dock-with-100w-adapter-the-lenovo-usb-c-dual-display-travel-dock-40b9-is-an-essential-companion-for-the-modern-remote-professional-this-compact-dynamo-supports-dual",
-    "qty": 32,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/40B90100SA_default.png"
+    "brand": "SkullCandy",
+    "title": "Skullcandy Dime 3 True Wireless In Ear True Back",
+    "spec": "Accessories",
+    "price": "R473",
+    "handle": "skullcandy-dime-3-true-wireless-in-ear-true-back",
+    "url": "/products/skullcandy-dime-3-true-wireless-in-ear-true-back",
+    "qty": 4,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/S2DCW-R740_default.jpg"
+   },
+   {
+    "brand": "SanDisk",
+    "title": "SanDisk Extreme Pro Type C USB 512GB, 1000MB/s R, 900MB/s W, Lifetime Warranty",
+    "spec": "Accessories",
+    "price": "R2 469",
+    "handle": "sandisk-extreme-pro-type-c-usb-512gb-1000mb-s-r-900mb-s-w-lifetime-warranty",
+    "url": "/products/sandisk-extreme-pro-type-c-usb-512gb-1000mb-s-r-900mb-s-w-lifetime-warranty",
+    "qty": 22,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_81d3.png"
    }
   ],
   "comfort": [
@@ -2499,23 +2499,23 @@
    },
    {
     "brand": "Port",
-    "title": "Port Connect Ergo Shape Bluetooth Rechargeable Mouse",
+    "title": "Port Connect Ergo Shape Rechargeable Wireless Mouse",
     "spec": "Mice",
     "price": "R351",
-    "handle": "port-connect-ergo-shape-bluetooth-rechargeable-mouse",
-    "url": "/products/port-connect-ergo-shape-bluetooth-rechargeable-mouse",
-    "qty": 40,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/910007_.PORT-MOUSE-ERGO-RECHARGEABLE-BT-RIGHT_wr_08.jpg"
+    "handle": "port-connect-ergo-shape-rechargeable-wireless-mouse",
+    "url": "/products/port-connect-ergo-shape-rechargeable-wireless-mouse",
+    "qty": 105,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/910008_PORT-MOUSE-ERGO-RECHARGEABLE-BT-LEFT_wr_09.jpg"
    },
    {
-    "brand": "Redragon",
-    "title": "Redragon BRAGI PRO K688 98+1 Gasket Wireless Mechanical Keyboard…",
-    "spec": "Keyboards",
-    "price": "R737",
-    "handle": "redragon-bragi-pro-k688-98-1-gasket-wireless-mechanical-keyboard-triple-mode-rgb-hot-swappable-cream-linear-switches",
-    "url": "/products/redragon-bragi-pro-k688-98-1-gasket-wireless-mechanical-keyboard-triple-mode-rgb-hot-swappable-cream-linear-switches",
-    "qty": 26,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/RD-K688GB-RGB-PRO_REDRAGON-KB-MECH-BRAGI-PRO-RGB-BK_wr_01.jpg"
+    "brand": "Port",
+    "title": "Port Executive Wireless Black Mouse",
+    "spec": "Wired Mouse",
+    "price": "R729",
+    "handle": "port-executive-wireless-black-mouse",
+    "url": "/products/port-executive-wireless-black-mouse",
+    "qty": 100,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_044c.png"
    },
    {
     "brand": "Keychron",
