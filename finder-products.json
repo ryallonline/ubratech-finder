@@ -633,13 +633,13 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell Alienware 27 4K QD-OLED 240Hz Gaming Monitor (210-BQWV)",
-    "spec": "Monitors And Displays",
-    "price": "R16 369",
-    "handle": "dell-alienware-27-4k-qd-oled-gaming-monitor-resolution-refresh-rate-3840-x-2160-240hz-stand-adjustments-tilt-ivot-height-swivel-connectivity-displayport-1-4-2-hdmi-ports-usb-5gbps-3-year-advance",
-    "url": "/products/dell-alienware-27-4k-qd-oled-gaming-monitor-resolution-refresh-rate-3840-x-2160-240hz-stand-adjustments-tilt-ivot-height-swivel-connectivity-displayport-1-4-2-hdmi-ports-usb-5gbps-3-year-advance",
-    "qty": 3,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BQWV_default.png"
+    "title": "Dell P2722HE 27\" FHD IPS Monitor",
+    "spec": "27\" screen",
+    "price": "R17 762",
+    "handle": "dell-p2722he-27-fhd-ips-monitor",
+    "url": "/products/dell-p2722he-27-fhd-ips-monitor",
+    "qty": 5,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BMDW_1_c0eb.png"
    },
    {
     "brand": "Asus",
@@ -704,14 +704,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-275F-E20_MSI-MAG-275F-E20-27inch-FHD-200Hz-Gaming-Montor-wr01.jpeg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi G Pro 27i 27\" 2K 1440p Mini LED IPS Gaming Monitor (180Hz, 1ms)",
-    "spec": "27\" screen",
-    "price": "R8 194",
-    "handle": "xiaomi-g-pro-27i-27-2k-1440p-mini-led-ips-gaming-monitor-180hz-1ms",
-    "url": "/products/xiaomi-g-pro-27i-27-2k-1440p-mini-led-ips-gaming-monitor-180hz-1ms",
-    "qty": 29,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/ELA5585EU_Xiaomi-G-Pro-27i_27-inch_2k_qhd_gaming_monitor_wr_01b.jpg"
+    "brand": "Samsung",
+    "title": "Samsung Odyssey G55T Gaming 1000R 34\" QHD Monitor (LC34G55TWWPXEN)",
+    "spec": "34\" screen",
+    "price": "R8 360",
+    "handle": "samsung-odyssey-g55t-gaming-1000r-borderless-34-display-va-response-1ms-mprt-ar-21-9-resolution-3440x1440-uwqhd-rr-165hz-hdmi-display-port-speaker-no-power-supply-external-tilt-yes-swivel-no-pivot-no",
+    "url": "/products/samsung-odyssey-g55t-gaming-1000r-borderless-34-display-va-response-1ms-mprt-ar-21-9-resolution-3440x1440-uwqhd-rr-165hz-hdmi-display-port-speaker-no-power-supply-external-tilt-yes-swivel-no-pivot-no",
+    "qty": 11,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/LC34G55TWWPXEN_default.png"
    },
    {
     "brand": "Asus",
@@ -2172,7 +2172,7 @@
     "price": "R1 393",
     "handle": "asus-geforce-gt-710-2gb-gddr5-evo-graphics-card",
     "url": "/products/asus-geforce-gt-710-2gb-gddr5-evo-graphics-card",
-    "qty": 121,
+    "qty": 120,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/04/ASUS_GT710-SL-2GD5-BRK-EVO_wr_01a.jpg"
    },
    {
@@ -2192,7 +2192,7 @@
     "price": "R9 783",
     "handle": "asrock-radeon-rx-9060-xt-challenger-16gb-oc-graphics-card-rdna-4-pcie-5-0",
     "url": "/products/asrock-radeon-rx-9060-xt-challenger-16gb-oc-graphics-card-rdna-4-pcie-5-0",
-    "qty": 121,
+    "qty": 119,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/RX9060XTCHALLENGER16G_ASRock-AMD-Radeon-RX-9060-XT-Challenger-16GB-OC_wr_01a.jpg"
    },
    {
