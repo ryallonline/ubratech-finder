@@ -70,7 +70,7 @@
     "price": "R12 567",
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
-    "qty": 79,
+    "qty": 81,
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA-BUN1Q2_default.png"
    },
    {
@@ -85,13 +85,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP OmniBook 5 16\" AI Ultra 5-225U 16GB 512GB Win Home 11 Silver Notebook",
-    "spec": "16\" screen",
-    "price": "R18 056",
-    "handle": "hp-omnibook-5-16-ai-ultra-5-225u-16gb-512gb-win-home-11-silver-notebook",
-    "url": "/products/hp-omnibook-5-16-ai-ultra-5-225u-16gb-512gb-win-home-11-silver-notebook",
+    "title": "HP 15S 15.6\" FHD UltraSlim AI Ultra 7-225U 16GB 512GB Win 11 Home Silver Notebook",
+    "spec": "15.6\" screen",
+    "price": "R18 004",
+    "handle": "hp-15s-15-6-fhd-ultraslim-ai-ultra-7-225u-16gb-512gb-win-11-home-silver-notebook",
+    "url": "/products/hp-15s-15-6-fhd-ultraslim-ai-ultra-7-225u-16gb-512gb-win-11-home-silver-notebook",
     "qty": 69,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D67WBEA_7fbb.jpg"
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D6ZT6EA_91d2.jpg"
    },
    {
     "brand": "Acer",
@@ -576,7 +576,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 582,
+    "qty": 581,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -590,14 +590,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo L15 15\" FHD IPS USB-C Portable Monitor",
-    "spec": "15\" screen",
-    "price": "R3 253",
-    "handle": "lenovo-l15-15-fhd-ips-usb-c-portable-monitor",
-    "url": "/products/lenovo-l15-15-fhd-ips-usb-c-portable-monitor",
-    "qty": 4,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/6/6/66E4UAC1WL_e99a.jpg"
+    "brand": "Acer",
+    "title": "Acer Nitro VG270 27\" IPS FHD 1MS 240HZ Gaming Monitor 3Yr",
+    "spec": "27\" screen",
+    "price": "R3 273",
+    "handle": "acer-nitro-vg270-27-ips-fhd-1ms-240hz-gaming-monitor-3yr",
+    "url": "/products/acer-nitro-vg270-27-ips-fhd-1ms-240hz-gaming-monitor-3yr",
+    "qty": 2,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HV0EE.W01_default.jpg"
    },
    {
     "brand": "LG",
@@ -606,7 +606,7 @@
     "price": "R5 950",
     "handle": "lg-ultragear-27-qhd-gaming-monitor",
     "url": "/products/lg-ultragear-27-qhd-gaming-monitor",
-    "qty": 105,
+    "qty": 104,
     "image": "https://www.pinnacle.co.za/media/catalog/product/3/2/32GS60QC_B.AFBQ_6413.jpg"
    }
   ],
@@ -660,7 +660,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 282,
+    "qty": 271,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -684,24 +684,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
    },
    {
-    "brand": "MSI",
-    "title": "MSI MON PRO IPS 25 1080P 120HZ 1MS",
-    "spec": "Monitors And Displays",
-    "price": "R1 871",
-    "handle": "msi-mon-pro-ips-25-1080p-120hz-1ms",
-    "url": "/products/msi-mon-pro-ips-25-1080p-120hz-1ms",
-    "qty": 2,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/09/PROMP251E2_wr_01.jpg"
-   },
-   {
-    "brand": "MSI",
-    "title": "MSI MAG 275F E20 27\" FHD 200Hz Rapid IPS Gaming Monitor",
+    "brand": "Acer",
+    "title": "Acer Nitro VG270 27\" IPS FHD 1MS 240HZ Gaming Monitor 3Yr",
     "spec": "27\" screen",
-    "price": "R3 249",
-    "handle": "msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
-    "url": "/products/msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
-    "qty": 120,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-275F-E20_MSI-MAG-275F-E20-27inch-FHD-200Hz-Gaming-Montor-wr01.jpeg"
+    "price": "R3 273",
+    "handle": "acer-nitro-vg270-27-ips-fhd-1ms-240hz-gaming-monitor-3yr",
+    "url": "/products/acer-nitro-vg270-27-ips-fhd-1ms-240hz-gaming-monitor-3yr",
+    "qty": 2,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HV0EE.W01_default.jpg"
    },
    {
     "brand": "Samsung",
@@ -742,7 +732,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 582,
+    "qty": 581,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -767,13 +757,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP Series 3 Pro 24\" FHD Monitor (9U5C1AS)",
-    "spec": "24\" screen",
-    "price": "R3 413",
-    "handle": "hp-series-3-pro-24-fhd-monitor-9u5c1as",
-    "url": "/products/hp-series-3-pro-24-fhd-monitor-9u5c1as",
-    "qty": 49,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5C1AS_b69f.jpg"
+    "title": "HP Series 3 Pro 27\" FHD IPS Monitor",
+    "spec": "27\" screen",
+    "price": "R3 776",
+    "handle": "hp-series-3-pro-27-fhd-ips-monitor",
+    "url": "/products/hp-series-3-pro-27-fhd-ips-monitor",
+    "qty": 10,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/B/0/B0CG3UT_30b1.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -870,7 +860,7 @@
     "price": "R2 467",
     "handle": "apc-backup-ups-1200va-1-2kva-650w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
     "url": "https://ubratech.co.za/products/apc-backup-ups-1200va-1-2kva-650w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
-    "qty": 2,
+    "qty": 4,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BX1200MI_default.jpg"
    },
    {
@@ -1832,7 +1822,7 @@
     "price": "R724",
     "handle": "redragon-h889w-spectra-pro-over-ear-wireless-headphones-white",
     "url": "/products/redragon-h889w-spectra-pro-over-ear-wireless-headphones-white",
-    "qty": 39,
+    "qty": 37,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/RD-H889WG_Redragon-H889W-SPECTRA-PRO-Over-Ear-Wireless-Headphones-White_wr_01a.jpg"
    },
    {
@@ -2029,7 +2019,7 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 67
+    "qty": 66
    },
    {
     "brand": "Seagate",
@@ -2052,24 +2042,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DTKN/64GB_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell 1TB 7.2K RPM SATA 6Gbps 512n 3.5in Internal Hard Drive/ CK…",
+    "brand": "Patriot",
+    "title": "Patriot Transporter Lite 1TB USB3.2 Type-C External Portable SSD - Red",
     "spec": "Storage",
-    "price": "R2 482",
-    "handle": "dell-1tb-7-2k-rpm-sata-6gbps-512n-3-5in-internal-hard-drive-ck-compatible-c6420-r440-r640-r740-r740xd-r940",
-    "url": "/products/dell-1tb-7-2k-rpm-sata-6gbps-512n-3-5in-internal-hard-drive-ck-compatible-c6420-r440-r640-r740-r740xd-r940",
-    "qty": 3,
-    "image": "http://cdn.cs.1worldsync.com/ee/37/ee3717c9-ce05-4aa5-8f8f-42d4ca2e1073.jpg"
+    "price": "R2 265",
+    "handle": "patriot-transporter-lite-1tb-usb3-2-type-c-external-portable-ssd-red",
+    "url": "/products/patriot-transporter-lite-1tb-usb3-2-type-c-external-portable-ssd-red",
+    "qty": 25,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/PTPL1TBPEC_Patriot-Transporter-Lite-1TB-USB3.2-Type-C-External-Portable-SSD_wr_01.jpg"
    },
    {
-    "brand": "HPE",
-    "title": "HPE 1.2TB SAS 10K SFF BC MV HDD",
+    "brand": "PATRIOT",
+    "title": "PATRIOT SSD VP4000 M.2 NVME 2TB 2230",
     "spec": "Storage",
-    "price": "R5 761",
-    "handle": "hpe-1-2tb-sas-10k-sff-bc-mv-hdd",
-    "url": "/products/hpe-1-2tb-sas-10k-sff-bc-mv-hdd",
-    "qty": 1,
-    "image": "http://cdn.cs.1worldsync.com/02/56/0256d79f-fb37-4c41-b2e0-0154b578cd29.jpg"
+    "price": "R5 665",
+    "handle": "patriot-ssd-vp4000-m-2-nvme-2tb-2230",
+    "url": "/products/patriot-ssd-vp4000-m-2-nvme-2tb-2230",
+    "qty": 10,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/VP4000M2TBM23_Patriot-Viper-VP4000-Mini-2TB-M.2-2230-PCIe-Gen4x4-SSD_wr_01.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -2114,24 +2104,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/03/PSD44G266681_wr_01.jpg"
    },
    {
-    "brand": "Hiksemi",
-    "title": "Hiksemi Hiker 16GB DDR4 2666MHz Desktop Memory",
+    "brand": "HIKSEMI",
+    "title": "HIKSEMI Hiker 16GB 3200MHZ DDR4 SODIMM",
     "spec": "Memory",
-    "price": "R2 456",
-    "handle": "hiksemi-hiker-16gb-ddr4-2666mhz-desktop-memory",
-    "url": "/products/hiksemi-hiker-16gb-ddr4-2666mhz-desktop-memory",
-    "qty": 138,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/HSC416U26Z1-16G_wr_01a.jpg"
+    "price": "R2 517",
+    "handle": "hiksemi-hiker-16gb-3200mhz-ddr4-sodimm",
+    "url": "/products/hiksemi-hiker-16gb-3200mhz-ddr4-sodimm",
+    "qty": 236,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/HSC416S32Z1-16G_wr_-2.jpg"
    },
    {
-    "brand": "Crucial",
-    "title": "Crucial 16GB 5600MHz DDR5 Desktop Memory",
+    "brand": "Patriot",
+    "title": "Patriot Vipersteel 32GB KIT (2x16GB) 3600MHz DDR4 Desktop Gaming Memory RGB",
     "spec": "Memory",
-    "price": "R5 115",
-    "handle": "crucial-16gb-5600mhz-ddr5-desktop-memory",
-    "url": "/products/crucial-16gb-5600mhz-ddr5-desktop-memory",
-    "qty": 92,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/11/CT16G56C46U5_wr_01a.jpg"
+    "price": "R5 414",
+    "handle": "patriot-vipersteel-32gb-kit-2x16gb-3600mhz-ddr4-desktop-gaming-memory-rgb",
+    "url": "/products/patriot-vipersteel-32gb-kit-2x16gb-3600mhz-ddr4-desktop-gaming-memory-rgb",
+    "qty": 188,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PVSR432G360C8K_wr_01.jpg"
    },
    {
     "brand": "Geil",
@@ -2205,7 +2195,7 @@
     "handle": "deepcool-ak400-g2-120mm-cpu-air-cooler-white",
     "url": "https://ubratech.co.za/products/deepcool-ak400-g2-120mm-cpu-air-cooler-white",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/R-AK400G2-WHNNMN-GJD_DeepCool-AK400-G2-120mm-CPU-Air-Cooler-White_wr_01.jpg",
-    "qty": 4
+    "qty": 3
    },
    {
     "brand": "Gizzu",
@@ -2331,7 +2321,7 @@
     "handle": "xiaomi-soundbar-2-0ch",
     "url": "https://ubratech.co.za/products/xiaomi-soundbar-2-0ch",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/QBH4286EU_Xiaomi-Soundbar-2.0ch_wr_01.jpg",
-    "qty": 11
+    "qty": 5
    },
    {
     "brand": "Xiaomi",
@@ -2370,7 +2360,7 @@
     "price": "R490",
     "handle": "winx-vibe-pure-hybrid-anc-headphones",
     "url": "/products/winx-vibe-pure-hybrid-anc-headphones",
-    "qty": 74,
+    "qty": 72,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/05/Winx_WX-HS109_Vibe-Pure-Hybrid-ANC-Headphones_45-0051-Edit1500x1500-96DPI.jpg"
    },
    {
@@ -2554,25 +2544,25 @@
    "enquiry": true
   },
   {
-   "brand": "MikroTik",
-   "title": "MikroTik mANTBox ax 15s WiFi 6 Integrated Access Point | L22UGS-5HaxD2HaxD-15S",
-   "spec": "2.4/5 GHz Wi-Fi 6, Gigabit Ethernet, 2.5G SFP",
-   "price": "R3 139",
-   "handle": "mikrotik-mantbox-ax-15s-wifi-6-integrated-access-point-l22ugs-5haxd2haxd-15s",
-   "url": "/pages/mikrotik-mantbox-ax-15s-wifi-6-integrated-access-point-l22ugs-5haxd2haxd-15s",
+   "brand": "Grandstream",
+   "title": "Grandstream Enterprise WiFi 7 Indoor Access Point | GWN7672",
+   "spec": "3.6Gbps, Dual-band 2x2:2 MU-MIMO,256 client devices, 2x 2.5GbE, BLE, E",
+   "price": "R3 176",
+   "handle": "grandstream-enterprise-wifi-7-indoor-access-point-gwn7672",
+   "url": "/pages/grandstream-enterprise-wifi-7-indoor-access-point-gwn7672",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/3/3/9/9/13399.jpg",
+   "image": "https://miro.co.za/img/p/1/8/6/6/5/18665.jpg",
    "enquiry": true
   },
   {
    "brand": "Ubiquiti",
-   "title": "Ubiquiti UniFi6 Mesh Pro Indoor/Outdoor Dual Band WiFi6 Access Point | U6-Mesh-Pro",
-   "spec": "No PoE Injector included, Indoor AP - 350+ concurrent client capacity,",
-   "price": "R4 398",
-   "handle": "ubiquiti-unifi6-mesh-pro-indoor-outdoor-dual-band-wifi6-access-point-u6-mesh-pro",
-   "url": "/pages/ubiquiti-unifi6-mesh-pro-indoor-outdoor-dual-band-wifi6-access-point-u6-mesh-pro",
+   "title": "Ubiquiti UniFi Wi-Fi 7 Pro XG Black Indoor Access Point | U7-Pro-XG-B",
+   "spec": "No PoE Injector included, 6 Spatial Streams, 300+ connected devices, 1",
+   "price": "R4 493",
+   "handle": "ubiquiti-unifi-wi-fi-7-pro-xg-black-indoor-access-point-u7-pro-xg-b",
+   "url": "/pages/ubiquiti-unifi-wi-fi-7-pro-xg-black-indoor-access-point-u7-pro-xg-b",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/4/0/8/5/14085.jpg",
+   "image": "https://miro.co.za/img/p/1/9/6/3/3/19633.jpg",
    "enquiry": true
   },
   {
