@@ -58,7 +58,7 @@
     "price": "R12 730",
     "handle": "hp-15s-15-6-fhd-ultraslim-ryzen-5-7520u-16gb-512gb-win-11-home-silver-notebook",
     "url": "/products/hp-15s-15-6-fhd-ultraslim-ryzen-5-7520u-16gb-512gb-win-11-home-silver-notebook",
-    "qty": 68,
+    "qty": 67,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D68F4EA_ffc4.jpg"
    }
   ],
@@ -136,14 +136,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 14 AI 14\" Core-U7 16GB 512GB Win 11 Pro Notebook",
-    "spec": "14\" screen",
-    "price": "R30 243",
-    "handle": "dell-pro-14-ai-14-core-u7-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/dell-pro-14-ai-14-core-u7-16gb-512gb-win-11-pro-notebook",
-    "qty": 20,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/T/BTO107_PC14250_6153.jpg"
+    "brand": "HP",
+    "title": "HP ProBook 4 G2i AI 16In Laptop — 16GB · 512GB SSD",
+    "spec": "512GB SSD",
+    "price": "R30 435",
+    "handle": "hp-probook-4-g2i-ai-16in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "url": "/products/hp-probook-4-g2i-ai-16in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "qty": 73,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DW2G5ET_default.png"
    },
    {
     "brand": "Dell",
@@ -209,23 +209,23 @@
    },
    {
     "brand": "Asus",
-    "title": "Asus Zenbook S16 UM5606GA 16\" 3K OLED 120Hz Ryzen AI 9-465 16GB 1TB Win 11 Pro Notebook",
-    "spec": "16\" screen",
-    "price": "R39 665",
-    "handle": "asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
-    "url": "/products/asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
-    "qty": 2,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_S16_UM5606GA_Product_photo_3G_Antrim_Gray_03__1__de3e.jpg"
+    "title": "Asus Zenbook 14 UX3405CA 14\" 3K OLED 120Hz Core U9-285H 16GB 1TB Win 11 Pro Notebook",
+    "spec": "14\" screen",
+    "price": "R34 754",
+    "handle": "asus-zenbook-14-ux3405ca-14-3k-oled-120hz-core-u9-285h-16gb-1tb-win-11-pro-notebook",
+    "url": "/products/asus-zenbook-14-ux3405ca-14-3k-oled-120hz-core-u9-285h-16gb-1tb-win-11-pro-notebook",
+    "qty": 16,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_14_UX3405CA_Product_photo_3B_Ponder_Blue_03_62bf.jpg"
    },
    {
     "brand": "Dell",
-    "title": "Dell Alienware 16 Aurora 16\" RTX 5060 Core-7 32GB 1TB Win 11 Pro Notebook",
+    "title": "Dell Alienware 16 Aurora 16\" RTX 4050 Core 5-210H 16GB 512GB Win 11 Pro Gaming Notebook",
     "spec": "16\" screen",
-    "price": "R61 181",
-    "handle": "dell-alienware-16-aurora-16-rtx-5060-core-7-32gb-1tb-win-11-pro-notebook",
-    "url": "/products/dell-alienware-16-aurora-16-rtx-5060-core-7-32gb-1tb-win-11-pro-notebook",
-    "qty": 1,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/C/AC16250_RPLH_R_010_7f52.jpg"
+    "price": "R40 142",
+    "handle": "dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
+    "url": "/products/dell-alienware-16-aurora-16-rtx-4050-core-5-210h-16gb-512gb-win-11-pro-gaming-notebook",
+    "qty": 4,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/C/AC16250_RPLH_R_006_794e.jpg"
    }
   ]
  },
@@ -337,13 +337,13 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro Slim QCS1250 Desktop PC — Core Ultra 7 · 512GB SSD (BTO108_QCS1250_EMEA)",
-    "spec": "512GB SSD",
-    "price": "R31 865",
-    "handle": "dell-pro-slim-qcs1250-intel-core-ultra-7-265-13-tops-up-to-5-3-ghz-16gb-1x16gb-5600mt-s-ddr5-512gb-ssd-tlc-integrated-graphics-no-wi-fi-bluetooth-dell-kb216-multimedia-usb-keyboard-dell-ms116-optical",
-    "url": "/products/dell-pro-slim-qcs1250-intel-core-ultra-7-265-13-tops-up-to-5-3-ghz-16gb-1x16gb-5600mt-s-ddr5-512gb-ssd-tlc-integrated-graphics-no-wi-fi-bluetooth-dell-kb216-multimedia-usb-keyboard-dell-ms116-optical",
-    "qty": 11,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO108_QCS1250_EMEA_default.jpg"
+    "title": "Dell OptiPlex 7490 Desktop PC — Core i7 (210-AYVE-16610622)",
+    "spec": "Desktops",
+    "price": "R30 573",
+    "handle": "dell-optiplex-7490-intel-core-i7-11700-32gb-2x16gb-ddr4-non-ecc-3-5-inch-1tb-7200rpm-sata-8x-dvd-rw-9-5mm-wireless-keyboard-and-mouse-windows-10-pro-basic-onsite-service-extension-emerging-only-24",
+    "url": "/products/dell-optiplex-7490-intel-core-i7-11700-32gb-2x16gb-ddr4-non-ecc-3-5-inch-1tb-7200rpm-sata-8x-dvd-rw-9-5mm-wireless-keyboard-and-mouse-windows-10-pro-basic-onsite-service-extension-emerging-only-24",
+    "qty": 4,
+    "image": "https://staxdstoragecdn.blob.core.windows.net/axd-live/dell_210-ayve-16610622.jpg"
    },
    {
     "brand": "PCBuilder",
@@ -484,14 +484,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/0/2/02_G_New_16_L__8__d684.png"
    },
    {
-    "brand": "Asus",
-    "title": "Asus TUF Gaming F16 16\" Core-i7 16GB 1TB Win 11 Pro Notebook",
-    "spec": "16\" screen",
-    "price": "R43 827",
-    "handle": "asus-tuf-gaming-f16-16-core-i7-16gb-1tb-win-11-pro-notebook",
-    "url": "/products/asus-tuf-gaming-f16-16-core-i7-16gb-1tb-win-11-pro-notebook",
+    "brand": "PCBuilder",
+    "title": "PCBuilder Ryzen 5 7600 MAVERICK Windows 11 Gaming PC (PCB_MAVERICK_02)",
+    "spec": "Desktops",
+    "price": "R43 365",
+    "handle": "pcbuilder-ryzen-5-7600-maverick-windows-11-gaming-pc-pcb-maverick-02",
+    "url": "/products/pcbuilder-ryzen-5-7600-maverick-windows-11-gaming-pc-pcb-maverick-02",
     "qty": 11,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__44__6285.png"
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_MAVERICK_02_PCBuilder-Ryzen-5-7600-MAVERICK-Windows-11-Gaming-PC_wr_01.jpg"
    },
    {
     "brand": "Asus",
@@ -576,7 +576,7 @@
     "price": "R2 205",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 967,
+    "qty": 957,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -742,7 +742,7 @@
     "price": "R2 205",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 967,
+    "qty": 957,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -860,7 +860,7 @@
     "price": "R1 024",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 425,
+    "qty": 424,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -1354,7 +1354,7 @@
     "price": "R6 969",
     "handle": "hp-laserjet-pro-4103dw-mfp-mono-printer",
     "url": "/products/hp-laserjet-pro-4103dw-mfp-mono-printer",
-    "qty": 60,
+    "qty": 58,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z627A_default.png"
    },
    {
@@ -2049,7 +2049,7 @@
     "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
-    "qty": 43
+    "qty": 41
    },
    {
     "brand": "Kingston",
@@ -2384,16 +2384,6 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/05/Winx_WX-HS109_Vibe-Pure-Hybrid-ANC-Headphones_45-0051-Edit1500x1500-96DPI.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi Redmi Headphones Neo ANC Wireless Over-Ears - White",
-    "spec": "Tv And Audio",
-    "price": "R1 213",
-    "handle": "xiaomi-redmi-headphones-neo-anc-wireless-over-ears-white",
-    "url": "/products/xiaomi-redmi-headphones-neo-anc-wireless-over-ears-white",
-    "qty": 24,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/BHR08W2GL_Redmi-Headphones-Neo-ANC-Wireless-Over-Ears-White_wr_01a.jpg"
-   },
-   {
     "brand": "Dell",
     "title": "Dell Pro Premium Wireless ANC Headset - WL7024",
     "spec": "Headsets",
@@ -2436,24 +2426,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2018/09/N301-10-SV-PRO_wr_01a.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port Comfortable Ergonomic Mouse Pad",
+    "brand": "Giada",
+    "title": "Giada JC553 VESA Wall Mounting Kit",
     "spec": "Accessories",
-    "price": "R132",
-    "handle": "port-comfortable-ergonomic-mouse-pad",
-    "url": "/products/port-comfortable-ergonomic-mouse-pad",
-    "qty": 199,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900717_1_a313.png"
+    "price": "R133",
+    "handle": "giada-jc553-vesa-wall-mounting-kit",
+    "url": "/products/giada-jc553-vesa-wall-mounting-kit",
+    "qty": 4,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/JC553_wr_01.jpg"
    },
    {
-    "brand": "SanDisk",
-    "title": "SanDisk Extreme Pro SD UHS I Card for 4K Video 64GB",
+    "brand": "SkullCandy",
+    "title": "Skullcandy Dime 3 True Wireless In Ear True Back",
     "spec": "Accessories",
-    "price": "R474",
-    "handle": "sandisk-extreme-pro-sd-uhs-i-card-for-4k-video-64gb",
-    "url": "/products/sandisk-extreme-pro-sd-uhs-i-card-for-4k-video-64gb",
-    "qty": 420,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/S/D/SDSDXXU_064G_GN4IN_1e4f.jpg"
+    "price": "R473",
+    "handle": "skullcandy-dime-3-true-wireless-in-ear-true-back",
+    "url": "/products/skullcandy-dime-3-true-wireless-in-ear-true-back",
+    "qty": 4,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/S2DCW-R740_default.jpg"
    },
    {
     "brand": "SanDisk",
