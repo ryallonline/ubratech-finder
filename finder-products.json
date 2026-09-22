@@ -174,7 +174,7 @@
     "price": "R46 969",
     "handle": "hp-zbook-8-g1i-laptop-core-ultra-7-32gb-1tb-ssd-cg0g9et",
     "url": "https://ubratech.co.za/products/hp-zbook-8-g1i-laptop-core-ultra-7-32gb-1tb-ssd-cg0g9et",
-    "qty": 23,
+    "qty": 22,
     "image": "https://s3.amazonaws.com/tarsus.co.za/CG0G9ET_default.jpg"
    },
    {
@@ -268,7 +268,7 @@
     "price": "R8 819",
     "handle": "giada-df612-i5-1235u-2x-ddr4-3200mhz",
     "url": "/products/giada-df612-i5-1235u-2x-ddr4-3200mhz",
-    "qty": 6,
+    "qty": 5,
     "image": "https://www.syntech.co.za/wp-content/uploads/2023/06/DF612-1215U40N0G-GIA_wr_01-1.jpeg"
    },
    {
@@ -294,14 +294,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_HOME_R716G_wr_01a.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer VS2720G_W_FR 300W 89+ TCO10.0 EMEA CH Win Desktop PC (DT.R1PEA.00N)",
-    "spec": "Desktops",
-    "price": "R16 369",
-    "handle": "acer-vs2720g-w-fr-300w-89-tco10-0-emea-ch-windows-11-pro-64-r40v04-intel-ci5-14400-8g-1-1024g-1-ssd-wi-fi-6e-2x2-bluetooth-intel-cnvi-usb-keyboard-mouse-built-in-speakers-odd-windows-11-professional",
-    "url": "/products/acer-vs2720g-w-fr-300w-89-tco10-0-emea-ch-windows-11-pro-64-r40v04-intel-ci5-14400-8g-1-1024g-1-ssd-wi-fi-6e-2x2-bluetooth-intel-cnvi-usb-keyboard-mouse-built-in-speakers-odd-windows-11-professional",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DT.R1PEA.00N_default.png"
+    "brand": "Lenovo",
+    "title": "Lenovo Neo 50q G5 Tiny Desktop PC — 16GB · 512GB SSD (13B90059SA)",
+    "spec": "512GB SSD",
+    "price": "R15 992",
+    "handle": "lenovo-neo-50q-g5-tiny-core-5-210h-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-qlc-integrated-windows-11-pro-64-intel-wi-fi-6e-ax211-802-11ax-2x2-bluetooth-5-3-vesa-mount-internal-speaker-90w-adapter-usb",
+    "url": "/products/lenovo-neo-50q-g5-tiny-core-5-210h-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-qlc-integrated-windows-11-pro-64-intel-wi-fi-6e-ax211-802-11ax-2x2-bluetooth-5-3-vesa-mount-internal-speaker-90w-adapter-usb",
+    "qty": 23,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/13B90059SA_default.jpg"
    },
    {
     "brand": "Dell",
@@ -464,24 +464,24 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/C/AC16250_RPLH_R_006_794e.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus Vivobook Gaming Laptop | Laptop — 16GB · 1TB SSD",
-    "spec": "1TB SSD",
-    "price": "R25 184",
-    "handle": "asus-vivobook-16-inch-gaming-laptop-core-7-240h-rtx-5050-16gb-ddr5-1tb-ssd-windows-11-pro",
-    "url": "/products/asus-vivobook-16-inch-gaming-laptop-core-7-240h-rtx-5050-16gb-ddr5-1tb-ssd-windows-11-pro",
-    "qty": 1,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/V3607VH-I71610B0X_Asus-Vivobook-16-inch-Gaming-Laptop-Core-7-240H-RTX-5050-16GB-DDR5-1TB-SSD-Windows-11-Home_wr_01a.jpg"
+    "brand": "PCBuilder",
+    "title": "PCBuilder Ryzen 5 8400F RECON Windows 11 Gaming PC (PCB_RECON_02)",
+    "spec": "Desktops",
+    "price": "R26 605",
+    "handle": "pcbuilder-ryzen-5-8400f-recon-windows-11-gaming-pc-pcb-recon-02",
+    "url": "/products/pcbuilder-ryzen-5-8400f-recon-windows-11-gaming-pc-pcb-recon-02",
+    "qty": 5,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_RECON_02_PCBuilder-Ryzen-5-8400F-RECON-Windows-11-Gaming-PC_wr_01b.jpg"
    },
    {
     "brand": "Asus",
-    "title": "Asus ROG Strix G16 G614PP Laptop — Ryzen 9",
-    "spec": "Notebooks",
-    "price": "R39 287",
-    "handle": "asus-rog-strix-g16-g614pp-16-rtx5070-240hz-ryzen-9-8940hx-16gb-1tb-win-11-home-gaming-notebook",
-    "url": "/products/asus-rog-strix-g16-g614pp-16-rtx5070-240hz-ryzen-9-8940hx-16gb-1tb-win-11-home-gaming-notebook",
-    "qty": 8,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/0/2/02_G_New_16_L__8__d684.png"
+    "title": "Asus ROG Zephyrus G16 Gaming Laptop 16″ | Ultr Laptop — 16GB · 1TB SSD (GU605CM-OU91610G0X)",
+    "spec": "1TB SSD",
+    "price": "R39 413",
+    "handle": "asus-rog-zephyrus-g16-gaming-laptop-16-ultra-9-285h-16gb-ddr5-rtx-5060-1tb-ssd-windows-11-pro",
+    "url": "/products/asus-rog-zephyrus-g16-gaming-laptop-16-ultra-9-285h-16gb-ddr5-rtx-5060-1tb-ssd-windows-11-pro",
+    "qty": 4,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/GU605CM-OU91610G0X_Asus-ROG-Zephyrus-G16-Intel-Core-Ultra-9-285HX-16-inch-Windows-11-Gaming-Laptop-Grey_wr_01a.jpg"
    },
    {
     "brand": "Dell",
@@ -586,7 +586,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 568,
+    "qty": 567,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -680,7 +680,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 204,
+    "qty": 202,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -704,24 +704,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer Nitro VG270 27\" IPS FHD 1MS 240HZ Gaming Monitor 3Yr",
+    "brand": "MSI",
+    "title": "MSI MAG 275F E20 27\" FHD 200Hz Rapid IPS Gaming Monitor",
     "spec": "27\" screen",
-    "price": "R3 273",
-    "handle": "acer-nitro-vg270-27-ips-fhd-1ms-240hz-gaming-monitor-3yr",
-    "url": "/products/acer-nitro-vg270-27-ips-fhd-1ms-240hz-gaming-monitor-3yr",
-    "qty": 1,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HV0EE.W01_default.jpg"
+    "price": "R3 249",
+    "handle": "msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
+    "url": "/products/msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
+    "qty": 120,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-275F-E20_MSI-MAG-275F-E20-27inch-FHD-200Hz-Gaming-Montor-wr01.jpeg"
    },
    {
-    "brand": "Samsung",
-    "title": "Samsung Odyssey G55T Gaming 1000R 34\" QHD Monitor (LC34G55TWWPXEN)",
+    "brand": "MSI",
+    "title": "MSI MAG 342CQRF E20 34\" UWQHD 200Hz VA Curved Gaming Monitor",
     "spec": "34\" screen",
-    "price": "R8 360",
-    "handle": "samsung-odyssey-g55t-gaming-1000r-borderless-34-display-va-response-1ms-mprt-ar-21-9-resolution-3440x1440-uwqhd-rr-165hz-hdmi-display-port-speaker-no-power-supply-external-tilt-yes-swivel-no-pivot-no",
-    "url": "/products/samsung-odyssey-g55t-gaming-1000r-borderless-34-display-va-response-1ms-mprt-ar-21-9-resolution-3440x1440-uwqhd-rr-165hz-hdmi-display-port-speaker-no-power-supply-external-tilt-yes-swivel-no-pivot-no",
-    "qty": 11,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/LC34G55TWWPXEN_default.png"
+    "price": "R8 380",
+    "handle": "msi-mag-342cqrf-e20-34-uwqhd-200hz-va-curved-gaming-monitor",
+    "url": "/products/msi-mag-342cqrf-e20-34-uwqhd-200hz-va-curved-gaming-monitor",
+    "qty": 2,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-342CQRF-E20_MSI-MAG-342CQRF-E20-34-inch-UWQHD-200Hz-VA-Curved-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
     "brand": "Asus",
@@ -752,7 +752,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 568,
+    "qty": 567,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -762,7 +762,7 @@
     "price": "R1 671",
     "handle": "pcbuilder-flex-15-6-full-hd-ips-portable-monitor",
     "url": "/products/pcbuilder-flex-15-6-full-hd-ips-portable-monitor",
-    "qty": 217,
+    "qty": 105,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/PCB-PM15-FHD_PCBuilder-FLEX-15.6-inch-Full-HD-IPS-Portable-Monitor_wr_01a.jpg"
    },
    {
@@ -826,7 +826,7 @@
     "price": "R1 648",
     "handle": "eaton-5e-900va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-900va-gen2-usb-iec-ups",
-    "qty": 57,
+    "qty": 56,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E900UI_761f.png"
    },
    {
@@ -890,7 +890,7 @@
     "price": "R1 648",
     "handle": "eaton-5e-900va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-900va-gen2-usb-iec-ups",
-    "qty": 57,
+    "qty": 56,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E900UI_761f.png"
    },
    {
@@ -900,7 +900,7 @@
     "price": "R3 701",
     "handle": "eaton-5e-2200va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-2200va-gen2-usb-iec-ups",
-    "qty": 12,
+    "qty": 11,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E2200UI_1_03c6.png"
    },
    {
@@ -954,7 +954,7 @@
     "price": "R3 701",
     "handle": "eaton-5e-2200va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-2200va-gen2-usb-iec-ups",
-    "qty": 12,
+    "qty": 11,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E2200UI_1_03c6.png"
    },
    {
@@ -1050,7 +1050,7 @@
     "price": "R437",
     "handle": "cudy-ac1200-wi-fi-mesh-kit-1-pack",
     "url": "/products/cudy-ac1200-wi-fi-mesh-kit-1-pack",
-    "qty": 148,
+    "qty": 147,
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/06/M1200-1PACK_wr_01a.jpg"
    },
    {
@@ -1230,7 +1230,7 @@
     "price": "R7 563",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 77,
+    "qty": 76,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
    },
    {
@@ -1250,7 +1250,7 @@
     "price": "R725",
     "handle": "canon-pixma-mg2541s-inkjet-mfp-3-in-1-a4-grey-a4-mfp-print-copy-and-scan-8ipm-mono-4-0ipm-colour-4800-x-600-print-resolution-600-x-1200-dpi-scan-resolution-60-sheet-rear-tray-manual-duplex-usb-4-ink",
     "url": "/products/canon-pixma-mg2541s-inkjet-mfp-3-in-1-a4-grey-a4-mfp-print-copy-and-scan-8ipm-mono-4-0ipm-colour-4800-x-600-print-resolution-600-x-1200-dpi-scan-resolution-60-sheet-rear-tray-manual-duplex-usb-4-ink",
-    "qty": 13,
+    "qty": 11,
     "image": "https://s3.amazonaws.com/tarsus.co.za/0727C067AA_default.png"
    },
    {
@@ -1302,7 +1302,7 @@
     "price": "R1 578",
     "handle": "xiaomi-portable-photo-printer-1s-silver",
     "url": "/products/xiaomi-portable-photo-printer-1s-silver",
-    "qty": 22,
+    "qty": 19,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/BHR9974GL_Xiaomi-Portable-Photo-Printer-S1_04.jpeg"
    },
    {
@@ -1344,7 +1344,7 @@
     "price": "R7 563",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 77,
+    "qty": 76,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
    },
    {
@@ -1364,7 +1364,7 @@
     "price": "R6 969",
     "handle": "hp-laserjet-pro-4103dw-mfp-mono-printer",
     "url": "/products/hp-laserjet-pro-4103dw-mfp-mono-printer",
-    "qty": 55,
+    "qty": 35,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z627A_default.png"
    },
    {
@@ -1460,7 +1460,7 @@
     "price": "R2 726",
     "handle": "hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
     "url": "/products/hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
-    "qty": 840,
+    "qty": 837,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LI_2.8MM_e360.jpg"
    },
    {
@@ -1778,7 +1778,7 @@
     "price": "R166",
     "handle": "ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
     "url": "/products/ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
-    "qty": 61,
+    "qty": 58,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CR113-20290_UGREEN-4-Port-USB-3.0-Hub-with-Micro-USB_wr_01a.jpg"
    },
    {
@@ -1808,7 +1808,7 @@
     "price": "R2 649",
     "handle": "ugreen-14-in-1-usb-type-c-to-usb-2x-hdmi-dp-rj45-docking-station",
     "url": "/products/ugreen-14-in-1-usb-type-c-to-usb-2x-hdmi-dp-rj45-docking-station",
-    "qty": 6,
+    "qty": 4,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/CM843-85489_UGreen_USB_Type-C_TO_USB2x_HDMIDPRJ45_Do_wr_01.jpg"
    }
   ]
@@ -1928,7 +1928,7 @@
     "price": "R4 438",
     "handle": "tp-link-jetstream-28-port-smart-managed-poe-switch",
     "url": "/products/tp-link-jetstream-28-port-smart-managed-poe-switch",
-    "qty": 10,
+    "qty": 8,
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/G/SG2428P_1_e994.png"
    },
    {
@@ -2029,7 +2029,7 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 105
+    "qty": 150
    },
    {
     "brand": "Seagate",
@@ -2039,7 +2039,7 @@
     "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
-    "qty": 33
+    "qty": 26
    },
    {
     "brand": "Kingston",
@@ -2052,14 +2052,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DTKN/64GB_default.jpg"
    },
    {
-    "brand": "SanDisk",
-    "title": "SANDISK Optimus GX 7100 NVMe SSD - 500GB, M.2 2280",
+    "brand": "Kingston",
+    "title": "Kingston 480GB A400 SATA3 2.5 SSD",
     "spec": "Storage",
-    "price": "R2 369",
-    "handle": "sandisk-optimus-gx-7100-nvme-ssd-500gb-m-2-2280",
-    "url": "/products/sandisk-optimus-gx-7100-nvme-ssd-500gb-m-2-2280",
-    "qty": 118,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_53d3.png"
+    "price": "R2 372",
+    "handle": "kingston-480gb-a400-sata3-2-5-ssd-7mm-height",
+    "url": "/products/kingston-480gb-a400-sata3-2-5-ssd-7mm-height",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SA400S37/480G_default.jpg"
    },
    {
     "brand": "HPE",
@@ -2224,7 +2224,7 @@
     "price": "R448",
     "handle": "antec-atom-v450-non-modular-power-supply",
     "url": "/products/antec-atom-v450-non-modular-power-supply",
-    "qty": 107,
+    "qty": 68,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/ATOM-V450_wr_01a.jpg"
    },
    {
@@ -2351,7 +2351,7 @@
     "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
     "url": "https://ubratech.co.za/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg",
-    "qty": 195
+    "qty": 194
    },
    {
     "brand": "Xiaomi",
@@ -2370,7 +2370,7 @@
     "price": "R490",
     "handle": "winx-vibe-pure-hybrid-anc-headphones",
     "url": "/products/winx-vibe-pure-hybrid-anc-headphones",
-    "qty": 69,
+    "qty": 65,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/05/Winx_WX-HS109_Vibe-Pure-Hybrid-ANC-Headphones_45-0051-Edit1500x1500-96DPI.jpg"
    },
    {
@@ -2426,14 +2426,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2016/02/JC530_wr_01a.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port 65W Lenovo AC Adapter",
-    "spec": "Power Adapter",
-    "price": "R476",
-    "handle": "port-65w-lenovo-ac-adapter",
-    "url": "/products/port-65w-lenovo-ac-adapter",
-    "qty": 258,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900093_LE___PORT___DEDICATED_65W_LENOVO___3D_PACK_012d.jpg"
+    "brand": "SanDisk",
+    "title": "SanDisk Extreme Pro SD UHS I Card for 4K Video 64GB",
+    "spec": "Accessories",
+    "price": "R474",
+    "handle": "sandisk-extreme-pro-sd-uhs-i-card-for-4k-video-64gb",
+    "url": "/products/sandisk-extreme-pro-sd-uhs-i-card-for-4k-video-64gb",
+    "qty": 323,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/S/D/SDSDXXU_064G_GN4IN_1e4f.jpg"
    },
    {
     "brand": "SanDisk",
@@ -2455,7 +2455,7 @@
     "handle": "hp-330-black-wireless-keyboard-mouse-combo",
     "url": "https://ubratech.co.za/products/hp-330-black-wireless-keyboard-mouse-combo",
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/v/2v9e6aa_keyboards_42935554637988_1000x_16e7.png",
-    "qty": 6
+    "qty": 29
    },
    {
     "brand": "Logitech",
