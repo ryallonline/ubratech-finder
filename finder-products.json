@@ -94,14 +94,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/NX.ELVEA.001_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP ProBook 4 NB G1iR 5 120U Laptop — 512GB SSD (C38KXAT)",
+    "brand": "Acer",
+    "title": "Acer EXO16 51 77QK Laptop — Core Ultra 7 · 16GB · 512GB SSD (NX.EM3EA.003)",
     "spec": "512GB SSD",
-    "price": "R20 147",
-    "handle": "hp-probook-4-nb-g1ir-5-120u-14-0-wuxga-uwva-300-fhdc-60hz-bnt-panel-8gb-1d-ddr5-5600-cr-sodimm-memory-512gb-pcie-nvme-value-windows-11-pro-64-1-year-warranty-dual-arymic-f-usb2-nfovcamera-clickpad",
-    "url": "/products/hp-probook-4-nb-g1ir-5-120u-14-0-wuxga-uwva-300-fhdc-60hz-bnt-panel-8gb-1d-ddr5-5600-cr-sodimm-memory-512gb-pcie-nvme-value-windows-11-pro-64-1-year-warranty-dual-arymic-f-usb2-nfovcamera-clickpad",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/C38KXAT_default.png"
+    "price": "R20 462",
+    "handle": "acer-exo16-51-77qk-intel-core-ultra-7-processor-155u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
+    "url": "/products/acer-exo16-51-77qk-intel-core-ultra-7-processor-155u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
+    "qty": 98,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.003_default.jpg"
    },
    {
     "brand": "Acer",
@@ -116,16 +116,6 @@
   ],
   "high": [
    {
-    "brand": "HP",
-    "title": "HP ProBook 440 G11 14\" Core Ultra 5 16GB 512GB Win 11 Pro",
-    "spec": "16GB RAM · 512GB SSD",
-    "price": "R20 650",
-    "handle": "hp-probook-440-g11-14-core-u5-16gb-512gb-win-11-pro-silver-notebook",
-    "url": "https://ubratech.co.za/products/hp-probook-440-g11-14-core-u5-16gb-512gb-win-11-pro-silver-notebook",
-    "qty": 136,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/3/A38B8ET__3bbe.jpg"
-   },
-   {
     "brand": "Dell",
     "title": "Dell Pro 15 Essential PV15250 Laptop — 16GB (PV15250_RPLU_002_M_HOM)",
     "spec": "Notebooks",
@@ -137,13 +127,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP ProBook 4 G2i AI 16In Laptop — 16GB · 512GB SSD",
+    "title": "HP ProBook 4 G2i AI 14in Laptop — 16GB · 512GB SSD",
     "spec": "512GB SSD",
-    "price": "R30 447",
-    "handle": "hp-probook-4-g2i-ai-16in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "url": "/products/hp-probook-4-g2i-ai-16in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "qty": 73,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DW2G5ET_default.png"
+    "price": "R31 379",
+    "handle": "hp-probook-4-g2i-ai-14in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "url": "/products/hp-probook-4-g2i-ai-14in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "qty": 23,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DS5H9ET_default.png"
    },
    {
     "brand": "Dell",
@@ -194,7 +184,7 @@
     "price": "R18 384",
     "handle": "hp-probook-4-g1ah-16-radeon-740m-wuxga-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
     "url": "/products/hp-probook-4-g1ah-16-radeon-740m-wuxga-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
-    "qty": 21,
+    "qty": 87,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KSAT_9f51.jpg"
    },
    {
@@ -402,16 +392,6 @@
  "gaming": {
   "entry": [
    {
-    "brand": "Acer",
-    "title": "Acer Nitro V 16 Ryzen 7 16GB 1TB 180Hz Gaming Laptop",
-    "spec": "16GB RAM · 1TB SSD",
-    "price": "R22 665",
-    "handle": "acer-nitro-v-16-r7-260-16gb-1tb-16in-wuxga-ips-180hz-display-5050-windows-11-home",
-    "url": "https://ubratech.co.za/products/acer-nitro-v-16-r7-260-16gb-1tb-16in-wuxga-ips-180hz-display-5050-windows-11-home",
-    "qty": 1,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NH.QYWEA.002_default.png"
-   },
-   {
     "brand": "PCBuilder",
     "title": "PCBuilder Ryzen 5 8600G WARDEN Windows 11 Gaming PC",
     "spec": "Desktops",
@@ -422,14 +402,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_WARDEN_02_PCBuilder-Ryzen-5-8600G-WARDEN-Windows-11-Gaming-PC_wr_01a.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus ROG G700 Intel Ultra 5 255F Gaming PC | 16GB DDR5 | 1TB SSD | Win 11 Home",
-    "spec": "1TB SSD",
-    "price": "R20 525",
-    "handle": "asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
-    "url": "/products/asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
-    "qty": 7,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg"
+    "brand": "Acer",
+    "title": "Acer NITRO V 15 Gaming Laptop 15.6″ | Laptop",
+    "spec": "Notebooks",
+    "price": "R19 139",
+    "handle": "acer-nitro-v-15-gaming-laptop-15-6-intel-core-5-210h-16gb-512gb-rtx-4050-6gb-windows-11-home",
+    "url": "/products/acer-nitro-v-15-gaming-laptop-15-6-intel-core-5-210h-16gb-512gb-rtx-4050-6gb-windows-11-home",
+    "qty": 9,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NH.QUAEA_.00C_Acer-NITRO-V-15-Gaming-Laptop-15.6inch_wr001.jpg"
    },
    {
     "brand": "Acer",
@@ -576,7 +556,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 561,
+    "qty": 557,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -670,7 +650,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 199,
+    "qty": 198,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -742,7 +722,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 561,
+    "qty": 557,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
