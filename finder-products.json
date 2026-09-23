@@ -94,14 +94,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/NX.ELVEA.001_default.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer EXO16 51 77QK Laptop — Core Ultra 7 · 16GB · 512GB SSD (NX.EM3EA.003)",
+    "brand": "HP",
+    "title": "HP ProBook 4 NB G1iR 5 120U Laptop — 512GB SSD (C38KXAT)",
     "spec": "512GB SSD",
-    "price": "R20 462",
-    "handle": "acer-exo16-51-77qk-intel-core-ultra-7-processor-155u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
-    "url": "/products/acer-exo16-51-77qk-intel-core-ultra-7-processor-155u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
-    "qty": 98,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.003_default.jpg"
+    "price": "R20 147",
+    "handle": "hp-probook-4-nb-g1ir-5-120u-14-0-wuxga-uwva-300-fhdc-60hz-bnt-panel-8gb-1d-ddr5-5600-cr-sodimm-memory-512gb-pcie-nvme-value-windows-11-pro-64-1-year-warranty-dual-arymic-f-usb2-nfovcamera-clickpad",
+    "url": "/products/hp-probook-4-nb-g1ir-5-120u-14-0-wuxga-uwva-300-fhdc-60hz-bnt-panel-8gb-1d-ddr5-5600-cr-sodimm-memory-512gb-pcie-nvme-value-windows-11-pro-64-1-year-warranty-dual-arymic-f-usb2-nfovcamera-clickpad",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/C38KXAT_default.png"
    },
    {
     "brand": "Acer",
@@ -147,13 +147,13 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro 14 Plus 14\" Core-U7 16GB 512GB Win 11 Pro Notebook",
-    "spec": "14\" screen",
-    "price": "R40 673",
-    "handle": "dell-pro-14-plus-14-core-u7-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/dell-pro-14-plus-14-core-u7-16gb-512gb-win-11-pro-notebook",
-    "qty": 1,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__77__34fe.png"
+    "title": "Dell Pro 13 Plus Laptop — Core Ultra 7 (BTO212_PB13250_EMEA)",
+    "spec": "Notebooks",
+    "price": "R40 402",
+    "handle": "dell-pro-13-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16gb-lpddr5x-8533-mt-s-onboard-512gb-ssd-integrated-intel-arc-graphics-for-intelcore-ultra-7-266v-vpro-processor-16gb",
+    "url": "/products/dell-pro-13-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16gb-lpddr5x-8533-mt-s-onboard-512gb-ssd-integrated-intel-arc-graphics-for-intelcore-ultra-7-266v-vpro-processor-16gb",
+    "qty": 31,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO212_PB13250_EMEA_default.jpg"
    },
    {
     "brand": "Dell",
@@ -304,14 +304,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DT.R1PEA.00N_default.png"
    },
    {
-    "brand": "PCBuilder",
-    "title": "PCBuilder Intel i7-14700 HOME Master Windows 11 Desktop PC",
+    "brand": "Dell",
+    "title": "Dell Pro Slim Essential QVS1260: Desktop PC — Core i3 (BTO001_QVS1260_EMEA)",
     "spec": "Desktops",
-    "price": "R18 229",
-    "handle": "pcbuilder-intel-i7-14700-home-master-windows-11-desktop-pc",
-    "url": "/products/pcbuilder-intel-i7-14700-home-master-windows-11-desktop-pc",
-    "qty": 1,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_HOME_I716G-V2_PCBuilder-Intel-i7-14700-HOME-Master-Windows-11-Desktop-PC_wr_01a.jpg"
+    "price": "R17 313",
+    "handle": "dell-pro-slim-essential-qvs1260-intel-core-i3-14100-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-8gb-8gbx1-ddr5-4800mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2-802",
+    "url": "/products/dell-pro-slim-essential-qvs1260-intel-core-i3-14100-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-8gb-8gbx1-ddr5-4800mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2-802",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO001_QVS1260_EMEA_default.png"
    },
    {
     "brand": "Dell",
@@ -600,14 +600,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6410EU_Xiaomi-A27i-2026-27-inch-144Hz-Full-HD-1080P-IPS-Office-Monitor_wr_01a.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi A27Qi 2026 27\" inch 120Hz 2K IPS Office Monitor",
-    "spec": "27\" screen",
-    "price": "R3 293",
-    "handle": "xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
-    "url": "/products/xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
-    "qty": 99,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6568EU_Xiaomi-A27Qi-2026-27-inch-2K-120Hz-IPS-Office-Monitor_wr_01a.jpg"
+    "brand": "HP",
+    "title": "HP Series 3 Pro 24\" FHD Monitor (9U5C1AS)",
+    "spec": "24\" screen",
+    "price": "R3 413",
+    "handle": "hp-series-3-pro-24-fhd-monitor-9u5c1as",
+    "url": "/products/hp-series-3-pro-24-fhd-monitor-9u5c1as",
+    "qty": 49,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5C1AS_b69f.jpg"
    },
    {
     "brand": "LG",
@@ -2448,16 +2448,6 @@
     "qty": 5
    },
    {
-    "brand": "Logitech",
-    "title": "Logitech MK540 Advanced Wireless Combo",
-    "spec": "Keyboard & mouse · palm rest",
-    "price": "R842",
-    "handle": "logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
-    "url": "https://ubratech.co.za/products/logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
-    "image": "https://s3.amazonaws.com/tarsus.co.za/920-008685_default.jpg",
-    "qty": 2
-   },
-   {
     "brand": "Redragon",
     "title": "Redragon BM-4049 1200DPI Wired Optical Mouse",
     "spec": "Mice",
@@ -2469,23 +2459,23 @@
    },
    {
     "brand": "Port",
-    "title": "Port Connect Ergo Shape Rechargeable Wireless Mouse",
+    "title": "Port Connect Ergo Shape Bluetooth Rechargeable Mouse",
     "spec": "Mice",
     "price": "R351",
-    "handle": "port-connect-ergo-shape-rechargeable-wireless-mouse",
-    "url": "/products/port-connect-ergo-shape-rechargeable-wireless-mouse",
-    "qty": 104,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/910008_PORT-MOUSE-ERGO-RECHARGEABLE-BT-LEFT_wr_09.jpg"
+    "handle": "port-connect-ergo-shape-bluetooth-rechargeable-mouse",
+    "url": "/products/port-connect-ergo-shape-bluetooth-rechargeable-mouse",
+    "qty": 60,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/910007_.PORT-MOUSE-ERGO-RECHARGEABLE-BT-RIGHT_wr_08.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port Executive Wireless Black Mouse",
-    "spec": "Wired Mouse",
-    "price": "R729",
-    "handle": "port-executive-wireless-black-mouse",
-    "url": "/products/port-executive-wireless-black-mouse",
-    "qty": 100,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_044c.png"
+    "brand": "Keychron",
+    "title": "Keychron B1 Pro Ultra-Slim 75% Wireless Keyboard - Ivory White",
+    "spec": "Keyboards",
+    "price": "R704",
+    "handle": "keychron-b1-pro-ultra-slim-75-wireless-keyboard-ivory-white",
+    "url": "/products/keychron-b1-pro-ultra-slim-75-wireless-keyboard-ivory-white",
+    "qty": 18,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/B1P-K8_wr_01a.jpg"
    },
    {
     "brand": "Keychron",
