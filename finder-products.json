@@ -327,13 +327,13 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell OptiPlex 7490 Desktop PC — Core i7 (210-AYVE-16610622)",
-    "spec": "Desktops",
-    "price": "R30 573",
-    "handle": "dell-optiplex-7490-intel-core-i7-11700-32gb-2x16gb-ddr4-non-ecc-3-5-inch-1tb-7200rpm-sata-8x-dvd-rw-9-5mm-wireless-keyboard-and-mouse-windows-10-pro-basic-onsite-service-extension-emerging-only-24",
-    "url": "/products/dell-optiplex-7490-intel-core-i7-11700-32gb-2x16gb-ddr4-non-ecc-3-5-inch-1tb-7200rpm-sata-8x-dvd-rw-9-5mm-wireless-keyboard-and-mouse-windows-10-pro-basic-onsite-service-extension-emerging-only-24",
-    "qty": 4,
-    "image": "https://staxdstoragecdn.blob.core.windows.net/axd-live/dell_210-ayve-16610622.jpg"
+    "title": "Dell Pro Slim QCS1250 Desktop PC — Core Ultra 7 · 512GB SSD (BTO108_QCS1250_EMEA)",
+    "spec": "512GB SSD",
+    "price": "R31 865",
+    "handle": "dell-pro-slim-qcs1250-intel-core-ultra-7-265-13-tops-up-to-5-3-ghz-16gb-1x16gb-5600mt-s-ddr5-512gb-ssd-tlc-integrated-graphics-no-wi-fi-bluetooth-dell-kb216-multimedia-usb-keyboard-dell-ms116-optical",
+    "url": "/products/dell-pro-slim-qcs1250-intel-core-ultra-7-265-13-tops-up-to-5-3-ghz-16gb-1x16gb-5600mt-s-ddr5-512gb-ssd-tlc-integrated-graphics-no-wi-fi-bluetooth-dell-kb216-multimedia-usb-keyboard-dell-ms116-optical",
+    "qty": 8,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO108_QCS1250_EMEA_default.jpg"
    },
    {
     "brand": "PCBuilder",
@@ -2122,7 +2122,7 @@
     "price": "R1 393",
     "handle": "asus-geforce-gt-710-2gb-gddr5-evo-graphics-card",
     "url": "/products/asus-geforce-gt-710-2gb-gddr5-evo-graphics-card",
-    "qty": 110,
+    "qty": 108,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/04/ASUS_GT710-SL-2GD5-BRK-EVO_wr_01a.jpg"
    },
    {
@@ -2142,7 +2142,7 @@
     "price": "R9 783",
     "handle": "asrock-radeon-rx-9060-xt-challenger-16gb-oc-graphics-card-rdna-4-pcie-5-0",
     "url": "/products/asrock-radeon-rx-9060-xt-challenger-16gb-oc-graphics-card-rdna-4-pcie-5-0",
-    "qty": 118,
+    "qty": 117,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/RX9060XTCHALLENGER16G_ASRock-AMD-Radeon-RX-9060-XT-Challenger-16GB-OC_wr_01a.jpg"
    },
    {
