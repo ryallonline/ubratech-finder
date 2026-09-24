@@ -136,14 +136,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO208_PB16250_EMEA_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP EliteBook 6 G1i 16\" AI Intel Core U7-255U 16GB 512GB LTE Win 11 Pro Notebook",
-    "spec": "16\" screen",
-    "price": "R40 336",
-    "handle": "hp-elitebook-6-g1i-16-ai-intel-core-u7-255u-16gb-512gb-lte-win-11-pro-notebook",
-    "url": "/products/hp-elitebook-6-g1i-16-ai-intel-core-u7-255u-16gb-512gb-lte-win-11-pro-notebook",
-    "qty": 21,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/K/CK8G4EA_1f3f.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 13 Plus Laptop — Core Ultra 7 (BTO212_PB13250_EMEA)",
+    "spec": "Notebooks",
+    "price": "R40 402",
+    "handle": "dell-pro-13-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16gb-lpddr5x-8533-mt-s-onboard-512gb-ssd-integrated-intel-arc-graphics-for-intelcore-ultra-7-266v-vpro-processor-16gb",
+    "url": "/products/dell-pro-13-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16gb-lpddr5x-8533-mt-s-onboard-512gb-ssd-integrated-intel-arc-graphics-for-intelcore-ultra-7-266v-vpro-processor-16gb",
+    "qty": 28,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO212_PB13250_EMEA_default.jpg"
    },
    {
     "brand": "Dell",
@@ -546,7 +546,7 @@
     "price": "R2 435",
     "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
     "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 197,
+    "qty": 120,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
    },
    {
@@ -556,7 +556,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 542,
+    "qty": 543,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -580,14 +580,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-E20_MSI-MAG-255F-E20-25-inch-FHD-200Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi A27Qi 2026 27\" inch 120Hz 2K IPS Office Monitor",
-    "spec": "27\" screen",
-    "price": "R3 449",
-    "handle": "xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
-    "url": "/products/xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
-    "qty": 99,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6568EU_Xiaomi-A27Qi-2026-27-inch-2K-120Hz-IPS-Office-Monitor_wr_01a.jpg"
+    "brand": "HP",
+    "title": "HP Series 3 Pro 24\" FHD Monitor (9U5C1AS)",
+    "spec": "24\" screen",
+    "price": "R3 413",
+    "handle": "hp-series-3-pro-24-fhd-monitor-9u5c1as",
+    "url": "/products/hp-series-3-pro-24-fhd-monitor-9u5c1as",
+    "qty": 49,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5C1AS_b69f.jpg"
    },
    {
     "brand": "LG",
@@ -712,7 +712,7 @@
     "price": "R2 435",
     "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
     "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 197,
+    "qty": 120,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
    },
    {
@@ -722,7 +722,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 542,
+    "qty": 543,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -736,14 +736,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/PCB-PM15-FHD_PCBuilder-FLEX-15.6-inch-Full-HD-IPS-Portable-Monitor_wr_01a.jpg"
    },
    {
-    "brand": "MSI",
-    "title": "MSI MAG 255F X24 25″ FHD 240Hz IPS Gaming Monitor",
+    "brand": "Xiaomi",
+    "title": "Xiaomi G24i 2026 24″ 200Hz Full HD 1080p IPS Gaming Monitor",
     "spec": "Monitors And Displays",
-    "price": "R2 661",
-    "handle": "msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
-    "url": "/products/msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
-    "qty": 138,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-X24_MSI-MAG-255F-X24-25-inch-FHD-240Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
+    "price": "R2 660",
+    "handle": "xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
+    "url": "/products/xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
+    "qty": 106,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6364EU_Xiaomi-G24i-2026-24%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01b.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -2387,23 +2387,23 @@
    },
    {
     "brand": "TP-Link",
-    "title": "TP-Link AC650 High Gain Wi-Fi USB Adapter",
+    "title": "TP-Link N300 High Gain USB Wi-Fi Adapter",
     "spec": "Cables And Adapters",
     "price": "R130",
-    "handle": "tp-link-ac650-high-gain-wi-fi-usb-adapter",
-    "url": "/products/tp-link-ac650-high-gain-wi-fi-usb-adapter",
-    "qty": 74,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__77__2632.png"
+    "handle": "tp-link-n300-high-gain-usb-wi-fi-adapter",
+    "url": "/products/tp-link-n300-high-gain-usb-wi-fi-adapter",
+    "qty": 65,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__18__825e.png"
    },
    {
-    "brand": "WINX",
-    "title": "WINX POWER Easy Universal 3-IN-1 Wireless Charger",
+    "brand": "PD",
+    "title": "PD Power 9CH PSU 12V 8.3A PTC",
     "spec": "Power Adapter",
-    "price": "R441",
-    "handle": "winx-power-easy-universal-3-in-1-wireless-charger",
-    "url": "/products/winx-power-easy-universal-3-in-1-wireless-charger",
-    "qty": 219,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2023/08/WX-CS101_wr_01a.jpg"
+    "price": "R450",
+    "handle": "pd-power-9ch-psu-12v-8-3a-ptc",
+    "url": "/products/pd-power-9ch-psu-12v-8-3a-ptc",
+    "qty": 6,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2015/01/PCS-100-9M_wr_01a.jpg"
    },
    {
     "brand": "SanDisk",
@@ -2448,14 +2448,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/RD-K733-RGB-WL_Redragon-K733-COVE-RGB-Wireless-Mechanical-Numpad-Keyboard_wr_01a.jpg"
    },
    {
-    "brand": "Keychron",
-    "title": "Keychron B1 Pro Ultra-Slim 75% Wireless Keyboard - Ivory White",
+    "brand": "Redragon",
+    "title": "Redragon K588 RGB Pro BROADSWORD TKL Mechanical Wired Gaming Keyboard - Black",
     "spec": "Keyboards",
-    "price": "R704",
-    "handle": "keychron-b1-pro-ultra-slim-75-wireless-keyboard-ivory-white",
-    "url": "/products/keychron-b1-pro-ultra-slim-75-wireless-keyboard-ivory-white",
-    "qty": 15,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/B1P-K8_wr_01a.jpg"
+    "price": "R706",
+    "handle": "redragon-k588-rgb-pro-broadsword-tkl-mechanical-wired-gaming-keyboard-black",
+    "url": "/products/redragon-k588-rgb-pro-broadsword-tkl-mechanical-wired-gaming-keyboard-black",
+    "qty": 22,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/RD-K588RGB_Redragon-K588-RGB-Pro-BROADSWORD-TKL-Mechanical-Wired-Gaming-Keyboard-Black_wr_01a.jpg"
    },
    {
     "brand": "Keychron",
@@ -2493,14 +2493,14 @@
    "enquiry": true
   },
   {
-   "brand": "Grandstream",
-   "title": "Grandstream Enterprise Outdoor WiFi 5 Long Range AP | GWN7630LR",
-   "spec": "2.33Gbps, 300 metres, 4x4 MIMO, 200+ client devices, Advanced QoS, GWN",
-   "price": "R2 010",
-   "handle": "grandstream-enterprise-outdoor-wifi-5-long-range-ap-gwn7630lr",
-   "url": "/pages/grandstream-enterprise-outdoor-wifi-5-long-range-ap-gwn7630lr",
+   "brand": "TP-Link Omada",
+   "title": "TP-Link Omada Dual-Band Wi-Fi 7 AP | EAP727",
+   "spec": "1×2.5G RJ45 Port, 688 Mbps (2.4 GHz) + 4300 Mbps (5 GHz), 802.3at PoE ",
+   "price": "R2 002",
+   "handle": "tp-link-omada-dual-band-wi-fi-7-ap-eap727",
+   "url": "/pages/tp-link-omada-dual-band-wi-fi-7-ap-eap727",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/3/7/2/1/3721.jpg",
+   "image": "https://miro.co.za/img/p/2/0/3/3/8/20338.jpg",
    "enquiry": true
   },
   {
