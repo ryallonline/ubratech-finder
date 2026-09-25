@@ -1040,7 +1040,7 @@
     "price": "R1 623",
     "handle": "cudy-ax1500-gigabit-mesh-wi-fi-6-system-2-pack",
     "url": "/products/cudy-ax1500-gigabit-mesh-wi-fi-6-system-2-pack",
-    "qty": 60,
+    "qty": 58,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/12/M1500-2PACK_Cudy-AX1500-Dual-Band-Wi-Fi-6-Mesh-Kit-With-Gigabit-2Pack.jpg"
    },
    {
@@ -1082,7 +1082,7 @@
     "price": "R1 623",
     "handle": "cudy-ax1500-gigabit-mesh-wi-fi-6-system-2-pack",
     "url": "/products/cudy-ax1500-gigabit-mesh-wi-fi-6-system-2-pack",
-    "qty": 60,
+    "qty": 58,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/12/M1500-2PACK_Cudy-AX1500-Dual-Band-Wi-Fi-6-Mesh-Kit-With-Gigabit-2Pack.jpg"
    },
    {
@@ -1240,7 +1240,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
     "url": "/products/hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
-    "qty": 99,
+    "qty": 98,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    },
    {
@@ -1262,7 +1262,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
     "url": "https://ubratech.co.za/products/hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
-    "qty": 99,
+    "qty": 98,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    },
    {
@@ -1302,7 +1302,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
     "url": "/products/hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
-    "qty": 99,
+    "qty": 98,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    }
   ],
@@ -1440,7 +1440,7 @@
     "price": "R2 978",
     "handle": "hikvision-4mp-fixed-mini-bullet-network-camera",
     "url": "/products/hikvision-4mp-fixed-mini-bullet-network-camera",
-    "qty": 111,
+    "qty": 109,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_4MM_1_306c.png"
    },
    {
@@ -1514,7 +1514,7 @@
     "price": "R2 978",
     "handle": "hikvision-4mp-fixed-mini-bullet-network-camera",
     "url": "/products/hikvision-4mp-fixed-mini-bullet-network-camera",
-    "qty": 111,
+    "qty": 109,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_4MM_1_306c.png"
    },
    {
@@ -1598,7 +1598,7 @@
     "price": "R9 752",
     "handle": "hikvision-4mp-deepinview-anpr-moto-varifocal-bullet-ip-camera",
     "url": "/products/hikvision-4mp-deepinview-anpr-moto-varifocal-bullet-ip-camera",
-    "qty": 94,
+    "qty": 86,
     "image": "https://www.pinnacle.co.za/media/catalog/product/I/D/IDS_2CD7A46G2_P_IZHS2.8_12MM_ac9b.jpg"
    },
    {
@@ -1733,23 +1733,23 @@
    },
    {
     "brand": "UGREEN",
-    "title": "UGREEN 4-in-1 USB 3.0 Hub - High-Speed 5Gbps Data Transfer - Grey",
-    "spec": "Docking Station",
-    "price": "R120",
-    "handle": "ugreen-4-in-1-usb-3-0-hub-high-speed-5gbps-data-transfer-grey",
-    "url": "/products/ugreen-4-in-1-usb-3-0-hub-high-speed-5gbps-data-transfer-grey",
-    "qty": 99,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM219-25851-WR-01.jpg"
+    "title": "UGREEN 4-Port USB 3.0 Hub | 5Gbps Data Transfer - 0.5m",
+    "spec": "4 ports",
+    "price": "R166",
+    "handle": "ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
+    "url": "/products/ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
+    "qty": 116,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CR113-20290_UGREEN-4-Port-USB-3.0-Hub-with-Micro-USB_wr_01a.jpg"
    },
    {
-    "brand": "UGREEN",
-    "title": "UGREEN 4-in-1 Type-C Hub | USB 3.0 | Type-C",
+    "brand": "Port",
+    "title": "Port USB-C Mini with HDMI Docking Station",
     "spec": "Docking Station",
-    "price": "R198",
-    "handle": "ugreen-4-in-1-type-c-hub-usb-3-0-type-c",
-    "url": "/products/ugreen-4-in-1-type-c-hub-usb-3-0-type-c",
-    "qty": 248,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/cm219-70336-wr-01a.jpg"
+    "price": "R230",
+    "handle": "port-usb-c-mini-with-hdmi-docking-station",
+    "url": "/products/port-usb-c-mini-with-hdmi-docking-station",
+    "qty": 112,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900140_0708.jpg"
    },
    {
     "brand": "UGREEN",
@@ -2253,13 +2253,13 @@
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi Smart Home hub 2",
-    "spec": "Smart Home",
-    "price": "R934",
-    "handle": "xiaomi-smart-home-hub-2",
-    "url": "/products/xiaomi-smart-home-hub-2",
-    "qty": 12,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/12/BHR6765GL_wr_01.jpg"
+    "title": "Xiaomi Smart Pet Fountain 2",
+    "spec": "Appliances",
+    "price": "R1 028",
+    "handle": "xiaomi-smart-pet-fountain-2",
+    "url": "/products/xiaomi-smart-pet-fountain-2",
+    "qty": 85,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/BHR9485GL_XIAOMI-SMART-PET-FOUNTAIN-2_wr_01.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -2268,18 +2268,18 @@
     "price": "R1 768",
     "handle": "xiaomi-smart-standing-fan-2",
     "url": "/products/xiaomi-smart-standing-fan-2",
-    "qty": 162,
+    "qty": 199,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/12/BHR4828GL_wr_01.jpg"
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi Smart Steam Air Fryer 7L",
+    "title": "Xiaomi Smart Air Purifier 4 Pro",
     "spec": "Appliances",
-    "price": "R4 658",
-    "handle": "xiaomi-smart-steam-air-fryer-7l",
-    "url": "/products/xiaomi-smart-steam-air-fryer-7l",
-    "qty": 25,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/05/BHR08U4EU-_Xiaomi-Smart-Steam-Air-Fryer-7L_wr01.jpeg"
+    "price": "R6 051",
+    "handle": "xiaomi-smart-air-purifier-4-pro",
+    "url": "/products/xiaomi-smart-air-purifier-4-pro",
+    "qty": 39,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/BHR5056EU_Xiaomi-Smart-Air-Purifier-4-Pro-White_wr_01a.jpg"
    }
   ],
   "audio": [
@@ -2324,24 +2324,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/BHR8930GL_wr_01.jpg"
    },
    {
-    "brand": "WINX",
-    "title": "WINX VIBE Pure Hybrid ANC Headphones",
+    "brand": "UGREEN",
+    "title": "UGREEN HiTune S5 Open-Ear TWS Earbuds–Black",
     "spec": "Tv And Audio",
-    "price": "R490",
-    "handle": "winx-vibe-pure-hybrid-anc-headphones",
-    "url": "/products/winx-vibe-pure-hybrid-anc-headphones",
-    "qty": 44,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/05/Winx_WX-HS109_Vibe-Pure-Hybrid-ANC-Headphones_45-0051-Edit1500x1500-96DPI.jpg"
+    "price": "R516",
+    "handle": "ugreen-hitune-s5-open-ear-tws-earbuds-black",
+    "url": "/products/ugreen-hitune-s5-open-ear-tws-earbuds-black",
+    "qty": 49,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/6941876247608_WS210-45760_02.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP HyperX Cloud Stinger 3 Wired Gaming Headset Black",
-    "spec": "Headsets",
-    "price": "R1 081",
-    "handle": "hp-hyperx-cloud-stinger-3-wired-gaming-headset-black",
-    "url": "/products/hp-hyperx-cloud-stinger-3-wired-gaming-headset-black",
-    "qty": 29,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/S/BS1T5AA_5dbd.jpg"
+    "brand": "Xiaomi",
+    "title": "Xiaomi Redmi Headphones Neo ANC Wireless Over-Ears - White",
+    "spec": "Tv And Audio",
+    "price": "R1 213",
+    "handle": "xiaomi-redmi-headphones-neo-anc-wireless-over-ears-white",
+    "url": "/products/xiaomi-redmi-headphones-neo-anc-wireless-over-ears-white",
+    "qty": 24,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/BHR08W2GL_Redmi-Headphones-Neo-ANC-Wireless-Over-Ears-White_wr_01a.jpg"
    },
    {
     "brand": "Dell",
@@ -2386,24 +2386,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2018/09/N301-10-SV-PRO_wr_01a.jpg"
    },
    {
-    "brand": "TP-Link",
-    "title": "TP-Link AC650 High Gain Wi-Fi USB Adapter",
+    "brand": "Xiaomi",
+    "title": "Xiaomi 3A Braided USB Type-C to USB Type-C Cable 1M - White",
     "spec": "Cables And Adapters",
-    "price": "R130",
-    "handle": "tp-link-ac650-high-gain-wi-fi-usb-adapter",
-    "url": "/products/tp-link-ac650-high-gain-wi-fi-usb-adapter",
-    "qty": 74,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__77__2632.png"
+    "price": "R131",
+    "handle": "xiaomi-3a-braided-usb-type-c-to-usb-type-c-cable-1m-white",
+    "url": "/products/xiaomi-3a-braided-usb-type-c-to-usb-type-c-cable-1m-white",
+    "qty": 143,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/BHR0878GL_Xiaomi-3A-Braided-USB-Type-C-to-USB-Type-C-Cable-1M-White_wr_01a.jpg"
    },
    {
-    "brand": "WINX",
-    "title": "WINX POWER Easy Universal 3-IN-1 Wireless Charger",
+    "brand": "PD",
+    "title": "PD Power 9CH PSU 12V 8.3A PTC",
     "spec": "Power Adapter",
-    "price": "R441",
-    "handle": "winx-power-easy-universal-3-in-1-wireless-charger",
-    "url": "/products/winx-power-easy-universal-3-in-1-wireless-charger",
-    "qty": 219,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2023/08/WX-CS101_wr_01a.jpg"
+    "price": "R450",
+    "handle": "pd-power-9ch-psu-12v-8-3a-ptc",
+    "url": "/products/pd-power-9ch-psu-12v-8-3a-ptc",
+    "qty": 6,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2015/01/PCS-100-9M_wr_01a.jpg"
    },
    {
     "brand": "SanDisk",
@@ -2438,34 +2438,34 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/RD-BM-4049_wr_01.jpg"
    },
    {
-    "brand": "Redragon",
-    "title": "Redragon K733 COVE RGB Wireless Mechanical Numpad",
-    "spec": "Keyboards",
-    "price": "R354",
-    "handle": "redragon-k733-cove-rgb-wireless-mechanical-numpad",
-    "url": "/products/redragon-k733-cove-rgb-wireless-mechanical-numpad",
-    "qty": 120,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/RD-K733-RGB-WL_Redragon-K733-COVE-RGB-Wireless-Mechanical-Numpad-Keyboard_wr_01a.jpg"
+    "brand": "REDRAGON",
+    "title": "REDRAGON Taipan Pro 10000DPI RGB Wireless Gaming Mouse - Black",
+    "spec": "Mice",
+    "price": "R366",
+    "handle": "redragon-taipan-pro-10000dpi-rgb-wireless-gaming-mouse-black",
+    "url": "/products/redragon-taipan-pro-10000dpi-rgb-wireless-gaming-mouse-black",
+    "qty": 55,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/11/RD-M810RGB-PRO_wr_01.jpg"
    },
    {
-    "brand": "Redragon",
-    "title": "Redragon K588 RGB Pro BROADSWORD TKL Mechanical Wired Gaming Keyboard - Black",
+    "brand": "Dell",
+    "title": "Dell Pro Smartcard Keyboard - KB813 - US International",
     "spec": "Keyboards",
-    "price": "R706",
-    "handle": "redragon-k588-rgb-pro-broadsword-tkl-mechanical-wired-gaming-keyboard-black",
-    "url": "/products/redragon-k588-rgb-pro-broadsword-tkl-mechanical-wired-gaming-keyboard-black",
-    "qty": 22,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/RD-K588RGB_Redragon-K588-RGB-Pro-BROADSWORD-TKL-Mechanical-Wired-Gaming-Keyboard-Black_wr_01a.jpg"
+    "price": "R761",
+    "handle": "dell-pro-smartcard-keyboard-kb813-us-international-qwerty",
+    "url": "/products/dell-pro-smartcard-keyboard-kb813-us-international-qwerty",
+    "qty": 18,
+    "image": "http://cdn.cs.1worldsync.com/14/01/14018150-c655-4e14-97a9-2e7da2b5971a.jpg"
    },
    {
-    "brand": "Keychron",
-    "title": "Keychron Q6 HE QMK Full-size Wireless Custom Mechanical Keyboard… (Q6H-P1)",
+    "brand": "Corsair",
+    "title": "Corsair VANGUARD PRO 96 Hall Effect Gaming Keyboard",
     "spec": "Keyboards",
-    "price": "R4 294",
-    "handle": "keychron-q6-he-qmk-full-size-wireless-custom-mechanical-keyboard-nebula-switch-shell-white",
-    "url": "/products/keychron-q6-he-qmk-full-size-wireless-custom-mechanical-keyboard-nebula-switch-shell-white",
-    "qty": 5,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/07/Q6H-P1_Keychron-Q6-HE-QMK-Full-size-Wireless-Custom-Mechanical-Keyboard-Nebula-Switch-%E2%80%93-Shell-White_wr_01a.jpg"
+    "price": "R4 456",
+    "handle": "corsair-vanguard-pro-96-hall-effect-gaming-keyboard",
+    "url": "/products/corsair-vanguard-pro-96-hall-effect-gaming-keyboard",
+    "qty": 3,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/CH-91E911G-NA_Corsair_VANGUARD_PRO_96_Hall_Effect_Gami_wr_01.png"
    }
   ]
  },
@@ -2504,14 +2504,14 @@
    "enquiry": true
   },
   {
-   "brand": "Grandstream",
-   "title": "Grandstream Enterprise WiFi 7 Indoor Access Point | GWN7672",
-   "spec": "3.6Gbps, Dual-band 2x2:2 MU-MIMO,256 client devices, 2x 2.5GbE, BLE, E",
-   "price": "R3 176",
-   "handle": "grandstream-enterprise-wifi-7-indoor-access-point-gwn7672",
-   "url": "/pages/grandstream-enterprise-wifi-7-indoor-access-point-gwn7672",
+   "brand": "MikroTik",
+   "title": "MikroTik mANTBox ax 15s WiFi 6 Integrated Access Point | L22UGS-5HaxD2HaxD-15S",
+   "spec": "2.4/5 GHz Wi-Fi 6, Gigabit Ethernet, 2.5G SFP",
+   "price": "R3 139",
+   "handle": "mikrotik-mantbox-ax-15s-wifi-6-integrated-access-point-l22ugs-5haxd2haxd-15s",
+   "url": "/pages/mikrotik-mantbox-ax-15s-wifi-6-integrated-access-point-l22ugs-5haxd2haxd-15s",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/8/6/6/5/18665.jpg",
+   "image": "https://miro.co.za/img/p/1/3/3/9/9/13399.jpg",
    "enquiry": true
   },
   {
