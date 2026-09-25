@@ -253,23 +253,23 @@
    },
    {
     "brand": "Giada",
-    "title": "Giada DF612 i5-1235U 2x DDR4 3200Mhz",
+    "title": "Giada DF612 i3-1215U 2x DDR4 3200Mhz",
     "spec": "Desktops",
-    "price": "R8 819",
-    "handle": "giada-df612-i5-1235u-2x-ddr4-3200mhz",
-    "url": "/products/giada-df612-i5-1235u-2x-ddr4-3200mhz",
-    "qty": 5,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2023/06/DF612-1215U40N0G-GIA_wr_01-1.jpeg"
+    "price": "R8 431",
+    "handle": "giada-df612-i3-1215u-2x-ddr4-3200mhz",
+    "url": "/products/giada-df612-i3-1215u-2x-ddr4-3200mhz",
+    "qty": 4,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2023/06/DF612-1215U40N0G-GIA_wr_01.jpeg"
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder CUBE Intel i5-1235U 16GB DDR4 1TB Windows 11 Home Mini PC",
+    "title": "PCBuilder CUBE Intel i5-1235U 8GB DDR4 512GB Windows 11 Home Mini PC",
     "spec": "Desktops",
-    "price": "R11 826",
-    "handle": "pcbuilder-cube-intel-i5-1235u-16gb-ddr4-1tb-windows-11-home-mini-pc",
-    "url": "/products/pcbuilder-cube-intel-i5-1235u-16gb-ddr4-1tb-windows-11-home-mini-pc",
-    "qty": 1,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/PCB_CUBE_I516G_HOME_PCBuilder-CUBE-i5-1235U-16GB-DDR4-1TB-Windows-11-Home-Mini-PC_wr_01a.jpg"
+    "price": "R9 860",
+    "handle": "pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
+    "url": "/products/pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
+    "qty": 20,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_CUBE_I58G_HOME_V2_PCBuilder-CUBE-Intel-i5-1235U-8GB-DDR4-512GB-Windows-11-Home-Mini-PC_wr_01a.jpg"
    }
   ],
   "mid": [
@@ -295,13 +295,13 @@
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder Ryzen 5 5600XT SENTINEL Windows 11 Gaming PC",
+    "title": "PCBuilder Intel i7-14700 HOME Master Windows 11 Desktop PC",
     "spec": "Desktops",
-    "price": "R18 721",
-    "handle": "pcbuilder-ryzen-5-5600xt-sentinel-windows-11-gaming-pc",
-    "url": "/products/pcbuilder-ryzen-5-5600xt-sentinel-windows-11-gaming-pc",
-    "qty": 3,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SENTINEL_01_wr_01e.jpg"
+    "price": "R18 229",
+    "handle": "pcbuilder-intel-i7-14700-home-master-windows-11-desktop-pc",
+    "url": "/products/pcbuilder-intel-i7-14700-home-master-windows-11-desktop-pc",
+    "qty": 1,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_HOME_I716G-V2_PCBuilder-Intel-i7-14700-HOME-Master-Windows-11-Desktop-PC_wr_01a.jpg"
    },
    {
     "brand": "Dell",
@@ -732,7 +732,7 @@
     "price": "R1 671",
     "handle": "pcbuilder-flex-15-6-full-hd-ips-portable-monitor",
     "url": "/products/pcbuilder-flex-15-6-full-hd-ips-portable-monitor",
-    "qty": 105,
+    "qty": 99,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/PCB-PM15-FHD_PCBuilder-FLEX-15.6-inch-Full-HD-IPS-Portable-Monitor_wr_01a.jpg"
    },
    {
@@ -786,7 +786,7 @@
     "price": "R442",
     "handle": "lalela-r1818-wi-fi-ups-for-router-and-ont-48-8wh-6-8-hour-runtime",
     "url": "/products/lalela-r1818-wi-fi-ups-for-router-and-ont-48-8wh-6-8-hour-runtime",
-    "qty": 19,
+    "qty": 18,
     "image": "https://s3.amazonaws.com/tarsus.co.za/LAL-R1818_default.jpg"
    },
    {
@@ -870,7 +870,7 @@
     "price": "R3 701",
     "handle": "eaton-5e-2200va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-2200va-gen2-usb-iec-ups",
-    "qty": 8,
+    "qty": 7,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E2200UI_1_03c6.png"
    },
    {
@@ -924,7 +924,7 @@
     "price": "R3 701",
     "handle": "eaton-5e-2200va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-2200va-gen2-usb-iec-ups",
-    "qty": 8,
+    "qty": 7,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E2200UI_1_03c6.png"
    },
    {
@@ -1097,13 +1097,13 @@
    },
    {
     "brand": "Cudy",
-    "title": "Cudy AX3000 Wi-Fi 6 Mesh Kit 3 Pack - White",
-    "spec": "Wi-Fi 6",
-    "price": "R3 036",
-    "handle": "cudy-ax3000-wi-fi-6-mesh-kit-3-pack-white",
-    "url": "/products/cudy-ax3000-wi-fi-6-mesh-kit-3-pack-white",
-    "qty": 240,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/Cudy_M3000W-3PACK_wr_01a.jpg"
+    "title": "Cudy BE3600 Gigabit Mesh Wi-Fi 7 System – 2 Pack",
+    "spec": "Wi-Fi 7",
+    "price": "R2 751",
+    "handle": "cudy-be3600-gigabit-mesh-wi-fi-7-system-2-pack",
+    "url": "/products/cudy-be3600-gigabit-mesh-wi-fi-7-system-2-pack",
+    "qty": 142,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/12/M3600-2PACK_Cudy-BE3600-Gigabit-Mesh-Wi-Fi-7-System-M3600-2-Pack_wr_01a.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -1138,34 +1138,34 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/Cudy_M3000W-3PACK_wr_01a.jpg"
    },
    {
-    "brand": "Mercusys",
-    "title": "Mercusys BE6500 Whole Home Mesh Wi-Fi 7 System",
+    "brand": "Cudy",
+    "title": "Cudy BE3600 Gigabit Mesh Wi-Fi 7 System – 3 Pack",
     "spec": "Wi-Fi 7",
-    "price": "R4 599",
-    "handle": "mercusys-be6500-whole-home-mesh-wi-fi-7-system",
-    "url": "/products/mercusys-be6500-whole-home-mesh-wi-fi-7-system",
-    "qty": 5,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/5/_/5__3__426b.png"
+    "price": "R4 110",
+    "handle": "cudy-be3600-gigabit-mesh-wi-fi-7-system-3-pack",
+    "url": "/products/cudy-be3600-gigabit-mesh-wi-fi-7-system-3-pack",
+    "qty": 187,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/12/M3600-3PACK_Cudy-BE3600-Gigabit-Mesh-Wi-Fi-7-System-M3600-3-Pack_wr_01a.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi Mesh System BE3600 Pro – 3 Pack",
-    "spec": "Router",
-    "price": "R6 104",
-    "handle": "xiaomi-mesh-system-be3600-pro-3-pack",
-    "url": "/products/xiaomi-mesh-system-be3600-pro-3-pack",
-    "qty": 2,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/DVB4480GL_Xiaomi-BE3600-Pro-Dual-Band-Mesh-Router-3-Pack_hr01a.jpeg"
+    "brand": "Cudy",
+    "title": "Cudy BE11000 Wi-Fi7 Tri-band Mesh Wi-Fi System - 2 Pack",
+    "spec": "Wi-Fi 7",
+    "price": "R5 092",
+    "handle": "cudy-be11000-wi-fi7-tri-band-mesh-wi-fi-system-2-pack",
+    "url": "/products/cudy-be11000-wi-fi7-tri-band-mesh-wi-fi-system-2-pack",
+    "qty": 18,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/12/M11000-2PACK_Cudy-BE11000-Mesh-Kit-2.5G-Wifi7.jpeg"
    },
    {
     "brand": "Asus",
-    "title": "Asus ZenWiFi BQ16 Quad-Band Wi-Fi 7 Mesh System - 3 Pack",
+    "title": "Asus ROG RAPTURE GT-BE19000AI Tri Band Wi-Fi 7 Gaming Router",
     "spec": "Wi-Fi 7",
-    "price": "R26 432",
-    "handle": "asus-zenwifi-bq16-quad-band-wi-fi-7-mesh-system-3-pack",
-    "url": "/products/asus-zenwifi-bq16-quad-band-wi-fi-7-mesh-system-3-pack",
-    "qty": 1,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__3__3d3c.png"
+    "price": "R13 579",
+    "handle": "asus-rog-rapture-gt-be19000ai-tri-band-wi-fi-7-gaming-router",
+    "url": "/products/asus-rog-rapture-gt-be19000ai-tri-band-wi-fi-7-gaming-router",
+    "qty": 11,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__14__c2da.png"
    },
    {
     "brand": "MikroTik",
@@ -1425,13 +1425,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP 4mm Powered by Darkfighter Fixed Mini Bullet Network Camera",
+    "title": "Hikvision 4MP Colorvu Smart Hybrid Light Fixed Mini Bullet Camera",
     "spec": "4MP",
-    "price": "R2 363",
-    "handle": "hikvision-4mp-4mm-powered-by-darkfighter-fixed-mini-bullet-network-camera",
-    "url": "/products/hikvision-4mp-4mm-powered-by-darkfighter-fixed-mini-bullet-network-camera",
-    "qty": 60,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_4MM_888c.jpg"
+    "price": "R2 253",
+    "handle": "hikvision-4mp-colorvu-smart-hybrid-light-fixed-mini-bullet-camera",
+    "url": "/products/hikvision-4mp-colorvu-smart-hybrid-light-fixed-mini-bullet-camera",
+    "qty": 22,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_2.8MM_1_d1f4.png"
    },
    {
     "brand": "Hikvision",
@@ -1786,6 +1786,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/3/53X26AA_9bf9.png"
    },
    {
+    "brand": "HP",
+    "title": "HP Poly Blackwire 3220 USB-C Headset",
+    "spec": "Clear-audio headset",
+    "price": "R717",
+    "handle": "hp-poly-blackwire-3220-usb-c-wired-black-headset",
+    "url": "https://ubratech.co.za/products/hp-poly-blackwire-3220-usb-c-wired-black-headset",
+    "qty": 99,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/8/X/8X228AA_74f8.png"
+   },
+   {
     "brand": "WINX",
     "title": "WINX CALL Clear 3.5mm Headset",
     "spec": "Headsets",
@@ -1794,16 +1804,6 @@
     "url": "/products/winx-call-clear-3-5mm-headset",
     "qty": 299,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS105_wr_01.jpg"
-   },
-   {
-    "brand": "Redragon",
-    "title": "Redragon H889W SPECTRA PRO Over-Ear Wireless Headphones - White",
-    "spec": "Headsets",
-    "price": "R724",
-    "handle": "redragon-h889w-spectra-pro-over-ear-wireless-headphones-white",
-    "url": "/products/redragon-h889w-spectra-pro-over-ear-wireless-headphones-white",
-    "qty": 37,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/RD-H889WG_Redragon-H889W-SPECTRA-PRO-Over-Ear-Wireless-Headphones-White_wr_01a.jpg"
    },
    {
     "brand": "HP",
@@ -2012,24 +2012,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM767-35267_UGreen-CM767-M.2-NVMe-SSD-Enclosure-10Gbps-%E2%80%93-Silver_wr_01a.jpg"
    },
    {
-    "brand": "Patriot",
-    "title": "Patriot PVP30 1TB Duo Compact External Portable SSD",
+    "brand": "Kingston",
+    "title": "Kingston 500GB M.2 NVME Internal SSD",
     "spec": "Storage",
-    "price": "R2 265",
-    "handle": "patriot-pvp30-1tb-duo-compact-external-portable-ssd",
-    "url": "/products/patriot-pvp30-1tb-duo-compact-external-portable-ssd",
-    "qty": 19,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/PVP301TB28UDG_Patriot-PVP30-1TB-Duo-Compact-External-Portable-SSD_wr_01.jpg"
+    "price": "R2 256",
+    "handle": "kingston-500gb-m-2-nvme-internal-ssd",
+    "url": "/products/kingston-500gb-m-2-nvme-internal-ssd",
+    "qty": 34,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/S/N/SNV3S_500G_1_13d1.png"
    },
    {
-    "brand": "Dell",
-    "title": "Dell 480GB PCIe Gen4 M.2 2280 NVMe SSD for BOSS-N1 Controller Card",
+    "brand": "PATRIOT",
+    "title": "PATRIOT SSD VP4000 M.2 NVME 2TB 2230",
     "spec": "Storage",
-    "price": "R5 432",
-    "handle": "dell-480gb-pcie-gen4-m-2-2280-nvme-ssd-for-boss-n1-controller-card",
-    "url": "/products/dell-480gb-pcie-gen4-m-2-2280-nvme-ssd-for-boss-n1-controller-card",
-    "qty": 5,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/4/0/400_BONG_7e2a.jpg"
+    "price": "R5 665",
+    "handle": "patriot-ssd-vp4000-m-2-nvme-2tb-2230",
+    "url": "/products/patriot-ssd-vp4000-m-2-nvme-2tb-2230",
+    "qty": 8,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/VP4000M2TBM23_Patriot-Viper-VP4000-Mini-2TB-M.2-2230-PCIe-Gen4x4-SSD_wr_01.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -2051,7 +2051,7 @@
     "handle": "hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/HSC516U48Z1-16G_Hiksemi-Hiker-16GB-DDR5-4800MHz-Desktop-Memory_wr_01a.jpg",
-    "qty": 183
+    "qty": 175
    },
    {
     "brand": "GeIL",
@@ -2085,13 +2085,13 @@
    },
    {
     "brand": "Patriot",
-    "title": "Patriot Vipersteel 32GB KIT (2x16GB) 3600MHz DDR4 Desktop Gaming Memory RGB",
+    "title": "Patriot Viper Elite 5 Ultra RGB 16GB 6000MHz DDR5 Desktop Gaming Memory - Black",
     "spec": "Memory",
-    "price": "R5 414",
-    "handle": "patriot-vipersteel-32gb-kit-2x16gb-3600mhz-ddr4-desktop-gaming-memory-rgb",
-    "url": "/products/patriot-vipersteel-32gb-kit-2x16gb-3600mhz-ddr4-desktop-gaming-memory-rgb",
-    "qty": 188,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PVSR432G360C8K_wr_01.jpg"
+    "price": "R5 412",
+    "handle": "patriot-viper-elite-5-ultra-rgb-16gb-6000mhz-ddr5-desktop-gaming-memory-black",
+    "url": "/products/patriot-viper-elite-5-ultra-rgb-16gb-6000mhz-ddr5-desktop-gaming-memory-black",
+    "qty": 2,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/06/VEUR516G6036_Patriot-Viper-Elite-5-Ultra-RGB-16GB-6000MHz-DDR5-Desktop-Gaming-Memory-Black_wr_01a.jpg"
    },
    {
     "brand": "Geil",
@@ -2229,7 +2229,7 @@
     "handle": "tp-link-tapo-d205-2k-battery-video-doorbell-mini",
     "url": "https://ubratech.co.za/products/tp-link-tapo-d205-2k-battery-video-doorbell-mini",
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/A/TAPO_D205_5ba3.jpg",
-    "qty": 5
+    "qty": 4
    },
    {
     "brand": "Xiaomi",
@@ -2330,7 +2330,7 @@
     "price": "R490",
     "handle": "winx-vibe-pure-hybrid-anc-headphones",
     "url": "/products/winx-vibe-pure-hybrid-anc-headphones",
-    "qty": 40,
+    "qty": 49,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/05/Winx_WX-HS109_Vibe-Pure-Hybrid-ANC-Headphones_45-0051-Edit1500x1500-96DPI.jpg"
    },
    {
@@ -2382,7 +2382,7 @@
     "price": "R11",
     "handle": "orico-micro-usb-chargesync-cable-silver-1m",
     "url": "/products/orico-micro-usb-chargesync-cable-silver-1m",
-    "qty": 111,
+    "qty": 101,
     "image": "https://www.syntech.co.za/wp-content/uploads/2018/09/N301-10-SV-PRO_wr_01a.jpg"
    },
    {
@@ -2396,14 +2396,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__77__2632.png"
    },
    {
-    "brand": "WINX",
-    "title": "WINX POWER Easy Universal 3-IN-1 Wireless Charger",
-    "spec": "Power Adapter",
-    "price": "R441",
-    "handle": "winx-power-easy-universal-3-in-1-wireless-charger",
-    "url": "/products/winx-power-easy-universal-3-in-1-wireless-charger",
-    "qty": 219,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2023/08/WX-CS101_wr_01a.jpg"
+    "brand": "Targus",
+    "title": "Targus Wireless Presenter With Laser Pointer, lear & intuitive… (AMP13EU)",
+    "spec": "Accessories",
+    "price": "R439",
+    "handle": "targus-wireless-presenter-with-laser-pointer-lear-intuitive-layout-2-4-ghz-wireless-technology-operates-up-to-15-metres-away-usb-port-required-true-plug-and-play-device-no-drivers-required-pc-mac-and",
+    "url": "/products/targus-wireless-presenter-with-laser-pointer-lear-intuitive-layout-2-4-ghz-wireless-technology-operates-up-to-15-metres-away-usb-port-required-true-plug-and-play-device-no-drivers-required-pc-mac-and",
+    "qty": 30,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/AMP13EU_default.jpg"
    },
    {
     "brand": "SanDisk",
