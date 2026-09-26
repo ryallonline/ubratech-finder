@@ -126,24 +126,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus VivoBook S14 S3407AA 14\" OLED Ultra 7-355 16GB 512GB Win 11 Home Silver Notebook",
-    "spec": "14\" screen",
-    "price": "R29 969",
-    "handle": "asus-vivobook-s14-s3407aa-14-oled-ultra-7-355-16gb-512gb-win-11-home-silver-notebook",
-    "url": "/products/asus-vivobook-s14-s3407aa-14-oled-ultra-7-355-16gb-512gb-win-11-home-silver-notebook",
-    "qty": 16,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/S/ASUS_Vivobook_S14_S3407AA_Product_photo_2S_Cool_Silver_03_2400x2400__1__b555.jpg"
+    "brand": "HP",
+    "title": "HP ProBook 4 G2i AI 16In Laptop — 16GB · 512GB SSD",
+    "spec": "512GB SSD",
+    "price": "R30 447",
+    "handle": "hp-probook-4-g2i-ai-16in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "url": "/products/hp-probook-4-g2i-ai-16in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "qty": 73,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DW2G5ET_default.png"
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro 14 Plus PB14250 Laptop — Core Ultra 7 · 16GB (BTO216_PB14250_EMEA)",
-    "spec": "Notebooks",
-    "price": "R40 402",
-    "handle": "dell-pro-14-plus-pb14250-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-onboard-512-gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro",
-    "url": "/products/dell-pro-14-plus-pb14250-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-onboard-512-gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro",
-    "qty": 35,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO216_PB14250_EMEA_default.jpg"
+    "title": "Dell Pro 14 Plus 14\" Core-U7 16GB 512GB Win 11 Pro Notebook",
+    "spec": "14\" screen",
+    "price": "R40 673",
+    "handle": "dell-pro-14-plus-14-core-u7-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/dell-pro-14-plus-14-core-u7-16gb-512gb-win-11-pro-notebook",
+    "qty": 1,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__77__34fe.png"
    },
    {
     "brand": "Dell",
@@ -1235,13 +1235,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP Smart Tank 790 Print Wireless All-in-One Printer (4WF66A)",
+    "title": "HP LaserJet Pro 4103dw MFP Mono Printer",
     "spec": "Printers",
-    "price": "R6 634",
-    "handle": "hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
-    "url": "/products/hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
-    "qty": 98,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
+    "price": "R6 969",
+    "handle": "hp-laserjet-pro-4103dw-mfp-mono-printer",
+    "url": "/products/hp-laserjet-pro-4103dw-mfp-mono-printer",
+    "qty": 33,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/2Z627A_default.png"
    },
    {
     "brand": "HP",
