@@ -95,13 +95,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP ProBook 4 NB G1iR 5 120U Laptop — 512GB SSD (C38KXAT)",
-    "spec": "512GB SSD",
+    "title": "HP OmniBook 5 16\" AI Ultra 5-225U 16GB 512GB Win 11 Home Sky Blue Notebook",
+    "spec": "16\" screen",
     "price": "R20 147",
-    "handle": "hp-probook-4-nb-g1ir-5-120u-14-0-wuxga-uwva-300-fhdc-60hz-bnt-panel-8gb-1d-ddr5-5600-cr-sodimm-memory-512gb-pcie-nvme-value-windows-11-pro-64-1-year-warranty-dual-arymic-f-usb2-nfovcamera-clickpad",
-    "url": "/products/hp-probook-4-nb-g1ir-5-120u-14-0-wuxga-uwva-300-fhdc-60hz-bnt-panel-8gb-1d-ddr5-5600-cr-sodimm-memory-512gb-pcie-nvme-value-windows-11-pro-64-1-year-warranty-dual-arymic-f-usb2-nfovcamera-clickpad",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/C38KXAT_default.png"
+    "handle": "hp-omnibook-5-16-ai-ultra-5-225u-16gb-512gb-win-11-home-sky-blue-notebook",
+    "url": "/products/hp-omnibook-5-16-ai-ultra-5-225u-16gb-512gb-win-11-home-sky-blue-notebook",
+    "qty": 72,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D67W9EA_d014.jpg"
    },
    {
     "brand": "Acer",
@@ -184,7 +184,7 @@
     "price": "R18 762",
     "handle": "hp-probook-4-g1ah-16-radeon-740m-wuxga-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
     "url": "/products/hp-probook-4-g1ah-16-radeon-740m-wuxga-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
-    "qty": 120,
+    "qty": 119,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KSAT_9f51.jpg"
    },
    {
@@ -536,7 +536,7 @@
     "price": "R2 435",
     "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
     "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 108,
+    "qty": 102,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
    },
    {
@@ -546,7 +546,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 525,
+    "qty": 521,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -640,7 +640,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 143,
+    "qty": 139,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -660,7 +660,7 @@
     "price": "R4 239",
     "handle": "msi-mag-275qf-e20-27-wqhd-200hz-ips-gaming-monitor",
     "url": "/products/msi-mag-275qf-e20-27-wqhd-200hz-ips-gaming-monitor",
-    "qty": 5,
+    "qty": 7,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-275QF-E20_MSI-MAG-275QF-E20-27-inch-WQHD-200Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
@@ -692,7 +692,7 @@
     "price": "R2 435",
     "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
     "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 108,
+    "qty": 102,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
    },
    {
@@ -702,7 +702,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 525,
+    "qty": 521,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -712,7 +712,7 @@
     "price": "R1 671",
     "handle": "pcbuilder-flex-15-6-full-hd-ips-portable-monitor",
     "url": "/products/pcbuilder-flex-15-6-full-hd-ips-portable-monitor",
-    "qty": 190,
+    "qty": 183,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/PCB-PM15-FHD_PCBuilder-FLEX-15.6-inch-Full-HD-IPS-Portable-Monitor_wr_01a.jpg"
    },
    {
@@ -1220,7 +1220,7 @@
     "price": "R6 969",
     "handle": "hp-laserjet-pro-4103dw-mfp-mono-printer",
     "url": "/products/hp-laserjet-pro-4103dw-mfp-mono-printer",
-    "qty": 21,
+    "qty": 20,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z627A_default.png"
    },
    {
@@ -1242,7 +1242,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
     "url": "https://ubratech.co.za/products/hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
-    "qty": 95,
+    "qty": 91,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    },
    {
@@ -1252,7 +1252,7 @@
     "price": "R1 578",
     "handle": "xiaomi-portable-photo-printer-1s-silver",
     "url": "/products/xiaomi-portable-photo-printer-1s-silver",
-    "qty": 19,
+    "qty": 29,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/BHR9974GL_Xiaomi-Portable-Photo-Printer-S1_04.jpeg"
    },
    {
@@ -1282,7 +1282,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
     "url": "/products/hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
-    "qty": 95,
+    "qty": 91,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    }
   ],
@@ -1314,7 +1314,7 @@
     "price": "R6 969",
     "handle": "hp-laserjet-pro-4103dw-mfp-mono-printer",
     "url": "/products/hp-laserjet-pro-4103dw-mfp-mono-printer",
-    "qty": 21,
+    "qty": 20,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z627A_default.png"
    },
    {
@@ -1376,7 +1376,7 @@
     "price": "R76",
     "handle": "niimbot-d11-d110-d101-h1s-thermal-label-12-5x74mm-65-labels-per-roll-yellow-for-cable",
     "url": "/products/niimbot-d11-d110-d101-h1s-thermal-label-12-5x74mm-65-labels-per-roll-yellow-for-cable",
-    "qty": 53,
+    "qty": 51,
     "image": "https://www.syntech.co.za/wp-content/uploads/2023/09/T12.5x7435-65YELLOW-CABL_wr_01.jpg"
    }
   ]
@@ -1748,7 +1748,7 @@
     "price": "R2 649",
     "handle": "ugreen-14-in-1-usb-type-c-to-usb-2x-hdmi-dp-rj45-docking-station",
     "url": "/products/ugreen-14-in-1-usb-type-c-to-usb-2x-hdmi-dp-rj45-docking-station",
-    "qty": 16,
+    "qty": 15,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/CM843-85489_UGreen_USB_Type-C_TO_USB2x_HDMIDPRJ45_Do_wr_01.jpg"
    }
   ]
@@ -1937,13 +1937,13 @@
    },
    {
     "brand": "Acconet",
-    "title": "Acconet 4U Unassembled Fixed Wall Mount Box 450mm",
+    "title": "Acconet 6U Unassembled Wall Mount Box | AC-CAB-6U450-WM",
     "spec": "Flat Pack, Glass Door",
-    "price": "R1 239",
-    "handle": "acconet-4u-unassembled-fixed-wall-mount-box-450mm",
-    "url": "/pages/acconet-4u-unassembled-fixed-wall-mount-box-450mm",
+    "price": "R1 465",
+    "handle": "acconet-6u-unassembled-wall-mount-box-ac-cab-6u450-wm",
+    "url": "/pages/acconet-6u-unassembled-wall-mount-box-ac-cab-6u450-wm",
     "qty": 9,
-    "image": "https://miro.co.za/img/p/1/3/4/2/6/13426.jpg",
+    "image": "https://miro.co.za/img/p/1/3/4/2/4/13424.jpg",
     "enquiry": true
    },
    {
@@ -1975,11 +1975,11 @@
     "brand": "Seagate",
     "title": "Seagate IronWolf NAS 8TB 3.5\" SATA HDD",
     "spec": "NAS-grade · always-on",
-    "price": "R6 422",
+    "price": "R8 676",
     "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
-    "qty": 13
+    "qty": 6
    },
    {
     "brand": "UGREEN",
@@ -2002,14 +2002,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/PTPL1TBPEC_Patriot-Transporter-Lite-1TB-USB3.2-Type-C-External-Portable-SSD_wr_01.jpg"
    },
    {
-    "brand": "HPE",
-    "title": "HPE 1TB SATA 7.2K SFF SC HDD",
+    "brand": "PATRIOT",
+    "title": "PATRIOT SSD VP4000 M.2 NVME 2TB 2230",
     "spec": "Storage",
-    "price": "R5 781",
-    "handle": "hpe-1tb-sata-7-2k-sff-sc-hdd",
-    "url": "/products/hpe-1tb-sata-7-2k-sff-sc-hdd",
+    "price": "R5 665",
+    "handle": "patriot-ssd-vp4000-m-2-nvme-2tb-2230",
+    "url": "/products/patriot-ssd-vp4000-m-2-nvme-2tb-2230",
     "qty": 8,
-    "image": "http://cdn.cs.1worldsync.com/ef/de/efde8f73-a7a9-4f2a-b0b1-731d47069389.jpg"
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/VP4000M2TBM23_Patriot-Viper-VP4000-Mini-2TB-M.2-2230-PCIe-Gen4x4-SSD_wr_01.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -2122,7 +2122,7 @@
     "price": "R9 783",
     "handle": "asrock-radeon-rx-9060-xt-challenger-16gb-oc-graphics-card-rdna-4-pcie-5-0",
     "url": "/products/asrock-radeon-rx-9060-xt-challenger-16gb-oc-graphics-card-rdna-4-pcie-5-0",
-    "qty": 112,
+    "qty": 111,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/RX9060XTCHALLENGER16G_ASRock-AMD-Radeon-RX-9060-XT-Challenger-16GB-OC_wr_01a.jpg"
    },
    {
@@ -2154,7 +2154,7 @@
     "price": "R448",
     "handle": "antec-atom-v450-non-modular-power-supply",
     "url": "/products/antec-atom-v450-non-modular-power-supply",
-    "qty": 50,
+    "qty": 70,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/ATOM-V450_wr_01a.jpg"
    },
    {
@@ -2228,7 +2228,7 @@
     "price": "R1 028",
     "handle": "xiaomi-smart-pet-fountain-2",
     "url": "/products/xiaomi-smart-pet-fountain-2",
-    "qty": 88,
+    "qty": 90,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/BHR9485GL_XIAOMI-SMART-PET-FOUNTAIN-2_wr_01.jpg"
    },
    {
@@ -2281,7 +2281,7 @@
     "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
     "url": "https://ubratech.co.za/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg",
-    "qty": 193
+    "qty": 192
    },
    {
     "brand": "Xiaomi",
@@ -2366,14 +2366,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2023/08/GCPCDP18_wr_01.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi 20W Wireless Charging Stand",
+    "brand": "Port",
+    "title": "Port 65W Acer & Toshiba AC Adapter",
     "spec": "Power Adapter",
-    "price": "R462",
-    "handle": "xiaomi-20w-wireless-charging-stand",
-    "url": "/products/xiaomi-20w-wireless-charging-stand",
-    "qty": 118,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2021/01/GDS4145GL_wr_01.jpg"
+    "price": "R465",
+    "handle": "port-65w-acer-toshiba-ac-adapter",
+    "url": "/products/port-65w-acer-toshiba-ac-adapter",
+    "qty": 41,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900093_ACTO_1_c203.png"
    },
    {
     "brand": "SanDisk",
