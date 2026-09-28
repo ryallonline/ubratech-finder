@@ -95,13 +95,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP ProBook 4 NB G1iR 5 120U Laptop — 512GB SSD (C38KXAT)",
-    "spec": "512GB SSD",
+    "title": "HP OmniBook 5 16\" AI Ultra 5-225U 16GB 512GB Win 11 Home Sky Blue Notebook",
+    "spec": "16\" screen",
     "price": "R20 147",
-    "handle": "hp-probook-4-nb-g1ir-5-120u-14-0-wuxga-uwva-300-fhdc-60hz-bnt-panel-8gb-1d-ddr5-5600-cr-sodimm-memory-512gb-pcie-nvme-value-windows-11-pro-64-1-year-warranty-dual-arymic-f-usb2-nfovcamera-clickpad",
-    "url": "/products/hp-probook-4-nb-g1ir-5-120u-14-0-wuxga-uwva-300-fhdc-60hz-bnt-panel-8gb-1d-ddr5-5600-cr-sodimm-memory-512gb-pcie-nvme-value-windows-11-pro-64-1-year-warranty-dual-arymic-f-usb2-nfovcamera-clickpad",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/C38KXAT_default.png"
+    "handle": "hp-omnibook-5-16-ai-ultra-5-225u-16gb-512gb-win-11-home-sky-blue-notebook",
+    "url": "/products/hp-omnibook-5-16-ai-ultra-5-225u-16gb-512gb-win-11-home-sky-blue-notebook",
+    "qty": 72,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D67W9EA_d014.jpg"
    },
    {
     "brand": "Acer",
@@ -136,14 +136,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DW2G5ET_default.png"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 14 Plus 14\" Core-U7 16GB 512GB Win 11 Pro Notebook",
-    "spec": "14\" screen",
-    "price": "R40 673",
-    "handle": "dell-pro-14-plus-14-core-u7-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/dell-pro-14-plus-14-core-u7-16gb-512gb-win-11-pro-notebook",
-    "qty": 1,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__77__34fe.png"
+    "brand": "Asus",
+    "title": "Asus TUF Gaming F16 16\" Core-i7 16GB 1TB Win 11 Pro Notebook",
+    "spec": "16\" screen",
+    "price": "R40 622",
+    "handle": "asus-tuf-gaming-f16-16-core-i7-16gb-1tb-win-11-pro-notebook",
+    "url": "/products/asus-tuf-gaming-f16-16-core-i7-16gb-1tb-win-11-pro-notebook",
+    "qty": 11,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__44__6285.png"
    },
    {
     "brand": "Dell",
@@ -477,7 +477,7 @@
     "brand": "Asus",
     "title": "Asus ROG Strix G16 16\" Core-U9 32GB 1TB Win 11 Home Notebook",
     "spec": "16\" screen",
-    "price": "R77 170",
+    "price": "R71 481",
     "handle": "asus-rog-strix-g16-16-core-u9-32gb-1tb-win-11-home-notebook",
     "url": "/products/asus-rog-strix-g16-16-core-u9-32gb-1tb-win-11-home-notebook",
     "qty": 1,
@@ -1440,7 +1440,7 @@
     "price": "R2 978",
     "handle": "hikvision-4mp-fixed-mini-bullet-network-camera",
     "url": "/products/hikvision-4mp-fixed-mini-bullet-network-camera",
-    "qty": 107,
+    "qty": 99,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_4MM_1_306c.png"
    },
    {
@@ -1514,7 +1514,7 @@
     "price": "R2 978",
     "handle": "hikvision-4mp-fixed-mini-bullet-network-camera",
     "url": "/products/hikvision-4mp-fixed-mini-bullet-network-camera",
-    "qty": 107,
+    "qty": 99,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_4MM_1_306c.png"
    },
    {
