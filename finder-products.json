@@ -253,23 +253,23 @@
    },
    {
     "brand": "Giada",
-    "title": "Giada DF612 i3-1215U 2x DDR4 3200Mhz",
+    "title": "Giada DF612 i5-1235U 2x DDR4 3200Mhz",
     "spec": "Desktops",
-    "price": "R8 431",
-    "handle": "giada-df612-i3-1215u-2x-ddr4-3200mhz",
-    "url": "/products/giada-df612-i3-1215u-2x-ddr4-3200mhz",
-    "qty": 4,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2023/06/DF612-1215U40N0G-GIA_wr_01.jpeg"
+    "price": "R8 819",
+    "handle": "giada-df612-i5-1235u-2x-ddr4-3200mhz",
+    "url": "/products/giada-df612-i5-1235u-2x-ddr4-3200mhz",
+    "qty": 5,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2023/06/DF612-1215U40N0G-GIA_wr_01-1.jpeg"
    },
    {
-    "brand": "PCBuilder",
-    "title": "PCBuilder CUBE Intel i5-1235U 8GB DDR4 512GB Windows 11 Home Mini PC",
+    "brand": "PCBUiLDER™",
+    "title": "PCBUiLDER™ Intel Core i3-14100 HOME MASTER Windows 11 Desktop PC",
     "spec": "Desktops",
-    "price": "R9 860",
-    "handle": "pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
-    "url": "/products/pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
-    "qty": 20,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_CUBE_I58G_HOME_V2_PCBuilder-CUBE-Intel-i5-1235U-8GB-DDR4-512GB-Windows-11-Home-Mini-PC_wr_01a.jpg"
+    "price": "R10 347",
+    "handle": "pcbuilder-intel-core-i3-14100-home-master-windows-11-desktop-pc",
+    "url": "/products/pcbuilder-intel-core-i3-14100-home-master-windows-11-desktop-pc",
+    "qty": 9,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/PCB_HOME_I38G-V4-T_PCBUiLDER%E2%84%A2-Intel-Core-i3-14100-HOME-MASTER-Windows-11-Desktop-PC_wr_01.jpg"
    }
   ],
   "mid": [
@@ -1993,23 +1993,23 @@
    },
    {
     "brand": "Patriot",
-    "title": "Patriot Transporter Lite 1TB USB3.2 Type-C External Portable SSD - Red",
+    "title": "Patriot PVP30 1TB Duo Compact External Portable SSD",
     "spec": "Storage",
     "price": "R2 265",
-    "handle": "patriot-transporter-lite-1tb-usb3-2-type-c-external-portable-ssd-red",
-    "url": "/products/patriot-transporter-lite-1tb-usb3-2-type-c-external-portable-ssd-red",
-    "qty": 25,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/PTPL1TBPEC_Patriot-Transporter-Lite-1TB-USB3.2-Type-C-External-Portable-SSD_wr_01.jpg"
+    "handle": "patriot-pvp30-1tb-duo-compact-external-portable-ssd",
+    "url": "/products/patriot-pvp30-1tb-duo-compact-external-portable-ssd",
+    "qty": 19,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/PVP301TB28UDG_Patriot-PVP30-1TB-Duo-Compact-External-Portable-SSD_wr_01.jpg"
    },
    {
-    "brand": "PATRIOT",
-    "title": "PATRIOT SSD VP4000 M.2 NVME 2TB 2230",
+    "brand": "HPE",
+    "title": "HPE 1TB SATA 7.2K SFF SC HDD",
     "spec": "Storage",
-    "price": "R5 665",
-    "handle": "patriot-ssd-vp4000-m-2-nvme-2tb-2230",
-    "url": "/products/patriot-ssd-vp4000-m-2-nvme-2tb-2230",
+    "price": "R5 781",
+    "handle": "hpe-1tb-sata-7-2k-sff-sc-hdd",
+    "url": "/products/hpe-1tb-sata-7-2k-sff-sc-hdd",
     "qty": 8,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/VP4000M2TBM23_Patriot-Viper-VP4000-Mini-2TB-M.2-2230-PCIe-Gen4x4-SSD_wr_01.jpg"
+    "image": "http://cdn.cs.1worldsync.com/ef/de/efde8f73-a7a9-4f2a-b0b1-731d47069389.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -2102,7 +2102,7 @@
     "price": "R1 393",
     "handle": "asus-geforce-gt-710-2gb-gddr5-evo-graphics-card",
     "url": "/products/asus-geforce-gt-710-2gb-gddr5-evo-graphics-card",
-    "qty": 108,
+    "qty": 107,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/04/ASUS_GT710-SL-2GD5-BRK-EVO_wr_01a.jpg"
    },
    {
@@ -2154,7 +2154,7 @@
     "price": "R448",
     "handle": "antec-atom-v450-non-modular-power-supply",
     "url": "/products/antec-atom-v450-non-modular-power-supply",
-    "qty": 70,
+    "qty": 67,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/ATOM-V450_wr_01a.jpg"
    },
    {
@@ -2418,14 +2418,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_7f2f.png"
    },
    {
-    "brand": "Redragon",
-    "title": "Redragon UCAL K673 PRO Mechanical Wireless Gaming Keyboard - Black",
+    "brand": "REDRAGON",
+    "title": "REDRAGON Horus Mini Pro 61Key Wireless Bluetooth Red Switch RGB Low…",
     "spec": "Keyboards",
     "price": "R737",
-    "handle": "redragon-ucal-k673-pro-mechanical-wireless-gaming-keyboard-black",
-    "url": "/products/redragon-ucal-k673-pro-mechanical-wireless-gaming-keyboard-black",
-    "qty": 39,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/RD-K673WB-RGB-PRO_REDRAGON-KB-MECH-UCAL-WRS-RGB-BK_wr_01.jpg"
+    "handle": "redragon-horus-mini-pro-61key-wireless-bluetooth-red-switch-rgb-low-profile-gaming-mechanical-keyboard-black",
+    "url": "/products/redragon-horus-mini-pro-61key-wireless-bluetooth-red-switch-rgb-low-profile-gaming-mechanical-keyboard-black",
+    "qty": 54,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/11/RD-K632RGB-PRO_wr_01.jpg"
    },
    {
     "brand": "Corsair",
