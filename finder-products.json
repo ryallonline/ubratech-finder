@@ -95,13 +95,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP OmniBook 5 16\" AI Ultra 5-225U 16GB 512GB Win 11 Home Sky Blue Notebook",
-    "spec": "16\" screen",
+    "title": "HP ProBook 4 NB G1iR 5 120U Laptop — 512GB SSD (C38KXAT)",
+    "spec": "512GB SSD",
     "price": "R20 147",
-    "handle": "hp-omnibook-5-16-ai-ultra-5-225u-16gb-512gb-win-11-home-sky-blue-notebook",
-    "url": "/products/hp-omnibook-5-16-ai-ultra-5-225u-16gb-512gb-win-11-home-sky-blue-notebook",
-    "qty": 72,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D67W9EA_d014.jpg"
+    "handle": "hp-probook-4-nb-g1ir-5-120u-14-0-wuxga-uwva-300-fhdc-60hz-bnt-panel-8gb-1d-ddr5-5600-cr-sodimm-memory-512gb-pcie-nvme-value-windows-11-pro-64-1-year-warranty-dual-arymic-f-usb2-nfovcamera-clickpad",
+    "url": "/products/hp-probook-4-nb-g1ir-5-120u-14-0-wuxga-uwva-300-fhdc-60hz-bnt-panel-8gb-1d-ddr5-5600-cr-sodimm-memory-512gb-pcie-nvme-value-windows-11-pro-64-1-year-warranty-dual-arymic-f-usb2-nfovcamera-clickpad",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/C38KXAT_default.png"
    },
    {
     "brand": "Acer",
@@ -126,14 +126,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus VivoBook S14 S3407AA 14\" OLED Ultra 7-355 16GB 512GB Win 11 Home Silver Notebook",
-    "spec": "14\" screen",
-    "price": "R29 969",
-    "handle": "asus-vivobook-s14-s3407aa-14-oled-ultra-7-355-16gb-512gb-win-11-home-silver-notebook",
-    "url": "/products/asus-vivobook-s14-s3407aa-14-oled-ultra-7-355-16gb-512gb-win-11-home-silver-notebook",
-    "qty": 16,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/S/ASUS_Vivobook_S14_S3407AA_Product_photo_2S_Cool_Silver_03_2400x2400__1__b555.jpg"
+    "brand": "HP",
+    "title": "HP ProBook 4 G2i AI 16In Laptop — 16GB · 512GB SSD",
+    "spec": "512GB SSD",
+    "price": "R30 447",
+    "handle": "hp-probook-4-g2i-ai-16in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "url": "/products/hp-probook-4-g2i-ai-16in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "qty": 73,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DW2G5ET_default.png"
    },
    {
     "brand": "Dell",
@@ -640,7 +640,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 109,
+    "qty": 8,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -654,14 +654,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
    },
    {
-    "brand": "MSI",
-    "title": "MSI MAG 275QF E20 27\" WQHD 200Hz IPS Gaming Monitor",
+    "brand": "Xiaomi",
+    "title": "Xiaomi A27Qi 2026 27\" inch 120Hz 2K IPS Office Monitor",
     "spec": "27\" screen",
-    "price": "R4 239",
-    "handle": "msi-mag-275qf-e20-27-wqhd-200hz-ips-gaming-monitor",
-    "url": "/products/msi-mag-275qf-e20-27-wqhd-200hz-ips-gaming-monitor",
-    "qty": 7,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-275QF-E20_MSI-MAG-275QF-E20-27-inch-WQHD-200Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
+    "price": "R3 449",
+    "handle": "xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
+    "url": "/products/xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
+    "qty": 118,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6568EU_Xiaomi-A27Qi-2026-27-inch-2K-120Hz-IPS-Office-Monitor_wr_01a.jpg"
    },
    {
     "brand": "Samsung",
@@ -1220,7 +1220,7 @@
     "price": "R6 969",
     "handle": "hp-laserjet-pro-4103dw-mfp-mono-printer",
     "url": "/products/hp-laserjet-pro-4103dw-mfp-mono-printer",
-    "qty": 20,
+    "qty": 19,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z627A_default.png"
    },
    {
@@ -1314,7 +1314,7 @@
     "price": "R6 969",
     "handle": "hp-laserjet-pro-4103dw-mfp-mono-printer",
     "url": "/products/hp-laserjet-pro-4103dw-mfp-mono-printer",
-    "qty": 20,
+    "qty": 19,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z627A_default.png"
    },
    {
@@ -1324,7 +1324,7 @@
     "price": "R13 639",
     "handle": "hp-laserjet-mfp-m442dn-print-copy-scan-to-24-ppm-black-a3-normal-up-to-12-ppm-monthly-duty-cycle-up-to-50-000-pages-per-month-a4-recommended-monthly-page-volume-2-000-to-5-000-350-sheets-standard-600",
     "url": "/products/hp-laserjet-mfp-m442dn-print-copy-scan-to-24-ppm-black-a3-normal-up-to-12-ppm-monthly-duty-cycle-up-to-50-000-pages-per-month-a4-recommended-monthly-page-volume-2-000-to-5-000-350-sheets-standard-600",
-    "qty": 9,
+    "qty": 8,
     "image": "https://s3.amazonaws.com/tarsus.co.za/8AF71A_default.jpg"
    },
    {
@@ -1868,7 +1868,7 @@
     "price": "R4 438",
     "handle": "tp-link-jetstream-28-port-smart-managed-poe-switch",
     "url": "/products/tp-link-jetstream-28-port-smart-managed-poe-switch",
-    "qty": 7,
+    "qty": 5,
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/G/SG2428P_1_e994.png"
    },
    {
@@ -2366,14 +2366,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/11/GSP16A_wr_01a.jpg"
    },
    {
-    "brand": "Logitech",
-    "title": "Logitech R400 Red Laser Presentation Remote with Wireless Mini…",
-    "spec": "Accessories",
-    "price": "R467",
-    "handle": "logitech-r400-red-laser-presentation-remote-with-wireless-mini-receiver-red-laser-pointer-and-intuitive-slide-navigation-15m-wireless-range-with-usb-receiver-no-software-installation-required",
-    "url": "/products/logitech-r400-red-laser-presentation-remote-with-wireless-mini-receiver-red-laser-pointer-and-intuitive-slide-navigation-15m-wireless-range-with-usb-receiver-no-software-installation-required",
-    "qty": 4,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/910-001356_default.png"
+    "brand": "Port",
+    "title": "Port 65W Acer & Toshiba AC Adapter",
+    "spec": "Power Adapter",
+    "price": "R465",
+    "handle": "port-65w-acer-toshiba-ac-adapter",
+    "url": "/products/port-65w-acer-toshiba-ac-adapter",
+    "qty": 41,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900093_ACTO_1_c203.png"
    },
    {
     "brand": "SanDisk",
