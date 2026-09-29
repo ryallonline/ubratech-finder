@@ -204,7 +204,7 @@
     "price": "R29 969",
     "handle": "asus-vivobook-s14-s3407aa-14-oled-ultra-7-355-16gb-512gb-win-11-home-silver-notebook",
     "url": "/products/asus-vivobook-s14-s3407aa-14-oled-ultra-7-355-16gb-512gb-win-11-home-silver-notebook",
-    "qty": 16,
+    "qty": 12,
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/S/ASUS_Vivobook_S14_S3407AA_Product_photo_2S_Cool_Silver_03_2400x2400__1__b555.jpg"
    },
    {
@@ -322,7 +322,7 @@
     "price": "R25 562",
     "handle": "lenovo-m70s-g6-sff-u7-265-13-tops-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-integrated-windows-11-pro-64-intel-ax211-2x2ax-6e-bluetooth-internal-speaker-usb-trd-us-eng-usb-clp-mouse-pub-fra-ara-eng-1year",
     "url": "/products/lenovo-m70s-g6-sff-u7-265-13-tops-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-integrated-windows-11-pro-64-intel-ax211-2x2ax-6e-bluetooth-internal-speaker-usb-trd-us-eng-usb-clp-mouse-pub-fra-ara-eng-1year",
-    "qty": 22,
+    "qty": 19,
     "image": "https://s3.amazonaws.com/tarsus.co.za/12YQ000ESA_default.jpg"
    },
    {
@@ -536,7 +536,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 458,
+    "qty": 420,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -630,7 +630,7 @@
     "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 390,
+    "qty": 389,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -682,7 +682,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 458,
+    "qty": 420,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -736,18 +736,18 @@
     "price": "R285",
     "handle": "gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "url": "/products/gizzu-30w-38wh-10400mah-mini-dc-ups-black",
-    "qty": 210,
+    "qty": 208,
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GU30WPRO_wr_01a.jpg"
    },
    {
-    "brand": "GIZZU",
-    "title": "GIZZU 60W 69Wh 21600mAh Mini POE DC UPS LifePO4 - Black",
-    "spec": "Ups And Power",
-    "price": "R506",
-    "handle": "gizzu-60w-69wh-21600mah-mini-poe-dc-ups-lifepo4-black",
-    "url": "/products/gizzu-60w-69wh-21600mah-mini-poe-dc-ups-lifepo4-black",
-    "qty": 99,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GUP60WPRO_wr_01a.jpg"
+    "brand": "Hikvision",
+    "title": "Hikvision 1000VA 1KVA UPS",
+    "spec": "1KVA UPS",
+    "price": "R1 024",
+    "handle": "hikvision-1000va-1kva-ups",
+    "url": "/products/hikvision-1000va-1kva-ups",
+    "qty": 408,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
     "brand": "APC",
@@ -1222,7 +1222,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
     "url": "https://ubratech.co.za/products/hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
-    "qty": 86,
+    "qty": 85,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    },
    {
@@ -1262,7 +1262,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
     "url": "/products/hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
-    "qty": 86,
+    "qty": 85,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    }
   ],
@@ -1347,7 +1347,7 @@
     "handle": "zebra-zt411-4-thermal-transfer-label-printer",
     "url": "https://ubratech.co.za/products/zebra-zt411-4-thermal-transfer-label-printer",
     "image": "https://www.pinnacle.co.za/media/catalog/product/Z/T/ZT41142_T0E0000Z_4906.png",
-    "qty": 2
+    "qty": 1
    },
    {
     "brand": "NIIMBOT",
@@ -1469,13 +1469,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Colorvu Smart Hybrid Light Fixed Turret Camera",
+    "title": "Hikvision 4MP Fixed Mini Bullet Network Camera",
     "spec": "4MP",
-    "price": "R2 972",
-    "handle": "hikvision-4mp-colorvu-smart-hybrid-light-fixed-turret-camera",
-    "url": "/products/hikvision-4mp-colorvu-smart-hybrid-light-fixed-turret-camera",
-    "qty": 2,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2347G2H_LI_2.8MM_1_1a0e.png"
+    "price": "R2 978",
+    "handle": "hikvision-4mp-fixed-mini-bullet-network-camera",
+    "url": "/products/hikvision-4mp-fixed-mini-bullet-network-camera",
+    "qty": 99,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_4MM_1_306c.png"
    },
    {
     "brand": "Hikvision",
@@ -1484,7 +1484,7 @@
     "price": "R5 642",
     "handle": "hikvision-4mp-smart-hybrid-light-with-colorvu-motorized-varifocal-bullet-ip-camera",
     "url": "/products/hikvision-4mp-smart-hybrid-light-with-colorvu-motorized-varifocal-bullet-ip-camera",
-    "qty": 219,
+    "qty": 215,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2647G3_LIZSY_2.8_12MM_b442.jpg"
    },
    {
@@ -1528,7 +1528,7 @@
     "price": "R3 124",
     "handle": "hikvision-4mp-varifocal-bullet-ip-camera",
     "url": "/products/hikvision-4mp-varifocal-bullet-ip-camera",
-    "qty": 131,
+    "qty": 130,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2641G0_LIZSU_2.8MM_12MM__0a67.png"
    },
    {
@@ -1604,7 +1604,7 @@
     "price": "R703",
     "handle": "dell-pro-4-in-1-usb-c-travel-hub-da225",
     "url": "https://ubratech.co.za/products/dell-pro-4-in-1-usb-c-travel-hub-da225",
-    "qty": 13,
+    "qty": 11,
     "image": "https://s3.amazonaws.com/tarsus.co.za/470-BFBN_default.png"
    },
    {
@@ -1728,7 +1728,7 @@
     "price": "R2 649",
     "handle": "ugreen-14-in-1-usb-type-c-to-usb-2x-hdmi-dp-rj45-docking-station",
     "url": "/products/ugreen-14-in-1-usb-type-c-to-usb-2x-hdmi-dp-rj45-docking-station",
-    "qty": 15,
+    "qty": 7,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/CM843-85489_UGreen_USB_Type-C_TO_USB2x_HDMIDPRJ45_Do_wr_01.jpg"
    }
   ]
@@ -1999,7 +1999,7 @@
     "price": "R452",
     "handle": "hiksemi-future-8gb-1600mhz-8gb-x-1-so-dimm-memory-module",
     "url": "/products/hiksemi-future-8gb-1600mhz-8gb-x-1-so-dimm-memory-module",
-    "qty": 143,
+    "qty": 120,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/HSC308S16Z1-8G_wr_-2.jpg"
    },
    {
@@ -2094,7 +2094,7 @@
     "handle": "gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "url": "https://ubratech.co.za/products/gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GU30WPRO_wr_01a.jpg",
-    "qty": 210
+    "qty": 208
    },
    {
     "brand": "Antec",
@@ -2113,7 +2113,7 @@
     "price": "R874",
     "handle": "antec-atom-b650-non-modular-power-supply",
     "url": "/products/antec-atom-b650-non-modular-power-supply",
-    "qty": 113,
+    "qty": 112,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/ATOM-B650_wr_01.jpg"
    },
    {
@@ -2182,13 +2182,13 @@
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi Smart Tower Fan 2",
+    "title": "Xiaomi Smart Standing Air Circulation Fan",
     "spec": "Appliances",
-    "price": "R1 862",
-    "handle": "xiaomi-smart-tower-fan-2",
-    "url": "/products/xiaomi-smart-tower-fan-2",
-    "qty": 203,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/BHR8846EU_Xiaomi-Smart-Tower-Fan-2-White_wr_01a.jpg"
+    "price": "R1 864",
+    "handle": "xiaomi-smart-standing-air-circulation-fan",
+    "url": "/products/xiaomi-smart-standing-air-circulation-fan",
+    "qty": 202,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/6932554413064_BHR9849EU_Front-Right.jpeg"
    },
    {
     "brand": "Xiaomi",
@@ -2305,24 +2305,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2018/09/N301-10-SV-PRO_wr_01a.jpg"
    },
    {
-    "brand": "UGREEN",
-    "title": "UGREEN Cat8 Nylon Braided Ethernet Cable - 40Gbps with Modular Plugs - 5m",
-    "spec": "Cables And Adapters",
-    "price": "R128",
-    "handle": "ugreen-cat8-nylon-braided-ethernet-cable-40gbps-with-modular-plugs-5m",
-    "url": "/products/ugreen-cat8-nylon-braided-ethernet-cable-40gbps-with-modular-plugs-5m",
-    "qty": 19,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/nw153-wr-02.jpg"
+    "brand": "Anycubic",
+    "title": "Anycubic Kobra 3 Max 0.4mm Stainless Steel Nozzle",
+    "spec": "Accessories",
+    "price": "R144",
+    "handle": "anycubic-kobra-3-max-0-4mm-stainless-steel-nozzle",
+    "url": "/products/anycubic-kobra-3-max-0-4mm-stainless-steel-nozzle",
+    "qty": 11,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/S010364_Anycubic_Kobra_3_Max_04mm_Stainless_Stee_wr_01.jpg"
    },
    {
-    "brand": "HDCVT",
-    "title": "HDCVT 1x4 HDMI 1.4 Splitter 4K with EDID Management",
-    "spec": "Cables And Adapters",
-    "price": "R438",
-    "handle": "hdcvt-1x4-hdmi-1-4-splitter-4k-with-edid-management",
-    "url": "/products/hdcvt-1x4-hdmi-1-4-splitter-4k-with-edid-management",
-    "qty": 198,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/05/HDC-SP914CN_wr_01.jpg"
+    "brand": "WINX",
+    "title": "WINX MOUNT Max Tilt TV Bracket",
+    "spec": "Accessories",
+    "price": "R402",
+    "handle": "winx-mount-max-tilt-tv-bracket",
+    "url": "/products/winx-mount-max-tilt-tv-bracket",
+    "qty": 214,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/02/WX-BR101_wr_01-1.jpg"
    },
    {
     "brand": "SanDisk",
