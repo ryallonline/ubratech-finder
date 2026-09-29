@@ -126,14 +126,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP ProBook 4 G2i AI 14in Laptop — 16GB · 512GB SSD (DS5H9ET)",
-    "spec": "512GB SSD",
-    "price": "R31 379",
-    "handle": "hp-probook-4-g2i-ai-14in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "url": "/products/hp-probook-4-g2i-ai-14in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "qty": 23,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DS5H9ET_default.png"
+    "brand": "Lenovo",
+    "title": "Lenovo LOQ 15AHP10 15.6\" Ryzen-7 16GB 1TB Win 11 Home Notebook",
+    "spec": "15.6\" screen",
+    "price": "R31 480",
+    "handle": "lenovo-loq-15ahp10-15-6-ryzen-7-16gb-1tb-win-11-home-notebook",
+    "url": "/products/lenovo-loq-15ahp10-15-6-ryzen-7-16gb-1tb-win-11-home-notebook",
+    "qty": 38,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/8/3/83JG001CSA__2__40b1.jpg"
    },
    {
     "brand": "Asus",
@@ -253,13 +253,13 @@
    },
    {
     "brand": "Giada",
-    "title": "Giada DF612 i5-1235U 2x DDR4 3200Mhz",
+    "title": "Giada DF612 i3-1215U 2x DDR4 3200Mhz",
     "spec": "Desktops",
-    "price": "R8 819",
-    "handle": "giada-df612-i5-1235u-2x-ddr4-3200mhz",
-    "url": "/products/giada-df612-i5-1235u-2x-ddr4-3200mhz",
-    "qty": 5,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2023/06/DF612-1215U40N0G-GIA_wr_01-1.jpeg"
+    "price": "R8 431",
+    "handle": "giada-df612-i3-1215u-2x-ddr4-3200mhz",
+    "url": "/products/giada-df612-i3-1215u-2x-ddr4-3200mhz",
+    "qty": 4,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2023/06/DF612-1215U40N0G-GIA_wr_01.jpeg"
    },
    {
     "brand": "PCBUiLDER™",
@@ -326,14 +326,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/12YQ000ESA_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro Slim QCS1250 Desktop PC — Core Ultra 7 · 512GB SSD (BTO108_QCS1250_EMEA)",
-    "spec": "512GB SSD",
-    "price": "R31 865",
-    "handle": "dell-pro-slim-qcs1250-intel-core-ultra-7-265-13-tops-up-to-5-3-ghz-16gb-1x16gb-5600mt-s-ddr5-512gb-ssd-tlc-integrated-graphics-no-wi-fi-bluetooth-dell-kb216-multimedia-usb-keyboard-dell-ms116-optical",
-    "url": "/products/dell-pro-slim-qcs1250-intel-core-ultra-7-265-13-tops-up-to-5-3-ghz-16gb-1x16gb-5600mt-s-ddr5-512gb-ssd-tlc-integrated-graphics-no-wi-fi-bluetooth-dell-kb216-multimedia-usb-keyboard-dell-ms116-optical",
-    "qty": 8,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO108_QCS1250_EMEA_default.jpg"
+    "brand": "HP",
+    "title": "HP AIO ProStudio 4 G1i 24\" Core-i7 16GB 512GB Win 11 Pro All in One",
+    "spec": "24\" screen",
+    "price": "R36 706",
+    "handle": "hp-aio-prostudio-4-g1i-24-core-i7-16gb-512gb-win-11-pro-all-in-one",
+    "url": "/products/hp-aio-prostudio-4-g1i-24-core-i7-16gb-512gb-win-11-pro-all-in-one",
+    "qty": 1,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BY6U8ET_default.jpg"
    },
    {
     "brand": "PCBuilder",
@@ -531,16 +531,6 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro E2425HM 24\" Full-HD Monitor",
-    "spec": "Crisp everyday screen",
-    "price": "R2 435",
-    "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
-    "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 102,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
-   },
-   {
-    "brand": "Dell",
     "title": "Dell SE2726HM 27\" FHD Monitor",
     "spec": "Crisp everyday screen",
     "price": "R2 290",
@@ -560,24 +550,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo S27 4e 27.0'' FHD Monitor",
+    "brand": "Dell",
+    "title": "Dell Pro 27 Monitor - E2726H 1x HDMI, 1x DP, 1x VGA (Includes DP & Power Cable)",
     "spec": "Monitors And Displays",
-    "price": "R2 479",
-    "handle": "lenovo-s27-4e-27-0-monitor-ips-panel-100hz-1920-x-1080-input-connectors-vga-hdmi-1-4-cables-included-hdmi-windows-11-3-years-warranty",
-    "url": "/products/lenovo-s27-4e-27-0-monitor-ips-panel-100hz-1920-x-1080-input-connectors-vga-hdmi-1-4-cables-included-hdmi-windows-11-3-years-warranty",
-    "qty": 39,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/64BEKAT1SA_default.jpg"
+    "price": "R2 444",
+    "handle": "dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
+    "url": "/products/dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
+    "qty": 58,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPN_default.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi A27Qi 2026 27\" inch 120Hz 2K IPS Office Monitor",
-    "spec": "27\" screen",
-    "price": "R3 449",
-    "handle": "xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
-    "url": "/products/xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
-    "qty": 118,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6568EU_Xiaomi-A27Qi-2026-27-inch-2K-120Hz-IPS-Office-Monitor_wr_01a.jpg"
+    "brand": "HP",
+    "title": "HP Series 3 Pro 24\" FHD Monitor (9U5C1AS)",
+    "spec": "24\" screen",
+    "price": "R3 413",
+    "handle": "hp-series-3-pro-24-fhd-monitor-9u5c1as",
+    "url": "/products/hp-series-3-pro-24-fhd-monitor-9u5c1as",
+    "qty": 49,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5C1AS_b69f.jpg"
    },
    {
     "brand": "LG",
@@ -592,34 +582,34 @@
   ],
   "creative": [
    {
+    "brand": "MSI",
+    "title": "MSI MAG 325QF E18V 32\" WQHD 180Hz VA Gaming Monitor",
+    "spec": "32\" screen",
+    "price": "R6 410",
+    "handle": "msi-mag-325qf-e18v-32-wqhd-180hz-va-gaming-monitor",
+    "url": "/products/msi-mag-325qf-e18v-32-wqhd-180hz-va-gaming-monitor",
+    "qty": 7,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-325QF-E18V_MSI-MAG-325QF-E18V-32-inch-WQHD-180Hz-VA-Gaming-Monitor-Black_wr_01a.jpg"
+   },
+   {
     "brand": "Dell",
-    "title": "Dell UltraSharp 24 USB-C Hub — U2424HE",
-    "spec": "Colour-accurate · USB-C",
-    "price": "R6 260",
-    "handle": "dell-ultrasharp-24-usb-c-hub-monitor-u2424he-60-47cm-23-8",
-    "url": "https://ubratech.co.za/products/dell-ultrasharp-24-usb-c-hub-monitor-u2424he-60-47cm-23-8",
-    "qty": 58,
-    "image": "http://cdn.cs.1worldsync.com/05/4c/054ce9ac-adff-4f1a-ae29-83d3e471de5e.jpg"
+    "title": "Dell Pro 32 Plus QHD USB-C Hub Monitor - P3225DE, 80.1cm (31.5\")",
+    "spec": "31.5\" screen",
+    "price": "R9 125",
+    "handle": "dell-pro-32-plus-qhd-usb-c-hub-monitor-p3225de-80-1cm-31-5",
+    "url": "/products/dell-pro-32-plus-qhd-usb-c-hub-monitor-p3225de-80-1cm-31-5",
+    "qty": 12,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BRDP_default.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi G Pro 27i 27\" 2K 1440p Mini LED IPS Gaming Monitor (180Hz, 1ms)",
-    "spec": "27\" screen",
-    "price": "R8 570",
-    "handle": "xiaomi-g-pro-27i-27-2k-1440p-mini-led-ips-gaming-monitor-180hz-1ms",
-    "url": "/products/xiaomi-g-pro-27i-27-2k-1440p-mini-led-ips-gaming-monitor-180hz-1ms",
-    "qty": 28,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/ELA5585EU_Xiaomi-G-Pro-27i_27-inch_2k_qhd_gaming_monitor_wr_01b.jpg"
-   },
-   {
-    "brand": "LG",
-    "title": "LG UltraGear 27\" QHD OLED Gaming 480Hz 0,03ms",
-    "spec": "27\" screen",
-    "price": "R18 636",
-    "handle": "lg-ultragear-27-qhd-oled-gaming-480hz-0-03ms",
-    "url": "/products/lg-ultragear-27-qhd-oled-gaming-480hz-0-03ms",
-    "qty": 2,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/27GX790A-B.AFB_LG-UltraGear-27-inch-QHD-OLED-480Hz-Gaming-Monitor_wr_01a.jpg"
+    "brand": "Dell",
+    "title": "Dell UltraSharp 43 4K USB C Hub U4323QE 107.9c 42.5\" Monitor",
+    "spec": "42.5\" screen",
+    "price": "R21 473",
+    "handle": "dell-ultrasharp-43-4k-usb-c-hub-monitor-u4323qe-107-9cm-42-5-2-x-hdmi-2-x-displayport-1-4-lan-rj-45-3-year-basic-exchange-warranty",
+    "url": "/products/dell-ultrasharp-43-4k-usb-c-hub-monitor-u4323qe-107-9cm-42-5-2-x-hdmi-2-x-displayport-1-4-lan-rj-45-3-year-basic-exchange-warranty",
+    "qty": 17,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BFIS_default.png"
    },
    {
     "brand": "Asus",
@@ -687,16 +677,6 @@
   "multi": [
    {
     "brand": "Dell",
-    "title": "Dell Pro E2425HM 24\" Full-HD Monitor",
-    "spec": "Slim bezel · great for lots of windows",
-    "price": "R2 435",
-    "handle": "dell-pro-e2425hm-24-full-hd-black-monitor",
-    "url": "https://ubratech.co.za/products/dell-pro-e2425hm-24-full-hd-black-monitor",
-    "qty": 102,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDN__1__7cd8.jpg"
-   },
-   {
-    "brand": "Dell",
     "title": "Dell SE2726HM 27\" FHD Monitor",
     "spec": "Slim bezel · great for lots of windows",
     "price": "R2 290",
@@ -726,14 +706,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-X24_MSI-MAG-255F-X24-25-inch-FHD-240Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Monitor 24 Pro Plus",
-    "spec": "Monitors And Displays",
-    "price": "R4 462",
-    "handle": "dell-monitor-24-pro-plus",
-    "url": "/products/dell-monitor-24-pro-plus",
-    "qty": 56,
-    "image": "https://staxdstoragecdn.blob.core.windows.net/axd-live/dell_210-bmjd.jpg"
+    "brand": "MSI",
+    "title": "MSI MAG 275QF E20 27\" WQHD 200Hz IPS Gaming Monitor",
+    "spec": "27\" screen",
+    "price": "R4 239",
+    "handle": "msi-mag-275qf-e20-27-wqhd-200hz-ips-gaming-monitor",
+    "url": "/products/msi-mag-275qf-e20-27-wqhd-200hz-ips-gaming-monitor",
+    "qty": 7,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-275QF-E20_MSI-MAG-275QF-E20-27-inch-WQHD-200Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -1786,14 +1766,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS105_wr_01.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP POLY 5220 Stereo USB-A Wired Black Headset",
+    "brand": "Port",
+    "title": "Port Connect ON’R 500 Bluetooth® Stereo Headset",
     "spec": "Headsets",
-    "price": "R1 519",
-    "handle": "hp-poly-5220-stereo-usb-a-wired-black-headset",
-    "url": "/products/hp-poly-5220-stereo-usb-a-wired-black-headset",
-    "qty": 16,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/8/X/8X231AA_4dd6.png"
+    "price": "R1 510",
+    "handle": "port-connect-on-r-500-bluetooth-stereo-headset",
+    "url": "/products/port-connect-on-r-500-bluetooth-stereo-headset",
+    "qty": 43,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/912002_PORT-CONNECT-BINAURAL-HEADSET-BT_wr_06.jpg"
    },
    {
     "brand": "HP",
@@ -1806,18 +1786,7 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/7Y8G4AA_default.png"
    }
   ],
-  "board": [
-   {
-    "brand": "Dell",
-    "title": "Dell Pro Premium Wireless ANC Headset — WL7024",
-    "spec": "ANC · all-day meetings",
-    "price": "R6 103",
-    "handle": "dell-pro-premium-wireless-anc-headset-wl7024",
-    "url": "https://ubratech.co.za/products/dell-pro-premium-wireless-anc-headset-wl7024",
-    "qty": 22,
-    "image": "https://staxdstoragecdn.blob.core.windows.net/axd-live/dell_520-bbhc.jpg"
-   }
-  ]
+  "board": []
  },
  "netgear": {
   "switch": [
@@ -1916,16 +1885,6 @@
     "qty": 3
    },
    {
-    "brand": "Dell",
-    "title": "Dell Networking X1018 Smart Managed Switch — 16×1GbE + 2×SFP",
-    "spec": "Rack-ready · smart web managed",
-    "price": "R3 695",
-    "handle": "dell-networking-x1018-smart-web-managed-switch-16x-1gbe-and-2x-1gbe-sfp-ports-lifetime-limited-hardware-warranty-minimum-warranty-add-575-bbee-to-make-the-switch-rackmountable",
-    "url": "https://ubratech.co.za/products/dell-networking-x1018-smart-web-managed-switch-16x-1gbe-and-2x-1gbe-sfp-ports-lifetime-limited-hardware-warranty-minimum-warranty-add-575-bbee-to-make-the-switch-rackmountable",
-    "image": "http://cdn.cs.1worldsync.com/68/24/68243f1e-919f-4cfc-a520-172158f90122.jpg",
-    "qty": 24
-   },
-   {
     "brand": "TP-Link",
     "title": "TP-Link 8 Port Gigabit Unmanaged Rackmount POE Switch",
     "spec": "8 ports",
@@ -1992,24 +1951,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM767-35267_UGreen-CM767-M.2-NVMe-SSD-Enclosure-10Gbps-%E2%80%93-Silver_wr_01a.jpg"
    },
    {
-    "brand": "Patriot",
-    "title": "Patriot Transporter Lite 1TB USB3.2 Type-C External Portable SSD - Red",
+    "brand": "Kingston",
+    "title": "Kingston 480GB A400 SATA3 2.5 SSD",
     "spec": "Storage",
-    "price": "R2 265",
-    "handle": "patriot-transporter-lite-1tb-usb3-2-type-c-external-portable-ssd-red",
-    "url": "/products/patriot-transporter-lite-1tb-usb3-2-type-c-external-portable-ssd-red",
-    "qty": 25,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/PTPL1TBPEC_Patriot-Transporter-Lite-1TB-USB3.2-Type-C-External-Portable-SSD_wr_01.jpg"
+    "price": "R2 241",
+    "handle": "kingston-480gb-a400-sata3-2-5-ssd-7mm-height",
+    "url": "/products/kingston-480gb-a400-sata3-2-5-ssd-7mm-height",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SA400S37/480G_default.jpg"
    },
    {
-    "brand": "PATRIOT",
-    "title": "PATRIOT SSD VP4000 M.2 NVME 2TB 2230",
+    "brand": "Patriot",
+    "title": "Patriot Viper VP4300 Lite 2TB Gen 4 M.2 PCIe NVMe SSD",
     "spec": "Storage",
-    "price": "R5 665",
-    "handle": "patriot-ssd-vp4000-m-2-nvme-2tb-2230",
-    "url": "/products/patriot-ssd-vp4000-m-2-nvme-2tb-2230",
-    "qty": 8,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/VP4000M2TBM23_Patriot-Viper-VP4000-Mini-2TB-M.2-2230-PCIe-Gen4x4-SSD_wr_01.jpg"
+    "price": "R5 414",
+    "handle": "patriot-viper-vp4300-lite-2tb-gen-4-m-2-pcie-nvme-ssd",
+    "url": "/products/patriot-viper-vp4300-lite-2tb-gen-4-m-2-pcie-nvme-ssd",
+    "qty": 3,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/VP4300L2TBM28H_Patriot-Viper-VP4300-Lite-2TB-Gen-4-M.2-PCIe-NVMe-SSD_wr_02.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -2054,24 +2013,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/HSC308S16Z1-8G_wr_-2.jpg"
    },
    {
-    "brand": "HIKSEMI",
-    "title": "HIKSEMI Hiker 16GB 3200MHZ DDR4 SODIMM",
+    "brand": "Patriot",
+    "title": "Patriot Signature Line 8GB 5600MHz DDR5 UDIMM Desktop Memory",
     "spec": "Memory",
     "price": "R2 517",
-    "handle": "hiksemi-hiker-16gb-3200mhz-ddr4-sodimm",
-    "url": "/products/hiksemi-hiker-16gb-3200mhz-ddr4-sodimm",
-    "qty": 232,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/HSC416S32Z1-16G_wr_-2.jpg"
+    "handle": "patriot-signature-line-8gb-5600mhz-ddr5-udimm-desktop-memory",
+    "url": "/products/patriot-signature-line-8gb-5600mhz-ddr5-udimm-desktop-memory",
+    "qty": 41,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/PSD58G560082_Patriot-Signature-Line-8GB-5600MHz-DDR5-UDIMM-Desktop-Memory_wr_01.jpg"
    },
    {
     "brand": "Patriot",
-    "title": "Patriot Viper Elite 5 Ultra RGB 16GB 6000MHz DDR5 Desktop Gaming Memory - Black",
+    "title": "Patriot Vipersteel 32GB KIT (2x16GB) 3600MHz DDR4 Desktop Gaming Memory RGB",
     "spec": "Memory",
-    "price": "R5 412",
-    "handle": "patriot-viper-elite-5-ultra-rgb-16gb-6000mhz-ddr5-desktop-gaming-memory-black",
-    "url": "/products/patriot-viper-elite-5-ultra-rgb-16gb-6000mhz-ddr5-desktop-gaming-memory-black",
-    "qty": 1,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/06/VEUR516G6036_Patriot-Viper-Elite-5-Ultra-RGB-16GB-6000MHz-DDR5-Desktop-Gaming-Memory-Black_wr_01a.jpg"
+    "price": "R5 414",
+    "handle": "patriot-vipersteel-32gb-kit-2x16gb-3600mhz-ddr4-desktop-gaming-memory-rgb",
+    "url": "/products/patriot-vipersteel-32gb-kit-2x16gb-3600mhz-ddr4-desktop-gaming-memory-rgb",
+    "qty": 188,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PVSR432G360C8K_wr_01.jpg"
    },
    {
     "brand": "Geil",
@@ -2294,34 +2253,34 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/BHR8930GL_wr_01.jpg"
    },
    {
-    "brand": "UGREEN",
-    "title": "UGREEN HiTune S5 Open-Ear TWS Earbuds–Black",
-    "spec": "Tv And Audio",
-    "price": "R516",
-    "handle": "ugreen-hitune-s5-open-ear-tws-earbuds-black",
-    "url": "/products/ugreen-hitune-s5-open-ear-tws-earbuds-black",
-    "qty": 49,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/6941876247608_WS210-45760_02.jpg"
-   },
-   {
-    "brand": "Xiaomi",
-    "title": "Xiaomi Redmi Headphones Neo ANC Wireless Over-Ears - White",
-    "spec": "Tv And Audio",
-    "price": "R1 213",
-    "handle": "xiaomi-redmi-headphones-neo-anc-wireless-over-ears-white",
-    "url": "/products/xiaomi-redmi-headphones-neo-anc-wireless-over-ears-white",
-    "qty": 22,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/BHR08W2GL_Redmi-Headphones-Neo-ANC-Wireless-Over-Ears-White_wr_01a.jpg"
-   },
-   {
-    "brand": "Dell",
-    "title": "Dell Pro Premium Wireless ANC Headset - WL7024",
+    "brand": "REDRAGON",
+    "title": "REDRAGON Over-Ear PANDORA USB (Power Only)|Aux (Mic and Headset)…",
     "spec": "Headsets",
-    "price": "R6 103",
-    "handle": "dell-pro-premium-wireless-anc-headset-wl7024",
-    "url": "/products/dell-pro-premium-wireless-anc-headset-wl7024",
-    "qty": 22,
-    "image": "https://staxdstoragecdn.blob.core.windows.net/axd-live/dell_520-bbhc.jpg"
+    "price": "R496",
+    "handle": "redragon-over-ear-pandora-usb-power-only-aux-mic-and-headset-rgb-gaming-headset-black",
+    "url": "/products/redragon-over-ear-pandora-usb-power-only-aux-mic-and-headset-rgb-gaming-headset-black",
+    "qty": 131,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2020/08/RD-H350RGB-1_wr_01.jpg"
+   },
+   {
+    "brand": "Corsair",
+    "title": "Corsair HS55 Surround Wired Gaming Headset - Carbon Black",
+    "spec": "Headsets",
+    "price": "R1 147",
+    "handle": "corsair-hs55-surround-wired-gaming-headset-carbon-black",
+    "url": "/products/corsair-hs55-surround-wired-gaming-headset-carbon-black",
+    "qty": 18,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/CA-9011260-AP_Corsair_HS55_Surround_Wired_Gaming_Heads_wr_01.png"
+   },
+   {
+    "brand": "HP",
+    "title": "HP Poly VFree 60+ CB Earbuds +BT700C +TSCHC",
+    "spec": "Headsets",
+    "price": "R4 721",
+    "handle": "hp-poly-vfree-60-cb-earbuds-bt700c-tschc",
+    "url": "/products/hp-poly-vfree-60-cb-earbuds-bt700c-tschc",
+    "qty": 12,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/7Y8G4AA_default.png"
    }
   ],
   "everyday": [
@@ -2356,24 +2315,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2018/09/N301-10-SV-PRO_wr_01a.jpg"
    },
    {
-    "brand": "GIZZU",
-    "title": "GIZZU Voltage Protector 16A",
-    "spec": "Power Adapter",
-    "price": "R135",
-    "handle": "gizzu-voltage-protector-16a",
-    "url": "/products/gizzu-voltage-protector-16a",
-    "qty": 230,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/11/GSP16A_wr_01a.jpg"
+    "brand": "UGREEN",
+    "title": "UGREEN HD104-10109 HDMI 4K Cable Male to Male Black 5m - Black",
+    "spec": "Cables And Adapters",
+    "price": "R128",
+    "handle": "ugreen-hd104-10109-hdmi-4k-cable-male-to-male-black-5m-black",
+    "url": "/products/ugreen-hd104-10109-hdmi-4k-cable-male-to-male-black-5m-black",
+    "qty": 139,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/hd-104-10106-wr-01.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port 65W Acer & Toshiba AC Adapter",
-    "spec": "Power Adapter",
-    "price": "R465",
-    "handle": "port-65w-acer-toshiba-ac-adapter",
-    "url": "/products/port-65w-acer-toshiba-ac-adapter",
-    "qty": 41,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900093_ACTO_1_c203.png"
+    "brand": "HP",
+    "title": "HP Keyed Cable Lock 10mm",
+    "spec": "Accessories",
+    "price": "R439",
+    "handle": "hp-keyed-cable-lock-10mm",
+    "url": "/products/hp-keyed-cable-lock-10mm",
+    "qty": 92,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/T1A62AA_default.jpg"
    },
    {
     "brand": "SanDisk",
@@ -2408,24 +2367,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/RD-BM-4049_wr_01.jpg"
    },
    {
-    "brand": "REDRAGON",
-    "title": "REDRAGON Taipan Pro 10000DPI RGB Wireless Gaming Mouse - Black",
+    "brand": "Port",
+    "title": "Port Connect Ergo Shape Rechargeable Wireless Mouse",
     "spec": "Mice",
-    "price": "R366",
-    "handle": "redragon-taipan-pro-10000dpi-rgb-wireless-gaming-mouse-black",
-    "url": "/products/redragon-taipan-pro-10000dpi-rgb-wireless-gaming-mouse-black",
-    "qty": 65,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/11/RD-M810RGB-PRO_wr_01.jpg"
+    "price": "R351",
+    "handle": "port-connect-ergo-shape-rechargeable-wireless-mouse",
+    "url": "/products/port-connect-ergo-shape-rechargeable-wireless-mouse",
+    "qty": 104,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/910008_PORT-MOUSE-ERGO-RECHARGEABLE-BT-LEFT_wr_09.jpg"
    },
    {
-    "brand": "REDRAGON",
-    "title": "REDRAGON DRACONIC PRO Mechanical 61 Key|Bluetooth 5.0|RGB 9 Colour…",
+    "brand": "Redragon",
+    "title": "Redragon K588 RGB Pro BROADSWORD TKL Mechanical Wired Gaming Keyboard - Black",
     "spec": "Keyboards",
-    "price": "R739",
-    "handle": "redragon-draconic-pro-mechanical-61-key-bluetooth-5-0-rgb-9-colour-modes-rechargable-battery-type-c-charging-cable-gaming-keyboard-black",
-    "url": "/products/redragon-draconic-pro-mechanical-61-key-bluetooth-5-0-rgb-9-colour-modes-rechargable-battery-type-c-charging-cable-gaming-keyboard-black",
-    "qty": 205,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2023/04/RD-K530RGB-PRO_REDRAGON-DRACONIC-PRO-Mechanical-61-Key-Mechanical-Keyboard-RGB-%E2%80%93-Black_wr_01a.jpg"
+    "price": "R706",
+    "handle": "redragon-k588-rgb-pro-broadsword-tkl-mechanical-wired-gaming-keyboard-black",
+    "url": "/products/redragon-k588-rgb-pro-broadsword-tkl-mechanical-wired-gaming-keyboard-black",
+    "qty": 22,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/RD-K588RGB_Redragon-K588-RGB-Pro-BROADSWORD-TKL-Mechanical-Wired-Gaming-Keyboard-Black_wr_01a.jpg"
    },
    {
     "brand": "Corsair",
