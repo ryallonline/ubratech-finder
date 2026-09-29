@@ -136,14 +136,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DS5H9ET_default.png"
    },
    {
-    "brand": "HP",
-    "title": "HP ZBook 8 G1i Laptop — Core Ultra 5 · 24GB · 1TB SSD (DM7P4ES)",
-    "spec": "1TB SSD",
-    "price": "R40 798",
-    "handle": "hp-zbook-8-g1i-14inch-dsc-rtx-500-ada-4gb-u5-225h-lcd-14-0wuxgaagled300uwvafwwanf5mpirlpln-ram-24gb-ddr5-5600-ssd-1tb-pcie4x4-nvme-tlc-ost-w11p6-hp-3y-onsite-mws-supp-no-country-of-origin-restriction",
-    "url": "/products/hp-zbook-8-g1i-14inch-dsc-rtx-500-ada-4gb-u5-225h-lcd-14-0wuxgaagled300uwvafwwanf5mpirlpln-ram-24gb-ddr5-5600-ssd-1tb-pcie4x4-nvme-tlc-ost-w11p6-hp-3y-onsite-mws-supp-no-country-of-origin-restriction",
-    "qty": 14,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DM7P4ES_default.jpg"
+    "brand": "Asus",
+    "title": "Asus TUF Gaming F16 16\" Core-i7 16GB 1TB Win 11 Pro Notebook",
+    "spec": "16\" screen",
+    "price": "R40 622",
+    "handle": "asus-tuf-gaming-f16-16-core-i7-16gb-1tb-win-11-pro-notebook",
+    "url": "/products/asus-tuf-gaming-f16-16-core-i7-16gb-1tb-win-11-pro-notebook",
+    "qty": 11,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__44__6285.png"
    },
    {
     "brand": "Dell",
@@ -2305,14 +2305,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/WX-CC102_WINX-POWER-Fast-89W-Car-Charger-Silver_wr_01a.jpg"
    },
    {
-    "brand": "WINX",
-    "title": "WINX MOUNT Max Tilt TV Bracket",
-    "spec": "Accessories",
-    "price": "R402",
-    "handle": "winx-mount-max-tilt-tv-bracket",
-    "url": "/products/winx-mount-max-tilt-tv-bracket",
-    "qty": 214,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/02/WX-BR101_wr_01-1.jpg"
+    "brand": "UGREEN",
+    "title": "UGREEN 1x 2 HDMI Splitter 4K 30Hz 3D – Black",
+    "spec": "Cables And Adapters",
+    "price": "R408",
+    "handle": "ugreen-1x-2-hdmi-splitter-4k-30hz-3d-black",
+    "url": "/products/ugreen-1x-2-hdmi-splitter-4k-30hz-3d-black",
+    "qty": 22,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/CM619-40201EU.jpg"
    },
    {
     "brand": "SanDisk",
@@ -2402,14 +2402,14 @@
    "enquiry": true
   },
   {
-   "brand": "TP-Link Omada",
-   "title": "TP-Link Omada Dual-Band Wi-Fi 7 AP | EAP727",
-   "spec": "1×2.5G RJ45 Port, 688 Mbps (2.4 GHz) + 4300 Mbps (5 GHz), 802.3at PoE ",
-   "price": "R2 002",
-   "handle": "tp-link-omada-dual-band-wi-fi-7-ap-eap727",
-   "url": "/pages/tp-link-omada-dual-band-wi-fi-7-ap-eap727",
+   "brand": "Grandstream",
+   "title": "Grandstream Enterprise Outdoor WiFi 5 Long Range AP | GWN7630LR",
+   "spec": "2.33Gbps, 300 metres, 4x4 MIMO, 200+ client devices, Advanced QoS, GWN",
+   "price": "R2 010",
+   "handle": "grandstream-enterprise-outdoor-wifi-5-long-range-ap-gwn7630lr",
+   "url": "/pages/grandstream-enterprise-outdoor-wifi-5-long-range-ap-gwn7630lr",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/2/0/3/3/8/20338.jpg",
+   "image": "https://miro.co.za/img/p/3/7/2/1/3721.jpg",
    "enquiry": true
   },
   {
