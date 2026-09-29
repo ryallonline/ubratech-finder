@@ -28,7 +28,7 @@
     "price": "R6 258",
     "handle": "acer-chromebook-311-c723-11-6-mediatek-kompanio-528-4gb-32gb-google-chrome-operating-system",
     "url": "/products/acer-chromebook-311-c723-11-6-mediatek-kompanio-528-4gb-32gb-google-chrome-operating-system",
-    "qty": 51,
+    "qty": 41,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NX.KKAEA_.001_Acer-Chromebook-311-C723-11.6-inch-MediaTek-Kompanio-528-4GB-32GB-Google-Chrome-Operating-System_wr_01a.jpg"
    },
    {
@@ -126,14 +126,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo LOQ 15AHP10 15.6\" Ryzen-7 16GB 1TB Win 11 Home Notebook",
-    "spec": "15.6\" screen",
-    "price": "R31 480",
-    "handle": "lenovo-loq-15ahp10-15-6-ryzen-7-16gb-1tb-win-11-home-notebook",
-    "url": "/products/lenovo-loq-15ahp10-15-6-ryzen-7-16gb-1tb-win-11-home-notebook",
-    "qty": 38,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/8/3/83JG001CSA__2__40b1.jpg"
+    "brand": "HP",
+    "title": "HP ProBook 4 G2i AI 14in Laptop — 16GB · 512GB SSD (DS5H9ET)",
+    "spec": "512GB SSD",
+    "price": "R31 379",
+    "handle": "hp-probook-4-g2i-ai-14in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "url": "/products/hp-probook-4-g2i-ai-14in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "qty": 23,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DS5H9ET_default.png"
    },
    {
     "brand": "HP",
@@ -184,7 +184,7 @@
     "price": "R18 762",
     "handle": "hp-probook-4-g1ah-16-radeon-740m-wuxga-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
     "url": "/products/hp-probook-4-g1ah-16-radeon-740m-wuxga-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
-    "qty": 119,
+    "qty": 118,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KSAT_9f51.jpg"
    },
    {
@@ -253,23 +253,23 @@
    },
    {
     "brand": "Giada",
-    "title": "Giada DF612 i3-1215U 2x DDR4 3200Mhz",
+    "title": "Giada DF612 i5-1235U 2x DDR4 3200Mhz",
     "spec": "Desktops",
-    "price": "R8 431",
-    "handle": "giada-df612-i3-1215u-2x-ddr4-3200mhz",
-    "url": "/products/giada-df612-i3-1215u-2x-ddr4-3200mhz",
-    "qty": 4,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2023/06/DF612-1215U40N0G-GIA_wr_01.jpeg"
+    "price": "R8 819",
+    "handle": "giada-df612-i5-1235u-2x-ddr4-3200mhz",
+    "url": "/products/giada-df612-i5-1235u-2x-ddr4-3200mhz",
+    "qty": 5,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2023/06/DF612-1215U40N0G-GIA_wr_01-1.jpeg"
    },
    {
-    "brand": "PCBUiLDER™",
-    "title": "PCBUiLDER™ Intel Core i3-14100 HOME MASTER Windows 11 Desktop PC",
+    "brand": "PCBuilder",
+    "title": "PCBuilder CUBE Intel i5-1235U 16GB DDR4 1TB Windows 11 Home Mini PC",
     "spec": "Desktops",
-    "price": "R10 347",
-    "handle": "pcbuilder-intel-core-i3-14100-home-master-windows-11-desktop-pc",
-    "url": "/products/pcbuilder-intel-core-i3-14100-home-master-windows-11-desktop-pc",
-    "qty": 9,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/PCB_HOME_I38G-V4-T_PCBUiLDER%E2%84%A2-Intel-Core-i3-14100-HOME-MASTER-Windows-11-Desktop-PC_wr_01.jpg"
+    "price": "R11 826",
+    "handle": "pcbuilder-cube-intel-i5-1235u-16gb-ddr4-1tb-windows-11-home-mini-pc",
+    "url": "/products/pcbuilder-cube-intel-i5-1235u-16gb-ddr4-1tb-windows-11-home-mini-pc",
+    "qty": 20,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/PCB_CUBE_I516G_HOME_PCBuilder-CUBE-i5-1235U-16GB-DDR4-1TB-Windows-11-Home-Mini-PC_wr_01a.jpg"
    }
   ],
   "mid": [
@@ -536,7 +536,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 420,
+    "qty": 419,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -630,7 +630,7 @@
     "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 389,
+    "qty": 388,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -682,7 +682,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 420,
+    "qty": 419,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -736,18 +736,18 @@
     "price": "R285",
     "handle": "gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "url": "/products/gizzu-30w-38wh-10400mah-mini-dc-ups-black",
-    "qty": 208,
+    "qty": 207,
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GU30WPRO_wr_01a.jpg"
    },
    {
-    "brand": "Hikvision",
-    "title": "Hikvision 1000VA 1KVA UPS",
-    "spec": "1KVA UPS",
-    "price": "R1 024",
-    "handle": "hikvision-1000va-1kva-ups",
-    "url": "/products/hikvision-1000va-1kva-ups",
-    "qty": 408,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
+    "brand": "GIZZU",
+    "title": "GIZZU 60W 69Wh 21600mAh Mini POE DC UPS LifePO4 - Black",
+    "spec": "Ups And Power",
+    "price": "R506",
+    "handle": "gizzu-60w-69wh-21600mah-mini-poe-dc-ups-lifepo4-black",
+    "url": "/products/gizzu-60w-69wh-21600mah-mini-poe-dc-ups-lifepo4-black",
+    "qty": 99,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GUP60WPRO_wr_01a.jpg"
    },
    {
     "brand": "APC",
@@ -820,7 +820,7 @@
     "price": "R1 648",
     "handle": "eaton-5e-900va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-900va-gen2-usb-iec-ups",
-    "qty": 54,
+    "qty": 53,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E900UI_761f.png"
    },
    {
@@ -1226,16 +1226,6 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi Portable Photo Printer 1S- Silver",
-    "spec": "Printers",
-    "price": "R1 578",
-    "handle": "xiaomi-portable-photo-printer-1s-silver",
-    "url": "/products/xiaomi-portable-photo-printer-1s-silver",
-    "qty": 29,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/BHR9974GL_Xiaomi-Portable-Photo-Printer-S1_04.jpeg"
-   },
-   {
     "brand": "HP",
     "title": "HP Smart Tank 581 Printer.Enjoy everyday relia All-in-One Printer (4A8D4A)",
     "spec": "Printers",
@@ -1244,6 +1234,16 @@
     "url": "/products/hp-smart-tank-581-all-in-one-printer-enjoy-everyday-reliabilitywith-the-hp-smart-tank-581-all-in-one-printer-that-delivers-hp-quality-you-expect-and-savings-that-are-anything-but-expected-up-to-6-000",
     "qty": 99,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4A8D4A_default.png"
+   },
+   {
+    "brand": "HP",
+    "title": "HP Smart Tank 530 Wireless Wireless All-in-One Printer (4SB24A)",
+    "spec": "Printers",
+    "price": "R5 123",
+    "handle": "hp-smart-tank-530-wireless-all-in-one-print-scan-copy-adf-wireless-rmpv-400-to-800-pages-1-3-users-hp-smart-app-apple-airprint-fire-google-cloud-print-2-0-hp-eprint-android-printing-mopria-certified",
+    "url": "/products/hp-smart-tank-530-wireless-all-in-one-print-scan-copy-adf-wireless-rmpv-400-to-800-pages-1-3-users-hp-smart-app-apple-airprint-fire-google-cloud-print-2-0-hp-eprint-android-printing-mopria-certified",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/4SB24A_default.jpg"
    },
    {
     "brand": "HP",
@@ -1338,16 +1338,6 @@
     "url": "https://ubratech.co.za/products/bixolon-xd3-40t-4-direct-thermal-label-printer",
     "image": "https://www.pinnacle.co.za/media/catalog/product/X/D/XD3_40TEK_PNC_3_ca89.png",
     "qty": 24
-   },
-   {
-    "brand": "Zebra",
-    "title": "Zebra ZT411 4\" Thermal Transfer Label Printer",
-    "spec": "Industrial · high volume",
-    "price": "R18 560",
-    "handle": "zebra-zt411-4-thermal-transfer-label-printer",
-    "url": "https://ubratech.co.za/products/zebra-zt411-4-thermal-transfer-label-printer",
-    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/T/ZT41142_T0E0000Z_4906.png",
-    "qty": 1
    },
    {
     "brand": "NIIMBOT",
@@ -1951,14 +1941,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/PVP301TB28UDG_Patriot-PVP30-1TB-Duo-Compact-External-Portable-SSD_wr_01.jpg"
    },
    {
-    "brand": "Patriot",
-    "title": "Patriot Viper VP4300 Lite 2TB Gen 4 M.2 PCIe NVMe SSD",
+    "brand": "Dell",
+    "title": "Dell 480GB PCIe Gen4 M.2 2280 NVMe SSD for BOSS-N1 Controller Card",
     "spec": "Storage",
-    "price": "R5 414",
-    "handle": "patriot-viper-vp4300-lite-2tb-gen-4-m-2-pcie-nvme-ssd",
-    "url": "/products/patriot-viper-vp4300-lite-2tb-gen-4-m-2-pcie-nvme-ssd",
-    "qty": 3,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/VP4300L2TBM28H_Patriot-Viper-VP4300-Lite-2TB-Gen-4-M.2-PCIe-NVMe-SSD_wr_02.jpg"
+    "price": "R5 432",
+    "handle": "dell-480gb-pcie-gen4-m-2-2280-nvme-ssd-for-boss-n1-controller-card",
+    "url": "/products/dell-480gb-pcie-gen4-m-2-2280-nvme-ssd-for-boss-n1-controller-card",
+    "qty": 5,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/4/0/400_BONG_7e2a.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -2071,7 +2061,7 @@
     "price": "R9 783",
     "handle": "asrock-radeon-rx-9060-xt-challenger-16gb-oc-graphics-card-rdna-4-pcie-5-0",
     "url": "/products/asrock-radeon-rx-9060-xt-challenger-16gb-oc-graphics-card-rdna-4-pcie-5-0",
-    "qty": 110,
+    "qty": 75,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/RX9060XTCHALLENGER16G_ASRock-AMD-Radeon-RX-9060-XT-Challenger-16GB-OC_wr_01a.jpg"
    },
    {
@@ -2094,7 +2084,7 @@
     "handle": "gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "url": "https://ubratech.co.za/products/gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GU30WPRO_wr_01a.jpg",
-    "qty": 208
+    "qty": 207
    },
    {
     "brand": "Antec",
@@ -2148,7 +2138,7 @@
     "handle": "tp-link-tapo-d205-2k-battery-video-doorbell-mini",
     "url": "https://ubratech.co.za/products/tp-link-tapo-d205-2k-battery-video-doorbell-mini",
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/A/TAPO_D205_5ba3.jpg",
-    "qty": 4
+    "qty": 3
    },
    {
     "brand": "Xiaomi",
@@ -2158,7 +2148,7 @@
     "handle": "xiaomi-robot-vacuum-s40c",
     "url": "https://ubratech.co.za/products/xiaomi-robot-vacuum-s40c",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/BHR9664EU_Xiaomi-Robot-Vacuum-S40C_wr_02a-1.jpg",
-    "qty": 189
+    "qty": 188
    },
    {
     "brand": "Xiaomi",
@@ -2167,7 +2157,7 @@
     "price": "R209",
     "handle": "xiaomi-smart-temperature-and-humidity-monitor-3-mini",
     "url": "/products/xiaomi-smart-temperature-and-humidity-monitor-3-mini",
-    "qty": 102,
+    "qty": 101,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/QBH4312GL_Xiaomi-Smart-Temperature-and-Humidity-Monitor-3-Mini-White_wr_01a.jpg"
    },
    {
@@ -2305,14 +2295,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2018/09/N301-10-SV-PRO_wr_01a.jpg"
    },
    {
-    "brand": "Anycubic",
-    "title": "Anycubic Kobra 3 Max 0.4mm Stainless Steel Nozzle",
-    "spec": "Accessories",
+    "brand": "WINX",
+    "title": "WINX POWER Fast 89W Car Charger",
+    "spec": "Power Adapter",
     "price": "R144",
-    "handle": "anycubic-kobra-3-max-0-4mm-stainless-steel-nozzle",
-    "url": "/products/anycubic-kobra-3-max-0-4mm-stainless-steel-nozzle",
-    "qty": 11,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/S010364_Anycubic_Kobra_3_Max_04mm_Stainless_Stee_wr_01.jpg"
+    "handle": "winx-power-fast-89w-car-charger",
+    "url": "/products/winx-power-fast-89w-car-charger",
+    "qty": 149,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/WX-CC102_WINX-POWER-Fast-89W-Car-Charger-Silver_wr_01a.jpg"
    },
    {
     "brand": "WINX",
@@ -2412,14 +2402,14 @@
    "enquiry": true
   },
   {
-   "brand": "Grandstream",
-   "title": "Grandstream Enterprise Outdoor WiFi 5 Long Range AP | GWN7630LR",
-   "spec": "2.33Gbps, 300 metres, 4x4 MIMO, 200+ client devices, Advanced QoS, GWN",
-   "price": "R2 010",
-   "handle": "grandstream-enterprise-outdoor-wifi-5-long-range-ap-gwn7630lr",
-   "url": "/pages/grandstream-enterprise-outdoor-wifi-5-long-range-ap-gwn7630lr",
+   "brand": "TP-Link Omada",
+   "title": "TP-Link Omada Dual-Band Wi-Fi 7 AP | EAP727",
+   "spec": "1×2.5G RJ45 Port, 688 Mbps (2.4 GHz) + 4300 Mbps (5 GHz), 802.3at PoE ",
+   "price": "R2 002",
+   "handle": "tp-link-omada-dual-band-wi-fi-7-ap-eap727",
+   "url": "/pages/tp-link-omada-dual-band-wi-fi-7-ap-eap727",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/3/7/2/1/3721.jpg",
+   "image": "https://miro.co.za/img/p/2/0/3/3/8/20338.jpg",
    "enquiry": true
   },
   {
