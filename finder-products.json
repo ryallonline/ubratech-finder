@@ -275,23 +275,23 @@
   "mid": [
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder CUBE Intel Core 3-100U 12GB DDR5 512GB Windows 11 Pro Mini PC",
+    "title": "PCBuilder AMD Ryzen 7 5700G HOME MASTER Windows 11 Desktop PC",
     "spec": "Desktops",
-    "price": "R12 317",
-    "handle": "pcbuilder-cube-intel-core-3-100u-12gb-ddr5-512gb-windows-11-pro-mini-pc",
-    "url": "/products/pcbuilder-cube-intel-core-3-100u-12gb-ddr5-512gb-windows-11-pro-mini-pc",
-    "qty": 2,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_CUBE_100U12G_OFFICE_PCBuilder-CUBE-Intel-Core-3-100U-12GB-DDR5-512GB-Windows-11-Pro-Mini-PC_wr_01.jpg"
+    "price": "R12 809",
+    "handle": "pcbuilder-amd-ryzen-7-5700g-home-master-windows-11-desktop-pc",
+    "url": "/products/pcbuilder-amd-ryzen-7-5700g-home-master-windows-11-desktop-pc",
+    "qty": 8,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_HOME_R716G_wr_01a.jpg"
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder Intel i5-12400 OFFICE MASTER Core Windows 11 Pro Desktop PC",
+    "title": "PCBuilder Ryzen 5 8600G WARDEN Windows 11 Gaming PC",
     "spec": "Desktops",
-    "price": "R15 073",
-    "handle": "pcbuilder-intel-i5-12400-office-master-core-windows-11-pro-desktop-pc",
-    "url": "/products/pcbuilder-intel-i5-12400-office-master-core-windows-11-pro-desktop-pc",
-    "qty": 4,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/01/PCB_OFFICE_I516G-V3_wr_01e.jpg"
+    "price": "R15 767",
+    "handle": "pcbuilder-ryzen-5-8600g-warden-windows-11-gaming-pc",
+    "url": "/products/pcbuilder-ryzen-5-8600g-warden-windows-11-gaming-pc",
+    "qty": 9,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_WARDEN_02_PCBuilder-Ryzen-5-8600G-WARDEN-Windows-11-Gaming-PC_wr_01a.jpg"
    },
    {
     "brand": "Dell",
@@ -556,18 +556,18 @@
     "price": "R2 444",
     "handle": "dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
     "url": "/products/dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
-    "qty": 57,
+    "qty": 56,
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPN_default.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port Connect 15.6\" Full HD Touchscreen Portable Monitor",
-    "spec": "15.6\" screen",
-    "price": "R3 285",
-    "handle": "port-connect-15-6-full-hd-touchscreen-portable-monitor",
-    "url": "/products/port-connect-15-6-full-hd-touchscreen-portable-monitor",
-    "qty": 17,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/902101T-WR-01b.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro P24 23.8\" FHD IPS Monitor",
+    "spec": "23.8\" screen",
+    "price": "R3 399",
+    "handle": "dell-pro-p24-23-8-fhd-ips-monitor",
+    "url": "/products/dell-pro-p24-23-8-fhd-ips-monitor",
+    "qty": 103,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVKM_290f.jpg"
    },
    {
     "brand": "LG",
@@ -582,14 +582,14 @@
   ],
   "creative": [
    {
-    "brand": "MSI",
-    "title": "MSI MAG 325QF E18V 32\" WQHD 180Hz VA Gaming Monitor",
-    "spec": "32\" screen",
-    "price": "R6 410",
-    "handle": "msi-mag-325qf-e18v-32-wqhd-180hz-va-gaming-monitor",
-    "url": "/products/msi-mag-325qf-e18v-32-wqhd-180hz-va-gaming-monitor",
-    "qty": 7,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-325QF-E18V_MSI-MAG-325QF-E18V-32-inch-WQHD-180Hz-VA-Gaming-Monitor-Black_wr_01a.jpg"
+    "brand": "Dell",
+    "title": "Dell 27 Plus S2725QS 27\" 4K 4ms IPS Monitor",
+    "spec": "27\" screen",
+    "price": "R6 058",
+    "handle": "dell-27-plus-s2725qs-27-4k-4ms-ips-monitor",
+    "url": "/products/dell-27-plus-s2725qs-27-4k-4ms-ips-monitor",
+    "qty": 11,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQWM_f0f0.jpg"
    },
    {
     "brand": "MSI",
@@ -630,7 +630,7 @@
     "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 385,
+    "qty": 384,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -692,18 +692,18 @@
     "price": "R1 311",
     "handle": "hikvision-18-5-borderless-fhd-monitor",
     "url": "/products/hikvision-18-5-borderless-fhd-monitor",
-    "qty": 90,
+    "qty": 88,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi G24i 2026 24″ 200Hz Full HD 1080p IPS Gaming Monitor",
+    "brand": "MSI",
+    "title": "MSI MAG 255F X24 25″ FHD 240Hz IPS Gaming Monitor",
     "spec": "Monitors And Displays",
-    "price": "R2 660",
-    "handle": "xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
-    "url": "/products/xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
-    "qty": 103,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6364EU_Xiaomi-G24i-2026-24%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
+    "price": "R2 661",
+    "handle": "msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
+    "url": "/products/msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
+    "qty": 138,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-X24_MSI-MAG-255F-X24-25-inch-FHD-240Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
     "brand": "HP",
@@ -736,7 +736,7 @@
     "price": "R285",
     "handle": "gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "url": "/products/gizzu-30w-38wh-10400mah-mini-dc-ups-black",
-    "qty": 201,
+    "qty": 199,
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GU30WPRO_wr_01a.jpg"
    },
    {
@@ -756,7 +756,7 @@
     "price": "R1 510",
     "handle": "apc-backup-ups-750va-410w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
     "url": "/products/apc-backup-ups-750va-410w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
-    "qty": 48,
+    "qty": 44,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BX750MI_default.jpg"
    },
    {
@@ -1000,7 +1000,7 @@
     "price": "R1 623",
     "handle": "cudy-ax1500-gigabit-mesh-wi-fi-6-system-2-pack",
     "url": "/products/cudy-ax1500-gigabit-mesh-wi-fi-6-system-2-pack",
-    "qty": 53,
+    "qty": 50,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/12/M1500-2PACK_Cudy-AX1500-Dual-Band-Wi-Fi-6-Mesh-Kit-With-Gigabit-2Pack.jpg"
    },
    {
@@ -1042,7 +1042,7 @@
     "price": "R1 623",
     "handle": "cudy-ax1500-gigabit-mesh-wi-fi-6-system-2-pack",
     "url": "/products/cudy-ax1500-gigabit-mesh-wi-fi-6-system-2-pack",
-    "qty": 53,
+    "qty": 50,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/12/M1500-2PACK_Cudy-AX1500-Dual-Band-Wi-Fi-6-Mesh-Kit-With-Gigabit-2Pack.jpg"
    },
    {
@@ -1200,7 +1200,7 @@
     "price": "R6 969",
     "handle": "hp-laserjet-pro-4103dw-mfp-mono-printer",
     "url": "/products/hp-laserjet-pro-4103dw-mfp-mono-printer",
-    "qty": 4,
+    "qty": 1,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z627A_default.png"
    },
    {
@@ -1222,7 +1222,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
     "url": "https://ubratech.co.za/products/hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
-    "qty": 85,
+    "qty": 84,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    },
    {
@@ -1262,7 +1262,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
     "url": "/products/hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
-    "qty": 85,
+    "qty": 84,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    }
   ],
@@ -1294,7 +1294,7 @@
     "price": "R6 969",
     "handle": "hp-laserjet-pro-4103dw-mfp-mono-printer",
     "url": "/products/hp-laserjet-pro-4103dw-mfp-mono-printer",
-    "qty": 4,
+    "qty": 1,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z627A_default.png"
    },
    {
@@ -1604,7 +1604,7 @@
     "price": "R136",
     "handle": "port-connect-usb-type-c-to-4-port-usb-a-3-0-2-0-hub",
     "url": "/products/port-connect-usb-type-c-to-4-port-usb-a-3-0-2-0-hub",
-    "qty": 132,
+    "qty": 130,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/900160_Port-Connect-USB-Type-C-to-4-port-USB-A-3.0-2.0-Hub_wr_01a.jpg"
    },
    {
@@ -1688,7 +1688,7 @@
     "price": "R166",
     "handle": "ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
     "url": "/products/ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
-    "qty": 111,
+    "qty": 109,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CR113-20290_UGREEN-4-Port-USB-3.0-Hub-with-Micro-USB_wr_01a.jpg"
    },
    {
@@ -1756,14 +1756,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS105_wr_01.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port Connect ON’R 500 Bluetooth® Stereo Headset",
+    "brand": "HP",
+    "title": "HP POLY 5220 Stereo USB-A Wired Black Headset",
     "spec": "Headsets",
-    "price": "R1 510",
-    "handle": "port-connect-on-r-500-bluetooth-stereo-headset",
-    "url": "/products/port-connect-on-r-500-bluetooth-stereo-headset",
-    "qty": 40,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/912002_PORT-CONNECT-BINAURAL-HEADSET-BT_wr_06.jpg"
+    "price": "R1 519",
+    "handle": "hp-poly-5220-stereo-usb-a-wired-black-headset",
+    "url": "/products/hp-poly-5220-stereo-usb-a-wired-black-headset",
+    "qty": 16,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/8/X/8X231AA_4dd6.png"
    },
    {
     "brand": "HP",
@@ -1932,23 +1932,23 @@
    },
    {
     "brand": "Patriot",
-    "title": "Patriot Transporter Lite 1TB USB3.2 Type-C External Portable SSD - Red",
+    "title": "Patriot PVP30 1TB Duo Compact External Portable SSD",
     "spec": "Storage",
     "price": "R2 265",
-    "handle": "patriot-transporter-lite-1tb-usb3-2-type-c-external-portable-ssd-red",
-    "url": "/products/patriot-transporter-lite-1tb-usb3-2-type-c-external-portable-ssd-red",
-    "qty": 25,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/PTPL1TBPEC_Patriot-Transporter-Lite-1TB-USB3.2-Type-C-External-Portable-SSD_wr_01.jpg"
+    "handle": "patriot-pvp30-1tb-duo-compact-external-portable-ssd",
+    "url": "/products/patriot-pvp30-1tb-duo-compact-external-portable-ssd",
+    "qty": 19,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/PVP301TB28UDG_Patriot-PVP30-1TB-Duo-Compact-External-Portable-SSD_wr_01.jpg"
    },
    {
-    "brand": "PATRIOT",
-    "title": "PATRIOT SSD VP4000 M.2 NVME 2TB 2230",
+    "brand": "SanDisk",
+    "title": "SanDisk Extreme Portable SSD (V3) - 1TB",
     "spec": "Storage",
-    "price": "R5 665",
-    "handle": "patriot-ssd-vp4000-m-2-nvme-2tb-2230",
-    "url": "/products/patriot-ssd-vp4000-m-2-nvme-2tb-2230",
-    "qty": 8,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/VP4000M2TBM23_Patriot-Viper-VP4000-Mini-2TB-M.2-2230-PCIe-Gen4x4-SSD_wr_01.jpg"
+    "price": "R5 801",
+    "handle": "sandisk-extreme-portable-ssd-v3-1tb",
+    "url": "/products/sandisk-extreme-portable-ssd-v3-1tb",
+    "qty": 21,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__2__954f.png"
    },
    {
     "brand": "SanDisk",
@@ -1989,7 +1989,7 @@
     "price": "R452",
     "handle": "hiksemi-future-8gb-1600mhz-8gb-x-1-so-dimm-memory-module",
     "url": "/products/hiksemi-future-8gb-1600mhz-8gb-x-1-so-dimm-memory-module",
-    "qty": 118,
+    "qty": 128,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/HSC308S16Z1-8G_wr_-2.jpg"
    },
    {
@@ -2045,14 +2045,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2023/08/RX7600CHALLENGER8GOC_wr_01.jpg"
    },
    {
-    "brand": "ASRock",
-    "title": "ASRock Radeon RX 9060 XT Challenger 16GB OC Graphics Card (RDNA™ 4, PCIe 5.0)",
+    "brand": "Asus",
+    "title": "Asus Nvidia GeForce RTX 5050 Dual OC 8GB GDDR6 Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R9 783",
-    "handle": "asrock-radeon-rx-9060-xt-challenger-16gb-oc-graphics-card-rdna-4-pcie-5-0",
-    "url": "/products/asrock-radeon-rx-9060-xt-challenger-16gb-oc-graphics-card-rdna-4-pcie-5-0",
-    "qty": 73,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/RX9060XTCHALLENGER16G_ASRock-AMD-Radeon-RX-9060-XT-Challenger-16GB-OC_wr_01a.jpg"
+    "price": "R8 562",
+    "handle": "asus-nvidia-geforce-rtx-5050-dual-oc-8gb-gddr6-graphics-card",
+    "url": "/products/asus-nvidia-geforce-rtx-5050-dual-oc-8gb-gddr6-graphics-card",
+    "qty": 8,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/07/DUAL-RTX5050-O8G_Asus-Nvidia-GeForce-RTX-5050-Dual-OC-88G-Graphics-Card_wr_01.jpg"
    },
    {
     "brand": "Asus",
@@ -2074,7 +2074,7 @@
     "handle": "gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "url": "https://ubratech.co.za/products/gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GU30WPRO_wr_01a.jpg",
-    "qty": 201
+    "qty": 199
    },
    {
     "brand": "Antec",
@@ -2262,7 +2262,7 @@
     "handle": "gizzu-2-port-65w-gan-wall-charger",
     "url": "https://ubratech.co.za/products/gizzu-2-port-65w-gan-wall-charger",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/GWCCU65W_Gizzu-2-Port-65W-GaN-Wall-Charger-White_wr_01b.jpg",
-    "qty": 296
+    "qty": 294
    },
    {
     "brand": "Lenovo",
@@ -2285,14 +2285,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2018/09/N301-10-SV-PRO_wr_01a.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi 3A Braided USB Type-C Cable (10cm, 60W)",
+    "brand": "UGREEN",
+    "title": "UGREEN USB to 3.5mm External Stereo Sound Adapter - Black",
     "spec": "Cables And Adapters",
     "price": "R126",
-    "handle": "xiaomi-3a-braided-usb-type-c-cable-10cm-60w",
-    "url": "/products/xiaomi-3a-braided-usb-type-c-cable-10cm-60w",
-    "qty": 156,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/BHR08W0GL-_Xiaomi-3A-Braided-USB-Type-C-Cable-10cm-60W_wr01.jpeg"
+    "handle": "ugreen-usb-to-3-5mm-external-stereo-sound-adapter-black",
+    "url": "/products/ugreen-usb-to-3-5mm-external-stereo-sound-adapter-black",
+    "qty": 15,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/US205-30724-wr-01.png"
    },
    {
     "brand": "HP",
@@ -2333,28 +2333,28 @@
     "price": "R34",
     "handle": "redragon-bm-4049-1200dpi-wired-optical-mouse",
     "url": "/products/redragon-bm-4049-1200dpi-wired-optical-mouse",
-    "qty": 279,
+    "qty": 276,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/RD-BM-4049_wr_01.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port Connect Ergo Shape Rechargeable Wireless Mouse",
-    "spec": "Mice",
-    "price": "R351",
-    "handle": "port-connect-ergo-shape-rechargeable-wireless-mouse",
-    "url": "/products/port-connect-ergo-shape-rechargeable-wireless-mouse",
-    "qty": 104,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/910008_PORT-MOUSE-ERGO-RECHARGEABLE-BT-LEFT_wr_09.jpg"
+    "brand": "Redragon",
+    "title": "Redragon K733 COVE RGB Wireless Mechanical Numpad",
+    "spec": "Keyboards",
+    "price": "R354",
+    "handle": "redragon-k733-cove-rgb-wireless-mechanical-numpad",
+    "url": "/products/redragon-k733-cove-rgb-wireless-mechanical-numpad",
+    "qty": 115,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/RD-K733-RGB-WL_Redragon-K733-COVE-RGB-Wireless-Mechanical-Numpad-Keyboard_wr_01a.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port Executive Wireless Black Mouse",
-    "spec": "Wired Mouse",
-    "price": "R729",
-    "handle": "port-executive-wireless-black-mouse",
-    "url": "/products/port-executive-wireless-black-mouse",
-    "qty": 100,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_044c.png"
+    "brand": "Redragon",
+    "title": "Redragon K588 RGB Pro BROADSWORD TKL Mechanical Wired Gaming Keyboard - Black",
+    "spec": "Keyboards",
+    "price": "R706",
+    "handle": "redragon-k588-rgb-pro-broadsword-tkl-mechanical-wired-gaming-keyboard-black",
+    "url": "/products/redragon-k588-rgb-pro-broadsword-tkl-mechanical-wired-gaming-keyboard-black",
+    "qty": 21,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/RD-K588RGB_Redragon-K588-RGB-Pro-BROADSWORD-TKL-Mechanical-Wired-Gaming-Keyboard-Black_wr_01a.jpg"
    },
    {
     "brand": "Corsair",
@@ -2392,25 +2392,25 @@
    "enquiry": true
   },
   {
-   "brand": "TP-Link Omada",
-   "title": "TP-Link Omada Dual-Band Wi-Fi 7 AP | EAP727",
-   "spec": "1×2.5G RJ45 Port, 688 Mbps (2.4 GHz) + 4300 Mbps (5 GHz), 802.3at PoE ",
-   "price": "R2 002",
-   "handle": "tp-link-omada-dual-band-wi-fi-7-ap-eap727",
-   "url": "/pages/tp-link-omada-dual-band-wi-fi-7-ap-eap727",
+   "brand": "Grandstream",
+   "title": "Grandstream Enterprise Outdoor WiFi 5 Long Range AP | GWN7630LR",
+   "spec": "2.33Gbps, 300 metres, 4x4 MIMO, 200+ client devices, Advanced QoS, GWN",
+   "price": "R2 010",
+   "handle": "grandstream-enterprise-outdoor-wifi-5-long-range-ap-gwn7630lr",
+   "url": "/pages/grandstream-enterprise-outdoor-wifi-5-long-range-ap-gwn7630lr",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/2/0/3/3/8/20338.jpg",
+   "image": "https://miro.co.za/img/p/3/7/2/1/3721.jpg",
    "enquiry": true
   },
   {
-   "brand": "MikroTik",
-   "title": "MikroTik mANTBox ax 15s WiFi 6 Integrated Access Point | L22UGS-5HaxD2HaxD-15S",
-   "spec": "2.4/5 GHz Wi-Fi 6, Gigabit Ethernet, 2.5G SFP",
-   "price": "R3 139",
-   "handle": "mikrotik-mantbox-ax-15s-wifi-6-integrated-access-point-l22ugs-5haxd2haxd-15s",
-   "url": "/pages/mikrotik-mantbox-ax-15s-wifi-6-integrated-access-point-l22ugs-5haxd2haxd-15s",
+   "brand": "Grandstream",
+   "title": "Grandstream Enterprise Outdoor WiFi 7 Long Range Access Point | GWN7670LR",
+   "spec": "Outdoor Long-Range Dual-Band Wi-Fi 7 Access Point/Bridge, 2x2:2 2.4/5G",
+   "price": "R3 008",
+   "handle": "grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
+   "url": "/pages/grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/3/3/9/9/13399.jpg",
+   "image": "https://miro.co.za/img/p/1/8/7/0/7/18707.jpg",
    "enquiry": true
   },
   {
