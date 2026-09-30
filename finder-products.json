@@ -126,24 +126,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo LOQ 15AHP10 15.6\" Ryzen-7 16GB 1TB Win 11 Home Notebook",
-    "spec": "15.6\" screen",
-    "price": "R31 480",
-    "handle": "lenovo-loq-15ahp10-15-6-ryzen-7-16gb-1tb-win-11-home-notebook",
-    "url": "/products/lenovo-loq-15ahp10-15-6-ryzen-7-16gb-1tb-win-11-home-notebook",
-    "qty": 38,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/8/3/83JG001CSA__2__40b1.jpg"
+    "brand": "HP",
+    "title": "HP ProBook 4 G2i AI 16in Laptop — 16GB · 512GB SSD (DS5L6ET)",
+    "spec": "512GB SSD",
+    "price": "R31 493",
+    "handle": "hp-probook-4-g2i-ai-16in-intel-core-7-350-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "url": "/products/hp-probook-4-g2i-ai-16in-intel-core-7-350-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "qty": 98,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DS5L6ET_default.png"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 16 Plus 16\" Core-U5 32GB 512GB Win 11 Pro Notebook",
-    "spec": "16\" screen",
-    "price": "R41 033",
-    "handle": "dell-pro-16-plus-16-core-u5-32gb-512gb-win-11-pro-notebook",
-    "url": "/products/dell-pro-16-plus-16-core-u5-32gb-512gb-win-11-pro-notebook",
+    "brand": "HP",
+    "title": "HP ZBook 8 G1i Laptop — Core Ultra 5 · 24GB · 1TB SSD (DM7P4ES)",
+    "spec": "1TB SSD",
+    "price": "R40 798",
+    "handle": "hp-zbook-8-g1i-14inch-dsc-rtx-500-ada-4gb-u5-225h-lcd-14-0wuxgaagled300uwvafwwanf5mpirlpln-ram-24gb-ddr5-5600-ssd-1tb-pcie4x4-nvme-tlc-ost-w11p6-hp-3y-onsite-mws-supp-no-country-of-origin-restriction",
+    "url": "/products/hp-zbook-8-g1i-14inch-dsc-rtx-500-ada-4gb-u5-225h-lcd-14-0wuxgaagled300uwvafwwanf5mpirlpln-ram-24gb-ddr5-5600-ssd-1tb-pcie4x4-nvme-tlc-ost-w11p6-hp-3y-onsite-mws-supp-no-country-of-origin-restriction",
     "qty": 14,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_6f5b.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DM7P4ES_default.jpg"
    },
    {
     "brand": "Dell",
@@ -566,7 +566,7 @@
     "price": "R3 399",
     "handle": "dell-pro-p24-23-8-fhd-ips-monitor",
     "url": "/products/dell-pro-p24-23-8-fhd-ips-monitor",
-    "qty": 114,
+    "qty": 113,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVKM_290f.jpg"
    },
    {
@@ -2296,23 +2296,23 @@
    },
    {
     "brand": "UGREEN",
-    "title": "UGREEN CM383-80864 USB-A to 3.5mm Audio Jack External Sound Adapter - Silver",
+    "title": "UGREEN Cat8 Nylon Braided Ethernet Cable - 40Gbps with Modular Plugs - 5m",
     "spec": "Cables And Adapters",
-    "price": "R145",
-    "handle": "ugreen-cm383-80864-usb-a-to-3-5mm-audio-jack-external-sound-adapter-silver",
-    "url": "/products/ugreen-cm383-80864-usb-a-to-3-5mm-audio-jack-external-sound-adapter-silver",
-    "qty": 156,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM383-80864-wr-02.jpg"
+    "price": "R128",
+    "handle": "ugreen-cat8-nylon-braided-ethernet-cable-40gbps-with-modular-plugs-5m",
+    "url": "/products/ugreen-cat8-nylon-braided-ethernet-cable-40gbps-with-modular-plugs-5m",
+    "qty": 19,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/nw153-wr-02.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port 45W Universal AC Adapter (900096B-EU)",
+    "brand": "HP",
+    "title": "HP Slim Rechargeable Pen Charger",
     "spec": "Cables And Adapters",
-    "price": "R414",
-    "handle": "port-45w-universal-ac-adapter-900096b-eu",
-    "url": "/products/port-45w-universal-ac-adapter-900096b-eu",
-    "qty": 94,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__2__35ed.png"
+    "price": "R439",
+    "handle": "hp-slim-rechargeable-pen-charger",
+    "url": "/products/hp-slim-rechargeable-pen-charger",
+    "qty": 3,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/4X491AA_default.jpg"
    },
    {
     "brand": "SanDisk",
