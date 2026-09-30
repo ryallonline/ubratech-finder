@@ -122,18 +122,18 @@
     "price": "R22 021",
     "handle": "dell-pro-15-essential-pv15250-i7-1355u-intel-rpl-p-u15-i7-8-layer-pcb-15-6-non-touch-fhd-120hz-wva-ips-anti-glare-250-nit-16gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-fingerprint",
     "url": "/products/dell-pro-15-essential-pv15250-i7-1355u-intel-rpl-p-u15-i7-8-layer-pcb-15-6-non-touch-fhd-120hz-wva-ips-anti-glare-250-nit-16gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-fingerprint",
-    "qty": 81,
+    "qty": 36,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP ProBook 4 G2i AI 16in Laptop — 16GB · 512GB SSD (DS5L6ET)",
-    "spec": "512GB SSD",
-    "price": "R31 493",
-    "handle": "hp-probook-4-g2i-ai-16in-intel-core-7-350-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "url": "/products/hp-probook-4-g2i-ai-16in-intel-core-7-350-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "qty": 98,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DS5L6ET_default.png"
+    "brand": "Lenovo",
+    "title": "Lenovo LOQ 15AHP10 15.6\" Ryzen-7 16GB 1TB Win 11 Home Notebook",
+    "spec": "15.6\" screen",
+    "price": "R31 480",
+    "handle": "lenovo-loq-15ahp10-15-6-ryzen-7-16gb-1tb-win-11-home-notebook",
+    "url": "/products/lenovo-loq-15ahp10-15-6-ryzen-7-16gb-1tb-win-11-home-notebook",
+    "qty": 38,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/8/3/83JG001CSA__2__40b1.jpg"
    },
    {
     "brand": "HP",
@@ -536,7 +536,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 419,
+    "qty": 415,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -630,7 +630,7 @@
     "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 388,
+    "qty": 387,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -682,7 +682,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 419,
+    "qty": 415,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -800,7 +800,7 @@
     "price": "R1 024",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 408,
+    "qty": 406,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -1375,13 +1375,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP 4mm Powered by Darkfighter Fixed Mini Bullet Network Camera",
+    "title": "Hikvision 4MP Colorvu Smart Hybrid Light Fixed Mini Bullet Camera",
     "spec": "4MP",
-    "price": "R2 363",
-    "handle": "hikvision-4mp-4mm-powered-by-darkfighter-fixed-mini-bullet-network-camera",
-    "url": "/products/hikvision-4mp-4mm-powered-by-darkfighter-fixed-mini-bullet-network-camera",
-    "qty": 60,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_4MM_888c.jpg"
+    "price": "R2 253",
+    "handle": "hikvision-4mp-colorvu-smart-hybrid-light-fixed-mini-bullet-camera",
+    "url": "/products/hikvision-4mp-colorvu-smart-hybrid-light-fixed-mini-bullet-camera",
+    "qty": 2,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_2.8MM_1_d1f4.png"
    },
    {
     "brand": "Hikvision",
@@ -1390,7 +1390,7 @@
     "price": "R2 978",
     "handle": "hikvision-4mp-fixed-mini-bullet-network-camera",
     "url": "/products/hikvision-4mp-fixed-mini-bullet-network-camera",
-    "qty": 99,
+    "qty": 97,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_4MM_1_306c.png"
    },
    {
@@ -1449,23 +1449,23 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP 4mm Powered by Darkfighter Fixed Mini Bullet Network Camera",
+    "title": "Hikvision 4MP Colorvu Smart Hybrid Light Fixed Mini Bullet Camera",
     "spec": "4MP",
-    "price": "R2 363",
-    "handle": "hikvision-4mp-4mm-powered-by-darkfighter-fixed-mini-bullet-network-camera",
-    "url": "/products/hikvision-4mp-4mm-powered-by-darkfighter-fixed-mini-bullet-network-camera",
-    "qty": 60,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_4MM_888c.jpg"
+    "price": "R2 253",
+    "handle": "hikvision-4mp-colorvu-smart-hybrid-light-fixed-mini-bullet-camera",
+    "url": "/products/hikvision-4mp-colorvu-smart-hybrid-light-fixed-mini-bullet-camera",
+    "qty": 2,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_2.8MM_1_d1f4.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Fixed Mini Bullet Network Camera",
+    "title": "Hikvision 4MP Colorvu Smart Hybrid Light Fixed Turret Camera",
     "spec": "4MP",
-    "price": "R2 978",
-    "handle": "hikvision-4mp-fixed-mini-bullet-network-camera",
-    "url": "/products/hikvision-4mp-fixed-mini-bullet-network-camera",
-    "qty": 99,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_4MM_1_306c.png"
+    "price": "R2 972",
+    "handle": "hikvision-4mp-colorvu-smart-hybrid-light-fixed-turret-camera",
+    "url": "/products/hikvision-4mp-colorvu-smart-hybrid-light-fixed-turret-camera",
+    "qty": 2,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2347G2H_LI_2.8MM_1_1a0e.png"
    },
    {
     "brand": "Hikvision",
@@ -1548,7 +1548,7 @@
     "price": "R9 752",
     "handle": "hikvision-4mp-deepinview-anpr-moto-varifocal-bullet-ip-camera",
     "url": "/products/hikvision-4mp-deepinview-anpr-moto-varifocal-bullet-ip-camera",
-    "qty": 85,
+    "qty": 82,
     "image": "https://www.pinnacle.co.za/media/catalog/product/I/D/IDS_2CD7A46G2_P_IZHS2.8_12MM_ac9b.jpg"
    },
    {
@@ -2026,16 +2026,6 @@
   "graphics": [
    {
     "brand": "Asus",
-    "title": "Asus TUF Gaming RTX 5060 8GB GDDR7 OC",
-    "spec": "Desktop PCIe · 1080p/1440p gaming",
-    "price": "R10 247",
-    "handle": "asus-tuf-gaming-geforce-rtx-5060-8gb-gddr7-oc-edition-graphics-card",
-    "url": "https://ubratech.co.za/products/asus-tuf-gaming-geforce-rtx-5060-8gb-gddr7-oc-edition-graphics-card",
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/TUF-RTX5060-O8G_ASUS-TUF-Gaming-GeForce-RTX-5060-8GB-GDDR7-OC-Edition-Graphics-Card_wr_01.jpg",
-    "qty": 2
-   },
-   {
-    "brand": "Asus",
     "title": "Asus GeForce GT 710 2GB GDDR5 EVO Graphics Card",
     "spec": "Graphics Cards",
     "price": "R1 393",
@@ -2045,14 +2035,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/04/ASUS_GT710-SL-2GD5-BRK-EVO_wr_01a.jpg"
    },
    {
-    "brand": "MSI",
-    "title": "MSI GeForce RTX 3050 VENTUS 2X E 6GB OC Graphics Card",
+    "brand": "ASRock",
+    "title": "ASRock Radeon RX7600 Challenger 8G OC GDDR6 128-BIT Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R6 515",
-    "handle": "msi-geforce-rtx-3050-ventus-2x-e-6gb-oc-graphics-card",
-    "url": "/products/msi-geforce-rtx-3050-ventus-2x-e-6gb-oc-graphics-card",
-    "qty": 75,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/RTX3050VENTUS2XE6GOC-WR-01.jpg"
+    "price": "R6 512",
+    "handle": "asrock-radeon-rx7600-challenger-8g-oc-gddr6-128-bit-graphics-card",
+    "url": "/products/asrock-radeon-rx7600-challenger-8g-oc-gddr6-128-bit-graphics-card",
+    "qty": 19,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2023/08/RX7600CHALLENGER8GOC_wr_01.jpg"
    },
    {
     "brand": "ASRock",
@@ -2061,7 +2051,7 @@
     "price": "R9 783",
     "handle": "asrock-radeon-rx-9060-xt-challenger-16gb-oc-graphics-card-rdna-4-pcie-5-0",
     "url": "/products/asrock-radeon-rx-9060-xt-challenger-16gb-oc-graphics-card-rdna-4-pcie-5-0",
-    "qty": 75,
+    "qty": 74,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/RX9060XTCHALLENGER16G_ASRock-AMD-Radeon-RX-9060-XT-Challenger-16GB-OC_wr_01a.jpg"
    },
    {
