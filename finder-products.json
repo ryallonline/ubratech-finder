@@ -126,14 +126,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP ProBook 4 G2i AI 16in Laptop — 16GB · 512GB SSD (DS5L6ET)",
+    "brand": "Dell",
+    "title": "Dell Pro 16 PC16250 Laptop — Core Ultra 5 · 512GB SSD (BTO105_PC16250_EMEA)",
     "spec": "512GB SSD",
-    "price": "R31 493",
-    "handle": "hp-probook-4-g2i-ai-16in-intel-core-7-350-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "url": "/products/hp-probook-4-g2i-ai-16in-intel-core-7-350-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "qty": 96,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DS5L6ET_default.png"
+    "price": "R31 957",
+    "handle": "dell-pro-16-pc16250-intel-core-ultra-5-235u-12-tops-up-to-4-9-ghz-16gb-1x16gb-5600mt-s-ddr5-512gb-ssd-pcie-m-2-16-0-fhd-1920x1200-antiglare-300nits-integrated-graphics-fingerprint-reader-fhd-ir-cam",
+    "url": "/products/dell-pro-16-pc16250-intel-core-ultra-5-235u-12-tops-up-to-4-9-ghz-16gb-1x16gb-5600mt-s-ddr5-512gb-ssd-pcie-m-2-16-0-fhd-1920x1200-antiglare-300nits-integrated-graphics-fingerprint-reader-fhd-ir-cam",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO105_PC16250_EMEA_default.jpg"
    },
    {
     "brand": "HP",
@@ -248,7 +248,7 @@
     "price": "R7 898",
     "handle": "giada-vm27-with-n6210-4g-ddr4-on-board-64g-emmc-on-board",
     "url": "/products/giada-vm27-with-n6210-4g-ddr4-on-board-64g-emmc-on-board",
-    "qty": 49,
+    "qty": 52,
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/VM27-N621042E6G-GIA_wr_01a.jpg"
    },
    {
@@ -294,14 +294,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_WARDEN_02_PCBuilder-Ryzen-5-8600G-WARDEN-Windows-11-Gaming-PC_wr_01a.jpg"
    },
    {
-    "brand": "PCBuilder",
-    "title": "PCBuilder CUBE Intel Core 3-100U 16GB DDR5 512GB Windows 11 Pro Mini PC",
+    "brand": "Dell",
+    "title": "Dell Pro Slim Essential QVS1260: Desktop PC — Core i3 (BTO001_QVS1260_EMEA)",
     "spec": "Desktops",
-    "price": "R16 757",
-    "handle": "pcbuilder-cube-intel-core-3-100u-16gb-ddr5-512gb-windows-11-pro-mini-pc",
-    "url": "/products/pcbuilder-cube-intel-core-3-100u-16gb-ddr5-512gb-windows-11-pro-mini-pc",
-    "qty": 13,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/06/PCB_CUBE_100U16G_OFFICE_PCBuilder-CUBE-Intel-Core-3-100U-16GB-DDR5-512GB-Windows-11-Pro-Mini-PC_wr_01a.jpg"
+    "price": "R17 313",
+    "handle": "dell-pro-slim-essential-qvs1260-intel-core-i3-14100-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-8gb-8gbx1-ddr5-4800mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2-802",
+    "url": "/products/dell-pro-slim-essential-qvs1260-intel-core-i3-14100-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-8gb-8gbx1-ddr5-4800mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2-802",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO001_QVS1260_EMEA_default.png"
    },
    {
     "brand": "PCBuilder",
@@ -319,7 +319,7 @@
     "brand": "Lenovo",
     "title": "Lenovo M70s G6 Desktop PC — Core Ultra 7 · 16GB · 512GB SSD (12YQ000ESA)",
     "spec": "512GB SSD",
-    "price": "R25 562",
+    "price": "R25 964",
     "handle": "lenovo-m70s-g6-sff-u7-265-13-tops-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-integrated-windows-11-pro-64-intel-ax211-2x2ax-6e-bluetooth-internal-speaker-usb-trd-us-eng-usb-clp-mouse-pub-fra-ara-eng-1year",
     "url": "/products/lenovo-m70s-g6-sff-u7-265-13-tops-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-integrated-windows-11-pro-64-intel-ax211-2x2ax-6e-bluetooth-internal-speaker-usb-trd-us-eng-usb-clp-mouse-pub-fra-ara-eng-1year",
     "qty": 19,
@@ -336,14 +336,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO108_QCS1250_EMEA_default.jpg"
    },
    {
-    "brand": "PCBuilder",
-    "title": "PCBuilder Ryzen 5 7600 MAVERICK Windows 11 Gaming PC (PCB_MAVERICK_02)",
-    "spec": "Desktops",
-    "price": "R43 365",
-    "handle": "pcbuilder-ryzen-5-7600-maverick-windows-11-gaming-pc-pcb-maverick-02",
-    "url": "/products/pcbuilder-ryzen-5-7600-maverick-windows-11-gaming-pc-pcb-maverick-02",
-    "qty": 11,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_MAVERICK_02_PCBuilder-Ryzen-5-7600-MAVERICK-Windows-11-Gaming-PC_wr_01.jpg"
+    "brand": "Dell",
+    "title": "Dell 27 AIO EC27250 25 06 2025:Intel Desktop PC — 1TB SSD (EC27250_RPLU-R_003S)",
+    "spec": "1TB SSD",
+    "price": "R42 614",
+    "handle": "dell-27-aio-ec27250-25-06-2025-intel-core-7-150u-12mb-cache-up-to-5-4-ghz-27-fhd-touch-1920x1080-16gb-5200mt-s-ddr5-1tb-ssd-pcie-nvme-m-2-nvidia-geforce-mx570a-with-2gb-gddr6-graphics-memory-camera",
+    "url": "/products/dell-27-aio-ec27250-25-06-2025-intel-core-7-150u-12mb-cache-up-to-5-4-ghz-27-fhd-touch-1920x1080-16gb-5200mt-s-ddr5-1tb-ssd-pcie-nvme-m-2-nvidia-geforce-mx570a-with-2gb-gddr6-graphics-memory-camera",
+    "qty": 7,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/EC27250_RPLU-R_003S_default.jpg"
    },
    {
     "brand": "HP",
@@ -366,16 +366,6 @@
     "url": "https://ubratech.co.za/products/asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg",
     "qty": 7
-   },
-   {
-    "brand": "Dell",
-    "title": "Dell Pro Precision 7 T1 PW7T1260 Desktop PC — Core Ultra 7 · 16GB (PWT1260-U7-16512GB-8GFX)",
-    "spec": "Desktops",
-    "price": "R44 446",
-    "handle": "dell-pro-precision-7-t1-pw7t1260-intel-core-ultra-7-265-30-mb-cache-20-cores-20-threads-1-8-ghz-to-5-3-ghz-65w-16gb-1-x-16gb-ddr5-up-to-5600-mt-s-512gb-m-2-2230-tlc-pcie-gen4-ssd-nvidia-a1000-8gb",
-    "url": "/products/dell-pro-precision-7-t1-pw7t1260-intel-core-ultra-7-265-30-mb-cache-20-cores-20-threads-1-8-ghz-to-5-3-ghz-65w-16gb-1-x-16gb-ddr5-up-to-5600-mt-s-512gb-m-2-2230-tlc-pcie-gen4-ssd-nvidia-a1000-8gb",
-    "qty": 1,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/PWT1260-U7-16512GB-8GFX_default.png"
    },
    {
     "brand": "Dell",
@@ -630,7 +620,7 @@
     "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 3,
+    "qty": 13,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -660,7 +650,7 @@
     "price": "R7 428",
     "handle": "msi-mag345cqr-34-curved-gaming-monitor-3440x1440-uwqhd-va-1ms-180hz",
     "url": "/products/msi-mag345cqr-34-curved-gaming-monitor-3440x1440-uwqhd-va-1ms-180hz",
-    "qty": 2,
+    "qty": 7,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/04/MAG-345CQR_wr_01.jpeg"
    },
    {
@@ -980,7 +970,7 @@
     "price": "R437",
     "handle": "cudy-ac1200-wi-fi-mesh-kit-1-pack",
     "url": "/products/cudy-ac1200-wi-fi-mesh-kit-1-pack",
-    "qty": 147,
+    "qty": 179,
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/06/M1200-1PACK_wr_01a.jpg"
    },
    {
@@ -1200,7 +1190,7 @@
     "price": "R6 969",
     "handle": "hp-laserjet-pro-4103dw-mfp-mono-printer",
     "url": "/products/hp-laserjet-pro-4103dw-mfp-mono-printer",
-    "qty": 1,
+    "qty": 9,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z627A_default.png"
    },
    {
@@ -1294,7 +1284,7 @@
     "price": "R6 969",
     "handle": "hp-laserjet-pro-4103dw-mfp-mono-printer",
     "url": "/products/hp-laserjet-pro-4103dw-mfp-mono-printer",
-    "qty": 1,
+    "qty": 9,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z627A_default.png"
    },
    {
@@ -1688,7 +1678,7 @@
     "price": "R166",
     "handle": "ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
     "url": "/products/ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
-    "qty": 109,
+    "qty": 131,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CR113-20290_UGREEN-4-Port-USB-3.0-Hub-with-Micro-USB_wr_01a.jpg"
    },
    {
@@ -1931,24 +1921,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM767-35267_UGreen-CM767-M.2-NVMe-SSD-Enclosure-10Gbps-%E2%80%93-Silver_wr_01a.jpg"
    },
    {
-    "brand": "Patriot",
-    "title": "Patriot PVP30 1TB Duo Compact External Portable SSD",
+    "brand": "Crucial",
+    "title": "Crucial E100 480GB PCIe Gen4 2280 NVMe M.2 SSD",
     "spec": "Storage",
-    "price": "R2 265",
-    "handle": "patriot-pvp30-1tb-duo-compact-external-portable-ssd",
-    "url": "/products/patriot-pvp30-1tb-duo-compact-external-portable-ssd",
-    "qty": 19,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/PVP301TB28UDG_Patriot-PVP30-1TB-Duo-Compact-External-Portable-SSD_wr_01.jpg"
+    "price": "R2 136",
+    "handle": "crucial-e100-480gb-pcie-gen4-2280-nvme-m-2-ssd",
+    "url": "/products/crucial-e100-480gb-pcie-gen4-2280-nvme-m-2-ssd",
+    "qty": 214,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/CT480E100SSD8_wr_01.jpg"
    },
    {
-    "brand": "SanDisk",
-    "title": "SanDisk Extreme Portable SSD (V3) - 1TB",
+    "brand": "Dell",
+    "title": "Dell 480GB PCIe Gen4 M.2 2280 NVMe SSD for BOSS-N1 Controller Card",
     "spec": "Storage",
-    "price": "R5 801",
-    "handle": "sandisk-extreme-portable-ssd-v3-1tb",
-    "url": "/products/sandisk-extreme-portable-ssd-v3-1tb",
-    "qty": 21,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__2__954f.png"
+    "price": "R5 432",
+    "handle": "dell-480gb-pcie-gen4-m-2-2280-nvme-ssd-for-boss-n1-controller-card",
+    "url": "/products/dell-480gb-pcie-gen4-m-2-2280-nvme-ssd-for-boss-n1-controller-card",
+    "qty": 5,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/4/0/400_BONG_7e2a.jpg"
    },
    {
     "brand": "SanDisk",
@@ -1970,7 +1960,7 @@
     "handle": "hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/HSC516U48Z1-16G_Hiksemi-Hiker-16GB-DDR5-4800MHz-Desktop-Memory_wr_01a.jpg",
-    "qty": 167
+    "qty": 165
    },
    {
     "brand": "GeIL",
@@ -2041,7 +2031,7 @@
     "price": "R6 512",
     "handle": "asrock-radeon-rx7600-challenger-8g-oc-gddr6-128-bit-graphics-card",
     "url": "/products/asrock-radeon-rx7600-challenger-8g-oc-gddr6-128-bit-graphics-card",
-    "qty": 18,
+    "qty": 27,
     "image": "https://www.syntech.co.za/wp-content/uploads/2023/08/RX7600CHALLENGER8GOC_wr_01.jpg"
    },
    {
@@ -2296,13 +2286,13 @@
    },
    {
     "brand": "UGREEN",
-    "title": "UGREEN USB to 3.5mm External Stereo Sound Adapter - Black",
+    "title": "UGREEN Bluetooth 6.0 USB Adapter",
     "spec": "Cables And Adapters",
     "price": "R126",
-    "handle": "ugreen-usb-to-3-5mm-external-stereo-sound-adapter-black",
-    "url": "/products/ugreen-usb-to-3-5mm-external-stereo-sound-adapter-black",
-    "qty": 15,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/US205-30724-wr-01.png"
+    "handle": "ugreen-bluetooth-6-0-usb-adapter",
+    "url": "/products/ugreen-bluetooth-6-0-usb-adapter",
+    "qty": 102,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/CM748-75073_UGREEN-Bluetooth-6.0-USB-Adapter_hr01.jpeg"
    },
    {
     "brand": "HP",
