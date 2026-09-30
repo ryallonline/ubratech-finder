@@ -126,14 +126,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo LOQ 15AHP10 15.6\" Ryzen-7 16GB 1TB Win 11 Home Notebook",
-    "spec": "15.6\" screen",
-    "price": "R31 480",
-    "handle": "lenovo-loq-15ahp10-15-6-ryzen-7-16gb-1tb-win-11-home-notebook",
-    "url": "/products/lenovo-loq-15ahp10-15-6-ryzen-7-16gb-1tb-win-11-home-notebook",
-    "qty": 38,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/8/3/83JG001CSA__2__40b1.jpg"
+    "brand": "HP",
+    "title": "HP ProBook 4 G2i AI 16in Laptop — 16GB · 512GB SSD (DS5L6ET)",
+    "spec": "512GB SSD",
+    "price": "R31 493",
+    "handle": "hp-probook-4-g2i-ai-16in-intel-core-7-350-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "url": "/products/hp-probook-4-g2i-ai-16in-intel-core-7-350-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "qty": 96,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DS5L6ET_default.png"
    },
    {
     "brand": "HP",
@@ -214,7 +214,7 @@
     "price": "R39 665",
     "handle": "asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
     "url": "/products/asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
-    "qty": 2,
+    "qty": 9,
     "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_S16_UM5606GA_Product_photo_3G_Antrim_Gray_03__1__de3e.jpg"
    }
   ]
@@ -248,7 +248,7 @@
     "price": "R7 898",
     "handle": "giada-vm27-with-n6210-4g-ddr4-on-board-64g-emmc-on-board",
     "url": "/products/giada-vm27-with-n6210-4g-ddr4-on-board-64g-emmc-on-board",
-    "qty": 50,
+    "qty": 49,
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/VM27-N621042E6G-GIA_wr_01a.jpg"
    },
    {
@@ -294,24 +294,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_WARDEN_02_PCBuilder-Ryzen-5-8600G-WARDEN-Windows-11-Gaming-PC_wr_01a.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro Slim Essential QVS1260: Desktop PC — Core i3 (BTO001_QVS1260_EMEA)",
+    "brand": "PCBuilder",
+    "title": "PCBuilder CUBE Intel Core 3-100U 16GB DDR5 512GB Windows 11 Pro Mini PC",
     "spec": "Desktops",
-    "price": "R17 313",
-    "handle": "dell-pro-slim-essential-qvs1260-intel-core-i3-14100-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-8gb-8gbx1-ddr5-4800mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2-802",
-    "url": "/products/dell-pro-slim-essential-qvs1260-intel-core-i3-14100-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-8gb-8gbx1-ddr5-4800mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2-802",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO001_QVS1260_EMEA_default.png"
+    "price": "R16 757",
+    "handle": "pcbuilder-cube-intel-core-3-100u-16gb-ddr5-512gb-windows-11-pro-mini-pc",
+    "url": "/products/pcbuilder-cube-intel-core-3-100u-16gb-ddr5-512gb-windows-11-pro-mini-pc",
+    "qty": 13,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/06/PCB_CUBE_100U16G_OFFICE_PCBuilder-CUBE-Intel-Core-3-100U-16GB-DDR5-512GB-Windows-11-Pro-Mini-PC_wr_01a.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro Tower Essential QVT1260 Desktop PC — Core Ultra 5 · 16GB (BTO101_QVT1260_EMEA)",
+    "brand": "PCBuilder",
+    "title": "PCBuilder Ryzen 5 5600XT PATHFINDER Windows 11 Gaming PC",
     "spec": "Desktops",
-    "price": "R21 701",
-    "handle": "dell-pro-tower-essential-qvt1260-intel-core-ultra-5-225-20-mb-cache-10-cores-10-threads-up-to-4-9ghz-65w-16gb-1-x-16gb-ddr5-5600-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-mediatek-wi-fi-6",
-    "url": "/products/dell-pro-tower-essential-qvt1260-intel-core-ultra-5-225-20-mb-cache-10-cores-10-threads-up-to-4-9ghz-65w-16gb-1-x-16gb-ddr5-5600-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-mediatek-wi-fi-6",
-    "qty": 10,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO101_QVT1260_EMEA_default.jpg"
+    "price": "R21 677",
+    "handle": "pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
+    "url": "/products/pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
+    "qty": 3,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/11/PCB_PATHFINDER_01_PCBuilder-Ryzen-5-5600XT-PATHFINDER-Windows-11-Gaming-PC_wr_01c.jpg"
    }
   ],
   "high": [
@@ -536,7 +536,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 395,
+    "qty": 339,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -588,7 +588,7 @@
     "price": "R6 058",
     "handle": "dell-27-plus-s2725qs-27-4k-4ms-ips-monitor",
     "url": "/products/dell-27-plus-s2725qs-27-4k-4ms-ips-monitor",
-    "qty": 11,
+    "qty": 10,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQWM_f0f0.jpg"
    },
    {
@@ -602,14 +602,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/07/MAG273QPQD-OLEDX24_MSI-MPG-MAG273QP-QD-OLEDX24-27-inch-WQHD-240Hz-Gaming-Monitor_wr_01.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell UltraSharp 43 4K USB C Hub U4323QE 107.9c 42.5\" Monitor",
-    "spec": "42.5\" screen",
-    "price": "R21 473",
-    "handle": "dell-ultrasharp-43-4k-usb-c-hub-monitor-u4323qe-107-9cm-42-5-2-x-hdmi-2-x-displayport-1-4-lan-rj-45-3-year-basic-exchange-warranty",
-    "url": "/products/dell-ultrasharp-43-4k-usb-c-hub-monitor-u4323qe-107-9cm-42-5-2-x-hdmi-2-x-displayport-1-4-lan-rj-45-3-year-basic-exchange-warranty",
-    "qty": 17,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BFIS_default.png"
+    "brand": "Asus",
+    "title": "Asus ROG Strix 27\" QD-OLED HDR 400 True Black 480Hz Gaming Monitor",
+    "spec": "27\" screen",
+    "price": "R21 218",
+    "handle": "asus-rog-strix-27-qd-oled-hdr-400-true-black-480hz-gaming-monitor",
+    "url": "/products/asus-rog-strix-27-qd-oled-hdr-400-true-black-480hz-gaming-monitor",
+    "qty": 1,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PG27AQDP_Asus_ROG_Strix_27_QD-OLED_HDR_400_True_B_wr_01.png"
    },
    {
     "brand": "Asus",
@@ -627,10 +627,10 @@
     "brand": "Dell",
     "title": "Dell SE2426H 24\" FHD Gaming Monitor",
     "spec": "High refresh · smooth motion",
-    "price": "R2 005",
+    "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 384,
+    "qty": 3,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -654,14 +654,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6568EU_Xiaomi-A27Qi-2026-27-inch-2K-120Hz-IPS-Office-Monitor_wr_01a.jpg"
    },
    {
-    "brand": "Samsung",
-    "title": "Samsung Odyssey G55T Gaming 1000R 34\" QHD Monitor (LC34G55TWWPXEN)",
+    "brand": "MSI",
+    "title": "MSI MAG345CQR 34\" Curved Gaming Monitor 3440x1440 (UWQHD) VA 1ms 180Hz",
     "spec": "34\" screen",
-    "price": "R8 360",
-    "handle": "samsung-odyssey-g55t-gaming-1000r-borderless-34-display-va-response-1ms-mprt-ar-21-9-resolution-3440x1440-uwqhd-rr-165hz-hdmi-display-port-speaker-no-power-supply-external-tilt-yes-swivel-no-pivot-no",
-    "url": "/products/samsung-odyssey-g55t-gaming-1000r-borderless-34-display-va-response-1ms-mprt-ar-21-9-resolution-3440x1440-uwqhd-rr-165hz-hdmi-display-port-speaker-no-power-supply-external-tilt-yes-swivel-no-pivot-no",
-    "qty": 10,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/LC34G55TWWPXEN_default.png"
+    "price": "R7 428",
+    "handle": "msi-mag345cqr-34-curved-gaming-monitor-3440x1440-uwqhd-va-1ms-180hz",
+    "url": "/products/msi-mag345cqr-34-curved-gaming-monitor-3440x1440-uwqhd-va-1ms-180hz",
+    "qty": 2,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/04/MAG-345CQR_wr_01.jpeg"
    },
    {
     "brand": "Asus",
@@ -682,7 +682,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 395,
+    "qty": 339,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -736,7 +736,7 @@
     "price": "R285",
     "handle": "gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "url": "/products/gizzu-30w-38wh-10400mah-mini-dc-ups-black",
-    "qty": 199,
+    "qty": 194,
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GU30WPRO_wr_01a.jpg"
    },
    {
@@ -820,7 +820,7 @@
     "price": "R1 648",
     "handle": "eaton-5e-900va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-900va-gen2-usb-iec-ups",
-    "qty": 53,
+    "qty": 51,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E900UI_761f.png"
    },
    {
@@ -884,7 +884,7 @@
     "price": "R3 701",
     "handle": "eaton-5e-2200va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-2200va-gen2-usb-iec-ups",
-    "qty": 7,
+    "qty": 6,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E2200UI_1_03c6.png"
    },
    {
@@ -985,33 +985,33 @@
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi AX3000T Wi-Fi 6 Dual-Band Gigabit Mesh Router- White",
+    "title": "Xiaomi Mesh System AX3000 NE Whole-Home Wi-Fi 6 Router (1-Pack) – White",
     "spec": "Wi-Fi 6",
-    "price": "R1 074",
-    "handle": "xiaomi-ax3000t-wi-fi-6-dual-band-gigabit-mesh-router-white",
-    "url": "/products/xiaomi-ax3000t-wi-fi-6-dual-band-gigabit-mesh-router-white",
-    "qty": 61,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/DVB4423GL_-Xiaomi-AX3000T-Wi-Fi-6-Dual-Band-Gigabit-Mesh-Router_wr_01.jpeg"
+    "price": "R1 078",
+    "handle": "xiaomi-mesh-system-ax3000-ne-whole-home-wi-fi-6-router-1-pack-white",
+    "url": "/products/xiaomi-mesh-system-ax3000-ne-whole-home-wi-fi-6-router-1-pack-white",
+    "qty": 19,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/DVB4459GL_Xiaomi-Mesh-AX3000-NE-Wi-Fi-6-Router-1-Pck_01.jpeg"
+   },
+   {
+    "brand": "Mercusys",
+    "title": "Mercusys AX3000 Dual-Band Wi-Fi Router (HALO-H80X-2-PACK)",
+    "spec": "Networking And Wireless",
+    "price": "R1 637",
+    "handle": "mercusys-ax3000-dual-band-wi-fi-router-halo-h80x-2-pack",
+    "url": "/products/mercusys-ax3000-dual-band-wi-fi-router-halo-h80x-2-pack",
+    "qty": 77,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/H/A/HALO_H80X_2_PACK_1_33db.png"
    },
    {
     "brand": "Cudy",
-    "title": "Cudy AX1500 Gigabit Mesh Wi-Fi 6 System – 2 Pack",
-    "spec": "Wi-Fi 6",
-    "price": "R1 623",
-    "handle": "cudy-ax1500-gigabit-mesh-wi-fi-6-system-2-pack",
-    "url": "/products/cudy-ax1500-gigabit-mesh-wi-fi-6-system-2-pack",
-    "qty": 50,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/12/M1500-2PACK_Cudy-AX1500-Dual-Band-Wi-Fi-6-Mesh-Kit-With-Gigabit-2Pack.jpg"
-   },
-   {
-    "brand": "Cudy",
-    "title": "Cudy BE11000 Wi-Fi7 Tri-band Mesh Wi-Fi System - 1 Pack",
+    "title": "Cudy BE11000 Wi-Fi7 Gigabit Mesh Router",
     "spec": "Wi-Fi 7",
     "price": "R2 461",
-    "handle": "cudy-be11000-wi-fi7-tri-band-mesh-wi-fi-system-1-pack",
-    "url": "/products/cudy-be11000-wi-fi7-tri-band-mesh-wi-fi-system-1-pack",
-    "qty": 48,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/12/M11000-1PACK_Cudy-BE11000-Mesh-Kit-2.5G-Wifi7.jpeg"
+    "handle": "cudy-be11000-wi-fi7-gigabit-mesh-router",
+    "url": "/products/cudy-be11000-wi-fi7-gigabit-mesh-router",
+    "qty": 41,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/WR11000_Cudy-BE11000-Wi-Fi7-Gigabit-Mesh-Router_wr_01.jpg"
    }
   ],
   "house": [
@@ -1036,30 +1036,30 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/A/HALO_H30G_3_PACK_f3ee.png"
    },
    {
-    "brand": "Cudy",
-    "title": "Cudy AX1500 Gigabit Mesh Wi-Fi 6 System – 2 Pack",
-    "spec": "Wi-Fi 6",
-    "price": "R1 623",
-    "handle": "cudy-ax1500-gigabit-mesh-wi-fi-6-system-2-pack",
-    "url": "/products/cudy-ax1500-gigabit-mesh-wi-fi-6-system-2-pack",
-    "qty": 50,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/12/M1500-2PACK_Cudy-AX1500-Dual-Band-Wi-Fi-6-Mesh-Kit-With-Gigabit-2Pack.jpg"
+    "brand": "Mercusys",
+    "title": "Mercusys AX3000 Dual-Band Wi-Fi Router (HALO-H80X-2-PACK)",
+    "spec": "Networking And Wireless",
+    "price": "R1 637",
+    "handle": "mercusys-ax3000-dual-band-wi-fi-router-halo-h80x-2-pack",
+    "url": "/products/mercusys-ax3000-dual-band-wi-fi-router-halo-h80x-2-pack",
+    "qty": 77,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/H/A/HALO_H80X_2_PACK_1_33db.png"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi BE3600 Pro Dual-Band Wi-Fi 7 2.5Gb Mesh Router",
-    "spec": "Wi-Fi 7",
-    "price": "R2 420",
-    "handle": "xiaomi-be3600-pro-dual-band-wi-fi-7-2-5gb-mesh-router",
-    "url": "/products/xiaomi-be3600-pro-dual-band-wi-fi-7-2-5gb-mesh-router",
-    "qty": 15,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/DVB4475GL_Xiaomi-BE3600-Pro-Dual-Band-Mesh-Router-hr01-2.jpeg"
+    "brand": "Cudy",
+    "title": "Cudy AX3000 Wi-Fi 6 Mesh Kit 2 Pack - White",
+    "spec": "Wi-Fi 6",
+    "price": "R2 216",
+    "handle": "cudy-ax3000-wi-fi-6-mesh-kit-2-pack-white",
+    "url": "/products/cudy-ax3000-wi-fi-6-mesh-kit-2-pack-white",
+    "qty": 177,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/M3000W_wr_01.jpg"
    },
    {
     "brand": "Cudy",
     "title": "Cudy BE3600 Gigabit Mesh Wi-Fi 7 System – 2 Pack",
     "spec": "Wi-Fi 7",
-    "price": "R2 751",
+    "price": "R2 710",
     "handle": "cudy-be3600-gigabit-mesh-wi-fi-7-system-2-pack",
     "url": "/products/cudy-be3600-gigabit-mesh-wi-fi-7-system-2-pack",
     "qty": 142,
@@ -1091,7 +1091,7 @@
     "brand": "Cudy",
     "title": "Cudy AX3000 Wi-Fi 6 Mesh Kit 3 Pack - White",
     "spec": "Wi-Fi 6",
-    "price": "R3 036",
+    "price": "R3 287",
     "handle": "cudy-ax3000-wi-fi-6-mesh-kit-3-pack-white",
     "url": "/products/cudy-ax3000-wi-fi-6-mesh-kit-3-pack-white",
     "qty": 240,
@@ -1109,13 +1109,13 @@
    },
    {
     "brand": "Cudy",
-    "title": "Cudy BE11000 Wi-Fi7 Tri-band Mesh Wi-Fi System - 2 Pack",
+    "title": "Cudy BE6500 2.5G Mesh Wi-Fi 7 System – 2 Pack",
     "spec": "Wi-Fi 7",
-    "price": "R5 092",
-    "handle": "cudy-be11000-wi-fi7-tri-band-mesh-wi-fi-system-2-pack",
-    "url": "/products/cudy-be11000-wi-fi7-tri-band-mesh-wi-fi-system-2-pack",
-    "qty": 18,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/12/M11000-2PACK_Cudy-BE11000-Mesh-Kit-2.5G-Wifi7.jpeg"
+    "price": "R5 167",
+    "handle": "cudy-be6500-2-5g-mesh-wi-fi-7-system-2-pack",
+    "url": "/products/cudy-be6500-2-5g-mesh-wi-fi-7-system-2-pack",
+    "qty": 11,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/M6500-2PACK_Cudy-BE6500-Wi-Fi-7-Mesh-Route-2pack-White_02.jpg"
    },
    {
     "brand": "Asus",
@@ -1124,7 +1124,7 @@
     "price": "R13 579",
     "handle": "asus-rog-rapture-gt-be19000ai-tri-band-wi-fi-7-gaming-router",
     "url": "/products/asus-rog-rapture-gt-be19000ai-tri-band-wi-fi-7-gaming-router",
-    "qty": 10,
+    "qty": 6,
     "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__14__c2da.png"
    },
    {
@@ -1160,7 +1160,7 @@
     "price": "R7 563",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 72,
+    "qty": 57,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
    },
    {
@@ -1274,7 +1274,7 @@
     "price": "R7 563",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 72,
+    "qty": 57,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
    },
    {
@@ -1708,7 +1708,7 @@
     "price": "R288",
     "handle": "ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0",
     "url": "/products/ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0",
-    "qty": 95,
+    "qty": 94,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM511-15596-wr-01.jpg"
    },
    {
@@ -1756,14 +1756,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS105_wr_01.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP POLY 5220 Stereo USB-A Wired Black Headset",
+    "brand": "Port",
+    "title": "Port Connect ON’R 500 Bluetooth® Stereo Headset",
     "spec": "Headsets",
-    "price": "R1 519",
-    "handle": "hp-poly-5220-stereo-usb-a-wired-black-headset",
-    "url": "/products/hp-poly-5220-stereo-usb-a-wired-black-headset",
-    "qty": 16,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/8/X/8X231AA_4dd6.png"
+    "price": "R1 510",
+    "handle": "port-connect-on-r-500-bluetooth-stereo-headset",
+    "url": "/products/port-connect-on-r-500-bluetooth-stereo-headset",
+    "qty": 40,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/912002_PORT-CONNECT-BINAURAL-HEADSET-BT_wr_06.jpg"
    },
    {
     "brand": "HP",
@@ -1845,7 +1845,7 @@
     "brand": "Ubiquiti",
     "title": "Ubiquiti UniFi Pro 48 Port 40 PoE 600W Switch 4SFP+ | USW-Pro-48-PoE",
     "spec": "1.3\" touch LCM;auto-sensing 802.3at PoE+ and 802.3bt PoE++ 600W PoE bu",
-    "price": "R23 741",
+    "price": "R23 845",
     "handle": "ubiquiti-unifi-pro-48-port-40-poe-600w-switch-4sfp-usw-pro-48-poe",
     "url": "/pages/ubiquiti-unifi-pro-48-port-40-poe-600w-switch-4sfp-usw-pro-48-poe",
     "qty": 9,
@@ -1858,7 +1858,7 @@
     "brand": "Cudy",
     "title": "Cudy 16-Port Layer 2 Managed Gigabit PoE Switch",
     "spec": "Managed · PoE for cameras & APs",
-    "price": "R3 779",
+    "price": "R4 110",
     "handle": "cudy-16-port-layer-2-managed-gigabit-poe-switch",
     "url": "https://ubratech.co.za/products/cudy-16-port-layer-2-managed-gigabit-poe-switch",
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/GS2018PS2_wr_01.jpg",
@@ -1878,7 +1878,7 @@
     "brand": "Acconet",
     "title": "Acconet 6U Unassembled Wall Mount Box | AC-CAB-6U450-WM",
     "spec": "Flat Pack, Glass Door",
-    "price": "R1 465",
+    "price": "R1 467",
     "handle": "acconet-6u-unassembled-wall-mount-box-ac-cab-6u450-wm",
     "url": "/pages/acconet-6u-unassembled-wall-mount-box-ac-cab-6u450-wm",
     "qty": 9,
@@ -2067,6 +2067,16 @@
   ],
   "power": [
    {
+    "brand": "DeepCool",
+    "title": "DeepCool AK400 G2 120mm CPU Air Cooler",
+    "spec": "Quiet, effective cooling",
+    "price": "R613",
+    "handle": "deepcool-ak400-g2-120mm-cpu-air-cooler-white",
+    "url": "https://ubratech.co.za/products/deepcool-ak400-g2-120mm-cpu-air-cooler-white",
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/R-AK400G2-WHNNMN-GJD_DeepCool-AK400-G2-120mm-CPU-Air-Cooler-White_wr_01.jpg",
+    "qty": 13
+   },
+   {
     "brand": "Gizzu",
     "title": "Gizzu 30W 38Wh Mini DC UPS",
     "spec": "Keeps router & fibre online",
@@ -2074,7 +2084,7 @@
     "handle": "gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "url": "https://ubratech.co.za/products/gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GU30WPRO_wr_01a.jpg",
-    "qty": 199
+    "qty": 194
    },
    {
     "brand": "Antec",
@@ -2223,14 +2233,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/BHR8930GL_wr_01.jpg"
    },
    {
-    "brand": "REDRAGON",
-    "title": "REDRAGON Over-Ear PANDORA USB (Power Only)|Aux (Mic and Headset)…",
-    "spec": "Headsets",
-    "price": "R496",
-    "handle": "redragon-over-ear-pandora-usb-power-only-aux-mic-and-headset-rgb-gaming-headset-black",
-    "url": "/products/redragon-over-ear-pandora-usb-power-only-aux-mic-and-headset-rgb-gaming-headset-black",
-    "qty": 131,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2020/08/RD-H350RGB-1_wr_01.jpg"
+    "brand": "Redmi",
+    "title": "Redmi Buds 8 Lite - White",
+    "spec": "Tv And Audio",
+    "price": "R516",
+    "handle": "redmi-buds-8-lite-white",
+    "url": "/products/redmi-buds-8-lite-white",
+    "qty": 118,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/BHR08OLGL_Xiaomi-Redmi-Buds-8-Lite-White_wr_01b.jpg"
    },
    {
     "brand": "Corsair",
@@ -2296,13 +2306,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP Slim Rechargeable Pen Charger",
-    "spec": "Cables And Adapters",
+    "title": "HP Keyed Cable Lock 10mm",
+    "spec": "Accessories",
     "price": "R439",
-    "handle": "hp-slim-rechargeable-pen-charger",
-    "url": "/products/hp-slim-rechargeable-pen-charger",
-    "qty": 3,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/4X491AA_default.jpg"
+    "handle": "hp-keyed-cable-lock-10mm",
+    "url": "/products/hp-keyed-cable-lock-10mm",
+    "qty": 92,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/T1A62AA_default.jpg"
    },
    {
     "brand": "SanDisk",
@@ -2337,14 +2347,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/RD-BM-4049_wr_01.jpg"
    },
    {
-    "brand": "Redragon",
-    "title": "Redragon K733 COVE RGB Wireless Mechanical Numpad",
-    "spec": "Keyboards",
-    "price": "R354",
-    "handle": "redragon-k733-cove-rgb-wireless-mechanical-numpad",
-    "url": "/products/redragon-k733-cove-rgb-wireless-mechanical-numpad",
-    "qty": 115,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/RD-K733-RGB-WL_Redragon-K733-COVE-RGB-Wireless-Mechanical-Numpad-Keyboard_wr_01a.jpg"
+    "brand": "Port",
+    "title": "Port Connect Ergo Shape Rechargeable Wireless Mouse",
+    "spec": "Mice",
+    "price": "R351",
+    "handle": "port-connect-ergo-shape-rechargeable-wireless-mouse",
+    "url": "/products/port-connect-ergo-shape-rechargeable-wireless-mouse",
+    "qty": 104,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/910008_PORT-MOUSE-ERGO-RECHARGEABLE-BT-LEFT_wr_09.jpg"
    },
    {
     "brand": "Redragon",
