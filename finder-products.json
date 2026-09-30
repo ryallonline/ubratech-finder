@@ -152,7 +152,7 @@
     "price": "R87 988",
     "handle": "dell-16-premium-da16250-u7-255hx-32gb-lpddr5x-7467mt-s-integrated-dual-channel-1tb-ssd-m-2-pcie-nvme-solid-state-drive-nvidia-geforce-rtx-5060-8gb-gddr7-45w-fingerprint-reader-intel-killer-wi-fi-7",
     "url": "/products/dell-16-premium-da16250-u7-255hx-32gb-lpddr5x-7467mt-s-integrated-dual-channel-1tb-ssd-m-2-pcie-nvme-solid-state-drive-nvidia-geforce-rtx-5060-8gb-gddr7-45w-fingerprint-reader-intel-killer-wi-fi-7",
-    "qty": 4,
+    "qty": 5,
     "image": "https://s3.amazonaws.com/tarsus.co.za/DA16250_ARLH_011_default.jpg"
    }
   ],
@@ -2138,7 +2138,7 @@
     "handle": "tp-link-tapo-d205-2k-battery-video-doorbell-mini",
     "url": "https://ubratech.co.za/products/tp-link-tapo-d205-2k-battery-video-doorbell-mini",
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/A/TAPO_D205_5ba3.jpg",
-    "qty": 3
+    "qty": 2
    },
    {
     "brand": "Xiaomi",
@@ -2295,24 +2295,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2018/09/N301-10-SV-PRO_wr_01a.jpg"
    },
    {
-    "brand": "WINX",
-    "title": "WINX POWER Fast 89W Car Charger",
-    "spec": "Power Adapter",
-    "price": "R144",
-    "handle": "winx-power-fast-89w-car-charger",
-    "url": "/products/winx-power-fast-89w-car-charger",
-    "qty": 149,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/WX-CC102_WINX-POWER-Fast-89W-Car-Charger-Silver_wr_01a.jpg"
+    "brand": "UGREEN",
+    "title": "UGREEN CM383-80864 USB-A to 3.5mm Audio Jack External Sound Adapter - Silver",
+    "spec": "Cables And Adapters",
+    "price": "R145",
+    "handle": "ugreen-cm383-80864-usb-a-to-3-5mm-audio-jack-external-sound-adapter-silver",
+    "url": "/products/ugreen-cm383-80864-usb-a-to-3-5mm-audio-jack-external-sound-adapter-silver",
+    "qty": 156,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM383-80864-wr-02.jpg"
    },
    {
-    "brand": "UGREEN",
-    "title": "UGREEN 1x 2 HDMI Splitter 4K 30Hz 3D – Black",
+    "brand": "Port",
+    "title": "Port 45W Universal AC Adapter (900096B-EU)",
     "spec": "Cables And Adapters",
-    "price": "R408",
-    "handle": "ugreen-1x-2-hdmi-splitter-4k-30hz-3d-black",
-    "url": "/products/ugreen-1x-2-hdmi-splitter-4k-30hz-3d-black",
-    "qty": 22,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/CM619-40201EU.jpg"
+    "price": "R414",
+    "handle": "port-45w-universal-ac-adapter-900096b-eu",
+    "url": "/products/port-45w-universal-ac-adapter-900096b-eu",
+    "qty": 94,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__2__35ed.png"
    },
    {
     "brand": "SanDisk",
@@ -2347,14 +2347,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/RD-BM-4049_wr_01.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port Connect Ergo Shape Rechargeable Wireless Mouse",
-    "spec": "Mice",
-    "price": "R351",
-    "handle": "port-connect-ergo-shape-rechargeable-wireless-mouse",
-    "url": "/products/port-connect-ergo-shape-rechargeable-wireless-mouse",
-    "qty": 104,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/910008_PORT-MOUSE-ERGO-RECHARGEABLE-BT-LEFT_wr_09.jpg"
+    "brand": "Redragon",
+    "title": "Redragon K733 COVE RGB Wireless Mechanical Numpad",
+    "spec": "Keyboards",
+    "price": "R354",
+    "handle": "redragon-k733-cove-rgb-wireless-mechanical-numpad",
+    "url": "/products/redragon-k733-cove-rgb-wireless-mechanical-numpad",
+    "qty": 115,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/RD-K733-RGB-WL_Redragon-K733-COVE-RGB-Wireless-Mechanical-Numpad-Keyboard_wr_01a.jpg"
    },
    {
     "brand": "Port",
