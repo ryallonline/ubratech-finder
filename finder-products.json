@@ -28,7 +28,7 @@
     "price": "R6 258",
     "handle": "acer-chromebook-311-c723-11-6-mediatek-kompanio-528-4gb-32gb-google-chrome-operating-system",
     "url": "/products/acer-chromebook-311-c723-11-6-mediatek-kompanio-528-4gb-32gb-google-chrome-operating-system",
-    "qty": 41,
+    "qty": 39,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NX.KKAEA_.001_Acer-Chromebook-311-C723-11.6-inch-MediaTek-Kompanio-528-4GB-32GB-Google-Chrome-Operating-System_wr_01a.jpg"
    },
    {
@@ -126,14 +126,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 16 PC16250 Laptop — Core Ultra 5 · 512GB SSD (BTO105_PC16250_EMEA)",
+    "brand": "HP",
+    "title": "HP ProBook 4 G2i AI 16in Laptop — 16GB · 512GB SSD (DS5L6ET)",
     "spec": "512GB SSD",
-    "price": "R31 957",
-    "handle": "dell-pro-16-pc16250-intel-core-ultra-5-235u-12-tops-up-to-4-9-ghz-16gb-1x16gb-5600mt-s-ddr5-512gb-ssd-pcie-m-2-16-0-fhd-1920x1200-antiglare-300nits-integrated-graphics-fingerprint-reader-fhd-ir-cam",
-    "url": "/products/dell-pro-16-pc16250-intel-core-ultra-5-235u-12-tops-up-to-4-9-ghz-16gb-1x16gb-5600mt-s-ddr5-512gb-ssd-pcie-m-2-16-0-fhd-1920x1200-antiglare-300nits-integrated-graphics-fingerprint-reader-fhd-ir-cam",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO105_PC16250_EMEA_default.jpg"
+    "price": "R31 493",
+    "handle": "hp-probook-4-g2i-ai-16in-intel-core-7-350-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "url": "/products/hp-probook-4-g2i-ai-16in-intel-core-7-350-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "qty": 96,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DS5L6ET_default.png"
    },
    {
     "brand": "HP",
@@ -730,14 +730,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GU30WPRO_wr_01a.jpg"
    },
    {
-    "brand": "GIZZU",
-    "title": "GIZZU 60W 69Wh 21600mAh Mini POE DC UPS LifePO4 - Black",
-    "spec": "Ups And Power",
-    "price": "R506",
-    "handle": "gizzu-60w-69wh-21600mah-mini-poe-dc-ups-lifepo4-black",
-    "url": "/products/gizzu-60w-69wh-21600mah-mini-poe-dc-ups-lifepo4-black",
-    "qty": 99,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GUP60WPRO_wr_01a.jpg"
+    "brand": "Hikvision",
+    "title": "Hikvision 1000VA 1KVA UPS",
+    "spec": "1KVA UPS",
+    "price": "R1 024",
+    "handle": "hikvision-1000va-1kva-ups",
+    "url": "/products/hikvision-1000va-1kva-ups",
+    "qty": 406,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
     "brand": "APC",
@@ -1594,7 +1594,7 @@
     "price": "R136",
     "handle": "port-connect-usb-type-c-to-4-port-usb-a-3-0-2-0-hub",
     "url": "/products/port-connect-usb-type-c-to-4-port-usb-a-3-0-2-0-hub",
-    "qty": 130,
+    "qty": 128,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/900160_Port-Connect-USB-Type-C-to-4-port-USB-A-3.0-2.0-Hub_wr_01a.jpg"
    },
    {
@@ -1678,7 +1678,7 @@
     "price": "R166",
     "handle": "ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
     "url": "/products/ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
-    "qty": 131,
+    "qty": 130,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CR113-20290_UGREEN-4-Port-USB-3.0-Hub-with-Micro-USB_wr_01a.jpg"
    },
    {
@@ -2031,7 +2031,7 @@
     "price": "R6 512",
     "handle": "asrock-radeon-rx7600-challenger-8g-oc-gddr6-128-bit-graphics-card",
     "url": "/products/asrock-radeon-rx7600-challenger-8g-oc-gddr6-128-bit-graphics-card",
-    "qty": 27,
+    "qty": 26,
     "image": "https://www.syntech.co.za/wp-content/uploads/2023/08/RX7600CHALLENGER8GOC_wr_01.jpg"
    },
    {
@@ -2083,7 +2083,7 @@
     "price": "R448",
     "handle": "antec-atom-v450-non-modular-power-supply",
     "url": "/products/antec-atom-v450-non-modular-power-supply",
-    "qty": 30,
+    "qty": 25,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/ATOM-V450_wr_01a.jpg"
    },
    {
