@@ -104,14 +104,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.003_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP ProBook 4 G1a 16\" AI Ryzen 5-230 16GB 512GB Win 11 Pro Notebook",
-    "spec": "16\" screen",
-    "price": "R21 861",
-    "handle": "hp-probook-4-g1a-16-ai-ryzen-5-230-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/hp-probook-4-g1a-16-ai-ryzen-5-230-16gb-512gb-win-11-pro-notebook",
-    "qty": 15,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/6/C67GNEA_c1c9.jpg"
+    "brand": "Acer",
+    "title": "Acer Travelmate P4 16″ Laptop | Intel U5-125U | 8GB DDR5 | 1TB NVMe | Windows 11 Pro",
+    "spec": "Notebooks",
+    "price": "R21 784",
+    "handle": "acer-travelmate-p4-16-laptop-intel-u5-125u-8gb-ddr5-1tb-nvme-windows-11-pro",
+    "url": "/products/acer-travelmate-p4-16-laptop-intel-u5-125u-8gb-ddr5-1tb-nvme-windows-11-pro",
+    "qty": 2,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/NX.B9BEA.003_Acer-Travelmate-P4-16-inch-Laptop-Intel-U5-125U-8GB-DDR5-1TB-NVMe-Windows-11-Pro_wr_01a.jpg"
    }
   ],
   "high": [
@@ -122,18 +122,18 @@
     "price": "R22 021",
     "handle": "dell-pro-15-essential-pv15250-i7-1355u-intel-rpl-p-u15-i7-8-layer-pcb-15-6-non-touch-fhd-120hz-wva-ips-anti-glare-250-nit-16gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-fingerprint",
     "url": "/products/dell-pro-15-essential-pv15250-i7-1355u-intel-rpl-p-u15-i7-8-layer-pcb-15-6-non-touch-fhd-120hz-wva-ips-anti-glare-250-nit-16gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-fingerprint",
-    "qty": 36,
+    "qty": 35,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
     "brand": "HP",
-    "title": "HP ProBook 4 G2i AI 16in Laptop — 16GB · 512GB SSD (DS5L6ET)",
+    "title": "HP ProBook 4 G2i AI 14in Laptop — 16GB · 512GB SSD (DS5H9ET)",
     "spec": "512GB SSD",
-    "price": "R31 493",
-    "handle": "hp-probook-4-g2i-ai-16in-intel-core-7-350-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "url": "/products/hp-probook-4-g2i-ai-16in-intel-core-7-350-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "qty": 96,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DS5L6ET_default.png"
+    "price": "R31 379",
+    "handle": "hp-probook-4-g2i-ai-14in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "url": "/products/hp-probook-4-g2i-ai-14in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "qty": 23,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DS5H9ET_default.png"
    },
    {
     "brand": "Dell",
@@ -179,13 +179,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP ProBook 4 G1ah 16\" Radeon 740M WUXGA Ryzen 5-220 16GB 512GB Win 11 Pro Notebook",
-    "spec": "16\" screen",
-    "price": "R18 762",
-    "handle": "hp-probook-4-g1ah-16-radeon-740m-wuxga-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/hp-probook-4-g1ah-16-radeon-740m-wuxga-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
-    "qty": 118,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KSAT_9f51.jpg"
+    "title": "HP ProBook 4 G1ah 14\" FHD Radeon 740M Ryzen 5-220 16GB 512GB Win 11 Pro Notebook",
+    "spec": "14\" screen",
+    "price": "R18 694",
+    "handle": "hp-probook-4-g1ah-14-fhd-radeon-740m-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/hp-probook-4-g1ah-14-fhd-radeon-740m-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
+    "qty": 58,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KTAT_4090.jpg"
    },
    {
     "brand": "Dell",
@@ -274,6 +274,16 @@
   ],
   "mid": [
    {
+    "brand": "Dell",
+    "title": "Dell Pro Slim QCS1250 Desktop — Core Ultra 5 · 512GB SSD",
+    "spec": "Performance desktop",
+    "price": "R25 885",
+    "handle": "dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
+    "url": "https://ubratech.co.za/products/dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
+    "qty": 2,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO105_QCS1250_EMEA_default.png"
+   },
+   {
     "brand": "PCBuilder",
     "title": "PCBuilder AMD Ryzen 7 5700G HOME MASTER Windows 11 Desktop PC",
     "spec": "Desktops",
@@ -316,6 +326,16 @@
   ],
   "high": [
    {
+    "brand": "Dell",
+    "title": "Dell Pro Slim QCS1250 Desktop — Core Ultra 5 · 512GB SSD",
+    "spec": "Premium desktop",
+    "price": "R25 885",
+    "handle": "dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
+    "url": "https://ubratech.co.za/products/dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
+    "qty": 2,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO105_QCS1250_EMEA_default.png"
+   },
+   {
     "brand": "Asus",
     "title": "Asus ROG G700 Intel Ultra 5 255F Gaming PC | 16GB DDR5 | 1TB SSD | Win 11 Home",
     "spec": "1TB SSD",
@@ -326,24 +346,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro Slim QCS1250 Desktop PC — Core Ultra 7 · 512GB SSD (BTO108_QCS1250_EMEA)",
-    "spec": "512GB SSD",
-    "price": "R31 865",
-    "handle": "dell-pro-slim-qcs1250-intel-core-ultra-7-265-13-tops-up-to-5-3-ghz-16gb-1x16gb-5600mt-s-ddr5-512gb-ssd-tlc-integrated-graphics-no-wi-fi-bluetooth-dell-kb216-multimedia-usb-keyboard-dell-ms116-optical",
-    "url": "/products/dell-pro-slim-qcs1250-intel-core-ultra-7-265-13-tops-up-to-5-3-ghz-16gb-1x16gb-5600mt-s-ddr5-512gb-ssd-tlc-integrated-graphics-no-wi-fi-bluetooth-dell-kb216-multimedia-usb-keyboard-dell-ms116-optical",
-    "qty": 7,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO108_QCS1250_EMEA_default.jpg"
+    "brand": "HP",
+    "title": "HP ProDesk 4 G1i AI Ultra 7-265T 16GB 512GB Win 11 Pro Mini Desktop",
+    "spec": "Desktops",
+    "price": "R28 875",
+    "handle": "hp-prodesk-4-g1i-ai-ultra-7-265t-16gb-512gb-win-11-pro-mini-desktop",
+    "url": "/products/hp-prodesk-4-g1i-ai-ultra-7-265t-16gb-512gb-win-11-pro-mini-desktop",
+    "qty": 159,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/B/Y/BY6U6ET_5ec1.jpg"
    },
    {
     "brand": "Dell",
-    "title": "Dell 27 AIO EC27250 25 06 2025:Intel Desktop PC — 1TB SSD (EC27250_RPLU-R_003S)",
-    "spec": "1TB SSD",
-    "price": "R42 614",
-    "handle": "dell-27-aio-ec27250-25-06-2025-intel-core-7-150u-12mb-cache-up-to-5-4-ghz-27-fhd-touch-1920x1080-16gb-5200mt-s-ddr5-1tb-ssd-pcie-nvme-m-2-nvidia-geforce-mx570a-with-2gb-gddr6-graphics-memory-camera",
-    "url": "/products/dell-27-aio-ec27250-25-06-2025-intel-core-7-150u-12mb-cache-up-to-5-4-ghz-27-fhd-touch-1920x1080-16gb-5200mt-s-ddr5-1tb-ssd-pcie-nvme-m-2-nvidia-geforce-mx570a-with-2gb-gddr6-graphics-memory-camera",
-    "qty": 7,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/EC27250_RPLU-R_003S_default.jpg"
+    "title": "Dell Pro 24 Plus QB24250 Desktop PC — Core Ultra 7 · 16GB · 512GB SSD (BTO103_QB24250_EMEA)",
+    "spec": "512GB SSD",
+    "price": "R40 579",
+    "handle": "dell-pro-24-all-in-one-plus-qb24250-intel-core-ultra-7-265-13-tops-npu-20-cores-up-to-5-3ghz-16gb-1-x-16-gb-ddr5-up-to-5600-mt-s-non-ecc-512-gb-ssd-tlc-integrated-graphics-height-adjustable-stand",
+    "url": "/products/dell-pro-24-all-in-one-plus-qb24250-intel-core-ultra-7-265-13-tops-npu-20-cores-up-to-5-3ghz-16gb-1-x-16-gb-ddr5-up-to-5600-mt-s-non-ecc-512-gb-ssd-tlc-integrated-graphics-height-adjustable-stand",
+    "qty": 8,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO103_QB24250_EMEA_default.jpg"
    },
    {
     "brand": "HP",
@@ -536,7 +556,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 308,
+    "qty": 307,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -556,18 +576,18 @@
     "price": "R2 435",
     "handle": "dell-pro-24-adjustable-stand-monitor-e2426hs-1x-hdmi-1x-dp-1x-vga",
     "url": "/products/dell-pro-24-adjustable-stand-monitor-e2426hs-1x-hdmi-1x-dp-1x-vga",
-    "qty": 65,
+    "qty": 54,
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPM_default.png"
    },
    {
-    "brand": "Port",
-    "title": "Port Connect 15.6\" Full HD Touchscreen Portable Monitor",
-    "spec": "15.6\" screen",
-    "price": "R3 285",
-    "handle": "port-connect-15-6-full-hd-touchscreen-portable-monitor",
-    "url": "/products/port-connect-15-6-full-hd-touchscreen-portable-monitor",
-    "qty": 17,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/902101T-WR-01b.jpg"
+    "brand": "Lenovo",
+    "title": "Lenovo L15 15\" FHD IPS USB-C Portable Monitor",
+    "spec": "15\" screen",
+    "price": "R3 253",
+    "handle": "lenovo-l15-15-fhd-ips-usb-c-portable-monitor",
+    "url": "/products/lenovo-l15-15-fhd-ips-usb-c-portable-monitor",
+    "qty": 1,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/6/6/66E4UAC1WL_e99a.jpg"
    },
    {
     "brand": "LG",
@@ -576,7 +596,7 @@
     "price": "R5 950",
     "handle": "lg-ultragear-27-qhd-gaming-monitor",
     "url": "/products/lg-ultragear-27-qhd-gaming-monitor",
-    "qty": 104,
+    "qty": 103,
     "image": "https://www.pinnacle.co.za/media/catalog/product/3/2/32GS60QC_B.AFBQ_6413.jpg"
    }
   ],
@@ -627,10 +647,10 @@
     "brand": "Dell",
     "title": "Dell SE2426H 24\" FHD Gaming Monitor",
     "spec": "High refresh · smooth motion",
-    "price": "R1 949",
+    "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 6,
+    "qty": 368,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -682,7 +702,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 308,
+    "qty": 307,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -692,7 +712,7 @@
     "price": "R1 486",
     "handle": "hikvision-18-5-borderless-fhd-monitor",
     "url": "/products/hikvision-18-5-borderless-fhd-monitor",
-    "qty": 88,
+    "qty": 87,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
@@ -709,10 +729,10 @@
     "brand": "HP",
     "title": "HP Series 3 Pro 27\" FHD IPS Monitor",
     "spec": "27\" screen",
-    "price": "R3 857",
+    "price": "R3 739",
     "handle": "hp-series-3-pro-27-fhd-ips-monitor",
     "url": "/products/hp-series-3-pro-27-fhd-ips-monitor",
-    "qty": 5,
+    "qty": 34,
     "image": "https://www.pinnacle.co.za/media/catalog/product/B/0/B0CG3UT_30b1.jpg"
    },
    {
@@ -1062,7 +1082,7 @@
     "price": "R2 710",
     "handle": "cudy-be3600-gigabit-mesh-wi-fi-7-system-2-pack",
     "url": "/products/cudy-be3600-gigabit-mesh-wi-fi-7-system-2-pack",
-    "qty": 142,
+    "qty": 57,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/12/M3600-2PACK_Cudy-BE3600-Gigabit-Mesh-Wi-Fi-7-System-M3600-2-Pack_wr_01a.jpg"
    },
    {
@@ -1160,7 +1180,7 @@
     "price": "R7 563",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 57,
+    "qty": 56,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
    },
    {
@@ -1180,7 +1200,7 @@
     "price": "R725",
     "handle": "canon-pixma-mg2541s-inkjet-mfp-3-in-1-a4-grey-a4-mfp-print-copy-and-scan-8ipm-mono-4-0ipm-colour-4800-x-600-print-resolution-600-x-1200-dpi-scan-resolution-60-sheet-rear-tray-manual-duplex-usb-4-ink",
     "url": "/products/canon-pixma-mg2541s-inkjet-mfp-3-in-1-a4-grey-a4-mfp-print-copy-and-scan-8ipm-mono-4-0ipm-colour-4800-x-600-print-resolution-600-x-1200-dpi-scan-resolution-60-sheet-rear-tray-manual-duplex-usb-4-ink",
-    "qty": 9,
+    "qty": 8,
     "image": "https://s3.amazonaws.com/tarsus.co.za/0727C067AA_default.png"
    },
    {
@@ -1274,7 +1294,7 @@
     "price": "R7 563",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 57,
+    "qty": 56,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
    },
    {
@@ -1434,7 +1454,7 @@
     "price": "R2 532",
     "handle": "hikvision-4mp-darkfighter-fixed-dome-ip-camera-ds-2cd2146g2h-isu-4mm",
     "url": "/products/hikvision-4mp-darkfighter-fixed-dome-ip-camera-ds-2cd2146g2h-isu-4mm",
-    "qty": 107,
+    "qty": 77,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/_/5__4__5384.png"
    },
    {
@@ -1904,7 +1924,7 @@
     "brand": "Seagate",
     "title": "Seagate IronWolf NAS 8TB 3.5\" SATA HDD",
     "spec": "NAS-grade · always-on",
-    "price": "R6 630",
+    "price": "R6 576",
     "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
@@ -1922,33 +1942,33 @@
    },
    {
     "brand": "Kingston",
-    "title": "Kingston 256GB KC600 SSD SATA 3 2.5in SSD",
+    "title": "Kingston 480GB A400 SATA3 2.5 SSD",
     "spec": "Storage",
-    "price": "R2 175",
-    "handle": "kingston-256gb-kc600-ssd-sata-3-2-5in-ssd",
-    "url": "/products/kingston-256gb-kc600-ssd-sata-3-2-5in-ssd",
-    "qty": 13,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SKC600/256G_default.jpg"
+    "price": "R2 241",
+    "handle": "kingston-480gb-a400-sata3-2-5-ssd-7mm-height",
+    "url": "/products/kingston-480gb-a400-sata3-2-5-ssd-7mm-height",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SA400S37/480G_default.jpg"
    },
    {
-    "brand": "Patriot",
-    "title": "Patriot Viper VP4300 Lite 2TB Gen 4 M.2 PCIe NVMe SSD",
+    "brand": "PATRIOT",
+    "title": "PATRIOT SSD VP4000 M.2 NVME 2TB 2230",
     "spec": "Storage",
-    "price": "R5 414",
-    "handle": "patriot-viper-vp4300-lite-2tb-gen-4-m-2-pcie-nvme-ssd",
-    "url": "/products/patriot-viper-vp4300-lite-2tb-gen-4-m-2-pcie-nvme-ssd",
-    "qty": 3,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/VP4300L2TBM28H_Patriot-Viper-VP4300-Lite-2TB-Gen-4-M.2-PCIe-NVMe-SSD_wr_02.jpg"
+    "price": "R5 665",
+    "handle": "patriot-ssd-vp4000-m-2-nvme-2tb-2230",
+    "url": "/products/patriot-ssd-vp4000-m-2-nvme-2tb-2230",
+    "qty": 8,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/VP4000M2TBM23_Patriot-Viper-VP4000-Mini-2TB-M.2-2230-PCIe-Gen4x4-SSD_wr_01.jpg"
    },
    {
-    "brand": "Hiksemi",
-    "title": "Hiksemi D300 PRO Tantalum Capacitor 1920GB SATA III Enterprise SSD",
+    "brand": "SanDisk",
+    "title": "SanDisk Extreme Portable SSD, 8TB, Royal BLUE, Upto 1050MB/s R &…",
     "spec": "Storage",
-    "price": "R32 703",
-    "handle": "hiksemi-d300-pro-tantalum-capacitor-1920gb-sata-iii-enterprise-ssd",
-    "url": "/products/hiksemi-d300-pro-tantalum-capacitor-1920gb-sata-iii-enterprise-ssd",
-    "qty": 13,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/HS-SSD-D300-PRO-1920G_Hiksemi-D300-PRO-Tantalum-Capacitor-1920GB-SATA-III-Enterprise-SSD_wr_01a.jpg"
+    "price": "R33 079",
+    "handle": "sandisk-extreme-portable-ssd-8tb-royal-blue-upto-1050mb-s-r-1000mb-s-w-ip65-3meter-drop-resistance-hw-protection-5-y-warranty",
+    "url": "/products/sandisk-extreme-portable-ssd-8tb-royal-blue-upto-1050mb-s-r-1000mb-s-w-ip65-3meter-drop-resistance-hw-protection-5-y-warranty",
+    "qty": 4,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__2__04e2.png"
    }
   ],
   "memory": [
@@ -2137,7 +2157,7 @@
     "price": "R229",
     "handle": "xiaomi-smart-temperature-and-humidity-monitor-3-mini",
     "url": "/products/xiaomi-smart-temperature-and-humidity-monitor-3-mini",
-    "qty": 92,
+    "qty": 90,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/QBH4312GL_Xiaomi-Smart-Temperature-and-Humidity-Monitor-3-Mini-White_wr_01a.jpg"
    },
    {
@@ -2275,24 +2295,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "HP",
-    "title": "HP 652 Blk + Col Bundle with Powerbank",
-    "spec": "Accessories",
+    "brand": "PD",
+    "title": "PD Power 12V 5A Desktop PSU Adapter",
+    "spec": "Power Adapter",
     "price": "R120",
-    "handle": "hp-652-blk-col-bundle-with-powerbank",
-    "url": "/products/hp-652-blk-col-bundle-with-powerbank",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/6ZD21AE_default.jpg"
+    "handle": "pd-power-12v-5a-desktop-psu-adapter",
+    "url": "/products/pd-power-12v-5a-desktop-psu-adapter",
+    "qty": 142,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2015/01/PDA-60-12_wr_01.jpg"
    },
    {
-    "brand": "Redragon",
-    "title": "Redragon HARROW Wireless X/D-input(Digital/Analog) PC Controller - Black",
-    "spec": "Accessories",
-    "price": "R414",
-    "handle": "redragon-harrow-wireless-x-d-input-digital-analog-pc-controller-black",
-    "url": "/products/redragon-harrow-wireless-x-d-input-digital-analog-pc-controller-black",
-    "qty": 75,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2018/03/Redragon_RD-G808_wr_01b.jpg"
+    "brand": "TP-Link",
+    "title": "TP-Link Gigabit Single-Mode Media Converter",
+    "spec": "Cables And Adapters",
+    "price": "R417",
+    "handle": "tp-link-gigabit-single-mode-media-converter",
+    "url": "/products/tp-link-gigabit-single-mode-media-converter",
+    "qty": 1,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/M/C/MC210CS_2211.png"
    },
    {
     "brand": "Lenovo",
@@ -2337,14 +2357,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B5AA_da01.jpg"
    },
    {
-    "brand": "Redragon",
-    "title": "Redragon BRAGI PRO K688 98+1 Gasket Wireless Mechanical Keyboard…",
+    "brand": "REDRAGON",
+    "title": "REDRAGON Horus Mini Pro 61Key Wireless Bluetooth Red Switch RGB Low…",
     "spec": "Keyboards",
     "price": "R737",
-    "handle": "redragon-bragi-pro-k688-98-1-gasket-wireless-mechanical-keyboard-triple-mode-rgb-hot-swappable-cream-linear-switches",
-    "url": "/products/redragon-bragi-pro-k688-98-1-gasket-wireless-mechanical-keyboard-triple-mode-rgb-hot-swappable-cream-linear-switches",
-    "qty": 36,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/RD-K688GB-RGB-PRO_REDRAGON-KB-MECH-BRAGI-PRO-RGB-BK_wr_01.jpg"
+    "handle": "redragon-horus-mini-pro-61key-wireless-bluetooth-red-switch-rgb-low-profile-gaming-mechanical-keyboard-black",
+    "url": "/products/redragon-horus-mini-pro-61key-wireless-bluetooth-red-switch-rgb-low-profile-gaming-mechanical-keyboard-black",
+    "qty": 55,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/11/RD-K632RGB-PRO_wr_01.jpg"
    },
    {
     "brand": "Corsair",
