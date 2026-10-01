@@ -43,13 +43,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP 250R G10 15.6\" Core 3 100U 8GB 512GB Win 11 Pro Silver Notebook",
+    "title": "HP 205R G9 15.6\" Core i3-100U 16GB 256GB Win 11 Pro Silver Notebook",
     "spec": "15.6\" screen",
     "price": "R11 458",
-    "handle": "hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
-    "url": "/products/hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
+    "handle": "hp-205r-g9-15-6-core-i3-100u-16gb-256gb-win-11-pro-silver-notebook",
+    "url": "/products/hp-205r-g9-15-6-core-i3-100u-16gb-256gb-win-11-pro-silver-notebook",
     "qty": 99,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/7/C78E8AT_98d1.jpg"
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/F/DF6L7ET_4f9d.jpg"
    },
    {
     "brand": "Lenovo",
@@ -84,14 +84,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/8/2/82XM01AUSA_dc5c.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 15 15.6\" Core-i5 8GB 512GB Win 11 Pro Notebook",
-    "spec": "15.6\" screen",
-    "price": "R18 096",
-    "handle": "dell-pro-15-15-6-core-i5-8gb-512gb-win-11-pro-notebook",
-    "url": "/products/dell-pro-15-15-6-core-i5-8gb-512gb-win-11-pro-notebook",
-    "qty": 56,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/P/V/PV15250_RPLU_001_P8L_f32d.jpg"
+    "brand": "Acer",
+    "title": "Acer EXO14 72 51AG Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.ELVEA.001)",
+    "spec": "512GB SSD",
+    "price": "R17 628",
+    "handle": "acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
+    "url": "/products/acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.ELVEA.001_default.jpg"
    },
    {
     "brand": "Acer",
@@ -100,7 +100,7 @@
     "price": "R20 462",
     "handle": "acer-exo16-51-77qk-intel-core-ultra-7-processor-155u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
     "url": "/products/acer-exo16-51-77qk-intel-core-ultra-7-processor-155u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
-    "qty": 73,
+    "qty": 83,
     "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.003_default.jpg"
    },
    {
@@ -136,14 +136,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DS5H9ET_default.png"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 16 Plus 16\" Core-U5 32GB 512GB Win 11 Pro Notebook",
-    "spec": "16\" screen",
-    "price": "R41 033",
-    "handle": "dell-pro-16-plus-16-core-u5-32gb-512gb-win-11-pro-notebook",
-    "url": "/products/dell-pro-16-plus-16-core-u5-32gb-512gb-win-11-pro-notebook",
+    "brand": "HP",
+    "title": "HP ZBook 8 G1i Laptop — Core Ultra 5 · 24GB · 1TB SSD (DM7P4ES)",
+    "spec": "1TB SSD",
+    "price": "R40 798",
+    "handle": "hp-zbook-8-g1i-14inch-dsc-rtx-500-ada-4gb-u5-225h-lcd-14-0wuxgaagled300uwvafwwanf5mpirlpln-ram-24gb-ddr5-5600-ssd-1tb-pcie4x4-nvme-tlc-ost-w11p6-hp-3y-onsite-mws-supp-no-country-of-origin-restriction",
+    "url": "/products/hp-zbook-8-g1i-14inch-dsc-rtx-500-ada-4gb-u5-225h-lcd-14-0wuxgaagled300uwvafwwanf5mpirlpln-ram-24gb-ddr5-5600-ssd-1tb-pcie4x4-nvme-tlc-ost-w11p6-hp-3y-onsite-mws-supp-no-country-of-origin-restriction",
     "qty": 14,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_6f5b.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DM7P4ES_default.jpg"
    },
    {
     "brand": "Dell",
@@ -201,7 +201,7 @@
     "brand": "Asus",
     "title": "Asus VivoBook S14 S3407AA 14\" OLED Ultra 7-355 16GB 512GB Win 11 Home Silver Notebook",
     "spec": "14\" screen",
-    "price": "R31 601",
+    "price": "R29 969",
     "handle": "asus-vivobook-s14-s3407aa-14-oled-ultra-7-355-16gb-512gb-win-11-home-silver-notebook",
     "url": "/products/asus-vivobook-s14-s3407aa-14-oled-ultra-7-355-16gb-512gb-win-11-home-silver-notebook",
     "qty": 12,
@@ -211,7 +211,7 @@
     "brand": "Asus",
     "title": "Asus Zenbook S16 UM5606GA 16\" 3K OLED 120Hz Ryzen AI 9-465 16GB 1TB Win 11 Pro Notebook",
     "spec": "16\" screen",
-    "price": "R41 089",
+    "price": "R39 665",
     "handle": "asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
     "url": "/products/asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
     "qty": 9,
@@ -248,7 +248,7 @@
     "price": "R7 879",
     "handle": "pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc",
     "url": "/products/pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc",
-    "qty": 12,
+    "qty": 15,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_HOME_R58G-V1_PCBuilder-AMD-Ryzen-5-3400G-HOME-MASTER-Windows-11-Desktop-PC_wr_01.jpg"
    },
    {
@@ -295,23 +295,23 @@
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder Intel i5-12400 OFFICE MASTER Core Windows 11 Pro Desktop PC",
+    "title": "PCBuilder Ryzen 5 8600G WARDEN Windows 11 Gaming PC",
     "spec": "Desktops",
-    "price": "R15 073",
-    "handle": "pcbuilder-intel-i5-12400-office-master-core-windows-11-pro-desktop-pc",
-    "url": "/products/pcbuilder-intel-i5-12400-office-master-core-windows-11-pro-desktop-pc",
-    "qty": 4,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/01/PCB_OFFICE_I516G-V3_wr_01e.jpg"
+    "price": "R15 767",
+    "handle": "pcbuilder-ryzen-5-8600g-warden-windows-11-gaming-pc",
+    "url": "/products/pcbuilder-ryzen-5-8600g-warden-windows-11-gaming-pc",
+    "qty": 9,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_WARDEN_02_PCBuilder-Ryzen-5-8600G-WARDEN-Windows-11-Gaming-PC_wr_01a.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro Slim Essential QVS1260: Desktop PC — Core i3 (BTO001_QVS1260_EMEA)",
+    "brand": "PCBuilder",
+    "title": "PCBuilder Intel i5-14400 OFFICE Master Windows 11 Desktop PC",
     "spec": "Desktops",
-    "price": "R17 313",
-    "handle": "dell-pro-slim-essential-qvs1260-intel-core-i3-14100-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-8gb-8gbx1-ddr5-4800mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2-802",
-    "url": "/products/dell-pro-slim-essential-qvs1260-intel-core-i3-14100-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-8gb-8gbx1-ddr5-4800mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2-802",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO001_QVS1260_EMEA_default.png"
+    "price": "R16 757",
+    "handle": "pcbuilder-intel-i5-14400-office-master-windows-11-desktop-pc",
+    "url": "/products/pcbuilder-intel-i5-14400-office-master-windows-11-desktop-pc",
+    "qty": 3,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/PCB_OFFICE_I516G_CSM_PCBuilder-Intel-i5-14400-OFFICE-Master-Windows-11-Desktop-PC_wr_01b.jpg"
    },
    {
     "brand": "PCBuilder",
@@ -320,7 +320,7 @@
     "price": "R21 677",
     "handle": "pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
-    "qty": 3,
+    "qty": 8,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/11/PCB_PATHFINDER_01_PCBuilder-Ryzen-5-5600XT-PATHFINDER-Windows-11-Gaming-PC_wr_01c.jpg"
    }
   ],
@@ -428,7 +428,7 @@
     "price": "R21 677",
     "handle": "pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
-    "qty": 3,
+    "qty": 8,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/11/PCB_PATHFINDER_01_PCBuilder-Ryzen-5-5600XT-PATHFINDER-Windows-11-Gaming-PC_wr_01c.jpg"
    },
    {
@@ -443,6 +443,16 @@
    }
   ],
   "ultra": [
+   {
+    "brand": "Asus",
+    "title": "Asus ROG Strix 16 — Ryzen 9 · 16GB · 1TB SSD",
+    "spec": "Ryzen 9 · 16GB RAM · 1TB SSD",
+    "price": "R53 643",
+    "handle": "asus-rog-strix-16-ryzen-9-16gb-1tb-win-11-home-notebook",
+    "url": "https://ubratech.co.za/products/asus-rog-strix-16-ryzen-9-16gb-1tb-win-11-home-notebook",
+    "qty": 12,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/r/Artboard_1_15_100_7231.jpg"
+   },
    {
     "brand": "Acer",
     "title": "Acer NITRO V 15 Gaming Laptop 15.6″ | Laptop — Ryzen 7",
@@ -464,20 +474,20 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/GU605CM-OU91610G0X_Asus-ROG-Zephyrus-G16-Intel-Core-Ultra-9-285HX-16-inch-Windows-11-Gaming-Laptop-Grey_wr_01a.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Alienware 15 Aurora 15.3\" Core-7 32GB 1TB Win 11 Home Notebook",
-    "spec": "15.3\" screen",
-    "price": "R49 786",
-    "handle": "dell-alienware-15-aurora-15-3-core-7-32gb-1tb-win-11-home-notebook",
-    "url": "/products/dell-alienware-15-aurora-15-3-core-7-32gb-1tb-win-11-home-notebook",
-    "qty": 19,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__97__74c5.png"
+    "brand": "Asus",
+    "title": "Asus ROG Strix G16 G614PP Laptop — Ryzen 9",
+    "spec": "Notebooks",
+    "price": "R50 621",
+    "handle": "asus-rog-strix-g16-g614pp-16-rtx5070-240hz-ryzen-9-8940hx-16gb-1tb-win-11-home-gaming-notebook",
+    "url": "/products/asus-rog-strix-g16-g614pp-16-rtx5070-240hz-ryzen-9-8940hx-16gb-1tb-win-11-home-gaming-notebook",
+    "qty": 7,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/0/2/02_G_New_16_L__8__d684.png"
    },
    {
     "brand": "Asus",
     "title": "Asus ROG Strix G16 16\" Core-U9 32GB 1TB Win 11 Home Notebook",
     "spec": "16\" screen",
-    "price": "R77 170",
+    "price": "R71 481",
     "handle": "asus-rog-strix-g16-16-core-u9-32gb-1tb-win-11-home-notebook",
     "url": "/products/asus-rog-strix-g16-16-core-u9-32gb-1tb-win-11-home-notebook",
     "qty": 1,
@@ -512,7 +522,7 @@
     "price": "R21 677",
     "handle": "pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
-    "qty": 3,
+    "qty": 8,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/11/PCB_PATHFINDER_01_PCBuilder-Ryzen-5-5600XT-PATHFINDER-Windows-11-Gaming-PC_wr_01c.jpg"
    },
    {
@@ -556,7 +566,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 307,
+    "qty": 271,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -576,7 +586,7 @@
     "price": "R2 435",
     "handle": "dell-pro-24-adjustable-stand-monitor-e2426hs-1x-hdmi-1x-dp-1x-vga",
     "url": "/products/dell-pro-24-adjustable-stand-monitor-e2426hs-1x-hdmi-1x-dp-1x-vga",
-    "qty": 54,
+    "qty": 53,
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPM_default.png"
    },
    {
@@ -650,7 +660,7 @@
     "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 368,
+    "qty": 327,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -674,14 +684,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6370EU_Xiaomi-G27i-2026-27%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi Curved Gaming Monitor G34WQi 2026",
-    "spec": "Monitors And Displays",
-    "price": "R6 899",
-    "handle": "xiaomi-curved-gaming-monitor-g34wqi-2026",
-    "url": "/products/xiaomi-curved-gaming-monitor-g34wqi-2026",
-    "qty": 137,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/ELA6562EU_Xiaomi_Curved_Gaming_Monitor_G34WQi_2026_wr_03.png"
+    "brand": "Samsung",
+    "title": "Samsung Odyssey G55T Gaming 1000R 34\" QHD Monitor (LC34G55TWWPXEN)",
+    "spec": "34\" screen",
+    "price": "R8 360",
+    "handle": "samsung-odyssey-g55t-gaming-1000r-borderless-34-display-va-response-1ms-mprt-ar-21-9-resolution-3440x1440-uwqhd-rr-165hz-hdmi-display-port-speaker-no-power-supply-external-tilt-yes-swivel-no-pivot-no",
+    "url": "/products/samsung-odyssey-g55t-gaming-1000r-borderless-34-display-va-response-1ms-mprt-ar-21-9-resolution-3440x1440-uwqhd-rr-165hz-hdmi-display-port-speaker-no-power-supply-external-tilt-yes-swivel-no-pivot-no",
+    "qty": 10,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/LC34G55TWWPXEN_default.png"
    },
    {
     "brand": "Asus",
@@ -702,7 +712,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 307,
+    "qty": 271,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -799,17 +809,6 @@
     "qty": 9,
     "image": "https://miro.co.za/img/p/9/8/9/0/9890.jpg",
     "enquiry": true
-   },
-   {
-    "brand": "Acconet",
-    "title": "Acconet Mini DC UPS 13200mAh with 12V 2A Power Supply | AC-UPS-MINI-V2-KIT",
-    "spec": "13200mAh Battery, 4 Way Cable - 1x USB, 1x 9V, 2x 12V, includes PSU-12",
-    "price": "R362",
-    "handle": "acconet-mini-dc-ups-13200mah-with-12v-2a-power-supply-ac-ups-mini-v2-kit",
-    "url": "/pages/acconet-mini-dc-ups-13200mah-with-12v-2a-power-supply-ac-ups-mini-v2-kit",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/1/7/2/2/2/17222.jpg",
-    "enquiry": true
    }
   ],
   "desk": [
@@ -840,7 +839,7 @@
     "price": "R1 648",
     "handle": "eaton-5e-900va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-900va-gen2-usb-iec-ups",
-    "qty": 51,
+    "qty": 50,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E900UI_761f.png"
    },
    {
@@ -1434,7 +1433,7 @@
     "price": "R834",
     "handle": "hikvision-3k-5mp-color-audio-fixed-turret-analogue-camera",
     "url": "https://ubratech.co.za/products/hikvision-3k-5mp-color-audio-fixed-turret-analogue-camera",
-    "qty": 38,
+    "qty": 37,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE72KF0T_LFS_2.8MM_7488.jpg"
    },
    {
@@ -1548,7 +1547,7 @@
     "price": "R9 752",
     "handle": "hikvision-4mp-deepinview-anpr-moto-varifocal-bullet-ip-camera",
     "url": "/products/hikvision-4mp-deepinview-anpr-moto-varifocal-bullet-ip-camera",
-    "qty": 82,
+    "qty": 81,
     "image": "https://www.pinnacle.co.za/media/catalog/product/I/D/IDS_2CD7A46G2_P_IZHS2.8_12MM_ac9b.jpg"
    },
    {
@@ -1807,7 +1806,7 @@
     "price": "R146",
     "handle": "tp-link-8-port-desktop-switch",
     "url": "https://ubratech.co.za/products/tp-link-8-port-desktop-switch",
-    "qty": 54,
+    "qty": 49,
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SF1008D_2687.jpg"
    },
    {
@@ -1999,7 +1998,7 @@
     "price": "R452",
     "handle": "hiksemi-future-8gb-1600mhz-8gb-x-1-so-dimm-memory-module",
     "url": "/products/hiksemi-future-8gb-1600mhz-8gb-x-1-so-dimm-memory-module",
-    "qty": 122,
+    "qty": 120,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/HSC308S16Z1-8G_wr_-2.jpg"
    },
    {
@@ -2103,18 +2102,18 @@
     "price": "R448",
     "handle": "antec-atom-v450-non-modular-power-supply",
     "url": "/products/antec-atom-v450-non-modular-power-supply",
-    "qty": 21,
+    "qty": 18,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/ATOM-V450_wr_01a.jpg"
    },
    {
-    "brand": "Antec",
-    "title": "Antec Atom B650 Non-Modular Power Supply",
+    "brand": "MSI",
+    "title": "MSI MAG A550BN 550W 80 PLUS Bronze Non-modular ATX Power Supply",
     "spec": "Power Supplies",
-    "price": "R874",
-    "handle": "antec-atom-b650-non-modular-power-supply",
-    "url": "/products/antec-atom-b650-non-modular-power-supply",
-    "qty": 112,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/ATOM-B650_wr_01.jpg"
+    "price": "R880",
+    "handle": "msi-mag-a550bn-550w-80-plus-bronze-non-modular-atx-power-supply",
+    "url": "/products/msi-mag-a550bn-550w-80-plus-bronze-non-modular-atx-power-supply",
+    "qty": 95,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/07/MAG-A550BN_MSI-MAG-A550BN-550W-80-PLUS-Bronze-Non-modular-ATX-Power-Supply_wr_01a.jpg"
    },
    {
     "brand": "FSP",
@@ -2148,7 +2147,7 @@
     "handle": "xiaomi-robot-vacuum-s40c",
     "url": "https://ubratech.co.za/products/xiaomi-robot-vacuum-s40c",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/BHR9664EU_Xiaomi-Robot-Vacuum-S40C_wr_02a-1.jpg",
-    "qty": 182
+    "qty": 181
    },
    {
     "brand": "Xiaomi",
@@ -2157,7 +2156,7 @@
     "price": "R229",
     "handle": "xiaomi-smart-temperature-and-humidity-monitor-3-mini",
     "url": "/products/xiaomi-smart-temperature-and-humidity-monitor-3-mini",
-    "qty": 90,
+    "qty": 89,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/QBH4312GL_Xiaomi-Smart-Temperature-and-Humidity-Monitor-3-Mini-White_wr_01a.jpg"
    },
    {
@@ -2243,24 +2242,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/6941876247608_WS210-45760_02.jpg"
    },
    {
-    "brand": "Corsair",
-    "title": "Corsair HS55 Surround Wired Gaming Headset – White",
+    "brand": "Poly",
+    "title": "Poly Voyager Surround 85 UC Microsoft Teams Certified USB-C Headset",
     "spec": "Headsets",
-    "price": "R1 147",
-    "handle": "corsair-hs55-surround-wired-gaming-headset-white",
-    "url": "/products/corsair-hs55-surround-wired-gaming-headset-white",
-    "qty": 7,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/CA-9011261-AP_CORSAIR_OVER-EAR_HS55_WIRED_WH_wr_01.png"
-   },
-   {
-    "brand": "HP",
-    "title": "HP Poly VFree 60+ CB Earbuds +BT700C +TSCHC",
-    "spec": "Headsets",
-    "price": "R4 721",
-    "handle": "hp-poly-vfree-60-cb-earbuds-bt700c-tschc",
-    "url": "/products/hp-poly-vfree-60-cb-earbuds-bt700c-tschc",
-    "qty": 12,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/7Y8G4AA_default.png"
+    "price": "R6 975",
+    "handle": "poly-voyager-surround-85-uc-microsoft-teams-certified-usb-c-headset",
+    "url": "/products/poly-voyager-surround-85-uc-microsoft-teams-certified-usb-c-headset",
+    "qty": 3,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/8G7T8AA_default.jpg"
    }
   ],
   "everyday": [
@@ -2305,14 +2294,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2015/01/PDA-60-12_wr_01.jpg"
    },
    {
-    "brand": "TP-Link",
-    "title": "TP-Link Gigabit Single-Mode Media Converter",
+    "brand": "Dell",
+    "title": "Dell 65W 4.5MM AC Adapter",
     "spec": "Cables And Adapters",
-    "price": "R417",
-    "handle": "tp-link-gigabit-single-mode-media-converter",
-    "url": "/products/tp-link-gigabit-single-mode-media-converter",
-    "qty": 1,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/M/C/MC210CS_2211.png"
+    "price": "R411",
+    "handle": "dell-65w-4-5mm-ac-adapter",
+    "url": "/products/dell-65w-4-5mm-ac-adapter",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/450-ALOF_default.jpg"
    },
    {
     "brand": "Lenovo",
@@ -2321,7 +2310,7 @@
     "price": "R2 439",
     "handle": "lenovo-usb-c-dual-display-travel-dock-with-100w-adapter-the-lenovo-usb-c-dual-display-travel-dock-40b9-is-an-essential-companion-for-the-modern-remote-professional-this-compact-dynamo-supports-dual",
     "url": "/products/lenovo-usb-c-dual-display-travel-dock-with-100w-adapter-the-lenovo-usb-c-dual-display-travel-dock-40b9-is-an-essential-companion-for-the-modern-remote-professional-this-compact-dynamo-supports-dual",
-    "qty": 58,
+    "qty": 54,
     "image": "https://s3.amazonaws.com/tarsus.co.za/40B90100SA_default.png"
    }
   ],
