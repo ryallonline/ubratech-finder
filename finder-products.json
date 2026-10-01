@@ -566,7 +566,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 271,
+    "qty": 260,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -660,7 +660,7 @@
     "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 327,
+    "qty": 320,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -712,7 +712,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 271,
+    "qty": 260,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -766,7 +766,7 @@
     "price": "R285",
     "handle": "gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "url": "/products/gizzu-30w-38wh-10400mah-mini-dc-ups-black",
-    "qty": 190,
+    "qty": 150,
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GU30WPRO_wr_01a.jpg"
    },
    {
@@ -1940,14 +1940,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM767-35267_UGreen-CM767-M.2-NVMe-SSD-Enclosure-10Gbps-%E2%80%93-Silver_wr_01a.jpg"
    },
    {
-    "brand": "Kingston",
-    "title": "Kingston 480GB A400 SATA3 2.5 SSD",
+    "brand": "Patriot",
+    "title": "Patriot Transporter Lite 1TB USB3.2 Type-C External Portable SSD - Red",
     "spec": "Storage",
-    "price": "R2 241",
-    "handle": "kingston-480gb-a400-sata3-2-5-ssd-7mm-height",
-    "url": "/products/kingston-480gb-a400-sata3-2-5-ssd-7mm-height",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SA400S37/480G_default.jpg"
+    "price": "R2 265",
+    "handle": "patriot-transporter-lite-1tb-usb3-2-type-c-external-portable-ssd-red",
+    "url": "/products/patriot-transporter-lite-1tb-usb3-2-type-c-external-portable-ssd-red",
+    "qty": 25,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/PTPL1TBPEC_Patriot-Transporter-Lite-1TB-USB3.2-Type-C-External-Portable-SSD_wr_01.jpg"
    },
    {
     "brand": "PATRIOT",
@@ -2040,7 +2040,7 @@
     "price": "R1 393",
     "handle": "asus-geforce-gt-710-2gb-gddr5-evo-graphics-card",
     "url": "/products/asus-geforce-gt-710-2gb-gddr5-evo-graphics-card",
-    "qty": 106,
+    "qty": 105,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/04/ASUS_GT710-SL-2GD5-BRK-EVO_wr_01a.jpg"
    },
    {
@@ -2054,14 +2054,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2023/08/RX7600CHALLENGER8GOC_wr_01.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus Nvidia GeForce RTX 5050 Dual OC 8GB GDDR6 Graphics Card",
+    "brand": "MSI",
+    "title": "MSI GeForce RTX 5060 Ti SHADOW 2X OC PLUS 128-bit GDDR7 8GB…",
     "spec": "Graphics Cards",
-    "price": "R8 562",
-    "handle": "asus-nvidia-geforce-rtx-5050-dual-oc-8gb-gddr6-graphics-card",
-    "url": "/products/asus-nvidia-geforce-rtx-5050-dual-oc-8gb-gddr6-graphics-card",
-    "qty": 8,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/07/DUAL-RTX5050-O8G_Asus-Nvidia-GeForce-RTX-5050-Dual-OC-88G-Graphics-Card_wr_01.jpg"
+    "price": "R10 424",
+    "handle": "msi-geforce-rtx-5060-ti-shadow-2x-oc-plus-128-bit-gddr7-8gb-graphics-card",
+    "url": "/products/msi-geforce-rtx-5060-ti-shadow-2x-oc-plus-128-bit-gddr7-8gb-graphics-card",
+    "qty": 5,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/RTX5060TISHADOW2XOCPLU_MSI-GeForce-RTX-5060-Ti-SHADOW-2X-OC-PLUS-128-bit-GDDR7-8GB-Graphics-Card_wr_01a.jpg"
    },
    {
     "brand": "Asus",
@@ -2093,7 +2093,7 @@
     "handle": "gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "url": "https://ubratech.co.za/products/gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GU30WPRO_wr_01a.jpg",
-    "qty": 190
+    "qty": 150
    },
    {
     "brand": "Antec",
@@ -2161,13 +2161,13 @@
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi Smart Home hub 2",
+    "title": "Xiaomi Outdoor Camera CW100 Dual",
     "spec": "Smart Home",
-    "price": "R1 166",
-    "handle": "xiaomi-smart-home-hub-2",
-    "url": "/products/xiaomi-smart-home-hub-2",
-    "qty": 19,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/12/BHR6765GL_wr_01.jpg"
+    "price": "R1 210",
+    "handle": "xiaomi-outdoor-camera-cw100-dual",
+    "url": "/products/xiaomi-outdoor-camera-cw100-dual",
+    "qty": 9,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/BHR07UIEU_Xiaomi-Outdoor-Camera-CW100-Dual-White_wr_01a.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -2232,14 +2232,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/BHR8930GL_wr_01.jpg"
    },
    {
-    "brand": "UGREEN",
-    "title": "UGREEN HiTune S5 Open-Ear TWS Earbuds–Black",
+    "brand": "REDRAGON",
+    "title": "REDRAGON Over-Ear AURORA Gaming Headset - Black",
+    "spec": "Headsets",
+    "price": "R536",
+    "handle": "redragon-over-ear-aurora-gaming-headset-black",
+    "url": "/products/redragon-over-ear-aurora-gaming-headset-black",
+    "qty": 206,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/02/RD-H376BR_wr_01.jpg"
+   },
+   {
+    "brand": "Xiaomi",
+    "title": "Xiaomi Redmi Headphones Neo ANC Wireless Over-Ears – Black",
     "spec": "Tv And Audio",
-    "price": "R516",
-    "handle": "ugreen-hitune-s5-open-ear-tws-earbuds-black",
-    "url": "/products/ugreen-hitune-s5-open-ear-tws-earbuds-black",
-    "qty": 49,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/6941876247608_WS210-45760_02.jpg"
+    "price": "R1 213",
+    "handle": "xiaomi-redmi-headphones-neo-anc-wireless-over-ears-black",
+    "url": "/products/xiaomi-redmi-headphones-neo-anc-wireless-over-ears-black",
+    "qty": 32,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/BHR08W5GL_Redmi-Headphones-Neo-ANC-Wireless-Over-Ears-Black_wr_01a.jpg"
    },
    {
     "brand": "Poly",
@@ -2294,14 +2304,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2015/01/PDA-60-12_wr_01.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell 65W 4.5MM AC Adapter",
+    "brand": "Port",
+    "title": "Port 45W Universal AC Adapter (900096B-EU)",
     "spec": "Cables And Adapters",
-    "price": "R411",
-    "handle": "dell-65w-4-5mm-ac-adapter",
-    "url": "/products/dell-65w-4-5mm-ac-adapter",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/450-ALOF_default.jpg"
+    "price": "R414",
+    "handle": "port-45w-universal-ac-adapter-900096b-eu",
+    "url": "/products/port-45w-universal-ac-adapter-900096b-eu",
+    "qty": 94,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__2__35ed.png"
    },
    {
     "brand": "Lenovo",
@@ -2346,14 +2356,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B5AA_da01.jpg"
    },
    {
-    "brand": "REDRAGON",
-    "title": "REDRAGON Horus Mini Pro 61Key Wireless Bluetooth Red Switch RGB Low…",
+    "brand": "Redragon",
+    "title": "Redragon BRAGI PRO K688 98+1 Gasket Wireless Mechanical Keyboard…",
     "spec": "Keyboards",
     "price": "R737",
-    "handle": "redragon-horus-mini-pro-61key-wireless-bluetooth-red-switch-rgb-low-profile-gaming-mechanical-keyboard-black",
-    "url": "/products/redragon-horus-mini-pro-61key-wireless-bluetooth-red-switch-rgb-low-profile-gaming-mechanical-keyboard-black",
-    "qty": 55,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/11/RD-K632RGB-PRO_wr_01.jpg"
+    "handle": "redragon-bragi-pro-k688-98-1-gasket-wireless-mechanical-keyboard-triple-mode-rgb-hot-swappable-cream-linear-switches",
+    "url": "/products/redragon-bragi-pro-k688-98-1-gasket-wireless-mechanical-keyboard-triple-mode-rgb-hot-swappable-cream-linear-switches",
+    "qty": 36,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/RD-K688GB-RGB-PRO_REDRAGON-KB-MECH-BRAGI-PRO-RGB-BK_wr_01.jpg"
    },
    {
     "brand": "Corsair",
