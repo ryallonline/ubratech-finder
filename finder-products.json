@@ -546,7 +546,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 253,
+    "qty": 252,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -692,7 +692,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 253,
+    "qty": 252,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -732,7 +732,7 @@
     "price": "R8 570",
     "handle": "xiaomi-g-pro-27i-27-2k-1440p-mini-led-ips-gaming-monitor-180hz-1ms",
     "url": "/products/xiaomi-g-pro-27i-27-2k-1440p-mini-led-ips-gaming-monitor-180hz-1ms",
-    "qty": 26,
+    "qty": 24,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/ELA5585EU_Xiaomi-G-Pro-27i_27-inch_2k_qhd_gaming_monitor_wr_01b.jpg"
    }
   ]
@@ -1041,7 +1041,7 @@
     "price": "R1 522",
     "handle": "xiaomi-ac1200-whole-home-mesh-wi-fi-system-2-pack",
     "url": "/products/xiaomi-ac1200-whole-home-mesh-wi-fi-system-2-pack",
-    "qty": 50,
+    "qty": 49,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/DVB4451GL_wr_01.jpg"
    },
    {
@@ -1667,7 +1667,7 @@
     "price": "R166",
     "handle": "ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
     "url": "/products/ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
-    "qty": 124,
+    "qty": 123,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CR113-20290_UGREEN-4-Port-USB-3.0-Hub-with-Micro-USB_wr_01a.jpg"
    },
    {
@@ -1903,11 +1903,11 @@
     "brand": "Seagate",
     "title": "Seagate IronWolf NAS 8TB 3.5\" SATA HDD",
     "spec": "NAS-grade · always-on",
-    "price": "R6 576",
+    "price": "R6 630",
     "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
-    "qty": 6
+    "qty": 7
    },
    {
     "brand": "UGREEN",
@@ -2030,7 +2030,7 @@
     "price": "R6 512",
     "handle": "asrock-radeon-rx7600-challenger-8g-oc-gddr6-128-bit-graphics-card",
     "url": "/products/asrock-radeon-rx7600-challenger-8g-oc-gddr6-128-bit-graphics-card",
-    "qty": 23,
+    "qty": 21,
     "image": "https://www.syntech.co.za/wp-content/uploads/2023/08/RX7600CHALLENGER8GOC_wr_01.jpg"
    },
    {
@@ -2082,7 +2082,7 @@
     "price": "R414",
     "handle": "antec-atom-v350-non-modular-power-supply",
     "url": "/products/antec-atom-v350-non-modular-power-supply",
-    "qty": 30,
+    "qty": 29,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/ATOM-V350_wr_01a.jpg"
    },
    {
@@ -2092,7 +2092,7 @@
     "price": "R880",
     "handle": "msi-mag-a550bn-550w-80-plus-bronze-non-modular-atx-power-supply",
     "url": "/products/msi-mag-a550bn-550w-80-plus-bronze-non-modular-atx-power-supply",
-    "qty": 95,
+    "qty": 94,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/07/MAG-A550BN_MSI-MAG-A550BN-550W-80-PLUS-Bronze-Non-modular-ATX-Power-Supply_wr_01a.jpg"
    },
    {
@@ -2274,24 +2274,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "PD",
-    "title": "PD Power 12V 5A Desktop PSU Adapter",
-    "spec": "Power Adapter",
+    "brand": "UGREEN",
+    "title": "UGREEN Bluetooth 5.4 USB Adapter",
+    "spec": "Cables And Adapters",
     "price": "R120",
-    "handle": "pd-power-12v-5a-desktop-psu-adapter",
-    "url": "/products/pd-power-12v-5a-desktop-psu-adapter",
-    "qty": 142,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2015/01/PDA-60-12_wr_01.jpg"
+    "handle": "ugreen-bluetooth-5-4-usb-adapter",
+    "url": "/products/ugreen-bluetooth-5-4-usb-adapter",
+    "qty": 201,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM748-35058_UGreen-Bluetooth-5.4-USB-Adapter_wr_01.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port 45W Universal AC Adapter (900096B-EU)",
-    "spec": "Cables And Adapters",
+    "brand": "Redragon",
+    "title": "Redragon HARROW Wireless X/D-input(Digital/Analog) PC Controller - Black",
+    "spec": "Accessories",
     "price": "R414",
-    "handle": "port-45w-universal-ac-adapter-900096b-eu",
-    "url": "/products/port-45w-universal-ac-adapter-900096b-eu",
-    "qty": 94,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__2__35ed.png"
+    "handle": "redragon-harrow-wireless-x-d-input-digital-analog-pc-controller-black",
+    "url": "/products/redragon-harrow-wireless-x-d-input-digital-analog-pc-controller-black",
+    "qty": 74,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2018/03/Redragon_RD-G808_wr_01b.jpg"
    },
    {
     "brand": "Lenovo",
@@ -2300,7 +2300,7 @@
     "price": "R2 439",
     "handle": "lenovo-usb-c-dual-display-travel-dock-with-100w-adapter-the-lenovo-usb-c-dual-display-travel-dock-40b9-is-an-essential-companion-for-the-modern-remote-professional-this-compact-dynamo-supports-dual",
     "url": "/products/lenovo-usb-c-dual-display-travel-dock-with-100w-adapter-the-lenovo-usb-c-dual-display-travel-dock-40b9-is-an-essential-companion-for-the-modern-remote-professional-this-compact-dynamo-supports-dual",
-    "qty": 54,
+    "qty": 53,
     "image": "https://s3.amazonaws.com/tarsus.co.za/40B90100SA_default.png"
    }
   ],
@@ -2327,13 +2327,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP 235 Wireless Keyboard & Mouse Combo",
+    "title": "HP 400 Quiet Wireless Black Mouse",
     "spec": "Wired Mouse",
-    "price": "R369",
-    "handle": "hp-235-wireless-keyboard-mouse-combo",
-    "url": "/products/hp-235-wireless-keyboard-mouse-combo",
-    "qty": 129,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_0ec7.png"
+    "price": "R371",
+    "handle": "hp-400-quiet-wireless-black-mouse",
+    "url": "/products/hp-400-quiet-wireless-black-mouse",
+    "qty": 178,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B2AA_dac7.jpg"
    },
    {
     "brand": "REDRAGON",
