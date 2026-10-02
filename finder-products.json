@@ -3,16 +3,6 @@
   "entry": [
    {
     "brand": "HP",
-    "title": "HP 255R G10 15.6\" Ryzen-3 8GB 512GB Win 11 Home Notebook",
-    "spec": "8GB RAM · 512GB SSD",
-    "price": "R10 073",
-    "handle": "hp-255r-g10-15-6-ryzen-3-8gb-512gb-win-11-home-notebook",
-    "url": "https://ubratech.co.za/products/hp-255r-g10-15-6-ryzen-3-8gb-512gb-win-11-home-notebook",
-    "qty": 41,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/0/D0ML8AT_1a63.jpg"
-   },
-   {
-    "brand": "HP",
     "title": "HP 250 G9 15.6\" Core i3 16GB 256GB Win 11 Pro Notebook",
     "spec": "Core i3 · 16GB RAM · 256GB SSD",
     "price": "R11 458",
@@ -127,13 +117,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP ProBook 4 G2i AI 14in Laptop — 16GB · 512GB SSD (DS5H9ET)",
-    "spec": "512GB SSD",
-    "price": "R31 379",
-    "handle": "hp-probook-4-g2i-ai-14in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "url": "/products/hp-probook-4-g2i-ai-14in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "qty": 23,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DS5H9ET_default.png"
+    "title": "HP EliteBook 8 Flip G1i Laptop",
+    "spec": "Notebooks",
+    "price": "R31 153",
+    "handle": "hp-elitebook-8-flip-g1i-13-3-wuxga-ai-ultra-5-225u-16gb-512gb-win-11-pro-2-in-1-notebook",
+    "url": "/products/hp-elitebook-8-flip-g1i-13-3-wuxga-ai-ultra-5-225u-16gb-512gb-win-11-pro-2-in-1-notebook",
+    "qty": 9,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/D/AD3U5ET_1871.jpg"
    },
    {
     "brand": "HP",
@@ -295,13 +285,13 @@
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder Ryzen 5 8600G WARDEN Windows 11 Gaming PC",
+    "title": "PCBuilder Intel i5-12400 OFFICE MASTER Core Windows 11 Pro Desktop PC",
     "spec": "Desktops",
-    "price": "R15 767",
-    "handle": "pcbuilder-ryzen-5-8600g-warden-windows-11-gaming-pc",
-    "url": "/products/pcbuilder-ryzen-5-8600g-warden-windows-11-gaming-pc",
-    "qty": 9,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_WARDEN_02_PCBuilder-Ryzen-5-8600G-WARDEN-Windows-11-Gaming-PC_wr_01a.jpg"
+    "price": "R15 073",
+    "handle": "pcbuilder-intel-i5-12400-office-master-core-windows-11-pro-desktop-pc",
+    "url": "/products/pcbuilder-intel-i5-12400-office-master-core-windows-11-pro-desktop-pc",
+    "qty": 4,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/01/PCB_OFFICE_I516G-V3_wr_01e.jpg"
    },
    {
     "brand": "PCBuilder",
@@ -581,13 +571,13 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro 24 Adjustable Stand Monitor - E2426HS 1x HDMI, 1x DP, 1x VGA",
+    "title": "Dell Pro 27 Monitor - E2726H 1x HDMI, 1x DP, 1x VGA (Includes DP & Power Cable)",
     "spec": "Monitors And Displays",
-    "price": "R2 435",
-    "handle": "dell-pro-24-adjustable-stand-monitor-e2426hs-1x-hdmi-1x-dp-1x-vga",
-    "url": "/products/dell-pro-24-adjustable-stand-monitor-e2426hs-1x-hdmi-1x-dp-1x-vga",
-    "qty": 53,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPM_default.png"
+    "price": "R2 444",
+    "handle": "dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
+    "url": "/products/dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
+    "qty": 52,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPN_default.jpg"
    },
    {
     "brand": "Lenovo",
@@ -623,13 +613,13 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro 34 Plus P3425WE 34\" USB-C Hub Monitor",
-    "spec": "34\" screen",
-    "price": "R10 676",
-    "handle": "dell-pro-34-plus-usb-c-hub-monitor-p3425we-86-5cm-34-1-1x-hdmi-1x-dp-1x-rj45-6x-usb-ports",
-    "url": "/products/dell-pro-34-plus-usb-c-hub-monitor-p3425we-86-5cm-34-1-1x-hdmi-1x-dp-1x-rj45-6x-usb-ports",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BRDR_default.jpg"
+    "title": "Dell Alienware 27 4K Gaming Monitor 180Hz",
+    "spec": "Monitors And Displays",
+    "price": "R11 181",
+    "handle": "dell-alienware-27-4k-dual-resolution-gaming-monitor-4k-uhd-3840-x-2160-standard-refresh-rate-180-hz-stand-adjustments-swivel-height-pivot-tilt-height-adjustable-3-year-exchange",
+    "url": "/products/dell-alienware-27-4k-dual-resolution-gaming-monitor-4k-uhd-3840-x-2160-standard-refresh-rate-180-hz-stand-adjustments-swivel-height-pivot-tilt-height-adjustable-3-year-exchange",
+    "qty": 5,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BNHT_default.jpg"
    },
    {
     "brand": "Dell",
@@ -654,16 +644,6 @@
   ],
   "gaming": [
    {
-    "brand": "Dell",
-    "title": "Dell SE2426H 24\" FHD Gaming Monitor",
-    "spec": "High refresh · smooth motion",
-    "price": "R2 005",
-    "handle": "dell-se2426h-24-fhd-gaming-monitor",
-    "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 320,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
-   },
-   {
     "brand": "Acer",
     "title": "Acer 27\" IPS FHD 120Hz Monitor",
     "spec": "High refresh · smooth motion",
@@ -675,13 +655,23 @@
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi G27i 2026 27″ 200Hz Full HD 1080p IPS Gaming Monitor",
+    "title": "Xiaomi A24i 2026 24″ 144Hz Full HD 1080P IPS Office Monitor",
     "spec": "Monitors And Displays",
-    "price": "R3 251",
-    "handle": "xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
-    "url": "/products/xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
-    "qty": 56,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6370EU_Xiaomi-G27i-2026-27%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
+    "price": "R2 071",
+    "handle": "xiaomi-a24i-2026-24-144hz-full-hd-1080p-ips-office-monitor",
+    "url": "/products/xiaomi-a24i-2026-24-144hz-full-hd-1080p-ips-office-monitor",
+    "qty": 133,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6416EU_Xiaomi-A24i-2026-24-inch-144Hz-Full-HD-1080P-IPS-Office-Monitor_wr_01a.jpg"
+   },
+   {
+    "brand": "Xiaomi",
+    "title": "Xiaomi A27Qi 2026 27\" inch 120Hz 2K IPS Office Monitor",
+    "spec": "27\" screen",
+    "price": "R3 449",
+    "handle": "xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
+    "url": "/products/xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
+    "qty": 116,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6568EU_Xiaomi-A27Qi-2026-27-inch-2K-120Hz-IPS-Office-Monitor_wr_01a.jpg"
    },
    {
     "brand": "Samsung",
@@ -726,14 +716,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi G24i 2026 24″ 200Hz Full HD 1080p IPS Gaming Monitor",
+    "brand": "MSI",
+    "title": "MSI MAG 255F X24 25″ FHD 240Hz IPS Gaming Monitor",
     "spec": "Monitors And Displays",
-    "price": "R2 660",
-    "handle": "xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
-    "url": "/products/xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
-    "qty": 103,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6364EU_Xiaomi-G24i-2026-24%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
+    "price": "R2 661",
+    "handle": "msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
+    "url": "/products/msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
+    "qty": 138,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-X24_MSI-MAG-255F-X24-25-inch-FHD-240Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
     "brand": "HP",
@@ -1765,14 +1755,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/RD-H889WG_Redragon-H889W-SPECTRA-PRO-Over-Ear-Wireless-Headphones-White_wr_01a.jpg"
    },
    {
-    "brand": "Nearity",
-    "title": "Nearity AW-EP320 Wireless Headset Microphone",
+    "brand": "HP",
+    "title": "HP POLY 5220 Stereo USB-A Wired Black Headset",
     "spec": "Headsets",
-    "price": "R1 573",
-    "handle": "nearity-aw-ep320-wireless-headset-microphone",
-    "url": "/products/nearity-aw-ep320-wireless-headset-microphone",
-    "qty": 8,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_Design__66__4814.png"
+    "price": "R1 519",
+    "handle": "hp-poly-5220-stereo-usb-a-wired-black-headset",
+    "url": "/products/hp-poly-5220-stereo-usb-a-wired-black-headset",
+    "qty": 16,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/8/X/8X231AA_4dd6.png"
    },
    {
     "brand": "HP",
@@ -1941,23 +1931,23 @@
    },
    {
     "brand": "Patriot",
-    "title": "Patriot Transporter Lite 1TB USB3.2 Type-C External Portable SSD - Red",
+    "title": "Patriot PVP30 1TB Duo Compact External Portable SSD",
     "spec": "Storage",
     "price": "R2 265",
-    "handle": "patriot-transporter-lite-1tb-usb3-2-type-c-external-portable-ssd-red",
-    "url": "/products/patriot-transporter-lite-1tb-usb3-2-type-c-external-portable-ssd-red",
-    "qty": 25,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/PTPL1TBPEC_Patriot-Transporter-Lite-1TB-USB3.2-Type-C-External-Portable-SSD_wr_01.jpg"
+    "handle": "patriot-pvp30-1tb-duo-compact-external-portable-ssd",
+    "url": "/products/patriot-pvp30-1tb-duo-compact-external-portable-ssd",
+    "qty": 19,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/PVP301TB28UDG_Patriot-PVP30-1TB-Duo-Compact-External-Portable-SSD_wr_01.jpg"
    },
    {
-    "brand": "PATRIOT",
-    "title": "PATRIOT SSD VP4000 M.2 NVME 2TB 2230",
+    "brand": "SanDisk",
+    "title": "SanDisk Extreme Portable SSD (V3) - 1TB",
     "spec": "Storage",
-    "price": "R5 665",
-    "handle": "patriot-ssd-vp4000-m-2-nvme-2tb-2230",
-    "url": "/products/patriot-ssd-vp4000-m-2-nvme-2tb-2230",
-    "qty": 8,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/VP4000M2TBM23_Patriot-Viper-VP4000-Mini-2TB-M.2-2230-PCIe-Gen4x4-SSD_wr_01.jpg"
+    "price": "R5 929",
+    "handle": "sandisk-extreme-portable-ssd-v3-1tb",
+    "url": "/products/sandisk-extreme-portable-ssd-v3-1tb",
+    "qty": 9,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__2__954f.png"
    },
    {
     "brand": "SanDisk",
@@ -2232,14 +2222,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/BHR8930GL_wr_01.jpg"
    },
    {
-    "brand": "REDRAGON",
-    "title": "REDRAGON Over-Ear AURORA Gaming Headset - Black",
-    "spec": "Headsets",
-    "price": "R536",
-    "handle": "redragon-over-ear-aurora-gaming-headset-black",
-    "url": "/products/redragon-over-ear-aurora-gaming-headset-black",
-    "qty": 206,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/02/RD-H376BR_wr_01.jpg"
+    "brand": "UGREEN",
+    "title": "UGREEN HiTune S5 Open-Ear TWS Earbuds–Black",
+    "spec": "Tv And Audio",
+    "price": "R516",
+    "handle": "ugreen-hitune-s5-open-ear-tws-earbuds-black",
+    "url": "/products/ugreen-hitune-s5-open-ear-tws-earbuds-black",
+    "qty": 49,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/6941876247608_WS210-45760_02.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -2304,14 +2294,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2015/01/PDA-60-12_wr_01.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port 45W Universal AC Adapter (900096B-EU)",
+    "brand": "Dell",
+    "title": "Dell 65W 4.5MM AC Adapter",
     "spec": "Cables And Adapters",
-    "price": "R414",
-    "handle": "port-45w-universal-ac-adapter-900096b-eu",
-    "url": "/products/port-45w-universal-ac-adapter-900096b-eu",
-    "qty": 94,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__2__35ed.png"
+    "price": "R411",
+    "handle": "dell-65w-4-5mm-ac-adapter",
+    "url": "/products/dell-65w-4-5mm-ac-adapter",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/450-ALOF_default.jpg"
    },
    {
     "brand": "Lenovo",
