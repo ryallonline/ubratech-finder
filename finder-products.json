@@ -608,7 +608,7 @@
     "price": "R6 058",
     "handle": "dell-27-plus-s2725qs-27-4k-4ms-ips-monitor",
     "url": "/products/dell-27-plus-s2725qs-27-4k-4ms-ips-monitor",
-    "qty": 10,
+    "qty": 8,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQWM_f0f0.jpg"
    },
    {
@@ -760,14 +760,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GU30WPRO_wr_01a.jpg"
    },
    {
-    "brand": "Hikvision",
-    "title": "Hikvision 1000VA 1KVA UPS",
-    "spec": "1KVA UPS",
-    "price": "R1 024",
-    "handle": "hikvision-1000va-1kva-ups",
-    "url": "/products/hikvision-1000va-1kva-ups",
-    "qty": 406,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
+    "brand": "Lalela",
+    "title": "Lalela R1818 Wi-Fi UPS for Router and ONT 48.8WH 6-8 Hour Runtime",
+    "spec": "Ups And Power",
+    "price": "R442",
+    "handle": "lalela-r1818-wi-fi-ups-for-router-and-ont-48-8wh-6-8-hour-runtime",
+    "url": "/products/lalela-r1818-wi-fi-ups-for-router-and-ont-48-8wh-6-8-hour-runtime",
+    "qty": 11,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/LAL-R1818_default.jpg"
    },
    {
     "brand": "APC",
@@ -814,33 +814,23 @@
    },
    {
     "brand": "APC",
-    "title": "APC Back-UPS 1200VA / 650W",
-    "spec": "Backs up a PC + screen",
-    "price": "R2 467",
-    "handle": "apc-backup-ups-1200va-1-2kva-650w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
-    "url": "https://ubratech.co.za/products/apc-backup-ups-1200va-1-2kva-650w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
-    "qty": 1,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BX1200MI_default.jpg"
+    "title": "APC Backup UPS 750VA 410W UPS Tower Rack mount included: No Rack…",
+    "spec": "Ups And Power",
+    "price": "R1 510",
+    "handle": "apc-backup-ups-750va-410w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
+    "url": "/products/apc-backup-ups-750va-410w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
+    "qty": 44,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BX750MI_default.jpg"
    },
    {
     "brand": "Eaton",
-    "title": "Eaton 5E 900VA GEN2 USB IEC UPS",
+    "title": "Eaton 5E 2200VA GEN2 USB IEC UPS",
     "spec": "Ups And Power",
-    "price": "R1 648",
-    "handle": "eaton-5e-900va-gen2-usb-iec-ups",
-    "url": "/products/eaton-5e-900va-gen2-usb-iec-ups",
-    "qty": 50,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E900UI_761f.png"
-   },
-   {
-    "brand": "Eaton",
-    "title": "Eaton 5E 1600VA GEN2 USB IEC UPS",
-    "spec": "Ups And Power",
-    "price": "R2 972",
-    "handle": "eaton-5e-1600va-gen2-usb-iec-ups",
-    "url": "/products/eaton-5e-1600va-gen2-usb-iec-ups",
-    "qty": 10,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
+    "price": "R3 701",
+    "handle": "eaton-5e-2200va-gen2-usb-iec-ups",
+    "url": "/products/eaton-5e-2200va-gen2-usb-iec-ups",
+    "qty": 6,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E2200UI_1_03c6.png"
    },
    {
     "brand": "APC",
