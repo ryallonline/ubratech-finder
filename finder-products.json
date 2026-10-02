@@ -127,13 +127,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP ZBook 8 G1i Laptop — Core Ultra 5 · 24GB · 1TB SSD (DM7P4ES)",
-    "spec": "1TB SSD",
-    "price": "R40 798",
-    "handle": "hp-zbook-8-g1i-14inch-dsc-rtx-500-ada-4gb-u5-225h-lcd-14-0wuxgaagled300uwvafwwanf5mpirlpln-ram-24gb-ddr5-5600-ssd-1tb-pcie4x4-nvme-tlc-ost-w11p6-hp-3y-onsite-mws-supp-no-country-of-origin-restriction",
-    "url": "/products/hp-zbook-8-g1i-14inch-dsc-rtx-500-ada-4gb-u5-225h-lcd-14-0wuxgaagled300uwvafwwanf5mpirlpln-ram-24gb-ddr5-5600-ssd-1tb-pcie4x4-nvme-tlc-ost-w11p6-hp-3y-onsite-mws-supp-no-country-of-origin-restriction",
-    "qty": 14,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DM7P4ES_default.jpg"
+    "title": "HP Elitebook 6 G1i 14\" AI Core U7-255U 16GB 512GB Win 11 Pro Notebook",
+    "spec": "14\" screen",
+    "price": "R40 690",
+    "handle": "hp-elitebook-6-g1i-14-ai-core-u7-255u-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/hp-elitebook-6-g1i-14-ai-core-u7-255u-16gb-512gb-win-11-pro-notebook",
+    "qty": 16,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/K/CK8G9EA_80b8.jpg"
    },
    {
     "brand": "Dell",
@@ -270,7 +270,7 @@
     "price": "R25 861",
     "handle": "dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
     "url": "https://ubratech.co.za/products/dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
-    "qty": 8,
+    "qty": 54,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO105_QCS1250_EMEA_default.png"
    },
    {
@@ -322,7 +322,7 @@
     "price": "R25 861",
     "handle": "dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
     "url": "https://ubratech.co.za/products/dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
-    "qty": 8,
+    "qty": 54,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO105_QCS1250_EMEA_default.png"
    },
    {
@@ -384,7 +384,7 @@
     "price": "R72 632",
     "handle": "dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
     "url": "/products/dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
-    "qty": 22,
+    "qty": 21,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PW516261-U7-321TB-5G_default.jpg"
    }
   ]
@@ -546,7 +546,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 254,
+    "qty": 253,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -570,14 +570,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPN_default.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo L15 15\" FHD IPS USB-C Portable Monitor",
-    "spec": "15\" screen",
-    "price": "R3 253",
-    "handle": "lenovo-l15-15-fhd-ips-usb-c-portable-monitor",
-    "url": "/products/lenovo-l15-15-fhd-ips-usb-c-portable-monitor",
-    "qty": 1,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/6/6/66E4UAC1WL_e99a.jpg"
+    "brand": "Port",
+    "title": "Port Connect 15.6\" Full HD Touchscreen Portable Monitor",
+    "spec": "15.6\" screen",
+    "price": "R3 285",
+    "handle": "port-connect-15-6-full-hd-touchscreen-portable-monitor",
+    "url": "/products/port-connect-15-6-full-hd-touchscreen-portable-monitor",
+    "qty": 17,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/902101T-WR-01b.jpg"
    },
    {
     "brand": "LG",
@@ -640,7 +640,7 @@
     "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 319,
+    "qty": 269,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -692,7 +692,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 254,
+    "qty": 253,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -819,7 +819,7 @@
     "price": "R3 701",
     "handle": "eaton-5e-2200va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-2200va-gen2-usb-iec-ups",
-    "qty": 6,
+    "qty": 4,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E2200UI_1_03c6.png"
    },
    {
@@ -883,7 +883,7 @@
     "price": "R3 701",
     "handle": "eaton-5e-2200va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-2200va-gen2-usb-iec-ups",
-    "qty": 6,
+    "qty": 4,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E2200UI_1_03c6.png"
    },
    {
@@ -1563,7 +1563,7 @@
     "price": "R230",
     "handle": "port-usb-c-mini-with-hdmi-docking-station",
     "url": "https://ubratech.co.za/products/port-usb-c-mini-with-hdmi-docking-station",
-    "qty": 112,
+    "qty": 102,
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900140_0708.jpg"
    },
    {
@@ -1615,7 +1615,7 @@
     "price": "R230",
     "handle": "port-usb-c-mini-with-hdmi-docking-station",
     "url": "/products/port-usb-c-mini-with-hdmi-docking-station",
-    "qty": 112,
+    "qty": 102,
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900140_0708.jpg"
    },
    {
@@ -1677,7 +1677,7 @@
     "price": "R230",
     "handle": "port-usb-c-mini-with-hdmi-docking-station",
     "url": "/products/port-usb-c-mini-with-hdmi-docking-station",
-    "qty": 112,
+    "qty": 102,
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900140_0708.jpg"
    },
    {
@@ -1692,11 +1692,11 @@
    },
    {
     "brand": "UGreen",
-    "title": "UGreen 14-in-1 USB Type-C TO USB/2x HDMI/DP/RJ45 Docking Station",
+    "title": "UGreen 14-in-1 USB Type-C TO USB Docking Station (1x HDMI | 2x DP | RJ45)",
     "spec": "Docking Station",
     "price": "R2 649",
-    "handle": "ugreen-14-in-1-usb-type-c-to-usb-2x-hdmi-dp-rj45-docking-station",
-    "url": "/products/ugreen-14-in-1-usb-type-c-to-usb-2x-hdmi-dp-rj45-docking-station",
+    "handle": "ugreen-14-in-1-usb-type-c-to-usb-docking-station-1x-hdmi-2x-dp-rj45",
+    "url": "/products/ugreen-14-in-1-usb-type-c-to-usb-docking-station-1x-hdmi-2x-dp-rj45",
     "qty": 5,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/CM843-85489_UGreen_USB_Type-C_TO_USB2x_HDMIDPRJ45_Do_wr_01.jpg"
    }
@@ -2336,14 +2336,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B6AA_e2c9.jpg"
    },
    {
-    "brand": "Redragon",
-    "title": "Redragon BRAGI PRO K688 98+1 Gasket Wireless Mechanical Keyboard…",
+    "brand": "REDRAGON",
+    "title": "REDRAGON Horus Mini Pro 61Key Wireless Bluetooth Red Switch RGB Low…",
     "spec": "Keyboards",
     "price": "R737",
-    "handle": "redragon-bragi-pro-k688-98-1-gasket-wireless-mechanical-keyboard-triple-mode-rgb-hot-swappable-cream-linear-switches",
-    "url": "/products/redragon-bragi-pro-k688-98-1-gasket-wireless-mechanical-keyboard-triple-mode-rgb-hot-swappable-cream-linear-switches",
-    "qty": 35,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/RD-K688GB-RGB-PRO_REDRAGON-KB-MECH-BRAGI-PRO-RGB-BK_wr_01.jpg"
+    "handle": "redragon-horus-mini-pro-61key-wireless-bluetooth-red-switch-rgb-low-profile-gaming-mechanical-keyboard-black",
+    "url": "/products/redragon-horus-mini-pro-61key-wireless-bluetooth-red-switch-rgb-low-profile-gaming-mechanical-keyboard-black",
+    "qty": 55,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/11/RD-K632RGB-PRO_wr_01.jpg"
    },
    {
     "brand": "Corsair",
