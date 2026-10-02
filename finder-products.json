@@ -117,13 +117,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP ProBook 4 G2i AI 14in Laptop — 16GB · 512GB SSD (DS5H9ET)",
+    "title": "HP ProBook 4 G2i AI 16in Laptop — 16GB · 512GB SSD (DS5L6ET)",
     "spec": "512GB SSD",
-    "price": "R31 379",
-    "handle": "hp-probook-4-g2i-ai-14in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "url": "/products/hp-probook-4-g2i-ai-14in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "qty": 23,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DS5H9ET_default.png"
+    "price": "R31 493",
+    "handle": "hp-probook-4-g2i-ai-16in-intel-core-7-350-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "url": "/products/hp-probook-4-g2i-ai-16in-intel-core-7-350-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "qty": 96,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DS5L6ET_default.png"
    },
    {
     "brand": "HP",
@@ -174,7 +174,7 @@
     "price": "R18 258",
     "handle": "hp-probook-4-g1ah-16-radeon-740m-wuxga-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
     "url": "/products/hp-probook-4-g1ah-16-radeon-740m-wuxga-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
-    "qty": 118,
+    "qty": 117,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KSAT_9f51.jpg"
    },
    {
@@ -285,13 +285,13 @@
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder Ryzen 5 8600G WARDEN Windows 11 Gaming PC",
+    "title": "PCBuilder Intel i5-12400 OFFICE MASTER Core Windows 11 Pro Desktop PC",
     "spec": "Desktops",
-    "price": "R15 767",
-    "handle": "pcbuilder-ryzen-5-8600g-warden-windows-11-gaming-pc",
-    "url": "/products/pcbuilder-ryzen-5-8600g-warden-windows-11-gaming-pc",
-    "qty": 9,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_WARDEN_02_PCBuilder-Ryzen-5-8600G-WARDEN-Windows-11-Gaming-PC_wr_01a.jpg"
+    "price": "R15 073",
+    "handle": "pcbuilder-intel-i5-12400-office-master-core-windows-11-pro-desktop-pc",
+    "url": "/products/pcbuilder-intel-i5-12400-office-master-core-windows-11-pro-desktop-pc",
+    "qty": 4,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/01/PCB_OFFICE_I516G-V3_wr_01e.jpg"
    },
    {
     "brand": "PCBuilder",
@@ -336,14 +336,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO104_QCT1250_EMEA_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro Micro QCM1250 Core U5-235T 16GB 512GB Win 11 Pro Desktop",
+    "brand": "HP",
+    "title": "HP ProDesk 4 G1i AI Ultra 7-265T 16GB 512GB Win 11 Pro Mini Desktop",
     "spec": "Desktops",
-    "price": "R30 070",
-    "handle": "dell-pro-micro-qcm1250-core-u5-235t-16gb-512gb-win-11-pro-desktop",
-    "url": "/products/dell-pro-micro-qcm1250-core-u5-235t-16gb-512gb-win-11-pro-desktop",
-    "qty": 14,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/T/BTO106_QCM1250_2eba.jpg"
+    "price": "R28 875",
+    "handle": "hp-prodesk-4-g1i-ai-ultra-7-265t-16gb-512gb-win-11-pro-mini-desktop",
+    "url": "/products/hp-prodesk-4-g1i-ai-ultra-7-265t-16gb-512gb-win-11-pro-mini-desktop",
+    "qty": 159,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/B/Y/BY6U6ET_5ec1.jpg"
    },
    {
     "brand": "PCBuilder",
@@ -393,23 +393,23 @@
   "entry": [
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder Ryzen 5 8600G WARDEN Windows 11 Gaming PC",
+    "title": "PCBuilder Ryzen 5 5600GT DEFENDER Windows 11 Gaming PC",
     "spec": "Desktops",
-    "price": "R15 767",
-    "handle": "pcbuilder-ryzen-5-8600g-warden-windows-11-gaming-pc",
-    "url": "/products/pcbuilder-ryzen-5-8600g-warden-windows-11-gaming-pc",
-    "qty": 9,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_WARDEN_02_PCBuilder-Ryzen-5-8600G-WARDEN-Windows-11-Gaming-PC_wr_01a.jpg"
+    "price": "R12 812",
+    "handle": "pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
+    "url": "/products/pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
+    "qty": 10,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_DEFENDER_05_wr_01e.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus ROG G700 Intel Ultra 5 255F Gaming PC | 16GB DDR5 | 1TB SSD | Win 11 Home",
-    "spec": "1TB SSD",
-    "price": "R20 525",
-    "handle": "asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
-    "url": "/products/asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
-    "qty": 7,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg"
+    "brand": "Acer",
+    "title": "Acer NITRO V 15 Gaming Laptop 15.6″ | Laptop (NH.QUAEA.00C)",
+    "spec": "Notebooks",
+    "price": "R19 139",
+    "handle": "acer-nitro-v-15-gaming-laptop-15-6-intel-core-5-210h-16gb-512gb-rtx-4050-6gb-windows-11-home",
+    "url": "/products/acer-nitro-v-15-gaming-laptop-15-6-intel-core-5-210h-16gb-512gb-rtx-4050-6gb-windows-11-home",
+    "qty": 8,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NH.QUAEA_.00C_Acer-NITRO-V-15-Gaming-Laptop-15.6inch_wr001.jpg"
    },
    {
     "brand": "Acer",
@@ -497,23 +497,23 @@
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder Ryzen 5 8600G WARDEN Windows 11 Gaming PC",
+    "title": "PCBuilder Ryzen 5 5600GT DEFENDER Windows 11 Gaming PC",
     "spec": "Desktops",
-    "price": "R15 767",
-    "handle": "pcbuilder-ryzen-5-8600g-warden-windows-11-gaming-pc",
-    "url": "/products/pcbuilder-ryzen-5-8600g-warden-windows-11-gaming-pc",
-    "qty": 9,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_WARDEN_02_PCBuilder-Ryzen-5-8600G-WARDEN-Windows-11-Gaming-PC_wr_01a.jpg"
+    "price": "R12 812",
+    "handle": "pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
+    "url": "/products/pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
+    "qty": 10,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_DEFENDER_05_wr_01e.jpg"
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder Ryzen 5 7600 SPECIALIST Windows 11 Gaming PC (PCB_SPECIALIST_07)",
+    "title": "PCBuilder Ryzen 5 8400F RECON Windows 11 Gaming PC (PCB_RECON_02)",
     "spec": "Desktops",
-    "price": "R33 509",
-    "handle": "pcbuilder-ryzen-5-7600-specialist-windows-11-gaming-pc-pcb-specialist-07",
-    "url": "/products/pcbuilder-ryzen-5-7600-specialist-windows-11-gaming-pc-pcb-specialist-07",
-    "qty": 9,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_SPECIALIST_07_PCBuilder-Ryzen-5-7600-SPECIALIST-Windows-11-Gaming-PC_wr_01b.jpg"
+    "price": "R26 605",
+    "handle": "pcbuilder-ryzen-5-8400f-recon-windows-11-gaming-pc-pcb-recon-02",
+    "url": "/products/pcbuilder-ryzen-5-8400f-recon-windows-11-gaming-pc-pcb-recon-02",
+    "qty": 5,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_RECON_02_PCBuilder-Ryzen-5-8400F-RECON-Windows-11-Gaming-PC_wr_01b.jpg"
    },
    {
     "brand": "PCBuilder",
@@ -560,24 +560,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 27 Monitor - E2726H 1x HDMI, 1x DP, 1x VGA (Includes DP & Power Cable)",
-    "spec": "Monitors And Displays",
-    "price": "R2 444",
-    "handle": "dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
-    "url": "/products/dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
-    "qty": 50,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPN_default.jpg"
+    "brand": "MSI",
+    "title": "MSI MAG 255F E20 25\" FHD 200Hz Rapid IPS Gaming Monitor",
+    "spec": "25\" screen",
+    "price": "R2 461",
+    "handle": "msi-mag-255f-e20-25-fhd-200hz-rapid-ips-gaming-monitor",
+    "url": "/products/msi-mag-255f-e20-25-fhd-200hz-rapid-ips-gaming-monitor",
+    "qty": 202,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-E20_MSI-MAG-255F-E20-25-inch-FHD-200Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port Connect 15.6\" Full HD Touchscreen Portable Monitor",
-    "spec": "15.6\" screen",
-    "price": "R3 285",
-    "handle": "port-connect-15-6-full-hd-touchscreen-portable-monitor",
-    "url": "/products/port-connect-15-6-full-hd-touchscreen-portable-monitor",
-    "qty": 17,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/902101T-WR-01b.jpg"
+    "brand": "Lenovo",
+    "title": "Lenovo L15 15\" FHD IPS USB-C Portable Monitor",
+    "spec": "15\" screen",
+    "price": "R3 253",
+    "handle": "lenovo-l15-15-fhd-ips-usb-c-portable-monitor",
+    "url": "/products/lenovo-l15-15-fhd-ips-usb-c-portable-monitor",
+    "qty": 1,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/6/6/66E4UAC1WL_e99a.jpg"
    },
    {
     "brand": "LG",
@@ -598,7 +598,7 @@
     "price": "R6 410",
     "handle": "msi-mag-325qf-e18v-32-wqhd-180hz-va-gaming-monitor",
     "url": "/products/msi-mag-325qf-e18v-32-wqhd-180hz-va-gaming-monitor",
-    "qty": 6,
+    "qty": 4,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-325QF-E18V_MSI-MAG-325QF-E18V-32-inch-WQHD-180Hz-VA-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
@@ -612,14 +612,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BRDR_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell UltraSharp 43 4K USB C Hub U4323QE 107.9c 42.5\" Monitor",
-    "spec": "42.5\" screen",
-    "price": "R21 473",
-    "handle": "dell-ultrasharp-43-4k-usb-c-hub-monitor-u4323qe-107-9cm-42-5-2-x-hdmi-2-x-displayport-1-4-lan-rj-45-3-year-basic-exchange-warranty",
-    "url": "/products/dell-ultrasharp-43-4k-usb-c-hub-monitor-u4323qe-107-9cm-42-5-2-x-hdmi-2-x-displayport-1-4-lan-rj-45-3-year-basic-exchange-warranty",
-    "qty": 17,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BFIS_default.png"
+    "brand": "Asus",
+    "title": "Asus ROG Strix 27\" QD-OLED HDR 400 True Black 480Hz Gaming Monitor",
+    "spec": "27\" screen",
+    "price": "R21 218",
+    "handle": "asus-rog-strix-27-qd-oled-hdr-400-true-black-480hz-gaming-monitor",
+    "url": "/products/asus-rog-strix-27-qd-oled-hdr-400-true-black-480hz-gaming-monitor",
+    "qty": 1,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PG27AQDP_Asus_ROG_Strix_27_QD-OLED_HDR_400_True_B_wr_01.png"
    },
    {
     "brand": "Asus",
@@ -640,7 +640,7 @@
     "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 269,
+    "qty": 266,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -732,7 +732,7 @@
     "price": "R8 570",
     "handle": "xiaomi-g-pro-27i-27-2k-1440p-mini-led-ips-gaming-monitor-180hz-1ms",
     "url": "/products/xiaomi-g-pro-27i-27-2k-1440p-mini-led-ips-gaming-monitor-180hz-1ms",
-    "qty": 27,
+    "qty": 26,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/ELA5585EU_Xiaomi-G-Pro-27i_27-inch_2k_qhd_gaming_monitor_wr_01b.jpg"
    }
   ]
@@ -746,7 +746,7 @@
     "price": "R285",
     "handle": "gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "url": "/products/gizzu-30w-38wh-10400mah-mini-dc-ups-black",
-    "qty": 136,
+    "qty": 132,
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GU30WPRO_wr_01a.jpg"
    },
    {
@@ -913,7 +913,7 @@
     "price": "R24 962",
     "handle": "gizzu-hero-ultra-plus-3840wh-ups-power-station",
     "url": "/products/gizzu-hero-ultra-plus-3840wh-ups-power-station",
-    "qty": 17,
+    "qty": 16,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/01/GPS3800UE_wr_01a.jpg"
    }
   ],
@@ -1169,7 +1169,7 @@
     "price": "R10 427",
     "handle": "hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
     "url": "https://ubratech.co.za/products/hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
-    "qty": 84,
+    "qty": 80,
     "image": "https://s3.amazonaws.com/tarsus.co.za/3PZ55A_default.png"
    },
    {
@@ -1179,7 +1179,7 @@
     "price": "R725",
     "handle": "canon-pixma-mg2541s-inkjet-mfp-3-in-1-a4-grey-a4-mfp-print-copy-and-scan-8ipm-mono-4-0ipm-colour-4800-x-600-print-resolution-600-x-1200-dpi-scan-resolution-60-sheet-rear-tray-manual-duplex-usb-4-ink",
     "url": "/products/canon-pixma-mg2541s-inkjet-mfp-3-in-1-a4-grey-a4-mfp-print-copy-and-scan-8ipm-mono-4-0ipm-colour-4800-x-600-print-resolution-600-x-1200-dpi-scan-resolution-60-sheet-rear-tray-manual-duplex-usb-4-ink",
-    "qty": 8,
+    "qty": 7,
     "image": "https://s3.amazonaws.com/tarsus.co.za/0727C067AA_default.png"
    },
    {
@@ -1283,7 +1283,7 @@
     "price": "R10 427",
     "handle": "hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
     "url": "https://ubratech.co.za/products/hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
-    "qty": 84,
+    "qty": 80,
     "image": "https://s3.amazonaws.com/tarsus.co.za/3PZ55A_default.png"
    },
    {
@@ -1667,7 +1667,7 @@
     "price": "R166",
     "handle": "ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
     "url": "/products/ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
-    "qty": 130,
+    "qty": 124,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CR113-20290_UGREEN-4-Port-USB-3.0-Hub-with-Micro-USB_wr_01a.jpg"
    },
    {
@@ -1930,14 +1930,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/PTPL1TBPEC_Patriot-Transporter-Lite-1TB-USB3.2-Type-C-External-Portable-SSD_wr_01.jpg"
    },
    {
-    "brand": "PATRIOT",
-    "title": "PATRIOT SSD VP4000 M.2 NVME 2TB 2230",
+    "brand": "SanDisk",
+    "title": "SanDisk Extreme Portable SSD (V3) - 1TB",
     "spec": "Storage",
-    "price": "R5 665",
-    "handle": "patriot-ssd-vp4000-m-2-nvme-2tb-2230",
-    "url": "/products/patriot-ssd-vp4000-m-2-nvme-2tb-2230",
-    "qty": 8,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/VP4000M2TBM23_Patriot-Viper-VP4000-Mini-2TB-M.2-2230-PCIe-Gen4x4-SSD_wr_01.jpg"
+    "price": "R5 929",
+    "handle": "sandisk-extreme-portable-ssd-v3-1tb",
+    "url": "/products/sandisk-extreme-portable-ssd-v3-1tb",
+    "qty": 9,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__2__954f.png"
    },
    {
     "brand": "SanDisk",
@@ -1978,7 +1978,7 @@
     "price": "R452",
     "handle": "hiksemi-future-8gb-1600mhz-8gb-x-1-so-dimm-memory-module",
     "url": "/products/hiksemi-future-8gb-1600mhz-8gb-x-1-so-dimm-memory-module",
-    "qty": 113,
+    "qty": 112,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/HSC308S16Z1-8G_wr_-2.jpg"
    },
    {
@@ -2030,7 +2030,7 @@
     "price": "R6 512",
     "handle": "asrock-radeon-rx7600-challenger-8g-oc-gddr6-128-bit-graphics-card",
     "url": "/products/asrock-radeon-rx7600-challenger-8g-oc-gddr6-128-bit-graphics-card",
-    "qty": 24,
+    "qty": 23,
     "image": "https://www.syntech.co.za/wp-content/uploads/2023/08/RX7600CHALLENGER8GOC_wr_01.jpg"
    },
    {
@@ -2073,7 +2073,7 @@
     "handle": "gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "url": "https://ubratech.co.za/products/gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GU30WPRO_wr_01a.jpg",
-    "qty": 136
+    "qty": 132
    },
    {
     "brand": "Antec",
@@ -2274,14 +2274,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "UGREEN",
-    "title": "UGREEN Bluetooth 5.4 USB Adapter",
-    "spec": "Cables And Adapters",
+    "brand": "PD",
+    "title": "PD Power 12V 5A Desktop PSU Adapter",
+    "spec": "Power Adapter",
     "price": "R120",
-    "handle": "ugreen-bluetooth-5-4-usb-adapter",
-    "url": "/products/ugreen-bluetooth-5-4-usb-adapter",
-    "qty": 201,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM748-35058_UGreen-Bluetooth-5.4-USB-Adapter_wr_01.jpg"
+    "handle": "pd-power-12v-5a-desktop-psu-adapter",
+    "url": "/products/pd-power-12v-5a-desktop-psu-adapter",
+    "qty": 142,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2015/01/PDA-60-12_wr_01.jpg"
    },
    {
     "brand": "Port",
@@ -2327,13 +2327,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP 400 Quiet Wireless Maple Mouse",
+    "title": "HP 235 Wireless Keyboard & Mouse Combo",
     "spec": "Wired Mouse",
-    "price": "R368",
-    "handle": "hp-400-quiet-wireless-maple-mouse",
-    "url": "/products/hp-400-quiet-wireless-maple-mouse",
-    "qty": 98,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B6AA_e2c9.jpg"
+    "price": "R369",
+    "handle": "hp-235-wireless-keyboard-mouse-combo",
+    "url": "/products/hp-235-wireless-keyboard-mouse-combo",
+    "qty": 129,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_0ec7.png"
    },
    {
     "brand": "REDRAGON",
