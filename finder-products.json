@@ -546,7 +546,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 252,
+    "qty": 262,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -640,7 +640,7 @@
     "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 266,
+    "qty": 268,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -692,7 +692,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 252,
+    "qty": 262,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -2285,14 +2285,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "UGREEN",
-    "title": "UGREEN Bluetooth 5.4 USB Adapter",
-    "spec": "Cables And Adapters",
+    "brand": "PD",
+    "title": "PD Power 12V 5A Desktop PSU Adapter",
+    "spec": "Power Adapter",
     "price": "R120",
-    "handle": "ugreen-bluetooth-5-4-usb-adapter",
-    "url": "/products/ugreen-bluetooth-5-4-usb-adapter",
-    "qty": 201,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM748-35058_UGreen-Bluetooth-5.4-USB-Adapter_wr_01.jpg"
+    "handle": "pd-power-12v-5a-desktop-psu-adapter",
+    "url": "/products/pd-power-12v-5a-desktop-psu-adapter",
+    "qty": 142,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2015/01/PDA-60-12_wr_01.jpg"
    },
    {
     "brand": "Redragon",
