@@ -80,7 +80,7 @@
     "price": "R17 243",
     "handle": "acer-extensa-15-6-laptop-intel-core-i5-120u-16gb-ddr5-512gb-nvme-intel-graphics-windows-11-pro",
     "url": "/products/acer-extensa-15-6-laptop-intel-core-i5-120u-16gb-ddr5-512gb-nvme-intel-graphics-windows-11-pro",
-    "qty": 2,
+    "qty": 1,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/NX_EJ9EA_011_Acer_Extensa_156_Laptop_Intel_Core_i5-12_wr_01.png"
    },
    {
@@ -640,7 +640,7 @@
     "price": "R2 002",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 725,
+    "qty": 724,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -670,7 +670,7 @@
     "price": "R8 360",
     "handle": "samsung-odyssey-g55t-gaming-1000r-borderless-34-display-va-response-1ms-mprt-ar-21-9-resolution-3440x1440-uwqhd-rr-165hz-hdmi-display-port-speaker-no-power-supply-external-tilt-yes-swivel-no-pivot-no",
     "url": "/products/samsung-odyssey-g55t-gaming-1000r-borderless-34-display-va-response-1ms-mprt-ar-21-9-resolution-3440x1440-uwqhd-rr-165hz-hdmi-display-port-speaker-no-power-supply-external-tilt-yes-swivel-no-pivot-no",
-    "qty": 9,
+    "qty": 7,
     "image": "https://s3.amazonaws.com/tarsus.co.za/LC34G55TWWPXEN_default.png"
    },
    {
@@ -810,7 +810,7 @@
     "price": "R1 024",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 405,
+    "qty": 403,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -984,14 +984,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/06/M1200-1PACK_wr_01a.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi Mesh System AX3000 NE Whole-Home Wi-Fi 6 Router (1-Pack) – White",
+    "brand": "Cudy",
+    "title": "Cudy AX3000 Wi-Fi 6 Mesh Kit 1 Pack - White",
     "spec": "Wi-Fi 6",
-    "price": "R1 164",
-    "handle": "xiaomi-mesh-system-ax3000-ne-whole-home-wi-fi-6-router-1-pack-white",
-    "url": "/products/xiaomi-mesh-system-ax3000-ne-whole-home-wi-fi-6-router-1-pack-white",
-    "qty": 14,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/DVB4459GL_Xiaomi-Mesh-AX3000-NE-Wi-Fi-6-Router-1-Pck_01.jpeg"
+    "price": "R1 111",
+    "handle": "cudy-ax3000-wi-fi-6-mesh-kit-1-pack-white",
+    "url": "/products/cudy-ax3000-wi-fi-6-mesh-kit-1-pack-white",
+    "qty": 98,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/Cudy_M3000W-1PACK_wr_01a.jpg"
    },
    {
     "brand": "Mercusys",
@@ -1042,7 +1042,7 @@
     "price": "R1 522",
     "handle": "xiaomi-ac1200-whole-home-mesh-wi-fi-system-2-pack",
     "url": "/products/xiaomi-ac1200-whole-home-mesh-wi-fi-system-2-pack",
-    "qty": 42,
+    "qty": 38,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/DVB4451GL_wr_01.jpg"
    },
    {
@@ -1157,7 +1157,7 @@
     "brand": "HP",
     "title": "HP LaserJet Pro MFP 4103FDW Mono All-in-One",
     "spec": "Laser · sharp text · low running cost",
-    "price": "R7 563",
+    "price": "R8 227",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "qty": 53,
@@ -1207,7 +1207,7 @@
     "brand": "HP",
     "title": "HP Color All-in-One Printer (5HH65A)",
     "spec": "Printers",
-    "price": "R8 888",
+    "price": "R8 801",
     "handle": "hp-color-laserjet-pro-4303dw-mfp-print-copy-scan-4-preinstalled-introductory-hp-laserjet-toner-cartridges-black-2000-pages-introductoy-cyan-magenta-yellow-1-000-pages-black-a4-normal-up-to-33-ppm",
     "url": "/products/hp-color-laserjet-pro-4303dw-mfp-print-copy-scan-4-preinstalled-introductory-hp-laserjet-toner-cartridges-black-2000-pages-introductoy-cyan-magenta-yellow-1-000-pages-black-a4-normal-up-to-33-ppm",
     "qty": 99,
@@ -1252,7 +1252,7 @@
     "price": "R6 505",
     "handle": "hp-smart-tank-750-print-scan-copy-up-to-15-9-ppm-automatic-duplex-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-2-contextual-display-with-id-copy-low-on-ink-sensor-30-000",
     "url": "/products/hp-smart-tank-750-print-scan-copy-up-to-15-9-ppm-automatic-duplex-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-2-contextual-display-with-id-copy-low-on-ink-sensor-30-000",
-    "qty": 22,
+    "qty": 20,
     "image": "https://s3.amazonaws.com/tarsus.co.za/6UU47A_default.jpg"
    },
    {
@@ -1271,7 +1271,7 @@
     "brand": "HP",
     "title": "HP LaserJet Pro MFP 4103FDW Mono All-in-One",
     "spec": "All-in-one · built for an office",
-    "price": "R7 563",
+    "price": "R8 227",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "qty": 53,
@@ -1291,17 +1291,17 @@
     "brand": "HP",
     "title": "HP LaserJet MFP M442dn Print All-in-One Printer (8AF71A)",
     "spec": "Printers",
-    "price": "R13 639",
+    "price": "R13 997",
     "handle": "hp-laserjet-mfp-m442dn-print-copy-scan-to-24-ppm-black-a3-normal-up-to-12-ppm-monthly-duty-cycle-up-to-50-000-pages-per-month-a4-recommended-monthly-page-volume-2-000-to-5-000-350-sheets-standard-600",
     "url": "/products/hp-laserjet-mfp-m442dn-print-copy-scan-to-24-ppm-black-a3-normal-up-to-12-ppm-monthly-duty-cycle-up-to-50-000-pages-per-month-a4-recommended-monthly-page-volume-2-000-to-5-000-350-sheets-standard-600",
-    "qty": 8,
+    "qty": 7,
     "image": "https://s3.amazonaws.com/tarsus.co.za/8AF71A_default.jpg"
    },
    {
     "brand": "HP",
     "title": "HP LaserJet Enterprise Flow MFP M636z All-in-One Printer",
     "spec": "Printers",
-    "price": "R96 797",
+    "price": "R82 670",
     "handle": "hp-laserjet-enterprise-flow-mfp-m636z-pages-per-minute-71-75-page-size-a4-mono-b-w-function-mfp-print-resolution-1200-x1200-dpi",
     "url": "/products/hp-laserjet-enterprise-flow-mfp-m636z-pages-per-minute-71-75-page-size-a4-mono-b-w-function-mfp-print-resolution-1200-x1200-dpi",
     "qty": 2,
@@ -1776,7 +1776,18 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/7Y8G4AA_default.png"
    }
   ],
-  "board": []
+  "board": [
+   {
+    "brand": "Logitech",
+    "title": "Logitech C920s Pro Full-HD USB Webcam",
+    "spec": "Sharp video for meeting rooms",
+    "price": "R1 660",
+    "handle": "logitech-c920s-pro-full-hd-usb-webcam",
+    "url": "https://ubratech.co.za/products/logitech-c920s-pro-full-hd-usb-webcam",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/960_001252_9ebb.jpg",
+    "qty": 6
+   }
+  ]
  },
  "netgear": {
   "switch": [
@@ -1914,11 +1925,11 @@
     "brand": "Seagate",
     "title": "Seagate IronWolf NAS 8TB 3.5\" SATA HDD",
     "spec": "NAS-grade · always-on",
-    "price": "R6 781",
+    "price": "R6 501",
     "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
-    "qty": 100
+    "qty": 29
    },
    {
     "brand": "UGREEN",
@@ -2223,14 +2234,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/02/RD-H376BR_wr_01.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi Redmi Headphones Neo ANC Wireless Over-Ears – Black",
-    "spec": "Tv And Audio",
-    "price": "R1 213",
-    "handle": "xiaomi-redmi-headphones-neo-anc-wireless-over-ears-black",
-    "url": "/products/xiaomi-redmi-headphones-neo-anc-wireless-over-ears-black",
-    "qty": 28,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/BHR08W5GL_Redmi-Headphones-Neo-ANC-Wireless-Over-Ears-Black_wr_01a.jpg"
+    "brand": "Dell",
+    "title": "Dell WH3024 Wired Headset",
+    "spec": "Headsets",
+    "price": "R1 239",
+    "handle": "dell-wh3024-wired-headset",
+    "url": "/products/dell-wh3024-wired-headset",
+    "qty": 80,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/5/2/520_BBDH_a863.png"
    },
    {
     "brand": "Poly",
@@ -2317,6 +2328,26 @@
     "qty": 6
    },
    {
+    "brand": "Logitech",
+    "title": "Logitech MK540 Advanced Wireless Combo",
+    "spec": "Keyboard & mouse · palm rest",
+    "price": "R859",
+    "handle": "logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
+    "url": "https://ubratech.co.za/products/logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
+    "image": "https://s3.amazonaws.com/tarsus.co.za/920-008685_default.jpg",
+    "qty": 29
+   },
+   {
+    "brand": "Logitech",
+    "title": "Logitech C920s Pro Full-HD Webcam",
+    "spec": "Sharp video for calls",
+    "price": "R1 660",
+    "handle": "logitech-c920s-pro-full-hd-usb-webcam",
+    "url": "https://ubratech.co.za/products/logitech-c920s-pro-full-hd-usb-webcam",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/960_001252_9ebb.jpg",
+    "qty": 6
+   },
+   {
     "brand": "Redragon",
     "title": "Redragon BM-4049 1200DPI Wired Optical Mouse",
     "spec": "Mice",
@@ -2337,14 +2368,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__13__9474.png"
    },
    {
-    "brand": "REDRAGON",
-    "title": "REDRAGON DRACONIC PRO Mechanical 61 Key|Bluetooth 5.0|RGB 9 Colour…",
+    "brand": "Redragon",
+    "title": "Redragon BRAGI PRO K688 98+1 Gasket Wireless Mechanical Keyboard…",
     "spec": "Keyboards",
-    "price": "R763",
-    "handle": "redragon-draconic-pro-mechanical-61-key-bluetooth-5-0-rgb-9-colour-modes-rechargable-battery-type-c-charging-cable-gaming-keyboard-black",
-    "url": "/products/redragon-draconic-pro-mechanical-61-key-bluetooth-5-0-rgb-9-colour-modes-rechargable-battery-type-c-charging-cable-gaming-keyboard-black",
-    "qty": 185,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2023/04/RD-K530RGB-PRO_REDRAGON-DRACONIC-PRO-Mechanical-61-Key-Mechanical-Keyboard-RGB-%E2%80%93-Black_wr_01a.jpg"
+    "price": "R769",
+    "handle": "redragon-bragi-pro-k688-98-1-gasket-wireless-mechanical-keyboard-triple-mode-rgb-hot-swappable-cream-linear-switches",
+    "url": "/products/redragon-bragi-pro-k688-98-1-gasket-wireless-mechanical-keyboard-triple-mode-rgb-hot-swappable-cream-linear-switches",
+    "qty": 30,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/RD-K688GB-RGB-PRO_REDRAGON-KB-MECH-BRAGI-PRO-RGB-BK_wr_01.jpg"
    },
    {
     "brand": "Keychron",
@@ -2382,25 +2413,25 @@
    "enquiry": true
   },
   {
-   "brand": "TP-Link Omada",
-   "title": "TP-Link Omada BE3600 Ceiling Mount Wi-Fi 7 Access Point | TP-EAP723",
-   "spec": "1×2.5G RJ45 Port, 688Mbps at 2.4 GHz + 4324 Mbps at 5 GHz, 802.3at PoE",
-   "price": "R1 963",
-   "handle": "tp-link-omada-be3600-ceiling-mount-wi-fi-7-access-point-tp-eap723",
-   "url": "/pages/tp-link-omada-be3600-ceiling-mount-wi-fi-7-access-point-tp-eap723",
+   "brand": "Grandstream",
+   "title": "Grandstream Enterprise WiFi 7 In-Wall Indoor Access Point | GWN7670WM",
+   "spec": "3,6 Gbps, 2x2:2 2.4G/5G, 1x 2.5GbE PoE,175m coverage,256 clients, Embe",
+   "price": "R1 990",
+   "handle": "grandstream-enterprise-wifi-7-in-wall-indoor-access-point-gwn7670wm",
+   "url": "/pages/grandstream-enterprise-wifi-7-in-wall-indoor-access-point-gwn7670wm",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/6/9/5/7/16957.jpg",
+   "image": "https://miro.co.za/img/p/1/7/9/2/9/17929.jpg",
    "enquiry": true
   },
   {
    "brand": "Grandstream",
-   "title": "Grandstream Enterprise Outdoor WiFi 6 Long Range Access Point | GWN7664ELR",
-   "spec": "6Gbps, 4x4:4 2.4/5G, 1x 2.5GbE, 1x SFP 2.5G, 512 client devices, Embed",
-   "price": "R3 142",
-   "handle": "grandstream-enterprise-outdoor-wifi-6-long-range-access-point-gwn7664elr",
-   "url": "/pages/grandstream-enterprise-outdoor-wifi-6-long-range-access-point-gwn7664elr",
+   "title": "Grandstream Enterprise Outdoor WiFi 7 Long Range Access Point | GWN7670LR",
+   "spec": "Outdoor Long-Range Dual-Band Wi-Fi 7 Access Point/Bridge, 2x2:2 2.4/5G",
+   "price": "R2 857",
+   "handle": "grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
+   "url": "/pages/grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/5/3/5/6/15356.jpg",
+   "image": "https://miro.co.za/img/p/1/8/7/0/7/18707.jpg",
    "enquiry": true
   },
   {
