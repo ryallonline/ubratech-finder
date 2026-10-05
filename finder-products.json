@@ -28,18 +28,18 @@
     "price": "R9 363",
     "handle": "acer-gadget-e10-etbook-15-6-laptop-intel-i5-1235u-8gb-ddr4-512gb-nvme-intel-graphics-windows-11-home",
     "url": "/products/acer-gadget-e10-etbook-15-6-laptop-intel-i5-1235u-8gb-ddr4-512gb-nvme-intel-graphics-windows-11-home",
-    "qty": 25,
+    "qty": 24,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/ZL_OTH11_03J_Acer_Gadget_E10_ETBook_156_Laptop_Intel__wr_01.png"
    },
    {
-    "brand": "HP",
-    "title": "HP 250R G10 15.6\" Core 3 100U 8GB 512GB Win 11 Pro Silver Notebook",
+    "brand": "Asus",
+    "title": "Asus VivoBook 15 X1504MA 15.6\" Core-i3 8GB 256GB Win 11 Home Notebook",
     "spec": "15.6\" screen",
     "price": "R11 332",
-    "handle": "hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
-    "url": "/products/hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
-    "qty": 268,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/7/C78E8AT_98d1.jpg"
+    "handle": "asus-vivobook-15-x1504ma-15-6-core-i3-8gb-256gb-win-11-home-notebook",
+    "url": "/products/asus-vivobook-15-x1504ma-15-6-core-i3-8gb-256gb-win-11-home-notebook",
+    "qty": 63,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__65__4073.png"
    },
    {
     "brand": "Lenovo",
@@ -117,23 +117,23 @@
    },
    {
     "brand": "HP",
-    "title": "HP ProBook 4 G2i AI 14in Laptop — 16GB · 512GB SSD (DS5H9ET)",
-    "spec": "512GB SSD",
-    "price": "R31 379",
-    "handle": "hp-probook-4-g2i-ai-14in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "url": "/products/hp-probook-4-g2i-ai-14in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "qty": 23,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DS5H9ET_default.png"
+    "title": "HP EliteBook 8 Flip G1i Laptop",
+    "spec": "Notebooks",
+    "price": "R31 153",
+    "handle": "hp-elitebook-8-flip-g1i-13-3-wuxga-ai-ultra-5-225u-16gb-512gb-win-11-pro-2-in-1-notebook",
+    "url": "/products/hp-elitebook-8-flip-g1i-13-3-wuxga-ai-ultra-5-225u-16gb-512gb-win-11-pro-2-in-1-notebook",
+    "qty": 9,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/D/AD3U5ET_1871.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus TUF Gaming F16 16\" Core-i7 16GB 1TB Win 11 Pro Notebook",
-    "spec": "16\" screen",
-    "price": "R40 622",
-    "handle": "asus-tuf-gaming-f16-16-core-i7-16gb-1tb-win-11-pro-notebook",
-    "url": "/products/asus-tuf-gaming-f16-16-core-i7-16gb-1tb-win-11-pro-notebook",
-    "qty": 11,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__44__6285.png"
+    "brand": "HP",
+    "title": "HP Elitebook 6 G1i 14\" AI Core U7-255U 16GB 512GB Win 11 Pro Notebook",
+    "spec": "14\" screen",
+    "price": "R40 690",
+    "handle": "hp-elitebook-6-g1i-14-ai-core-u7-255u-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/hp-elitebook-6-g1i-14-ai-core-u7-255u-16gb-512gb-win-11-pro-notebook",
+    "qty": 2,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/K/CK8G9EA_80b8.jpg"
    },
    {
     "brand": "Dell",
@@ -147,6 +147,16 @@
    }
   ],
   "creator": [
+   {
+    "brand": "Asus",
+    "title": "Asus VivoBook (RTX) V3607VH 16\" Core i7 16GB 1TB Win 11 Pro",
+    "spec": "RTX · 16GB RAM · 1TB SSD",
+    "price": "R28 332",
+    "handle": "asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
+    "url": "https://ubratech.co.za/products/asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
+    "qty": 27,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/V/3/V3607VH_I71610B0X__1__7ef3.png"
+   },
    {
     "brand": "HP",
     "title": "HP ZBook 8 G1i — Core Ultra 7 · 32GB · 1TB SSD · RTX",
@@ -176,16 +186,6 @@
     "url": "/products/hp-probook-4-g1ah-16-radeon-740m-wuxga-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
     "qty": 117,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KSAT_9f51.jpg"
-   },
-   {
-    "brand": "Dell",
-    "title": "Dell Alienware 15 Aurora 15.3\" Core-5-210H 16GB 512GB SSD RTX 3050 Win 11 Home Notebook",
-    "spec": "15.3\" screen · 512GB SSD",
-    "price": "R28 997",
-    "handle": "dell-alienware-15-aurora-15-3-core-5-210h-16gb-512gb-ssd-rtx-3050-win-11-home-notebook",
-    "url": "/products/dell-alienware-15-aurora-15-3-core-5-210h-16gb-512gb-ssd-rtx-3050-win-11-home-notebook",
-    "qty": 4,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__6__868d.png"
    },
    {
     "brand": "Asus",
@@ -455,13 +455,13 @@
    },
    {
     "brand": "Asus",
-    "title": "Asus ROG Zephyrus G16 Gaming Laptop 16″ | Ultr Laptop — 16GB · 1TB SSD (GU605CM-OU91610G0X)",
-    "spec": "1TB SSD",
-    "price": "R39 413",
-    "handle": "asus-rog-zephyrus-g16-gaming-laptop-16-ultra-9-285h-16gb-ddr5-rtx-5060-1tb-ssd-windows-11-pro",
-    "url": "/products/asus-rog-zephyrus-g16-gaming-laptop-16-ultra-9-285h-16gb-ddr5-rtx-5060-1tb-ssd-windows-11-pro",
-    "qty": 4,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/GU605CM-OU91610G0X_Asus-ROG-Zephyrus-G16-Intel-Core-Ultra-9-285HX-16-inch-Windows-11-Gaming-Laptop-Grey_wr_01a.jpg"
+    "title": "Asus TUF Gaming F16 FX608JMI Laptop — Core i7",
+    "spec": "Notebooks",
+    "price": "R36 517",
+    "handle": "asus-tuf-gaming-f16-fx608jmi-16-rtx5060-8gb-core-i7-14650hx-16gb-1tb-win-11-home-gaming-notebook",
+    "url": "/products/asus-tuf-gaming-f16-fx608jmi-16-rtx5060-8gb-core-i7-14650hx-16gb-1tb-win-11-home-gaming-notebook",
+    "qty": 20,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/S/ASUS_TUF__GAMING_A16_Jaeger_Grey_02_L__1__d0c6.jpg"
    },
    {
     "brand": "Dell",
@@ -560,14 +560,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
-    "brand": "MSI",
-    "title": "MSI MAG 255F E20 25\" FHD 200Hz Rapid IPS Gaming Monitor",
-    "spec": "25\" screen",
-    "price": "R2 461",
-    "handle": "msi-mag-255f-e20-25-fhd-200hz-rapid-ips-gaming-monitor",
-    "url": "/products/msi-mag-255f-e20-25-fhd-200hz-rapid-ips-gaming-monitor",
-    "qty": 202,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-E20_MSI-MAG-255F-E20-25-inch-FHD-200Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 27 Monitor - E2726H 1x HDMI, 1x DP, 1x VGA (Includes DP & Power Cable)",
+    "spec": "Monitors And Displays",
+    "price": "R2 444",
+    "handle": "dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
+    "url": "/products/dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
+    "qty": 50,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPN_default.jpg"
    },
    {
     "brand": "Port",
@@ -637,10 +637,10 @@
     "brand": "Dell",
     "title": "Dell SE2426H 24\" FHD Gaming Monitor",
     "spec": "High refresh · smooth motion",
-    "price": "R2 005",
+    "price": "R1 996",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 268,
+    "qty": 243,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -650,7 +650,7 @@
     "price": "R2 391",
     "handle": "acer-27-ips-fhd-120hz-monitor-3yr",
     "url": "https://ubratech.co.za/products/acer-27-ips-fhd-120hz-monitor-3yr",
-    "qty": 1,
+    "qty": 5,
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
    },
    {
@@ -760,24 +760,24 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
-    "brand": "APC",
-    "title": "APC Backup UPS 750VA 410W UPS Tower Rack mount included: No Rack…",
+    "brand": "Eaton",
+    "title": "Eaton 5E 900VA GEN2 USB IEC UPS",
     "spec": "Ups And Power",
-    "price": "R1 510",
-    "handle": "apc-backup-ups-750va-410w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
-    "url": "/products/apc-backup-ups-750va-410w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
-    "qty": 80,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BX750MI_default.jpg"
+    "price": "R1 648",
+    "handle": "eaton-5e-900va-gen2-usb-iec-ups",
+    "url": "/products/eaton-5e-900va-gen2-usb-iec-ups",
+    "qty": 50,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E900UI_761f.png"
    },
    {
-    "brand": "Eaton",
-    "title": "Eaton 5E 1600VA GEN2 USB IEC UPS",
-    "spec": "Ups And Power",
-    "price": "R2 972",
-    "handle": "eaton-5e-1600va-gen2-usb-iec-ups",
-    "url": "/products/eaton-5e-1600va-gen2-usb-iec-ups",
-    "qty": 8,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
+    "brand": "APC",
+    "title": "APC Backup UPS 1600VA/ 1.6KVA 900W UPS Tower Rack mount included:…",
+    "spec": "1.6KVA UPS",
+    "price": "R3 022",
+    "handle": "apc-backup-ups-1600va-1-6kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
+    "url": "/products/apc-backup-ups-1600va-1-6kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
+    "qty": 3,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BX1600MI_default.jpg"
    },
    {
     "brand": "Acconet",
@@ -824,20 +824,20 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E900UI_761f.png"
    },
    {
-    "brand": "Eaton",
-    "title": "Eaton 5E 2200VA GEN2 USB IEC UPS",
-    "spec": "Ups And Power",
-    "price": "R3 701",
-    "handle": "eaton-5e-2200va-gen2-usb-iec-ups",
-    "url": "/products/eaton-5e-2200va-gen2-usb-iec-ups",
-    "qty": 4,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E2200UI_1_03c6.png"
+    "brand": "APC",
+    "title": "APC Backup UPS 1600VA/ 1.6KVA 900W UPS Tower Rack mount included:…",
+    "spec": "1.6KVA UPS",
+    "price": "R3 022",
+    "handle": "apc-backup-ups-1600va-1-6kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
+    "url": "/products/apc-backup-ups-1600va-1-6kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
+    "qty": 3,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BX1600MI_default.jpg"
    },
    {
     "brand": "APC",
     "title": "APC Smart Line Interactive 1000VA/ 1KVA 600W UPS Tower Rack Mount…",
     "spec": "1KVA UPS",
-    "price": "R8 108",
+    "price": "R8 173",
     "handle": "apc-smart-line-interactive-1000va-1kva-600w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
     "url": "/products/apc-smart-line-interactive-1000va-1kva-600w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
     "qty": 4,
@@ -881,41 +881,31 @@
     "brand": "APC",
     "title": "APC Back-UPS 1600VA / 900W",
     "spec": "Backs up a whole desk",
-    "price": "R3 816",
+    "price": "R3 022",
     "handle": "apc-backup-ups-1600va-1-6kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
     "url": "https://ubratech.co.za/products/apc-backup-ups-1600va-1-6kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
     "qty": 3,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BX1600MI_default.jpg"
    },
    {
-    "brand": "Eaton",
-    "title": "Eaton 5E 2200VA GEN2 USB IEC UPS",
-    "spec": "Ups And Power",
-    "price": "R3 701",
-    "handle": "eaton-5e-2200va-gen2-usb-iec-ups",
-    "url": "/products/eaton-5e-2200va-gen2-usb-iec-ups",
-    "qty": 4,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E2200UI_1_03c6.png"
-   },
-   {
     "brand": "APC",
     "title": "APC Smart Line Interactive 1000VA/ 1KVA 600W UPS Tower Rack Mount…",
     "spec": "1KVA UPS",
-    "price": "R8 108",
+    "price": "R8 173",
     "handle": "apc-smart-line-interactive-1000va-1kva-600w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
     "url": "/products/apc-smart-line-interactive-1000va-1kva-600w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
     "qty": 4,
     "image": "https://s3.amazonaws.com/tarsus.co.za/SMC1000IC_default.jpg"
    },
    {
-    "brand": "Eaton",
-    "title": "Eaton 9SX 1000i On-Line UPS 1000VA 200-240V Tower 9SX1000I",
-    "spec": "Ups And Power",
-    "price": "R13 512",
-    "handle": "eaton-9sx-1000i-on-line-ups-1000va-200-240v-tower-9sx1000i",
-    "url": "/products/eaton-9sx-1000i-on-line-ups-1000va-200-240v-tower-9sx1000i",
-    "qty": 4,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/S/9SX1500I_1_38d0.png"
+    "brand": "APC",
+    "title": "APC Smart line Intarative 1500VA/ 1.5KVA 1000W UPS Tower Rack Mount… (SMT1500IC)",
+    "spec": "1.5KVA UPS",
+    "price": "R12 793",
+    "handle": "apc-smart-line-intarative-1500va-1-5kva-1000w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-3-years-repair-or-replace-excluding-battery-and-2",
+    "url": "/products/apc-smart-line-intarative-1500va-1-5kva-1000w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-3-years-repair-or-replace-excluding-battery-and-2",
+    "qty": 2,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SMT1500IC_default.jpg"
    },
    {
     "brand": "Gizzu",
@@ -933,21 +923,21 @@
     "brand": "APC",
     "title": "APC Smart Line Interactive 1000VA/ 1KVA 600W UPS Tower Rack Mount…",
     "spec": "1KVA UPS",
-    "price": "R8 108",
+    "price": "R8 173",
     "handle": "apc-smart-line-interactive-1000va-1kva-600w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
     "url": "/products/apc-smart-line-interactive-1000va-1kva-600w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
     "qty": 4,
     "image": "https://s3.amazonaws.com/tarsus.co.za/SMC1000IC_default.jpg"
    },
    {
-    "brand": "APC",
-    "title": "APC Smart line Intarative 1500VA/ 1.5KVA 1000W UPS Tower Rack Mount… (SMT1500IC)",
-    "spec": "1.5KVA UPS",
-    "price": "R15 646",
-    "handle": "apc-smart-line-intarative-1500va-1-5kva-1000w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-3-years-repair-or-replace-excluding-battery-and-2",
-    "url": "/products/apc-smart-line-intarative-1500va-1-5kva-1000w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-3-years-repair-or-replace-excluding-battery-and-2",
-    "qty": 2,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SMT1500IC_default.jpg"
+    "brand": "Eaton",
+    "title": "Eaton 9SX 1000i On-Line UPS 1000VA 200-240V Tower 9SX1000I",
+    "spec": "Ups And Power",
+    "price": "R13 512",
+    "handle": "eaton-9sx-1000i-on-line-ups-1000va-200-240v-tower-9sx1000i",
+    "url": "/products/eaton-9sx-1000i-on-line-ups-1000va-200-240v-tower-9sx1000i",
+    "qty": 4,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/S/9SX1500I_1_38d0.png"
    },
    {
     "brand": "APC",
@@ -963,7 +953,7 @@
     "brand": "APC",
     "title": "APC Smart-UPS RT 10kVA 230V",
     "spec": "10kVA UPS",
-    "price": "R92 680",
+    "price": "R92 488",
     "handle": "apc-smart-ups-rt-10kva-230v",
     "url": "/products/apc-smart-ups-rt-10kva-230v",
     "qty": 5,
@@ -1170,7 +1160,7 @@
     "price": "R7 563",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 56,
+    "qty": 54,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
    },
    {
@@ -1284,7 +1274,7 @@
     "price": "R7 563",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 56,
+    "qty": 54,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
    },
    {
@@ -1508,7 +1498,7 @@
     "price": "R3 124",
     "handle": "hikvision-4mp-varifocal-bullet-ip-camera",
     "url": "/products/hikvision-4mp-varifocal-bullet-ip-camera",
-    "qty": 130,
+    "qty": 128,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2641G0_LIZSU_2.8MM_12MM__0a67.png"
    },
    {
@@ -1543,13 +1533,13 @@
    },
    {
     "brand": "Uniview",
-    "title": "Uniview UNV 5MP LightHunter Motorized Dome IP Camera 2.7-13.5mm | IPC3235SB-ADZK-I0",
-    "spec": "Uniview Smart Analytics, PoE, IR 40m, 2.7-13.5mm Motorised, IP67, IK10",
-    "price": "R3 061",
-    "handle": "uniview-unv-5mp-lighthunter-motorized-dome-ip-camera-2-7-13-5mm-ipc3235sb-adzk-i0",
-    "url": "/pages/uniview-unv-5mp-lighthunter-motorized-dome-ip-camera-2-7-13-5mm-ipc3235sb-adzk-i0",
+    "title": "Uniview UNV 5MP OmniView Bullet IP Camera 180° | IPC2105SB-ADF16KM-I0",
+    "spec": "Uniview Smart Analytics, PoE, IR 20m, 1.68mm Lens, IP 67, IK10, SD, Mi",
+    "price": "R3 028",
+    "handle": "uniview-unv-5mp-omniview-bullet-ip-camera-180-ipc2105sb-adf16km-i0",
+    "url": "/pages/uniview-unv-5mp-omniview-bullet-ip-camera-180-ipc2105sb-adf16km-i0",
     "qty": 9,
-    "image": "https://miro.co.za/img/p/4/8/6/8/4868.jpg",
+    "image": "https://miro.co.za/img/p/1/9/1/7/5/19175.jpg",
     "enquiry": true
    },
    {
@@ -1571,10 +1561,10 @@
     "brand": "Port",
     "title": "Port USB-C Mini Dock with HDMI",
     "spec": "One cable · power + screen",
-    "price": "R230",
+    "price": "R220",
     "handle": "port-usb-c-mini-with-hdmi-docking-station",
     "url": "https://ubratech.co.za/products/port-usb-c-mini-with-hdmi-docking-station",
-    "qty": 102,
+    "qty": 142,
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900140_0708.jpg"
    },
    {
@@ -1598,14 +1588,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/900160_Port-Connect-USB-Type-C-to-4-port-USB-A-3.0-2.0-Hub_wr_01a.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP USB-C 100W G6 Black Docking Station",
+    "brand": "UGreen",
+    "title": "UGreen 14-in-1 USB Type-C TO USB Docking Station (1x HDMI | 2x DP | RJ45)",
     "spec": "Docking Station",
-    "price": "R2 908",
-    "handle": "hp-usb-c-100w-g6-black-docking-station",
-    "url": "/products/hp-usb-c-100w-g6-black-docking-station",
-    "qty": 99,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/X/9X3V1UT_2_1072.jpg"
+    "price": "R2 649",
+    "handle": "ugreen-14-in-1-usb-type-c-to-usb-docking-station-1x-hdmi-2x-dp-rj45",
+    "url": "/products/ugreen-14-in-1-usb-type-c-to-usb-docking-station-1x-hdmi-2x-dp-rj45",
+    "qty": 5,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/CM843-85489_UGreen_USB_Type-C_TO_USB2x_HDMIDPRJ45_Do_wr_01.jpg"
    },
    {
     "brand": "Dell",
@@ -1623,10 +1613,10 @@
     "brand": "Port",
     "title": "Port USB-C Mini with HDMI Docking Station",
     "spec": "Docking Station",
-    "price": "R230",
+    "price": "R220",
     "handle": "port-usb-c-mini-with-hdmi-docking-station",
     "url": "/products/port-usb-c-mini-with-hdmi-docking-station",
-    "qty": 102,
+    "qty": 142,
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900140_0708.jpg"
    },
    {
@@ -1640,14 +1630,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__23__d7c1.png"
    },
    {
-    "brand": "Port",
-    "title": "Port 100W USB-C & USB-A Docking Station",
+    "brand": "PORT2",
+    "title": "PORT2 x 4K USB-C desktop docking station 11 peripherals 96W",
     "spec": "Docking Station",
-    "price": "R4 262",
-    "handle": "port-100w-usb-c-usb-a-docking-station",
-    "url": "/products/port-100w-usb-c-usb-a-docking-station",
-    "qty": 1,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/901908_W_EU_011e.jpg"
+    "price": "R4 154",
+    "handle": "port2-x-4k-usb-c-desktop-docking-station-11-peripherals-96w",
+    "url": "/products/port2-x-4k-usb-c-desktop-docking-station-11-peripherals-96w",
+    "qty": 9,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901904V2EU_PORT2_x_4K_USB-C_desktop_docking_station_wr_03.png"
    },
    {
     "brand": "Dell",
@@ -1685,10 +1675,10 @@
     "brand": "Port",
     "title": "Port USB-C Mini with HDMI Docking Station",
     "spec": "Docking Station",
-    "price": "R230",
+    "price": "R220",
     "handle": "port-usb-c-mini-with-hdmi-docking-station",
     "url": "/products/port-usb-c-mini-with-hdmi-docking-station",
-    "qty": 102,
+    "qty": 142,
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900140_0708.jpg"
    },
    {
@@ -1834,7 +1824,7 @@
     "brand": "Grandstream",
     "title": "Grandstream Enterprise 5 port Unmanaged GbE Switch | GWN7700",
     "spec": "5x GbE, plastic case, 5V/0.6A PSU",
-    "price": "R194",
+    "price": "R190",
     "handle": "grandstream-enterprise-5-port-unmanaged-gbe-switch-gwn7700",
     "url": "/pages/grandstream-enterprise-5-port-unmanaged-gbe-switch-gwn7700",
     "qty": 9,
@@ -1845,7 +1835,7 @@
     "brand": "Ubiquiti",
     "title": "Ubiquiti UniFi Pro 48 Port 40 PoE 600W Switch 4SFP+ | USW-Pro-48-PoE",
     "spec": "1.3\" touch LCM;auto-sensing 802.3at PoE+ and 802.3bt PoE++ 600W PoE bu",
-    "price": "R23 845",
+    "price": "R24 162",
     "handle": "ubiquiti-unifi-pro-48-port-40-poe-600w-switch-4sfp-usw-pro-48-poe",
     "url": "/pages/ubiquiti-unifi-pro-48-port-40-poe-600w-switch-4sfp-usw-pro-48-poe",
     "qty": 9,
@@ -1878,7 +1868,7 @@
     "brand": "Acconet",
     "title": "Acconet 6U Unassembled Wall Mount Box | AC-CAB-6U450-WM",
     "spec": "Flat Pack, Glass Door",
-    "price": "R1 467",
+    "price": "R1 437",
     "handle": "acconet-6u-unassembled-wall-mount-box-ac-cab-6u450-wm",
     "url": "/pages/acconet-6u-unassembled-wall-mount-box-ac-cab-6u450-wm",
     "qty": 9,
@@ -1908,17 +1898,17 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 11
+    "qty": 8
    },
    {
     "brand": "Seagate",
     "title": "Seagate IronWolf NAS 8TB 3.5\" SATA HDD",
     "spec": "NAS-grade · always-on",
-    "price": "R6 630",
+    "price": "R6 781",
     "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
-    "qty": 5
+    "qty": 100
    },
    {
     "brand": "UGREEN",
@@ -1941,14 +1931,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/PVP301TB28UDG_Patriot-PVP30-1TB-Duo-Compact-External-Portable-SSD_wr_01.jpg"
    },
    {
-    "brand": "PATRIOT",
-    "title": "PATRIOT SSD VP4000 M.2 NVME 2TB 2230",
+    "brand": "Dell",
+    "title": "Dell 480GB PCIe Gen4 M.2 2280 NVMe SSD for BOSS-N1 Controller Card",
     "spec": "Storage",
-    "price": "R5 665",
-    "handle": "patriot-ssd-vp4000-m-2-nvme-2tb-2230",
-    "url": "/products/patriot-ssd-vp4000-m-2-nvme-2tb-2230",
-    "qty": 8,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/VP4000M2TBM23_Patriot-Viper-VP4000-Mini-2TB-M.2-2230-PCIe-Gen4x4-SSD_wr_01.jpg"
+    "price": "R5 432",
+    "handle": "dell-480gb-pcie-gen4-m-2-2280-nvme-ssd-for-boss-n1-controller-card",
+    "url": "/products/dell-480gb-pcie-gen4-m-2-2280-nvme-ssd-for-boss-n1-controller-card",
+    "qty": 5,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/4/0/400_BONG_7e2a.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -2285,24 +2275,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "PD",
-    "title": "PD Power 12V 5A Desktop PSU Adapter",
-    "spec": "Power Adapter",
+    "brand": "HP",
+    "title": "HP 652 Blk + Col Bundle with Powerbank",
+    "spec": "Accessories",
     "price": "R120",
-    "handle": "pd-power-12v-5a-desktop-psu-adapter",
-    "url": "/products/pd-power-12v-5a-desktop-psu-adapter",
-    "qty": 142,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2015/01/PDA-60-12_wr_01.jpg"
+    "handle": "hp-652-blk-col-bundle-with-powerbank",
+    "url": "/products/hp-652-blk-col-bundle-with-powerbank",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/6ZD21AE_default.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port 45W Universal AC Adapter (900096B-EU)",
+    "brand": "Dell",
+    "title": "Dell 65W 4.5MM AC Adapter",
     "spec": "Cables And Adapters",
-    "price": "R414",
-    "handle": "port-45w-universal-ac-adapter-900096b-eu",
-    "url": "/products/port-45w-universal-ac-adapter-900096b-eu",
-    "qty": 94,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__2__35ed.png"
+    "price": "R411",
+    "handle": "dell-65w-4-5mm-ac-adapter",
+    "url": "/products/dell-65w-4-5mm-ac-adapter",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/450-ALOF_default.jpg"
    },
    {
     "brand": "Lenovo",
@@ -2338,13 +2328,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP 400 Quiet Wireless Black Mouse",
+    "title": "HP 235 Wireless Keyboard & Mouse Combo",
     "spec": "Wired Mouse",
-    "price": "R371",
-    "handle": "hp-400-quiet-wireless-black-mouse",
-    "url": "/products/hp-400-quiet-wireless-black-mouse",
-    "qty": 176,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B2AA_dac7.jpg"
+    "price": "R369",
+    "handle": "hp-235-wireless-keyboard-mouse-combo",
+    "url": "/products/hp-235-wireless-keyboard-mouse-combo",
+    "qty": 129,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_0ec7.png"
    },
    {
     "brand": "REDRAGON",
@@ -2392,36 +2382,36 @@
    "enquiry": true
   },
   {
-   "brand": "TP-Link Omada",
-   "title": "TP-Link Omada Dual-Band Wi-Fi 7 AP | EAP727",
-   "spec": "1×2.5G RJ45 Port, 688 Mbps (2.4 GHz) + 4300 Mbps (5 GHz), 802.3at PoE ",
-   "price": "R2 002",
-   "handle": "tp-link-omada-dual-band-wi-fi-7-ap-eap727",
-   "url": "/pages/tp-link-omada-dual-band-wi-fi-7-ap-eap727",
+   "brand": "Grandstream",
+   "title": "Grandstream Enterprise WiFi 7 In-Wall Indoor Access Point | GWN7670WM",
+   "spec": "3,6 Gbps, 2x2:2 2.4G/5G, 1x 2.5GbE PoE,175m coverage,256 clients, Embe",
+   "price": "R1 990",
+   "handle": "grandstream-enterprise-wifi-7-in-wall-indoor-access-point-gwn7670wm",
+   "url": "/pages/grandstream-enterprise-wifi-7-in-wall-indoor-access-point-gwn7670wm",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/2/0/3/3/8/20338.jpg",
+   "image": "https://miro.co.za/img/p/1/7/9/2/9/17929.jpg",
    "enquiry": true
   },
   {
-   "brand": "MikroTik",
-   "title": "MikroTik mANTBox ax 15s WiFi 6 Integrated Access Point | L22UGS-5HaxD2HaxD-15S",
-   "spec": "2.4/5 GHz Wi-Fi 6, Gigabit Ethernet, 2.5G SFP",
-   "price": "R3 139",
-   "handle": "mikrotik-mantbox-ax-15s-wifi-6-integrated-access-point-l22ugs-5haxd2haxd-15s",
-   "url": "/pages/mikrotik-mantbox-ax-15s-wifi-6-integrated-access-point-l22ugs-5haxd2haxd-15s",
+   "brand": "Grandstream",
+   "title": "Grandstream Enterprise Outdoor WiFi 6 Long Range Access Point | GWN7664ELR",
+   "spec": "6Gbps, 4x4:4 2.4/5G, 1x 2.5GbE, 1x SFP 2.5G, 512 client devices, Embed",
+   "price": "R3 142",
+   "handle": "grandstream-enterprise-outdoor-wifi-6-long-range-access-point-gwn7664elr",
+   "url": "/pages/grandstream-enterprise-outdoor-wifi-6-long-range-access-point-gwn7664elr",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/3/3/9/9/13399.jpg",
+   "image": "https://miro.co.za/img/p/1/5/3/5/6/15356.jpg",
    "enquiry": true
   },
   {
    "brand": "Ubiquiti",
-   "title": "Ubiquiti UniFi Wi-Fi 7 Pro XG Black Indoor Access Point | U7-Pro-XG-B",
+   "title": "Ubiquiti UniFi Wi-Fi 7 Pro XG Indoor Access Point | U7-Pro-XG",
    "spec": "No PoE Injector included, 6 Spatial Streams, 300+ connected devices, 1",
-   "price": "R4 493",
-   "handle": "ubiquiti-unifi-wi-fi-7-pro-xg-black-indoor-access-point-u7-pro-xg-b",
-   "url": "/pages/ubiquiti-unifi-wi-fi-7-pro-xg-black-indoor-access-point-u7-pro-xg-b",
+   "price": "R4 483",
+   "handle": "ubiquiti-unifi-wi-fi-7-pro-xg-indoor-access-point-u7-pro-xg",
+   "url": "/pages/ubiquiti-unifi-wi-fi-7-pro-xg-indoor-access-point-u7-pro-xg",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/9/6/3/3/19633.jpg",
+   "image": "https://miro.co.za/img/p/1/6/8/5/3/16853.jpg",
    "enquiry": true
   },
   {
