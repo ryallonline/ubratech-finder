@@ -126,14 +126,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DS5H9ET_default.png"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 16 Plus 16\" Core-U5 32GB 512GB Win 11 Pro Notebook",
-    "spec": "16\" screen",
-    "price": "R41 033",
-    "handle": "dell-pro-16-plus-16-core-u5-32gb-512gb-win-11-pro-notebook",
-    "url": "/products/dell-pro-16-plus-16-core-u5-32gb-512gb-win-11-pro-notebook",
+    "brand": "HP",
+    "title": "HP ZBook 8 G1i Laptop — Core Ultra 5 · 24GB · 1TB SSD (DM7P4ES)",
+    "spec": "1TB SSD",
+    "price": "R40 798",
+    "handle": "hp-zbook-8-g1i-14inch-dsc-rtx-500-ada-4gb-u5-225h-lcd-14-0wuxgaagled300uwvafwwanf5mpirlpln-ram-24gb-ddr5-5600-ssd-1tb-pcie4x4-nvme-tlc-ost-w11p6-hp-3y-onsite-mws-supp-no-country-of-origin-restriction",
+    "url": "/products/hp-zbook-8-g1i-14inch-dsc-rtx-500-ada-4gb-u5-225h-lcd-14-0wuxgaagled300uwvafwwanf5mpirlpln-ram-24gb-ddr5-5600-ssd-1tb-pcie4x4-nvme-tlc-ost-w11p6-hp-3y-onsite-mws-supp-no-country-of-origin-restriction",
     "qty": 14,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_6f5b.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DM7P4ES_default.jpg"
    },
    {
     "brand": "Dell",
@@ -258,7 +258,7 @@
     "price": "R11 826",
     "handle": "pcbuilder-cube-intel-i5-1235u-16gb-ddr4-1tb-windows-11-home-mini-pc",
     "url": "/products/pcbuilder-cube-intel-i5-1235u-16gb-ddr4-1tb-windows-11-home-mini-pc",
-    "qty": 18,
+    "qty": 20,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/PCB_CUBE_I516G_HOME_PCBuilder-CUBE-i5-1235U-16GB-DDR4-1TB-Windows-11-Home-Mini-PC_wr_01a.jpg"
    }
   ],
@@ -375,7 +375,7 @@
     "handle": "asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
     "url": "https://ubratech.co.za/products/asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg",
-    "qty": 7
+    "qty": 6
    },
    {
     "brand": "Dell",
@@ -493,7 +493,7 @@
     "handle": "asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
     "url": "https://ubratech.co.za/products/asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg",
-    "qty": 7
+    "qty": 6
    },
    {
     "brand": "PCBuilder",
@@ -640,7 +640,7 @@
     "price": "R1 995",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 193,
+    "qty": 189,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -1160,7 +1160,7 @@
     "price": "R8 227",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 47,
+    "qty": 46,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
    },
    {
@@ -1274,7 +1274,7 @@
     "price": "R8 227",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 47,
+    "qty": 46,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
    },
    {
@@ -1328,6 +1328,16 @@
     "url": "https://ubratech.co.za/products/bixolon-xd3-40t-4-direct-thermal-label-printer",
     "image": "https://www.pinnacle.co.za/media/catalog/product/X/D/XD3_40TEK_PNC_3_ca89.png",
     "qty": 23
+   },
+   {
+    "brand": "Zebra",
+    "title": "Zebra ZT411 4\" Thermal Transfer Label Printer",
+    "spec": "Industrial · high volume",
+    "price": "R18 560",
+    "handle": "zebra-zt411-4-thermal-transfer-label-printer",
+    "url": "https://ubratech.co.za/products/zebra-zt411-4-thermal-transfer-label-printer",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/T/ZT41142_T0E0000Z_4906.png",
+    "qty": 4
    },
    {
     "brand": "NIIMBOT",
@@ -1614,7 +1624,7 @@
     "price": "R8 461",
     "handle": "dell-pro-thunderbolt-5-smart-dock-sd25tb5",
     "url": "/products/dell-pro-thunderbolt-5-smart-dock-sd25tb5",
-    "qty": 6,
+    "qty": 4,
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BRFN_default.png"
    }
   ],
@@ -1656,7 +1666,7 @@
     "price": "R8 461",
     "handle": "dell-pro-thunderbolt-5-smart-dock-sd25tb5",
     "url": "/products/dell-pro-thunderbolt-5-smart-dock-sd25tb5",
-    "qty": 6,
+    "qty": 4,
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BRFN_default.png"
    }
   ],
@@ -1698,7 +1708,7 @@
     "price": "R288",
     "handle": "ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0",
     "url": "/products/ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0",
-    "qty": 73,
+    "qty": 93,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM511-15596-wr-01.jpg"
    },
    {
@@ -1708,7 +1718,7 @@
     "price": "R2 649",
     "handle": "ugreen-14-in-1-usb-type-c-to-usb-docking-station-1x-hdmi-2x-dp-rj45",
     "url": "/products/ugreen-14-in-1-usb-type-c-to-usb-docking-station-1x-hdmi-2x-dp-rj45",
-    "qty": 5,
+    "qty": 19,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/CM843-85489_UGreen_USB_Type-C_TO_USB2x_HDMIDPRJ45_Do_wr_01.jpg"
    }
   ]
@@ -1785,7 +1795,7 @@
     "handle": "logitech-c920s-pro-full-hd-usb-webcam",
     "url": "https://ubratech.co.za/products/logitech-c920s-pro-full-hd-usb-webcam",
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/960_001252_9ebb.jpg",
-    "qty": 6
+    "qty": 7
    }
   ]
  },
@@ -1938,7 +1948,7 @@
     "price": "R257",
     "handle": "ugreen-cm767-m-2-nvme-ssd-enclosure-10gbps",
     "url": "/products/ugreen-cm767-m-2-nvme-ssd-enclosure-10gbps",
-    "qty": 88,
+    "qty": 111,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM767-35267_UGreen-CM767-M.2-NVMe-SSD-Enclosure-10Gbps-%E2%80%93-Silver_wr_01a.jpg"
    },
    {
@@ -1952,14 +1962,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/PTPL1TBPEC_Patriot-Transporter-Lite-1TB-USB3.2-Type-C-External-Portable-SSD_wr_01.jpg"
    },
    {
-    "brand": "PATRIOT",
-    "title": "PATRIOT SSD VP4000 M.2 NVME 2TB 2230",
+    "brand": "SanDisk",
+    "title": "SanDisk Creator Phone SSD 2TB compatible with MagSafe",
     "spec": "Storage",
-    "price": "R5 665",
-    "handle": "patriot-ssd-vp4000-m-2-nvme-2tb-2230",
-    "url": "/products/patriot-ssd-vp4000-m-2-nvme-2tb-2230",
-    "qty": 8,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/VP4000M2TBM23_Patriot-Viper-VP4000-Mini-2TB-M.2-2230-PCIe-Gen4x4-SSD_wr_01.jpg"
+    "price": "R5 646",
+    "handle": "sandisk-creator-phone-ssd-2tb-compatible-with-magsafe",
+    "url": "/products/sandisk-creator-phone-ssd-2tb-compatible-with-magsafe",
+    "qty": 2,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/S/D/SDSSDE62C_2T00_G25_a6f3.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -2000,7 +2010,7 @@
     "price": "R452",
     "handle": "hiksemi-future-8gb-1600mhz-8gb-x-1-so-dimm-memory-module",
     "url": "/products/hiksemi-future-8gb-1600mhz-8gb-x-1-so-dimm-memory-module",
-    "qty": 106,
+    "qty": 105,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/HSC308S16Z1-8G_wr_-2.jpg"
    },
    {
@@ -2286,24 +2296,24 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_Design__95__f74c.png"
    },
    {
-    "brand": "REDRAGON",
-    "title": "REDRAGON METEOR L Gaming WristPad 435x73x20mm",
-    "spec": "Accessories",
-    "price": "R122",
-    "handle": "redragon-meteor-l-gaming-wristpad-435x73x20mm",
-    "url": "/products/redragon-meteor-l-gaming-wristpad-435x73x20mm",
-    "qty": 73,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/RD-P037_wr_01.jpg"
+    "brand": "Gizzu",
+    "title": "Gizzu 4-in-1 Type-C to HDMI/VGA/USB3.0 Hub",
+    "spec": "Cables And Adapters",
+    "price": "R121",
+    "handle": "gizzu-4-in-1-type-c-to-hdmi-vga-usb3-0-hub",
+    "url": "/products/gizzu-4-in-1-type-c-to-hdmi-vga-usb3-0-hub",
+    "qty": 217,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/GAPCHVUPD_wr_01a.jpg"
    },
    {
-    "brand": "Redragon",
-    "title": "Redragon HARROW Wireless X/D-input(Digital/Analog) PC Controller - Black",
-    "spec": "Accessories",
+    "brand": "HP",
+    "title": "HP USB to Serial Port Adapter",
+    "spec": "Cables And Adapters",
     "price": "R414",
-    "handle": "redragon-harrow-wireless-x-d-input-digital-analog-pc-controller-black",
-    "url": "/products/redragon-harrow-wireless-x-d-input-digital-analog-pc-controller-black",
-    "qty": 70,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2018/03/Redragon_RD-G808_wr_01b.jpg"
+    "handle": "hp-usb-to-serial-port-adapter",
+    "url": "/products/hp-usb-to-serial-port-adapter",
+    "qty": 4,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/J7B60AA_default.jpg"
    },
    {
     "brand": "Lenovo",
@@ -2345,7 +2355,7 @@
     "handle": "logitech-c920s-pro-full-hd-usb-webcam",
     "url": "https://ubratech.co.za/products/logitech-c920s-pro-full-hd-usb-webcam",
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/960_001252_9ebb.jpg",
-    "qty": 6
+    "qty": 7
    },
    {
     "brand": "Redragon",
@@ -2359,23 +2369,23 @@
    },
    {
     "brand": "Port",
-    "title": "Port Pure MAC Wireless Pearl Mouse",
+    "title": "Port Pure MAC Wireless Shadow Mouse",
     "spec": "Wired Mouse",
     "price": "R371",
-    "handle": "port-pure-mac-wireless-pearl-mouse",
-    "url": "/products/port-pure-mac-wireless-pearl-mouse",
-    "qty": 53,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__14__f97d.png"
+    "handle": "port-pure-mac-wireless-shadow-mouse",
+    "url": "/products/port-pure-mac-wireless-shadow-mouse",
+    "qty": 41,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__10__3c08.png"
    },
    {
-    "brand": "Keychron",
-    "title": "Keychron B6 Pro Ultra-Slim 100% Wireless Keyboard - Retro Blue",
+    "brand": "Redragon",
+    "title": "Redragon BRAGI PRO K688 98+1 Gasket Wireless Mechanical Keyboard…",
     "spec": "Keyboards",
-    "price": "R787",
-    "handle": "keychron-b6-pro-ultra-slim-100-wireless-keyboard-retro-blue",
-    "url": "/products/keychron-b6-pro-ultra-slim-100-wireless-keyboard-retro-blue",
-    "qty": 27,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/12/B6P-K11_Keychron-B11-Pro-Ultra-Slim-10-WRLS-KB-Retro-Blue_01.jpeg"
+    "price": "R769",
+    "handle": "redragon-bragi-pro-k688-98-1-gasket-wireless-mechanical-keyboard-triple-mode-rgb-hot-swappable-cream-linear-switches",
+    "url": "/products/redragon-bragi-pro-k688-98-1-gasket-wireless-mechanical-keyboard-triple-mode-rgb-hot-swappable-cream-linear-switches",
+    "qty": 29,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/RD-K688GB-RGB-PRO_REDRAGON-KB-MECH-BRAGI-PRO-RGB-BK_wr_01.jpg"
    },
    {
     "brand": "Keychron",
@@ -2413,36 +2423,36 @@
    "enquiry": true
   },
   {
-   "brand": "Grandstream",
-   "title": "Grandstream Enterprise WiFi 7 In-Wall Indoor Access Point | GWN7670WM",
-   "spec": "3,6 Gbps, 2x2:2 2.4G/5G, 1x 2.5GbE PoE,175m coverage,256 clients, Embe",
-   "price": "R1 990",
-   "handle": "grandstream-enterprise-wifi-7-in-wall-indoor-access-point-gwn7670wm",
-   "url": "/pages/grandstream-enterprise-wifi-7-in-wall-indoor-access-point-gwn7670wm",
+   "brand": "TP-Link Omada",
+   "title": "TP-Link Omada Dual-Band Wi-Fi 7 AP | EAP727",
+   "spec": "1×2.5G RJ45 Port, 688 Mbps (2.4 GHz) + 4300 Mbps (5 GHz), 802.3at PoE ",
+   "price": "R2 002",
+   "handle": "tp-link-omada-dual-band-wi-fi-7-ap-eap727",
+   "url": "/pages/tp-link-omada-dual-band-wi-fi-7-ap-eap727",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/7/9/2/9/17929.jpg",
+   "image": "https://miro.co.za/img/p/2/0/3/3/8/20338.jpg",
    "enquiry": true
   },
   {
    "brand": "Grandstream",
-   "title": "Grandstream Enterprise Outdoor WiFi 6 Long Range Access Point | GWN7664ELR",
-   "spec": "6Gbps, 4x4:4 2.4/5G, 1x 2.5GbE, 1x SFP 2.5G, 512 client devices, Embed",
-   "price": "R3 142",
-   "handle": "grandstream-enterprise-outdoor-wifi-6-long-range-access-point-gwn7664elr",
-   "url": "/pages/grandstream-enterprise-outdoor-wifi-6-long-range-access-point-gwn7664elr",
+   "title": "Grandstream Enterprise WiFi 7 Indoor Access Point | GWN7672",
+   "spec": "3.6Gbps, Dual-band 2x2:2 MU-MIMO,256 client devices, 2x 2.5GbE, BLE, E",
+   "price": "R3 176",
+   "handle": "grandstream-enterprise-wifi-7-indoor-access-point-gwn7672",
+   "url": "/pages/grandstream-enterprise-wifi-7-indoor-access-point-gwn7672",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/5/3/5/6/15356.jpg",
+   "image": "https://miro.co.za/img/p/1/8/6/6/5/18665.jpg",
    "enquiry": true
   },
   {
-   "brand": "Ubiquiti",
-   "title": "Ubiquiti UniFi6 Mesh Pro Indoor/Outdoor Dual Band WiFi6 Access Point | U6-Mesh-Pro",
-   "spec": "No PoE Injector included, Indoor AP - 350+ concurrent client capacity,",
-   "price": "R4 398",
-   "handle": "ubiquiti-unifi6-mesh-pro-indoor-outdoor-dual-band-wifi6-access-point-u6-mesh-pro",
-   "url": "/pages/ubiquiti-unifi6-mesh-pro-indoor-outdoor-dual-band-wifi6-access-point-u6-mesh-pro",
+   "brand": "Cambium Networks",
+   "title": "Cambium cnPilot WiFi 5 Wave 2 Indoor Wall Plate AP | CNP-E430H",
+   "spec": "Indoor 2x2 Dual Band 802.11ac Wave 2 MU-MIMO Wall Plate AP PoE pass-th",
+   "price": "R4 587",
+   "handle": "cambium-cnpilot-wifi-5-wave-2-indoor-wall-plate-ap-cnp-e430h",
+   "url": "/pages/cambium-cnpilot-wifi-5-wave-2-indoor-wall-plate-ap-cnp-e430h",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/4/0/8/5/14085.jpg",
+   "image": "https://miro.co.za/img/p/2/2/1/221.jpg",
    "enquiry": true
   },
   {
