@@ -74,14 +74,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/8/2/82XM01AUSA_dc5c.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer Extensa 15.6″ Laptop | Laptop — Core i5 · 16GB · 512GB SSD",
-    "spec": "512GB SSD",
-    "price": "R17 243",
-    "handle": "acer-extensa-15-6-laptop-intel-core-i5-120u-16gb-ddr5-512gb-nvme-intel-graphics-windows-11-pro",
-    "url": "/products/acer-extensa-15-6-laptop-intel-core-i5-120u-16gb-ddr5-512gb-nvme-intel-graphics-windows-11-pro",
-    "qty": 1,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/NX_EJ9EA_011_Acer_Extensa_156_Laptop_Intel_Core_i5-12_wr_01.png"
+    "brand": "Asus",
+    "title": "Asus Vivobook 15 X1504VA 15.6\" FHD IPS Core 5-120U 16GB 512GB Win 11 Home Blue Notebook",
+    "spec": "15.6\" screen",
+    "price": "R17 125",
+    "handle": "asus-vivobook-15-x1504va-15-6-fhd-ips-core-5-120u-16gb-512gb-win-11-home-blue-notebook",
+    "url": "/products/asus-vivobook-15-x1504va-15-6-fhd-ips-core-5-120u-16gb-512gb-win-11-home-blue-notebook",
+    "qty": 90,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/V/i/Vivobook_15_X1504VAP_Product_photo_1B_Quite_Blue_05_45a1.jpg"
    },
    {
     "brand": "HP",
@@ -127,13 +127,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP Elitebook 6 G1i 14\" AI Core U7-255U 16GB 512GB Win 11 Pro Notebook",
-    "spec": "14\" screen",
-    "price": "R40 690",
-    "handle": "hp-elitebook-6-g1i-14-ai-core-u7-255u-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/hp-elitebook-6-g1i-14-ai-core-u7-255u-16gb-512gb-win-11-pro-notebook",
-    "qty": 2,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/K/CK8G9EA_80b8.jpg"
+    "title": "HP ZBook 8 G1i Laptop — Core Ultra 5 · 24GB · 1TB SSD (DM7P4ES)",
+    "spec": "1TB SSD",
+    "price": "R40 798",
+    "handle": "hp-zbook-8-g1i-14inch-dsc-rtx-500-ada-4gb-u5-225h-lcd-14-0wuxgaagled300uwvafwwanf5mpirlpln-ram-24gb-ddr5-5600-ssd-1tb-pcie4x4-nvme-tlc-ost-w11p6-hp-3y-onsite-mws-supp-no-country-of-origin-restriction",
+    "url": "/products/hp-zbook-8-g1i-14inch-dsc-rtx-500-ada-4gb-u5-225h-lcd-14-0wuxgaagled300uwvafwwanf5mpirlpln-ram-24gb-ddr5-5600-ssd-1tb-pcie4x4-nvme-tlc-ost-w11p6-hp-3y-onsite-mws-supp-no-country-of-origin-restriction",
+    "qty": 14,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DM7P4ES_default.jpg"
    },
    {
     "brand": "Dell",
@@ -1185,13 +1185,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP Smart Tank 581 Printer.Enjoy everyday relia All-in-One Printer (4A8D4A)",
+    "title": "HP Smart Tank 530 Wireless Wireless All-in-One Printer (4SB24A)",
     "spec": "Printers",
-    "price": "R3 473",
-    "handle": "hp-smart-tank-581-all-in-one-printer-enjoy-everyday-reliabilitywith-the-hp-smart-tank-581-all-in-one-printer-that-delivers-hp-quality-you-expect-and-savings-that-are-anything-but-expected-up-to-6-000",
-    "url": "/products/hp-smart-tank-581-all-in-one-printer-enjoy-everyday-reliabilitywith-the-hp-smart-tank-581-all-in-one-printer-that-delivers-hp-quality-you-expect-and-savings-that-are-anything-but-expected-up-to-6-000",
+    "price": "R5 123",
+    "handle": "hp-smart-tank-530-wireless-all-in-one-print-scan-copy-adf-wireless-rmpv-400-to-800-pages-1-3-users-hp-smart-app-apple-airprint-fire-google-cloud-print-2-0-hp-eprint-android-printing-mopria-certified",
+    "url": "/products/hp-smart-tank-530-wireless-all-in-one-print-scan-copy-adf-wireless-rmpv-400-to-800-pages-1-3-users-hp-smart-app-apple-airprint-fire-google-cloud-print-2-0-hp-eprint-android-printing-mopria-certified",
     "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/4A8D4A_default.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/4SB24A_default.jpg"
    },
    {
     "brand": "HP",
@@ -1598,14 +1598,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/900160_Port-Connect-USB-Type-C-to-4-port-USB-A-3.0-2.0-Hub_wr_01a.jpg"
    },
    {
-    "brand": "UGreen",
-    "title": "UGreen 14-in-1 USB Type-C TO USB Docking Station (1x HDMI | 2x DP | RJ45)",
+    "brand": "WINX",
+    "title": "WINX CONNECT MAX 11-in-1 Type-C Hub",
     "spec": "Docking Station",
-    "price": "R2 649",
-    "handle": "ugreen-14-in-1-usb-type-c-to-usb-docking-station-1x-hdmi-2x-dp-rj45",
-    "url": "/products/ugreen-14-in-1-usb-type-c-to-usb-docking-station-1x-hdmi-2x-dp-rj45",
-    "qty": 4,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/CM843-85489_UGreen_USB_Type-C_TO_USB2x_HDMIDPRJ45_Do_wr_01.jpg"
+    "price": "R538",
+    "handle": "winx-connect-max-11-in-1-type-c-hub",
+    "url": "/products/winx-connect-max-11-in-1-type-c-hub",
+    "qty": 214,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/HB112-wr-01a.jpg"
+   },
+   {
+    "brand": "Port",
+    "title": "Port Connect Multi-port USB Type-C 2x4K Office Docking Station",
+    "spec": "Docking Station",
+    "price": "R2 769",
+    "handle": "port-connect-multi-port-usb-type-c-2x4k-office-docking-station",
+    "url": "/products/port-connect-multi-port-usb-type-c-2x4k-office-docking-station",
+    "qty": 25,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/901908V2EU_Port-Connect-Multi-port-USB-Type-C-2x4K-Office-Docking-Station-Black_wr_01a.jpg"
    },
    {
     "brand": "Dell",
@@ -1682,14 +1692,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CR113-20290_UGREEN-4-Port-USB-3.0-Hub-with-Micro-USB_wr_01a.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port USB-C Mini with HDMI Docking Station",
+    "brand": "UGREEN",
+    "title": "UGREEN 4-in-1 Type-C Hub | USB 3.0 | Type-C",
     "spec": "Docking Station",
-    "price": "R220",
-    "handle": "port-usb-c-mini-with-hdmi-docking-station",
-    "url": "/products/port-usb-c-mini-with-hdmi-docking-station",
-    "qty": 140,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900140_0708.jpg"
+    "price": "R198",
+    "handle": "ugreen-4-in-1-type-c-hub-usb-3-0-type-c",
+    "url": "/products/ugreen-4-in-1-type-c-hub-usb-3-0-type-c",
+    "qty": 248,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/cm219-70336-wr-01a.jpg"
    },
    {
     "brand": "UGREEN",
@@ -1938,7 +1948,7 @@
     "price": "R257",
     "handle": "ugreen-cm767-m-2-nvme-ssd-enclosure-10gbps",
     "url": "/products/ugreen-cm767-m-2-nvme-ssd-enclosure-10gbps",
-    "qty": 90,
+    "qty": 89,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM767-35267_UGreen-CM767-M.2-NVMe-SSD-Enclosure-10Gbps-%E2%80%93-Silver_wr_01a.jpg"
    },
    {
@@ -2359,23 +2369,23 @@
    },
    {
     "brand": "Port",
-    "title": "Port Pure MAC Wireless Copper Rose Mouse",
+    "title": "Port Pure MAC Wireless Pearl Mouse",
     "spec": "Wired Mouse",
     "price": "R371",
-    "handle": "port-pure-mac-wireless-copper-rose-mouse",
-    "url": "/products/port-pure-mac-wireless-copper-rose-mouse",
-    "qty": 39,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__13__9474.png"
+    "handle": "port-pure-mac-wireless-pearl-mouse",
+    "url": "/products/port-pure-mac-wireless-pearl-mouse",
+    "qty": 53,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__14__f97d.png"
    },
    {
-    "brand": "Redragon",
-    "title": "Redragon BRAGI PRO K688 98+1 Gasket Wireless Mechanical Keyboard…",
+    "brand": "Keychron",
+    "title": "Keychron B6 Pro Ultra-Slim 100% Wireless Keyboard - Retro Blue",
     "spec": "Keyboards",
-    "price": "R769",
-    "handle": "redragon-bragi-pro-k688-98-1-gasket-wireless-mechanical-keyboard-triple-mode-rgb-hot-swappable-cream-linear-switches",
-    "url": "/products/redragon-bragi-pro-k688-98-1-gasket-wireless-mechanical-keyboard-triple-mode-rgb-hot-swappable-cream-linear-switches",
-    "qty": 30,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/RD-K688GB-RGB-PRO_REDRAGON-KB-MECH-BRAGI-PRO-RGB-BK_wr_01.jpg"
+    "price": "R787",
+    "handle": "keychron-b6-pro-ultra-slim-100-wireless-keyboard-retro-blue",
+    "url": "/products/keychron-b6-pro-ultra-slim-100-wireless-keyboard-retro-blue",
+    "qty": 27,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/12/B6P-K11_Keychron-B11-Pro-Ultra-Slim-10-WRLS-KB-Retro-Blue_01.jpeg"
    },
    {
     "brand": "Keychron",
