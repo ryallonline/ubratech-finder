@@ -38,7 +38,7 @@
     "price": "R11 332",
     "handle": "asus-vivobook-15-x1504ma-15-6-core-i3-8gb-256gb-win-11-home-notebook",
     "url": "/products/asus-vivobook-15-x1504ma-15-6-core-i3-8gb-256gb-win-11-home-notebook",
-    "qty": 63,
+    "qty": 62,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__65__4073.png"
    },
    {
@@ -57,7 +57,7 @@
     "brand": "Lenovo",
     "title": "Lenovo V15 Laptop — Core i3 · 256GB SSD",
     "spec": "Core i3 · 256GB SSD",
-    "price": "R13 968",
+    "price": "R13 978",
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "qty": 62,
@@ -126,14 +126,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DS5L6ET_default.png"
    },
    {
-    "brand": "HP",
-    "title": "HP ZBook 8 G1i Laptop — Core Ultra 5 · 24GB · 1TB SSD (DM7P4ES)",
-    "spec": "1TB SSD",
-    "price": "R40 798",
-    "handle": "hp-zbook-8-g1i-14inch-dsc-rtx-500-ada-4gb-u5-225h-lcd-14-0wuxgaagled300uwvafwwanf5mpirlpln-ram-24gb-ddr5-5600-ssd-1tb-pcie4x4-nvme-tlc-ost-w11p6-hp-3y-onsite-mws-supp-no-country-of-origin-restriction",
-    "url": "/products/hp-zbook-8-g1i-14inch-dsc-rtx-500-ada-4gb-u5-225h-lcd-14-0wuxgaagled300uwvafwwanf5mpirlpln-ram-24gb-ddr5-5600-ssd-1tb-pcie4x4-nvme-tlc-ost-w11p6-hp-3y-onsite-mws-supp-no-country-of-origin-restriction",
+    "brand": "Dell",
+    "title": "Dell Pro 16 Plus 16\" Core-U5 32GB 512GB Win 11 Pro Notebook",
+    "spec": "16\" screen",
+    "price": "R41 033",
+    "handle": "dell-pro-16-plus-16-core-u5-32gb-512gb-win-11-pro-notebook",
+    "url": "/products/dell-pro-16-plus-16-core-u5-32gb-512gb-win-11-pro-notebook",
     "qty": 14,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DM7P4ES_default.jpg"
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_6f5b.png"
    },
    {
     "brand": "Dell",
@@ -184,7 +184,7 @@
     "price": "R18 258",
     "handle": "hp-probook-4-g1ah-16-radeon-740m-wuxga-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
     "url": "/products/hp-probook-4-g1ah-16-radeon-740m-wuxga-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
-    "qty": 117,
+    "qty": 67,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KSAT_9f51.jpg"
    },
    {
@@ -310,7 +310,7 @@
     "price": "R21 677",
     "handle": "pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
-    "qty": 8,
+    "qty": 13,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/11/PCB_PATHFINDER_01_PCBuilder-Ryzen-5-5600XT-PATHFINDER-Windows-11-Gaming-PC_wr_01c.jpg"
    }
   ],
@@ -398,7 +398,7 @@
     "price": "R12 812",
     "handle": "pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
-    "qty": 11,
+    "qty": 34,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_DEFENDER_05_wr_01e.jpg"
    },
    {
@@ -502,7 +502,7 @@
     "price": "R12 812",
     "handle": "pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
-    "qty": 11,
+    "qty": 34,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_DEFENDER_05_wr_01e.jpg"
    },
    {
@@ -546,7 +546,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 260,
+    "qty": 258,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -637,10 +637,10 @@
     "brand": "Dell",
     "title": "Dell SE2426H 24\" FHD Gaming Monitor",
     "spec": "High refresh · smooth motion",
-    "price": "R2 002",
+    "price": "R1 949",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 149,
+    "qty": 84,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -650,7 +650,7 @@
     "price": "R2 391",
     "handle": "acer-27-ips-fhd-120hz-monitor-3yr",
     "url": "https://ubratech.co.za/products/acer-27-ips-fhd-120hz-monitor-3yr",
-    "qty": 5,
+    "qty": 4,
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
    },
    {
@@ -664,14 +664,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6568EU_Xiaomi-A27Qi-2026-27-inch-2K-120Hz-IPS-Office-Monitor_wr_01a.jpg"
    },
    {
-    "brand": "Samsung",
-    "title": "Samsung Odyssey G55T Gaming 1000R 34\" QHD Monitor (LC34G55TWWPXEN)",
+    "brand": "MSI",
+    "title": "MSI MAG345CQR 34\" Curved Gaming Monitor 3440x1440 (UWQHD) VA 1ms 180Hz",
     "spec": "34\" screen",
-    "price": "R8 360",
-    "handle": "samsung-odyssey-g55t-gaming-1000r-borderless-34-display-va-response-1ms-mprt-ar-21-9-resolution-3440x1440-uwqhd-rr-165hz-hdmi-display-port-speaker-no-power-supply-external-tilt-yes-swivel-no-pivot-no",
-    "url": "/products/samsung-odyssey-g55t-gaming-1000r-borderless-34-display-va-response-1ms-mprt-ar-21-9-resolution-3440x1440-uwqhd-rr-165hz-hdmi-display-port-speaker-no-power-supply-external-tilt-yes-swivel-no-pivot-no",
+    "price": "R7 883",
+    "handle": "msi-mag345cqr-34-curved-gaming-monitor-3440x1440-uwqhd-va-1ms-180hz",
+    "url": "/products/msi-mag345cqr-34-curved-gaming-monitor-3440x1440-uwqhd-va-1ms-180hz",
     "qty": 7,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/LC34G55TWWPXEN_default.png"
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/04/MAG-345CQR_wr_01.jpeg"
    },
    {
     "brand": "Asus",
@@ -692,7 +692,7 @@
     "price": "R2 290",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 260,
+    "qty": 258,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -712,7 +712,7 @@
     "price": "R2 660",
     "handle": "xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
     "url": "/products/xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
-    "qty": 55,
+    "qty": 56,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6364EU_Xiaomi-G24i-2026-24%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
    },
    {
@@ -746,7 +746,7 @@
     "price": "R395",
     "handle": "zone-enclosures-6-way-2m-hard-wire-lead-metal-black-pdu",
     "url": "/products/zone-enclosures-6-way-2m-hard-wire-lead-metal-black-pdu",
-    "qty": 58,
+    "qty": 43,
     "image": "https://www.pinnacle.co.za/media/catalog/product/Z/P/ZPD_6WPD_B_NE_d138.jpg"
    },
    {
@@ -810,7 +810,7 @@
     "price": "R1 024",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 403,
+    "qty": 401,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -1032,7 +1032,7 @@
     "price": "R1 269",
     "handle": "mercusys-halo-h30g-home-mesh-wi-fi-system-3-pack",
     "url": "https://ubratech.co.za/products/mercusys-halo-h30g-home-mesh-wi-fi-system-3-pack",
-    "qty": 4,
+    "qty": 3,
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/A/HALO_H30G_3_PACK_f3ee.png"
    },
    {
@@ -1098,14 +1098,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/Cudy_M3000W-3PACK_wr_01a.jpg"
    },
    {
-    "brand": "Cudy",
-    "title": "Cudy BE3600 Gigabit Mesh Wi-Fi 7 System – 3 Pack",
+    "brand": "Mercusys",
+    "title": "Mercusys BE6500 Whole Home Mesh Wi-Fi 7 System",
     "spec": "Wi-Fi 7",
-    "price": "R4 110",
-    "handle": "cudy-be3600-gigabit-mesh-wi-fi-7-system-3-pack",
-    "url": "/products/cudy-be3600-gigabit-mesh-wi-fi-7-system-3-pack",
-    "qty": 159,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/12/M3600-3PACK_Cudy-BE3600-Gigabit-Mesh-Wi-Fi-7-System-M3600-3-Pack_wr_01a.jpg"
+    "price": "R4 599",
+    "handle": "mercusys-be6500-whole-home-mesh-wi-fi-7-system",
+    "url": "/products/mercusys-be6500-whole-home-mesh-wi-fi-7-system",
+    "qty": 5,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/5/_/5__3__426b.png"
    },
    {
     "brand": "Cudy",
@@ -1124,7 +1124,7 @@
     "price": "R13 579",
     "handle": "asus-rog-rapture-gt-be19000ai-tri-band-wi-fi-7-gaming-router",
     "url": "/products/asus-rog-rapture-gt-be19000ai-tri-band-wi-fi-7-gaming-router",
-    "qty": 4,
+    "qty": 3,
     "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__14__c2da.png"
    },
    {
@@ -1160,7 +1160,7 @@
     "price": "R8 227",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 52,
+    "qty": 47,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
    },
    {
@@ -1274,7 +1274,7 @@
     "price": "R8 227",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 52,
+    "qty": 47,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
    },
    {
@@ -1708,7 +1708,7 @@
     "price": "R288",
     "handle": "ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0",
     "url": "/products/ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0",
-    "qty": 94,
+    "qty": 73,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM511-15596-wr-01.jpg"
    },
    {
@@ -1756,24 +1756,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS105_wr_01.jpg"
    },
    {
-    "brand": "Redragon",
-    "title": "Redragon H889W SPECTRA PRO Over-Ear Wireless Headphones - White",
+    "brand": "HP",
+    "title": "HP Poly Mission 415 Monaural USB Wired Headset Classic.",
     "spec": "Headsets",
-    "price": "R740",
-    "handle": "redragon-h889w-spectra-pro-over-ear-wireless-headphones-white",
-    "url": "/products/redragon-h889w-spectra-pro-over-ear-wireless-headphones-white",
-    "qty": 37,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/RD-H889WG_Redragon-H889W-SPECTRA-PRO-Over-Ear-Wireless-Headphones-White_wr_01a.jpg"
+    "price": "R754",
+    "handle": "hp-poly-mission-415-monaural-usb-wired-headset-classic",
+    "url": "/products/hp-poly-mission-415-monaural-usb-wired-headset-classic",
+    "qty": 39,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/C01A9AA_default.png"
    },
    {
-    "brand": "HP",
-    "title": "HP POLY 5220 Stereo USB-A Wired Black Headset",
+    "brand": "Port",
+    "title": "Port Connect ON’R 500 Bluetooth® Stereo Headset",
     "spec": "Headsets",
-    "price": "R1 519",
-    "handle": "hp-poly-5220-stereo-usb-a-wired-black-headset",
-    "url": "/products/hp-poly-5220-stereo-usb-a-wired-black-headset",
-    "qty": 16,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/8/X/8X231AA_4dd6.png"
+    "price": "R1 510",
+    "handle": "port-connect-on-r-500-bluetooth-stereo-headset",
+    "url": "/products/port-connect-on-r-500-bluetooth-stereo-headset",
+    "qty": 10,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/912002_PORT-CONNECT-BINAURAL-HEADSET-BT_wr_06.jpg"
    },
    {
     "brand": "HP",
@@ -1908,13 +1908,13 @@
    },
    {
     "brand": "Acconet",
-    "title": "Acconet 20U Outdoor Ventilated Cabinet | RM-CAB-20U-IP55-OUT",
-    "spec": "Unit excludes fans, 2mm - 304 mild steel, door 1.6mm MS, 1000H x 600W ",
-    "price": "R15 025",
-    "handle": "acconet-20u-outdoor-ventilated-cabinet-rm-cab-20u-ip55-out",
-    "url": "/pages/acconet-20u-outdoor-ventilated-cabinet-rm-cab-20u-ip55-out",
+    "title": "Acconet 19\" 25U vented outdoor Safe / Cabinet - 120KG",
+    "spec": "RACKS AND CABINETS",
+    "price": "R29 861",
+    "handle": "acconet-19-25u-vented-outdoor-safe-cabinet-120kg",
+    "url": "/pages/acconet-19-25u-vented-outdoor-safe-cabinet-120kg",
     "qty": 9,
-    "image": "https://miro.co.za/img/p/5/2/1/3/5213.jpg",
+    "image": "https://miro.co.za/img/p/5/1/7/8/5178.jpg",
     "enquiry": true
    }
   ]
@@ -1925,11 +1925,11 @@
     "brand": "Hiksemi",
     "title": "Hiksemi Wave 1TB PCIe Gen3 NVMe SSD",
     "spec": "M.2 2280 · big speed boost",
-    "price": "R3 525",
+    "price": "R3 857",
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 15
+    "qty": 45
    },
    {
     "brand": "Seagate",
@@ -1948,18 +1948,18 @@
     "price": "R257",
     "handle": "ugreen-cm767-m-2-nvme-ssd-enclosure-10gbps",
     "url": "/products/ugreen-cm767-m-2-nvme-ssd-enclosure-10gbps",
-    "qty": 89,
+    "qty": 88,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM767-35267_UGreen-CM767-M.2-NVMe-SSD-Enclosure-10Gbps-%E2%80%93-Silver_wr_01a.jpg"
    },
    {
-    "brand": "Kingston",
-    "title": "Kingston 480GB A400 SATA3 2.5 SSD",
+    "brand": "Patriot",
+    "title": "Patriot Transporter Lite 1TB USB3.2 Type-C External Portable SSD - Red",
     "spec": "Storage",
-    "price": "R2 345",
-    "handle": "kingston-480gb-a400-sata3-2-5-ssd-7mm-height",
-    "url": "/products/kingston-480gb-a400-sata3-2-5-ssd-7mm-height",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SA400S37/480G_default.jpg"
+    "price": "R2 265",
+    "handle": "patriot-transporter-lite-1tb-usb3-2-type-c-external-portable-ssd-red",
+    "url": "/products/patriot-transporter-lite-1tb-usb3-2-type-c-external-portable-ssd-red",
+    "qty": 25,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/PTPL1TBPEC_Patriot-Transporter-Lite-1TB-USB3.2-Type-C-External-Portable-SSD_wr_01.jpg"
    },
    {
     "brand": "SanDisk",
@@ -1991,7 +1991,7 @@
     "handle": "hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/HSC516U48Z1-16G_Hiksemi-Hiker-16GB-DDR5-4800MHz-Desktop-Memory_wr_01a.jpg",
-    "qty": 162
+    "qty": 142
    },
    {
     "brand": "GeIL",
@@ -2056,14 +2056,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/09/GT7102GD3H4HDMI_wr_01.jpg"
    },
    {
-    "brand": "ASRock",
-    "title": "ASRock Intel Arc B580 Challenger OC 12GB GDDR6 192-BIT Graphics Card",
+    "brand": "MSI",
+    "title": "MSI GeForce RTX 3050 VENTUS 2X E 6GB OC Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R7 257",
-    "handle": "asrock-intel-arc-b580-challenger-oc-12gb-gddr6-192-bit-graphics-card",
-    "url": "/products/asrock-intel-arc-b580-challenger-oc-12gb-gddr6-192-bit-graphics-card",
-    "qty": 2,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/90-GA5LZZ-00UANF_wr_01a.jpg"
+    "price": "R6 515",
+    "handle": "msi-geforce-rtx-3050-ventus-2x-e-6gb-oc-graphics-card",
+    "url": "/products/msi-geforce-rtx-3050-ventus-2x-e-6gb-oc-graphics-card",
+    "qty": 137,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/RTX3050VENTUS2XE6GOC-WR-01.jpg"
    },
    {
     "brand": "MSI",
@@ -2104,7 +2104,7 @@
     "price": "R414",
     "handle": "antec-atom-v350-non-modular-power-supply",
     "url": "/products/antec-atom-v350-non-modular-power-supply",
-    "qty": 29,
+    "qty": 27,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/ATOM-V350_wr_01a.jpg"
    },
    {
@@ -2118,14 +2118,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/07/MAG-A550BN_MSI-MAG-A550BN-550W-80-PLUS-Bronze-Non-modular-ATX-Power-Supply_wr_01a.jpg"
    },
    {
-    "brand": "DeepCool",
-    "title": "DeepCool PQ850G Series 850W 80 PLUS Gold Modular Power Supply",
+    "brand": "Antec",
+    "title": "Antec MEGA 850W 80 PLUS Gold ATX3.1 PCIE 5.1 Fully Modular Power Supply",
     "spec": "Power Supplies",
-    "price": "R1 674",
-    "handle": "deepcool-pq850g-series-850w-80-plus-gold-modular-power-supply",
-    "url": "/products/deepcool-pq850g-series-850w-80-plus-gold-modular-power-supply",
-    "qty": 25,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/R-CH160-WHNGM0-G_DeepCool-PQ850G-Series-850W-80-PLUS-Gold-Modular-Power-Supply-Black_wr_01a.jpg"
+    "price": "R1 675",
+    "handle": "antec-mega-850w-80-plus-gold-atx3-1-pcie-5-1-fully-modular-power-supply",
+    "url": "/products/antec-mega-850w-80-plus-gold-atx3-1-pcie-5-1-fully-modular-power-supply",
+    "qty": 41,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MEGA850_Antec-MEGA-850W-ATX3.1-80-Plus-Gold-PCIE-5.1-Fully-Modular-Power-Supply_wr_01.jpg"
    },
    {
     "brand": "ASUS",
@@ -2149,7 +2149,7 @@
     "handle": "xiaomi-robot-vacuum-s40c",
     "url": "https://ubratech.co.za/products/xiaomi-robot-vacuum-s40c",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/BHR9664EU_Xiaomi-Robot-Vacuum-S40C_wr_02a-1.jpg",
-    "qty": 177
+    "qty": 176
    },
    {
     "brand": "Xiaomi",
@@ -2235,13 +2235,13 @@
    },
    {
     "brand": "REDRAGON",
-    "title": "REDRAGON Over-Ear AURORA Gaming Headset - Black",
+    "title": "REDRAGON Over-Ear AURORA Gaming Headset - White",
     "spec": "Headsets",
-    "price": "R553",
-    "handle": "redragon-over-ear-aurora-gaming-headset-black",
-    "url": "/products/redragon-over-ear-aurora-gaming-headset-black",
-    "qty": 206,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/02/RD-H376BR_wr_01.jpg"
+    "price": "R578",
+    "handle": "redragon-over-ear-aurora-gaming-headset-white",
+    "url": "/products/redragon-over-ear-aurora-gaming-headset-white",
+    "qty": 161,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/RD-H376WG_REDRAGON-OVER-EAR-AURORA-WH_wr_01.jpg"
    },
    {
     "brand": "Dell",
@@ -2296,24 +2296,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "PWR",
-    "title": "PWR Dedicated to 3 Headed Cable 3.8m",
-    "spec": "Cables And Adapters",
+    "brand": "REDRAGON",
+    "title": "REDRAGON METEOR L Gaming WristPad 435x73x20mm",
+    "spec": "Accessories",
     "price": "R122",
-    "handle": "pwr-dedicated-to-3-headed-cable-3-8m",
-    "url": "/products/pwr-dedicated-to-3-headed-cable-3-8m",
-    "qty": 113,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2016/01/PC-6D3IC13BK3.8_wr_01.jpg"
+    "handle": "redragon-meteor-l-gaming-wristpad-435x73x20mm",
+    "url": "/products/redragon-meteor-l-gaming-wristpad-435x73x20mm",
+    "qty": 75,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/RD-P037_wr_01.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port 45W Universal AC Adapter (900096B-EU)",
-    "spec": "Cables And Adapters",
+    "brand": "Redragon",
+    "title": "Redragon HARROW Wireless X/D-input(Digital/Analog) PC Controller - Black",
+    "spec": "Accessories",
     "price": "R414",
-    "handle": "port-45w-universal-ac-adapter-900096b-eu",
-    "url": "/products/port-45w-universal-ac-adapter-900096b-eu",
-    "qty": 94,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__2__35ed.png"
+    "handle": "redragon-harrow-wireless-x-d-input-digital-analog-pc-controller-black",
+    "url": "/products/redragon-harrow-wireless-x-d-input-digital-analog-pc-controller-black",
+    "qty": 70,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2018/03/Redragon_RD-G808_wr_01b.jpg"
    },
    {
     "brand": "Lenovo",
@@ -2369,13 +2369,13 @@
    },
    {
     "brand": "Port",
-    "title": "Port Pure MAC Wireless Shadow Mouse",
+    "title": "Port Pure MAC Wireless Pearl Mouse",
     "spec": "Wired Mouse",
     "price": "R371",
-    "handle": "port-pure-mac-wireless-shadow-mouse",
-    "url": "/products/port-pure-mac-wireless-shadow-mouse",
-    "qty": 41,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__10__3c08.png"
+    "handle": "port-pure-mac-wireless-pearl-mouse",
+    "url": "/products/port-pure-mac-wireless-pearl-mouse",
+    "qty": 53,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__14__f97d.png"
    },
    {
     "brand": "Keychron",
