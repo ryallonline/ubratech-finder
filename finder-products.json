@@ -60,7 +60,7 @@
     "price": "R13 978",
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
-    "qty": 62,
+    "qty": 54,
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
@@ -556,7 +556,7 @@
     "price": "R1 258",
     "handle": "acer-monitor-v206h-flat-19-5-tn-led-response-time-5-ms-resolution-1600-x-900-viewing-angle-178-h-178-v-aspect-ratio-16-09-digital-frequency-100hz-interface-x1-hdmi-1x-vga-speaker-none-power-supply",
     "url": "/products/acer-monitor-v206h-flat-19-5-tn-led-response-time-5-ms-resolution-1600-x-900-viewing-angle-178-h-178-v-aspect-ratio-16-09-digital-frequency-100hz-interface-x1-hdmi-1x-vga-speaker-none-power-supply",
-    "qty": 84,
+    "qty": 83,
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
@@ -603,13 +603,13 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro 34 Plus P3425WE 34\" USB-C Hub Monitor",
-    "spec": "34\" screen",
-    "price": "R10 676",
-    "handle": "dell-pro-34-plus-usb-c-hub-monitor-p3425we-86-5cm-34-1-1x-hdmi-1x-dp-1x-rj45-6x-usb-ports",
-    "url": "/products/dell-pro-34-plus-usb-c-hub-monitor-p3425we-86-5cm-34-1-1x-hdmi-1x-dp-1x-rj45-6x-usb-ports",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BRDR_default.jpg"
+    "title": "Dell Pro 27 Plus 4K USB-C Hub Monitor - P2725QE, 68.6cm (27.0\")",
+    "spec": "27.0\" screen",
+    "price": "R9 812",
+    "handle": "dell-pro-27-plus-4k-usb-c-hub-monitor-p2725qe-68-6cm-27-0",
+    "url": "/products/dell-pro-27-plus-4k-usb-c-hub-monitor-p2725qe-68-6cm-27-0",
+    "qty": 4,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BRDS_default.jpg"
    },
    {
     "brand": "Asus",
@@ -637,10 +637,10 @@
     "brand": "Dell",
     "title": "Dell SE2426H 24\" FHD Gaming Monitor",
     "spec": "High refresh · smooth motion",
-    "price": "R1 995",
+    "price": "R1 998",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 188,
+    "qty": 183,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -702,7 +702,7 @@
     "price": "R1 486",
     "handle": "hikvision-18-5-borderless-fhd-monitor",
     "url": "/products/hikvision-18-5-borderless-fhd-monitor",
-    "qty": 86,
+    "qty": 36,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
@@ -756,7 +756,7 @@
     "price": "R1 310",
     "handle": "eaton-5e-700va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-700va-gen2-usb-iec-ups",
-    "qty": 62,
+    "qty": 61,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E700UI_33ac.png"
    },
    {
@@ -778,28 +778,6 @@
     "url": "/products/apc-backup-ups-1600va-1-6kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
     "qty": 3,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BX1600MI_default.jpg"
-   },
-   {
-    "brand": "Acconet",
-    "title": "Acconet Mini UPS DC Jack Input 12V 2.3A | AC-UPS-MINI-V2",
-    "spec": "13200mAh Battery, 4 Way Cable - 1x USB, 1x 9V, 2x 12V, no PSU included",
-    "price": "R240",
-    "handle": "acconet-mini-ups-dc-jack-input-12v-2-3a-ac-ups-mini-v2",
-    "url": "/pages/acconet-mini-ups-dc-jack-input-12v-2-3a-ac-ups-mini-v2",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/9/8/9/0/9890.jpg",
-    "enquiry": true
-   },
-   {
-    "brand": "Acconet",
-    "title": "Acconet Mini DC UPS 13200mAh with 12V 2A Power Supply | AC-UPS-MINI-V2-KIT",
-    "spec": "13200mAh Battery, 4 Way Cable - 1x USB, 1x 9V, 2x 12V, includes PSU-12",
-    "price": "R362",
-    "handle": "acconet-mini-dc-ups-13200mah-with-12v-2a-power-supply-ac-ups-mini-v2-kit",
-    "url": "/pages/acconet-mini-dc-ups-13200mah-with-12v-2a-power-supply-ac-ups-mini-v2-kit",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/1/7/2/2/2/17222.jpg",
-    "enquiry": true
    }
   ],
   "desk": [
@@ -810,7 +788,7 @@
     "price": "R1 024",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 401,
+    "qty": 400,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -827,10 +805,10 @@
     "brand": "Eaton",
     "title": "Eaton 5E 1600VA GEN2 USB IEC UPS",
     "spec": "Ups And Power",
-    "price": "R2 972",
+    "price": "R2 897",
     "handle": "eaton-5e-1600va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-1600va-gen2-usb-iec-ups",
-    "qty": 8,
+    "qty": 20,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
    },
    {
@@ -842,28 +820,6 @@
     "url": "/products/apc-smart-line-interactive-1000va-1kva-600w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
     "qty": 4,
     "image": "https://s3.amazonaws.com/tarsus.co.za/SMC1000IC_default.jpg"
-   },
-   {
-    "brand": "Acconet",
-    "title": "Acconet 2000VA/1800W Online Rack Mounted UPS | AC-UPS-O2000-R",
-    "spec": "10-15 Minutes Run Time @ 1800W Load.",
-    "price": "R6 100",
-    "handle": "acconet-2000va-1800w-online-rack-mounted-ups-ac-ups-o2000-r",
-    "url": "/pages/acconet-2000va-1800w-online-rack-mounted-ups-ac-ups-o2000-r",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/9/9/0/2/9902.jpg",
-    "enquiry": true
-   },
-   {
-    "brand": "Acconet",
-    "title": "Acconet 3000VA/2700W Online Rack Mounted UPS | AC-UPS-O3000-R",
-    "spec": "10-15 Minutes Run Time @ 2700W Load.",
-    "price": "R6 429",
-    "handle": "acconet-3000va-2700w-online-rack-mounted-ups-ac-ups-o3000-r",
-    "url": "/pages/acconet-3000va-2700w-online-rack-mounted-ups-ac-ups-o3000-r",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/9/9/1/2/9912.jpg",
-    "enquiry": true
    }
   ],
   "multi": [
@@ -871,10 +827,10 @@
     "brand": "Eaton",
     "title": "Eaton 5E 1600VA UPS",
     "spec": "Backs up a whole desk",
-    "price": "R2 972",
+    "price": "R2 897",
     "handle": "eaton-5e-1600va-gen2-usb-iec-ups",
     "url": "https://ubratech.co.za/products/eaton-5e-1600va-gen2-usb-iec-ups",
-    "qty": 8,
+    "qty": 20,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
    },
    {
@@ -1126,28 +1082,6 @@
     "url": "/products/asus-rog-rapture-gt-be19000ai-tri-band-wi-fi-7-gaming-router",
     "qty": 2,
     "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__14__c2da.png"
-   },
-   {
-    "brand": "MikroTik",
-    "title": "MikroTik cAP ac Dual Band 1200Mbps Wi-Fi 5 PoE  Ceiling AP | MT-RBCAP-AC",
-    "spec": "802.11 b/g/n/ac, 2dBi gain, Dual chain, PoE-in 802.3af/at, PoE out - p",
-    "price": "R1 500",
-    "handle": "mikrotik-cap-ac-dual-band-1200mbps-wi-fi-5-poe-ceiling-ap-mt-rbcap-ac",
-    "url": "/pages/mikrotik-cap-ac-dual-band-1200mbps-wi-fi-5-poe-ceiling-ap-mt-rbcap-ac",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/4/7/4/0/4740.jpg",
-    "enquiry": true
-   },
-   {
-    "brand": "Cambium Networks",
-    "title": "Cambium cnPilot Enterprise WiFi 6 120° Outdoor AP | CNP-XV-2T1",
-    "spec": "2x2 Dual Band 802.11ax, 30W PoE out, 1 x 2.5 Gb Port, 1 x Gb Port, PoE",
-    "price": "R14 646",
-    "handle": "cambium-cnpilot-enterprise-wifi-6-120-outdoor-ap-cnp-xv-2t1",
-    "url": "/pages/cambium-cnpilot-enterprise-wifi-6-120-outdoor-ap-cnp-xv-2t1",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/8/5/0/0/8500.jpg",
-    "enquiry": true
    }
   ]
  },
@@ -1200,7 +1134,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
     "url": "/products/hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
-    "qty": 71,
+    "qty": 75,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    },
    {
@@ -1222,7 +1156,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
     "url": "https://ubratech.co.za/products/hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
-    "qty": 71,
+    "qty": 75,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    },
    {
@@ -1252,7 +1186,7 @@
     "price": "R6 505",
     "handle": "hp-smart-tank-750-print-scan-copy-up-to-15-9-ppm-automatic-duplex-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-2-contextual-display-with-id-copy-low-on-ink-sensor-30-000",
     "url": "/products/hp-smart-tank-750-print-scan-copy-up-to-15-9-ppm-automatic-duplex-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-2-contextual-display-with-id-copy-low-on-ink-sensor-30-000",
-    "qty": 30,
+    "qty": 29,
     "image": "https://s3.amazonaws.com/tarsus.co.za/6UU47A_default.jpg"
    },
    {
@@ -1262,7 +1196,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
     "url": "/products/hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
-    "qty": 71,
+    "qty": 75,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    }
   ],
@@ -1375,13 +1309,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Fixed Minin Bullet Network Camera",
+    "title": "Hikvision 4MP Fixed Dome Network Camera",
     "spec": "4MP",
-    "price": "R2 406",
-    "handle": "hikvision-4mp-fixed-minin-bullet-network-camera",
-    "url": "/products/hikvision-4mp-fixed-minin-bullet-network-camera",
-    "qty": 203,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_2.8MM_1_1e43.png"
+    "price": "R2 353",
+    "handle": "hikvision-4mp-fixed-dome-network-camera",
+    "url": "/products/hikvision-4mp-fixed-dome-network-camera",
+    "qty": 71,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
    },
    {
     "brand": "Hikvision",
@@ -1392,28 +1326,6 @@
     "url": "/products/hikvision-4mp-fixed-mini-bullet-network-camera",
     "qty": 97,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_4MM_1_306c.png"
-   },
-   {
-    "brand": "TP-Link VIGI",
-    "title": "TP-Link VIGI Mini 3MP IR Mini Dome Camera | C230IMINI (2.8MM)",
-    "spec": "3MP, 2.8mm Fixed Lens, 1/2.8” Progressive Scan CMOS, H.265+/H.265/H.26",
-    "price": "R834",
-    "handle": "tp-link-vigi-mini-3mp-ir-mini-dome-camera-c230imini-2-8mm",
-    "url": "/pages/tp-link-vigi-mini-3mp-ir-mini-dome-camera-c230imini-2-8mm",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/1/8/0/2/5/18025.jpg",
-    "enquiry": true
-   },
-   {
-    "brand": "TP-Link Tapo",
-    "title": "TP-Link Tapo 2K Dual-Lens Pan/Tilt Solar Wi-Fi Security Camera Kit | C645D-KIT",
-    "spec": "4K QHD (3840x2160), 2.4 G&5GHz, 7800mAh rechargeable lithium-ion batte",
-    "price": "R2 984",
-    "handle": "tp-link-tapo-2k-dual-lens-pan-tilt-solar-wi-fi-security-camera-kit-c645d-kit",
-    "url": "/pages/tp-link-tapo-2k-dual-lens-pan-tilt-solar-wi-fi-security-camera-kit-c645d-kit",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/1/9/9/6/5/19965.jpg",
-    "enquiry": true
    }
   ],
   "medium": [
@@ -1469,35 +1381,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Smart-Hybrid Light with ColorVu Motorized Varifocal Bullet IP Camera",
-    "spec": "4MP",
-    "price": "R5 642",
-    "handle": "hikvision-4mp-smart-hybrid-light-with-colorvu-motorized-varifocal-bullet-ip-camera",
-    "url": "/products/hikvision-4mp-smart-hybrid-light-with-colorvu-motorized-varifocal-bullet-ip-camera",
-    "qty": 174,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2647G3_LIZSY_2.8_12MM_b442.jpg"
-   },
-   {
-    "brand": "TP-Link VIGI",
-    "title": "TP-Link VIGI 4MP Full-Colour Dome Camera | TP-VIGI-S245-4",
-    "spec": "4MP, 4mm Fixed Lens, 1/2.7” Progressive Scan CMOS, H.265+/H.265/H.264+",
-    "price": "R1 516",
-    "handle": "tp-link-vigi-4mp-full-colour-dome-camera-tp-vigi-s245-4",
-    "url": "/pages/tp-link-vigi-4mp-full-colour-dome-camera-tp-vigi-s245-4",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/1/7/8/9/4/17894.jpg",
-    "enquiry": true
-   },
-   {
-    "brand": "Ubiquiti",
-    "title": "Ubiquiti UniFi Protect AI Theta IP Camera | UVC-AI-Theta",
-    "spec": "Includes AI-Theta-Hub, 1x 360deg & 1 x Bullet Theta-Lens, Quad-core Ar",
-    "price": "R7 606",
-    "handle": "ubiquiti-unifi-protect-ai-theta-ip-camera-uvc-ai-theta",
-    "url": "/pages/ubiquiti-unifi-protect-ai-theta-ip-camera-uvc-ai-theta",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/1/1/7/5/0/11750.jpg",
-    "enquiry": true
+    "title": "Hikvision Tandemvu 2MP IR Network Speed Dome IP Camera",
+    "spec": "2MP",
+    "price": "R7 150",
+    "handle": "hikvision-tandemvu-2mp-ir-network-speed-dome-ip-camera",
+    "url": "/products/hikvision-tandemvu-2mp-ir-network-speed-dome-ip-camera",
+    "qty": 36,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/d/s/ds_2se4c225mwg_8632.jpg"
    }
   ],
   "large": [
@@ -1523,19 +1413,19 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Smartt Hybrid Colorvu Fixed Bullet IP Camera",
+    "title": "Hikvision 4MP Colorvu Fixed Bullet Polymer Anti-Corrosion Network IP Camera",
     "spec": "4MP",
-    "price": "R3 480",
-    "handle": "hikvision-4mp-smartt-hybrid-colorvu-fixed-bullet-ip-camera",
-    "url": "/products/hikvision-4mp-smartt-hybrid-colorvu-fixed-bullet-ip-camera",
-    "qty": 4,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T47G2H_LISU_SL_4MM_90df.jpg"
+    "price": "R3 375",
+    "handle": "hikvision-4mp-colorvu-fixed-bullet-polymer-anti-corrosion-network-ip-camera",
+    "url": "/products/hikvision-4mp-colorvu-fixed-bullet-polymer-anti-corrosion-network-ip-camera",
+    "qty": 75,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2XC6027G0_LS_1_23b9.png"
    },
    {
     "brand": "Hikvision",
     "title": "Hikvision 4MP AcuSense PTRZ Varifocal Dome IP Camera",
     "spec": "4MP",
-    "price": "R4 776",
+    "price": "R4 212",
     "handle": "hikvision-4mp-acusense-ptrz-varifocal-dome-ip-camera",
     "url": "/products/hikvision-4mp-acusense-ptrz-varifocal-dome-ip-camera",
     "qty": 27,
@@ -1550,28 +1440,6 @@
     "url": "/products/hikvision-4mp-deepinview-anpr-moto-varifocal-bullet-ip-camera",
     "qty": 79,
     "image": "https://www.pinnacle.co.za/media/catalog/product/I/D/IDS_2CD7A46G2_P_IZHS2.8_12MM_ac9b.jpg"
-   },
-   {
-    "brand": "Uniview",
-    "title": "Uniview UNV 5MP OmniView Bullet IP Camera 180° | IPC2105SB-ADF16KM-I0",
-    "spec": "Uniview Smart Analytics, PoE, IR 20m, 1.68mm Lens, IP 67, IK10, SD, Mi",
-    "price": "R3 028",
-    "handle": "uniview-unv-5mp-omniview-bullet-ip-camera-180-ipc2105sb-adf16km-i0",
-    "url": "/pages/uniview-unv-5mp-omniview-bullet-ip-camera-180-ipc2105sb-adf16km-i0",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/1/9/1/7/5/19175.jpg",
-    "enquiry": true
-   },
-   {
-    "brand": "Ubiquiti",
-    "title": "Ubiquiti UniFi Protect AI Multi Sensor 4, 32MP | UVC-AI-MS-4-B",
-    "spec": "IP66, IK10, 20m IR, 2.33x Optical Zoom, Ceiling Mount, 2x MicroSD slot",
-    "price": "R32 512",
-    "handle": "ubiquiti-unifi-protect-ai-multi-sensor-4-32mp-uvc-ai-ms-4-b",
-    "url": "/pages/ubiquiti-unifi-protect-ai-multi-sensor-4-32mp-uvc-ai-ms-4-b",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/1/9/4/6/6/19466.jpg",
-    "enquiry": true
    }
   ]
  },
@@ -1832,14 +1700,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG108E_36a3.jpg"
    },
    {
-    "brand": "Huawei",
-    "title": "Huawei S220S-24P4JX 24-Port 400W PoE Switch",
-    "spec": "24 ports",
-    "price": "R5 238",
-    "handle": "huawei-s220s-24p4jx-24-port-400w-poe-switch",
-    "url": "/products/huawei-s220s-24p4jx-24-port-400w-poe-switch",
-    "qty": 2,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__97__dbd8.png"
+    "brand": "TP-Link",
+    "title": "TP-Link Jetstream 28 Port Smart Managed POE Switch",
+    "spec": "28 ports",
+    "price": "R4 438",
+    "handle": "tp-link-jetstream-28-port-smart-managed-poe-switch",
+    "url": "/products/tp-link-jetstream-28-port-smart-managed-poe-switch",
+    "qty": 5,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/S/G/SG2428P_1_e994.png"
    },
    {
     "brand": "Huawei",
@@ -1850,28 +1718,6 @@
     "url": "/products/huawei-s310-48p4x-ekit-48-port-poe-switch",
     "qty": 24,
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_fcaa.png"
-   },
-   {
-    "brand": "Grandstream",
-    "title": "Grandstream Enterprise 5 port Unmanaged GbE Switch | GWN7700",
-    "spec": "5x GbE, plastic case, 5V/0.6A PSU",
-    "price": "R190",
-    "handle": "grandstream-enterprise-5-port-unmanaged-gbe-switch-gwn7700",
-    "url": "/pages/grandstream-enterprise-5-port-unmanaged-gbe-switch-gwn7700",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/1/2/2/0/2/12202.jpg",
-    "enquiry": true
-   },
-   {
-    "brand": "Ubiquiti",
-    "title": "Ubiquiti UniFi Pro 48 Port 40 PoE 600W Switch 4SFP+ | USW-Pro-48-PoE",
-    "spec": "1.3\" touch LCM;auto-sensing 802.3at PoE+ and 802.3bt PoE++ 600W PoE bu",
-    "price": "R24 162",
-    "handle": "ubiquiti-unifi-pro-48-port-40-poe-600w-switch-4sfp-usw-pro-48-poe",
-    "url": "/pages/ubiquiti-unifi-pro-48-port-40-poe-600w-switch-4sfp-usw-pro-48-poe",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/1/6/9/3/7/16937.jpg",
-    "enquiry": true
    }
   ],
   "rack": [
@@ -1894,28 +1740,6 @@
     "url": "/products/tp-link-8-port-gigabit-unmanaged-rackmount-poe-switch",
     "qty": 3,
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008MP_68a7.jpg"
-   },
-   {
-    "brand": "Acconet",
-    "title": "Acconet 6U Unassembled Wall Mount Box | AC-CAB-6U450-WM",
-    "spec": "Flat Pack, Glass Door",
-    "price": "R1 437",
-    "handle": "acconet-6u-unassembled-wall-mount-box-ac-cab-6u450-wm",
-    "url": "/pages/acconet-6u-unassembled-wall-mount-box-ac-cab-6u450-wm",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/1/3/4/2/4/13424.jpg",
-    "enquiry": true
-   },
-   {
-    "brand": "Acconet",
-    "title": "Acconet 19\" 25U vented outdoor Safe / Cabinet - 120KG",
-    "spec": "RACKS AND CABINETS",
-    "price": "R29 861",
-    "handle": "acconet-19-25u-vented-outdoor-safe-cabinet-120kg",
-    "url": "/pages/acconet-19-25u-vented-outdoor-safe-cabinet-120kg",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/5/1/7/8/5178.jpg",
-    "enquiry": true
    }
   ]
  },
@@ -1939,7 +1763,7 @@
     "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
-    "qty": 25
+    "qty": 15
    },
    {
     "brand": "UGREEN",
@@ -1953,13 +1777,13 @@
    },
    {
     "brand": "Patriot",
-    "title": "Patriot Transporter Lite 1TB USB3.2 Type-C External Portable SSD - Red",
+    "title": "Patriot PVP30 1TB Duo Compact External Portable SSD",
     "spec": "Storage",
     "price": "R2 265",
-    "handle": "patriot-transporter-lite-1tb-usb3-2-type-c-external-portable-ssd-red",
-    "url": "/products/patriot-transporter-lite-1tb-usb3-2-type-c-external-portable-ssd-red",
-    "qty": 25,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/PTPL1TBPEC_Patriot-Transporter-Lite-1TB-USB3.2-Type-C-External-Portable-SSD_wr_01.jpg"
+    "handle": "patriot-pvp30-1tb-duo-compact-external-portable-ssd",
+    "url": "/products/patriot-pvp30-1tb-duo-compact-external-portable-ssd",
+    "qty": 19,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/PVP301TB28UDG_Patriot-PVP30-1TB-Duo-Compact-External-Portable-SSD_wr_01.jpg"
    },
    {
     "brand": "SanDisk",
@@ -2306,14 +2130,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/GAPCHVUPD_wr_01a.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port 45W Universal AC Adapter (900096B-EU)",
-    "spec": "Cables And Adapters",
+    "brand": "Redragon",
+    "title": "Redragon HARROW Wireless X/D-input(Digital/Analog) PC Controller - Black",
+    "spec": "Accessories",
     "price": "R414",
-    "handle": "port-45w-universal-ac-adapter-900096b-eu",
-    "url": "/products/port-45w-universal-ac-adapter-900096b-eu",
-    "qty": 94,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__2__35ed.png"
+    "handle": "redragon-harrow-wireless-x-d-input-digital-analog-pc-controller-black",
+    "url": "/products/redragon-harrow-wireless-x-d-input-digital-analog-pc-controller-black",
+    "qty": 90,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2018/03/Redragon_RD-G808_wr_01b.jpg"
    },
    {
     "brand": "Lenovo",
@@ -2399,74 +2223,7 @@
    }
   ]
  },
- "wifi_ap": [
-  {
-   "brand": "MikroTik",
-   "title": "MikroTik cAP 2nD - 2.4GHz Indoor AP",
-   "spec": "650MHz CPU, 64MB RAM, 802.11b/g/n dual chain, 1 x 10/100 LAN, RouterOS",
-   "price": "R903",
-   "handle": "mikrotik-cap-2nd-2-4ghz-indoor-ap",
-   "url": "/pages/mikrotik-cap-2nd-2-4ghz-indoor-ap",
-   "qty": 9,
-   "image": "https://miro.co.za/img/p/9/5/9/959.jpg",
-   "enquiry": true
-  },
-  {
-   "brand": "Grandstream",
-   "title": "Grandstream Enterprise WiFi 6 In-Wall Indoor Access Point | GWN7661E",
-   "spec": "3 Gbps, 2x2:2 2.4G/5G, 1x GbE PoE, 2x GbE,100m coverage,256 clients, E",
-   "price": "R1 385",
-   "handle": "grandstream-enterprise-wifi-6-in-wall-indoor-access-point-gwn7661e",
-   "url": "/pages/grandstream-enterprise-wifi-6-in-wall-indoor-access-point-gwn7661e",
-   "qty": 9,
-   "image": "https://miro.co.za/img/p/1/5/3/4/6/15346.jpg",
-   "enquiry": true
-  },
-  {
-   "brand": "TP-Link Omada",
-   "title": "TP-Link Omada Dual-Band Wi-Fi 7 AP | EAP727",
-   "spec": "1×2.5G RJ45 Port, 688 Mbps (2.4 GHz) + 4300 Mbps (5 GHz), 802.3at PoE ",
-   "price": "R2 002",
-   "handle": "tp-link-omada-dual-band-wi-fi-7-ap-eap727",
-   "url": "/pages/tp-link-omada-dual-band-wi-fi-7-ap-eap727",
-   "qty": 9,
-   "image": "https://miro.co.za/img/p/2/0/3/3/8/20338.jpg",
-   "enquiry": true
-  },
-  {
-   "brand": "Grandstream",
-   "title": "Grandstream Enterprise WiFi 7 Indoor Access Point | GWN7672",
-   "spec": "3.6Gbps, Dual-band 2x2:2 MU-MIMO,256 client devices, 2x 2.5GbE, BLE, E",
-   "price": "R3 176",
-   "handle": "grandstream-enterprise-wifi-7-indoor-access-point-gwn7672",
-   "url": "/pages/grandstream-enterprise-wifi-7-indoor-access-point-gwn7672",
-   "qty": 9,
-   "image": "https://miro.co.za/img/p/1/8/6/6/5/18665.jpg",
-   "enquiry": true
-  },
-  {
-   "brand": "Cambium Networks",
-   "title": "Cambium cnPilot WiFi 5 Wave 2 Indoor Wall Plate AP | CNP-E430H",
-   "spec": "Indoor 2x2 Dual Band 802.11ac Wave 2 MU-MIMO Wall Plate AP PoE pass-th",
-   "price": "R4 587",
-   "handle": "cambium-cnpilot-wifi-5-wave-2-indoor-wall-plate-ap-cnp-e430h",
-   "url": "/pages/cambium-cnpilot-wifi-5-wave-2-indoor-wall-plate-ap-cnp-e430h",
-   "qty": 9,
-   "image": "https://miro.co.za/img/p/2/2/1/221.jpg",
-   "enquiry": true
-  },
-  {
-   "brand": "Cambium Networks",
-   "title": "Cambium cnPilot Enterprise WiFi 6 120° Outdoor AP | CNP-XV-2T1",
-   "spec": "2x2 Dual Band 802.11ax, 30W PoE out, 1 x 2.5 Gb Port, 1 x Gb Port, PoE",
-   "price": "R14 646",
-   "handle": "cambium-cnpilot-enterprise-wifi-6-120-outdoor-ap-cnp-xv-2t1",
-   "url": "/pages/cambium-cnpilot-enterprise-wifi-6-120-outdoor-ap-cnp-xv-2t1",
-   "qty": 9,
-   "image": "https://miro.co.za/img/p/8/5/0/0/8500.jpg",
-   "enquiry": true
-  }
- ],
+ "wifi_ap": [],
  "companions": {
   "cctv": [
    [
