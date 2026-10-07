@@ -127,13 +127,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP ZBook 8 G1i Laptop — Core Ultra 5 · 24GB · 1TB SSD (DM7P4ES)",
-    "spec": "1TB SSD",
-    "price": "R40 798",
-    "handle": "hp-zbook-8-g1i-14inch-dsc-rtx-500-ada-4gb-u5-225h-lcd-14-0wuxgaagled300uwvafwwanf5mpirlpln-ram-24gb-ddr5-5600-ssd-1tb-pcie4x4-nvme-tlc-ost-w11p6-hp-3y-onsite-mws-supp-no-country-of-origin-restriction",
-    "url": "/products/hp-zbook-8-g1i-14inch-dsc-rtx-500-ada-4gb-u5-225h-lcd-14-0wuxgaagled300uwvafwwanf5mpirlpln-ram-24gb-ddr5-5600-ssd-1tb-pcie4x4-nvme-tlc-ost-w11p6-hp-3y-onsite-mws-supp-no-country-of-origin-restriction",
-    "qty": 14,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DM7P4ES_default.jpg"
+    "title": "HP Elitebook 6 G1i 14\" AI Core U7-255U 16GB 512GB Win 11 Pro Notebook",
+    "spec": "14\" screen",
+    "price": "R40 690",
+    "handle": "hp-elitebook-6-g1i-14-ai-core-u7-255u-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/hp-elitebook-6-g1i-14-ai-core-u7-255u-16gb-512gb-win-11-pro-notebook",
+    "qty": 2,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/K/CK8G9EA_80b8.jpg"
    },
    {
     "brand": "Dell",
@@ -154,7 +154,7 @@
     "price": "R28 332",
     "handle": "asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
     "url": "https://ubratech.co.za/products/asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
-    "qty": 26,
+    "qty": 25,
     "image": "https://www.pinnacle.co.za/media/catalog/product/V/3/V3607VH_I71610B0X__1__7ef3.png"
    },
    {
@@ -184,7 +184,7 @@
     "price": "R18 258",
     "handle": "hp-probook-4-g1ah-16-radeon-740m-wuxga-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
     "url": "/products/hp-probook-4-g1ah-16-radeon-740m-wuxga-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
-    "qty": 113,
+    "qty": 107,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KSAT_9f51.jpg"
    },
    {
@@ -280,18 +280,18 @@
     "price": "R12 809",
     "handle": "pcbuilder-amd-ryzen-7-5700g-home-master-windows-11-desktop-pc",
     "url": "/products/pcbuilder-amd-ryzen-7-5700g-home-master-windows-11-desktop-pc",
-    "qty": 1,
+    "qty": 16,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_HOME_R716G_wr_01a.jpg"
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder Intel i5-12400 OFFICE MASTER Core Windows 11 Pro Desktop PC",
+    "title": "PCBuilder Ryzen 5 8600G WARDEN Windows 11 Gaming PC",
     "spec": "Desktops",
-    "price": "R15 073",
-    "handle": "pcbuilder-intel-i5-12400-office-master-core-windows-11-pro-desktop-pc",
-    "url": "/products/pcbuilder-intel-i5-12400-office-master-core-windows-11-pro-desktop-pc",
-    "qty": 4,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/01/PCB_OFFICE_I516G-V3_wr_01e.jpg"
+    "price": "R15 767",
+    "handle": "pcbuilder-ryzen-5-8600g-warden-windows-11-gaming-pc",
+    "url": "/products/pcbuilder-ryzen-5-8600g-warden-windows-11-gaming-pc",
+    "qty": 8,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_WARDEN_02_PCBuilder-Ryzen-5-8600G-WARDEN-Windows-11-Gaming-PC_wr_01a.jpg"
    },
    {
     "brand": "PCBuilder",
@@ -342,7 +342,7 @@
     "price": "R28 875",
     "handle": "hp-prodesk-4-g1i-ai-ultra-7-265t-16gb-512gb-win-11-pro-mini-desktop",
     "url": "/products/hp-prodesk-4-g1i-ai-ultra-7-265t-16gb-512gb-win-11-pro-mini-desktop",
-    "qty": 142,
+    "qty": 141,
     "image": "https://www.pinnacle.co.za/media/catalog/product/B/Y/BY6U6ET_5ec1.jpg"
    },
    {
@@ -428,7 +428,7 @@
     "price": "R22 036",
     "handle": "acer-nitro-v-16-gaming-laptop-16-amd-ryzen-5-16gb-1tb-rtx-5060-8gb-windows-11-home",
     "url": "/products/acer-nitro-v-16-gaming-laptop-16-amd-ryzen-5-16gb-1tb-rtx-5060-8gb-windows-11-home",
-    "qty": 38,
+    "qty": 37,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NH.QYXEA_.001_Acer-NITRO-V-16-Gaming-Laptop-16%E2%80%B3-AMD-Ryzen-5-16GB-1TB-RTX-5060-8GB-Windows-11-Home_wr_001a.jpg"
    }
   ],
@@ -543,10 +543,10 @@
     "brand": "Dell",
     "title": "Dell SE2726HM 27\" FHD Monitor",
     "spec": "Crisp everyday screen",
-    "price": "R2 333",
+    "price": "R2 376",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 99,
+    "qty": 38,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -556,18 +556,18 @@
     "price": "R1 258",
     "handle": "acer-monitor-v206h-flat-19-5-tn-led-response-time-5-ms-resolution-1600-x-900-viewing-angle-178-h-178-v-aspect-ratio-16-09-digital-frequency-100hz-interface-x1-hdmi-1x-vga-speaker-none-power-supply",
     "url": "/products/acer-monitor-v206h-flat-19-5-tn-led-response-time-5-ms-resolution-1600-x-900-viewing-angle-178-h-178-v-aspect-ratio-16-09-digital-frequency-100hz-interface-x1-hdmi-1x-vga-speaker-none-power-supply",
-    "qty": 83,
+    "qty": 80,
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer 27\" IPS FHD 120Hz Monitor 3Yr",
-    "spec": "27\" screen",
-    "price": "R2 391",
-    "handle": "acer-27-ips-fhd-120hz-monitor-3yr",
-    "url": "/products/acer-27-ips-fhd-120hz-monitor-3yr",
-    "qty": 4,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 24 Adjustable Stand Monitor - E2426HS 1x HDMI, 1x DP, 1x VGA",
+    "spec": "Monitors And Displays",
+    "price": "R2 435",
+    "handle": "dell-pro-24-adjustable-stand-monitor-e2426hs-1x-hdmi-1x-dp-1x-vga",
+    "url": "/products/dell-pro-24-adjustable-stand-monitor-e2426hs-1x-hdmi-1x-dp-1x-vga",
+    "qty": 19,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPM_default.png"
    },
    {
     "brand": "Xiaomi",
@@ -634,16 +634,6 @@
   ],
   "gaming": [
    {
-    "brand": "Dell",
-    "title": "Dell SE2426H 24\" FHD Gaming Monitor",
-    "spec": "High refresh · smooth motion",
-    "price": "R1 998",
-    "handle": "dell-se2426h-24-fhd-gaming-monitor",
-    "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 25,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
-   },
-   {
     "brand": "Acer",
     "title": "Acer 27\" IPS FHD 120Hz Monitor",
     "spec": "High refresh · smooth motion",
@@ -654,14 +644,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer Nitro VG270 27\" IPS FHD 1MS 240HZ Gaming Monitor 3Yr",
+    "brand": "Xiaomi",
+    "title": "Xiaomi A24i 2026 24″ 144Hz Full HD 1080P IPS Office Monitor",
+    "spec": "Monitors And Displays",
+    "price": "R2 071",
+    "handle": "xiaomi-a24i-2026-24-144hz-full-hd-1080p-ips-office-monitor",
+    "url": "/products/xiaomi-a24i-2026-24-144hz-full-hd-1080p-ips-office-monitor",
+    "qty": 132,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6416EU_Xiaomi-A24i-2026-24-inch-144Hz-Full-HD-1080P-IPS-Office-Monitor_wr_01a.jpg"
+   },
+   {
+    "brand": "Xiaomi",
+    "title": "Xiaomi A27Qi 2026 27\" inch 120Hz 2K IPS Office Monitor",
     "spec": "27\" screen",
-    "price": "R3 273",
-    "handle": "acer-nitro-vg270-27-ips-fhd-1ms-240hz-gaming-monitor-3yr",
-    "url": "/products/acer-nitro-vg270-27-ips-fhd-1ms-240hz-gaming-monitor-3yr",
-    "qty": 1,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HV0EE.W01_default.jpg"
+    "price": "R3 449",
+    "handle": "xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
+    "url": "/products/xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
+    "qty": 113,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6568EU_Xiaomi-A27Qi-2026-27-inch-2K-120Hz-IPS-Office-Monitor_wr_01a.jpg"
    },
    {
     "brand": "Samsung",
@@ -689,10 +689,10 @@
     "brand": "Dell",
     "title": "Dell SE2726HM 27\" FHD Monitor",
     "spec": "Slim bezel · great for lots of windows",
-    "price": "R2 333",
+    "price": "R2 376",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 99,
+    "qty": 38,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -706,14 +706,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi G24i 2026 24″ 200Hz Full HD 1080p IPS Gaming Monitor",
+    "brand": "MSI",
+    "title": "MSI MAG 255F X24 25″ FHD 240Hz IPS Gaming Monitor",
     "spec": "Monitors And Displays",
-    "price": "R2 660",
-    "handle": "xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
-    "url": "/products/xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
-    "qty": 155,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6364EU_Xiaomi-G24i-2026-24%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
+    "price": "R2 661",
+    "handle": "msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
+    "url": "/products/msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
+    "qty": 138,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-X24_MSI-MAG-255F-X24-25-inch-FHD-240Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
     "brand": "HP",
@@ -746,7 +746,7 @@
     "price": "R285",
     "handle": "gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "url": "/products/gizzu-30w-38wh-10400mah-mini-dc-ups-black",
-    "qty": 98,
+    "qty": 97,
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GU30WPRO_wr_01a.jpg"
    },
    {
@@ -760,14 +760,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
-    "brand": "Eaton",
-    "title": "Eaton 5E 900VA GEN2 USB IEC UPS",
+    "brand": "APC",
+    "title": "APC Backup UPS 750VA 410W UPS Tower Rack mount included: No Rack…",
     "spec": "Ups And Power",
-    "price": "R1 648",
-    "handle": "eaton-5e-900va-gen2-usb-iec-ups",
-    "url": "/products/eaton-5e-900va-gen2-usb-iec-ups",
-    "qty": 50,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E900UI_761f.png"
+    "price": "R1 497",
+    "handle": "apc-backup-ups-750va-410w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
+    "url": "/products/apc-backup-ups-750va-410w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
+    "qty": 68,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BX750MI_default.jpg"
    },
    {
     "brand": "APC",
@@ -814,24 +814,24 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
-    "brand": "Eaton",
-    "title": "Eaton 5E 900VA GEN2 USB IEC UPS",
+    "brand": "APC",
+    "title": "APC Backup UPS 750VA 410W UPS Tower Rack mount included: No Rack…",
     "spec": "Ups And Power",
-    "price": "R1 648",
-    "handle": "eaton-5e-900va-gen2-usb-iec-ups",
-    "url": "/products/eaton-5e-900va-gen2-usb-iec-ups",
-    "qty": 50,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E900UI_761f.png"
+    "price": "R1 497",
+    "handle": "apc-backup-ups-750va-410w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
+    "url": "/products/apc-backup-ups-750va-410w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
+    "qty": 68,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BX750MI_default.jpg"
    },
    {
-    "brand": "Eaton",
-    "title": "Eaton 5E 1600VA GEN2 USB IEC UPS",
-    "spec": "Ups And Power",
-    "price": "R2 897",
-    "handle": "eaton-5e-1600va-gen2-usb-iec-ups",
-    "url": "/products/eaton-5e-1600va-gen2-usb-iec-ups",
-    "qty": 20,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
+    "brand": "APC",
+    "title": "APC Backup UPS 1600VA/ 1.6KVA 900W UPS Tower Rack mount included:…",
+    "spec": "1.6KVA UPS",
+    "price": "R3 059",
+    "handle": "apc-backup-ups-1600va-1-6kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
+    "url": "/products/apc-backup-ups-1600va-1-6kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
+    "qty": 3,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BX1600MI_default.jpg"
    },
    {
     "brand": "APC",
@@ -867,16 +867,6 @@
    }
   ],
   "multi": [
-   {
-    "brand": "Eaton",
-    "title": "Eaton 5E 1600VA UPS",
-    "spec": "Backs up a whole desk",
-    "price": "R2 897",
-    "handle": "eaton-5e-1600va-gen2-usb-iec-ups",
-    "url": "https://ubratech.co.za/products/eaton-5e-1600va-gen2-usb-iec-ups",
-    "qty": 20,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
-   },
    {
     "brand": "APC",
     "title": "APC Back-UPS 1600VA / 900W",
@@ -1160,7 +1150,7 @@
     "price": "R8 227",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 46,
+    "qty": 45,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
    },
    {
@@ -1195,13 +1185,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP Smart Tank 790 Print Wireless All-in-One Printer (4WF66A)",
+    "title": "HP Smart Tank 750 Print Wireless All-in-One Printer (6UU47A)",
     "spec": "Printers",
-    "price": "R6 634",
-    "handle": "hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
-    "url": "/products/hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
-    "qty": 75,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
+    "price": "R6 505",
+    "handle": "hp-smart-tank-750-print-scan-copy-up-to-15-9-ppm-automatic-duplex-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-2-contextual-display-with-id-copy-low-on-ink-sensor-30-000",
+    "url": "/products/hp-smart-tank-750-print-scan-copy-up-to-15-9-ppm-automatic-duplex-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-2-contextual-display-with-id-copy-low-on-ink-sensor-30-000",
+    "qty": 29,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/6UU47A_default.jpg"
    },
    {
     "brand": "HP",
@@ -1215,6 +1205,16 @@
    }
   ],
   "photo": [
+   {
+    "brand": "Canon",
+    "title": "Canon GX2040 MegaTank All-in-One",
+    "spec": "Refillable ink · cheap colour",
+    "price": "R4 854",
+    "handle": "canon-gx2040-megatank-maxify-business-range-wireless-all-in-one-printer-6171c021aa",
+    "url": "https://ubratech.co.za/products/canon-gx2040-megatank-maxify-business-range-wireless-all-in-one-printer-6171c021aa",
+    "qty": 4,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/6171C021AA_default.png"
+   },
    {
     "brand": "HP",
     "title": "HP Smart Tank 790 Wireless All-in-One",
@@ -1274,7 +1274,7 @@
     "price": "R8 227",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 46,
+    "qty": 45,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
    },
    {
@@ -1364,24 +1364,24 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE10DF3T_LPXTS_2_8MM_5c9a.jpg"
    },
    {
-    "brand": "Hikvision",
-    "title": "Hikvision 2MP Fixed Mini Bullet Network Camera",
-    "spec": "2MP",
-    "price": "R1 388",
-    "handle": "hikvision-2mp-fixed-mini-bullet-network-camera",
-    "url": "/products/hikvision-2mp-fixed-mini-bullet-network-camera",
-    "qty": 1,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2021G0_LIU_2.8MM_9325.png"
+    "brand": "TP-Link",
+    "title": "TP-Link VIGI Insight-S445 4MP Full Color Turret IP Camera",
+    "spec": "4MP",
+    "price": "R1 502",
+    "handle": "tp-link-vigi-insight-s445-4mp-full-color-turret-ip-camera",
+    "url": "/products/tp-link-vigi-insight-s445-4mp-full-color-turret-ip-camera",
+    "qty": 13,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/5/_/5__1__f79c.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP 2.8mm Smart Hybrid Light with Colorvu Fixed Mini Bullet Network Camera",
+    "title": "Hikvision 4MP Fixed Dome Network Camera",
     "spec": "4MP",
-    "price": "R2 403",
-    "handle": "hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
-    "url": "/products/hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
-    "qty": 803,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LI_2.8MM_e360.jpg"
+    "price": "R2 353",
+    "handle": "hikvision-4mp-fixed-dome-network-camera",
+    "url": "/products/hikvision-4mp-fixed-dome-network-camera",
+    "qty": 71,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
    },
    {
     "brand": "Hikvision",
@@ -1449,23 +1449,23 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Colorvu Smart Hybrid Light Fixed Mini Bullet Camera",
+    "title": "Hikvision 4MP 2.8mm Smart Hybrid Light with Colorvu Fixed Mini Bullet Network Camera",
     "spec": "4MP",
-    "price": "R2 519",
-    "handle": "hikvision-4mp-colorvu-smart-hybrid-light-fixed-mini-bullet-camera",
-    "url": "/products/hikvision-4mp-colorvu-smart-hybrid-light-fixed-mini-bullet-camera",
-    "qty": 2,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_2.8MM_1_d1f4.png"
+    "price": "R2 403",
+    "handle": "hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
+    "url": "/products/hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
+    "qty": 803,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LI_2.8MM_e360.jpg"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Smart Hybrid Colorvu Fixed Mini Bullet IP Camera (DS-2CD2047G2H-LIU-SL-2.8MM)",
+    "title": "Hikvision 4MP Varifocal Bullet IP Camera",
     "spec": "4MP",
-    "price": "R3 162",
-    "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-mini-bullet-ip-camera-ds-2cd2047g2h-liu-sl-2-8mm",
-    "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-mini-bullet-ip-camera-ds-2cd2047g2h-liu-sl-2-8mm",
-    "qty": 54,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LIU_SL_2.8MM_1_abe9.png"
+    "price": "R3 126",
+    "handle": "hikvision-4mp-varifocal-bullet-ip-camera",
+    "url": "/products/hikvision-4mp-varifocal-bullet-ip-camera",
+    "qty": 123,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2641G0_LIZSU_2.8MM_12MM__0a67.png"
    },
    {
     "brand": "Hikvision",
@@ -1538,7 +1538,7 @@
     "price": "R4 212",
     "handle": "hikvision-4mp-acusense-ptrz-varifocal-dome-ip-camera",
     "url": "/products/hikvision-4mp-acusense-ptrz-varifocal-dome-ip-camera",
-    "qty": 27,
+    "qty": 17,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2746G2H_IPTRZS_2.8_12MM_c431.jpg"
    },
    {
@@ -1688,7 +1688,7 @@
     "price": "R166",
     "handle": "ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
     "url": "/products/ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
-    "qty": 105,
+    "qty": 93,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CR113-20290_UGREEN-4-Port-USB-3.0-Hub-with-Micro-USB_wr_01a.jpg"
    },
    {
@@ -1708,7 +1708,7 @@
     "price": "R288",
     "handle": "ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0",
     "url": "/products/ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0",
-    "qty": 123,
+    "qty": 116,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM511-15596-wr-01.jpg"
    },
    {
@@ -1718,7 +1718,7 @@
     "price": "R2 649",
     "handle": "ugreen-14-in-1-usb-type-c-to-usb-docking-station-1x-hdmi-2x-dp-rj45",
     "url": "/products/ugreen-14-in-1-usb-type-c-to-usb-docking-station-1x-hdmi-2x-dp-rj45",
-    "qty": 19,
+    "qty": 18,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/CM843-85489_UGreen_USB_Type-C_TO_USB2x_HDMIDPRJ45_Do_wr_01.jpg"
    }
   ]
@@ -1939,7 +1939,7 @@
     "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
-    "qty": 16
+    "qty": 12
    },
    {
     "brand": "UGREEN",
@@ -1952,14 +1952,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM767-35267_UGreen-CM767-M.2-NVMe-SSD-Enclosure-10Gbps-%E2%80%93-Silver_wr_01a.jpg"
    },
    {
-    "brand": "Kingston",
-    "title": "Kingston 480GB A400 SATA3 2.5 SSD",
+    "brand": "Patriot",
+    "title": "Patriot Transporter Lite 1TB USB3.2 Type-C External Portable SSD - Red",
     "spec": "Storage",
-    "price": "R2 345",
-    "handle": "kingston-480gb-a400-sata3-2-5-ssd-7mm-height",
-    "url": "/products/kingston-480gb-a400-sata3-2-5-ssd-7mm-height",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SA400S37/480G_default.jpg"
+    "price": "R2 265",
+    "handle": "patriot-transporter-lite-1tb-usb3-2-type-c-external-portable-ssd-red",
+    "url": "/products/patriot-transporter-lite-1tb-usb3-2-type-c-external-portable-ssd-red",
+    "qty": 25,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/PTPL1TBPEC_Patriot-Transporter-Lite-1TB-USB3.2-Type-C-External-Portable-SSD_wr_01.jpg"
    },
    {
     "brand": "SanDisk",
@@ -1991,7 +1991,7 @@
     "handle": "hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/HSC516U48Z1-16G_Hiksemi-Hiker-16GB-DDR5-4800MHz-Desktop-Memory_wr_01a.jpg",
-    "qty": 141
+    "qty": 105
    },
    {
     "brand": "GeIL",
@@ -2062,7 +2062,7 @@
     "price": "R6 515",
     "handle": "msi-geforce-rtx-3050-ventus-2x-e-6gb-oc-graphics-card",
     "url": "/products/msi-geforce-rtx-3050-ventus-2x-e-6gb-oc-graphics-card",
-    "qty": 134,
+    "qty": 130,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/RTX3050VENTUS2XE6GOC-WR-01.jpg"
    },
    {
@@ -2072,7 +2072,7 @@
     "price": "R10 235",
     "handle": "msi-geforce-rtx-5060-ventus-2x-oc-8gb-gddr7-graphics-card",
     "url": "/products/msi-geforce-rtx-5060-ventus-2x-oc-8gb-gddr7-graphics-card",
-    "qty": 49,
+    "qty": 41,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/RTX5060VENTUS2XOC8G_MSI-GF-RTX-5060-VENTUS-2X-OC-8GB_wr_01.jpg"
    },
    {
@@ -2105,7 +2105,7 @@
     "handle": "gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "url": "https://ubratech.co.za/products/gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GU30WPRO_wr_01a.jpg",
-    "qty": 98
+    "qty": 97
    },
    {
     "brand": "Antec",
@@ -2124,7 +2124,7 @@
     "price": "R880",
     "handle": "msi-mag-a550bn-550w-80-plus-bronze-non-modular-atx-power-supply",
     "url": "/products/msi-mag-a550bn-550w-80-plus-bronze-non-modular-atx-power-supply",
-    "qty": 93,
+    "qty": 91,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/07/MAG-A550BN_MSI-MAG-A550BN-550W-80-PLUS-Bronze-Non-modular-ATX-Power-Supply_wr_01a.jpg"
    },
    {
@@ -2134,7 +2134,7 @@
     "price": "R1 675",
     "handle": "antec-mega-850w-80-plus-gold-atx3-1-pcie-5-1-fully-modular-power-supply",
     "url": "/products/antec-mega-850w-80-plus-gold-atx3-1-pcie-5-1-fully-modular-power-supply",
-    "qty": 41,
+    "qty": 40,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MEGA850_Antec-MEGA-850W-ATX3.1-80-Plus-Gold-PCIE-5.1-Fully-Modular-Power-Supply_wr_01.jpg"
    },
    {
@@ -2205,16 +2205,6 @@
   "audio": [
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi Soundbar 2.0ch",
-    "spec": "Instant TV sound upgrade",
-    "price": "R931",
-    "handle": "xiaomi-soundbar-2-0ch",
-    "url": "https://ubratech.co.za/products/xiaomi-soundbar-2-0ch",
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/QBH4286EU_Xiaomi-Soundbar-2.0ch_wr_01.jpg",
-    "qty": 1
-   },
-   {
-    "brand": "Xiaomi",
     "title": "Xiaomi Sound Outdoor 30W Bluetooth Speaker",
     "spec": "Portable · big sound",
     "price": "R1 208",
@@ -2231,7 +2221,7 @@
     "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
     "url": "https://ubratech.co.za/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg",
-    "qty": 191
+    "qty": 190
    },
    {
     "brand": "Xiaomi",
@@ -2306,24 +2296,24 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_Design__95__f74c.png"
    },
    {
-    "brand": "PWR",
-    "title": "PWR Dedicated to 3 Headed Cable 3.8m",
+    "brand": "Gizzu",
+    "title": "Gizzu 4-in-1 Type-C to HDMI/VGA/USB3.0 Hub",
     "spec": "Cables And Adapters",
-    "price": "R122",
-    "handle": "pwr-dedicated-to-3-headed-cable-3-8m",
-    "url": "/products/pwr-dedicated-to-3-headed-cable-3-8m",
-    "qty": 194,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2016/01/PC-6D3IC13BK3.8_wr_01.jpg"
+    "price": "R121",
+    "handle": "gizzu-4-in-1-type-c-to-hdmi-vga-usb3-0-hub",
+    "url": "/products/gizzu-4-in-1-type-c-to-hdmi-vga-usb3-0-hub",
+    "qty": 212,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/GAPCHVUPD_wr_01a.jpg"
    },
    {
-    "brand": "Redragon",
-    "title": "Redragon HARROW Wireless X/D-input(Digital/Analog) PC Controller - Black",
-    "spec": "Accessories",
+    "brand": "TP-Link",
+    "title": "TP-Link AX1800 USB Wireless Adapter",
+    "spec": "Cables And Adapters",
     "price": "R414",
-    "handle": "redragon-harrow-wireless-x-d-input-digital-analog-pc-controller-black",
-    "url": "/products/redragon-harrow-wireless-x-d-input-digital-analog-pc-controller-black",
-    "qty": 75,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2018/03/Redragon_RD-G808_wr_01b.jpg"
+    "handle": "tp-link-ax1800-usb-wireless-adapter",
+    "url": "/products/tp-link-ax1800-usb-wireless-adapter",
+    "qty": 9,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/R/ARCHER_TX20U_cdc8.jpg"
    },
    {
     "brand": "Lenovo",
@@ -2332,7 +2322,7 @@
     "price": "R2 439",
     "handle": "lenovo-usb-c-dual-display-travel-dock-with-100w-adapter-the-lenovo-usb-c-dual-display-travel-dock-40b9-is-an-essential-companion-for-the-modern-remote-professional-this-compact-dynamo-supports-dual",
     "url": "/products/lenovo-usb-c-dual-display-travel-dock-with-100w-adapter-the-lenovo-usb-c-dual-display-travel-dock-40b9-is-an-essential-companion-for-the-modern-remote-professional-this-compact-dynamo-supports-dual",
-    "qty": 53,
+    "qty": 52,
     "image": "https://s3.amazonaws.com/tarsus.co.za/40B90100SA_default.png"
    }
   ],
@@ -2374,7 +2364,7 @@
     "price": "R58",
     "handle": "redragon-bm-4054-4000dpi-wireless-optical-mouse",
     "url": "/products/redragon-bm-4054-4000dpi-wireless-optical-mouse",
-    "qty": 187,
+    "qty": 185,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/RD-BM-4054_wr_01.jpg"
    },
    {
@@ -2394,7 +2384,7 @@
     "price": "R769",
     "handle": "redragon-bragi-pro-k688-98-1-gasket-wireless-mechanical-keyboard-triple-mode-rgb-hot-swappable-cream-linear-switches",
     "url": "/products/redragon-bragi-pro-k688-98-1-gasket-wireless-mechanical-keyboard-triple-mode-rgb-hot-swappable-cream-linear-switches",
-    "qty": 21,
+    "qty": 20,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/RD-K688GB-RGB-PRO_REDRAGON-KB-MECH-BRAGI-PRO-RGB-BK_wr_01.jpg"
    },
    {
@@ -2423,13 +2413,13 @@
   },
   {
    "brand": "Grandstream",
-   "title": "Grandstream Enterprise WiFi 6 In-Wall Indoor Access Point | GWN7661E",
-   "spec": "3 Gbps, 2x2:2 2.4G/5G, 1x GbE PoE, 2x GbE,100m coverage,256 clients, E",
-   "price": "R1 385",
-   "handle": "grandstream-enterprise-wifi-6-in-wall-indoor-access-point-gwn7661e",
-   "url": "/pages/grandstream-enterprise-wifi-6-in-wall-indoor-access-point-gwn7661e",
+   "title": "Grandstream Enterprise WiFi 5 Compact Long Range Outdoor  AP | GWN7605CLR",
+   "spec": "Compact outdoor Wi-Fi Access point, 2x2 Wi-Fi 5, 2x GbE, 12—24V DC-In,",
+   "price": "R1 379",
+   "handle": "grandstream-enterprise-wifi-5-compact-long-range-outdoor-ap-gwn7605clr",
+   "url": "/pages/grandstream-enterprise-wifi-5-compact-long-range-outdoor-ap-gwn7605clr",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/5/3/4/6/15346.jpg",
+   "image": "https://miro.co.za/img/p/1/8/7/1/0/18710.jpg",
    "enquiry": true
   },
   {
@@ -2445,13 +2435,13 @@
   },
   {
    "brand": "Grandstream",
-   "title": "Grandstream Enterprise Outdoor WiFi 6 Long Range Access Point | GWN7664ELR",
-   "spec": "6Gbps, 4x4:4 2.4/5G, 1x 2.5GbE, 1x SFP 2.5G, 512 client devices, Embed",
-   "price": "R3 142",
-   "handle": "grandstream-enterprise-outdoor-wifi-6-long-range-access-point-gwn7664elr",
-   "url": "/pages/grandstream-enterprise-outdoor-wifi-6-long-range-access-point-gwn7664elr",
+   "title": "Grandstream Enterprise Outdoor WiFi 7 Long Range Access Point | GWN7670LR",
+   "spec": "Outdoor Long-Range Dual-Band Wi-Fi 7 Access Point/Bridge, 2x2:2 2.4/5G",
+   "price": "R2 857",
+   "handle": "grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
+   "url": "/pages/grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/5/3/5/6/15356.jpg",
+   "image": "https://miro.co.za/img/p/1/8/7/0/7/18707.jpg",
    "enquiry": true
   },
   {
