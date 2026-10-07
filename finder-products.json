@@ -38,7 +38,7 @@
     "price": "R11 332",
     "handle": "asus-vivobook-15-x1504ma-15-6-core-i3-8gb-256gb-win-11-home-notebook",
     "url": "/products/asus-vivobook-15-x1504ma-15-6-core-i3-8gb-256gb-win-11-home-notebook",
-    "qty": 31,
+    "qty": 62,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__65__4073.png"
    },
    {
@@ -60,7 +60,7 @@
     "price": "R13 978",
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
-    "qty": 54,
+    "qty": 62,
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
@@ -75,23 +75,23 @@
    },
    {
     "brand": "Acer",
-    "title": "Acer EXO14 72 51AG Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.ELVEA.001)",
+    "title": "Acer Extensa 15.6″ Laptop | Laptop — Core i5 · 16GB · 512GB SSD",
     "spec": "512GB SSD",
-    "price": "R17 628",
-    "handle": "acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
-    "url": "/products/acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.ELVEA.001_default.jpg"
+    "price": "R17 243",
+    "handle": "acer-extensa-15-6-laptop-intel-core-i5-120u-16gb-ddr5-512gb-nvme-intel-graphics-windows-11-pro",
+    "url": "/products/acer-extensa-15-6-laptop-intel-core-i5-120u-16gb-ddr5-512gb-nvme-intel-graphics-windows-11-pro",
+    "qty": 1,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/NX_EJ9EA_011_Acer_Extensa_156_Laptop_Intel_Core_i5-12_wr_01.png"
    },
    {
     "brand": "HP",
-    "title": "HP ProBook 4 G1iR 16\" Intel Core 5-120U 8GB 512GB Win 11 Pro Notebook",
-    "spec": "16\" screen",
+    "title": "HP ProBook 4 NB G1iR 5 120U Laptop — 512GB SSD (C38KXAT)",
+    "spec": "512GB SSD",
     "price": "R20 147",
-    "handle": "hp-probook-4-g1ir-16-intel-core-5-120u-8gb-512gb-win-11-pro-notebook",
-    "url": "/products/hp-probook-4-g1ir-16-intel-core-5-120u-8gb-512gb-win-11-pro-notebook",
-    "qty": 45,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/7/C78GGAT_9484.jpg"
+    "handle": "hp-probook-4-nb-g1ir-5-120u-14-0-wuxga-uwva-300-fhdc-60hz-bnt-panel-8gb-1d-ddr5-5600-cr-sodimm-memory-512gb-pcie-nvme-value-windows-11-pro-64-1-year-warranty-dual-arymic-f-usb2-nfovcamera-clickpad",
+    "url": "/products/hp-probook-4-nb-g1ir-5-120u-14-0-wuxga-uwva-300-fhdc-60hz-bnt-panel-8gb-1d-ddr5-5600-cr-sodimm-memory-512gb-pcie-nvme-value-windows-11-pro-64-1-year-warranty-dual-arymic-f-usb2-nfovcamera-clickpad",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/C38KXAT_default.png"
    },
    {
     "brand": "Acer",
@@ -116,14 +116,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP ProBook 4 G2i AI 14in Laptop — 16GB · 512GB SSD (DS5H9ET)",
+    "brand": "Dell",
+    "title": "Dell Pro 16 PC16250 Laptop — Core Ultra 5 · 512GB SSD (BTO105_PC16250_EMEA)",
     "spec": "512GB SSD",
-    "price": "R31 379",
-    "handle": "hp-probook-4-g2i-ai-14in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "url": "/products/hp-probook-4-g2i-ai-14in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "qty": 23,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DS5H9ET_default.png"
+    "price": "R31 957",
+    "handle": "dell-pro-16-pc16250-intel-core-ultra-5-235u-12-tops-up-to-4-9-ghz-16gb-1x16gb-5600mt-s-ddr5-512gb-ssd-pcie-m-2-16-0-fhd-1920x1200-antiglare-300nits-integrated-graphics-fingerprint-reader-fhd-ir-cam",
+    "url": "/products/dell-pro-16-pc16250-intel-core-ultra-5-235u-12-tops-up-to-4-9-ghz-16gb-1x16gb-5600mt-s-ddr5-512gb-ssd-pcie-m-2-16-0-fhd-1920x1200-antiglare-300nits-integrated-graphics-fingerprint-reader-fhd-ir-cam",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO105_PC16250_EMEA_default.jpg"
    },
    {
     "brand": "HP",
@@ -184,7 +184,7 @@
     "price": "R18 258",
     "handle": "hp-probook-4-g1ah-16-radeon-740m-wuxga-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
     "url": "/products/hp-probook-4-g1ah-16-radeon-740m-wuxga-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
-    "qty": 64,
+    "qty": 113,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KSAT_9f51.jpg"
    },
    {
@@ -336,14 +336,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO104_QCT1250_EMEA_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro Micro QCM1250 Core U5-235T 16GB 512GB Win 11 Pro Desktop",
+    "brand": "HP",
+    "title": "HP ProDesk 4 G1i AI Ultra 7-265T 16GB 512GB Win 11 Pro Mini Desktop",
     "spec": "Desktops",
-    "price": "R30 070",
-    "handle": "dell-pro-micro-qcm1250-core-u5-235t-16gb-512gb-win-11-pro-desktop",
-    "url": "/products/dell-pro-micro-qcm1250-core-u5-235t-16gb-512gb-win-11-pro-desktop",
-    "qty": 12,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/T/BTO106_QCM1250_2eba.jpg"
+    "price": "R28 875",
+    "handle": "hp-prodesk-4-g1i-ai-ultra-7-265t-16gb-512gb-win-11-pro-mini-desktop",
+    "url": "/products/hp-prodesk-4-g1i-ai-ultra-7-265t-16gb-512gb-win-11-pro-mini-desktop",
+    "qty": 142,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/B/Y/BY6U6ET_5ec1.jpg"
    },
    {
     "brand": "Dell",
@@ -543,10 +543,10 @@
     "brand": "Dell",
     "title": "Dell SE2726HM 27\" FHD Monitor",
     "spec": "Crisp everyday screen",
-    "price": "R2 287",
+    "price": "R2 333",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 88,
+    "qty": 99,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -608,7 +608,7 @@
     "price": "R9 812",
     "handle": "dell-pro-27-plus-4k-usb-c-hub-monitor-p2725qe-68-6cm-27-0",
     "url": "/products/dell-pro-27-plus-4k-usb-c-hub-monitor-p2725qe-68-6cm-27-0",
-    "qty": 4,
+    "qty": 3,
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BRDS_default.jpg"
    },
    {
@@ -640,7 +640,7 @@
     "price": "R1 998",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 153,
+    "qty": 25,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -689,10 +689,10 @@
     "brand": "Dell",
     "title": "Dell SE2726HM 27\" FHD Monitor",
     "spec": "Slim bezel · great for lots of windows",
-    "price": "R2 287",
+    "price": "R2 333",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 88,
+    "qty": 99,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -990,7 +990,7 @@
     "price": "R1 111",
     "handle": "cudy-ax3000-wi-fi-6-mesh-kit-1-pack-white",
     "url": "/products/cudy-ax3000-wi-fi-6-mesh-kit-1-pack-white",
-    "qty": 98,
+    "qty": 95,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/Cudy_M3000W-1PACK_wr_01a.jpg"
    },
    {
@@ -1380,7 +1380,7 @@
     "price": "R2 403",
     "handle": "hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
     "url": "/products/hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
-    "qty": 810,
+    "qty": 803,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LI_2.8MM_e360.jpg"
    },
    {
@@ -1454,18 +1454,18 @@
     "price": "R2 519",
     "handle": "hikvision-4mp-colorvu-smart-hybrid-light-fixed-mini-bullet-camera",
     "url": "/products/hikvision-4mp-colorvu-smart-hybrid-light-fixed-mini-bullet-camera",
-    "qty": 7,
+    "qty": 2,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_2.8MM_1_d1f4.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Smart Hybrid Colorvu Fixed Bullet IP Camera",
+    "title": "Hikvision 4MP Smart Hybrid Colorvu Fixed Mini Bullet IP Camera (DS-2CD2047G2H-LIU-SL-2.8MM)",
     "spec": "4MP",
-    "price": "R3 170",
-    "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-bullet-ip-camera",
-    "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-bullet-ip-camera",
-    "qty": 65,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T47G2H_LI_image_4_17d1.png"
+    "price": "R3 162",
+    "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-mini-bullet-ip-camera-ds-2cd2047g2h-liu-sl-2-8mm",
+    "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-mini-bullet-ip-camera-ds-2cd2047g2h-liu-sl-2-8mm",
+    "qty": 54,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LIU_SL_2.8MM_1_abe9.png"
    },
    {
     "brand": "Hikvision",
@@ -1523,13 +1523,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Colorvu Fixed Bullet Polymer Anti-Corrosion Network IP Camera",
+    "title": "Hikvision 4MP Smartt Hybrid Colorvu Fixed Bullet IP Camera",
     "spec": "4MP",
-    "price": "R3 375",
-    "handle": "hikvision-4mp-colorvu-fixed-bullet-polymer-anti-corrosion-network-ip-camera",
-    "url": "/products/hikvision-4mp-colorvu-fixed-bullet-polymer-anti-corrosion-network-ip-camera",
-    "qty": 75,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2XC6027G0_LS_1_23b9.png"
+    "price": "R3 480",
+    "handle": "hikvision-4mp-smartt-hybrid-colorvu-fixed-bullet-ip-camera",
+    "url": "/products/hikvision-4mp-smartt-hybrid-colorvu-fixed-bullet-ip-camera",
+    "qty": 4,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T47G2H_LISU_SL_4MM_90df.jpg"
    },
    {
     "brand": "Hikvision",
@@ -1688,7 +1688,7 @@
     "price": "R166",
     "handle": "ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
     "url": "/products/ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
-    "qty": 123,
+    "qty": 105,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CR113-20290_UGREEN-4-Port-USB-3.0-Hub-with-Micro-USB_wr_01a.jpg"
    },
    {
@@ -1795,7 +1795,7 @@
     "handle": "logitech-c920s-pro-full-hd-usb-webcam",
     "url": "https://ubratech.co.za/products/logitech-c920s-pro-full-hd-usb-webcam",
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/960_001252_9ebb.jpg",
-    "qty": 6
+    "qty": 14
    }
   ]
  },
@@ -1929,7 +1929,7 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 16
+    "qty": 17
    },
    {
     "brand": "Seagate",
@@ -1948,18 +1948,18 @@
     "price": "R257",
     "handle": "ugreen-cm767-m-2-nvme-ssd-enclosure-10gbps",
     "url": "/products/ugreen-cm767-m-2-nvme-ssd-enclosure-10gbps",
-    "qty": 111,
+    "qty": 107,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM767-35267_UGreen-CM767-M.2-NVMe-SSD-Enclosure-10Gbps-%E2%80%93-Silver_wr_01a.jpg"
    },
    {
-    "brand": "Patriot",
-    "title": "Patriot Transporter Lite 1TB USB3.2 Type-C External Portable SSD - Red",
+    "brand": "Kingston",
+    "title": "Kingston 480GB A400 SATA3 2.5 SSD",
     "spec": "Storage",
-    "price": "R2 265",
-    "handle": "patriot-transporter-lite-1tb-usb3-2-type-c-external-portable-ssd-red",
-    "url": "/products/patriot-transporter-lite-1tb-usb3-2-type-c-external-portable-ssd-red",
-    "qty": 25,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/PTPL1TBPEC_Patriot-Transporter-Lite-1TB-USB3.2-Type-C-External-Portable-SSD_wr_01.jpg"
+    "price": "R2 345",
+    "handle": "kingston-480gb-a400-sata3-2-5-ssd-7mm-height",
+    "url": "/products/kingston-480gb-a400-sata3-2-5-ssd-7mm-height",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SA400S37/480G_default.jpg"
    },
    {
     "brand": "SanDisk",
@@ -2056,14 +2056,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/09/GT7102GD3H4HDMI_wr_01.jpg"
    },
    {
-    "brand": "ASUS",
-    "title": "ASUS Nvidia GeForce RTX 3050 Dual OC 6G Graphic Card",
+    "brand": "MSI",
+    "title": "MSI GeForce RTX 3050 VENTUS 2X E 6GB OC Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R5 771",
-    "handle": "asus-nvidia-geforce-rtx-3050-dual-oc-6g-graphic-card",
-    "url": "/products/asus-nvidia-geforce-rtx-3050-dual-oc-6g-graphic-card",
-    "qty": 1,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/DUAL-RTX3050-O6G_wr_01.jpg"
+    "price": "R6 515",
+    "handle": "msi-geforce-rtx-3050-ventus-2x-e-6gb-oc-graphics-card",
+    "url": "/products/msi-geforce-rtx-3050-ventus-2x-e-6gb-oc-graphics-card",
+    "qty": 134,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/RTX3050VENTUS2XE6GOC-WR-01.jpg"
    },
    {
     "brand": "MSI",
@@ -2072,7 +2072,7 @@
     "price": "R10 235",
     "handle": "msi-geforce-rtx-5060-ventus-2x-oc-8gb-gddr7-graphics-card",
     "url": "/products/msi-geforce-rtx-5060-ventus-2x-oc-8gb-gddr7-graphics-card",
-    "qty": 50,
+    "qty": 49,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/RTX5060VENTUS2XOC8G_MSI-GF-RTX-5060-VENTUS-2X-OC-8GB_wr_01.jpg"
    },
    {
@@ -2159,7 +2159,7 @@
     "handle": "xiaomi-robot-vacuum-s40c",
     "url": "https://ubratech.co.za/products/xiaomi-robot-vacuum-s40c",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/BHR9664EU_Xiaomi-Robot-Vacuum-S40C_wr_02a-1.jpg",
-    "qty": 176
+    "qty": 171
    },
    {
     "brand": "Xiaomi",
@@ -2168,7 +2168,7 @@
     "price": "R229",
     "handle": "xiaomi-smart-temperature-and-humidity-monitor-3-mini",
     "url": "/products/xiaomi-smart-temperature-and-humidity-monitor-3-mini",
-    "qty": 52,
+    "qty": 48,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/QBH4312GL_Xiaomi-Smart-Temperature-and-Humidity-Monitor-3-Mini-White_wr_01a.jpg"
    },
    {
@@ -2240,7 +2240,7 @@
     "price": "R110",
     "handle": "xiaomi-in-ear-headphones-type-c-black",
     "url": "/products/xiaomi-in-ear-headphones-type-c-black",
-    "qty": 204,
+    "qty": 104,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/BHR8930GL_wr_01.jpg"
    },
    {
@@ -2316,14 +2316,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2016/01/PC-6D3IC13BK3.8_wr_01.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port 45W Universal AC Adapter (900096B-EU)",
-    "spec": "Cables And Adapters",
+    "brand": "Redragon",
+    "title": "Redragon HARROW Wireless X/D-input(Digital/Analog) PC Controller - Black",
+    "spec": "Accessories",
     "price": "R414",
-    "handle": "port-45w-universal-ac-adapter-900096b-eu",
-    "url": "/products/port-45w-universal-ac-adapter-900096b-eu",
-    "qty": 94,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__2__35ed.png"
+    "handle": "redragon-harrow-wireless-x-d-input-digital-analog-pc-controller-black",
+    "url": "/products/redragon-harrow-wireless-x-d-input-digital-analog-pc-controller-black",
+    "qty": 75,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2018/03/Redragon_RD-G808_wr_01b.jpg"
    },
    {
     "brand": "Lenovo",
@@ -2355,7 +2355,7 @@
     "handle": "logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "url": "https://ubratech.co.za/products/logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "image": "https://s3.amazonaws.com/tarsus.co.za/920-008685_default.jpg",
-    "qty": 29
+    "qty": 41
    },
    {
     "brand": "Logitech",
@@ -2365,7 +2365,7 @@
     "handle": "logitech-c920s-pro-full-hd-usb-webcam",
     "url": "https://ubratech.co.za/products/logitech-c920s-pro-full-hd-usb-webcam",
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/960_001252_9ebb.jpg",
-    "qty": 6
+    "qty": 14
    },
    {
     "brand": "Redragon",
@@ -2374,7 +2374,7 @@
     "price": "R58",
     "handle": "redragon-bm-4054-4000dpi-wireless-optical-mouse",
     "url": "/products/redragon-bm-4054-4000dpi-wireless-optical-mouse",
-    "qty": 189,
+    "qty": 187,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/RD-BM-4054_wr_01.jpg"
    },
    {
@@ -2388,14 +2388,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__10__3c08.png"
    },
    {
-    "brand": "Keychron",
-    "title": "Keychron B6 Pro Ultra-Slim 100% Wireless Keyboard - Retro Blue",
+    "brand": "Redragon",
+    "title": "Redragon BRAGI PRO K688 98+1 Gasket Wireless Mechanical Keyboard…",
     "spec": "Keyboards",
-    "price": "R787",
-    "handle": "keychron-b6-pro-ultra-slim-100-wireless-keyboard-retro-blue",
-    "url": "/products/keychron-b6-pro-ultra-slim-100-wireless-keyboard-retro-blue",
-    "qty": 27,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/12/B6P-K11_Keychron-B11-Pro-Ultra-Slim-10-WRLS-KB-Retro-Blue_01.jpeg"
+    "price": "R769",
+    "handle": "redragon-bragi-pro-k688-98-1-gasket-wireless-mechanical-keyboard-triple-mode-rgb-hot-swappable-cream-linear-switches",
+    "url": "/products/redragon-bragi-pro-k688-98-1-gasket-wireless-mechanical-keyboard-triple-mode-rgb-hot-swappable-cream-linear-switches",
+    "qty": 21,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/RD-K688GB-RGB-PRO_REDRAGON-KB-MECH-BRAGI-PRO-RGB-BK_wr_01.jpg"
    },
    {
     "brand": "Keychron",
