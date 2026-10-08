@@ -540,6 +540,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQMZ_4276.jpg"
    },
    {
+    "brand": "Dell",
+    "title": "Dell SE2726HM 27\" FHD Monitor",
+    "spec": "Crisp everyday screen",
+    "price": "R2 376",
+    "handle": "dell-se2726hm-27-fhd-monitor",
+    "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
+    "qty": 31,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
+   },
+   {
     "brand": "Acer",
     "title": "Acer V206H 19.5\" HD Monitor (UM.IV6EE.024)",
     "spec": "19.5\" screen",
@@ -550,14 +560,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 24 Adjustable Stand Monitor - E2426HS 1x HDMI, 1x DP, 1x VGA",
-    "spec": "Monitors And Displays",
-    "price": "R2 435",
-    "handle": "dell-pro-24-adjustable-stand-monitor-e2426hs-1x-hdmi-1x-dp-1x-vga",
-    "url": "/products/dell-pro-24-adjustable-stand-monitor-e2426hs-1x-hdmi-1x-dp-1x-vga",
-    "qty": 6,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPM_default.png"
+    "brand": "Acer",
+    "title": "Acer 27\" IPS FHD 120Hz Monitor 3Yr",
+    "spec": "27\" screen",
+    "price": "R2 391",
+    "handle": "acer-27-ips-fhd-120hz-monitor-3yr",
+    "url": "/products/acer-27-ips-fhd-120hz-monitor-3yr",
+    "qty": 2,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -675,6 +685,16 @@
    }
   ],
   "multi": [
+   {
+    "brand": "Dell",
+    "title": "Dell SE2726HM 27\" FHD Monitor",
+    "spec": "Slim bezel · great for lots of windows",
+    "price": "R2 376",
+    "handle": "dell-se2726hm-27-fhd-monitor",
+    "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
+    "qty": 31,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
+   },
    {
     "brand": "Hikvision",
     "title": "Hikvision 18.5\" Borderless FHD Monitor",
@@ -1732,7 +1752,7 @@
     "price": "R515",
     "handle": "hp-320-black-full-hd-usb-webcam",
     "url": "https://ubratech.co.za/products/hp-320-black-full-hd-usb-webcam",
-    "qty": 8,
+    "qty": 7,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/3/53X26AA_9bf9.png"
    },
    {
