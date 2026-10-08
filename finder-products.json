@@ -117,13 +117,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP ZBook 8 G1i Laptop — Core Ultra 5 · 24GB · 1TB SSD (DM7P4ES)",
-    "spec": "1TB SSD",
-    "price": "R40 798",
-    "handle": "hp-zbook-8-g1i-14inch-dsc-rtx-500-ada-4gb-u5-225h-lcd-14-0wuxgaagled300uwvafwwanf5mpirlpln-ram-24gb-ddr5-5600-ssd-1tb-pcie4x4-nvme-tlc-ost-w11p6-hp-3y-onsite-mws-supp-no-country-of-origin-restriction",
-    "url": "/products/hp-zbook-8-g1i-14inch-dsc-rtx-500-ada-4gb-u5-225h-lcd-14-0wuxgaagled300uwvafwwanf5mpirlpln-ram-24gb-ddr5-5600-ssd-1tb-pcie4x4-nvme-tlc-ost-w11p6-hp-3y-onsite-mws-supp-no-country-of-origin-restriction",
-    "qty": 14,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DM7P4ES_default.jpg"
+    "title": "HP Elitebook 6 G1i 14\" AI Core U7-255U 16GB 512GB Win 11 Pro Notebook",
+    "spec": "14\" screen",
+    "price": "R40 690",
+    "handle": "hp-elitebook-6-g1i-14-ai-core-u7-255u-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/hp-elitebook-6-g1i-14-ai-core-u7-255u-16gb-512gb-win-11-pro-notebook",
+    "qty": 2,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/K/CK8G9EA_80b8.jpg"
    },
    {
     "brand": "Dell",
@@ -593,13 +593,13 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro 27 Plus 4K USB-C Hub Monitor - P2725QE, 68.6cm (27.0\")",
-    "spec": "27.0\" screen",
-    "price": "R9 812",
-    "handle": "dell-pro-27-plus-4k-usb-c-hub-monitor-p2725qe-68-6cm-27-0",
-    "url": "/products/dell-pro-27-plus-4k-usb-c-hub-monitor-p2725qe-68-6cm-27-0",
-    "qty": 3,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BRDS_default.jpg"
+    "title": "Dell Pro 34 Plus P3425WE 34\" USB-C Hub Monitor",
+    "spec": "34\" screen",
+    "price": "R10 676",
+    "handle": "dell-pro-34-plus-usb-c-hub-monitor-p3425we-86-5cm-34-1-1x-hdmi-1x-dp-1x-rj45-6x-usb-ports",
+    "url": "/products/dell-pro-34-plus-usb-c-hub-monitor-p3425we-86-5cm-34-1-1x-hdmi-1x-dp-1x-rj45-6x-usb-ports",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BRDR_default.jpg"
    },
    {
     "brand": "Asus",
