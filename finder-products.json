@@ -61,7 +61,7 @@
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "qty": 9,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA-BUN1Q2_default.png"
    },
    {
     "brand": "Lenovo",
@@ -238,7 +238,7 @@
     "price": "R7 666",
     "handle": "giada-vm27-with-n6210-4g-ddr4-on-board-64g-emmc-on-board",
     "url": "/products/giada-vm27-with-n6210-4g-ddr4-on-board-64g-emmc-on-board",
-    "qty": 45,
+    "qty": 40,
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/VM27-N621042E6G-GIA_wr_01a.jpg"
    },
    {
@@ -464,14 +464,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/S/ASUS_TUF__GAMING_A16_Jaeger_Grey_02_L__1__d0c6.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus ROG Strix G16 G614PP Laptop — Ryzen 9",
-    "spec": "Notebooks",
-    "price": "R50 621",
-    "handle": "asus-rog-strix-g16-g614pp-16-rtx5070-240hz-ryzen-9-8940hx-16gb-1tb-win-11-home-gaming-notebook",
-    "url": "/products/asus-rog-strix-g16-g614pp-16-rtx5070-240hz-ryzen-9-8940hx-16gb-1tb-win-11-home-gaming-notebook",
-    "qty": 8,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/0/2/02_G_New_16_L__8__d684.png"
+    "brand": "Dell",
+    "title": "Dell Alienware 15 Aurora 15.3\" Core-7 32GB 1TB Win 11 Home Notebook",
+    "spec": "15.3\" screen",
+    "price": "R49 786",
+    "handle": "dell-alienware-15-aurora-15-3-core-7-32gb-1tb-win-11-home-notebook",
+    "url": "/products/dell-alienware-15-aurora-15-3-core-7-32gb-1tb-win-11-home-notebook",
+    "qty": 19,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__97__74c5.png"
    },
    {
     "brand": "Asus",
@@ -546,7 +546,7 @@
     "price": "R2 376",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 5,
+    "qty": 1,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -650,7 +650,7 @@
     "price": "R2 071",
     "handle": "xiaomi-a24i-2026-24-144hz-full-hd-1080p-ips-office-monitor",
     "url": "/products/xiaomi-a24i-2026-24-144hz-full-hd-1080p-ips-office-monitor",
-    "qty": 196,
+    "qty": 115,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6416EU_Xiaomi-A24i-2026-24-inch-144Hz-Full-HD-1080P-IPS-Office-Monitor_wr_01a.jpg"
    },
    {
@@ -692,7 +692,7 @@
     "price": "R2 376",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 5,
+    "qty": 1,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -1469,13 +1469,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Smart Hybrid Colorvu Fixed Mini Bullet IP Camera (DS-2CD2047G2H-LIU-SL-2.8MM)",
+    "title": "Hikvision 4MP Varifocal Bullet IP Camera",
     "spec": "4MP",
-    "price": "R3 162",
-    "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-mini-bullet-ip-camera-ds-2cd2047g2h-liu-sl-2-8mm",
-    "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-mini-bullet-ip-camera-ds-2cd2047g2h-liu-sl-2-8mm",
-    "qty": 54,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LIU_SL_2.8MM_1_abe9.png"
+    "price": "R3 126",
+    "handle": "hikvision-4mp-varifocal-bullet-ip-camera",
+    "url": "/products/hikvision-4mp-varifocal-bullet-ip-camera",
+    "qty": 123,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2641G0_LIZSU_2.8MM_12MM__0a67.png"
    },
    {
     "brand": "Hikvision",
@@ -1533,13 +1533,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Colorvu Fixed Bullet Polymer Anti-Corrosion Network IP Camera",
+    "title": "Hikvision 4MP Smartt Hybrid Colorvu Fixed Bullet IP Camera",
     "spec": "4MP",
-    "price": "R3 375",
-    "handle": "hikvision-4mp-colorvu-fixed-bullet-polymer-anti-corrosion-network-ip-camera",
-    "url": "/products/hikvision-4mp-colorvu-fixed-bullet-polymer-anti-corrosion-network-ip-camera",
-    "qty": 75,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2XC6027G0_LS_1_23b9.png"
+    "price": "R3 480",
+    "handle": "hikvision-4mp-smartt-hybrid-colorvu-fixed-bullet-ip-camera",
+    "url": "/products/hikvision-4mp-smartt-hybrid-colorvu-fixed-bullet-ip-camera",
+    "qty": 4,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T47G2H_LISU_SL_4MM_90df.jpg"
    },
    {
     "brand": "Hikvision",
@@ -1982,14 +1982,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SA400S37/480G_default.jpg"
    },
    {
-    "brand": "SanDisk",
-    "title": "SanDisk Creator Phone SSD 2TB compatible with MagSafe",
+    "brand": "PATRIOT",
+    "title": "PATRIOT SSD VP4000 M.2 NVME 2TB 2230",
     "spec": "Storage",
-    "price": "R5 646",
-    "handle": "sandisk-creator-phone-ssd-2tb-compatible-with-magsafe",
-    "url": "/products/sandisk-creator-phone-ssd-2tb-compatible-with-magsafe",
-    "qty": 1,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/S/D/SDSSDE62C_2T00_G25_a6f3.jpg"
+    "price": "R5 665",
+    "handle": "patriot-ssd-vp4000-m-2-nvme-2tb-2230",
+    "url": "/products/patriot-ssd-vp4000-m-2-nvme-2tb-2230",
+    "qty": 8,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/VP4000M2TBM23_Patriot-Viper-VP4000-Mini-2TB-M.2-2230-PCIe-Gen4x4-SSD_wr_01.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -2086,24 +2086,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/RTX3050VENTUS2XE6GOC-WR-01.jpg"
    },
    {
-    "brand": "ASRock",
-    "title": "ASRock Radeon RX9070 XT Steel Legend Dark 16GB Graphics Card",
+    "brand": "ROG",
+    "title": "ROG Strix GeForce RTX™ 5070 12GB GDDR7 OC Edition",
     "spec": "Graphics Cards",
-    "price": "R19 541",
-    "handle": "asrock-radeon-rx9070-xt-steel-legend-dark-16gb-graphics-card",
-    "url": "/products/asrock-radeon-rx9070-xt-steel-legend-dark-16gb-graphics-card",
-    "qty": 34,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/RX9070XTSTEELLEGENDDARK16_ASROCK-RADEON-RX9070-XT-STEEL-LEGEND-DAR_wr_01.jpg"
+    "price": "R20 474",
+    "handle": "rog-strix-geforce-rtx-5070-12gb-gddr7-oc-edition",
+    "url": "/products/rog-strix-geforce-rtx-5070-12gb-gddr7-oc-edition",
+    "qty": 1,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/ROG-STRIX-RTX5070-O12G-G_ROG_Strix_GeForce_RTX_5070_12GB_GDDR7_OC_wr_08.png"
    },
    {
-    "brand": "Asus",
-    "title": "Asus TUF Gaming Radeon RX 9070 XT OC Edition 16GB GDDR6 Graphics Card",
+    "brand": "ASRock",
+    "title": "ASRock Radeon RX9070 XT Taichi 16G OC Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R21 403",
-    "handle": "asus-tuf-gaming-radeon-rx-9070-xt-oc-edition-16gb-gddr6-graphics-card",
-    "url": "/products/asus-tuf-gaming-radeon-rx-9070-xt-oc-edition-16gb-gddr6-graphics-card",
-    "qty": 2,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/Asus_TUF-RX9070XT-O16G-GAMING_wr_01a.jpg"
+    "price": "R22 614",
+    "handle": "asrock-radeon-rx9070-xt-taichi-16g-oc-graphics-card",
+    "url": "/products/asrock-radeon-rx9070-xt-taichi-16g-oc-graphics-card",
+    "qty": 14,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/ASRock_RX9070XTTAICHI16GOC_wr_01a.jpg"
    }
   ],
   "power": [
@@ -2115,7 +2115,7 @@
     "handle": "asus-prime-750w-80-plus-bronze-atx-non-modular-power-supply",
     "url": "https://ubratech.co.za/products/asus-prime-750w-80-plus-bronze-atx-non-modular-power-supply",
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/PRIME-750B-BLACK_Asus-PRIME-750W-80-PLUS-Bronze-ATX-Non-modular-Power-Supply_wr_01a.jpg",
-    "qty": 46
+    "qty": 49
    },
    {
     "brand": "DeepCool",
@@ -2326,14 +2326,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_Design__95__f74c.png"
    },
    {
-    "brand": "Gizzu",
-    "title": "Gizzu 4K60Hz DisplayPort to HDMI Active Adapter",
+    "brand": "UGREEN",
+    "title": "UGREEN VG101 VGA Male to Male Cable 3M",
     "spec": "Cables And Adapters",
     "price": "R125",
-    "handle": "gizzu-4k60hz-displayport-to-hdmi-active-adapter",
-    "url": "/products/gizzu-4k60hz-displayport-to-hdmi-active-adapter",
-    "qty": 209,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/GIZZU-GAPDPHA-45-0004-Edit_1500x1500.jpg"
+    "handle": "ugreen-vg101-vga-male-to-male-cable-3m",
+    "url": "/products/ugreen-vg101-vga-male-to-male-cable-3m",
+    "qty": 218,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/VG101-11631_UGreen-VGA-Cable-3M_wr_01a.jpg"
    },
    {
     "brand": "TP-Link",
@@ -2365,7 +2365,7 @@
     "handle": "hp-330-black-wireless-keyboard-mouse-combo",
     "url": "https://ubratech.co.za/products/hp-330-black-wireless-keyboard-mouse-combo",
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/v/2v9e6aa_keyboards_42935554637988_1000x_16e7.png",
-    "qty": 6
+    "qty": 4
    },
    {
     "brand": "Logitech",
