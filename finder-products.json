@@ -117,13 +117,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP ProBook 4 G2i AI 14in Laptop — 16GB · 512GB SSD (DS5H9ET)",
+    "title": "HP ProBook 4 G2i AI 16in Laptop — 16GB · 512GB SSD (DS5L6ET)",
     "spec": "512GB SSD",
-    "price": "R31 379",
-    "handle": "hp-probook-4-g2i-ai-14in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "url": "/products/hp-probook-4-g2i-ai-14in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "qty": 23,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DS5H9ET_default.png"
+    "price": "R31 266",
+    "handle": "hp-probook-4-g2i-ai-16in-intel-core-7-350-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "url": "/products/hp-probook-4-g2i-ai-16in-intel-core-7-350-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "qty": 94,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DS5L6ET_default.png"
    },
    {
     "brand": "HP",
@@ -412,24 +412,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SENTINEL_01_wr_01e.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus TUF A15 15.6\" Ryzen-7 8GB 512GB Win 11 Home Notebook",
-    "spec": "15.6\" screen",
-    "price": "R20 692",
-    "handle": "asus-tuf-a15-15-6-ryzen-7-8gb-512gb-win-11-home-notebook",
-    "url": "/products/asus-tuf-a15-15-6-ryzen-7-8gb-512gb-win-11-home-notebook",
-    "qty": 17,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/F/A/FA506NCG_78512B0W__1__1ce1.png"
+    "brand": "Acer",
+    "title": "Acer NITRO V 15 Gaming Laptop — Ryzen 5",
+    "spec": "Notebooks",
+    "price": "R21 406",
+    "handle": "acer-nitro-v-15-gaming-laptop-15-6-amd-ryzen-5-16gb-512gb-rtx-5050-8gb-windows-11-home",
+    "url": "/products/acer-nitro-v-15-gaming-laptop-15-6-amd-ryzen-5-16gb-512gb-rtx-5050-8gb-windows-11-home",
+    "qty": 65,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NH.U3NEA.001_Acr-NITRO-V-15-Gaming-Laptop-15.6inch_wr001.jpg"
    },
    {
     "brand": "Acer",
-    "title": "Acer NITRO V 16 Gaming Laptop 16″ | Laptop — Ryzen 5",
+    "title": "Acer NITRO V 15 Gaming Laptop — Ryzen 7",
     "spec": "Notebooks",
-    "price": "R22 036",
-    "handle": "acer-nitro-v-16-gaming-laptop-16-amd-ryzen-5-16gb-1tb-rtx-5060-8gb-windows-11-home",
-    "url": "/products/acer-nitro-v-16-gaming-laptop-16-amd-ryzen-5-16gb-1tb-rtx-5060-8gb-windows-11-home",
-    "qty": 37,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NH.QYXEA_.001_Acer-NITRO-V-16-Gaming-Laptop-16%E2%80%B3-AMD-Ryzen-5-16GB-1TB-RTX-5060-8GB-Windows-11-Home_wr_001a.jpg"
+    "price": "R22 665",
+    "handle": "acer-nitro-v-15-gaming-laptop-15-6-amd-ryzen-7-16gb-512gb-rtx-5050-8gb-windows-11-home",
+    "url": "/products/acer-nitro-v-15-gaming-laptop-15-6-amd-ryzen-7-16gb-512gb-rtx-5050-8gb-windows-11-home",
+    "qty": 17,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NH.U3NEA.002_Acr-NITRO-V-15-Gaming-Laptop-15.6inch_wr01.jpg"
    }
   ],
   "ultra": [
@@ -540,34 +540,24 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQMZ_4276.jpg"
    },
    {
+    "brand": "Hikvision",
+    "title": "Hikvision 18.5\" Borderless FHD Monitor",
+    "spec": "18.5\" screen",
+    "price": "R1 486",
+    "handle": "hikvision-18-5-borderless-fhd-monitor",
+    "url": "/products/hikvision-18-5-borderless-fhd-monitor",
+    "qty": 86,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
+   },
+   {
     "brand": "Dell",
-    "title": "Dell SE2726HM 27\" FHD Monitor",
-    "spec": "Crisp everyday screen",
-    "price": "R2 376",
-    "handle": "dell-se2726hm-27-fhd-monitor",
-    "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 31,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
-   },
-   {
-    "brand": "Acer",
-    "title": "Acer V206H 19.5\" HD Monitor (UM.IV6EE.024)",
-    "spec": "19.5\" screen",
-    "price": "R1 258",
-    "handle": "acer-monitor-v206h-flat-19-5-tn-led-response-time-5-ms-resolution-1600-x-900-viewing-angle-178-h-178-v-aspect-ratio-16-09-digital-frequency-100hz-interface-x1-hdmi-1x-vga-speaker-none-power-supply",
-    "url": "/products/acer-monitor-v206h-flat-19-5-tn-led-response-time-5-ms-resolution-1600-x-900-viewing-angle-178-h-178-v-aspect-ratio-16-09-digital-frequency-100hz-interface-x1-hdmi-1x-vga-speaker-none-power-supply",
-    "qty": 80,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
-   },
-   {
-    "brand": "Acer",
-    "title": "Acer 27\" IPS FHD 120Hz Monitor 3Yr",
-    "spec": "27\" screen",
-    "price": "R2 391",
-    "handle": "acer-27-ips-fhd-120hz-monitor-3yr",
-    "url": "/products/acer-27-ips-fhd-120hz-monitor-3yr",
-    "qty": 2,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
+    "title": "Dell Pro 27 Monitor - E2726H 1x HDMI, 1x DP, 1x VGA (Includes DP & Power Cable)",
+    "spec": "Monitors And Displays",
+    "price": "R2 444",
+    "handle": "dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
+    "url": "/products/dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
+    "qty": 39,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPN_default.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -603,13 +593,13 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro 34 Plus P3425WE 34\" USB-C Hub Monitor",
-    "spec": "34\" screen",
-    "price": "R10 676",
-    "handle": "dell-pro-34-plus-usb-c-hub-monitor-p3425we-86-5cm-34-1-1x-hdmi-1x-dp-1x-rj45-6x-usb-ports",
-    "url": "/products/dell-pro-34-plus-usb-c-hub-monitor-p3425we-86-5cm-34-1-1x-hdmi-1x-dp-1x-rj45-6x-usb-ports",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BRDR_default.jpg"
+    "title": "Dell Alienware 27 4K Gaming Monitor 180Hz",
+    "spec": "Monitors And Displays",
+    "price": "R11 181",
+    "handle": "dell-alienware-27-4k-dual-resolution-gaming-monitor-4k-uhd-3840-x-2160-standard-refresh-rate-180-hz-stand-adjustments-swivel-height-pivot-tilt-height-adjustable-3-year-exchange",
+    "url": "/products/dell-alienware-27-4k-dual-resolution-gaming-monitor-4k-uhd-3840-x-2160-standard-refresh-rate-180-hz-stand-adjustments-swivel-height-pivot-tilt-height-adjustable-3-year-exchange",
+    "qty": 5,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BNHT_default.jpg"
    },
    {
     "brand": "Asus",
@@ -685,16 +675,6 @@
    }
   ],
   "multi": [
-   {
-    "brand": "Dell",
-    "title": "Dell SE2726HM 27\" FHD Monitor",
-    "spec": "Slim bezel · great for lots of windows",
-    "price": "R2 376",
-    "handle": "dell-se2726hm-27-fhd-monitor",
-    "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 31,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
-   },
    {
     "brand": "Hikvision",
     "title": "Hikvision 18.5\" Borderless FHD Monitor",
@@ -930,24 +910,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SMC1000IC_default.jpg"
    },
    {
-    "brand": "Eaton",
-    "title": "Eaton 9SX 1000i On-Line UPS 1000VA 200-240V Tower 9SX1000I",
+    "brand": "APC",
+    "title": "APC Smart-UPS, Line Interactive, 2200VA, Tower, 230V, 8x IEC C13+2x…",
     "spec": "Ups And Power",
-    "price": "R13 512",
-    "handle": "eaton-9sx-1000i-on-line-ups-1000va-200-240v-tower-9sx1000i",
-    "url": "/products/eaton-9sx-1000i-on-line-ups-1000va-200-240v-tower-9sx1000i",
-    "qty": 4,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/S/9SX1500I_1_38d0.png"
+    "price": "R20 940",
+    "handle": "apc-smart-ups-line-interactive-2200va-tower-230v-8x-iec-c13-2x-iec-c19-outlets-smartconnect-port-smartslot-avr-lcd",
+    "url": "/products/apc-smart-ups-line-interactive-2200va-tower-230v-8x-iec-c13-2x-iec-c19-outlets-smartconnect-port-smartslot-avr-lcd",
+    "qty": 1,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SMT2200IC_default.jpg"
    },
    {
-    "brand": "APC",
-    "title": "APC Smart Line Interactive 3000VA/ 3KVA 2100W UPS Tower Rack Mount…",
-    "spec": "3KVA UPS",
-    "price": "R28 370",
-    "handle": "apc-smart-line-interactive-3000va-3kva-2100w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
-    "url": "/products/apc-smart-line-interactive-3000va-3kva-2100w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
-    "qty": 3,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SMC3000I_default.jpg"
+    "brand": "Gizzu",
+    "title": "Gizzu Hero Ultra Plus 3840Wh UPS Power Station",
+    "spec": "Ups And Power",
+    "price": "R28 033",
+    "handle": "gizzu-hero-ultra-plus-3840wh-ups-power-station",
+    "url": "/products/gizzu-hero-ultra-plus-3840wh-ups-power-station",
+    "qty": 9,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/01/GPS3800UE_wr_01a.jpg"
    },
    {
     "brand": "APC",
@@ -1155,16 +1135,6 @@
   "docs": [
    {
     "brand": "HP",
-    "title": "HP LaserJet Pro MFP 4103FDW Mono All-in-One",
-    "spec": "Laser · sharp text · low running cost",
-    "price": "R8 227",
-    "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 45,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
-   },
-   {
-    "brand": "HP",
     "title": "HP LaserJet Enterprise MFP M430f All-in-One",
     "spec": "Laser · sharp text · low running cost",
     "price": "R10 427",
@@ -1185,13 +1155,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP Smart Tank 581 Printer.Enjoy everyday relia All-in-One Printer (4A8D4A)",
+    "title": "HP Officjet Pro 9120 Printer. Functions: All-in-One Printer (4V2M9C)",
     "spec": "Printers",
-    "price": "R3 473",
-    "handle": "hp-smart-tank-581-all-in-one-printer-enjoy-everyday-reliabilitywith-the-hp-smart-tank-581-all-in-one-printer-that-delivers-hp-quality-you-expect-and-savings-that-are-anything-but-expected-up-to-6-000",
-    "url": "/products/hp-smart-tank-581-all-in-one-printer-enjoy-everyday-reliabilitywith-the-hp-smart-tank-581-all-in-one-printer-that-delivers-hp-quality-you-expect-and-savings-that-are-anything-but-expected-up-to-6-000",
+    "price": "R2 940",
+    "handle": "hp-officjet-pro-9120-all-in-one-printer-functions-print-copy-scan-fax-print-technology-hp-thermal-inkjet-print-speed-black-a4-iso-up-to-22-ppm-colour-a4-iso-up-to-18-ppm-draft-black-a4-up-to-32ppm",
+    "url": "/products/hp-officjet-pro-9120-all-in-one-printer-functions-print-copy-scan-fax-print-technology-hp-thermal-inkjet-print-speed-black-a4-iso-up-to-22-ppm-colour-a4-iso-up-to-18-ppm-draft-black-a4-up-to-32ppm",
     "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/4A8D4A_default.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/4V2M9C_default.png"
    },
    {
     "brand": "HP",
@@ -1277,16 +1247,6 @@
    }
   ],
   "volume": [
-   {
-    "brand": "HP",
-    "title": "HP LaserJet Pro MFP 4103FDW Mono All-in-One",
-    "spec": "All-in-one · built for an office",
-    "price": "R8 227",
-    "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 45,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg"
-   },
    {
     "brand": "HP",
     "title": "HP LaserJet Enterprise MFP M430f All-in-One",
@@ -1390,7 +1350,7 @@
     "price": "R2 353",
     "handle": "hikvision-4mp-fixed-dome-network-camera",
     "url": "/products/hikvision-4mp-fixed-dome-network-camera",
-    "qty": 71,
+    "qty": 755,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
    },
    {
@@ -1618,14 +1578,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/900160_Port-Connect-USB-Type-C-to-4-port-USB-A-3.0-2.0-Hub_wr_01a.jpg"
    },
    {
-    "brand": "UGREEN",
-    "title": "UGREEN CM512 6-in-1 USB Type-C Docking Station",
+    "brand": "WINX",
+    "title": "WINX CONNECT MAX 11-in-1 Type-C Hub",
     "spec": "Docking Station",
-    "price": "R426",
-    "handle": "ugreen-cm512-6-in-1-usb-type-c-docking-station",
-    "url": "/products/ugreen-cm512-6-in-1-usb-type-c-docking-station",
-    "qty": 50,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM512-45000_UGREEN-CM512-6-in-1-USB-Type-C-Docking-Station-Grey_wr_01b.jpg"
+    "price": "R536",
+    "handle": "winx-connect-max-11-in-1-type-c-hub",
+    "url": "/products/winx-connect-max-11-in-1-type-c-hub",
+    "qty": 212,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/HB112-wr-01a.jpg"
    },
    {
     "brand": "Port",
@@ -1806,18 +1766,7 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/7Y8G4AA_default.png"
    }
   ],
-  "board": [
-   {
-    "brand": "Logitech",
-    "title": "Logitech C920s Pro Full-HD USB Webcam",
-    "spec": "Sharp video for meeting rooms",
-    "price": "R1 660",
-    "handle": "logitech-c920s-pro-full-hd-usb-webcam",
-    "url": "https://ubratech.co.za/products/logitech-c920s-pro-full-hd-usb-webcam",
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/960_001252_9ebb.jpg",
-    "qty": 14
-   }
-  ]
+  "board": []
  },
  "netgear": {
   "switch": [
@@ -1982,14 +1931,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SA400S37/480G_default.jpg"
    },
    {
-    "brand": "PATRIOT",
-    "title": "PATRIOT SSD VP4000 M.2 NVME 2TB 2230",
+    "brand": "SanDisk",
+    "title": "SanDisk Creator Phone SSD 2TB compatible with MagSafe",
     "spec": "Storage",
-    "price": "R5 665",
-    "handle": "patriot-ssd-vp4000-m-2-nvme-2tb-2230",
-    "url": "/products/patriot-ssd-vp4000-m-2-nvme-2tb-2230",
-    "qty": 8,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/VP4000M2TBM23_Patriot-Viper-VP4000-Mini-2TB-M.2-2230-PCIe-Gen4x4-SSD_wr_01.jpg"
+    "price": "R5 646",
+    "handle": "sandisk-creator-phone-ssd-2tb-compatible-with-magsafe",
+    "url": "/products/sandisk-creator-phone-ssd-2tb-compatible-with-magsafe",
+    "qty": 1,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/S/D/SDSSDE62C_2T00_G25_a6f3.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -2154,7 +2103,7 @@
     "price": "R1 675",
     "handle": "antec-mega-850w-80-plus-gold-atx3-1-pcie-5-1-fully-modular-power-supply",
     "url": "/products/antec-mega-850w-80-plus-gold-atx3-1-pcie-5-1-fully-modular-power-supply",
-    "qty": 41,
+    "qty": 39,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MEGA850_Antec-MEGA-850W-ATX3.1-80-Plus-Gold-PCIE-5.1-Fully-Modular-Power-Supply_wr_01.jpg"
    },
    {
@@ -2188,7 +2137,7 @@
     "price": "R229",
     "handle": "xiaomi-smart-temperature-and-humidity-monitor-3-mini",
     "url": "/products/xiaomi-smart-temperature-and-humidity-monitor-3-mini",
-    "qty": 48,
+    "qty": 49,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/QBH4312GL_Xiaomi-Smart-Temperature-and-Humidity-Monitor-3-Mini-White_wr_01a.jpg"
    },
    {
@@ -2255,23 +2204,23 @@
    },
    {
     "brand": "REDRAGON",
-    "title": "REDRAGON Over-Ear AURORA Gaming Headset - White",
+    "title": "REDRAGON Over-Ear AURORA Gaming Headset - Black",
     "spec": "Headsets",
-    "price": "R578",
-    "handle": "redragon-over-ear-aurora-gaming-headset-white",
-    "url": "/products/redragon-over-ear-aurora-gaming-headset-white",
-    "qty": 161,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/RD-H376WG_REDRAGON-OVER-EAR-AURORA-WH_wr_01.jpg"
+    "price": "R553",
+    "handle": "redragon-over-ear-aurora-gaming-headset-black",
+    "url": "/products/redragon-over-ear-aurora-gaming-headset-black",
+    "qty": 206,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/02/RD-H376BR_wr_01.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell WH3024 Wired Headset",
+    "brand": "Port",
+    "title": "Port 912001 Wired Headset",
     "spec": "Headsets",
-    "price": "R1 239",
-    "handle": "dell-wh3024-wired-headset",
-    "url": "/products/dell-wh3024-wired-headset",
-    "qty": 80,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/5/2/520_BBDH_a863.png"
+    "price": "R1 245",
+    "handle": "port-912001-wired-headset",
+    "url": "/products/port-912001-wired-headset",
+    "qty": 68,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__7439.png"
    },
    {
     "brand": "Poly",
@@ -2317,23 +2266,23 @@
    },
    {
     "brand": "UGREEN",
-    "title": "UGREEN Bluetooth 6.0 USB Adapter",
+    "title": "UGREEN USB to 3.5mm External Stereo Sound Adapter - Black",
     "spec": "Cables And Adapters",
     "price": "R126",
-    "handle": "ugreen-bluetooth-6-0-usb-adapter",
-    "url": "/products/ugreen-bluetooth-6-0-usb-adapter",
-    "qty": 125,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/CM748-75073_UGREEN-Bluetooth-6.0-USB-Adapter_hr01.jpeg"
+    "handle": "ugreen-usb-to-3-5mm-external-stereo-sound-adapter-black",
+    "url": "/products/ugreen-usb-to-3-5mm-external-stereo-sound-adapter-black",
+    "qty": 17,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/US205-30724-wr-01.png"
    },
    {
-    "brand": "Port",
-    "title": "Port Slim Keyed Cable Security Lock",
-    "spec": "Accessories",
-    "price": "R424",
-    "handle": "port-slim-keyed-cable-security-lock",
-    "url": "/products/port-slim-keyed-cable-security-lock",
-    "qty": 8,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/901200_67c8.jpg"
+    "brand": "TP-Link",
+    "title": "TP-Link Archer T4U AC1300 High Gain Dual Band Wi-Fi USB Adapter Router",
+    "spec": "Cables And Adapters",
+    "price": "R423",
+    "handle": "tp-link-archer-t4u-ac1300-high-gain-dual-band-wi-fi-usb-adapter-router",
+    "url": "/products/tp-link-archer-t4u-ac1300-high-gain-dual-band-wi-fi-usb-adapter-router",
+    "qty": 19,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/R/ARCHER_T4U_PLUS_1_abee.png"
    },
    {
     "brand": "Lenovo",
@@ -2366,16 +2315,6 @@
     "url": "https://ubratech.co.za/products/logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "image": "https://s3.amazonaws.com/tarsus.co.za/920-008685_default.jpg",
     "qty": 41
-   },
-   {
-    "brand": "Logitech",
-    "title": "Logitech C920s Pro Full-HD Webcam",
-    "spec": "Sharp video for calls",
-    "price": "R1 660",
-    "handle": "logitech-c920s-pro-full-hd-usb-webcam",
-    "url": "https://ubratech.co.za/products/logitech-c920s-pro-full-hd-usb-webcam",
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/960_001252_9ebb.jpg",
-    "qty": 14
    },
    {
     "brand": "Redragon",
