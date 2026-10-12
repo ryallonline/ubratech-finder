@@ -18,7 +18,7 @@
     "price": "R6 258",
     "handle": "acer-chromebook-311-c723-11-6-mediatek-kompanio-528-4gb-32gb-google-chrome-operating-system",
     "url": "/products/acer-chromebook-311-c723-11-6-mediatek-kompanio-528-4gb-32gb-google-chrome-operating-system",
-    "qty": 31,
+    "qty": 34,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NX.KKAEA_.001_Acer-Chromebook-311-C723-11.6-inch-MediaTek-Kompanio-528-4GB-32GB-Google-Chrome-Operating-System_wr_01a.jpg"
    },
    {
@@ -242,14 +242,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/VM27-N621042E6G-GIA_wr_01a.jpg"
    },
    {
-    "brand": "Giada",
-    "title": "Giada DF612 i3-1215U 2x DDR4 3200Mhz",
+    "brand": "PCBuilder",
+    "title": "PCBuilder AMD Ryzen 5 3400G HOME MASTER Windows 11 Desktop PC (PCB_HOME_R516G-V1)",
     "spec": "Desktops",
-    "price": "R8 431",
-    "handle": "giada-df612-i3-1215u-2x-ddr4-3200mhz",
-    "url": "/products/giada-df612-i3-1215u-2x-ddr4-3200mhz",
-    "qty": 4,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2023/06/DF612-1215U40N0G-GIA_wr_01.jpeg"
+    "price": "R9 368",
+    "handle": "pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc-pcb-home-r516g-v1",
+    "url": "/products/pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc-pcb-home-r516g-v1",
+    "qty": 5,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/04/PCB_HOME_R516G-V1_PCBuilder-AMD-Ryzen-5-3400G-HOME-MASTER-Windows-11-Desktop-PC_wr_01a.jpg"
    },
    {
     "brand": "PCBuilder",
@@ -290,7 +290,7 @@
     "price": "R15 763",
     "handle": "pcbuilder-ryzen-5-8600g-warden-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-8600g-warden-windows-11-gaming-pc",
-    "qty": 8,
+    "qty": 7,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_WARDEN_02_PCBuilder-Ryzen-5-8600G-WARDEN-Windows-11-Gaming-PC_wr_01a.jpg"
    },
    {
@@ -398,7 +398,7 @@
     "price": "R12 809",
     "handle": "pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
-    "qty": 91,
+    "qty": 101,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_DEFENDER_05_wr_01e.jpg"
    },
    {
@@ -502,7 +502,7 @@
     "price": "R12 809",
     "handle": "pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
-    "qty": 91,
+    "qty": 101,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_DEFENDER_05_wr_01e.jpg"
    },
    {
@@ -546,7 +546,7 @@
     "price": "R2 376",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 82,
+    "qty": 80,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -560,24 +560,24 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 27 Monitor - E2726H 1x HDMI, 1x DP, 1x VGA (Includes DP & Power Cable)",
-    "spec": "Monitors And Displays",
-    "price": "R2 444",
-    "handle": "dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
-    "url": "/products/dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
-    "qty": 34,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPN_default.jpg"
+    "brand": "MSI",
+    "title": "MSI MAG 255F E20 25\" FHD 200Hz Rapid IPS Gaming Monitor",
+    "spec": "25\" screen",
+    "price": "R2 461",
+    "handle": "msi-mag-255f-e20-25-fhd-200hz-rapid-ips-gaming-monitor",
+    "url": "/products/msi-mag-255f-e20-25-fhd-200hz-rapid-ips-gaming-monitor",
+    "qty": 202,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-E20_MSI-MAG-255F-E20-25-inch-FHD-200Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer Nitro VG270 27\" IPS FHD 1MS 240HZ Gaming Monitor 3Yr",
-    "spec": "27\" screen",
-    "price": "R3 273",
-    "handle": "acer-nitro-vg270-27-ips-fhd-1ms-240hz-gaming-monitor-3yr",
-    "url": "/products/acer-nitro-vg270-27-ips-fhd-1ms-240hz-gaming-monitor-3yr",
-    "qty": 1,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HV0EE.W01_default.jpg"
+    "brand": "Port",
+    "title": "Port Connect 15.6\" Full HD Touchscreen Portable Monitor",
+    "spec": "15.6\" screen",
+    "price": "R3 285",
+    "handle": "port-connect-15-6-full-hd-touchscreen-portable-monitor",
+    "url": "/products/port-connect-15-6-full-hd-touchscreen-portable-monitor",
+    "qty": 16,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/902101T-WR-01b.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -654,24 +654,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer Nitro VG270 27\" IPS FHD 1MS 240HZ Gaming Monitor 3Yr",
+    "brand": "Xiaomi",
+    "title": "Xiaomi A27Qi 2026 27\" inch 120Hz 2K IPS Office Monitor",
     "spec": "27\" screen",
-    "price": "R3 273",
-    "handle": "acer-nitro-vg270-27-ips-fhd-1ms-240hz-gaming-monitor-3yr",
-    "url": "/products/acer-nitro-vg270-27-ips-fhd-1ms-240hz-gaming-monitor-3yr",
-    "qty": 1,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HV0EE.W01_default.jpg"
+    "price": "R3 449",
+    "handle": "xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
+    "url": "/products/xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
+    "qty": 183,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6568EU_Xiaomi-A27Qi-2026-27-inch-2K-120Hz-IPS-Office-Monitor_wr_01a.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi G Pro 27i 27\" 2K 1440p Mini LED IPS Gaming Monitor (180Hz, 1ms)",
-    "spec": "27\" screen",
-    "price": "R8 570",
-    "handle": "xiaomi-g-pro-27i-27-2k-1440p-mini-led-ips-gaming-monitor-180hz-1ms",
-    "url": "/products/xiaomi-g-pro-27i-27-2k-1440p-mini-led-ips-gaming-monitor-180hz-1ms",
-    "qty": 61,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/ELA5585EU_Xiaomi-G-Pro-27i_27-inch_2k_qhd_gaming_monitor_wr_01b.jpg"
+    "brand": "Samsung",
+    "title": "Samsung Odyssey G55T Gaming 1000R 34\" QHD Monitor (LC34G55TWWPXEN)",
+    "spec": "34\" screen",
+    "price": "R8 058",
+    "handle": "samsung-odyssey-g55t-gaming-1000r-borderless-34-display-va-response-1ms-mprt-ar-21-9-resolution-3440x1440-uwqhd-rr-165hz-hdmi-display-port-speaker-no-power-supply-external-tilt-yes-swivel-no-pivot-no",
+    "url": "/products/samsung-odyssey-g55t-gaming-1000r-borderless-34-display-va-response-1ms-mprt-ar-21-9-resolution-3440x1440-uwqhd-rr-165hz-hdmi-display-port-speaker-no-power-supply-external-tilt-yes-swivel-no-pivot-no",
+    "qty": 3,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/LC34G55TWWPXEN_default.png"
    },
    {
     "brand": "Asus",
@@ -692,7 +692,7 @@
     "price": "R2 376",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 82,
+    "qty": 80,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -706,14 +706,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
-    "brand": "Asus",
-    "title": "Asus ZenScreen 16\" FHD IPS 60Hz Portable Monitor",
-    "spec": "16\" screen",
-    "price": "R2 731",
-    "handle": "asus-zenscreen-16-fhd-ips-60hz-portable-monitor",
-    "url": "/products/asus-zenscreen-16-fhd-ips-60hz-portable-monitor",
-    "qty": 7,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/MB16FC_Asus_ZenScreen_16_FHD_IPS_60Hz_Portable__wr_01.png"
+    "brand": "Dell",
+    "title": "Dell Pro P 22 P2226H FHD 22\" Monitor",
+    "spec": "22\" screen",
+    "price": "R2 768",
+    "handle": "dell-pro-p-22-monitor-p2226h-fhd-22-in-plane-switching-ips-technology-1x-hdmi-port-1x-displayport-4x-usb-1x-usb-c-includes-power-cable-usb-and-hdmi-cable",
+    "url": "/products/dell-pro-p-22-monitor-p2226h-fhd-22-in-plane-switching-ips-technology-1x-hdmi-port-1x-displayport-4x-usb-1x-usb-c-includes-power-cable-usb-and-hdmi-cable",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BVJQ_default.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -946,7 +946,7 @@
     "price": "R28 033",
     "handle": "gizzu-hero-ultra-plus-3840wh-ups-power-station",
     "url": "/products/gizzu-hero-ultra-plus-3840wh-ups-power-station",
-    "qty": 9,
+    "qty": 14,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/01/GPS3800UE_wr_01a.jpg"
    },
    {
@@ -1000,7 +1000,7 @@
     "price": "R1 522",
     "handle": "xiaomi-ac1200-whole-home-mesh-wi-fi-system-2-pack",
     "url": "/products/xiaomi-ac1200-whole-home-mesh-wi-fi-system-2-pack",
-    "qty": 43,
+    "qty": 42,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/DVB4451GL_wr_01.jpg"
    },
    {
@@ -1042,7 +1042,7 @@
     "price": "R1 522",
     "handle": "xiaomi-ac1200-whole-home-mesh-wi-fi-system-2-pack",
     "url": "/products/xiaomi-ac1200-whole-home-mesh-wi-fi-system-2-pack",
-    "qty": 43,
+    "qty": 42,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/DVB4451GL_wr_01.jpg"
    },
    {
@@ -1190,7 +1190,7 @@
     "price": "R6 505",
     "handle": "hp-smart-tank-750-print-scan-copy-up-to-15-9-ppm-automatic-duplex-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-2-contextual-display-with-id-copy-low-on-ink-sensor-30-000",
     "url": "/products/hp-smart-tank-750-print-scan-copy-up-to-15-9-ppm-automatic-duplex-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-2-contextual-display-with-id-copy-low-on-ink-sensor-30-000",
-    "qty": 21,
+    "qty": 18,
     "image": "https://s3.amazonaws.com/tarsus.co.za/6UU47A_default.jpg"
    },
    {
@@ -1222,7 +1222,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
     "url": "https://ubratech.co.za/products/hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
-    "qty": 72,
+    "qty": 71,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    },
    {
@@ -1252,7 +1252,7 @@
     "price": "R6 505",
     "handle": "hp-smart-tank-750-print-scan-copy-up-to-15-9-ppm-automatic-duplex-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-2-contextual-display-with-id-copy-low-on-ink-sensor-30-000",
     "url": "/products/hp-smart-tank-750-print-scan-copy-up-to-15-9-ppm-automatic-duplex-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-2-contextual-display-with-id-copy-low-on-ink-sensor-30-000",
-    "qty": 21,
+    "qty": 18,
     "image": "https://s3.amazonaws.com/tarsus.co.za/6UU47A_default.jpg"
    },
    {
@@ -1262,7 +1262,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
     "url": "/products/hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
-    "qty": 72,
+    "qty": 71,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    }
   ],
@@ -1449,13 +1449,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Smart Hybrid Colorvu Fixed Bullet IP Camera",
+    "title": "Hikvision 4MP Smart Hybrid Colorvu Fixed Mini Bullet IP Camera (DS-2CD2047G2H-LIU-SL-2.8MM)",
     "spec": "4MP",
-    "price": "R3 170",
-    "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-bullet-ip-camera",
-    "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-bullet-ip-camera",
-    "qty": 62,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T47G2H_LI_image_4_17d1.png"
+    "price": "R3 162",
+    "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-mini-bullet-ip-camera-ds-2cd2047g2h-liu-sl-2-8mm",
+    "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-mini-bullet-ip-camera-ds-2cd2047g2h-liu-sl-2-8mm",
+    "qty": 54,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LIU_SL_2.8MM_1_abe9.png"
    },
    {
     "brand": "Hikvision",
@@ -1513,13 +1513,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Colorvu Fixed Bullet Polymer Anti-Corrosion Network IP Camera",
+    "title": "Hikvision 4MP Smartt Hybrid Colorvu Fixed Bullet IP Camera",
     "spec": "4MP",
-    "price": "R3 375",
-    "handle": "hikvision-4mp-colorvu-fixed-bullet-polymer-anti-corrosion-network-ip-camera",
-    "url": "/products/hikvision-4mp-colorvu-fixed-bullet-polymer-anti-corrosion-network-ip-camera",
-    "qty": 75,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2XC6027G0_LS_1_23b9.png"
+    "price": "R3 480",
+    "handle": "hikvision-4mp-smartt-hybrid-colorvu-fixed-bullet-ip-camera",
+    "url": "/products/hikvision-4mp-smartt-hybrid-colorvu-fixed-bullet-ip-camera",
+    "qty": 3,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T47G2H_LISU_SL_4MM_90df.jpg"
    },
    {
     "brand": "Hikvision",
@@ -1678,7 +1678,7 @@
     "price": "R166",
     "handle": "ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
     "url": "/products/ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
-    "qty": 76,
+    "qty": 64,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CR113-20290_UGREEN-4-Port-USB-3.0-Hub-with-Micro-USB_wr_01a.jpg"
    },
    {
@@ -2064,7 +2064,7 @@
     "handle": "deepcool-ak400-g2-120mm-cpu-air-cooler-white",
     "url": "https://ubratech.co.za/products/deepcool-ak400-g2-120mm-cpu-air-cooler-white",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/R-AK400G2-WHNNMN-GJD_DeepCool-AK400-G2-120mm-CPU-Air-Cooler-White_wr_01.jpg",
-    "qty": 8
+    "qty": 9
    },
    {
     "brand": "Gizzu",
@@ -2275,14 +2275,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/90-BXG2T0-A0XCR3W_wr_01.jpg"
    },
    {
-    "brand": "TP-Link",
-    "title": "TP-Link Archer T4U AC1300 High Gain Dual Band Wi-Fi USB Adapter Router",
+    "brand": "Gizzu",
+    "title": "Gizzu USB3.0 Active Extension Cable 10m",
     "spec": "Cables And Adapters",
-    "price": "R423",
-    "handle": "tp-link-archer-t4u-ac1300-high-gain-dual-band-wi-fi-usb-adapter-router",
-    "url": "/products/tp-link-archer-t4u-ac1300-high-gain-dual-band-wi-fi-usb-adapter-router",
-    "qty": 19,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/R/ARCHER_T4U_PLUS_1_abee.png"
+    "price": "R418",
+    "handle": "gizzu-usb3-0-active-extension-cable-10m",
+    "url": "/products/gizzu-usb3-0-active-extension-cable-10m",
+    "qty": 93,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/GCPU3UE10A-0128-Edit1500x1500-96DPI.jpg"
    },
    {
     "brand": "Lenovo",
@@ -2328,23 +2328,23 @@
    },
    {
     "brand": "Port",
-    "title": "Port Pure MAC Wireless Shadow Mouse",
+    "title": "Port Pure MAC Wireless Iris Mouse",
     "spec": "Wired Mouse",
     "price": "R371",
-    "handle": "port-pure-mac-wireless-shadow-mouse",
-    "url": "/products/port-pure-mac-wireless-shadow-mouse",
-    "qty": 40,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__10__3c08.png"
+    "handle": "port-pure-mac-wireless-iris-mouse",
+    "url": "/products/port-pure-mac-wireless-iris-mouse",
+    "qty": 52,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__12__8186.png"
    },
    {
     "brand": "Keychron",
-    "title": "Keychron B6 Pro Ultra-Slim 100% Wireless Keyboard – Space Grey",
+    "title": "Keychron B6 Pro Ultra-Slim 100% Wireless Keyboard - Retro Blue",
     "spec": "Keyboards",
-    "price": "R788",
-    "handle": "keychron-b6-pro-ultra-slim-100-wireless-keyboard-space-grey",
-    "url": "/products/keychron-b6-pro-ultra-slim-100-wireless-keyboard-space-grey",
-    "qty": 28,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/B6P-K1_wr_01a.jpg"
+    "price": "R787",
+    "handle": "keychron-b6-pro-ultra-slim-100-wireless-keyboard-retro-blue",
+    "url": "/products/keychron-b6-pro-ultra-slim-100-wireless-keyboard-retro-blue",
+    "qty": 20,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/12/B6P-K11_Keychron-B11-Pro-Ultra-Slim-10-WRLS-KB-Retro-Blue_01.jpeg"
    },
    {
     "brand": "Keychron",
