@@ -791,14 +791,14 @@
     "enquiry": true
    },
    {
-    "brand": "UPS",
-    "title": "Acconet 2000VA/1200W Offline UPS | AC-UPS-2000",
-    "spec": "5-10 Minutes Run Time @ 1200W Load.",
-    "price": "R2 047",
-    "handle": "ups-acconet-2000va-1200w-offline-ups-ac-ups-2000",
-    "url": "/pages/ups-acconet-2000va-1200w-offline-ups-ac-ups-2000",
+    "brand": "Acconet",
+    "title": "Acconet Mini DC UPS 13200mAh with 12V 2A Power Supply | AC-UPS-MINI-V2-KIT",
+    "spec": "13200mAh Battery, 4 Way Cable - 1x USB, 1x 9V, 2x 12V, includes PSU-12",
+    "price": "R362",
+    "handle": "acconet-mini-dc-ups-13200mah-with-12v-2a-power-supply-ac-ups-mini-v2-kit",
+    "url": "/pages/acconet-mini-dc-ups-13200mah-with-12v-2a-power-supply-ac-ups-mini-v2-kit",
     "qty": 9,
-    "image": "https://miro.co.za/img/p/6/2/0/6/6206.jpg",
+    "image": "https://miro.co.za/img/p/1/7/2/2/2/17222.jpg",
     "enquiry": true
    }
   ],
@@ -844,14 +844,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SMC1000IC_default.jpg"
    },
    {
-    "brand": "UPS",
-    "title": "Acconet 1200VA/600W Offline UPS | AC-UPS-1000",
-    "spec": "5-10 Minutes Run Time @ 600W Load.",
-    "price": "R1 488",
-    "handle": "ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
-    "url": "/pages/ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
+    "brand": "Acconet",
+    "title": "Acconet 2000VA/1800W Online Rack Mounted UPS | AC-UPS-O2000-R",
+    "spec": "10-15 Minutes Run Time @ 1800W Load.",
+    "price": "R6 100",
+    "handle": "acconet-2000va-1800w-online-rack-mounted-ups-ac-ups-o2000-r",
+    "url": "/pages/acconet-2000va-1800w-online-rack-mounted-ups-ac-ups-o2000-r",
     "qty": 9,
-    "image": "https://miro.co.za/img/p/6/2/0/2/6202.jpg",
+    "image": "https://miro.co.za/img/p/9/9/0/2/9902.jpg",
     "enquiry": true
    },
    {
@@ -1384,14 +1384,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_4MM_1_306c.png"
    },
    {
-    "brand": "TP-Link VIGI",
-    "title": "TP-Link VIGI Mini 3MP IR Mini Dome Camera | C230IMINI (2.8MM)",
-    "spec": "3MP, 2.8mm Fixed Lens, 1/2.8” Progressive Scan CMOS, H.265+/H.265/H.26",
-    "price": "R834",
-    "handle": "tp-link-vigi-mini-3mp-ir-mini-dome-camera-c230imini-2-8mm",
-    "url": "/pages/tp-link-vigi-mini-3mp-ir-mini-dome-camera-c230imini-2-8mm",
+    "brand": "Uniview",
+    "title": "Uniview UNV 4MP Fixed Mini Bullet IP Camera 4mm  | IPC2124LB-AF40-A2",
+    "spec": "Uniview No Analytics, PoE, IR 30m, 4.00mm lens, IP67, Supports motion ",
+    "price": "R831",
+    "handle": "uniview-unv-4mp-fixed-mini-bullet-ip-camera-4mm-ipc2124lb-af40-a2",
+    "url": "/pages/uniview-unv-4mp-fixed-mini-bullet-ip-camera-4mm-ipc2124lb-af40-a2",
     "qty": 9,
-    "image": "https://miro.co.za/img/p/1/8/0/2/5/18025.jpg",
+    "image": "https://miro.co.za/img/p/1/7/4/8/5/17485.jpg",
     "enquiry": true
    },
    {
@@ -1831,14 +1831,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_fcaa.png"
    },
    {
-    "brand": "Tenda",
-    "title": "Tenda 5-Port Fast Ethernet Switch | S105",
-    "spec": "Desktop/Wall-mountable, 5-port 10/100Mbps, Plug and Play, 5v PSU inclu",
-    "price": "R91",
-    "handle": "tenda-5-port-fast-ethernet-switch-s105",
-    "url": "/pages/tenda-5-port-fast-ethernet-switch-s105",
+    "brand": "Grandstream",
+    "title": "Grandstream Enterprise 5 port Unmanaged GbE Switch | GWN7700",
+    "spec": "5x GbE, plastic case, 5V/0.6A PSU",
+    "price": "R190",
+    "handle": "grandstream-enterprise-5-port-unmanaged-gbe-switch-gwn7700",
+    "url": "/pages/grandstream-enterprise-5-port-unmanaged-gbe-switch-gwn7700",
     "qty": 9,
-    "image": "https://miro.co.za/img/p/1/5/1/1/1511.jpg",
+    "image": "https://miro.co.za/img/p/1/2/2/0/2/12202.jpg",
     "enquiry": true
    },
    {
@@ -2371,47 +2371,47 @@
    "enquiry": true
   },
   {
-   "brand": "Grandstream",
-   "title": "Grandstream Enterprise WiFi 5 Compact Long Range Outdoor  AP | GWN7605CLR",
-   "spec": "Compact outdoor Wi-Fi Access point, 2x2 Wi-Fi 5, 2x GbE, 12—24V DC-In,",
-   "price": "R1 379",
-   "handle": "grandstream-enterprise-wifi-5-compact-long-range-outdoor-ap-gwn7605clr",
-   "url": "/pages/grandstream-enterprise-wifi-5-compact-long-range-outdoor-ap-gwn7605clr",
+   "brand": "TP-Link Omada",
+   "title": "TP-Link AC1750 Ceiling Mount Dual-Band Access Point | TP-EAP245",
+   "spec": "450Mbps at 2.4GHz+1300Mbps at 5GHz, 2 x Gb LAN, 802.3at PoE Supported,",
+   "price": "R1 334",
+   "handle": "tp-link-ac1750-ceiling-mount-dual-band-access-point-tp-eap245",
+   "url": "/pages/tp-link-ac1750-ceiling-mount-dual-band-access-point-tp-eap245",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/8/7/1/0/18710.jpg",
+   "image": "https://miro.co.za/img/p/1/5/8/2/1582.jpg",
+   "enquiry": true
+  },
+  {
+   "brand": "MikroTik",
+   "title": "Mikrotik cAP AC XL Dual Band 1200Mbps Wi-Fi 5 Ceiling AP | MT-RBCAP-AC-XL",
+   "spec": "802.11 b/g/n/ac, 6dBi (2.4GHz) 5.5dBi (5GHz), Dual chain, PoE-in 802.3",
+   "price": "R1 870",
+   "handle": "mikrotik-cap-ac-xl-dual-band-1200mbps-wi-fi-5-ceiling-ap-mt-rbcap-ac-xl",
+   "url": "/pages/mikrotik-cap-ac-xl-dual-band-1200mbps-wi-fi-5-ceiling-ap-mt-rbcap-ac-xl",
+   "qty": 9,
+   "image": "https://miro.co.za/img/p/5/7/0/2/5702.jpg",
    "enquiry": true
   },
   {
    "brand": "TP-Link Omada",
-   "title": "TP-Link AX1800 Ceiling Mount Dual-Band Access Point | EAP620 HD",
-   "spec": "574Mbps at  2.4 GHz + 1201Mbps at 5GHz, 1GB LAN, 1000+ Clients,  802.3",
-   "price": "R1 963",
-   "handle": "tp-link-ax1800-ceiling-mount-dual-band-access-point-eap620-hd",
-   "url": "/pages/tp-link-ax1800-ceiling-mount-dual-band-access-point-eap620-hd",
+   "title": "TP-Link AX6000 Indoor WiFi 6 Ceiling Mount Access Point | TP-EAP683UR",
+   "spec": "1×2.5 Gigabit RJ45 Port, SPEED: 1148Mbps at  2.4 GHz + 4804 Mbps at 5 ",
+   "price": "R2 748",
+   "handle": "tp-link-ax6000-indoor-wifi-6-ceiling-mount-access-point-tp-eap683ur",
+   "url": "/pages/tp-link-ax6000-indoor-wifi-6-ceiling-mount-access-point-tp-eap683ur",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/5/4/5/6/5456.jpg",
-   "enquiry": true
-  },
-  {
-   "brand": "Grandstream",
-   "title": "Grandstream Enterprise Outdoor WiFi 7 Long Range Access Point | GWN7670LR",
-   "spec": "Outdoor Long-Range Dual-Band Wi-Fi 7 Access Point/Bridge, 2x2:2 2.4/5G",
-   "price": "R2 857",
-   "handle": "grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
-   "url": "/pages/grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
-   "qty": 9,
-   "image": "https://miro.co.za/img/p/1/8/7/0/7/18707.jpg",
+   "image": "https://miro.co.za/img/p/1/6/9/8/5/16985.jpg",
    "enquiry": true
   },
   {
    "brand": "Ubiquiti",
-   "title": "Ubiquiti UniFi6 Mesh Pro Indoor/Outdoor Dual Band WiFi6 Access Point | U6-Mesh-Pro",
-   "spec": "No PoE Injector included, Indoor AP - 350+ concurrent client capacity,",
-   "price": "R4 398",
-   "handle": "ubiquiti-unifi6-mesh-pro-indoor-outdoor-dual-band-wifi6-access-point-u6-mesh-pro",
-   "url": "/pages/ubiquiti-unifi6-mesh-pro-indoor-outdoor-dual-band-wifi6-access-point-u6-mesh-pro",
+   "title": "Ubiquiti UniFi WiFi 7 Outdoor Access Point | U7-Outdoor",
+   "spec": "No PoE Injector included, 4 Spatial Streams, 250+ connected devices, 2",
+   "price": "R4 377",
+   "handle": "ubiquiti-unifi-wifi-7-outdoor-access-point-u7-outdoor",
+   "url": "/pages/ubiquiti-unifi-wifi-7-outdoor-access-point-u7-outdoor",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/4/0/8/5/14085.jpg",
+   "image": "https://miro.co.za/img/p/1/7/1/4/0/17140.jpg",
    "enquiry": true
   },
   {
