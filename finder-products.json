@@ -61,7 +61,7 @@
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "qty": 9,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA-BUN1Q2_default.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
     "brand": "Lenovo",
@@ -117,13 +117,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP ProBook 4 G2i AI 16in Laptop — 16GB · 512GB SSD (DS5L6ET)",
-    "spec": "512GB SSD",
-    "price": "R31 266",
-    "handle": "hp-probook-4-g2i-ai-16in-intel-core-7-350-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "url": "/products/hp-probook-4-g2i-ai-16in-intel-core-7-350-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "qty": 88,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DS5L6ET_default.png"
+    "title": "HP EliteBook 8 Flip G1i Laptop",
+    "spec": "Notebooks",
+    "price": "R31 153",
+    "handle": "hp-elitebook-8-flip-g1i-13-3-wuxga-ai-ultra-5-225u-16gb-512gb-win-11-pro-2-in-1-notebook",
+    "url": "/products/hp-elitebook-8-flip-g1i-13-3-wuxga-ai-ultra-5-225u-16gb-512gb-win-11-pro-2-in-1-notebook",
+    "qty": 9,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/D/AD3U5ET_1871.jpg"
    },
    {
     "brand": "HP",
@@ -184,7 +184,7 @@
     "price": "R18 258",
     "handle": "hp-probook-4-g1ah-16-radeon-740m-wuxga-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
     "url": "/products/hp-probook-4-g1ah-16-radeon-740m-wuxga-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
-    "qty": 104,
+    "qty": 103,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KSAT_9f51.jpg"
    },
    {
@@ -546,7 +546,7 @@
     "price": "R2 376",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 80,
+    "qty": 76,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -692,7 +692,7 @@
     "price": "R2 376",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 80,
+    "qty": 76,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -898,14 +898,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SMC1000IC_default.jpg"
    },
    {
-    "brand": "APC",
-    "title": "APC Smart line Intarative 1500VA/ 1.5KVA 1000W UPS Tower Rack Mount… (SMT1500IC)",
-    "spec": "1.5KVA UPS",
-    "price": "R12 793",
-    "handle": "apc-smart-line-intarative-1500va-1-5kva-1000w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-3-years-repair-or-replace-excluding-battery-and-2",
-    "url": "/products/apc-smart-line-intarative-1500va-1-5kva-1000w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-3-years-repair-or-replace-excluding-battery-and-2",
-    "qty": 1,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SMT1500IC_default.jpg"
+    "brand": "Eaton",
+    "title": "Eaton 9SX 1000i On-Line UPS 1000VA 200-240V Tower 9SX1000I",
+    "spec": "Ups And Power",
+    "price": "R13 512",
+    "handle": "eaton-9sx-1000i-on-line-ups-1000va-200-240v-tower-9sx1000i",
+    "url": "/products/eaton-9sx-1000i-on-line-ups-1000va-200-240v-tower-9sx1000i",
+    "qty": 4,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/S/9SX1500I_1_38d0.png"
    },
    {
     "brand": "APC",
@@ -931,23 +931,23 @@
    },
    {
     "brand": "APC",
-    "title": "APC Smart-UPS, Line Interactive, 2200VA, Tower, 230V, 8x IEC C13+2x…",
-    "spec": "Ups And Power",
-    "price": "R20 940",
-    "handle": "apc-smart-ups-line-interactive-2200va-tower-230v-8x-iec-c13-2x-iec-c19-outlets-smartconnect-port-smartslot-avr-lcd",
-    "url": "/products/apc-smart-ups-line-interactive-2200va-tower-230v-8x-iec-c13-2x-iec-c19-outlets-smartconnect-port-smartslot-avr-lcd",
-    "qty": 1,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SMT2200IC_default.jpg"
+    "title": "APC Smart Line Interactive 1500VA/ 1.5KVA 900W UPS Rack Mount… (SMC1500I-2UC)",
+    "spec": "1.5KVA UPS",
+    "price": "R14 285",
+    "handle": "apc-smart-line-interactive-1500va-1-5kva-900w-ups-rack-mount-included-yes-rack-type-2u-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-intelligent-and-efficient",
+    "url": "/products/apc-smart-line-interactive-1500va-1-5kva-900w-ups-rack-mount-included-yes-rack-type-2u-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-intelligent-and-efficient",
+    "qty": 2,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SMC1500I-2UC_default.png"
    },
    {
-    "brand": "Gizzu",
-    "title": "Gizzu Hero Ultra Plus 3840Wh UPS Power Station",
-    "spec": "Ups And Power",
-    "price": "R28 033",
-    "handle": "gizzu-hero-ultra-plus-3840wh-ups-power-station",
-    "url": "/products/gizzu-hero-ultra-plus-3840wh-ups-power-station",
-    "qty": 14,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/01/GPS3800UE_wr_01a.jpg"
+    "brand": "APC",
+    "title": "APC Smart Line Interactive 3000VA/ 3KVA 2100W UPS Tower Rack Mount…",
+    "spec": "3KVA UPS",
+    "price": "R28 370",
+    "handle": "apc-smart-line-interactive-3000va-3kva-2100w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
+    "url": "/products/apc-smart-line-interactive-3000va-3kva-2100w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
+    "qty": 2,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SMC3000I_default.jpg"
    },
    {
     "brand": "APC",
@@ -1354,14 +1354,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE10DF3T_LPXTS_2_8MM_5c9a.jpg"
    },
    {
-    "brand": "Hikvision",
-    "title": "Hikvision 4MP 2.8mm Build-In Mic Fixed Dome Network Camera",
+    "brand": "TP-Link",
+    "title": "TP-Link VIGI Insight-S445 4MP Full Color Turret IP Camera",
     "spec": "4MP",
-    "price": "R1 445",
-    "handle": "hikvision-4mp-2-8mm-build-in-mic-fixed-dome-network-camera",
-    "url": "/products/hikvision-4mp-2-8mm-build-in-mic-fixed-dome-network-camera",
-    "qty": 1,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2141G0_LIU_2.8MM_606e.png"
+    "price": "R1 502",
+    "handle": "tp-link-vigi-insight-s445-4mp-full-color-turret-ip-camera",
+    "url": "/products/tp-link-vigi-insight-s445-4mp-full-color-turret-ip-camera",
+    "qty": 13,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/5/_/5__1__f79c.png"
    },
    {
     "brand": "Hikvision",
