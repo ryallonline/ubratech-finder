@@ -117,13 +117,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP EliteBook 8 Flip G1i Laptop",
-    "spec": "Notebooks",
-    "price": "R31 153",
-    "handle": "hp-elitebook-8-flip-g1i-13-3-wuxga-ai-ultra-5-225u-16gb-512gb-win-11-pro-2-in-1-notebook",
-    "url": "/products/hp-elitebook-8-flip-g1i-13-3-wuxga-ai-ultra-5-225u-16gb-512gb-win-11-pro-2-in-1-notebook",
-    "qty": 9,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/D/AD3U5ET_1871.jpg"
+    "title": "HP ProBook 4 G2i AI 16in Laptop — 16GB · 512GB SSD (DS5L6ET)",
+    "spec": "512GB SSD",
+    "price": "R31 266",
+    "handle": "hp-probook-4-g2i-ai-16in-intel-core-7-350-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "url": "/products/hp-probook-4-g2i-ai-16in-intel-core-7-350-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "qty": 88,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DS5L6ET_default.png"
    },
    {
     "brand": "HP",
@@ -285,13 +285,13 @@
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder Ryzen 5 8600G WARDEN Windows 11 Gaming PC",
+    "title": "PCBuilder Intel i5-12400 OFFICE MASTER Core Windows 11 Pro Desktop PC",
     "spec": "Desktops",
-    "price": "R15 763",
-    "handle": "pcbuilder-ryzen-5-8600g-warden-windows-11-gaming-pc",
-    "url": "/products/pcbuilder-ryzen-5-8600g-warden-windows-11-gaming-pc",
-    "qty": 7,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_WARDEN_02_PCBuilder-Ryzen-5-8600G-WARDEN-Windows-11-Gaming-PC_wr_01a.jpg"
+    "price": "R15 078",
+    "handle": "pcbuilder-intel-i5-12400-office-master-core-windows-11-pro-desktop-pc",
+    "url": "/products/pcbuilder-intel-i5-12400-office-master-core-windows-11-pro-desktop-pc",
+    "qty": 4,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/01/PCB_OFFICE_I516G-V3_wr_01e.jpg"
    },
    {
     "brand": "PCBuilder",
@@ -1746,14 +1746,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS105_wr_01.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP Poly Mission 415 Monaural USB Wired Headset Classic.",
+    "brand": "Redragon",
+    "title": "Redragon H889W SPECTRA PRO Over-Ear Wireless Headphones - White",
     "spec": "Headsets",
-    "price": "R754",
-    "handle": "hp-poly-mission-415-monaural-usb-wired-headset-classic",
-    "url": "/products/hp-poly-mission-415-monaural-usb-wired-headset-classic",
-    "qty": 39,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/C01A9AA_default.png"
+    "price": "R740",
+    "handle": "redragon-h889w-spectra-pro-over-ear-wireless-headphones-white",
+    "url": "/products/redragon-h889w-spectra-pro-over-ear-wireless-headphones-white",
+    "qty": 35,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/RD-H889WG_Redragon-H889W-SPECTRA-PRO-Over-Ear-Wireless-Headphones-White_wr_01a.jpg"
    },
    {
     "brand": "Logitech",
@@ -1921,14 +1921,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SA400S37/480G_default.jpg"
    },
    {
-    "brand": "PATRIOT",
-    "title": "PATRIOT SSD VP4000 M.2 NVME 2TB 2230",
+    "brand": "Hiksemi",
+    "title": "Hiksemi Elite Magnet 2TB USB Type-C Portable SSD",
     "spec": "Storage",
-    "price": "R5 665",
-    "handle": "patriot-ssd-vp4000-m-2-nvme-2tb-2230",
-    "url": "/products/patriot-ssd-vp4000-m-2-nvme-2tb-2230",
-    "qty": 8,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/VP4000M2TBM23_Patriot-Viper-VP4000-Mini-2TB-M.2-2230-PCIe-Gen4x4-SSD_wr_01.jpg"
+    "price": "R6 212",
+    "handle": "hiksemi-elite-magnet-2tb-usb-type-c-portable-ssd",
+    "url": "/products/hiksemi-elite-magnet-2tb-usb-type-c-portable-ssd",
+    "qty": 2,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/HS-ESSD-ELITE9-2T_Hiksemi-Elite-Magnet-2TB-USB-Type-C-Portable-SSD_wr_01.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -2203,14 +2203,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/BHR8930GL_wr_01.jpg"
    },
    {
-    "brand": "REDRAGON",
-    "title": "REDRAGON Over-Ear AURORA Gaming Headset - Black",
-    "spec": "Headsets",
-    "price": "R553",
-    "handle": "redragon-over-ear-aurora-gaming-headset-black",
-    "url": "/products/redragon-over-ear-aurora-gaming-headset-black",
-    "qty": 206,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/02/RD-H376BR_wr_01.jpg"
+    "brand": "UGREEN",
+    "title": "UGREEN HiTune S5 Open-Ear TWS Earbuds–Black",
+    "spec": "Tv And Audio",
+    "price": "R516",
+    "handle": "ugreen-hitune-s5-open-ear-tws-earbuds-black",
+    "url": "/products/ugreen-hitune-s5-open-ear-tws-earbuds-black",
+    "qty": 37,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/6941876247608_WS210-45760_02.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -2265,14 +2265,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_Design__95__f74c.png"
    },
    {
-    "brand": "UGREEN",
-    "title": "UGREEN NW102 Cat6 U/UTP Flat Ethernet Cable 15m - Black",
-    "spec": "Cables And Adapters",
+    "brand": "ASRock",
+    "title": "ASRock DESKMINI Vesa Mount Kit",
+    "spec": "Accessories",
     "price": "R127",
-    "handle": "ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
-    "url": "/products/ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
-    "qty": 219,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/NW102-50172-wr-01.jpg"
+    "handle": "asrock-deskmini-vesa-mount-kit",
+    "url": "/products/asrock-deskmini-vesa-mount-kit",
+    "qty": 5,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/90-BXG2T0-A0XCR3W_wr_01.jpg"
    },
    {
     "brand": "Gizzu",
@@ -2337,14 +2337,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__12__8186.png"
    },
    {
-    "brand": "Keychron",
-    "title": "Keychron B6 Pro Ultra-Slim 100% Wireless Keyboard - Retro Blue",
+    "brand": "Redragon",
+    "title": "Redragon BRAGI PRO K688 98+1 Gasket Wireless Mechanical Keyboard…",
     "spec": "Keyboards",
-    "price": "R787",
-    "handle": "keychron-b6-pro-ultra-slim-100-wireless-keyboard-retro-blue",
-    "url": "/products/keychron-b6-pro-ultra-slim-100-wireless-keyboard-retro-blue",
-    "qty": 20,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/12/B6P-K11_Keychron-B11-Pro-Ultra-Slim-10-WRLS-KB-Retro-Blue_01.jpeg"
+    "price": "R769",
+    "handle": "redragon-bragi-pro-k688-98-1-gasket-wireless-mechanical-keyboard-triple-mode-rgb-hot-swappable-cream-linear-switches",
+    "url": "/products/redragon-bragi-pro-k688-98-1-gasket-wireless-mechanical-keyboard-triple-mode-rgb-hot-swappable-cream-linear-switches",
+    "qty": 15,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/RD-K688GB-RGB-PRO_REDRAGON-KB-MECH-BRAGI-PRO-RGB-BK_wr_01.jpg"
    },
    {
     "brand": "Keychron",
