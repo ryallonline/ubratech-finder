@@ -55,16 +55,6 @@
   "mid": [
    {
     "brand": "Lenovo",
-    "title": "Lenovo V15 Laptop — Core i3 · 256GB SSD",
-    "spec": "Core i3 · 256GB SSD",
-    "price": "R13 978",
-    "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
-    "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
-    "qty": 9,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
-   },
-   {
-    "brand": "Lenovo",
     "title": "Lenovo Ideapad Slim 3 15.6\" FHD Ryzen 5-5625U 8GB 512GB Win 11 Home Notebook",
     "spec": "Ryzen 5 · 15.6\" screen · 8GB RAM",
     "price": "R13 121",
@@ -74,14 +64,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/8/2/82XM01AUSA_dc5c.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer Go 15 Core 7 150U 16 512 Window 11 Home 15.6\" FHD IPS Slim Bezel",
-    "spec": "Core 7 · 15.6\" screen",
+    "brand": "Asus",
+    "title": "Asus Vivobook 15 X1504VA Laptop",
+    "spec": "Notebooks",
     "price": "R16 369",
-    "handle": "acer-go-15-core-7-150u-16-512-window-11-home-15-6-fhd-ips-slim-bezel",
-    "url": "/products/acer-go-15-core-7-150u-16-512-window-11-home-15-6-fhd-ips-slim-bezel",
-    "qty": 18,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.JRREA.003_default.png"
+    "handle": "asus-vivobook-15-x1504va-15-6-fhd-ips-core-7-150u-8gb-512gb-windows-11-home-blue-notebook",
+    "url": "/products/asus-vivobook-15-x1504va-15-6-fhd-ips-core-7-150u-8gb-512gb-windows-11-home-blue-notebook",
+    "qty": 31,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/V/i/Vivobook_15_X1504VAP_Product_photo_1B_Quite_Blue_05_20db.jpg"
    },
    {
     "brand": "Lenovo",
@@ -126,14 +116,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DS5L6ET_default.png"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 16 16\" Core-U7 16GB 512GB Win 11 Pro Notebook",
-    "spec": "16\" screen · 16GB RAM",
-    "price": "R38 173",
-    "handle": "dell-pro-16-16-core-u7-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/dell-pro-16-16-core-u7-16gb-512gb-win-11-pro-notebook",
-    "qty": 5,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/T/BTO209_PB16250_ac3e.jpg"
+    "brand": "Asus",
+    "title": "Asus Zenbook 14 UX3405CA 14\" 3K OLED 120Hz Core U9-285H 16GB 1TB Win 11 Pro Notebook",
+    "spec": "14\" screen · 16GB RAM",
+    "price": "R37 776",
+    "handle": "asus-zenbook-14-ux3405ca-14-3k-oled-120hz-core-u9-285h-16gb-1tb-win-11-pro-notebook",
+    "url": "/products/asus-zenbook-14-ux3405ca-14-3k-oled-120hz-core-u9-285h-16gb-1tb-win-11-pro-notebook",
+    "qty": 47,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_14_UX3405CA_Product_photo_3B_Ponder_Blue_03_62bf.jpg"
    },
    {
     "brand": "Dell",
@@ -362,7 +352,7 @@
     "price": "R72 632",
     "handle": "dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
     "url": "/products/dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
-    "qty": 15,
+    "qty": 14,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PW516261-U7-321TB-5G_default.jpg"
    }
   ],
@@ -384,7 +374,7 @@
     "price": "R72 632",
     "handle": "dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
     "url": "/products/dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
-    "qty": 15,
+    "qty": 14,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PW516261-U7-321TB-5G_default.jpg"
    }
   ]
@@ -455,13 +445,13 @@
    },
    {
     "brand": "Asus",
-    "title": "Asus TUF Gaming F16 16\" Core-i7 16GB 512GB Win 11 Home Notebook",
-    "spec": "Core i7 · 16\" screen · 16GB RAM",
-    "price": "R35 887",
-    "handle": "asus-tuf-gaming-f16-16-core-i7-16gb-512gb-win-11-home-notebook",
-    "url": "/products/asus-tuf-gaming-f16-16-core-i7-16gb-512gb-win-11-home-notebook",
-    "qty": 22,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__48__bbef.png"
+    "title": "Asus TUF Gaming A16 FA608UMI Laptop — Ryzen 7",
+    "spec": "Ryzen 7",
+    "price": "R33 998",
+    "handle": "asus-tuf-gaming-a16-fa608umi-16-rtx5060-8gb-ryzen-7-250-16gb-512gb-win-11-home-gaming-notebook",
+    "url": "/products/asus-tuf-gaming-a16-fa608umi-16-rtx5060-8gb-ryzen-7-250-16gb-512gb-win-11-home-gaming-notebook",
+    "qty": 17,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/S/ASUS_TUF__GAMING_A16_Jaeger_Grey_02_L__1__f770.jpg"
    },
    {
     "brand": "Asus",
@@ -522,7 +512,7 @@
     "price": "R43 361",
     "handle": "pcbuilder-ryzen-5-7600-maverick-windows-11-gaming-pc-pcb-maverick-02",
     "url": "/products/pcbuilder-ryzen-5-7600-maverick-windows-11-gaming-pc-pcb-maverick-02",
-    "qty": 7,
+    "qty": 8,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_MAVERICK_02_PCBuilder-Ryzen-5-7600-MAVERICK-Windows-11-Gaming-PC_wr_01.jpg"
    }
   ]
@@ -546,7 +536,7 @@
     "price": "R2 376",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 65,
+    "qty": 63,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -640,7 +630,7 @@
     "price": "R2 004",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 4,
+    "qty": 8,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -670,7 +660,7 @@
     "price": "R6 898",
     "handle": "xiaomi-g34wqi-34-1440p-ultrawide-va-curved-gaming-monitor-180hz-1ms",
     "url": "/products/xiaomi-g34wqi-34-1440p-ultrawide-va-curved-gaming-monitor-180hz-1ms",
-    "qty": 26,
+    "qty": 5,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/ELA5454EU_Xiaomi-G34WQi-34-inch-1440p-UltraWide-VA-Curved-Gaming-Monitor_wr_01b.jpg"
    },
    {
@@ -692,7 +682,7 @@
     "price": "R2 376",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 65,
+    "qty": 63,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -740,14 +730,14 @@
  "ups": {
   "router": [
    {
-    "brand": "Gizzu",
-    "title": "GIZZU 30W 38Wh 10400mAh Mini DC UPS - Black",
+    "brand": "Zone",
+    "title": "Zone Enclosures 6-Way 2M Hard Wire Lead Metal Black PDU",
     "spec": "Ups And Power",
-    "price": "R336",
-    "handle": "gizzu-30w-38wh-10400mah-mini-dc-ups-black",
-    "url": "/products/gizzu-30w-38wh-10400mah-mini-dc-ups-black",
-    "qty": 30,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GU30WPRO_wr_01a.jpg"
+    "price": "R395",
+    "handle": "zone-enclosures-6-way-2m-hard-wire-lead-metal-black-pdu",
+    "url": "/products/zone-enclosures-6-way-2m-hard-wire-lead-metal-black-pdu",
+    "qty": 24,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/P/ZPD_6WPD_B_NE_d138.jpg"
    },
    {
     "brand": "Gizzu",
@@ -761,13 +751,13 @@
    },
    {
     "brand": "Eaton",
-    "title": "Eaton 5E 700VA GEN2 USB IEC UPS",
+    "title": "Eaton 5E 900VA GEN2 USB IEC UPS",
     "spec": "Ups And Power",
-    "price": "R1 310",
-    "handle": "eaton-5e-700va-gen2-usb-iec-ups",
-    "url": "/products/eaton-5e-700va-gen2-usb-iec-ups",
-    "qty": 58,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E700UI_33ac.png"
+    "price": "R1 648",
+    "handle": "eaton-5e-900va-gen2-usb-iec-ups",
+    "url": "/products/eaton-5e-900va-gen2-usb-iec-ups",
+    "qty": 47,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E900UI_761f.png"
    },
    {
     "brand": "Eaton",
@@ -1128,7 +1118,7 @@
     "price": "R10 427",
     "handle": "hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
     "url": "https://ubratech.co.za/products/hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
-    "qty": 58,
+    "qty": 33,
     "image": "https://s3.amazonaws.com/tarsus.co.za/3PZ55A_default.png"
    },
    {
@@ -1242,7 +1232,7 @@
     "price": "R10 427",
     "handle": "hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
     "url": "https://ubratech.co.za/products/hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
-    "qty": 58,
+    "qty": 33,
     "image": "https://s3.amazonaws.com/tarsus.co.za/3PZ55A_default.png"
    },
    {
@@ -1490,6 +1480,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS105_wr_01.jpg"
    },
    {
+    "brand": "Logitech",
+    "title": "Logitech H540 USB Computer Headset with HD Sound and On-Ear… (981-000480)",
+    "spec": "Headsets",
+    "price": "R666",
+    "handle": "logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
+    "url": "/products/logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
+    "qty": 53,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/981-000480_default.jpg"
+   },
+   {
     "brand": "Winx",
     "title": "WINX CALL Elite AI Noise Cancelling Wireless Headset",
     "spec": "Headsets",
@@ -1566,13 +1566,13 @@
    },
    {
     "brand": "Grandstream",
-    "title": "Grandstream Enterprise 5 port Unmanaged GbE Switch",
-    "spec": "5x GbE, plastic case, 5V/0.6A PSU",
-    "price": "R190",
-    "handle": "grandstream-enterprise-5-port-unmanaged-gbe-switch-gwn7700",
-    "url": "/pages/grandstream-enterprise-5-port-unmanaged-gbe-switch-gwn7700",
+    "title": "Grandstream Enterprise 8 port Unmanaged GbE Switch",
+    "spec": "8x GbE, Plastic case, 5V/0.6A PSU",
+    "price": "R298",
+    "handle": "grandstream-enterprise-8-port-unmanaged-gbe-switch-gwn7701",
+    "url": "/pages/grandstream-enterprise-8-port-unmanaged-gbe-switch-gwn7701",
     "qty": 9,
-    "image": "https://miro.co.za/img/p/1/2/2/0/2/12202.jpg",
+    "image": "https://miro.co.za/img/p/1/2/2/1/1/12211.jpg",
     "enquiry": true
    },
    {
@@ -1641,7 +1641,7 @@
     "price": "R257",
     "handle": "ugreen-cm767-m-2-nvme-ssd-enclosure-10gbps",
     "url": "/products/ugreen-cm767-m-2-nvme-ssd-enclosure-10gbps",
-    "qty": 134,
+    "qty": 132,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM767-35267_UGreen-CM767-M.2-NVMe-SSD-Enclosure-10Gbps-%E2%80%93-Silver_wr_01a.jpg"
    },
    {
@@ -1703,18 +1703,18 @@
     "price": "R452",
     "handle": "hiksemi-future-8gb-1600mhz-8gb-x-1-so-dimm-memory-module",
     "url": "/products/hiksemi-future-8gb-1600mhz-8gb-x-1-so-dimm-memory-module",
-    "qty": 64,
+    "qty": 63,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/HSC308S16Z1-8G_wr_-2.jpg"
    },
    {
     "brand": "Hiksemi",
-    "title": "Hiksemi Hiker 16GB DDR4 2666MHz Desktop Memory",
+    "title": "HIKSEMI Hiker 16GB 3200MHZ DDR4 SODIMM",
     "spec": "Memory",
-    "price": "R2 456",
-    "handle": "hiksemi-hiker-16gb-ddr4-2666mhz-desktop-memory",
-    "url": "/products/hiksemi-hiker-16gb-ddr4-2666mhz-desktop-memory",
-    "qty": 129,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/HSC416U26Z1-16G_wr_01a.jpg"
+    "price": "R2 517",
+    "handle": "hiksemi-hiker-16gb-3200mhz-ddr4-sodimm",
+    "url": "/products/hiksemi-hiker-16gb-3200mhz-ddr4-sodimm",
+    "qty": 230,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/HSC416S32Z1-16G_wr_-2.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -1745,18 +1745,18 @@
     "price": "R1 347",
     "handle": "msi-nvidia-geforce-gt-710-2gd3h-2gb-64-bit-4x-hdmi-graphics-card",
     "url": "/products/msi-nvidia-geforce-gt-710-2gd3h-2gb-64-bit-4x-hdmi-graphics-card",
-    "qty": 133,
+    "qty": 132,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/09/GT7102GD3H4HDMI_wr_01.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "ASUS Nvidia GeForce RTX 3050 Dual OC 6G Graphic Card",
+    "brand": "MSI",
+    "title": "MSI GeForce RTX 3050 VENTUS 2X E 6GB OC Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R5 771",
-    "handle": "asus-nvidia-geforce-rtx-3050-dual-oc-6g-graphic-card",
-    "url": "/products/asus-nvidia-geforce-rtx-3050-dual-oc-6g-graphic-card",
-    "qty": 5,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/DUAL-RTX3050-O6G_wr_01.jpg"
+    "price": "R6 515",
+    "handle": "msi-geforce-rtx-3050-ventus-2x-e-6gb-oc-graphics-card",
+    "url": "/products/msi-geforce-rtx-3050-ventus-2x-e-6gb-oc-graphics-card",
+    "qty": 126,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/RTX3050VENTUS2XE6GOC-WR-01.jpg"
    },
    {
     "brand": "Asus",
@@ -1765,7 +1765,7 @@
     "price": "R8 562",
     "handle": "asus-nvidia-geforce-rtx-5050-dual-oc-8gb-gddr6-graphics-card",
     "url": "/products/asus-nvidia-geforce-rtx-5050-dual-oc-8gb-gddr6-graphics-card",
-    "qty": 8,
+    "qty": 9,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/07/DUAL-RTX5050-O8G_Asus-Nvidia-GeForce-RTX-5050-Dual-OC-88G-Graphics-Card_wr_01.jpg"
    },
    {
@@ -1801,23 +1801,13 @@
     "qty": 9
    },
    {
-    "brand": "Gizzu",
-    "title": "Gizzu 30W 38Wh Mini DC UPS",
-    "spec": "Keeps router & fibre online",
-    "price": "R336",
-    "handle": "gizzu-30w-38wh-10400mah-mini-dc-ups-black",
-    "url": "https://ubratech.co.za/products/gizzu-30w-38wh-10400mah-mini-dc-ups-black",
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GU30WPRO_wr_01a.jpg",
-    "qty": 30
-   },
-   {
     "brand": "Antec",
     "title": "Antec Atom V550 Non-Modular Power Supply",
     "spec": "Power Supplies",
     "price": "R558",
     "handle": "antec-atom-v550-non-modular-power-supply",
     "url": "/products/antec-atom-v550-non-modular-power-supply",
-    "qty": 170,
+    "qty": 168,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/ATOM-V550_wr_01a.jpg"
    },
    {
@@ -1837,7 +1827,7 @@
     "price": "R1 675",
     "handle": "antec-mega-850w-80-plus-gold-atx3-1-pcie-5-1-fully-modular-power-supply",
     "url": "/products/antec-mega-850w-80-plus-gold-atx3-1-pcie-5-1-fully-modular-power-supply",
-    "qty": 40,
+    "qty": 39,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MEGA850_Antec-MEGA-850W-ATX3.1-80-Plus-Gold-PCIE-5.1-Fully-Modular-Power-Supply_wr_01.jpg"
    },
    {
@@ -1871,7 +1861,7 @@
     "price": "R229",
     "handle": "xiaomi-smart-temperature-and-humidity-monitor-3-mini",
     "url": "/products/xiaomi-smart-temperature-and-humidity-monitor-3-mini",
-    "qty": 47,
+    "qty": 41,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/QBH4312GL_Xiaomi-Smart-Temperature-and-Humidity-Monitor-3-Mini-White_wr_01a.jpg"
    },
    {
@@ -1999,34 +1989,34 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_Design__95__f74c.png"
    },
    {
-    "brand": "PWR",
-    "title": "PWR Dedicated to 3 Headed Cable 3.8m",
+    "brand": "Gizzu",
+    "title": "Gizzu 4K60Hz DisplayPort to HDMI Active Adapter",
     "spec": "Cables And Adapters",
-    "price": "R122",
-    "handle": "pwr-dedicated-to-3-headed-cable-3-8m",
-    "url": "/products/pwr-dedicated-to-3-headed-cable-3-8m",
-    "qty": 189,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2016/01/PC-6D3IC13BK3.8_wr_01.jpg"
+    "price": "R125",
+    "handle": "gizzu-4k60hz-displayport-to-hdmi-active-adapter",
+    "url": "/products/gizzu-4k60hz-displayport-to-hdmi-active-adapter",
+    "qty": 199,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/GIZZU-GAPDPHA-45-0004-Edit_1500x1500.jpg"
    },
    {
     "brand": "Port",
-    "title": "Port Eco-Responsible Universal Folio Yosemite Table Cover",
+    "title": "Port Connect Nano Slot Security Combination Cable",
     "spec": "Accessories",
-    "price": "R383",
-    "handle": "port-eco-responsible-universal-folio-yosemite-table-cover",
-    "url": "/products/port-eco-responsible-universal-folio-yosemite-table-cover",
-    "qty": 48,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/4/0/400713_9479.png"
+    "price": "R389",
+    "handle": "port-connect-nano-slot-security-combination-cable",
+    "url": "/products/port-connect-nano-slot-security-combination-cable",
+    "qty": 128,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2023/09/901221_wr_05.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo USB-C Dual Display Travel Dock with 100W Adapter The Lenovo… (40B90100SA)",
-    "spec": "Cables And Adapters",
-    "price": "R2 439",
-    "handle": "lenovo-usb-c-dual-display-travel-dock-with-100w-adapter-the-lenovo-usb-c-dual-display-travel-dock-40b9-is-an-essential-companion-for-the-modern-remote-professional-this-compact-dynamo-supports-dual",
-    "url": "/products/lenovo-usb-c-dual-display-travel-dock-with-100w-adapter-the-lenovo-usb-c-dual-display-travel-dock-40b9-is-an-essential-companion-for-the-modern-remote-professional-this-compact-dynamo-supports-dual",
-    "qty": 50,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/40B90100SA_default.png"
+    "brand": "PXN",
+    "title": "PXN V9 Gen 2 Gaming Steering Wheel",
+    "spec": "Accessories",
+    "price": "R2 462",
+    "handle": "pxn-v9-gen-2-gaming-steering-wheel",
+    "url": "/products/pxn-v9-gen-2-gaming-steering-wheel",
+    "qty": 99,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/PXN_PXN-V9GEN2_wr_01a.jpg"
    }
   ],
   "comfort": [
@@ -2044,11 +2034,11 @@
     "brand": "Logitech",
     "title": "Logitech MK540 Advanced Wireless Combo",
     "spec": "Keyboard & mouse · palm rest",
-    "price": "R859",
+    "price": "R842",
     "handle": "logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "url": "https://ubratech.co.za/products/logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "image": "https://s3.amazonaws.com/tarsus.co.za/920-008685_default.jpg",
-    "qty": 66
+    "qty": 64
    },
    {
     "brand": "Logitech",
@@ -2126,13 +2116,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP 2.8mm Smart Hybrid Light with ColorVu Fixed Mini Bullet Network Camera",
+    "title": "Hikvision 4MP Acusense Bullet IP Camera (DS-2CD2T46G2-4I-6MM)",
     "spec": "4MP",
-    "price": "R2 403",
-    "handle": "hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
-    "url": "/products/hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
-    "qty": 761,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LI_2.8MM_e360.jpg"
+    "price": "R2 916",
+    "handle": "hikvision-4mp-acusense-bullet-ip-camera-ds-2cd2t46g2-4i-6mm",
+    "url": "/products/hikvision-4mp-acusense-bullet-ip-camera-ds-2cd2t46g2-4i-6mm",
+    "qty": 27,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2_4I_6MM_ff4a.jpg"
    },
    {
     "brand": "Hikvision",
@@ -2168,13 +2158,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Acusense Bullet IP Camera (DS-2CD2T46G2-4I-6MM)",
+    "title": "Hikvision 4MP Fixed Mini Bullet Network Camera",
     "spec": "4MP",
-    "price": "R2 916",
-    "handle": "hikvision-4mp-acusense-bullet-ip-camera-ds-2cd2t46g2-4i-6mm",
-    "url": "/products/hikvision-4mp-acusense-bullet-ip-camera-ds-2cd2t46g2-4i-6mm",
-    "qty": 27,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2_4I_6MM_ff4a.jpg"
+    "price": "R2 978",
+    "handle": "hikvision-4mp-fixed-mini-bullet-network-camera",
+    "url": "/products/hikvision-4mp-fixed-mini-bullet-network-camera",
+    "qty": 91,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_4MM_1_306c.png"
    },
    {
     "brand": "Hikvision",
@@ -2200,13 +2190,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP 4mm Powered by Darkfighter Fixed Mini Bullet Network Camera",
+    "title": "Hikvision 4MP Fixed Dome Network Camera",
     "spec": "4MP",
-    "price": "R2 083",
-    "handle": "hikvision-4mp-4mm-powered-by-darkfighter-fixed-mini-bullet-network-camera",
-    "url": "/products/hikvision-4mp-4mm-powered-by-darkfighter-fixed-mini-bullet-network-camera",
-    "qty": 14,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_4MM_888c.jpg"
+    "price": "R2 353",
+    "handle": "hikvision-4mp-fixed-dome-network-camera",
+    "url": "/products/hikvision-4mp-fixed-dome-network-camera",
+    "qty": 752,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
    },
    {
     "brand": "Hikvision",
