@@ -388,18 +388,18 @@
     "price": "R12 809",
     "handle": "pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
-    "qty": 103,
+    "qty": 110,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_DEFENDER_05_wr_01e.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus ROG G700 Intel Ultra 5 255F Gaming PC · 16GB DDR5 · 1TB SSD · Win 11 Home",
-    "spec": "1TB SSD",
-    "price": "R20 525",
-    "handle": "asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
-    "url": "/products/asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
-    "qty": 6,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg"
+    "brand": "Acer",
+    "title": "Acer NITRO V 15 Gaming Laptop 15.6″ · Laptop (NH.QUAEA.00D)",
+    "spec": "15.6\" screen",
+    "price": "R20 147",
+    "handle": "acer-nitro-v-15-gaming-laptop-15-6-intel-core-7-240h-16gb-512gb-rtx-4050-6gb-windows-11-home",
+    "url": "/products/acer-nitro-v-15-gaming-laptop-15-6-intel-core-7-240h-16gb-512gb-rtx-4050-6gb-windows-11-home",
+    "qty": 8,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NH.QUAEA_.00D_Acer-NITRO-V-15-Gaming-Laptop-15.6inch_wr001-1.jpg"
    },
    {
     "brand": "Acer",
@@ -492,18 +492,18 @@
     "price": "R12 809",
     "handle": "pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
-    "qty": 103,
+    "qty": 110,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_DEFENDER_05_wr_01e.jpg"
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder Ryzen 5 7600 SPECIALIST Windows 11 Gaming PC (PCB_SPECIALIST_07)",
+    "title": "PCBuilder Ryzen 5 8400F RECON Windows 11 Gaming PC (PCB_RECON_02)",
     "spec": "Ryzen 5",
-    "price": "R33 505",
-    "handle": "pcbuilder-ryzen-5-7600-specialist-windows-11-gaming-pc-pcb-specialist-07",
-    "url": "/products/pcbuilder-ryzen-5-7600-specialist-windows-11-gaming-pc-pcb-specialist-07",
-    "qty": 8,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_SPECIALIST_07_PCBuilder-Ryzen-5-7600-SPECIALIST-Windows-11-Gaming-PC_wr_01b.jpg"
+    "price": "R26 607",
+    "handle": "pcbuilder-ryzen-5-8400f-recon-windows-11-gaming-pc-pcb-recon-02",
+    "url": "/products/pcbuilder-ryzen-5-8400f-recon-windows-11-gaming-pc-pcb-recon-02",
+    "qty": 3,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_RECON_02_PCBuilder-Ryzen-5-8400F-RECON-Windows-11-Gaming-PC_wr_01b.jpg"
    },
    {
     "brand": "PCBuilder",
@@ -1713,7 +1713,7 @@
     "price": "R452",
     "handle": "hiksemi-future-8gb-1600mhz-8gb-x-1-so-dimm-memory-module",
     "url": "/products/hiksemi-future-8gb-1600mhz-8gb-x-1-so-dimm-memory-module",
-    "qty": 63,
+    "qty": 62,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/HSC308S16Z1-8G_wr_-2.jpg"
    },
    {
@@ -1765,7 +1765,7 @@
     "price": "R6 515",
     "handle": "msi-geforce-rtx-3050-ventus-2x-e-6gb-oc-graphics-card",
     "url": "/products/msi-geforce-rtx-3050-ventus-2x-e-6gb-oc-graphics-card",
-    "qty": 126,
+    "qty": 121,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/RTX3050VENTUS2XE6GOC-WR-01.jpg"
    },
    {
@@ -1817,7 +1817,7 @@
     "price": "R558",
     "handle": "antec-atom-v550-non-modular-power-supply",
     "url": "/products/antec-atom-v550-non-modular-power-supply",
-    "qty": 168,
+    "qty": 166,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/ATOM-V550_wr_01a.jpg"
    },
    {
@@ -1837,7 +1837,7 @@
     "price": "R1 675",
     "handle": "antec-mega-850w-80-plus-gold-atx3-1-pcie-5-1-fully-modular-power-supply",
     "url": "/products/antec-mega-850w-80-plus-gold-atx3-1-pcie-5-1-fully-modular-power-supply",
-    "qty": 39,
+    "qty": 38,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MEGA850_Antec-MEGA-850W-ATX3.1-80-Plus-Gold-PCIE-5.1-Fully-Modular-Power-Supply_wr_01.jpg"
    },
    {
@@ -2380,25 +2380,25 @@
    "enquiry": true
   },
   {
-   "brand": "MikroTik",
-   "title": "Mikrotik cAP AC XL Dual Band 1200Mbps Wi-Fi 5 Ceiling AP · MT-RBCAP-AC-XL",
-   "spec": "802.11 b/g/n/ac, 6dBi (2.4GHz) 5.5dBi (5GHz), Dual chain, PoE-in 802.3",
-   "price": "R1 907",
-   "handle": "mikrotik-cap-ac-xl-dual-band-1200mbps-wi-fi-5-ceiling-ap-mt-rbcap-ac-xl",
-   "url": "/pages/mikrotik-cap-ac-xl-dual-band-1200mbps-wi-fi-5-ceiling-ap-mt-rbcap-ac-xl",
+   "brand": "TP-Link Omada",
+   "title": "TP-Link AX1800 Ceiling Mount Dual-Band Access Point · EAP620 HD",
+   "spec": "574Mbps at  2.4 GHz + 1201Mbps at 5GHz, 1GB LAN, 1000+ Clients,  802.3",
+   "price": "R1 963",
+   "handle": "tp-link-ax1800-ceiling-mount-dual-band-access-point-eap620-hd",
+   "url": "/pages/tp-link-ax1800-ceiling-mount-dual-band-access-point-eap620-hd",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/5/7/0/2/5702.jpg",
+   "image": "https://miro.co.za/img/p/5/4/5/6/5456.jpg",
    "enquiry": true
   },
   {
-   "brand": "Grandstream",
-   "title": "Grandstream Enterprise Outdoor WiFi 7 Long Range Access Point",
-   "spec": "Outdoor Long-Range Dual-Band Wi-Fi 7 Access Point/Bridge, 2x2:2 2.4/5G",
-   "price": "R2 935",
-   "handle": "grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
-   "url": "/pages/grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
+   "brand": "TP-Link Omada",
+   "title": "TP-Link AX6000 Indoor WiFi 6 Ceiling Mount Access Point",
+   "spec": "1×2.5 Gigabit RJ45 Port, SPEED: 1148Mbps at  2.4 GHz + 4804 Mbps at 5 ",
+   "price": "R2 748",
+   "handle": "tp-link-ax6000-indoor-wifi-6-ceiling-mount-access-point-tp-eap683ur",
+   "url": "/pages/tp-link-ax6000-indoor-wifi-6-ceiling-mount-access-point-tp-eap683ur",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/8/7/0/7/18707.jpg",
+   "image": "https://miro.co.za/img/p/1/6/9/8/5/16985.jpg",
    "enquiry": true
   },
   {
