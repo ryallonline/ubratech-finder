@@ -260,7 +260,7 @@
     "price": "R25 861",
     "handle": "dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
     "url": "https://ubratech.co.za/products/dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
-    "qty": 22,
+    "qty": 21,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO105_QCS1250_EMEA_default.png"
    },
    {
@@ -312,7 +312,7 @@
     "price": "R25 861",
     "handle": "dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
     "url": "https://ubratech.co.za/products/dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
-    "qty": 22,
+    "qty": 21,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO105_QCS1250_EMEA_default.png"
    },
    {
@@ -630,7 +630,7 @@
     "price": "R2 004",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 8,
+    "qty": 7,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -805,13 +805,13 @@
    },
    {
     "brand": "Eaton",
-    "title": "Eaton 5E 700VA GEN2 USB IEC UPS",
+    "title": "Eaton 5E 900VA GEN2 USB IEC UPS",
     "spec": "Ups And Power",
-    "price": "R1 310",
-    "handle": "eaton-5e-700va-gen2-usb-iec-ups",
-    "url": "/products/eaton-5e-700va-gen2-usb-iec-ups",
-    "qty": 58,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E700UI_33ac.png"
+    "price": "R1 648",
+    "handle": "eaton-5e-900va-gen2-usb-iec-ups",
+    "url": "/products/eaton-5e-900va-gen2-usb-iec-ups",
+    "qty": 47,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E900UI_761f.png"
    },
    {
     "brand": "Eaton",
@@ -824,20 +824,20 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1200UI_66a3.png"
    },
    {
-    "brand": "Eaton",
-    "title": "Eaton 5E 1600VA GEN2 USB IEC UPS",
+    "brand": "APC",
+    "title": "APC UPS Network Managedment Card 3 Web/SNMP, Warranty: 2 Years",
     "spec": "Ups And Power",
-    "price": "R2 897",
-    "handle": "eaton-5e-1600va-gen2-usb-iec-ups",
-    "url": "/products/eaton-5e-1600va-gen2-usb-iec-ups",
-    "qty": 13,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
+    "price": "R5 048",
+    "handle": "apc-ups-network-managedment-card-3-web-snmp-warranty-2-years",
+    "url": "/products/apc-ups-network-managedment-card-3-web-snmp-warranty-2-years",
+    "qty": 4,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/AP9640_default.jpg"
    },
    {
     "brand": "Acconet",
     "title": "Acconet 2000VA/1800W Online Rack Mounted UPS",
     "spec": "10-15 Minutes Run Time @ 1800W Load.",
-    "price": "R6 100",
+    "price": "R6 178",
     "handle": "acconet-2000va-1800w-online-rack-mounted-ups-ac-ups-o2000-r",
     "url": "/pages/acconet-2000va-1800w-online-rack-mounted-ups-ac-ups-o2000-r",
     "qty": 9,
@@ -869,13 +869,23 @@
    },
    {
     "brand": "APC",
-    "title": "APC Backup UPS 2200VA/ 2.2KVA 1200W UPS Tower Rack Mount included:…",
-    "spec": "2.2KVA UPS",
-    "price": "R4 003",
-    "handle": "apc-backup-ups-2200va-2-2kva-1200w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
-    "url": "/products/apc-backup-ups-2200va-2-2kva-1200w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
-    "qty": 3,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BX2200MI_default.jpg"
+    "title": "APC Back-UPS 1600VA / 900W",
+    "spec": "Backs up a whole desk",
+    "price": "R3 059",
+    "handle": "apc-backup-ups-1600va-1-6kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
+    "url": "https://ubratech.co.za/products/apc-backup-ups-1600va-1-6kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
+    "qty": 5,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BX1600MI_default.jpg"
+   },
+   {
+    "brand": "APC",
+    "title": "APC UPS Network Managedment Card 3 Web/SNMP, Warranty: 2 Years",
+    "spec": "Ups And Power",
+    "price": "R5 048",
+    "handle": "apc-ups-network-managedment-card-3-web-snmp-warranty-2-years",
+    "url": "/products/apc-ups-network-managedment-card-3-web-snmp-warranty-2-years",
+    "qty": 4,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/AP9640_default.jpg"
    },
    {
     "brand": "APC",
@@ -886,16 +896,6 @@
     "url": "/products/apc-smart-line-interactive-1000va-1kva-600w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
     "qty": 4,
     "image": "https://s3.amazonaws.com/tarsus.co.za/SMC1000IC_default.jpg"
-   },
-   {
-    "brand": "Eaton",
-    "title": "Eaton 9SX 1000i On-Line UPS 1000VA 200-240V Tower 9SX1000I",
-    "spec": "Ups And Power",
-    "price": "R13 512",
-    "handle": "eaton-9sx-1000i-on-line-ups-1000va-200-240v-tower-9sx1000i",
-    "url": "/products/eaton-9sx-1000i-on-line-ups-1000va-200-240v-tower-9sx1000i",
-    "qty": 4,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/S/9SX1500I_1_38d0.png"
    },
    {
     "brand": "APC",
@@ -909,6 +909,16 @@
    }
   ],
   "server": [
+   {
+    "brand": "APC",
+    "title": "APC Smart-UPS 1000VA LCD (SmartConnect)",
+    "spec": "Rack-mount · critical kit",
+    "price": "R11 459",
+    "handle": "apc-smart-ups-1000va-lcd-230v-with-smartconnect",
+    "url": "https://ubratech.co.za/products/apc-smart-ups-1000va-lcd-230v-with-smartconnect",
+    "qty": 2,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SMT1000IC_default.jpg"
+   },
    {
     "brand": "APC",
     "title": "APC Smart Line Interactive 1000VA/ 1KVA 600W UPS Tower Rack Mount…",
@@ -1322,14 +1332,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/900160_Port-Connect-USB-Type-C-to-4-port-USB-A-3.0-2.0-Hub_wr_01a.jpg"
    },
    {
-    "brand": "Ugreen",
-    "title": "UGREEN CM512 6-in-1 USB Type-C Docking Station",
+    "brand": "Winx",
+    "title": "WINX CONNECT MAX 11-in-1 Type-C Hub",
     "spec": "Docking Station",
-    "price": "R426",
-    "handle": "ugreen-cm512-6-in-1-usb-type-c-docking-station",
-    "url": "/products/ugreen-cm512-6-in-1-usb-type-c-docking-station",
-    "qty": 106,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM512-45000_UGREEN-CM512-6-in-1-USB-Type-C-Docking-Station-Grey_wr_01b.jpg"
+    "price": "R536",
+    "handle": "winx-connect-max-11-in-1-type-c-hub",
+    "url": "/products/winx-connect-max-11-in-1-type-c-hub",
+    "qty": 210,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/HB112-wr-01a.jpg"
    },
    {
     "brand": "Ugreen",
@@ -1364,24 +1374,24 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900140_0708.jpg"
    },
    {
-    "brand": "Port",
-    "title": "PORT Mobile docking station 1 X 4K USB-C 9 devices 100W",
+    "brand": "Dell",
+    "title": "Dell Pro 7-in-1 USB-C Mobile Docking Station",
     "spec": "Docking Station",
-    "price": "R1 478",
-    "handle": "port-mobile-docking-station-1-x-4k-usb-c-9-devices-100w",
-    "url": "/products/port-mobile-docking-station-1-x-4k-usb-c-9-devices-100w",
-    "qty": 11,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901906V2_PORT_Mobile_docking_station_1_X_4K_USB-C_wr_01.png"
+    "price": "R1 535",
+    "handle": "dell-pro-7-in-1-usb-c-mobile-docking-station",
+    "url": "/products/dell-pro-7-in-1-usb-c-mobile-docking-station",
+    "qty": 37,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__23__d7c1.png"
    },
    {
-    "brand": "Port2",
-    "title": "PORT2 x 4K USB-C desktop docking station 11 peripherals 96W",
+    "brand": "HP",
+    "title": "HP Thunderbolt 4 100W G6 Docking Station",
     "spec": "Docking Station",
-    "price": "R4 154",
-    "handle": "port2-x-4k-usb-c-desktop-docking-station-11-peripherals-96w",
-    "url": "/products/port2-x-4k-usb-c-desktop-docking-station-11-peripherals-96w",
-    "qty": 9,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901904V2EU_PORT2_x_4K_USB-C_desktop_docking_station_wr_03.png"
+    "price": "R3 928",
+    "handle": "hp-thunderbolt-4-100w-g6-docking-station",
+    "url": "/products/hp-thunderbolt-4-100w-g6-docking-station",
+    "qty": 21,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/X/9X472UT_1_bf9e.jpg"
    },
    {
     "brand": "Dell",
@@ -1568,7 +1578,7 @@
     "brand": "Grandstream",
     "title": "Grandstream Enterprise 8 port Unmanaged GbE Switch",
     "spec": "8x GbE, Plastic case, 5V/0.6A PSU",
-    "price": "R298",
+    "price": "R305",
     "handle": "grandstream-enterprise-8-port-unmanaged-gbe-switch-gwn7701",
     "url": "/pages/grandstream-enterprise-8-port-unmanaged-gbe-switch-gwn7701",
     "qty": 9,
@@ -1579,7 +1589,7 @@
     "brand": "Ubiquiti",
     "title": "Ubiquiti UniFi Pro 48 Port 40 PoE 600W Switch 4SFP+",
     "spec": "1.3\" touch LCM;auto-sensing 802.3at PoE+ and 802.3bt PoE++ 600W PoE bu",
-    "price": "R23 983",
+    "price": "R24 431",
     "handle": "ubiquiti-unifi-pro-48-port-40-poe-600w-switch-4sfp-usw-pro-48-poe",
     "url": "/pages/ubiquiti-unifi-pro-48-port-40-poe-600w-switch-4sfp-usw-pro-48-poe",
     "qty": 9,
@@ -1684,7 +1694,7 @@
     "handle": "hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/HSC516U48Z1-16G_Hiksemi-Hiker-16GB-DDR5-4800MHz-Desktop-Memory_wr_01a.jpg",
-    "qty": 104
+    "qty": 102
    },
    {
     "brand": "GeIL",
@@ -2359,21 +2369,21 @@
    "enquiry": true
   },
   {
-   "brand": "Grandstream",
-   "title": "Grandstream Enterprise WiFi 5 Compact Long Range Outdoor AP",
-   "spec": "Compact outdoor Wi-Fi Access point, 2x2 Wi-Fi 5, 2x GbE, 12—24V DC-In,",
-   "price": "R1 379",
-   "handle": "grandstream-enterprise-wifi-5-compact-long-range-outdoor-ap-gwn7605clr",
-   "url": "/pages/grandstream-enterprise-wifi-5-compact-long-range-outdoor-ap-gwn7605clr",
+   "brand": "TP-Link Omada",
+   "title": "TP-Link AX1800 Ceiling Mount Dual-Band Access Point",
+   "spec": "1 Gb RJ45 Port, Ultra-Slim Design, Omada Mesh,  574Mbps at  2.4 GHz + ",
+   "price": "R1 413",
+   "handle": "tp-link-ax1800-ceiling-mount-dual-band-access-point-tp-eap613",
+   "url": "/pages/tp-link-ax1800-ceiling-mount-dual-band-access-point-tp-eap613",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/8/7/1/0/18710.jpg",
+   "image": "https://miro.co.za/img/p/1/6/3/3/8/16338.jpg",
    "enquiry": true
   },
   {
    "brand": "MikroTik",
    "title": "Mikrotik cAP AC XL Dual Band 1200Mbps Wi-Fi 5 Ceiling AP · MT-RBCAP-AC-XL",
    "spec": "802.11 b/g/n/ac, 6dBi (2.4GHz) 5.5dBi (5GHz), Dual chain, PoE-in 802.3",
-   "price": "R1 870",
+   "price": "R1 907",
    "handle": "mikrotik-cap-ac-xl-dual-band-1200mbps-wi-fi-5-ceiling-ap-mt-rbcap-ac-xl",
    "url": "/pages/mikrotik-cap-ac-xl-dual-band-1200mbps-wi-fi-5-ceiling-ap-mt-rbcap-ac-xl",
    "qty": 9,
@@ -2384,7 +2394,7 @@
    "brand": "Grandstream",
    "title": "Grandstream Enterprise Outdoor WiFi 7 Long Range Access Point",
    "spec": "Outdoor Long-Range Dual-Band Wi-Fi 7 Access Point/Bridge, 2x2:2 2.4/5G",
-   "price": "R2 857",
+   "price": "R2 935",
    "handle": "grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
    "url": "/pages/grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
    "qty": 9,
@@ -2395,7 +2405,7 @@
    "brand": "Ubiquiti",
    "title": "Ubiquiti UniFi WiFi 7 Outdoor Access Point",
    "spec": "No PoE Injector included, 4 Spatial Streams, 250+ connected devices, 2",
-   "price": "R4 377",
+   "price": "R4 461",
    "handle": "ubiquiti-unifi-wifi-7-outdoor-access-point-u7-outdoor",
    "url": "/pages/ubiquiti-unifi-wifi-7-outdoor-access-point-u7-outdoor",
    "qty": 9,
@@ -2406,7 +2416,7 @@
    "brand": "Cambium Networks",
    "title": "Cambium cnPilot Enterprise WiFi 6 120° Outdoor AP",
    "spec": "2x2 Dual Band 802.11ax, 30W PoE out, 1 x 2.5 Gb Port, 1 x Gb Port, PoE",
-   "price": "R14 646",
+   "price": "R14 824",
    "handle": "cambium-cnpilot-enterprise-wifi-6-120-outdoor-ap-cnp-xv-2t1",
    "url": "/pages/cambium-cnpilot-enterprise-wifi-6-120-outdoor-ap-cnp-xv-2t1",
    "qty": 9,
