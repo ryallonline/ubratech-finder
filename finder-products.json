@@ -634,16 +634,6 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer 27\" IPS FHD 120Hz Monitor",
-    "spec": "High refresh · smooth motion",
-    "price": "R2 391",
-    "handle": "acer-27-ips-fhd-120hz-monitor-3yr",
-    "url": "https://ubratech.co.za/products/acer-27-ips-fhd-120hz-monitor-3yr",
-    "qty": 2,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
-   },
-   {
     "brand": "Xiaomi",
     "title": "Xiaomi G27i 2026 27″ 200Hz Full HD 1080p IPS Gaming Monitor",
     "spec": "27\" screen",
@@ -730,24 +720,24 @@
  "ups": {
   "router": [
    {
-    "brand": "Zone",
-    "title": "Zone Enclosures 6-Way 2M Hard Wire Lead Metal Black PDU",
+    "brand": "Lalela",
+    "title": "Lalela R1818 Wi-Fi UPS for Router and ONT 48.8WH 6-8 Hour Runtime",
     "spec": "Ups And Power",
-    "price": "R395",
-    "handle": "zone-enclosures-6-way-2m-hard-wire-lead-metal-black-pdu",
-    "url": "/products/zone-enclosures-6-way-2m-hard-wire-lead-metal-black-pdu",
-    "qty": 24,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/P/ZPD_6WPD_B_NE_d138.jpg"
+    "price": "R442",
+    "handle": "lalela-r1818-wi-fi-ups-for-router-and-ont-48-8wh-6-8-hour-runtime",
+    "url": "/products/lalela-r1818-wi-fi-ups-for-router-and-ont-48-8wh-6-8-hour-runtime",
+    "qty": 55,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/LAL-R1818_default.jpg"
    },
    {
-    "brand": "Gizzu",
-    "title": "Gizzu SURF Simple 18W 55Wh LiFePO4 MINI DC UPS - Black",
-    "spec": "Ups And Power",
-    "price": "R480",
-    "handle": "gizzu-surf-simple-18w-55wh-lifepo4-mini-dc-ups-black",
-    "url": "/products/gizzu-surf-simple-18w-55wh-lifepo4-mini-dc-ups-black",
-    "qty": 204,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/01/GU18W_Gizzu-SURF-Simple-18W-55Wh-LiFePO4-MINI-DC-UPS-Black_wr_01.jpg"
+    "brand": "Hikvision",
+    "title": "Hikvision 1000VA 1KVA UPS",
+    "spec": "1KVA UPS",
+    "price": "R1 024",
+    "handle": "hikvision-1000va-1kva-ups",
+    "url": "/products/hikvision-1000va-1kva-ups",
+    "qty": 379,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
     "brand": "Eaton",
@@ -805,13 +795,13 @@
    },
    {
     "brand": "Eaton",
-    "title": "Eaton 5E 900VA GEN2 USB IEC UPS",
+    "title": "Eaton 5E 700VA GEN2 USB IEC UPS",
     "spec": "Ups And Power",
-    "price": "R1 648",
-    "handle": "eaton-5e-900va-gen2-usb-iec-ups",
-    "url": "/products/eaton-5e-900va-gen2-usb-iec-ups",
-    "qty": 47,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E900UI_761f.png"
+    "price": "R1 310",
+    "handle": "eaton-5e-700va-gen2-usb-iec-ups",
+    "url": "/products/eaton-5e-700va-gen2-usb-iec-ups",
+    "qty": 58,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E700UI_33ac.png"
    },
    {
     "brand": "Eaton",
@@ -824,36 +814,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1200UI_66a3.png"
    },
    {
-    "brand": "APC",
-    "title": "APC UPS Network Managedment Card 3 Web/SNMP, Warranty: 2 Years",
+    "brand": "Eaton",
+    "title": "Eaton 5E 1600VA GEN2 USB IEC UPS",
     "spec": "Ups And Power",
-    "price": "R5 048",
-    "handle": "apc-ups-network-managedment-card-3-web-snmp-warranty-2-years",
-    "url": "/products/apc-ups-network-managedment-card-3-web-snmp-warranty-2-years",
-    "qty": 4,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/AP9640_default.jpg"
-   },
-   {
-    "brand": "Acconet",
-    "title": "Acconet 2000VA/1800W Online Rack Mounted UPS",
-    "spec": "10-15 Minutes Run Time @ 1800W Load.",
-    "price": "R6 178",
-    "handle": "acconet-2000va-1800w-online-rack-mounted-ups-ac-ups-o2000-r",
-    "url": "/pages/acconet-2000va-1800w-online-rack-mounted-ups-ac-ups-o2000-r",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/9/9/0/2/9902.jpg",
-    "enquiry": true
-   },
-   {
-    "brand": "Acconet",
-    "title": "Acconet 3000VA/2700W Online Rack Mounted UPS",
-    "spec": "10-15 Minutes Run Time @ 2700W Load.",
-    "price": "R6 429",
-    "handle": "acconet-3000va-2700w-online-rack-mounted-ups-ac-ups-o3000-r",
-    "url": "/pages/acconet-3000va-2700w-online-rack-mounted-ups-ac-ups-o3000-r",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/9/9/1/2/9912.jpg",
-    "enquiry": true
+    "price": "R2 897",
+    "handle": "eaton-5e-1600va-gen2-usb-iec-ups",
+    "url": "/products/eaton-5e-1600va-gen2-usb-iec-ups",
+    "qty": 13,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
    }
   ],
   "multi": [
@@ -879,23 +847,23 @@
    },
    {
     "brand": "APC",
-    "title": "APC UPS Network Managedment Card 3 Web/SNMP, Warranty: 2 Years",
-    "spec": "Ups And Power",
-    "price": "R5 048",
-    "handle": "apc-ups-network-managedment-card-3-web-snmp-warranty-2-years",
-    "url": "/products/apc-ups-network-managedment-card-3-web-snmp-warranty-2-years",
-    "qty": 4,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/AP9640_default.jpg"
+    "title": "APC Backup UPS 2200VA/ 2.2KVA 1200W UPS Tower Rack Mount included:…",
+    "spec": "2.2KVA UPS",
+    "price": "R4 003",
+    "handle": "apc-backup-ups-2200va-2-2kva-1200w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
+    "url": "/products/apc-backup-ups-2200va-2-2kva-1200w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
+    "qty": 3,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BX2200MI_default.jpg"
    },
    {
-    "brand": "APC",
-    "title": "APC Smart Line Interactive 1000VA/ 1KVA 600W UPS Tower Rack Mount…",
-    "spec": "1KVA UPS",
-    "price": "R8 173",
-    "handle": "apc-smart-line-interactive-1000va-1kva-600w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
-    "url": "/products/apc-smart-line-interactive-1000va-1kva-600w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
+    "brand": "Eaton",
+    "title": "Eaton 9SX 1000i On-Line UPS 1000VA 200-240V Tower 9SX1000I",
+    "spec": "Ups And Power",
+    "price": "R13 512",
+    "handle": "eaton-9sx-1000i-on-line-ups-1000va-200-240v-tower-9sx1000i",
+    "url": "/products/eaton-9sx-1000i-on-line-ups-1000va-200-240v-tower-9sx1000i",
     "qty": 4,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SMC1000IC_default.jpg"
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/S/9SX1500I_1_38d0.png"
    },
    {
     "brand": "APC",
@@ -909,16 +877,6 @@
    }
   ],
   "server": [
-   {
-    "brand": "APC",
-    "title": "APC Smart-UPS 1000VA LCD (SmartConnect)",
-    "spec": "Rack-mount · critical kit",
-    "price": "R11 459",
-    "handle": "apc-smart-ups-1000va-lcd-230v-with-smartconnect",
-    "url": "https://ubratech.co.za/products/apc-smart-ups-1000va-lcd-230v-with-smartconnect",
-    "qty": 2,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SMT1000IC_default.jpg"
-   },
    {
     "brand": "APC",
     "title": "APC Smart Line Interactive 1000VA/ 1KVA 600W UPS Tower Rack Mount…",
@@ -940,14 +898,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/S/9SX1500I_1_38d0.png"
    },
    {
-    "brand": "Gizzu",
-    "title": "Gizzu Hero Ultra Plus 3840Wh UPS Power Station",
-    "spec": "Ups And Power",
-    "price": "R28 033",
-    "handle": "gizzu-hero-ultra-plus-3840wh-ups-power-station",
-    "url": "/products/gizzu-hero-ultra-plus-3840wh-ups-power-station",
-    "qty": 14,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/01/GPS3800UE_wr_01a.jpg"
+    "brand": "APC",
+    "title": "APC Smart Line Interative 2000VA/ 2KVA 1300W UPS Rack Rack mount…",
+    "spec": "2KVA UPS",
+    "price": "R21 558",
+    "handle": "apc-smart-line-interative-2000va-2kva-1300w-ups-rack-rack-mount-included-yes-rack-type-2u-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
+    "url": "/products/apc-smart-line-interative-2000va-2kva-1300w-ups-rack-rack-mount-included-yes-rack-type-2u-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
+    "qty": 3,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SMC2000I-2U_default.jpg"
    },
    {
     "brand": "APC",
@@ -1190,7 +1148,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
     "url": "https://ubratech.co.za/products/hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
-    "qty": 71,
+    "qty": 70,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    },
    {
@@ -1230,7 +1188,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
     "url": "/products/hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
-    "qty": 71,
+    "qty": 70,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    }
   ],
@@ -1405,16 +1363,6 @@
    }
   ],
   "legacy": [
-   {
-    "brand": "Port",
-    "title": "Port 100W USB-C & USB-A Docking Station",
-    "spec": "Works with older laptops",
-    "price": "R4 262",
-    "handle": "port-100w-usb-c-usb-a-docking-station",
-    "url": "https://ubratech.co.za/products/port-100w-usb-c-usb-a-docking-station",
-    "qty": 1,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/901908_W_EU_011e.jpg"
-   },
    {
     "brand": "Ugreen",
     "title": "UGREEN 4-in-1 USB 3.0 Hub - High-Speed 5Gbps Data Transfer - Grey",
@@ -2030,16 +1978,6 @@
    }
   ],
   "comfort": [
-   {
-    "brand": "HP",
-    "title": "HP 330 Wireless Keyboard & Mouse Combo",
-    "spec": "Tidy desk · easy typing",
-    "price": "R445",
-    "handle": "hp-330-black-wireless-keyboard-mouse-combo",
-    "url": "https://ubratech.co.za/products/hp-330-black-wireless-keyboard-mouse-combo",
-    "image": "https://www.pinnacle.co.za/media/catalog/product/2/v/2v9e6aa_keyboards_42935554637988_1000x_16e7.png",
-    "qty": 1
-   },
    {
     "brand": "Logitech",
     "title": "Logitech MK540 Advanced Wireless Combo",
