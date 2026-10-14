@@ -28,7 +28,7 @@
     "price": "R9 065",
     "handle": "asus-vivobook-16-amd-ryzen-5-8gb-256gb-win-11-home-notebook",
     "url": "/products/asus-vivobook-16-amd-ryzen-5-8gb-256gb-win-11-home-notebook",
-    "qty": 115,
+    "qty": 110,
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/S/ASUS_Vivobook_16_X1652XA_X1652DA_Product_photo_1S_Cool_Silver_03_3efe.jpg"
    },
    {
@@ -80,7 +80,7 @@
     "price": "R19 563",
     "handle": "lenovo-ideapad-slim-3-15-3-wuxga-core-7-320-16gb-512gb-win-11-home-notebook",
     "url": "/products/lenovo-ideapad-slim-3-15-3-wuxga-core-7-320-16gb-512gb-win-11-home-notebook",
-    "qty": 95,
+    "qty": 94,
     "image": "https://www.pinnacle.co.za/media/catalog/product/8/3/83RR00CWSA_e01a.jpg"
    },
    {
@@ -132,7 +132,7 @@
     "price": "R87 988",
     "handle": "dell-16-premium-da16250-u7-255hx-32gb-lpddr5x-7467mt-s-integrated-dual-channel-1tb-ssd-m-2-pcie-nvme-solid-state-drive-nvidia-geforce-rtx-5060-8gb-gddr7-45w-fingerprint-reader-intel-killer-wi-fi-7",
     "url": "/products/dell-16-premium-da16250-u7-255hx-32gb-lpddr5x-7467mt-s-integrated-dual-channel-1tb-ssd-m-2-pcie-nvme-solid-state-drive-nvidia-geforce-rtx-5060-8gb-gddr7-45w-fingerprint-reader-intel-killer-wi-fi-7",
-    "qty": 5,
+    "qty": 4,
     "image": "https://s3.amazonaws.com/tarsus.co.za/DA16250_ARLH_011_default.jpg"
    }
   ],
@@ -275,13 +275,13 @@
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder Intel i5-12400 OFFICE MASTER Core Windows 11 Pro Desktop PC",
-    "spec": "Desktops",
-    "price": "R15 078",
-    "handle": "pcbuilder-intel-i5-12400-office-master-core-windows-11-pro-desktop-pc",
-    "url": "/products/pcbuilder-intel-i5-12400-office-master-core-windows-11-pro-desktop-pc",
-    "qty": 4,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/01/PCB_OFFICE_I516G-V3_wr_01e.jpg"
+    "title": "PCBuilder Ryzen 5 8600G WARDEN Windows 11 Gaming PC",
+    "spec": "Ryzen 5",
+    "price": "R15 763",
+    "handle": "pcbuilder-ryzen-5-8600g-warden-windows-11-gaming-pc",
+    "url": "/products/pcbuilder-ryzen-5-8600g-warden-windows-11-gaming-pc",
+    "qty": 7,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_WARDEN_02_PCBuilder-Ryzen-5-8600G-WARDEN-Windows-11-Gaming-PC_wr_01a.jpg"
    },
    {
     "brand": "Dell",
@@ -630,7 +630,7 @@
     "price": "R2 004",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 7,
+    "qty": 6,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -1086,7 +1086,7 @@
     "price": "R10 427",
     "handle": "hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
     "url": "https://ubratech.co.za/products/hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
-    "qty": 33,
+    "qty": 32,
     "image": "https://s3.amazonaws.com/tarsus.co.za/3PZ55A_default.png"
    },
    {
@@ -1200,7 +1200,7 @@
     "price": "R10 427",
     "handle": "hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
     "url": "https://ubratech.co.za/products/hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
-    "qty": 33,
+    "qty": 32,
     "image": "https://s3.amazonaws.com/tarsus.co.za/3PZ55A_default.png"
    },
    {
@@ -1947,14 +1947,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_Design__95__f74c.png"
    },
    {
-    "brand": "Redragon",
-    "title": "REDRAGON METEOR L Gaming WristPad 435x73x20mm",
-    "spec": "Accessories",
-    "price": "R122",
-    "handle": "redragon-meteor-l-gaming-wristpad-435x73x20mm",
-    "url": "/products/redragon-meteor-l-gaming-wristpad-435x73x20mm",
-    "qty": 66,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/RD-P037_wr_01.jpg"
+    "brand": "Gizzu",
+    "title": "Gizzu 4K60Hz DisplayPort to HDMI Active Adapter",
+    "spec": "Cables And Adapters",
+    "price": "R125",
+    "handle": "gizzu-4k60hz-displayport-to-hdmi-active-adapter",
+    "url": "/products/gizzu-4k60hz-displayport-to-hdmi-active-adapter",
+    "qty": 199,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/GIZZU-GAPDPHA-45-0004-Edit_1500x1500.jpg"
    },
    {
     "brand": "Port",
@@ -1967,17 +1967,27 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2023/09/901221_wr_05.jpg"
    },
    {
-    "brand": "PXN",
-    "title": "PXN V9 Gen 2 Gaming Steering Wheel",
+    "brand": "HP",
+    "title": "HyperX QuadCast 2 RGB USB Streaming Microphone Black",
     "spec": "Accessories",
-    "price": "R2 462",
-    "handle": "pxn-v9-gen-2-gaming-steering-wheel",
-    "url": "/products/pxn-v9-gen-2-gaming-steering-wheel",
-    "qty": 99,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/PXN_PXN-V9GEN2_wr_01a.jpg"
+    "price": "R2 498",
+    "handle": "hyperx-quadcast-2-rgb-usb-streaming-microphone-black",
+    "url": "/products/hyperx-quadcast-2-rgb-usb-streaming-microphone-black",
+    "qty": 9,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/8/7/872V1AA_1_8a63.png"
    }
   ],
   "comfort": [
+   {
+    "brand": "HP",
+    "title": "HP 330 Wireless Keyboard & Mouse Combo",
+    "spec": "Tidy desk · easy typing",
+    "price": "R447",
+    "handle": "hp-330-black-wireless-keyboard-mouse-combo",
+    "url": "https://ubratech.co.za/products/hp-330-black-wireless-keyboard-mouse-combo",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/v/2v9e6aa_keyboards_42935554637988_1000x_16e7.png",
+    "qty": 16
+   },
    {
     "brand": "Logitech",
     "title": "Logitech MK540 Advanced Wireless Combo",
@@ -2020,13 +2030,13 @@
    },
    {
     "brand": "Redragon",
-    "title": "Redragon K673 UCAL 75% Magnetic Ultramag Switch Wired Keyboard - Black",
+    "title": "Redragon EISA 100 Retro RGB Wireless Mechanical Keyboard - Cream/Grey",
     "spec": "Keyboards",
-    "price": "R738",
-    "handle": "redragon-k673-ucal-75-magnetic-ultramag-switch-wired-keyboard-black",
-    "url": "/products/redragon-k673-ucal-75-magnetic-ultramag-switch-wired-keyboard-black",
-    "qty": 6,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/RD-K673WB-RGB-M_Redragon-K673-UCAL-75-Magnetic-Ultramag-Switch-Wired-Keyboard-Black_wr_01a.jpg"
+    "price": "R743",
+    "handle": "redragon-eisa-100-retro-rgb-wireless-mechanical-keyboard-cream-grey",
+    "url": "/products/redragon-eisa-100-retro-rgb-wireless-mechanical-keyboard-cream-grey",
+    "qty": 35,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/RD-K768WGR-WL_Redragon_EISA_100_Retro_RGB_Wireless_Mec_wr_01.png"
    },
    {
     "brand": "Keychron",
@@ -2049,7 +2059,7 @@
     "price": "R1 189",
     "handle": "hikvision-2mp-fixed-dome-ip-camera",
     "url": "/products/hikvision-2mp-fixed-dome-ip-camera",
-    "qty": 32,
+    "qty": 47,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD1123G0E_I_2.8MM_1_a66c.png"
    },
    {
@@ -2091,7 +2101,7 @@
     "price": "R1 189",
     "handle": "hikvision-2mp-fixed-dome-ip-camera",
     "url": "/products/hikvision-2mp-fixed-dome-ip-camera",
-    "qty": 32,
+    "qty": 47,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD1123G0E_I_2.8MM_1_a66c.png"
    },
    {
