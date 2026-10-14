@@ -228,7 +228,7 @@
     "price": "R4 922",
     "handle": "pcbuilder-cube-n100-4gb-ddr4-128gb-windows-11-home-mini-pc",
     "url": "/products/pcbuilder-cube-n100-4gb-ddr4-128gb-windows-11-home-mini-pc",
-    "qty": 13,
+    "qty": 22,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/PCB_CUBE_N100_4G_HOME_PCBuilder-CUBE-N100-4GB-DDR4-128GB-Windows-11-Home-Mini-PC_wr_01a.jpg"
    },
    {
@@ -546,7 +546,7 @@
     "price": "R2 376",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 56,
+    "qty": 51,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -602,14 +602,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-325QF-E18V_MSI-MAG-325QF-E18V-32-inch-WQHD-180Hz-VA-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi G Pro 27i 27\" 2K 1440p Mini LED IPS Gaming Monitor (180Hz, 1ms)",
-    "spec": "27\" screen",
-    "price": "R8 570",
-    "handle": "xiaomi-g-pro-27i-27-2k-1440p-mini-led-ips-gaming-monitor-180hz-1ms",
-    "url": "/products/xiaomi-g-pro-27i-27-2k-1440p-mini-led-ips-gaming-monitor-180hz-1ms",
-    "qty": 61,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/ELA5585EU_Xiaomi-G-Pro-27i_27-inch_2k_qhd_gaming_monitor_wr_01b.jpg"
+    "brand": "Dell",
+    "title": "Dell S3225QS 32\" UHD Monitor",
+    "spec": "32\" screen",
+    "price": "R8 495",
+    "handle": "dell-s3225qs-32-uhd-monitor",
+    "url": "/products/dell-s3225qs-32-uhd-monitor",
+    "qty": 99,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQWP__1__883d.jpg"
    },
    {
     "brand": "Dell",
@@ -682,7 +682,7 @@
     "price": "R2 376",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 56,
+    "qty": 51,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -773,7 +773,7 @@
     "brand": "Acconet",
     "title": "Acconet Mini UPS DC Jack Input 12V 2.3A",
     "spec": "13200mAh Battery, 4 Way Cable - 1x USB, 1x 9V, 2x 12V, no PSU included",
-    "price": "R240",
+    "price": "R252",
     "handle": "acconet-mini-ups-dc-jack-input-12v-2-3a-ac-ups-mini-v2",
     "url": "/pages/acconet-mini-ups-dc-jack-input-12v-2-3a-ac-ups-mini-v2",
     "qty": 9,
@@ -784,7 +784,7 @@
     "brand": "Acconet",
     "title": "Acconet Mini DC UPS 13200mAh with 12V 2A Power Supply",
     "spec": "13200mAh Battery, 4 Way Cable - 1x USB, 1x 9V, 2x 12V, includes PSU-12",
-    "price": "R362",
+    "price": "R380",
     "handle": "acconet-mini-dc-ups-13200mah-with-12v-2a-power-supply-ac-ups-mini-v2-kit",
     "url": "/pages/acconet-mini-dc-ups-13200mah-with-12v-2a-power-supply-ac-ups-mini-v2-kit",
     "qty": 9,
@@ -1276,7 +1276,7 @@
     "price": "R136",
     "handle": "port-connect-usb-type-c-to-4-port-usb-a-3-0-2-0-hub",
     "url": "/products/port-connect-usb-type-c-to-4-port-usb-a-3-0-2-0-hub",
-    "qty": 128,
+    "qty": 123,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/900160_Port-Connect-USB-Type-C-to-4-port-USB-A-3.0-2.0-Hub_wr_01a.jpg"
    },
    {
@@ -1516,7 +1516,7 @@
     "brand": "Grandstream",
     "title": "Grandstream Enterprise 8 port Unmanaged GbE Switch",
     "spec": "8x GbE, Plastic case, 5V/0.6A PSU",
-    "price": "R305",
+    "price": "R320",
     "handle": "grandstream-enterprise-8-port-unmanaged-gbe-switch-gwn7701",
     "url": "/pages/grandstream-enterprise-8-port-unmanaged-gbe-switch-gwn7701",
     "qty": 9,
@@ -1525,13 +1525,13 @@
    },
    {
     "brand": "Ubiquiti",
-    "title": "Ubiquiti UniFi Pro 48 Port 40 PoE 600W Switch 4SFP+",
-    "spec": "1.3\" touch LCM;auto-sensing 802.3at PoE+ and 802.3bt PoE++ 600W PoE bu",
-    "price": "R24 396",
-    "handle": "ubiquiti-unifi-pro-48-port-40-poe-600w-switch-4sfp-usw-pro-48-poe",
-    "url": "/pages/ubiquiti-unifi-pro-48-port-40-poe-600w-switch-4sfp-usw-pro-48-poe",
+    "title": "Ubiquiti UniFi Pro HD 24 Port PoE Switch 600W",
+    "spec": "1.3\" touch LCM; 22 x 2.5Gbps ; 4 x 10G SFP+; 2 x 10Gbps, Etherlighting",
+    "price": "R24 131",
+    "handle": "ubiquiti-unifi-pro-hd-24-port-poe-switch-600w-usw-pro-hd-24-poe",
+    "url": "/pages/ubiquiti-unifi-pro-hd-24-port-poe-switch-600w-usw-pro-hd-24-poe",
     "qty": 9,
-    "image": "https://miro.co.za/img/p/1/6/9/3/7/16937.jpg",
+    "image": "https://miro.co.za/img/p/1/6/2/2/2/16222.jpg",
     "enquiry": true
    }
   ],
@@ -1560,7 +1560,7 @@
     "brand": "Acconet",
     "title": "Acconet 6U Unassembled Wall Mount Box",
     "spec": "Flat Pack, Glass Door",
-    "price": "R1 433",
+    "price": "R1 502",
     "handle": "acconet-6u-unassembled-wall-mount-box-ac-cab-6u450-wm",
     "url": "/pages/acconet-6u-unassembled-wall-mount-box-ac-cab-6u450-wm",
     "qty": 9,
@@ -1571,7 +1571,7 @@
     "brand": "Acconet",
     "title": "Acconet 19\" 25U vented outdoor Safe / Cabinet - 120KG",
     "spec": "RACKS AND CABINETS",
-    "price": "R29 861",
+    "price": "R31 283",
     "handle": "acconet-19-25u-vented-outdoor-safe-cabinet-120kg",
     "url": "/pages/acconet-19-25u-vented-outdoor-safe-cabinet-120kg",
     "qty": 9,
@@ -1589,28 +1589,28 @@
     "price": "R257",
     "handle": "ugreen-cm767-m-2-nvme-ssd-enclosure-10gbps",
     "url": "/products/ugreen-cm767-m-2-nvme-ssd-enclosure-10gbps",
-    "qty": 110,
+    "qty": 108,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM767-35267_UGreen-CM767-M.2-NVMe-SSD-Enclosure-10Gbps-%E2%80%93-Silver_wr_01a.jpg"
    },
    {
     "brand": "Patriot",
-    "title": "Patriot PVP30 1TB Duo Compact External Portable SSD",
+    "title": "Patriot Transporter Lite 1TB USB3.2 Type-C External Portable SSD - Red",
     "spec": "Storage",
     "price": "R2 265",
-    "handle": "patriot-pvp30-1tb-duo-compact-external-portable-ssd",
-    "url": "/products/patriot-pvp30-1tb-duo-compact-external-portable-ssd",
-    "qty": 19,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/PVP301TB28UDG_Patriot-PVP30-1TB-Duo-Compact-External-Portable-SSD_wr_01.jpg"
+    "handle": "patriot-transporter-lite-1tb-usb3-2-type-c-external-portable-ssd-red",
+    "url": "/products/patriot-transporter-lite-1tb-usb3-2-type-c-external-portable-ssd-red",
+    "qty": 25,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/PTPL1TBPEC_Patriot-Transporter-Lite-1TB-USB3.2-Type-C-External-Portable-SSD_wr_01.jpg"
    },
    {
-    "brand": "Patriot",
-    "title": "PATRIOT SSD VP4000 M.2 NVME 2TB 2230",
-    "spec": "Storage",
-    "price": "R5 665",
-    "handle": "patriot-ssd-vp4000-m-2-nvme-2tb-2230",
-    "url": "/products/patriot-ssd-vp4000-m-2-nvme-2tb-2230",
-    "qty": 7,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/VP4000M2TBM23_Patriot-Viper-VP4000-Mini-2TB-M.2-2230-PCIe-Gen4x4-SSD_wr_01.jpg"
+    "brand": "Seagate",
+    "title": "Seagate SkyHawk Surveillance 8TB 256MB 3.5\" SATA HDD",
+    "spec": "3.5\" screen",
+    "price": "R6 295",
+    "handle": "seagate-skyhawk-surveillance-8tb-256mb-3-5-sata-hdd",
+    "url": "/products/seagate-skyhawk-surveillance-8tb-256mb-3-5-sata-hdd",
+    "qty": 11,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/ST8000VX010_Seagate_SkyHawk_Surveillance_8TB_256MB_3_wr_01.png"
    },
    {
     "brand": "Hiksemi",
@@ -1661,7 +1661,7 @@
     "price": "R2 456",
     "handle": "hiksemi-hiker-16gb-ddr4-2666mhz-desktop-memory",
     "url": "/products/hiksemi-hiker-16gb-ddr4-2666mhz-desktop-memory",
-    "qty": 127,
+    "qty": 126,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/HSC416U26Z1-16G_wr_01a.jpg"
    },
    {
@@ -1755,7 +1755,7 @@
     "price": "R558",
     "handle": "antec-atom-v550-non-modular-power-supply",
     "url": "/products/antec-atom-v550-non-modular-power-supply",
-    "qty": 161,
+    "qty": 144,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/ATOM-V550_wr_01a.jpg"
    },
    {
@@ -2299,7 +2299,7 @@
    "brand": "TP-Link Omada",
    "title": "TP-Link AC1350 Ceiling Mount Access Point excl PSU/POE",
    "spec": "300Mbps at 2.4GHz + 867Mbps at 5GHz, 802.11a/b/g/n/ac, 1 x Gb LAN, 802",
-   "price": "R942",
+   "price": "R987",
    "handle": "tp-link-ac1350-ceiling-mount-access-point-excl-psu-poe",
    "url": "/pages/tp-link-ac1350-ceiling-mount-access-point-excl-psu-poe",
    "qty": 9,
@@ -2310,7 +2310,7 @@
    "brand": "Grandstream",
    "title": "Grandstream Enterprise WiFi 5 Compact Long Range Outdoor AP",
    "spec": "Compact outdoor Wi-Fi Access point, 2x2 Wi-Fi 5, 2x GbE, 12—24V DC-In,",
-   "price": "R1 416",
+   "price": "R1 484",
    "handle": "grandstream-enterprise-wifi-5-compact-long-range-outdoor-ap-gwn7605clr",
    "url": "/pages/grandstream-enterprise-wifi-5-compact-long-range-outdoor-ap-gwn7605clr",
    "qty": 9,
@@ -2321,7 +2321,7 @@
    "brand": "Grandstream",
    "title": "Grandstream Enterprise WiFi 7 In-Wall Indoor Access Point",
    "spec": "3,6 Gbps, 2x2:2 2.4G/5G, 1x 2.5GbE PoE,175m coverage,256 clients, Embe",
-   "price": "R2 031",
+   "price": "R2 128",
    "handle": "grandstream-enterprise-wifi-7-in-wall-indoor-access-point-gwn7670wm",
    "url": "/pages/grandstream-enterprise-wifi-7-in-wall-indoor-access-point-gwn7670wm",
    "qty": 9,
@@ -2332,7 +2332,7 @@
    "brand": "TP-Link Omada",
    "title": "TP-Link AX6000 Indoor WiFi 6 Ceiling Mount Access Point",
    "spec": "1×2.5 Gigabit RJ45 Port, SPEED: 1148Mbps at  2.4 GHz + 4804 Mbps at 5 ",
-   "price": "R2 748",
+   "price": "R2 879",
    "handle": "tp-link-ax6000-indoor-wifi-6-ceiling-mount-access-point-tp-eap683ur",
    "url": "/pages/tp-link-ax6000-indoor-wifi-6-ceiling-mount-access-point-tp-eap683ur",
    "qty": 9,
@@ -2343,7 +2343,7 @@
    "brand": "Ubiquiti",
    "title": "Ubiquiti UniFi WiFi 7 Outdoor Access Point",
    "spec": "No PoE Injector included, 4 Spatial Streams, 250+ connected devices, 2",
-   "price": "R4 461",
+   "price": "R4 673",
    "handle": "ubiquiti-unifi-wifi-7-outdoor-access-point-u7-outdoor",
    "url": "/pages/ubiquiti-unifi-wifi-7-outdoor-access-point-u7-outdoor",
    "qty": 9,
@@ -2354,7 +2354,7 @@
    "brand": "Cambium Networks",
    "title": "Cambium cnPilot Enterprise WiFi 6 120° Outdoor AP",
    "spec": "2x2 Dual Band 802.11ax, 30W PoE out, 1 x 2.5 Gb Port, 1 x Gb Port, PoE",
-   "price": "R14 824",
+   "price": "R15 530",
    "handle": "cambium-cnpilot-enterprise-wifi-6-120-outdoor-ap-cnp-xv-2t1",
    "url": "/pages/cambium-cnpilot-enterprise-wifi-6-120-outdoor-ap-cnp-xv-2t1",
    "qty": 9,
