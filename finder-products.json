@@ -560,24 +560,24 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 27 Monitor - E2726H 1x HDMI, 1x DP, 1x VGA (Includes DP & Power Cable)",
-    "spec": "Monitors And Displays",
-    "price": "R2 444",
-    "handle": "dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
-    "url": "/products/dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
-    "qty": 18,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPN_default.jpg"
+    "brand": "MSI",
+    "title": "MSI MAG 255F E20 25\" FHD 200Hz Rapid IPS Gaming Monitor",
+    "spec": "25\" screen",
+    "price": "R2 461",
+    "handle": "msi-mag-255f-e20-25-fhd-200hz-rapid-ips-gaming-monitor",
+    "url": "/products/msi-mag-255f-e20-25-fhd-200hz-rapid-ips-gaming-monitor",
+    "qty": 200,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-E20_MSI-MAG-255F-E20-25-inch-FHD-200Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port Connect 15.6\" Full HD Touchscreen Portable Monitor",
-    "spec": "15.6\" screen",
-    "price": "R3 285",
-    "handle": "port-connect-15-6-full-hd-touchscreen-portable-monitor",
-    "url": "/products/port-connect-15-6-full-hd-touchscreen-portable-monitor",
-    "qty": 16,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/902101T-WR-01b.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro P24 23.8\" FHD IPS Monitor",
+    "spec": "23.8\" screen",
+    "price": "R3 399",
+    "handle": "dell-pro-p24-23-8-fhd-ips-monitor",
+    "url": "/products/dell-pro-p24-23-8-fhd-ips-monitor",
+    "qty": 53,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVKM_290f.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -634,24 +634,24 @@
   ],
   "gaming": [
    {
-    "brand": "Dell",
-    "title": "Dell SE2426H 24\" FHD Gaming Monitor",
-    "spec": "High refresh · smooth motion",
-    "price": "R2 112",
-    "handle": "dell-se2426h-24-fhd-gaming-monitor",
-    "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 10,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
+    "brand": "MSI",
+    "title": "MSI MAG 255F E20 25\" FHD 200Hz Rapid IPS Gaming Monitor",
+    "spec": "25\" screen",
+    "price": "R2 461",
+    "handle": "msi-mag-255f-e20-25-fhd-200hz-rapid-ips-gaming-monitor",
+    "url": "/products/msi-mag-255f-e20-25-fhd-200hz-rapid-ips-gaming-monitor",
+    "qty": 200,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-E20_MSI-MAG-255F-E20-25-inch-FHD-200Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi A27Qi 2026 27\" inch 120Hz 2K IPS Office Monitor",
+    "brand": "Dell",
+    "title": "Dell 27 Plus S2725HSM 27\" FHD 144Hz Monitor (210-BSZF)",
     "spec": "27\" screen",
-    "price": "R3 449",
-    "handle": "xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
-    "url": "/products/xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
-    "qty": 183,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6568EU_Xiaomi-A27Qi-2026-27-inch-2K-120Hz-IPS-Office-Monitor_wr_01a.jpg"
+    "price": "R3 555",
+    "handle": "dell-27-plus-monitor-s2725hsm-fhd-monitor-featuring-144hz-refresh-rate-built-in-speakers-and-t-v-4-star-eye-comfort-certification-resolution-refresh-rate-1920-x-1080-at-144hz-ports-2-hdmi-hdcp1-4",
+    "url": "/products/dell-27-plus-monitor-s2725hsm-fhd-monitor-featuring-144hz-refresh-rate-built-in-speakers-and-t-v-4-star-eye-comfort-certification-resolution-refresh-rate-1920-x-1080-at-144hz-ports-2-hdmi-hdcp1-4",
+    "qty": 6,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BSZF_default.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -696,14 +696,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro P 22 P2226H FHD 22\" Monitor",
+    "brand": "HP",
+    "title": "HP Series 3 Pro 22\" FHD Monitor",
     "spec": "22\" screen",
-    "price": "R2 768",
-    "handle": "dell-pro-p-22-monitor-p2226h-fhd-22-in-plane-switching-ips-technology-1x-hdmi-port-1x-displayport-4x-usb-1x-usb-c-includes-power-cable-usb-and-hdmi-cable",
-    "url": "/products/dell-pro-p-22-monitor-p2226h-fhd-22-in-plane-switching-ips-technology-1x-hdmi-port-1x-displayport-4x-usb-1x-usb-c-includes-power-cable-usb-and-hdmi-cable",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BVJQ_default.jpg"
+    "price": "R2 996",
+    "handle": "hp-series-3-pro-22-fhd-monitor",
+    "url": "/products/hp-series-3-pro-22-fhd-monitor",
+    "qty": 3,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5A2AA__1__b014.jpg"
    },
    {
     "brand": "HP",
@@ -1428,24 +1428,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS104_wr_01.jpg"
    },
    {
-    "brand": "Redragon",
-    "title": "Redragon H889W SPECTRA PRO Over-Ear Wireless Headphones - White",
+    "brand": "Winx",
+    "title": "WINX CALL Elite AI Noise Cancelling Wireless Headset",
     "spec": "Headsets",
-    "price": "R740",
-    "handle": "redragon-h889w-spectra-pro-over-ear-wireless-headphones-white",
-    "url": "/products/redragon-h889w-spectra-pro-over-ear-wireless-headphones-white",
-    "qty": 34,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/RD-H889WG_Redragon-H889W-SPECTRA-PRO-Over-Ear-Wireless-Headphones-White_wr_01a.jpg"
-   },
-   {
-    "brand": "Logitech",
-    "title": "Logitech Headset-Zone 300-Black- BT-N/A-EMEA28i-935, dual…",
-    "spec": "Headsets",
-    "price": "R1 423",
-    "handle": "logitech-headset-zone-300-black-bt-n-a-emea28i-935-dual-noise-cancelling-mics-20-hour-battery-multi-device-support",
-    "url": "/products/logitech-headset-zone-300-black-bt-n-a-emea28i-935-dual-noise-cancelling-mics-20-hour-battery-multi-device-support",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/981-001407_default.png"
+    "price": "R1 320",
+    "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
+    "url": "/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
+    "qty": 183,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg"
    },
    {
     "brand": "HP",
@@ -1875,24 +1865,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/BHR8930GL_wr_01.jpg"
    },
    {
-    "brand": "Redragon",
-    "title": "REDRAGON Over-Ear AURORA Gaming Headset - Black",
-    "spec": "Headsets",
-    "price": "R553",
-    "handle": "redragon-over-ear-aurora-gaming-headset-black",
-    "url": "/products/redragon-over-ear-aurora-gaming-headset-black",
-    "qty": 206,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/02/RD-H376BR_wr_01.jpg"
+    "brand": "Ugreen",
+    "title": "UGREEN HiTune S5 Open-Ear TWS Earbuds–Black",
+    "spec": "Tv And Audio",
+    "price": "R516",
+    "handle": "ugreen-hitune-s5-open-ear-tws-earbuds-black",
+    "url": "/products/ugreen-hitune-s5-open-ear-tws-earbuds-black",
+    "qty": 36,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/6941876247608_WS210-45760_02.jpg"
    },
    {
-    "brand": "Nearity",
-    "title": "Nearity AW-SP100 Wireless Speakerphone",
+    "brand": "HP",
+    "title": "HP HyperX Cloud Stinger 3 Wired Gaming Headset Black",
     "spec": "Headsets",
-    "price": "R1 132",
-    "handle": "nearity-aw-sp100-wireless-speakerphone",
-    "url": "/products/nearity-aw-sp100-wireless-speakerphone",
-    "qty": 16,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_Design__67__28ea.png"
+    "price": "R1 081",
+    "handle": "hp-hyperx-cloud-stinger-3-wired-gaming-headset-black",
+    "url": "/products/hp-hyperx-cloud-stinger-3-wired-gaming-headset-black",
+    "qty": 29,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/B/S/BS1T5AA_5dbd.jpg"
    },
    {
     "brand": "Poly",
@@ -2009,14 +1999,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/RD-BM-4054_wr_01.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP 400 Quiet Wireless Blue Mouse",
+    "brand": "Port",
+    "title": "Port Pure MAC Wireless Copper Rose Mouse",
     "spec": "Wired Mouse",
     "price": "R371",
-    "handle": "hp-400-quiet-wireless-blue-mouse",
-    "url": "/products/hp-400-quiet-wireless-blue-mouse",
-    "qty": 96,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B4AA_ed00.jpg"
+    "handle": "port-pure-mac-wireless-copper-rose-mouse",
+    "url": "/products/port-pure-mac-wireless-copper-rose-mouse",
+    "qty": 39,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__13__9474.png"
    },
    {
     "brand": "Winx",
@@ -2064,13 +2054,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Fixed Mini Bullet Network Camera",
+    "title": "Hikvision 4MP 2.8mm Smart Hybrid Light ColorVu Fixed Turret Network Camera",
     "spec": "4MP",
-    "price": "R2 978",
-    "handle": "hikvision-4mp-fixed-mini-bullet-network-camera",
-    "url": "/products/hikvision-4mp-fixed-mini-bullet-network-camera",
-    "qty": 91,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_4MM_1_306c.png"
+    "price": "R2 948",
+    "handle": "hikvision-4mp-2-8mm-smart-hybrid-light-colorvu-fixed-turret-network-camera",
+    "url": "/products/hikvision-4mp-2-8mm-smart-hybrid-light-colorvu-fixed-turret-network-camera",
+    "qty": 31,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2347G2H_LIU_2.8MM_9609.png"
    },
    {
     "brand": "Hikvision",
@@ -2148,13 +2138,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Smart Hybrid ColorVu Fixed Mini Bullet IP Camera (DS-2CD2047G2H-LIU-SL-2.8MM)",
+    "title": "Hikvision 4MP ColorVu Fixed Bullet IP Camera",
     "spec": "4MP",
-    "price": "R3 162",
-    "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-mini-bullet-ip-camera-ds-2cd2047g2h-liu-sl-2-8mm",
-    "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-mini-bullet-ip-camera-ds-2cd2047g2h-liu-sl-2-8mm",
-    "qty": 47,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LIU_SL_2.8MM_1_abe9.png"
+    "price": "R3 138",
+    "handle": "hikvision-4mp-colorvu-fixed-bullet-ip-camera",
+    "url": "/products/hikvision-4mp-colorvu-fixed-bullet-ip-camera",
+    "qty": 14,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T47G2_L_6MM_1977.jpg"
    },
    {
     "brand": "Hikvision",
