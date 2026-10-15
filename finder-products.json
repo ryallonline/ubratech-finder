@@ -107,23 +107,23 @@
    },
    {
     "brand": "HP",
-    "title": "HP EliteBook 8 Flip G1i Laptop",
-    "spec": "Notebooks",
-    "price": "R31 153",
-    "handle": "hp-elitebook-8-flip-g1i-13-3-wuxga-ai-ultra-5-225u-16gb-512gb-win-11-pro-2-in-1-notebook",
-    "url": "/products/hp-elitebook-8-flip-g1i-13-3-wuxga-ai-ultra-5-225u-16gb-512gb-win-11-pro-2-in-1-notebook",
-    "qty": 9,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/D/AD3U5ET_1871.jpg"
+    "title": "HP ProBook 4 G2i AI 14in Laptop — 16GB · 512GB SSD (DS5H9ET)",
+    "spec": "512GB SSD",
+    "price": "R31 379",
+    "handle": "hp-probook-4-g2i-ai-14in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "url": "/products/hp-probook-4-g2i-ai-14in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "qty": 23,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DS5H9ET_default.png"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo T14 G7 PTL Laptop — Core Ultra 5 · 512GB SSD (21WN002RZA)",
-    "spec": "Core Ultra 5 · 512GB SSD",
-    "price": "R37 650",
-    "handle": "lenovo-t14-g7-ptl-u5-325-16gb-base-ddr5x-512gb-ssd-m-2-2280-tlc-g4-intel-arc-windows-11-pro-64-14-0-wuxga-ag-400nits-5m-rgb-ir-cam-intel-wi-fi-7-be211-802-11be-2x2-bt5-4-snapdragon-x12-lte-modem-4g",
-    "url": "/products/lenovo-t14-g7-ptl-u5-325-16gb-base-ddr5x-512gb-ssd-m-2-2280-tlc-g4-intel-arc-windows-11-pro-64-14-0-wuxga-ag-400nits-5m-rgb-ir-cam-intel-wi-fi-7-be211-802-11be-2x2-bt5-4-snapdragon-x12-lte-modem-4g",
-    "qty": 15,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/21WN002RZA_default.jpg"
+    "brand": "Asus",
+    "title": "Asus Zenbook 14 UX3405CA 14\" 3K OLED 120Hz Core U9-285H 16GB 1TB Win 11 Pro Notebook",
+    "spec": "14\" screen · 16GB RAM",
+    "price": "R37 776",
+    "handle": "asus-zenbook-14-ux3405ca-14-3k-oled-120hz-core-u9-285h-16gb-1tb-win-11-pro-notebook",
+    "url": "/products/asus-zenbook-14-ux3405ca-14-3k-oled-120hz-core-u9-285h-16gb-1tb-win-11-pro-notebook",
+    "qty": 47,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_14_UX3405CA_Product_photo_3B_Ponder_Blue_03_62bf.jpg"
    },
    {
     "brand": "Dell",
@@ -154,7 +154,7 @@
     "price": "R46 969",
     "handle": "hp-zbook-8-g1i-laptop-core-ultra-7-32gb-1tb-ssd-cg0g9et",
     "url": "https://ubratech.co.za/products/hp-zbook-8-g1i-laptop-core-ultra-7-32gb-1tb-ssd-cg0g9et",
-    "qty": 20,
+    "qty": 18,
     "image": "https://s3.amazonaws.com/tarsus.co.za/CG0G9ET_default.jpg"
    },
    {
@@ -164,7 +164,7 @@
     "price": "R43 443",
     "handle": "hp-zbook-8-g1i-laptop-core-ultra-7-512gb-ssd-cg0k8et",
     "url": "https://ubratech.co.za/products/hp-zbook-8-g1i-laptop-core-ultra-7-512gb-ssd-cg0k8et",
-    "qty": 10,
+    "qty": 9,
     "image": "https://s3.amazonaws.com/tarsus.co.za/CG0K8ET_default.jpg"
    },
    {
@@ -362,7 +362,7 @@
     "price": "R72 632",
     "handle": "dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
     "url": "/products/dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
-    "qty": 9,
+    "qty": 8,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PW516261-U7-321TB-5G_default.jpg"
    }
   ],
@@ -384,7 +384,7 @@
     "price": "R72 632",
     "handle": "dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
     "url": "/products/dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
-    "qty": 9,
+    "qty": 8,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PW516261-U7-321TB-5G_default.jpg"
    }
   ]
@@ -543,10 +543,10 @@
     "brand": "Dell",
     "title": "Dell SE2726HM 27\" FHD Monitor",
     "spec": "Crisp everyday screen",
-    "price": "R2 376",
+    "price": "R2 333",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 52,
+    "qty": 146,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -628,7 +628,7 @@
     "price": "R27 443",
     "handle": "dell-ultrasharp-u4924dw-49-qhd-ips-curved-usb-c-monitor",
     "url": "/products/dell-ultrasharp-u4924dw-49-qhd-ips-curved-usb-c-monitor",
-    "qty": 7,
+    "qty": 6,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BGTX_530a.png"
    }
   ],
@@ -640,7 +640,7 @@
     "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 136,
+    "qty": 84,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -670,7 +670,7 @@
     "price": "R27 443",
     "handle": "dell-ultrasharp-u4924dw-49-qhd-ips-curved-usb-c-monitor",
     "url": "/products/dell-ultrasharp-u4924dw-49-qhd-ips-curved-usb-c-monitor",
-    "qty": 7,
+    "qty": 6,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BGTX_530a.png"
    }
   ],
@@ -679,10 +679,10 @@
     "brand": "Dell",
     "title": "Dell SE2726HM 27\" FHD Monitor",
     "spec": "Slim bezel · great for lots of windows",
-    "price": "R2 376",
+    "price": "R2 333",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 52,
+    "qty": 146,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -746,7 +746,7 @@
     "price": "R1 024",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "/products/hikvision-1000va-1kva-ups",
-    "qty": 365,
+    "qty": 364,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -800,7 +800,7 @@
     "price": "R1 024",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 365,
+    "qty": 364,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -1428,14 +1428,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS104_wr_01.jpg"
    },
    {
-    "brand": "Winx",
-    "title": "WINX CALL Elite AI Noise Cancelling Wireless Headset",
+    "brand": "Redragon",
+    "title": "Redragon H889W SPECTRA PRO Over-Ear Wireless Headphones - White",
     "spec": "Headsets",
-    "price": "R1 320",
-    "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
-    "url": "/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
-    "qty": 183,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg"
+    "price": "R740",
+    "handle": "redragon-h889w-spectra-pro-over-ear-wireless-headphones-white",
+    "url": "/products/redragon-h889w-spectra-pro-over-ear-wireless-headphones-white",
+    "qty": 34,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/RD-H889WG_Redragon-H889W-SPECTRA-PRO-Over-Ear-Wireless-Headphones-White_wr_01a.jpg"
+   },
+   {
+    "brand": "Logitech",
+    "title": "Logitech Headset-Zone 300-Black- BT-N/A-EMEA28i-935, dual…",
+    "spec": "Headsets",
+    "price": "R1 423",
+    "handle": "logitech-headset-zone-300-black-bt-n-a-emea28i-935-dual-noise-cancelling-mics-20-hour-battery-multi-device-support",
+    "url": "/products/logitech-headset-zone-300-black-bt-n-a-emea28i-935-dual-noise-cancelling-mics-20-hour-battery-multi-device-support",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/981-001407_default.png"
    },
    {
     "brand": "HP",
@@ -1499,7 +1509,7 @@
     "price": "R13 823",
     "handle": "huawei-s310-48p4x-ekit-48-port-poe-switch",
     "url": "/products/huawei-s310-48p4x-ekit-48-port-poe-switch",
-    "qty": 49,
+    "qty": 48,
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_fcaa.png"
    },
    {
@@ -1852,7 +1862,7 @@
     "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
     "url": "https://ubratech.co.za/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg",
-    "qty": 183
+    "qty": 180
    },
    {
     "brand": "Xiaomi",
@@ -1865,34 +1875,34 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/BHR8930GL_wr_01.jpg"
    },
    {
-    "brand": "Ugreen",
-    "title": "UGREEN HiTune S5 Open-Ear TWS Earbuds–Black",
-    "spec": "Tv And Audio",
-    "price": "R516",
-    "handle": "ugreen-hitune-s5-open-ear-tws-earbuds-black",
-    "url": "/products/ugreen-hitune-s5-open-ear-tws-earbuds-black",
-    "qty": 36,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/6941876247608_WS210-45760_02.jpg"
+    "brand": "Redragon",
+    "title": "REDRAGON Over-Ear AURORA Gaming Headset - Black",
+    "spec": "Headsets",
+    "price": "R553",
+    "handle": "redragon-over-ear-aurora-gaming-headset-black",
+    "url": "/products/redragon-over-ear-aurora-gaming-headset-black",
+    "qty": 206,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/02/RD-H376BR_wr_01.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP HyperX Cloud Stinger 3 Wired Gaming Headset Black",
+    "brand": "Dell",
+    "title": "Dell WH3024 Wired Headset",
     "spec": "Headsets",
-    "price": "R1 081",
-    "handle": "hp-hyperx-cloud-stinger-3-wired-gaming-headset-black",
-    "url": "/products/hp-hyperx-cloud-stinger-3-wired-gaming-headset-black",
-    "qty": 29,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/S/BS1T5AA_5dbd.jpg"
+    "price": "R1 239",
+    "handle": "dell-wh3024-wired-headset",
+    "url": "/products/dell-wh3024-wired-headset",
+    "qty": 75,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/5/2/520_BBDH_a863.png"
    },
    {
-    "brand": "Poly",
-    "title": "Poly Voyager Surround 85 UC Microsoft Teams Certified USB-C Headset",
+    "brand": "Hisense",
+    "title": "Hisense Party Thunder 620W Party Speaker",
     "spec": "Headsets",
-    "price": "R6 056",
-    "handle": "poly-voyager-surround-85-uc-microsoft-teams-certified-usb-c-headset",
-    "url": "/products/poly-voyager-surround-85-uc-microsoft-teams-certified-usb-c-headset",
-    "qty": 3,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/8G7T8AA_default.jpg"
+    "price": "R7 318",
+    "handle": "hisense-party-thunder-620w-party-speaker",
+    "url": "/products/hisense-party-thunder-620w-party-speaker",
+    "qty": 10,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/P/A/PARTY_THUNDER_0a85.png"
    }
   ],
   "everyday": [
@@ -1927,24 +1937,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "ASRock",
-    "title": "ASRock DESKMINI Vesa Mount Kit",
+    "brand": "Giada",
+    "title": "Giada Vesa Mount for F210",
     "spec": "Accessories",
-    "price": "R127",
-    "handle": "asrock-deskmini-vesa-mount-kit",
-    "url": "/products/asrock-deskmini-vesa-mount-kit",
-    "qty": 5,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/90-BXG2T0-A0XCR3W_wr_01.jpg"
+    "price": "R133",
+    "handle": "giada-vesa-mount-for-f210-f200-vm23-dn7x",
+    "url": "/products/giada-vesa-mount-for-f210-f200-vm23-dn7x",
+    "qty": 18,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2016/02/JC530_wr_01a.jpg"
    },
    {
-    "brand": "Ugreen",
-    "title": "UGREEN 1x 2 HDMI Splitter 4K 30Hz 3D – Black",
-    "spec": "Cables And Adapters",
-    "price": "R408",
-    "handle": "ugreen-1x-2-hdmi-splitter-4k-30hz-3d-black",
-    "url": "/products/ugreen-1x-2-hdmi-splitter-4k-30hz-3d-black",
-    "qty": 20,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/CM619-40201EU.jpg"
+    "brand": "Port",
+    "title": "Port Slim Keyed Cable Security Lock",
+    "spec": "Accessories",
+    "price": "R424",
+    "handle": "port-slim-keyed-cable-security-lock",
+    "url": "/products/port-slim-keyed-cable-security-lock",
+    "qty": 8,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/901200_67c8.jpg"
    },
    {
     "brand": "HP",
@@ -2069,7 +2079,7 @@
     "price": "R3 170",
     "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-bullet-ip-camera",
     "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-bullet-ip-camera",
-    "qty": 60,
+    "qty": 59,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T47G2H_LI_image_4_17d1.png"
    }
   ],
@@ -2086,13 +2096,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP 2.8mm Smart Hybrid Light with ColorVu Fixed Mini Bullet Network Camera",
+    "title": "Hikvision 4MP Fixed Dome Network Camera",
     "spec": "4MP",
-    "price": "R2 403",
-    "handle": "hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
-    "url": "/products/hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
-    "qty": 757,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LI_2.8MM_e360.jpg"
+    "price": "R2 353",
+    "handle": "hikvision-4mp-fixed-dome-network-camera",
+    "url": "/products/hikvision-4mp-fixed-dome-network-camera",
+    "qty": 752,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
    },
    {
     "brand": "Hikvision",
@@ -2133,7 +2143,7 @@
     "price": "R2 403",
     "handle": "hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
     "url": "/products/hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
-    "qty": 757,
+    "qty": 752,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LI_2.8MM_e360.jpg"
    },
    {
@@ -2217,7 +2227,7 @@
     "price": "R364",
     "handle": "hikvision-2mp-smart-hybrid-light-fixed-mini-bullet-analogue-camera",
     "url": "/products/hikvision-2mp-smart-hybrid-light-fixed-mini-bullet-analogue-camera",
-    "qty": 1806,
+    "qty": 1804,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_LPFS_3.6MM_1_3d4b.png"
    },
    {
