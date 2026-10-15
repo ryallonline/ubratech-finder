@@ -80,7 +80,7 @@
     "price": "R20 147",
     "handle": "hp-probook-4-g1ir-16-intel-core-5-120u-8gb-512gb-win-11-pro-notebook",
     "url": "/products/hp-probook-4-g1ir-16-intel-core-5-120u-8gb-512gb-win-11-pro-notebook",
-    "qty": 37,
+    "qty": 25,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/7/C78GGAT_9484.jpg"
    },
    {
@@ -144,7 +144,7 @@
     "price": "R28 332",
     "handle": "asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
     "url": "https://ubratech.co.za/products/asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
-    "qty": 24,
+    "qty": 23,
     "image": "https://www.pinnacle.co.za/media/catalog/product/V/3/V3607VH_I71610B0X__1__7ef3.png"
    },
    {
@@ -169,23 +169,23 @@
    },
    {
     "brand": "HP",
-    "title": "HP ProBook 4 G1ah 16\" Radeon 740M WUXGA Ryzen 5-220 16GB 512GB Win 11 Pro Notebook",
-    "spec": "Ryzen 5 · 16\" screen · 16GB RAM",
-    "price": "R18 258",
-    "handle": "hp-probook-4-g1ah-16-radeon-740m-wuxga-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/hp-probook-4-g1ah-16-radeon-740m-wuxga-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
-    "qty": 97,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KSAT_9f51.jpg"
+    "title": "HP ProBook 4 G1ah 14\" FHD Radeon 740M Ryzen 5-220 16GB 512GB Win 11 Pro Notebook",
+    "spec": "Ryzen 5 · 14\" screen · 16GB RAM",
+    "price": "R18 694",
+    "handle": "hp-probook-4-g1ah-14-fhd-radeon-740m-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/hp-probook-4-g1ah-14-fhd-radeon-740m-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
+    "qty": 61,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KTAT_4090.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus VivoBook S14 S3407AA 14\" OLED Ultra 7-355 16GB 512GB Win 11 Home Silver Notebook",
+    "brand": "Lenovo",
+    "title": "Lenovo Yoga 7 14\" WUXGA OLED Touch Ultra 7-355 16GB 512GB Win 11 Home 2-in-1 Notebook",
     "spec": "14\" screen · 16GB RAM",
-    "price": "R23 617",
-    "handle": "asus-vivobook-s14-s3407aa-14-oled-ultra-7-355-16gb-512gb-win-11-home-silver-notebook",
-    "url": "/products/asus-vivobook-s14-s3407aa-14-oled-ultra-7-355-16gb-512gb-win-11-home-silver-notebook",
-    "qty": 12,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/S/ASUS_Vivobook_S14_S3407AA_Product_photo_2S_Cool_Silver_03_2400x2400__1__b555.jpg"
+    "price": "R28 080",
+    "handle": "lenovo-yoga-7-14-wuxga-oled-touch-ultra-7-355-16gb-512gb-win-11-home-2-in-1-notebook",
+    "url": "/products/lenovo-yoga-7-14-wuxga-oled-touch-ultra-7-355-16gb-512gb-win-11-home-2-in-1-notebook",
+    "qty": 9,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/8/3/83TC004ESA_704b.jpg"
    },
    {
     "brand": "Dell",
@@ -570,14 +570,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPN_default.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port Connect 15.6\" Full HD Touchscreen Portable Monitor",
-    "spec": "15.6\" screen",
-    "price": "R3 285",
-    "handle": "port-connect-15-6-full-hd-touchscreen-portable-monitor",
-    "url": "/products/port-connect-15-6-full-hd-touchscreen-portable-monitor",
-    "qty": 16,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/902101T-WR-01b.jpg"
+    "brand": "Xiaomi",
+    "title": "Xiaomi G27i 2026 27″ 200Hz Full HD 1080p IPS Gaming Monitor",
+    "spec": "27\" screen",
+    "price": "R3 251",
+    "handle": "xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
+    "url": "/products/xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
+    "qty": 106,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6370EU_Xiaomi-G27i-2026-27%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -640,28 +640,28 @@
     "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 80,
+    "qty": 75,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi A27Qi 2026 27\" inch 120Hz 2K IPS Office Monitor",
+    "title": "Xiaomi G27i 2026 27″ 200Hz Full HD 1080p IPS Gaming Monitor",
     "spec": "27\" screen",
-    "price": "R3 449",
-    "handle": "xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
-    "url": "/products/xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
-    "qty": 182,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6568EU_Xiaomi-A27Qi-2026-27-inch-2K-120Hz-IPS-Office-Monitor_wr_01a.jpg"
+    "price": "R3 251",
+    "handle": "xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
+    "url": "/products/xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
+    "qty": 106,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6370EU_Xiaomi-G27i-2026-27%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
    },
    {
-    "brand": "MSI",
-    "title": "MSI MAG 325QF E18V 32\" WQHD 180Hz VA Gaming Monitor",
-    "spec": "32\" screen",
-    "price": "R6 410",
-    "handle": "msi-mag-325qf-e18v-32-wqhd-180hz-va-gaming-monitor",
-    "url": "/products/msi-mag-325qf-e18v-32-wqhd-180hz-va-gaming-monitor",
-    "qty": 4,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-325QF-E18V_MSI-MAG-325QF-E18V-32-inch-WQHD-180Hz-VA-Gaming-Monitor-Black_wr_01a.jpg"
+    "brand": "Xiaomi",
+    "title": "Xiaomi Curved Gaming Monitor G34WQi 2026",
+    "spec": "Monitors And Displays",
+    "price": "R6 899",
+    "handle": "xiaomi-curved-gaming-monitor-g34wqi-2026",
+    "url": "/products/xiaomi-curved-gaming-monitor-g34wqi-2026",
+    "qty": 136,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/ELA6562EU_Xiaomi_Curved_Gaming_Monitor_G34WQi_2026_wr_03.png"
    },
    {
     "brand": "Dell",
@@ -746,7 +746,7 @@
     "price": "R1 024",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "/products/hikvision-1000va-1kva-ups",
-    "qty": 363,
+    "qty": 360,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -800,7 +800,7 @@
     "price": "R1 024",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 363,
+    "qty": 360,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -968,7 +968,7 @@
     "price": "R2 461",
     "handle": "cudy-be11000-wi-fi7-gigabit-mesh-router",
     "url": "/products/cudy-be11000-wi-fi7-gigabit-mesh-router",
-    "qty": 32,
+    "qty": 33,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/WR11000_Cudy-BE11000-Wi-Fi7-Gigabit-Mesh-Router_wr_01.jpg"
    }
   ],
@@ -1280,14 +1280,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/900160_Port-Connect-USB-Type-C-to-4-port-USB-A-3.0-2.0-Hub_wr_01a.jpg"
    },
    {
-    "brand": "Ugreen",
-    "title": "UGREEN CM512 6-in-1 USB Type-C Docking Station",
+    "brand": "Winx",
+    "title": "WINX CONNECT MAX 11-in-1 Type-C Hub",
     "spec": "Docking Station",
-    "price": "R426",
-    "handle": "ugreen-cm512-6-in-1-usb-type-c-docking-station",
-    "url": "/products/ugreen-cm512-6-in-1-usb-type-c-docking-station",
-    "qty": 103,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM512-45000_UGREEN-CM512-6-in-1-USB-Type-C-Docking-Station-Grey_wr_01b.jpg"
+    "price": "R536",
+    "handle": "winx-connect-max-11-in-1-type-c-hub",
+    "url": "/products/winx-connect-max-11-in-1-type-c-hub",
+    "qty": 210,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/HB112-wr-01a.jpg"
    },
    {
     "brand": "Ugreen",
@@ -1338,7 +1338,7 @@
     "price": "R3 928",
     "handle": "hp-thunderbolt-4-100w-g6-docking-station",
     "url": "/products/hp-thunderbolt-4-100w-g6-docking-station",
-    "qty": 21,
+    "qty": 20,
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/X/9X472UT_1_bf9e.jpg"
    },
    {
@@ -1380,7 +1380,7 @@
     "price": "R259",
     "handle": "ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0-usb2-0",
     "url": "/products/ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0-usb2-0",
-    "qty": 121,
+    "qty": 122,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM478-15495-wr-01.jpg"
    },
    {
@@ -1579,7 +1579,7 @@
     "price": "R257",
     "handle": "ugreen-cm767-m-2-nvme-ssd-enclosure-10gbps",
     "url": "/products/ugreen-cm767-m-2-nvme-ssd-enclosure-10gbps",
-    "qty": 108,
+    "qty": 107,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM767-35267_UGreen-CM767-M.2-NVMe-SSD-Enclosure-10Gbps-%E2%80%93-Silver_wr_01a.jpg"
    },
    {
@@ -1622,7 +1622,7 @@
     "handle": "hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/HSC516U48Z1-16G_Hiksemi-Hiker-16GB-DDR5-4800MHz-Desktop-Memory_wr_01a.jpg",
-    "qty": 102
+    "qty": 127
    },
    {
     "brand": "GeIL",
@@ -1641,7 +1641,7 @@
     "price": "R452",
     "handle": "hiksemi-future-8gb-1600mhz-8gb-x-1-so-dimm-memory-module",
     "url": "/products/hiksemi-future-8gb-1600mhz-8gb-x-1-so-dimm-memory-module",
-    "qty": 66,
+    "qty": 65,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/HSC308S16Z1-8G_wr_-2.jpg"
    },
    {
@@ -1683,7 +1683,7 @@
     "price": "R1 347",
     "handle": "msi-nvidia-geforce-gt-710-2gd3h-2gb-64-bit-4x-hdmi-graphics-card",
     "url": "/products/msi-nvidia-geforce-gt-710-2gd3h-2gb-64-bit-4x-hdmi-graphics-card",
-    "qty": 129,
+    "qty": 128,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/09/GT7102GD3H4HDMI_wr_01.jpg"
    },
    {
@@ -1775,7 +1775,7 @@
     "price": "R4 658",
     "handle": "fsp-hydro-ptm-pro-atx3-0-pcie-1200w-fully-modular-power-supply",
     "url": "/products/fsp-hydro-ptm-pro-atx3-0-pcie-1200w-fully-modular-power-supply",
-    "qty": 12,
+    "qty": 17,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PPA12A1012_FSP_Hydro_PTM_Pro_ATX30PCIe_1200w_Fully__wr_01.jpg"
    }
   ]
@@ -1799,7 +1799,7 @@
     "price": "R229",
     "handle": "xiaomi-smart-temperature-and-humidity-monitor-3-mini",
     "url": "/products/xiaomi-smart-temperature-and-humidity-monitor-3-mini",
-    "qty": 31,
+    "qty": 27,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/QBH4312GL_Xiaomi-Smart-Temperature-and-Humidity-Monitor-3-Mini-White_wr_01a.jpg"
    },
    {
@@ -1937,14 +1937,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/JC553_wr_01.jpg"
    },
    {
-    "brand": "Ugreen",
-    "title": "UGREEN 130W USB-C 3-port Car Charger",
-    "spec": "3 ports",
-    "price": "R419",
-    "handle": "ugreen-130w-usb-c-3-port-car-charger",
-    "url": "/products/ugreen-130w-usb-c-3-port-car-charger",
-    "qty": 46,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/EC705-55511_UGREEN_130W_USB-C_3-port_Car_Charger_wr_01.png"
+    "brand": "TP-Link",
+    "title": "TP-Link Archer T4U AC1300 High Gain Dual Band Wi-Fi USB Adapter Router",
+    "spec": "Cables And Adapters",
+    "price": "R423",
+    "handle": "tp-link-archer-t4u-ac1300-high-gain-dual-band-wi-fi-usb-adapter-router",
+    "url": "/products/tp-link-archer-t4u-ac1300-high-gain-dual-band-wi-fi-usb-adapter-router",
+    "qty": 19,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/R/ARCHER_T4U_PLUS_1_abee.png"
    },
    {
     "brand": "HP",
@@ -2009,14 +2009,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__13__9474.png"
    },
    {
-    "brand": "Winx",
-    "title": "WINX ELITE Wireless and BT Keyboard",
+    "brand": "Redragon",
+    "title": "Redragon EISA 100 Retro RGB Wireless Mechanical Keyboard - Cream/Grey",
     "spec": "Keyboards",
-    "price": "R734",
-    "handle": "winx-elite-wireless-and-bt-keyboard",
-    "url": "/products/winx-elite-wireless-and-bt-keyboard",
-    "qty": 212,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2023/11/WX-KB104_wr_01.jpg"
+    "price": "R743",
+    "handle": "redragon-eisa-100-retro-rgb-wireless-mechanical-keyboard-cream-grey",
+    "url": "/products/redragon-eisa-100-retro-rgb-wireless-mechanical-keyboard-cream-grey",
+    "qty": 25,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/RD-K768WGR-WL_Redragon_EISA_100_Retro_RGB_Wireless_Mec_wr_01.png"
    },
    {
     "brand": "Keychron",
@@ -2086,13 +2086,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP 2.8mm Smart Hybrid Light with ColorVu Fixed Mini Bullet Network Camera",
+    "title": "Hikvision 4MP Fixed Dome Network Camera",
     "spec": "4MP",
-    "price": "R2 403",
-    "handle": "hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
-    "url": "/products/hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
-    "qty": 743,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LI_2.8MM_e360.jpg"
+    "price": "R2 353",
+    "handle": "hikvision-4mp-fixed-dome-network-camera",
+    "url": "/products/hikvision-4mp-fixed-dome-network-camera",
+    "qty": 752,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
    },
    {
     "brand": "Hikvision",
@@ -2106,13 +2106,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP AcuSense PTRZ Varifocal Dome IP Camera",
+    "title": "Hikvision 4MP Smart Hybrid ColorVu Fixed Bullet IP Camera",
     "spec": "4MP",
-    "price": "R4 212",
-    "handle": "hikvision-4mp-acusense-ptrz-varifocal-dome-ip-camera",
-    "url": "/products/hikvision-4mp-acusense-ptrz-varifocal-dome-ip-camera",
-    "qty": 17,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2746G2H_IPTRZS_2.8_12MM_c431.jpg"
+    "price": "R3 170",
+    "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-bullet-ip-camera",
+    "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-bullet-ip-camera",
+    "qty": 59,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T47G2H_LI_image_4_17d1.png"
    }
   ],
   "ip_large": [
@@ -2133,18 +2133,18 @@
     "price": "R2 403",
     "handle": "hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
     "url": "/products/hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
-    "qty": 743,
+    "qty": 742,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LI_2.8MM_e360.jpg"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Smart Hybrid ColorVu Fixed Mini Bullet IP Camera (DS-2CD2047G2H-LIU-SL-2.8MM)",
+    "title": "Hikvision 4MP ColorVu Fixed Bullet IP Camera",
     "spec": "4MP",
-    "price": "R3 162",
-    "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-mini-bullet-ip-camera-ds-2cd2047g2h-liu-sl-2-8mm",
-    "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-mini-bullet-ip-camera-ds-2cd2047g2h-liu-sl-2-8mm",
-    "qty": 46,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LIU_SL_2.8MM_1_abe9.png"
+    "price": "R3 138",
+    "handle": "hikvision-4mp-colorvu-fixed-bullet-ip-camera",
+    "url": "/products/hikvision-4mp-colorvu-fixed-bullet-ip-camera",
+    "qty": 14,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T47G2_L_6MM_1977.jpg"
    },
    {
     "brand": "Hikvision",
@@ -2165,7 +2165,7 @@
     "price": "R205",
     "handle": "hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
     "url": "/products/hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
-    "qty": 200,
+    "qty": 170,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE76D0T_EXIPF2.8MM_752e.jpg"
    },
    {
@@ -2192,7 +2192,7 @@
     "brand": "Hikvision",
     "title": "Hikvision 3K 5MP ColorVu Dual-Lens Fixed Bullet Camera",
     "spec": "5MP",
-    "price": "R1 634",
+    "price": "R1 769",
     "handle": "hikvision-3k-5mp-colorvu-dual-lens-fixed-bullet-camera",
     "url": "/products/hikvision-3k-5mp-colorvu-dual-lens-fixed-bullet-camera",
     "qty": 7,
@@ -2207,7 +2207,7 @@
     "price": "R205",
     "handle": "hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
     "url": "/products/hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
-    "qty": 200,
+    "qty": 170,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE76D0T_EXIPF2.8MM_752e.jpg"
    },
    {
@@ -2249,7 +2249,7 @@
     "price": "R205",
     "handle": "hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
     "url": "/products/hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
-    "qty": 200,
+    "qty": 170,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE76D0T_EXIPF2.8MM_752e.jpg"
    },
    {
@@ -2276,7 +2276,7 @@
     "brand": "Hikvision",
     "title": "Hikvision 3K 5MP ColorVu Dual-Lens Fixed Bullet Camera",
     "spec": "5MP",
-    "price": "R1 634",
+    "price": "R1 769",
     "handle": "hikvision-3k-5mp-colorvu-dual-lens-fixed-bullet-camera",
     "url": "/products/hikvision-3k-5mp-colorvu-dual-lens-fixed-bullet-camera",
     "qty": 7,
