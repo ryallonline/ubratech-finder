@@ -60,7 +60,7 @@
     "price": "R14 102",
     "handle": "asus-vivobook-15-x1504va-15-6-fhd-ips-core-7-150u-8gb-512gb-windows-11-home-blue-notebook",
     "url": "/products/asus-vivobook-15-x1504va-15-6-fhd-ips-core-7-150u-8gb-512gb-windows-11-home-blue-notebook",
-    "qty": 31,
+    "qty": 29,
     "image": "https://www.pinnacle.co.za/media/catalog/product/V/i/Vivobook_15_X1504VAP_Product_photo_1B_Quite_Blue_05_20db.jpg"
    },
    {
@@ -107,13 +107,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP ProBook 4 G2i AI 16in Laptop — 16GB · 512GB SSD (DS5L6ET)",
-    "spec": "512GB SSD",
-    "price": "R31 266",
-    "handle": "hp-probook-4-g2i-ai-16in-intel-core-7-350-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "url": "/products/hp-probook-4-g2i-ai-16in-intel-core-7-350-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "qty": 88,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DS5L6ET_default.png"
+    "title": "HP EliteBook 8 Flip G1i Laptop",
+    "spec": "Notebooks",
+    "price": "R31 153",
+    "handle": "hp-elitebook-8-flip-g1i-13-3-wuxga-ai-ultra-5-225u-16gb-512gb-win-11-pro-2-in-1-notebook",
+    "url": "/products/hp-elitebook-8-flip-g1i-13-3-wuxga-ai-ultra-5-225u-16gb-512gb-win-11-pro-2-in-1-notebook",
+    "qty": 9,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/D/AD3U5ET_1871.jpg"
    },
    {
     "brand": "Lenovo",
@@ -546,7 +546,7 @@
     "price": "R2 376",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 51,
+    "qty": 52,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -570,14 +570,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-E20_MSI-MAG-255F-E20-25-inch-FHD-200Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro P24 23.8\" FHD IPS Monitor",
-    "spec": "23.8\" screen",
-    "price": "R3 399",
-    "handle": "dell-pro-p24-23-8-fhd-ips-monitor",
-    "url": "/products/dell-pro-p24-23-8-fhd-ips-monitor",
-    "qty": 53,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVKM_290f.jpg"
+    "brand": "Port",
+    "title": "Port Connect 15.6\" Full HD Touchscreen Portable Monitor",
+    "spec": "15.6\" screen",
+    "price": "R3 285",
+    "handle": "port-connect-15-6-full-hd-touchscreen-portable-monitor",
+    "url": "/products/port-connect-15-6-full-hd-touchscreen-portable-monitor",
+    "qty": 16,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/902101T-WR-01b.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -634,24 +634,24 @@
   ],
   "gaming": [
    {
-    "brand": "MSI",
-    "title": "MSI MAG 255F E20 25\" FHD 200Hz Rapid IPS Gaming Monitor",
-    "spec": "25\" screen",
-    "price": "R2 461",
-    "handle": "msi-mag-255f-e20-25-fhd-200hz-rapid-ips-gaming-monitor",
-    "url": "/products/msi-mag-255f-e20-25-fhd-200hz-rapid-ips-gaming-monitor",
-    "qty": 200,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-E20_MSI-MAG-255F-E20-25-inch-FHD-200Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
+    "brand": "Dell",
+    "title": "Dell SE2426H 24\" FHD Gaming Monitor",
+    "spec": "High refresh · smooth motion",
+    "price": "R2 005",
+    "handle": "dell-se2426h-24-fhd-gaming-monitor",
+    "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
+    "qty": 136,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell 27 Plus S2725HSM 27\" FHD 144Hz Monitor (210-BSZF)",
+    "brand": "Xiaomi",
+    "title": "Xiaomi A27Qi 2026 27\" inch 120Hz 2K IPS Office Monitor",
     "spec": "27\" screen",
-    "price": "R3 555",
-    "handle": "dell-27-plus-monitor-s2725hsm-fhd-monitor-featuring-144hz-refresh-rate-built-in-speakers-and-t-v-4-star-eye-comfort-certification-resolution-refresh-rate-1920-x-1080-at-144hz-ports-2-hdmi-hdcp1-4",
-    "url": "/products/dell-27-plus-monitor-s2725hsm-fhd-monitor-featuring-144hz-refresh-rate-built-in-speakers-and-t-v-4-star-eye-comfort-certification-resolution-refresh-rate-1920-x-1080-at-144hz-ports-2-hdmi-hdcp1-4",
-    "qty": 6,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BSZF_default.jpg"
+    "price": "R3 449",
+    "handle": "xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
+    "url": "/products/xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
+    "qty": 183,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6568EU_Xiaomi-A27Qi-2026-27-inch-2K-120Hz-IPS-Office-Monitor_wr_01a.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -682,7 +682,7 @@
     "price": "R2 376",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 51,
+    "qty": 52,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -696,14 +696,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
-    "brand": "HP",
-    "title": "HP Series 3 Pro 22\" FHD Monitor",
+    "brand": "Dell",
+    "title": "Dell Pro P 22 P2226H FHD 22\" Monitor",
     "spec": "22\" screen",
-    "price": "R2 996",
-    "handle": "hp-series-3-pro-22-fhd-monitor",
-    "url": "/products/hp-series-3-pro-22-fhd-monitor",
-    "qty": 3,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5A2AA__1__b014.jpg"
+    "price": "R2 768",
+    "handle": "dell-pro-p-22-monitor-p2226h-fhd-22-in-plane-switching-ips-technology-1x-hdmi-port-1x-displayport-4x-usb-1x-usb-c-includes-power-cable-usb-and-hdmi-cable",
+    "url": "/products/dell-pro-p-22-monitor-p2226h-fhd-22-in-plane-switching-ips-technology-1x-hdmi-port-1x-displayport-4x-usb-1x-usb-c-includes-power-cable-usb-and-hdmi-cable",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BVJQ_default.jpg"
    },
    {
     "brand": "HP",
@@ -921,7 +921,7 @@
     "brand": "APC",
     "title": "APC Smart-UPS RT 10kVA 230V",
     "spec": "10kVA UPS",
-    "price": "R92 488",
+    "price": "R91 472",
     "handle": "apc-smart-ups-rt-10kva-230v",
     "url": "/products/apc-smart-ups-rt-10kva-230v",
     "qty": 5,
@@ -1266,7 +1266,7 @@
     "price": "R703",
     "handle": "dell-pro-4-in-1-usb-c-travel-hub-da225",
     "url": "https://ubratech.co.za/products/dell-pro-4-in-1-usb-c-travel-hub-da225",
-    "qty": 10,
+    "qty": 9,
     "image": "https://s3.amazonaws.com/tarsus.co.za/470-BFBN_default.png"
    },
    {
@@ -1404,7 +1404,7 @@
     "price": "R515",
     "handle": "hp-320-black-full-hd-usb-webcam",
     "url": "https://ubratech.co.za/products/hp-320-black-full-hd-usb-webcam",
-    "qty": 6,
+    "qty": 5,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/3/53X26AA_9bf9.png"
    },
    {
