@@ -540,14 +540,24 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi G27i 2026 27″ 200Hz Full HD 1080p IPS Gaming Monitor",
+    "brand": "Dell",
+    "title": "Dell Pro 24 Adjustable Stand Monitor - E2426HS 1x HDMI, 1x DP, 1x VGA",
+    "spec": "Monitors And Displays",
+    "price": "R2 435",
+    "handle": "dell-pro-24-adjustable-stand-monitor-e2426hs-1x-hdmi-1x-dp-1x-vga",
+    "url": "/products/dell-pro-24-adjustable-stand-monitor-e2426hs-1x-hdmi-1x-dp-1x-vga",
+    "qty": 3,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPM_default.png"
+   },
+   {
+    "brand": "MSI",
+    "title": "MSI MAG 275F E20 27\" FHD 200Hz Rapid IPS Gaming Monitor",
     "spec": "27\" screen",
-    "price": "R3 251",
-    "handle": "xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
-    "url": "/products/xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
-    "qty": 106,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6370EU_Xiaomi-G27i-2026-27%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
+    "price": "R3 249",
+    "handle": "msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
+    "url": "/products/msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
+    "qty": 114,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-275F-E20_MSI-MAG-275F-E20-27inch-FHD-200Hz-Gaming-Montor-wr01.jpeg"
    },
    {
     "brand": "Xiaomi",
@@ -676,14 +686,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/MB16FC_Asus_ZenScreen_16_FHD_IPS_60Hz_Portable__wr_01.png"
    },
    {
-    "brand": "HP",
-    "title": "HP Series 3 Pro 27\" FHD IPS 5ms Monitor",
+    "brand": "Xiaomi",
+    "title": "Xiaomi G27Qi 2026 27″ 2K QHD 200Hz Fast IPS Gaming Monitor",
     "spec": "27\" screen",
-    "price": "R4 634",
-    "handle": "hp-series-3-pro-27-fhd-ips-5ms-monitor",
-    "url": "/products/hp-series-3-pro-27-fhd-ips-5ms-monitor",
-    "qty": 22,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/0/B0CG8AS_da71.jpg"
+    "price": "R4 240",
+    "handle": "xiaomi-g27qi-2026-27-2k-qhd-200hz-fast-ips-gaming-monitor",
+    "url": "/products/xiaomi-g27qi-2026-27-2k-qhd-200hz-fast-ips-gaming-monitor",
+    "qty": 119,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6556EU_Xiaomi-G27Qi-2026-27-inch-2K-QHD-200Hz-IPS-Gaming-Monitor_wr_01a.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -1347,11 +1357,11 @@
     "brand": "Ugreen",
     "title": "UGREEN Revodok 5-in-1 Type-C Hub · 4K HDMI",
     "spec": "Docking Station",
-    "price": "R259",
-    "handle": "ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0-usb2-0",
-    "url": "/products/ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0-usb2-0",
-    "qty": 106,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM478-15495-wr-01.jpg"
+    "price": "R288",
+    "handle": "ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0",
+    "url": "/products/ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0",
+    "qty": 77,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM511-15596-wr-01.jpg"
    },
    {
     "brand": "Ugreen",
