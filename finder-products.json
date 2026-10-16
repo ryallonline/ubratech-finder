@@ -126,14 +126,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DS5H9ET_default.png"
    },
    {
-    "brand": "Asus",
-    "title": "Asus Zenbook 14 UX3405CA 14\" 3K OLED 120Hz Core U9-285H 16GB 1TB Win 11 Pro Notebook",
-    "spec": "14\" screen · 16GB RAM",
-    "price": "R37 776",
-    "handle": "asus-zenbook-14-ux3405ca-14-3k-oled-120hz-core-u9-285h-16gb-1tb-win-11-pro-notebook",
-    "url": "/products/asus-zenbook-14-ux3405ca-14-3k-oled-120hz-core-u9-285h-16gb-1tb-win-11-pro-notebook",
-    "qty": 47,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_14_UX3405CA_Product_photo_3B_Ponder_Blue_03_62bf.jpg"
+    "brand": "HP",
+    "title": "HP EliteBook 6 G1i 16\" AI Intel Core U7-255U 16GB 512GB LTE Win 11 Pro Notebook",
+    "spec": "16\" screen · 16GB RAM",
+    "price": "R40 336",
+    "handle": "hp-elitebook-6-g1i-16-ai-intel-core-u7-255u-16gb-512gb-lte-win-11-pro-notebook",
+    "url": "/products/hp-elitebook-6-g1i-16-ai-intel-core-u7-255u-16gb-512gb-lte-win-11-pro-notebook",
+    "qty": 19,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/K/CK8G4EA_1f3f.jpg"
    },
    {
     "brand": "Dell",
@@ -326,14 +326,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO104_QCT1250_EMEA_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP ProDesk 4 G1i AI Ultra 7-265T 16GB 512GB Win 11 Pro Mini Desktop",
+    "brand": "Dell",
+    "title": "Dell Pro Micro QCM1250 Core U5-235T 16GB 512GB Win 11 Pro Desktop",
     "spec": "16GB RAM",
-    "price": "R28 875",
-    "handle": "hp-prodesk-4-g1i-ai-ultra-7-265t-16gb-512gb-win-11-pro-mini-desktop",
-    "url": "/products/hp-prodesk-4-g1i-ai-ultra-7-265t-16gb-512gb-win-11-pro-mini-desktop",
-    "qty": 134,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/Y/BY6U6ET_5ec1.jpg"
+    "price": "R30 070",
+    "handle": "dell-pro-micro-qcm1250-core-u5-235t-16gb-512gb-win-11-pro-desktop",
+    "url": "/products/dell-pro-micro-qcm1250-core-u5-235t-16gb-512gb-win-11-pro-desktop",
+    "qty": 12,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/B/T/BTO106_QCM1250_2eba.jpg"
    },
    {
     "brand": "PCBuilder",
@@ -352,7 +352,7 @@
     "price": "R72 632",
     "handle": "dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
     "url": "/products/dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
-    "qty": 8,
+    "qty": 6,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PW516261-U7-321TB-5G_default.jpg"
    }
   ],
@@ -369,12 +369,22 @@
    },
    {
     "brand": "Dell",
+    "title": "Dell Pro Precision 7 T1 PW7T1260 Desktop PC — Core Ultra 7 · 16GB (PWT1260-U7-161TB-8GFX)",
+    "spec": "Core Ultra 7",
+    "price": "R48 616",
+    "handle": "dell-pro-precision-7-t1-pw7t1260-intel-core-ultra-7-265-30-mb-cache-20-cores-20-threads-1-8-ghz-to-5-3-ghz-65w-16gb-1-x-16gb-ddr5-up-to-5600-mt-s-1tb-m-2-2230-tlc-pcie-gen4-ssd-nvidia-a1000-8-gb",
+    "url": "/products/dell-pro-precision-7-t1-pw7t1260-intel-core-ultra-7-265-30-mb-cache-20-cores-20-threads-1-8-ghz-to-5-3-ghz-65w-16gb-1-x-16gb-ddr5-up-to-5600-mt-s-1tb-m-2-2230-tlc-pcie-gen4-ssd-nvidia-a1000-8-gb",
+    "qty": 10,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/PWT1260-U7-161TB-8GFX_default.png"
+   },
+   {
+    "brand": "Dell",
     "title": "Dell Pro Precision 5 16 PW516261 Desktop PC — Core Ultra 7 · 1TB SSD (PW516261-U7-321TB-5G)",
     "spec": "Core Ultra 7 · 1TB SSD",
     "price": "R72 632",
     "handle": "dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
     "url": "/products/dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
-    "qty": 8,
+    "qty": 6,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PW516261-U7-321TB-5G_default.jpg"
    }
   ]
@@ -512,7 +522,7 @@
     "price": "R43 361",
     "handle": "pcbuilder-ryzen-5-7600-maverick-windows-11-gaming-pc-pcb-maverick-02",
     "url": "/products/pcbuilder-ryzen-5-7600-maverick-windows-11-gaming-pc-pcb-maverick-02",
-    "qty": 11,
+    "qty": 12,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_MAVERICK_02_PCBuilder-Ryzen-5-7600-MAVERICK-Windows-11-Gaming-PC_wr_01.jpg"
    }
   ]
@@ -536,7 +546,7 @@
     "price": "R2 333",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 318,
+    "qty": 317,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -576,7 +586,7 @@
     "price": "R5 917",
     "handle": "xiaomi-a27ui-27-60hz-4k-ips-office-monitor",
     "url": "/products/xiaomi-a27ui-27-60hz-4k-ips-office-monitor",
-    "qty": 129,
+    "qty": 126,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6221EU_Xiaomi-A27Ui-27-inch-60Hz-4K-IPS-Office-Monitor_wr_01b.jpg"
    }
   ],
@@ -630,7 +640,7 @@
     "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 140,
+    "qty": 135,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -640,7 +650,7 @@
     "price": "R3 449",
     "handle": "xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
     "url": "/products/xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
-    "qty": 182,
+    "qty": 181,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6568EU_Xiaomi-A27Qi-2026-27-inch-2K-120Hz-IPS-Office-Monitor_wr_01a.jpg"
    },
    {
@@ -672,7 +682,7 @@
     "price": "R2 333",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 318,
+    "qty": 317,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -958,7 +968,7 @@
     "price": "R2 461",
     "handle": "cudy-be11000-wi-fi7-gigabit-mesh-router",
     "url": "/products/cudy-be11000-wi-fi7-gigabit-mesh-router",
-    "qty": 33,
+    "qty": 31,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/WR11000_Cudy-BE11000-Wi-Fi7-Gigabit-Mesh-Router_wr_01.jpg"
    }
   ],
@@ -1270,14 +1280,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/HB112-wr-01a.jpg"
    },
    {
-    "brand": "Targus",
-    "title": "Targus - USB-C Multi-Function DisplayPort Alt Triple Video with 85W… (DOCK430EUZ)",
+    "brand": "Ugreen",
+    "title": "UGreen 14-in-1 USB Type-C TO USB Docking Station (1x HDMI · 2x DP · RJ45)",
     "spec": "Docking Station",
-    "price": "R2 191",
-    "handle": "targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
-    "url": "/products/targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
-    "qty": 54,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK430EUZ_default.jpg"
+    "price": "R2 649",
+    "handle": "ugreen-14-in-1-usb-type-c-to-usb-docking-station-1x-hdmi-2x-dp-rj45",
+    "url": "/products/ugreen-14-in-1-usb-type-c-to-usb-docking-station-1x-hdmi-2x-dp-rj45",
+    "qty": 3,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/CM843-85489_UGreen_USB_Type-C_TO_USB2x_HDMIDPRJ45_Do_wr_01.jpg"
    },
    {
     "brand": "Dell",
@@ -1302,24 +1312,24 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900140_0708.jpg"
    },
    {
-    "brand": "Port",
-    "title": "PORT Mobile docking station 1 X 4K USB-C 9 devices 100W",
+    "brand": "Dell",
+    "title": "Dell Pro 7-in-1 USB-C Mobile Docking Station",
     "spec": "Docking Station",
-    "price": "R1 478",
-    "handle": "port-mobile-docking-station-1-x-4k-usb-c-9-devices-100w",
-    "url": "/products/port-mobile-docking-station-1-x-4k-usb-c-9-devices-100w",
-    "qty": 11,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901906V2_PORT_Mobile_docking_station_1_X_4K_USB-C_wr_01.png"
+    "price": "R1 535",
+    "handle": "dell-pro-7-in-1-usb-c-mobile-docking-station",
+    "url": "/products/dell-pro-7-in-1-usb-c-mobile-docking-station",
+    "qty": 6,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__23__d7c1.png"
    },
    {
-    "brand": "Port2",
-    "title": "PORT2 x 4K USB-C desktop docking station 11 peripherals 96W",
+    "brand": "HP",
+    "title": "HP Thunderbolt 4 100W G6 Docking Station",
     "spec": "Docking Station",
-    "price": "R4 154",
-    "handle": "port2-x-4k-usb-c-desktop-docking-station-11-peripherals-96w",
-    "url": "/products/port2-x-4k-usb-c-desktop-docking-station-11-peripherals-96w",
-    "qty": 7,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901904V2EU_PORT2_x_4K_USB-C_desktop_docking_station_wr_03.png"
+    "price": "R3 928",
+    "handle": "hp-thunderbolt-4-100w-g6-docking-station",
+    "url": "/products/hp-thunderbolt-4-100w-g6-docking-station",
+    "qty": 20,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/X/9X472UT_1_bf9e.jpg"
    },
    {
     "brand": "Dell",
@@ -1340,7 +1350,7 @@
     "price": "R120",
     "handle": "ugreen-4-in-1-usb-3-0-hub-high-speed-5gbps-data-transfer-grey",
     "url": "/products/ugreen-4-in-1-usb-3-0-hub-high-speed-5gbps-data-transfer-grey",
-    "qty": 99,
+    "qty": 106,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM219-25851-WR-01.jpg"
    },
    {
@@ -1454,13 +1464,13 @@
    },
    {
     "brand": "TP-Link",
-    "title": "TP-Link 8 Port Gigabit Smart Switch",
-    "spec": "8 ports",
-    "price": "R526",
-    "handle": "tp-link-8-port-gigabit-smart-switch",
-    "url": "/products/tp-link-8-port-gigabit-smart-switch",
-    "qty": 4,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG108E_36a3.jpg"
+    "title": "TP-Link 6 Port Unmanaged POE Desktop Switch",
+    "spec": "6 ports",
+    "price": "R492",
+    "handle": "tp-link-6-port-unmanaged-poe-desktop-switch",
+    "url": "/products/tp-link-6-port-unmanaged-poe-desktop-switch",
+    "qty": 11,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SF1006P_a8c6.png"
    },
    {
     "brand": "Huawei",
@@ -1673,7 +1683,7 @@
     "price": "R1 347",
     "handle": "msi-nvidia-geforce-gt-710-2gd3h-2gb-64-bit-4x-hdmi-graphics-card",
     "url": "/products/msi-nvidia-geforce-gt-710-2gd3h-2gb-64-bit-4x-hdmi-graphics-card",
-    "qty": 128,
+    "qty": 127,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/09/GT7102GD3H4HDMI_wr_01.jpg"
    },
    {
@@ -1789,7 +1799,7 @@
     "price": "R229",
     "handle": "xiaomi-smart-temperature-and-humidity-monitor-3-mini",
     "url": "/products/xiaomi-smart-temperature-and-humidity-monitor-3-mini",
-    "qty": 26,
+    "qty": 22,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/QBH4312GL_Xiaomi-Smart-Temperature-and-Humidity-Monitor-3-Mini-White_wr_01a.jpg"
    },
    {
@@ -1804,13 +1814,13 @@
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi Smart Camera C500 Dual (4MP, 360° PTZ, AI Detection, Night Vision)",
-    "spec": "4MP",
-    "price": "R2 045",
-    "handle": "xiaomi-smart-camera-c500-dual-4mp-360-ptz-ai-detection-night-vision",
-    "url": "/products/xiaomi-smart-camera-c500-dual-4mp-360-ptz-ai-detection-night-vision",
-    "qty": 4,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/Xiaomi-Smart-Camera-C500-Dual-Front.jpg"
+    "title": "Xiaomi Smart Standing Air Circulation Fan",
+    "spec": "Appliances",
+    "price": "R2 044",
+    "handle": "xiaomi-smart-standing-air-circulation-fan",
+    "url": "/products/xiaomi-smart-standing-air-circulation-fan",
+    "qty": 202,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/6932554413064_BHR9849EU_Front-Right.jpeg"
    },
    {
     "brand": "Xiaomi",
@@ -1865,14 +1875,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/02/RD-H376BR_wr_01.jpg"
    },
    {
-    "brand": "Nearity",
-    "title": "Nearity AW-SP100 Wireless Speakerphone",
+    "brand": "Dell",
+    "title": "Dell WH3024 Wired Headset",
     "spec": "Headsets",
-    "price": "R1 132",
-    "handle": "nearity-aw-sp100-wireless-speakerphone",
-    "url": "/products/nearity-aw-sp100-wireless-speakerphone",
-    "qty": 16,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_Design__67__28ea.png"
+    "price": "R1 093",
+    "handle": "dell-wh3024-wired-headset",
+    "url": "/products/dell-wh3024-wired-headset",
+    "qty": 39,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/5/2/520_BBDH_a863.png"
    },
    {
     "brand": "Poly",
@@ -1956,7 +1966,7 @@
     "handle": "hp-330-black-wireless-keyboard-mouse-combo",
     "url": "https://ubratech.co.za/products/hp-330-black-wireless-keyboard-mouse-combo",
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/v/2v9e6aa_keyboards_42935554637988_1000x_16e7.png",
-    "qty": 14
+    "qty": 13
    },
    {
     "brand": "Logitech",
@@ -1985,7 +1995,7 @@
     "price": "R58",
     "handle": "redragon-bm-4054-4000dpi-wireless-optical-mouse",
     "url": "/products/redragon-bm-4054-4000dpi-wireless-optical-mouse",
-    "qty": 190,
+    "qty": 183,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/RD-BM-4054_wr_01.jpg"
    },
    {
@@ -1999,14 +2009,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B2AA_dac7.jpg"
    },
    {
-    "brand": "Winx",
-    "title": "WINX ELITE Wireless and BT Keyboard",
-    "spec": "Keyboards",
-    "price": "R734",
-    "handle": "winx-elite-wireless-and-bt-keyboard",
-    "url": "/products/winx-elite-wireless-and-bt-keyboard",
-    "qty": 212,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2023/11/WX-KB104_wr_01.jpg"
+    "brand": "Port",
+    "title": "Port Executive Wireless Black Mouse",
+    "spec": "Wired Mouse",
+    "price": "R729",
+    "handle": "port-executive-wireless-black-mouse",
+    "url": "/products/port-executive-wireless-black-mouse",
+    "qty": 99,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_044c.png"
    },
    {
     "brand": "Keychron",
