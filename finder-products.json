@@ -28,7 +28,7 @@
     "price": "R8 575",
     "handle": "acer-gadget-e10-etbook-15-6-laptop-ryzen-5-3450u-8gb-ddr4-256gb-nvme-radeon-graphics-windows-11-home",
     "url": "/products/acer-gadget-e10-etbook-15-6-laptop-ryzen-5-3450u-8gb-ddr4-256gb-nvme-radeon-graphics-windows-11-home",
-    "qty": 23,
+    "qty": 22,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/HP_NBETB_004_Acer_Gadget_E10_ETBook_R3_156_Laptop_Ryz_wr_01.png"
    },
    {
@@ -112,7 +112,7 @@
     "price": "R22 162",
     "handle": "asus-vivobook-15-x1504vap-15-6-core-i7-16gb-512gb-win-11-pro-notebook",
     "url": "/products/asus-vivobook-15-x1504vap-15-6-core-i7-16gb-512gb-win-11-pro-notebook",
-    "qty": 29,
+    "qty": 28,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__85__2e2b.png"
    },
    {
@@ -238,7 +238,7 @@
     "price": "R4 922",
     "handle": "pcbuilder-cube-n100-4gb-ddr4-128gb-windows-11-home-mini-pc",
     "url": "/products/pcbuilder-cube-n100-4gb-ddr4-128gb-windows-11-home-mini-pc",
-    "qty": 24,
+    "qty": 23,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/PCB_CUBE_N100_4G_HOME_PCBuilder-CUBE-N100-4GB-DDR4-128GB-Windows-11-Home-Mini-PC_wr_01a.jpg"
    },
    {
@@ -310,7 +310,7 @@
     "price": "R21 461",
     "handle": "dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
     "url": "/products/dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
-    "qty": 95,
+    "qty": 92,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO004_QVS1260_EMEA_default.jpg"
    }
   ],
@@ -561,13 +561,13 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro 24 Adjustable Stand Monitor - E2426HS 1x HDMI, 1x DP, 1x VGA",
-    "spec": "Monitors And Displays",
-    "price": "R2 435",
-    "handle": "dell-pro-24-adjustable-stand-monitor-e2426hs-1x-hdmi-1x-dp-1x-vga",
-    "url": "/products/dell-pro-24-adjustable-stand-monitor-e2426hs-1x-hdmi-1x-dp-1x-vga",
-    "qty": 3,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPM_default.png"
+    "title": "Dell E2225HSM 21.5\" FHD VA Monitor",
+    "spec": "21.5\" screen",
+    "price": "R2 360",
+    "handle": "dell-e2225hsm-21-5-fhd-va-monitor",
+    "url": "/products/dell-e2225hsm-21-5-fhd-va-monitor",
+    "qty": 12,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDT_e6cb.jpg"
    },
    {
     "brand": "MSI",
@@ -637,10 +637,10 @@
     "brand": "Dell",
     "title": "Dell SE2426H 24\" FHD Gaming Monitor",
     "spec": "High refresh · smooth motion",
-    "price": "R2 005",
+    "price": "R2 004",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 135,
+    "qty": 165,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -1312,24 +1312,24 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900140_0708.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 7-in-1 USB-C Mobile Docking Station",
+    "brand": "Port",
+    "title": "PORT Mobile docking station 1 X 4K USB-C 9 devices 100W",
     "spec": "Docking Station",
-    "price": "R1 535",
-    "handle": "dell-pro-7-in-1-usb-c-mobile-docking-station",
-    "url": "/products/dell-pro-7-in-1-usb-c-mobile-docking-station",
-    "qty": 6,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__23__d7c1.png"
+    "price": "R1 478",
+    "handle": "port-mobile-docking-station-1-x-4k-usb-c-9-devices-100w",
+    "url": "/products/port-mobile-docking-station-1-x-4k-usb-c-9-devices-100w",
+    "qty": 11,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901906V2_PORT_Mobile_docking_station_1_X_4K_USB-C_wr_01.png"
    },
    {
-    "brand": "HP",
-    "title": "HP Thunderbolt 4 100W G6 Docking Station",
+    "brand": "Port2",
+    "title": "PORT2 x 4K USB-C desktop docking station 11 peripherals 96W",
     "spec": "Docking Station",
-    "price": "R3 928",
-    "handle": "hp-thunderbolt-4-100w-g6-docking-station",
-    "url": "/products/hp-thunderbolt-4-100w-g6-docking-station",
-    "qty": 20,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/X/9X472UT_1_bf9e.jpg"
+    "price": "R4 154",
+    "handle": "port2-x-4k-usb-c-desktop-docking-station-11-peripherals-96w",
+    "url": "/products/port2-x-4k-usb-c-desktop-docking-station-11-peripherals-96w",
+    "qty": 7,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901904V2EU_PORT2_x_4K_USB-C_desktop_docking_station_wr_03.png"
    },
    {
     "brand": "Dell",
@@ -1538,13 +1538,13 @@
    },
    {
     "brand": "Acconet",
-    "title": "Acconet 6U Unassembled Wall Mount Box",
+    "title": "Acconet 6U Unassembled Wall Mount Swing Box 450mm",
     "spec": "Flat Pack, Glass Door",
-    "price": "R1 500",
-    "handle": "acconet-6u-unassembled-wall-mount-box-ac-cab-6u450-wm",
-    "url": "/pages/acconet-6u-unassembled-wall-mount-box-ac-cab-6u450-wm",
+    "price": "R2 010",
+    "handle": "acconet-6u-unassembled-wall-mount-swing-box-450mm",
+    "url": "/pages/acconet-6u-unassembled-wall-mount-swing-box-450mm",
     "qty": 9,
-    "image": "https://miro.co.za/img/p/1/3/4/2/4/13424.jpg",
+    "image": "https://miro.co.za/img/p/1/3/4/1/6/13416.jpg",
     "enquiry": true
    },
    {
@@ -1745,7 +1745,7 @@
     "price": "R558",
     "handle": "antec-atom-v550-non-modular-power-supply",
     "url": "/products/antec-atom-v550-non-modular-power-supply",
-    "qty": 124,
+    "qty": 122,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/ATOM-V550_wr_01a.jpg"
    },
    {
@@ -1928,13 +1928,13 @@
    },
    {
     "brand": "Giada",
-    "title": "Giada JC553 VESA Wall Mounting Kit",
+    "title": "Giada Vesa Mount for F210",
     "spec": "Accessories",
     "price": "R133",
-    "handle": "giada-jc553-vesa-wall-mounting-kit",
-    "url": "/products/giada-jc553-vesa-wall-mounting-kit",
-    "qty": 4,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/JC553_wr_01.jpg"
+    "handle": "giada-vesa-mount-for-f210-f200-vm23-dn7x",
+    "url": "/products/giada-vesa-mount-for-f210-f200-vm23-dn7x",
+    "qty": 18,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2016/02/JC530_wr_01a.jpg"
    },
    {
     "brand": "Ugreen",
@@ -1995,7 +1995,7 @@
     "price": "R58",
     "handle": "redragon-bm-4054-4000dpi-wireless-optical-mouse",
     "url": "/products/redragon-bm-4054-4000dpi-wireless-optical-mouse",
-    "qty": 183,
+    "qty": 180,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/RD-BM-4054_wr_01.jpg"
    },
    {
@@ -2054,13 +2054,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Fixed Bullet Network Camera",
+    "title": "Hikvision 4MP Acusense Fixed Mini Dome IP Camera",
     "spec": "4MP",
-    "price": "R3 005",
-    "handle": "hikvision-4mp-fixed-bullet-network-camera",
-    "url": "/products/hikvision-4mp-fixed-bullet-network-camera",
-    "qty": 10,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_2.8MM_1_e9e9.png"
+    "price": "R3 126",
+    "handle": "hikvision-4mp-acusense-fixed-mini-dome-ip-camera",
+    "url": "/products/hikvision-4mp-acusense-fixed-mini-dome-ip-camera",
+    "qty": 43,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2546G2_IS2.8MM__1__a2ef.png"
    },
    {
     "brand": "Hikvision",
@@ -2096,13 +2096,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Fixed Bullet Network Camera",
+    "title": "Hikvision 4MP Acusense Fixed Mini Dome IP Camera",
     "spec": "4MP",
-    "price": "R3 005",
-    "handle": "hikvision-4mp-fixed-bullet-network-camera",
-    "url": "/products/hikvision-4mp-fixed-bullet-network-camera",
-    "qty": 10,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_2.8MM_1_e9e9.png"
+    "price": "R3 126",
+    "handle": "hikvision-4mp-acusense-fixed-mini-dome-ip-camera",
+    "url": "/products/hikvision-4mp-acusense-fixed-mini-dome-ip-camera",
+    "qty": 43,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2546G2_IS2.8MM__1__a2ef.png"
    },
    {
     "brand": "Hikvision",
@@ -2138,13 +2138,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Smart Hybrid ColorVu Fixed Mini Bullet IP Camera (DS-2CD2047G2H-LIU-SL-2.8MM)",
+    "title": "Hikvision 4MP ColorVu Fixed Bullet IP Camera",
     "spec": "4MP",
-    "price": "R3 136",
-    "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-mini-bullet-ip-camera-ds-2cd2047g2h-liu-sl-2-8mm",
-    "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-mini-bullet-ip-camera-ds-2cd2047g2h-liu-sl-2-8mm",
-    "qty": 5,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LIU_SL_2.8MM_1_abe9.png"
+    "price": "R3 138",
+    "handle": "hikvision-4mp-colorvu-fixed-bullet-ip-camera",
+    "url": "/products/hikvision-4mp-colorvu-fixed-bullet-ip-camera",
+    "qty": 11,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T47G2_L_6MM_1977.jpg"
    },
    {
     "brand": "Hikvision",
@@ -2298,46 +2298,46 @@
   },
   {
    "brand": "Grandstream",
-   "title": "Grandstream Enterprise WiFi 6 In-Wall Indoor Access Point",
-   "spec": "3 Gbps, 2x2:2 2.4G/5G, 1x GbE PoE, 2x GbE,100m coverage,256 clients, E",
-   "price": "R1 490",
-   "handle": "grandstream-enterprise-wifi-6-in-wall-indoor-access-point-gwn7661e",
-   "url": "/pages/grandstream-enterprise-wifi-6-in-wall-indoor-access-point-gwn7661e",
+   "title": "Grandstream Enterprise WiFi 5 Compact Long Range Outdoor AP",
+   "spec": "Compact outdoor Wi-Fi Access point, 2x2 Wi-Fi 5, 2x GbE, 12—24V DC-In,",
+   "price": "R1 484",
+   "handle": "grandstream-enterprise-wifi-5-compact-long-range-outdoor-ap-gwn7605clr",
+   "url": "/pages/grandstream-enterprise-wifi-5-compact-long-range-outdoor-ap-gwn7605clr",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/5/3/4/6/15346.jpg",
+   "image": "https://miro.co.za/img/p/1/8/7/1/0/18710.jpg",
    "enquiry": true
   },
   {
-   "brand": "Grandstream",
-   "title": "Grandstream Enterprise WiFi 7 In-Wall Indoor Access Point",
-   "spec": "3,6 Gbps, 2x2:2 2.4G/5G, 1x 2.5GbE PoE,175m coverage,256 clients, Embe",
-   "price": "R2 128",
-   "handle": "grandstream-enterprise-wifi-7-in-wall-indoor-access-point-gwn7670wm",
-   "url": "/pages/grandstream-enterprise-wifi-7-in-wall-indoor-access-point-gwn7670wm",
+   "brand": "MikroTik",
+   "title": "Mikrotik cAP AC XL Dual Band 1200Mbps Wi-Fi 5 Ceiling AP · MT-RBCAP-AC-XL",
+   "spec": "802.11 b/g/n/ac, 6dBi (2.4GHz) 5.5dBi (5GHz), Dual chain, PoE-in 802.3",
+   "price": "R1 997",
+   "handle": "mikrotik-cap-ac-xl-dual-band-1200mbps-wi-fi-5-ceiling-ap-mt-rbcap-ac-xl",
+   "url": "/pages/mikrotik-cap-ac-xl-dual-band-1200mbps-wi-fi-5-ceiling-ap-mt-rbcap-ac-xl",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/7/9/2/9/17929.jpg",
+   "image": "https://miro.co.za/img/p/5/7/0/2/5702.jpg",
    "enquiry": true
   },
   {
-   "brand": "Grandstream",
-   "title": "Grandstream Enterprise Outdoor WiFi 7 Long Range Access Point",
-   "spec": "Outdoor Long-Range Dual-Band Wi-Fi 7 Access Point/Bridge, 2x2:2 2.4/5G",
-   "price": "R3 075",
-   "handle": "grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
-   "url": "/pages/grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
+   "brand": "TP-Link Omada",
+   "title": "TP-Link AX6000 Indoor WiFi 6 Ceiling Mount Access Point",
+   "spec": "1×2.5 Gigabit RJ45 Port, SPEED: 1148Mbps at  2.4 GHz + 4804 Mbps at 5 ",
+   "price": "R2 879",
+   "handle": "tp-link-ax6000-indoor-wifi-6-ceiling-mount-access-point-tp-eap683ur",
+   "url": "/pages/tp-link-ax6000-indoor-wifi-6-ceiling-mount-access-point-tp-eap683ur",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/8/7/0/7/18707.jpg",
+   "image": "https://miro.co.za/img/p/1/6/9/8/5/16985.jpg",
    "enquiry": true
   },
   {
-   "brand": "Ubiquiti",
-   "title": "Ubiquiti UniFi WiFi 7 Outdoor Access Point",
-   "spec": "No PoE Injector included, 4 Spatial Streams, 250+ connected devices, 2",
-   "price": "R4 673",
-   "handle": "ubiquiti-unifi-wifi-7-outdoor-access-point-u7-outdoor",
-   "url": "/pages/ubiquiti-unifi-wifi-7-outdoor-access-point-u7-outdoor",
+   "brand": "TP-Link Omada",
+   "title": "TP-Link Omada Tri-Band Wi-Fi 7 Outdoor AP",
+   "spec": "1×2.5G RJ45 Port, 688 Mbps (2.4 GHz) + 2882 Mbps (5 GHz) + 5765 Mbps (",
+   "price": "R4 525",
+   "handle": "tp-link-omada-tri-band-wi-fi-7-outdoor-ap-eap772-o",
+   "url": "/pages/tp-link-omada-tri-band-wi-fi-7-outdoor-ap-eap772-o",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/7/1/4/0/17140.jpg",
+   "image": "https://miro.co.za/img/p/1/8/1/0/2/18102.jpg",
    "enquiry": true
   },
   {
