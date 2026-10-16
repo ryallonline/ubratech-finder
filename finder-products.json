@@ -54,24 +54,34 @@
   ],
   "mid": [
    {
-    "brand": "Asus",
-    "title": "Asus Vivobook 15 X1504VA Laptop",
-    "spec": "Notebooks",
-    "price": "R14 102",
-    "handle": "asus-vivobook-15-x1504va-15-6-fhd-ips-core-7-150u-8gb-512gb-windows-11-home-blue-notebook",
-    "url": "/products/asus-vivobook-15-x1504va-15-6-fhd-ips-core-7-150u-8gb-512gb-windows-11-home-blue-notebook",
-    "qty": 29,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/V/i/Vivobook_15_X1504VAP_Product_photo_1B_Quite_Blue_05_20db.jpg"
+    "brand": "Lenovo",
+    "title": "Lenovo V15 Laptop — Core i3 · 256GB SSD",
+    "spec": "Core i3 · 256GB SSD",
+    "price": "R13 978",
+    "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
+    "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
+    "qty": 42,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
+   },
+   {
+    "brand": "Lenovo",
+    "title": "Lenovo V15 IRU Laptop — Core i3 · 256GB SSD",
+    "spec": "Core i3 · 256GB SSD",
+    "price": "R13 978",
+    "handle": "lenovo-v15-iru-i3-1315u-8gb-base-ddr5-256gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-15-6-fhd-tn-hd-camera-wi-fi-ax-2x2-bt-no-fpr-3-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
+    "url": "/products/lenovo-v15-iru-i3-1315u-8gb-base-ddr5-256gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-15-6-fhd-tn-hd-camera-wi-fi-ax-2x2-bt-no-fpr-3-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
+    "qty": 42,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
     "brand": "Acer",
-    "title": "Acer EXO16 51 53W7 Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.EM3EA.004)",
-    "spec": "Core Ultra 5 · 512GB SSD",
-    "price": "R16 747",
-    "handle": "acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
-    "url": "/products/acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
-    "qty": 82,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.004_default.jpg"
+    "title": "Acer Go 15 Core 7 150U 16 512 Window 11 Home 15.6\" FHD IPS Slim Bezel",
+    "spec": "Core 7 · 15.6\" screen",
+    "price": "R16 369",
+    "handle": "acer-go-15-core-7-150u-16-512-window-11-home-15-6-fhd-ips-slim-bezel",
+    "url": "/products/acer-go-15-core-7-150u-16-512-window-11-home-15-6-fhd-ips-slim-bezel",
+    "qty": 14,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.JRREA.003_default.png"
    },
    {
     "brand": "HP",
@@ -174,7 +184,7 @@
     "price": "R18 694",
     "handle": "hp-probook-4-g1ah-14-fhd-radeon-740m-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
     "url": "/products/hp-probook-4-g1ah-14-fhd-radeon-740m-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
-    "qty": 61,
+    "qty": 60,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KTAT_4090.jpg"
    },
    {
@@ -280,7 +290,7 @@
     "price": "R14 289",
     "handle": "pcbuilder-cube-intel-i5-1235u-16gb-ddr4-512gb-windows-11-pro-mini-pc",
     "url": "/products/pcbuilder-cube-intel-i5-1235u-16gb-ddr4-512gb-windows-11-pro-mini-pc",
-    "qty": 16,
+    "qty": 13,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_CUBE_I516G_OFFICE_V2_OFFICE_PCBuilder-CUBE-Intel-Core-3-100U-12GB-DDR5-512GB-Windows-11-Pro-Mini-PC_wr_01.jpg"
    },
    {
@@ -408,7 +418,7 @@
     "price": "R23 169",
     "handle": "asus-tuf-gaming-a16-gaming-laptop-16-ryzen-7-260-16gb-ddr5-rtx-5050-512gb-ssd-windows-11-home-fa608uhi-716512g0w",
     "url": "/products/asus-tuf-gaming-a16-gaming-laptop-16-ryzen-7-260-16gb-ddr5-rtx-5050-512gb-ssd-windows-11-home-fa608uhi-716512g0w",
-    "qty": 32,
+    "qty": 31,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/FA608UHI-716512G0W_Asus_TUF_Gaming_A16_Gaming_Laptop_16_Ryz_wr_01.png"
    }
   ],
@@ -526,7 +536,7 @@
     "price": "R2 333",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 143,
+    "qty": 318,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -620,28 +630,28 @@
     "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 148,
+    "qty": 146,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi G27i 2026 27″ 200Hz Full HD 1080p IPS Gaming Monitor",
+    "title": "Xiaomi A27Qi 2026 27\" inch 120Hz 2K IPS Office Monitor",
     "spec": "27\" screen",
-    "price": "R3 251",
-    "handle": "xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
-    "url": "/products/xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
-    "qty": 106,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6370EU_Xiaomi-G27i-2026-27%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
+    "price": "R3 449",
+    "handle": "xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
+    "url": "/products/xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
+    "qty": 182,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6568EU_Xiaomi-A27Qi-2026-27-inch-2K-120Hz-IPS-Office-Monitor_wr_01a.jpg"
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi Curved Gaming Monitor G34WQi 2026",
-    "spec": "Monitors And Displays",
-    "price": "R6 899",
-    "handle": "xiaomi-curved-gaming-monitor-g34wqi-2026",
-    "url": "/products/xiaomi-curved-gaming-monitor-g34wqi-2026",
-    "qty": 136,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/ELA6562EU_Xiaomi_Curved_Gaming_Monitor_G34WQi_2026_wr_03.png"
+    "title": "Xiaomi G34WQi 34\" 1440p UltraWide VA Curved Gaming Monitor (180Hz, 1ms)",
+    "spec": "34\" screen",
+    "price": "R6 898",
+    "handle": "xiaomi-g34wqi-34-1440p-ultrawide-va-curved-gaming-monitor-180hz-1ms",
+    "url": "/products/xiaomi-g34wqi-34-1440p-ultrawide-va-curved-gaming-monitor-180hz-1ms",
+    "qty": 31,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/ELA5454EU_Xiaomi-G34WQi-34-inch-1440p-UltraWide-VA-Curved-Gaming-Monitor_wr_01b.jpg"
    },
    {
     "brand": "Dell",
@@ -662,7 +672,7 @@
     "price": "R2 333",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 143,
+    "qty": 318,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -726,7 +736,7 @@
     "price": "R1 024",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "/products/hikvision-1000va-1kva-ups",
-    "qty": 337,
+    "qty": 336,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -780,7 +790,7 @@
     "price": "R1 024",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 337,
+    "qty": 336,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -918,7 +928,7 @@
     "price": "R437",
     "handle": "cudy-ac1200-wi-fi-mesh-kit-1-pack",
     "url": "/products/cudy-ac1200-wi-fi-mesh-kit-1-pack",
-    "qty": 147,
+    "qty": 178,
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/06/M1200-1PACK_wr_01a.jpg"
    },
    {
@@ -1118,7 +1128,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
     "url": "https://ubratech.co.za/products/hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
-    "qty": 69,
+    "qty": 68,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    },
    {
@@ -1158,7 +1168,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
     "url": "/products/hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
-    "qty": 69,
+    "qty": 68,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    }
   ],
@@ -1370,7 +1380,7 @@
     "price": "R2 649",
     "handle": "ugreen-14-in-1-usb-type-c-to-usb-docking-station-1x-hdmi-2x-dp-rj45",
     "url": "/products/ugreen-14-in-1-usb-type-c-to-usb-docking-station-1x-hdmi-2x-dp-rj45",
-    "qty": 9,
+    "qty": 3,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/CM843-85489_UGreen_USB_Type-C_TO_USB2x_HDMIDPRJ45_Do_wr_01.jpg"
    }
   ]
@@ -1454,13 +1464,13 @@
    },
    {
     "brand": "TP-Link",
-    "title": "TP-Link 6 Port Unmanaged POE Desktop Switch",
-    "spec": "6 ports",
-    "price": "R492",
-    "handle": "tp-link-6-port-unmanaged-poe-desktop-switch",
-    "url": "/products/tp-link-6-port-unmanaged-poe-desktop-switch",
-    "qty": 13,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SF1006P_a8c6.png"
+    "title": "TP-Link 8 Port Gigabit Smart Switch",
+    "spec": "8 ports",
+    "price": "R526",
+    "handle": "tp-link-8-port-gigabit-smart-switch",
+    "url": "/products/tp-link-8-port-gigabit-smart-switch",
+    "qty": 4,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG108E_36a3.jpg"
    },
    {
     "brand": "Huawei",
@@ -1479,7 +1489,7 @@
     "price": "R13 823",
     "handle": "huawei-s310-48p4x-ekit-48-port-poe-switch",
     "url": "/products/huawei-s310-48p4x-ekit-48-port-poe-switch",
-    "qty": 18,
+    "qty": 29,
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_fcaa.png"
    },
    {
@@ -1589,7 +1599,7 @@
     "price": "R32 703",
     "handle": "hiksemi-d300-pro-tantalum-capacitor-1920gb-sata-iii-enterprise-ssd",
     "url": "/products/hiksemi-d300-pro-tantalum-capacitor-1920gb-sata-iii-enterprise-ssd",
-    "qty": 8,
+    "qty": 6,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/HS-SSD-D300-PRO-1920G_Hiksemi-D300-PRO-Tantalum-Capacitor-1920GB-SATA-III-Enterprise-SSD_wr_01a.jpg"
    }
   ],
@@ -1693,7 +1703,7 @@
     "price": "R22 614",
     "handle": "asrock-radeon-rx9070-xt-taichi-16g-oc-graphics-card",
     "url": "/products/asrock-radeon-rx9070-xt-taichi-16g-oc-graphics-card",
-    "qty": 8,
+    "qty": 13,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/ASRock_RX9070XTTAICHI16GOC_wr_01a.jpg"
    }
   ],
@@ -1725,7 +1735,7 @@
     "price": "R558",
     "handle": "antec-atom-v550-non-modular-power-supply",
     "url": "/products/antec-atom-v550-non-modular-power-supply",
-    "qty": 139,
+    "qty": 135,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/ATOM-V550_wr_01a.jpg"
    },
    {
@@ -1779,7 +1789,7 @@
     "price": "R229",
     "handle": "xiaomi-smart-temperature-and-humidity-monitor-3-mini",
     "url": "/products/xiaomi-smart-temperature-and-humidity-monitor-3-mini",
-    "qty": 27,
+    "qty": 26,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/QBH4312GL_Xiaomi-Smart-Temperature-and-Humidity-Monitor-3-Mini-White_wr_01a.jpg"
    },
    {
@@ -1794,13 +1804,13 @@
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi Smart Standing Air Circulation Fan",
-    "spec": "Appliances",
-    "price": "R2 044",
-    "handle": "xiaomi-smart-standing-air-circulation-fan",
-    "url": "/products/xiaomi-smart-standing-air-circulation-fan",
-    "qty": 202,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/6932554413064_BHR9849EU_Front-Right.jpeg"
+    "title": "Xiaomi Smart Camera C500 Dual (4MP, 360° PTZ, AI Detection, Night Vision)",
+    "spec": "4MP",
+    "price": "R2 045",
+    "handle": "xiaomi-smart-camera-c500-dual-4mp-360-ptz-ai-detection-night-vision",
+    "url": "/products/xiaomi-smart-camera-c500-dual-4mp-360-ptz-ai-detection-night-vision",
+    "qty": 4,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/Xiaomi-Smart-Camera-C500-Dual-Front.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -1917,14 +1927,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/JC553_wr_01.jpg"
    },
    {
-    "brand": "TP-Link",
-    "title": "TP-Link Archer T4U AC1300 High Gain Dual Band Wi-Fi USB Adapter Router",
-    "spec": "Cables And Adapters",
-    "price": "R423",
-    "handle": "tp-link-archer-t4u-ac1300-high-gain-dual-band-wi-fi-usb-adapter-router",
-    "url": "/products/tp-link-archer-t4u-ac1300-high-gain-dual-band-wi-fi-usb-adapter-router",
-    "qty": 19,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/R/ARCHER_T4U_PLUS_1_abee.png"
+    "brand": "Ugreen",
+    "title": "UGREEN 130W USB-C 3-port Car Charger",
+    "spec": "3 ports",
+    "price": "R419",
+    "handle": "ugreen-130w-usb-c-3-port-car-charger",
+    "url": "/products/ugreen-130w-usb-c-3-port-car-charger",
+    "qty": 46,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/EC705-55511_UGREEN_130W_USB-C_3-port_Car_Charger_wr_01.png"
    },
    {
     "brand": "HP",
@@ -1946,7 +1956,7 @@
     "handle": "hp-330-black-wireless-keyboard-mouse-combo",
     "url": "https://ubratech.co.za/products/hp-330-black-wireless-keyboard-mouse-combo",
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/v/2v9e6aa_keyboards_42935554637988_1000x_16e7.png",
-    "qty": 16
+    "qty": 14
    },
    {
     "brand": "Logitech",
@@ -1975,7 +1985,7 @@
     "price": "R58",
     "handle": "redragon-bm-4054-4000dpi-wireless-optical-mouse",
     "url": "/products/redragon-bm-4054-4000dpi-wireless-optical-mouse",
-    "qty": 200,
+    "qty": 195,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/RD-BM-4054_wr_01.jpg"
    },
    {
@@ -1989,14 +1999,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B2AA_dac7.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port Executive Wireless Black Mouse",
-    "spec": "Wired Mouse",
-    "price": "R729",
-    "handle": "port-executive-wireless-black-mouse",
-    "url": "/products/port-executive-wireless-black-mouse",
-    "qty": 99,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_044c.png"
+    "brand": "Winx",
+    "title": "WINX ELITE Wireless and BT Keyboard",
+    "spec": "Keyboards",
+    "price": "R734",
+    "handle": "winx-elite-wireless-and-bt-keyboard",
+    "url": "/products/winx-elite-wireless-and-bt-keyboard",
+    "qty": 212,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2023/11/WX-KB104_wr_01.jpg"
    },
    {
     "brand": "Keychron",
@@ -2019,7 +2029,7 @@
     "price": "R1 189",
     "handle": "hikvision-2mp-fixed-dome-ip-camera",
     "url": "/products/hikvision-2mp-fixed-dome-ip-camera",
-    "qty": 47,
+    "qty": 28,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD1123G0E_I_2.8MM_1_a66c.png"
    },
    {
@@ -2029,28 +2039,28 @@
     "price": "R2 353",
     "handle": "hikvision-4mp-fixed-dome-network-camera",
     "url": "/products/hikvision-4mp-fixed-dome-network-camera",
-    "qty": 12,
+    "qty": 752,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP 2.8mm Smart Hybrid Light ColorVu Fixed Turret Network Camera",
+    "title": "Hikvision 4MP Fixed Bullet Network Camera",
     "spec": "4MP",
-    "price": "R2 948",
-    "handle": "hikvision-4mp-2-8mm-smart-hybrid-light-colorvu-fixed-turret-network-camera",
-    "url": "/products/hikvision-4mp-2-8mm-smart-hybrid-light-colorvu-fixed-turret-network-camera",
-    "qty": 21,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2347G2H_LIU_2.8MM_9609.png"
+    "price": "R3 005",
+    "handle": "hikvision-4mp-fixed-bullet-network-camera",
+    "url": "/products/hikvision-4mp-fixed-bullet-network-camera",
+    "qty": 10,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_2.8MM_1_e9e9.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Smart Hybrid ColorVu Fixed Bullet IP Camera",
+    "title": "Hikvision 4MP Smart Hybrid ColorVu Fixed Turret IP Camera (DS-2CD2347G2H-LISU-SL-2.8MM)",
     "spec": "4MP",
-    "price": "R3 170",
-    "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-bullet-ip-camera",
-    "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-bullet-ip-camera",
-    "qty": 59,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T47G2H_LI_image_4_17d1.png"
+    "price": "R3 755",
+    "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-turret-ip-camera-ds-2cd2347g2h-lisu-sl-2-8mm",
+    "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-turret-ip-camera-ds-2cd2347g2h-lisu-sl-2-8mm",
+    "qty": 19,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2347G2H_LISU_SL_2.8MM_1_dbbf.png"
    }
   ],
   "ip_medium": [
@@ -2061,7 +2071,7 @@
     "price": "R1 189",
     "handle": "hikvision-2mp-fixed-dome-ip-camera",
     "url": "/products/hikvision-2mp-fixed-dome-ip-camera",
-    "qty": 47,
+    "qty": 28,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD1123G0E_I_2.8MM_1_a66c.png"
    },
    {
@@ -2071,28 +2081,28 @@
     "price": "R2 353",
     "handle": "hikvision-4mp-fixed-dome-network-camera",
     "url": "/products/hikvision-4mp-fixed-dome-network-camera",
-    "qty": 12,
+    "qty": 752,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Fixed Mini Bullet Network Camera",
+    "title": "Hikvision 4MP Fixed Bullet Network Camera",
     "spec": "4MP",
-    "price": "R2 978",
-    "handle": "hikvision-4mp-fixed-mini-bullet-network-camera",
-    "url": "/products/hikvision-4mp-fixed-mini-bullet-network-camera",
-    "qty": 91,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_4MM_1_306c.png"
+    "price": "R3 005",
+    "handle": "hikvision-4mp-fixed-bullet-network-camera",
+    "url": "/products/hikvision-4mp-fixed-bullet-network-camera",
+    "qty": 10,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_2.8MM_1_e9e9.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Smart Hybrid ColorVu Fixed Bullet IP Camera",
+    "title": "Hikvision 4MP Smart Hybrid ColorVu Fixed Turret IP Camera (DS-2CD2347G2H-LISU-SL-2.8MM)",
     "spec": "4MP",
-    "price": "R3 170",
-    "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-bullet-ip-camera",
-    "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-bullet-ip-camera",
-    "qty": 59,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T47G2H_LI_image_4_17d1.png"
+    "price": "R3 755",
+    "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-turret-ip-camera-ds-2cd2347g2h-lisu-sl-2-8mm",
+    "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-turret-ip-camera-ds-2cd2347g2h-lisu-sl-2-8mm",
+    "qty": 19,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2347G2H_LISU_SL_2.8MM_1_dbbf.png"
    }
   ],
   "ip_large": [
@@ -2108,23 +2118,23 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Fixed Dome Network Camera",
+    "title": "Hikvision 4MP 2.8mm Smart Hybrid Light with ColorVu Fixed Mini Bullet Network Camera",
     "spec": "4MP",
-    "price": "R2 353",
-    "handle": "hikvision-4mp-fixed-dome-network-camera",
-    "url": "/products/hikvision-4mp-fixed-dome-network-camera",
-    "qty": 12,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
+    "price": "R2 403",
+    "handle": "hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
+    "url": "/products/hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
+    "qty": 741,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LI_2.8MM_e360.jpg"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP ColorVu Fixed Bullet IP Camera",
+    "title": "Hikvision 4MP Smart Hybrid ColorVu Fixed Mini Bullet IP Camera (DS-2CD2047G2H-LIU-SL-2.8MM)",
     "spec": "4MP",
-    "price": "R3 138",
-    "handle": "hikvision-4mp-colorvu-fixed-bullet-ip-camera",
-    "url": "/products/hikvision-4mp-colorvu-fixed-bullet-ip-camera",
-    "qty": 14,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T47G2_L_6MM_1977.jpg"
+    "price": "R3 136",
+    "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-mini-bullet-ip-camera-ds-2cd2047g2h-liu-sl-2-8mm",
+    "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-mini-bullet-ip-camera-ds-2cd2047g2h-liu-sl-2-8mm",
+    "qty": 5,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LIU_SL_2.8MM_1_abe9.png"
    },
    {
     "brand": "Hikvision",
@@ -2150,19 +2160,19 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 5MP Smart Hybrid Light Audio Fixed Mini Analogue Camera",
-    "spec": "5MP",
-    "price": "R493",
-    "handle": "hikvision-5mp-smart-hybrid-light-audio-fixed-mini-analogue-camera",
-    "url": "/products/hikvision-5mp-smart-hybrid-light-audio-fixed-mini-analogue-camera",
-    "qty": 355,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16K0T_LPFS_image_2_c2f1.png"
+    "title": "Hikvision 3K 2.8mm Smart Hybrid Light Audio Indoor Fixed Turret Camera",
+    "spec": "Cctv Ip Cameras",
+    "price": "R463",
+    "handle": "hikvision-3k-2-8mm-smart-hybrid-light-audio-indoor-fixed-turret-camera",
+    "url": "/products/hikvision-3k-2-8mm-smart-hybrid-light-audio-indoor-fixed-turret-camera",
+    "qty": 104,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE76K0T_LPFS_2.8MM_1d22.jpg"
    },
    {
     "brand": "Hikvision",
     "title": "Hikvision 3K 5MP Smart Hybrid Light Audio Fixed Bullet Analogue Camera",
     "spec": "5MP",
-    "price": "R637",
+    "price": "R630",
     "handle": "hikvision-3k-5mp-smart-hybrid-light-audio-fixed-bullet-analogue-camera",
     "url": "/products/hikvision-3k-5mp-smart-hybrid-light-audio-fixed-bullet-analogue-camera",
     "qty": 14,
@@ -2192,19 +2202,19 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 2MP Smart Hybrid Light Fixed Mini Bullet Analogue Camera",
+    "title": "Hikvision 2MP Smart Hybrid Light Audio Fixed Mini Bullet Analogue Camera",
     "spec": "2MP",
-    "price": "R364",
-    "handle": "hikvision-2mp-smart-hybrid-light-fixed-mini-bullet-analogue-camera",
-    "url": "/products/hikvision-2mp-smart-hybrid-light-fixed-mini-bullet-analogue-camera",
-    "qty": 1804,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_LPFS_3.6MM_1_3d4b.png"
+    "price": "R411",
+    "handle": "hikvision-2mp-smart-hybrid-light-audio-fixed-mini-bullet-analogue-camera",
+    "url": "/products/hikvision-2mp-smart-hybrid-light-audio-fixed-mini-bullet-analogue-camera",
+    "qty": 73,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_LFS2.8MM_1_1ecc.png"
    },
    {
     "brand": "Hikvision",
     "title": "Hikvision 3K 5MP Smart Hybrid Light Audio Fixed Bullet Analogue Camera",
     "spec": "5MP",
-    "price": "R637",
+    "price": "R630",
     "handle": "hikvision-3k-5mp-smart-hybrid-light-audio-fixed-bullet-analogue-camera",
     "url": "/products/hikvision-3k-5mp-smart-hybrid-light-audio-fixed-bullet-analogue-camera",
     "qty": 14,
@@ -2212,13 +2222,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 2MP 2.8mm Two-Way Audio Fixed Mini Bullet Camera",
-    "spec": "2MP",
-    "price": "R843",
-    "handle": "hikvision-2mp-2-8mm-two-way-audio-fixed-mini-bullet-camera",
-    "url": "/products/hikvision-2mp-2-8mm-two-way-audio-fixed-mini-bullet-camera",
-    "qty": 68,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE10DF3T_LPXTS_2_8MM_5c9a.jpg"
+    "title": "Hikvision 3K ColorVu Fixed Turret Camera",
+    "spec": "Cctv Ip Cameras",
+    "price": "R1 008",
+    "handle": "hikvision-3k-colorvu-fixed-turret-camera",
+    "url": "/products/hikvision-3k-colorvu-fixed-turret-camera",
+    "qty": 49,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__38__d25a.png"
    }
   ],
   "large": [
@@ -2234,19 +2244,19 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 5MP Smart Hybrid Light Audio Fixed Mini Analogue Camera",
-    "spec": "5MP",
-    "price": "R493",
-    "handle": "hikvision-5mp-smart-hybrid-light-audio-fixed-mini-analogue-camera",
-    "url": "/products/hikvision-5mp-smart-hybrid-light-audio-fixed-mini-analogue-camera",
-    "qty": 355,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16K0T_LPFS_image_2_c2f1.png"
+    "title": "Hikvision 3K 2.8mm Smart Hybrid Light Audio Indoor Fixed Turret Camera",
+    "spec": "Cctv Ip Cameras",
+    "price": "R463",
+    "handle": "hikvision-3k-2-8mm-smart-hybrid-light-audio-indoor-fixed-turret-camera",
+    "url": "/products/hikvision-3k-2-8mm-smart-hybrid-light-audio-indoor-fixed-turret-camera",
+    "qty": 104,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE76K0T_LPFS_2.8MM_1d22.jpg"
    },
    {
     "brand": "Hikvision",
     "title": "Hikvision 3K 5MP Smart Hybrid Light Audio Fixed Bullet Analogue Camera",
     "spec": "5MP",
-    "price": "R637",
+    "price": "R630",
     "handle": "hikvision-3k-5mp-smart-hybrid-light-audio-fixed-bullet-analogue-camera",
     "url": "/products/hikvision-3k-5mp-smart-hybrid-light-audio-fixed-bullet-analogue-camera",
     "qty": 14,
