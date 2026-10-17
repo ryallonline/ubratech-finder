@@ -258,7 +258,7 @@
     "price": "R9 859",
     "handle": "pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
     "url": "/products/pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
-    "qty": 46,
+    "qty": 45,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_CUBE_I58G_HOME_V2_PCBuilder-CUBE-Intel-i5-1235U-8GB-DDR4-512GB-Windows-11-Home-Mini-PC_wr_01a.jpg"
    },
    {
@@ -294,24 +294,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_CUBE_I516G_OFFICE_V2_OFFICE_PCBuilder-CUBE-Intel-Core-3-100U-12GB-DDR5-512GB-Windows-11-Pro-Mini-PC_wr_01.jpg"
    },
    {
-    "brand": "PCBuilder",
-    "title": "PCBuilder CUBE Intel Core 3-100U 16GB DDR5 512GB Windows 11 Pro Mini PC",
-    "spec": "Core 3 · 16GB RAM",
-    "price": "R16 758",
-    "handle": "pcbuilder-cube-intel-core-3-100u-16gb-ddr5-512gb-windows-11-pro-mini-pc",
-    "url": "/products/pcbuilder-cube-intel-core-3-100u-16gb-ddr5-512gb-windows-11-pro-mini-pc",
-    "qty": 13,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/06/PCB_CUBE_100U16G_OFFICE_PCBuilder-CUBE-Intel-Core-3-100U-16GB-DDR5-512GB-Windows-11-Pro-Mini-PC_wr_01a.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro Slim Essential QVS1260: Desktop PC — Core i3 (BTO001_QVS1260_EMEA)",
+    "spec": "Core i3",
+    "price": "R17 313",
+    "handle": "dell-pro-slim-essential-qvs1260-intel-core-i3-14100-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-8gb-8gbx1-ddr5-4800mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2-802",
+    "url": "/products/dell-pro-slim-essential-qvs1260-intel-core-i3-14100-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-8gb-8gbx1-ddr5-4800mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2-802",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO001_QVS1260_EMEA_default.png"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro Slim Essential QVS1260: Desktop PC — Core i5 · 16GB (BTO004_QVS1260_EMEA)",
-    "spec": "Core i5",
-    "price": "R21 461",
-    "handle": "dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
-    "url": "/products/dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
-    "qty": 92,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO004_QVS1260_EMEA_default.jpg"
+    "brand": "PCBuilder",
+    "title": "PCBuilder Ryzen 5 5600XT PATHFINDER Windows 11 Gaming PC",
+    "spec": "Ryzen 5",
+    "price": "R21 684",
+    "handle": "pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
+    "url": "/products/pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
+    "qty": 6,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/11/PCB_PATHFINDER_01_PCBuilder-Ryzen-5-5600XT-PATHFINDER-Windows-11-Gaming-PC_wr_01c.jpg"
    }
   ],
   "high": [
@@ -412,14 +412,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer NITRO V 15 Gaming Laptop — Ryzen 5",
+    "brand": "PCBuilder",
+    "title": "PCBuilder Ryzen 5 5600XT PATHFINDER Windows 11 Gaming PC",
     "spec": "Ryzen 5",
-    "price": "R21 406",
-    "handle": "acer-nitro-v-15-gaming-laptop-15-6-amd-ryzen-5-16gb-512gb-rtx-5050-8gb-windows-11-home",
-    "url": "/products/acer-nitro-v-15-gaming-laptop-15-6-amd-ryzen-5-16gb-512gb-rtx-5050-8gb-windows-11-home",
-    "qty": 65,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NH.U3NEA.001_Acr-NITRO-V-15-Gaming-Laptop-15.6inch_wr001.jpg"
+    "price": "R21 684",
+    "handle": "pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
+    "url": "/products/pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
+    "qty": 6,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/11/PCB_PATHFINDER_01_PCBuilder-Ryzen-5-5600XT-PATHFINDER-Windows-11-Gaming-PC_wr_01c.jpg"
    },
    {
     "brand": "Asus",
@@ -781,14 +781,14 @@
     "enquiry": true
    },
    {
-    "brand": "Acconet",
-    "title": "Acconet Mini DC UPS 13200mAh with 12V 2A Power Supply",
-    "spec": "13200mAh Battery, 4 Way Cable - 1x USB, 1x 9V, 2x 12V, includes PSU-12",
-    "price": "R380",
-    "handle": "acconet-mini-dc-ups-13200mah-with-12v-2a-power-supply-ac-ups-mini-v2-kit",
-    "url": "/pages/acconet-mini-dc-ups-13200mah-with-12v-2a-power-supply-ac-ups-mini-v2-kit",
+    "brand": "UPS",
+    "title": "Acconet 2000VA/1200W Offline UPS",
+    "spec": "5-10 Minutes Run Time @ 1200W Load.",
+    "price": "R2 164",
+    "handle": "ups-acconet-2000va-1200w-offline-ups-ac-ups-2000",
+    "url": "/pages/ups-acconet-2000va-1200w-offline-ups-ac-ups-2000",
     "qty": 9,
-    "image": "https://miro.co.za/img/p/1/7/2/2/2/17222.jpg",
+    "image": "https://miro.co.za/img/p/6/2/0/6/6206.jpg",
     "enquiry": true
    }
   ],
@@ -832,6 +832,28 @@
     "url": "/products/eaton-5e-1600va-gen2-usb-iec-ups",
     "qty": 13,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
+   },
+   {
+    "brand": "UPS",
+    "title": "Acconet 1200VA/600W Offline UPS",
+    "spec": "5-10 Minutes Run Time @ 600W Load.",
+    "price": "R1 569",
+    "handle": "ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
+    "url": "/pages/ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
+    "qty": 9,
+    "image": "https://miro.co.za/img/p/6/2/0/2/6202.jpg",
+    "enquiry": true
+   },
+   {
+    "brand": "UPS",
+    "title": "Acconet 2000VA/1200W Offline UPS",
+    "spec": "5-10 Minutes Run Time @ 1200W Load.",
+    "price": "R2 164",
+    "handle": "ups-acconet-2000va-1200w-offline-ups-ac-ups-2000",
+    "url": "/pages/ups-acconet-2000va-1200w-offline-ups-ac-ups-2000",
+    "qty": 9,
+    "image": "https://miro.co.za/img/p/6/2/0/6/6206.jpg",
+    "enquiry": true
    }
   ],
   "multi": [
@@ -1418,14 +1440,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS104_wr_01.jpg"
    },
    {
-    "brand": "Logitech",
-    "title": "Logitech Headset-Zone 300-Black- BT-N/A-EMEA28i-935, dual…",
+    "brand": "Winx",
+    "title": "WINX CALL Elite AI Noise Cancelling Wireless Headset",
     "spec": "Headsets",
-    "price": "R1 423",
-    "handle": "logitech-headset-zone-300-black-bt-n-a-emea28i-935-dual-noise-cancelling-mics-20-hour-battery-multi-device-support",
-    "url": "/products/logitech-headset-zone-300-black-bt-n-a-emea28i-935-dual-noise-cancelling-mics-20-hour-battery-multi-device-support",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/981-001407_default.png"
+    "price": "R1 320",
+    "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
+    "url": "/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
+    "qty": 178,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg"
    },
    {
     "brand": "HP",
@@ -1493,14 +1515,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_fcaa.png"
    },
    {
-    "brand": "Grandstream",
-    "title": "Grandstream Enterprise 8 port Unmanaged GbE Switch",
-    "spec": "8x GbE, Plastic case, 5V/0.6A PSU",
-    "price": "R320",
-    "handle": "grandstream-enterprise-8-port-unmanaged-gbe-switch-gwn7701",
-    "url": "/pages/grandstream-enterprise-8-port-unmanaged-gbe-switch-gwn7701",
+    "brand": "Tenda",
+    "title": "Tenda 5-Port Fast Ethernet Switch",
+    "spec": "Desktop/Wall-mountable, 5-port 10/100Mbps, Plug and Play, 5v PSU inclu",
+    "price": "R95",
+    "handle": "tenda-5-port-fast-ethernet-switch-s105",
+    "url": "/pages/tenda-5-port-fast-ethernet-switch-s105",
     "qty": 9,
-    "image": "https://miro.co.za/img/p/1/2/2/1/1/12211.jpg",
+    "image": "https://miro.co.za/img/p/1/5/1/1/1511.jpg",
     "enquiry": true
    },
    {
@@ -1875,14 +1897,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/02/RD-H376BR_wr_01.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell WH3024 Wired Headset",
+    "brand": "HP",
+    "title": "HP HyperX Cloud Stinger 3 Wired Gaming Headset Black",
     "spec": "Headsets",
-    "price": "R1 093",
-    "handle": "dell-wh3024-wired-headset",
-    "url": "/products/dell-wh3024-wired-headset",
-    "qty": 39,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/5/2/520_BBDH_a863.png"
+    "price": "R1 081",
+    "handle": "hp-hyperx-cloud-stinger-3-wired-gaming-headset-black",
+    "url": "/products/hp-hyperx-cloud-stinger-3-wired-gaming-headset-black",
+    "qty": 29,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/B/S/BS1T5AA_5dbd.jpg"
    },
    {
     "brand": "Poly",
@@ -2298,46 +2320,46 @@
   },
   {
    "brand": "Grandstream",
-   "title": "Grandstream Enterprise WiFi 5 Compact Long Range Outdoor AP",
-   "spec": "Compact outdoor Wi-Fi Access point, 2x2 Wi-Fi 5, 2x GbE, 12—24V DC-In,",
-   "price": "R1 484",
-   "handle": "grandstream-enterprise-wifi-5-compact-long-range-outdoor-ap-gwn7605clr",
-   "url": "/pages/grandstream-enterprise-wifi-5-compact-long-range-outdoor-ap-gwn7605clr",
+   "title": "Grandstream Enterprise WiFi 6 In-Wall Indoor Access Point",
+   "spec": "3 Gbps, 2x2:2 2.4G/5G, 1x GbE PoE, 2x GbE,100m coverage,256 clients, E",
+   "price": "R1 490",
+   "handle": "grandstream-enterprise-wifi-6-in-wall-indoor-access-point-gwn7661e",
+   "url": "/pages/grandstream-enterprise-wifi-6-in-wall-indoor-access-point-gwn7661e",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/8/7/1/0/18710.jpg",
-   "enquiry": true
-  },
-  {
-   "brand": "MikroTik",
-   "title": "Mikrotik cAP AC XL Dual Band 1200Mbps Wi-Fi 5 Ceiling AP · MT-RBCAP-AC-XL",
-   "spec": "802.11 b/g/n/ac, 6dBi (2.4GHz) 5.5dBi (5GHz), Dual chain, PoE-in 802.3",
-   "price": "R1 997",
-   "handle": "mikrotik-cap-ac-xl-dual-band-1200mbps-wi-fi-5-ceiling-ap-mt-rbcap-ac-xl",
-   "url": "/pages/mikrotik-cap-ac-xl-dual-band-1200mbps-wi-fi-5-ceiling-ap-mt-rbcap-ac-xl",
-   "qty": 9,
-   "image": "https://miro.co.za/img/p/5/7/0/2/5702.jpg",
+   "image": "https://miro.co.za/img/p/1/5/3/4/6/15346.jpg",
    "enquiry": true
   },
   {
    "brand": "TP-Link Omada",
-   "title": "TP-Link AX6000 Indoor WiFi 6 Ceiling Mount Access Point",
-   "spec": "1×2.5 Gigabit RJ45 Port, SPEED: 1148Mbps at  2.4 GHz + 4804 Mbps at 5 ",
-   "price": "R2 879",
-   "handle": "tp-link-ax6000-indoor-wifi-6-ceiling-mount-access-point-tp-eap683ur",
-   "url": "/pages/tp-link-ax6000-indoor-wifi-6-ceiling-mount-access-point-tp-eap683ur",
+   "title": "TP-Link AX1800 Ceiling Mount Dual-Band Access Point · EAP620 HD",
+   "spec": "574Mbps at  2.4 GHz + 1201Mbps at 5GHz, 1GB LAN, 1000+ Clients,  802.3",
+   "price": "R2 138",
+   "handle": "tp-link-ax1800-ceiling-mount-dual-band-access-point-eap620-hd",
+   "url": "/pages/tp-link-ax1800-ceiling-mount-dual-band-access-point-eap620-hd",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/6/9/8/5/16985.jpg",
+   "image": "https://miro.co.za/img/p/5/4/5/6/5456.jpg",
    "enquiry": true
   },
   {
-   "brand": "TP-Link Omada",
-   "title": "TP-Link Omada Tri-Band Wi-Fi 7 Outdoor AP",
-   "spec": "1×2.5G RJ45 Port, 688 Mbps (2.4 GHz) + 2882 Mbps (5 GHz) + 5765 Mbps (",
-   "price": "R4 525",
-   "handle": "tp-link-omada-tri-band-wi-fi-7-outdoor-ap-eap772-o",
-   "url": "/pages/tp-link-omada-tri-band-wi-fi-7-outdoor-ap-eap772-o",
+   "brand": "HPE Networking Instant On",
+   "title": "HPE Networking Instant On WiFi 5 Wave 2 Indoor Access Point",
+   "spec": "Dual band, 802.11ac Wave2, 2033Mbps, PoE excl, GbE uplink port, 4x4:4 ",
+   "price": "R2 971",
+   "handle": "hpe-networking-instant-on-wifi-5-wave-2-indoor-access-point-ap15",
+   "url": "/pages/hpe-networking-instant-on-wifi-5-wave-2-indoor-access-point-ap15",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/8/1/0/2/18102.jpg",
+   "image": "https://miro.co.za/img/p/1/0/7/2/6/10726.jpg",
+   "enquiry": true
+  },
+  {
+   "brand": "Ubiquiti",
+   "title": "Ubiquiti UniFi WiFi 7 Outdoor Access Point",
+   "spec": "No PoE Injector included, 4 Spatial Streams, 250+ connected devices, 2",
+   "price": "R4 673",
+   "handle": "ubiquiti-unifi-wifi-7-outdoor-access-point-u7-outdoor",
+   "url": "/pages/ubiquiti-unifi-wifi-7-outdoor-access-point-u7-outdoor",
+   "qty": 9,
+   "image": "https://miro.co.za/img/p/1/7/1/4/0/17140.jpg",
    "enquiry": true
   },
   {
