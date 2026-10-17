@@ -84,14 +84,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/NX.JRREA.003_default.png"
    },
    {
-    "brand": "HP",
-    "title": "HP ProBook 4 G1iR 16\" Intel Core 5-120U 8GB 512GB Win 11 Pro Notebook",
-    "spec": "Core 5 · 16\" screen · 8GB RAM",
-    "price": "R20 147",
-    "handle": "hp-probook-4-g1ir-16-intel-core-5-120u-8gb-512gb-win-11-pro-notebook",
-    "url": "/products/hp-probook-4-g1ir-16-intel-core-5-120u-8gb-512gb-win-11-pro-notebook",
-    "qty": 24,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/7/C78GGAT_9484.jpg"
+    "brand": "Lenovo",
+    "title": "Lenovo Ideapad Slim 3 15.3\" WUXGA Core 7-320 16GB 512GB Win 11 Home Notebook",
+    "spec": "Core 7 · 15.3\" screen · 16GB RAM",
+    "price": "R19 563",
+    "handle": "lenovo-ideapad-slim-3-15-3-wuxga-core-7-320-16gb-512gb-win-11-home-notebook",
+    "url": "/products/lenovo-ideapad-slim-3-15-3-wuxga-core-7-320-16gb-512gb-win-11-home-notebook",
+    "qty": 94,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/8/3/83RR00CWSA_e01a.jpg"
    },
    {
     "brand": "Dell",
@@ -126,14 +126,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DS5H9ET_default.png"
    },
    {
-    "brand": "HP",
-    "title": "HP EliteBook 6 G1i 16\" AI Intel Core U7-255U 16GB 512GB LTE Win 11 Pro Notebook",
-    "spec": "16\" screen · 16GB RAM",
-    "price": "R40 336",
-    "handle": "hp-elitebook-6-g1i-16-ai-intel-core-u7-255u-16gb-512gb-lte-win-11-pro-notebook",
-    "url": "/products/hp-elitebook-6-g1i-16-ai-intel-core-u7-255u-16gb-512gb-lte-win-11-pro-notebook",
-    "qty": 19,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/K/CK8G4EA_1f3f.jpg"
+    "brand": "Asus",
+    "title": "Asus Zenbook 14 UX3405CA 14\" 3K OLED 120Hz Core U9-285H 16GB 1TB Win 11 Pro Notebook",
+    "spec": "14\" screen · 16GB RAM",
+    "price": "R37 776",
+    "handle": "asus-zenbook-14-ux3405ca-14-3k-oled-120hz-core-u9-285h-16gb-1tb-win-11-pro-notebook",
+    "url": "/products/asus-zenbook-14-ux3405ca-14-3k-oled-120hz-core-u9-285h-16gb-1tb-win-11-pro-notebook",
+    "qty": 47,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_14_UX3405CA_Product_photo_3B_Ponder_Blue_03_62bf.jpg"
    },
    {
     "brand": "Dell",
@@ -326,14 +326,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO104_QCT1250_EMEA_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro Micro QCM1250 Core U5-235T 16GB 512GB Win 11 Pro Desktop",
+    "brand": "HP",
+    "title": "HP ProDesk 4 G1i AI Ultra 7-265T 16GB 512GB Win 11 Pro Mini Desktop",
     "spec": "16GB RAM",
-    "price": "R30 070",
-    "handle": "dell-pro-micro-qcm1250-core-u5-235t-16gb-512gb-win-11-pro-desktop",
-    "url": "/products/dell-pro-micro-qcm1250-core-u5-235t-16gb-512gb-win-11-pro-desktop",
-    "qty": 12,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/T/BTO106_QCM1250_2eba.jpg"
+    "price": "R28 875",
+    "handle": "hp-prodesk-4-g1i-ai-ultra-7-265t-16gb-512gb-win-11-pro-mini-desktop",
+    "url": "/products/hp-prodesk-4-g1i-ai-ultra-7-265t-16gb-512gb-win-11-pro-mini-desktop",
+    "qty": 134,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/B/Y/BY6U6ET_5ec1.jpg"
    },
    {
     "brand": "PCBuilder",
@@ -2039,7 +2039,7 @@
     "price": "R1 189",
     "handle": "hikvision-2mp-fixed-dome-ip-camera",
     "url": "/products/hikvision-2mp-fixed-dome-ip-camera",
-    "qty": 28,
+    "qty": 47,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD1123G0E_I_2.8MM_1_a66c.png"
    },
    {
@@ -2081,7 +2081,7 @@
     "price": "R1 189",
     "handle": "hikvision-2mp-fixed-dome-ip-camera",
     "url": "/products/hikvision-2mp-fixed-dome-ip-camera",
-    "qty": 28,
+    "qty": 47,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD1123G0E_I_2.8MM_1_a66c.png"
    },
    {
