@@ -630,7 +630,7 @@
     "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 137,
+    "qty": 136,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -736,7 +736,7 @@
     "price": "R1 024",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "/products/hikvision-1000va-1kva-ups",
-    "qty": 325,
+    "qty": 324,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -790,7 +790,7 @@
     "price": "R1 024",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 325,
+    "qty": 324,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -950,7 +950,7 @@
     "price": "R437",
     "handle": "cudy-ac1200-wi-fi-mesh-kit-1-pack",
     "url": "/products/cudy-ac1200-wi-fi-mesh-kit-1-pack",
-    "qty": 178,
+    "qty": 186,
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/06/M1200-1PACK_wr_01a.jpg"
    },
    {
@@ -1288,7 +1288,7 @@
     "price": "R426",
     "handle": "ugreen-cm512-6-in-1-usb-type-c-docking-station",
     "url": "/products/ugreen-cm512-6-in-1-usb-type-c-docking-station",
-    "qty": 103,
+    "qty": 96,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM512-45000_UGREEN-CM512-6-in-1-USB-Type-C-Docking-Station-Grey_wr_01b.jpg"
    },
    {
@@ -1634,7 +1634,7 @@
     "handle": "hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/HSC516U48Z1-16G_Hiksemi-Hiker-16GB-DDR5-4800MHz-Desktop-Memory_wr_01a.jpg",
-    "qty": 127
+    "qty": 144
    },
    {
     "brand": "GeIL",
@@ -1653,7 +1653,7 @@
     "price": "R452",
     "handle": "hiksemi-future-8gb-1600mhz-8gb-x-1-so-dimm-memory-module",
     "url": "/products/hiksemi-future-8gb-1600mhz-8gb-x-1-so-dimm-memory-module",
-    "qty": 60,
+    "qty": 59,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/HSC308S16Z1-8G_wr_-2.jpg"
    },
    {
@@ -1841,7 +1841,7 @@
     "price": "R2 045",
     "handle": "xiaomi-smart-camera-c500-dual-4mp-360-ptz-ai-detection-night-vision",
     "url": "/products/xiaomi-smart-camera-c500-dual-4mp-360-ptz-ai-detection-night-vision",
-    "qty": 3,
+    "qty": 5,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/Xiaomi-Smart-Camera-C500-Dual-Front.jpg"
    },
    {
@@ -1949,24 +1949,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "Giada",
-    "title": "Giada Vesa Mount for F210",
-    "spec": "Accessories",
+    "brand": "Gizzu",
+    "title": "Gizzu 4K Type-C to DisplayPort Cable 1.8m Poly",
+    "spec": "Cables And Adapters",
     "price": "R133",
-    "handle": "giada-vesa-mount-for-f210-f200-vm23-dn7x",
-    "url": "/products/giada-vesa-mount-for-f210-f200-vm23-dn7x",
-    "qty": 16,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2016/02/JC530_wr_01a.jpg"
+    "handle": "gizzu-4k-type-c-to-displayport-cable-1-8m-poly",
+    "url": "/products/gizzu-4k-type-c-to-displayport-cable-1-8m-poly",
+    "qty": 29,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2023/08/GCPCDP18_wr_01.jpg"
    },
    {
     "brand": "Hdcvt",
-    "title": "HDCVT SWITCH HDMI 2.0 5-1",
+    "title": "HDCVT 1x4 HDMI 1.4 Splitter 4K with EDID Management",
     "spec": "Cables And Adapters",
-    "price": "R437",
-    "handle": "hdcvt-switch-hdmi-2-0-5-1",
-    "url": "/products/hdcvt-switch-hdmi-2-0-5-1",
-    "qty": 104,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2020/11/AC0224000734_wr_01a.jpg"
+    "price": "R438",
+    "handle": "hdcvt-1x4-hdmi-1-4-splitter-4k-with-edid-management",
+    "url": "/products/hdcvt-1x4-hdmi-1-4-splitter-4k-with-edid-management",
+    "qty": 167,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/05/HDC-SP914CN_wr_01.jpg"
    },
    {
     "brand": "HP",
@@ -2022,23 +2022,23 @@
    },
    {
     "brand": "HP",
-    "title": "HP 400 Quiet Wireless Black Mouse",
+    "title": "HP 235 Wireless Keyboard & Mouse Combo",
     "spec": "Wired Mouse",
-    "price": "R371",
-    "handle": "hp-400-quiet-wireless-black-mouse",
-    "url": "/products/hp-400-quiet-wireless-black-mouse",
-    "qty": 164,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B2AA_dac7.jpg"
+    "price": "R369",
+    "handle": "hp-235-wireless-keyboard-mouse-combo",
+    "url": "/products/hp-235-wireless-keyboard-mouse-combo",
+    "qty": 37,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_0ec7.png"
    },
    {
-    "brand": "Keychron",
-    "title": "Keychron CHERRY MX2A Speed Silver RGB Switch Set",
-    "spec": "Keyboards",
+    "brand": "Port",
+    "title": "Port Executive Wireless Black Mouse",
+    "spec": "Wired Mouse",
     "price": "R729",
-    "handle": "keychron-cherry-mx2a-speed-silver-rgb-switch-set",
-    "url": "/products/keychron-cherry-mx2a-speed-silver-rgb-switch-set",
-    "qty": 3,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/SILVER-7.jpg"
+    "handle": "port-executive-wireless-black-mouse",
+    "url": "/products/port-executive-wireless-black-mouse",
+    "qty": 99,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_044c.png"
    },
    {
     "brand": "Keychron",
@@ -2330,25 +2330,25 @@
    "enquiry": true
   },
   {
-   "brand": "MikroTik",
-   "title": "Mikrotik cAP AC XL Dual Band 1200Mbps Wi-Fi 5 Ceiling AP · MT-RBCAP-AC-XL",
-   "spec": "802.11 b/g/n/ac, 6dBi (2.4GHz) 5.5dBi (5GHz), Dual chain, PoE-in 802.3",
-   "price": "R1 997",
-   "handle": "mikrotik-cap-ac-xl-dual-band-1200mbps-wi-fi-5-ceiling-ap-mt-rbcap-ac-xl",
-   "url": "/pages/mikrotik-cap-ac-xl-dual-band-1200mbps-wi-fi-5-ceiling-ap-mt-rbcap-ac-xl",
+   "brand": "TP-Link Omada",
+   "title": "TP-Link Omada BE3600 Ceiling Mount Wi-Fi 7 Access Point",
+   "spec": "1×2.5G RJ45 Port, 688Mbps at 2.4 GHz + 4324 Mbps at 5 GHz, 802.3at PoE",
+   "price": "R2 056",
+   "handle": "tp-link-omada-be3600-ceiling-mount-wi-fi-7-access-point-tp-eap723",
+   "url": "/pages/tp-link-omada-be3600-ceiling-mount-wi-fi-7-access-point-tp-eap723",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/5/7/0/2/5702.jpg",
+   "image": "https://miro.co.za/img/p/1/6/9/5/7/16957.jpg",
    "enquiry": true
   },
   {
-   "brand": "HPE Networking Instant On",
-   "title": "HPE Networking Instant On WiFi 5 Wave 2 Indoor Access Point",
-   "spec": "Dual band, 802.11ac Wave2, 2033Mbps, PoE excl, GbE uplink port, 4x4:4 ",
-   "price": "R2 971",
-   "handle": "hpe-networking-instant-on-wifi-5-wave-2-indoor-access-point-ap15",
-   "url": "/pages/hpe-networking-instant-on-wifi-5-wave-2-indoor-access-point-ap15",
+   "brand": "TP-Link Omada",
+   "title": "TP-Link AX6000 Indoor WiFi 6 Ceiling Mount Access Point",
+   "spec": "1×2.5 Gigabit RJ45 Port, SPEED: 1148Mbps at  2.4 GHz + 4804 Mbps at 5 ",
+   "price": "R2 879",
+   "handle": "tp-link-ax6000-indoor-wifi-6-ceiling-mount-access-point-tp-eap683ur",
+   "url": "/pages/tp-link-ax6000-indoor-wifi-6-ceiling-mount-access-point-tp-eap683ur",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/0/7/2/6/10726.jpg",
+   "image": "https://miro.co.za/img/p/1/6/9/8/5/16985.jpg",
    "enquiry": true
   },
   {
