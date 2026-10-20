@@ -106,14 +106,14 @@
   ],
   "high": [
    {
-    "brand": "Asus",
-    "title": "Asus Vivobook 15 X1504VAP 15.6\" Core-i7 16GB 512GB Win 11 Pro Notebook",
-    "spec": "Core i7 · 15.6\" screen · 16GB RAM",
-    "price": "R22 162",
-    "handle": "asus-vivobook-15-x1504vap-15-6-core-i7-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/asus-vivobook-15-x1504vap-15-6-core-i7-16gb-512gb-win-11-pro-notebook",
-    "qty": 27,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__85__2e2b.png"
+    "brand": "HP",
+    "title": "HP ProBook 4 G1iR 14' Core-5 16GB 512GB Win 11 Pro Notebook",
+    "spec": "Core 5 · 16GB RAM",
+    "price": "R22 087",
+    "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
+    "qty": 242,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
    },
    {
     "brand": "Lenovo",
@@ -126,14 +126,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/21X8003JZA_default.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus Zenbook 14 UX3405CA 14\" 3K OLED 120Hz Core U9-285H 16GB 1TB Win 11 Pro Notebook",
-    "spec": "14\" screen · 16GB RAM",
-    "price": "R37 776",
-    "handle": "asus-zenbook-14-ux3405ca-14-3k-oled-120hz-core-u9-285h-16gb-1tb-win-11-pro-notebook",
-    "url": "/products/asus-zenbook-14-ux3405ca-14-3k-oled-120hz-core-u9-285h-16gb-1tb-win-11-pro-notebook",
-    "qty": 47,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_14_UX3405CA_Product_photo_3B_Ponder_Blue_03_62bf.jpg"
+    "brand": "Lenovo",
+    "title": "Lenovo T14 G7 PTL Laptop — Core Ultra 5 · 512GB SSD (21WN002RZA)",
+    "spec": "Core Ultra 5 · 512GB SSD",
+    "price": "R37 650",
+    "handle": "lenovo-t14-g7-ptl-u5-325-16gb-base-ddr5x-512gb-ssd-m-2-2280-tlc-g4-intel-arc-windows-11-pro-64-14-0-wuxga-ag-400nits-5m-rgb-ir-cam-intel-wi-fi-7-be211-802-11be-2x2-bt5-4-snapdragon-x12-lte-modem-4g",
+    "url": "/products/lenovo-t14-g7-ptl-u5-325-16gb-base-ddr5x-512gb-ssd-m-2-2280-tlc-g4-intel-arc-windows-11-pro-64-14-0-wuxga-ag-400nits-5m-rgb-ir-cam-intel-wi-fi-7-be211-802-11be-2x2-bt5-4-snapdragon-x12-lte-modem-4g",
+    "qty": 14,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/21WN002RZA_default.jpg"
    },
    {
     "brand": "HP",
@@ -556,7 +556,7 @@
     "price": "R1 486",
     "handle": "hikvision-18-5-borderless-fhd-monitor",
     "url": "/products/hikvision-18-5-borderless-fhd-monitor",
-    "qty": 70,
+    "qty": 15,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
@@ -682,7 +682,7 @@
     "price": "R1 486",
     "handle": "hikvision-18-5-borderless-fhd-monitor",
     "url": "/products/hikvision-18-5-borderless-fhd-monitor",
-    "qty": 70,
+    "qty": 15,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
@@ -1970,13 +1970,13 @@
    },
    {
     "brand": "Hdcvt",
-    "title": "HDCVT 1x4 HDMI 1.4 Splitter 4K with EDID Management",
+    "title": "HDCVT SWITCH HDMI 2.0 5-1",
     "spec": "Cables And Adapters",
-    "price": "R438",
-    "handle": "hdcvt-1x4-hdmi-1-4-splitter-4k-with-edid-management",
-    "url": "/products/hdcvt-1x4-hdmi-1-4-splitter-4k-with-edid-management",
-    "qty": 167,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/05/HDC-SP914CN_wr_01.jpg"
+    "price": "R437",
+    "handle": "hdcvt-switch-hdmi-2-0-5-1",
+    "url": "/products/hdcvt-switch-hdmi-2-0-5-1",
+    "qty": 104,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2020/11/AC0224000734_wr_01a.jpg"
    },
    {
     "brand": "HP",
