@@ -32,14 +32,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/HP_NBETB_004_Acer_Gadget_E10_ETBook_R3_156_Laptop_Ryz_wr_01.png"
    },
    {
-    "brand": "Acer",
-    "title": "Acer LITE 14 R3 5400U 8 512 14\" FHD IPS SLIM BEZEL Windows 11 Home",
-    "spec": "14\" screen",
-    "price": "R11 080",
-    "handle": "acer-lite-14-r3-5400u-8-512-14-fhd-ips-slim-bezel-windows-11-home",
-    "url": "/products/acer-lite-14-r3-5400u-8-512-14-fhd-ips-slim-bezel-windows-11-home",
-    "qty": 90,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.DQNEA.001_default.jpg"
+    "brand": "HP",
+    "title": "HP 250R G10 15.6\" Core 3 100U 8GB 512GB Win 11 Pro Silver Notebook",
+    "spec": "Core 3 · 15.6\" screen · 8GB RAM",
+    "price": "R11 332",
+    "handle": "hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
+    "url": "/products/hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
+    "qty": 14,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/7/C78E8AT_98d1.jpg"
    },
    {
     "brand": "Lenovo",
@@ -126,14 +126,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/21X8003JZA_default.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo T14 G7 PTL Laptop — Core Ultra 5 · 512GB SSD (21WN002RZA)",
-    "spec": "Core Ultra 5 · 512GB SSD",
-    "price": "R37 650",
-    "handle": "lenovo-t14-g7-ptl-u5-325-16gb-base-ddr5x-512gb-ssd-m-2-2280-tlc-g4-intel-arc-windows-11-pro-64-14-0-wuxga-ag-400nits-5m-rgb-ir-cam-intel-wi-fi-7-be211-802-11be-2x2-bt5-4-snapdragon-x12-lte-modem-4g",
-    "url": "/products/lenovo-t14-g7-ptl-u5-325-16gb-base-ddr5x-512gb-ssd-m-2-2280-tlc-g4-intel-arc-windows-11-pro-64-14-0-wuxga-ag-400nits-5m-rgb-ir-cam-intel-wi-fi-7-be211-802-11be-2x2-bt5-4-snapdragon-x12-lte-modem-4g",
-    "qty": 14,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/21WN002RZA_default.jpg"
+    "brand": "Asus",
+    "title": "Asus Zenbook 14 UX3405CA 14\" 3K OLED 120Hz Core U9-285H 16GB 1TB Win 11 Pro Notebook",
+    "spec": "14\" screen · 16GB RAM",
+    "price": "R37 776",
+    "handle": "asus-zenbook-14-ux3405ca-14-3k-oled-120hz-core-u9-285h-16gb-1tb-win-11-pro-notebook",
+    "url": "/products/asus-zenbook-14-ux3405ca-14-3k-oled-120hz-core-u9-285h-16gb-1tb-win-11-pro-notebook",
+    "qty": 47,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_14_UX3405CA_Product_photo_3B_Ponder_Blue_03_62bf.jpg"
    },
    {
     "brand": "HP",
@@ -332,7 +332,7 @@
     "price": "R28 875",
     "handle": "hp-prodesk-4-g1i-ai-ultra-7-265t-16gb-512gb-win-11-pro-mini-desktop",
     "url": "/products/hp-prodesk-4-g1i-ai-ultra-7-265t-16gb-512gb-win-11-pro-mini-desktop",
-    "qty": 134,
+    "qty": 133,
     "image": "https://www.pinnacle.co.za/media/catalog/product/B/Y/BY6U6ET_5ec1.jpg"
    },
    {
@@ -2031,14 +2031,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_0ec7.png"
    },
    {
-    "brand": "Port",
-    "title": "Port Executive Wireless Black Mouse",
-    "spec": "Wired Mouse",
+    "brand": "Keychron",
+    "title": "Keychron CHERRY MX2A Speed Silver RGB Switch Set",
+    "spec": "Keyboards",
     "price": "R729",
-    "handle": "port-executive-wireless-black-mouse",
-    "url": "/products/port-executive-wireless-black-mouse",
-    "qty": 99,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_044c.png"
+    "handle": "keychron-cherry-mx2a-speed-silver-rgb-switch-set",
+    "url": "/products/keychron-cherry-mx2a-speed-silver-rgb-switch-set",
+    "qty": 3,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/SILVER-7.jpg"
    },
    {
     "brand": "Keychron",
