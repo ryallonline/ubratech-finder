@@ -556,7 +556,7 @@
     "price": "R1 486",
     "handle": "hikvision-18-5-borderless-fhd-monitor",
     "url": "/products/hikvision-18-5-borderless-fhd-monitor",
-    "qty": 15,
+    "qty": 70,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
@@ -682,7 +682,7 @@
     "price": "R1 486",
     "handle": "hikvision-18-5-borderless-fhd-monitor",
     "url": "/products/hikvision-18-5-borderless-fhd-monitor",
-    "qty": 15,
+    "qty": 70,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
@@ -1584,6 +1584,16 @@
  },
  "components": {
   "storage": [
+   {
+    "brand": "Seagate",
+    "title": "Seagate IronWolf NAS 8TB 3.5\" SATA HDD",
+    "spec": "NAS-grade · always-on",
+    "price": "R6 656",
+    "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
+    "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
+    "qty": 8
+   },
    {
     "brand": "Ugreen",
     "title": "UGREEN CM767 M.2 NVMe SSD Enclosure",
