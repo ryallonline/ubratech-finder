@@ -1317,7 +1317,7 @@
     "price": "R426",
     "handle": "ugreen-cm512-6-in-1-usb-type-c-docking-station",
     "url": "/products/ugreen-cm512-6-in-1-usb-type-c-docking-station",
-    "qty": 66,
+    "qty": 67,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM512-45000_UGREEN-CM512-6-in-1-USB-Type-C-Docking-Station-Grey_wr_01b.jpg"
    },
    {
@@ -1682,7 +1682,7 @@
     "price": "R452",
     "handle": "hiksemi-future-8gb-1600mhz-8gb-x-1-so-dimm-memory-module",
     "url": "/products/hiksemi-future-8gb-1600mhz-8gb-x-1-so-dimm-memory-module",
-    "qty": 55,
+    "qty": 56,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/HSC308S16Z1-8G_wr_-2.jpg"
    },
    {
@@ -1796,7 +1796,7 @@
     "price": "R558",
     "handle": "antec-atom-v550-non-modular-power-supply",
     "url": "/products/antec-atom-v550-non-modular-power-supply",
-    "qty": 81,
+    "qty": 79,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/ATOM-V550_wr_01a.jpg"
    },
    {
@@ -1855,23 +1855,23 @@
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi Outdoor Camera CW100 Dual",
+    "title": "Xiaomi Smart Home hub 2",
     "spec": "Smart Home",
-    "price": "R1 210",
-    "handle": "xiaomi-outdoor-camera-cw100-dual",
-    "url": "/products/xiaomi-outdoor-camera-cw100-dual",
-    "qty": 5,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/BHR07UIEU_Xiaomi-Outdoor-Camera-CW100-Dual-White_wr_01a.jpg"
+    "price": "R1 166",
+    "handle": "xiaomi-smart-home-hub-2",
+    "url": "/products/xiaomi-smart-home-hub-2",
+    "qty": 19,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/12/BHR6765GL_wr_01.jpg"
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi Smart Camera C500 Dual (4MP, 360° PTZ, AI Detection, Night Vision)",
-    "spec": "4MP",
-    "price": "R2 045",
-    "handle": "xiaomi-smart-camera-c500-dual-4mp-360-ptz-ai-detection-night-vision",
-    "url": "/products/xiaomi-smart-camera-c500-dual-4mp-360-ptz-ai-detection-night-vision",
-    "qty": 5,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/Xiaomi-Smart-Camera-C500-Dual-Front.jpg"
+    "title": "Xiaomi Smart Doorbell 3S",
+    "spec": "Smart Home",
+    "price": "R2 049",
+    "handle": "xiaomi-smart-doorbell-3s",
+    "url": "/products/xiaomi-smart-doorbell-3s",
+    "qty": 49,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/11/BHR7068GL_wr_01a.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -2041,23 +2041,23 @@
    },
    {
     "brand": "HP",
-    "title": "HP 235 Wireless Keyboard & Mouse Combo",
+    "title": "HP 400 Quiet Wireless Purple Mouse",
     "spec": "Wired Mouse",
-    "price": "R369",
-    "handle": "hp-235-wireless-keyboard-mouse-combo",
-    "url": "/products/hp-235-wireless-keyboard-mouse-combo",
-    "qty": 37,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_0ec7.png"
+    "price": "R368",
+    "handle": "hp-400-quiet-wireless-purple-mouse",
+    "url": "/products/hp-400-quiet-wireless-purple-mouse",
+    "qty": 12,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B7AA_428e.jpg"
    },
    {
-    "brand": "Redragon",
-    "title": "Redragon K588 RGB Pro BROADSWORD TKL Mechanical Wired Gaming Keyboard - Black",
+    "brand": "Keychron",
+    "title": "Keychron CHERRY MX2A Speed Silver RGB Switch Set",
     "spec": "Keyboards",
-    "price": "R706",
-    "handle": "redragon-k588-rgb-pro-broadsword-tkl-mechanical-wired-gaming-keyboard-black",
-    "url": "/products/redragon-k588-rgb-pro-broadsword-tkl-mechanical-wired-gaming-keyboard-black",
-    "qty": 18,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/RD-K588RGB_Redragon-K588-RGB-Pro-BROADSWORD-TKL-Mechanical-Wired-Gaming-Keyboard-Black_wr_01a.jpg"
+    "price": "R729",
+    "handle": "keychron-cherry-mx2a-speed-silver-rgb-switch-set",
+    "url": "/products/keychron-cherry-mx2a-speed-silver-rgb-switch-set",
+    "qty": 3,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/SILVER-7.jpg"
    },
    {
     "brand": "Keychron",
