@@ -9,7 +9,7 @@
     "handle": "hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
     "url": "https://ubratech.co.za/products/hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
     "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DF6L7ET_default.jpg"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DF6L7ET%238GB_default.jpg"
    },
    {
     "brand": "Acer",
@@ -38,7 +38,7 @@
     "price": "R11 080",
     "handle": "acer-lite-14-r3-5400u-8-512-14-fhd-ips-slim-bezel-windows-11-home",
     "url": "/products/acer-lite-14-r3-5400u-8-512-14-fhd-ips-slim-bezel-windows-11-home",
-    "qty": 90,
+    "qty": 40,
     "image": "https://s3.amazonaws.com/tarsus.co.za/NX.DQNEA.001_default.jpg"
    },
    {
@@ -60,14 +60,14 @@
     "price": "R13 978",
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
-    "qty": 42,
+    "qty": 32,
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
     "brand": "Lenovo",
     "title": "Lenovo V15 Laptop — Core i5 · 512GB SSD",
     "spec": "Core i5 · 512GB SSD",
-    "price": "R18 896",
+    "price": "R17 881",
     "handle": "lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
     "qty": 90,
@@ -80,7 +80,7 @@
     "price": "R13 978",
     "handle": "lenovo-v15-iru-i3-1315u-8gb-base-ddr5-256gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-15-6-fhd-tn-hd-camera-wi-fi-ax-2x2-bt-no-fpr-3-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
     "url": "/products/lenovo-v15-iru-i3-1315u-8gb-base-ddr5-256gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-15-6-fhd-tn-hd-camera-wi-fi-ax-2x2-bt-no-fpr-3-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
-    "qty": 42,
+    "qty": 32,
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
@@ -137,13 +137,13 @@
    },
    {
     "brand": "Asus",
-    "title": "Asus Zenbook S16 UM5606GA 16\" 3K OLED 120Hz Ryzen AI 9-465 16GB 1TB Win 11 Pro Notebook",
-    "spec": "Ryzen AI 9 · 16\" screen · 16GB RAM",
-    "price": "R39 665",
-    "handle": "asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
-    "url": "/products/asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
-    "qty": 9,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_S16_UM5606GA_Product_photo_3G_Antrim_Gray_03__1__de3e.jpg"
+    "title": "Asus Zenbook 14 UX3405CA 14\" 3K OLED 120Hz Core U9-285H 16GB 1TB Win 11 Pro Notebook",
+    "spec": "14\" screen · 16GB RAM",
+    "price": "R37 776",
+    "handle": "asus-zenbook-14-ux3405ca-14-3k-oled-120hz-core-u9-285h-16gb-1tb-win-11-pro-notebook",
+    "url": "/products/asus-zenbook-14-ux3405ca-14-3k-oled-120hz-core-u9-285h-16gb-1tb-win-11-pro-notebook",
+    "qty": 47,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_14_UX3405CA_Product_photo_3B_Ponder_Blue_03_62bf.jpg"
    },
    {
     "brand": "HP",
@@ -245,7 +245,7 @@
     "brand": "Lenovo",
     "title": "Lenovo Neo 50s G6 Desktop — Core Ultra 5 · 16GB · 512GB SSD",
     "spec": "Performance desktop",
-    "price": "R21 937",
+    "price": "R20 147",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "qty": 13,
@@ -258,7 +258,7 @@
     "price": "R4 922",
     "handle": "pcbuilder-cube-n100-4gb-ddr4-128gb-windows-11-home-mini-pc",
     "url": "/products/pcbuilder-cube-n100-4gb-ddr4-128gb-windows-11-home-mini-pc",
-    "qty": 23,
+    "qty": 22,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/PCB_CUBE_N100_4G_HOME_PCBuilder-CUBE-N100-4GB-DDR4-128GB-Windows-11-Home-Mini-PC_wr_01a.jpg"
    },
    {
@@ -278,7 +278,7 @@
     "price": "R9 859",
     "handle": "pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
     "url": "/products/pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
-    "qty": 44,
+    "qty": 43,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_CUBE_I58G_HOME_V2_PCBuilder-CUBE-Intel-i5-1235U-8GB-DDR4-512GB-Windows-11-Home-Mini-PC_wr_01a.jpg"
    },
    {
@@ -297,7 +297,7 @@
     "brand": "Lenovo",
     "title": "Lenovo Neo 50s G6 Desktop — Core Ultra 5 · 16GB · 512GB SSD",
     "spec": "Performance desktop",
-    "price": "R21 937",
+    "price": "R20 147",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "qty": 13,
@@ -334,14 +334,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO001_QVS1260_EMEA_default.png"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo Neo 50s G6 Desktop PC — Core Ultra 5 · 16GB · 512GB SSD (13DM0038SA)",
-    "spec": "Core Ultra 5 · 512GB SSD",
-    "price": "R21 937",
-    "handle": "lenovo-neo-50s-g6-sff-u5-225-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-qlc-integrated-windows-11-pro-64-no-dvd-intel-ax211-2x2ax-6e-bluetooth-3-in-1-card-reader-internal-speaker-usb-clp-us-eng-usb-clp",
-    "url": "/products/lenovo-neo-50s-g6-sff-u5-225-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-qlc-integrated-windows-11-pro-64-no-dvd-intel-ax211-2x2ax-6e-bluetooth-3-in-1-card-reader-internal-speaker-usb-clp-us-eng-usb-clp",
-    "qty": 13,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
+    "brand": "PCBuilder",
+    "title": "PCBuilder Ryzen 5 5600XT PATHFINDER Windows 11 Gaming PC",
+    "spec": "Ryzen 5",
+    "price": "R21 684",
+    "handle": "pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
+    "url": "/products/pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
+    "qty": 6,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/11/PCB_PATHFINDER_01_PCBuilder-Ryzen-5-5600XT-PATHFINDER-Windows-11-Gaming-PC_wr_01c.jpg"
    }
   ],
   "high": [
@@ -382,7 +382,7 @@
     "price": "R72 632",
     "handle": "dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
     "url": "/products/dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
-    "qty": 5,
+    "qty": 45,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PW516261-U7-321TB-5G_default.jpg"
    }
   ],
@@ -401,7 +401,7 @@
     "brand": "Dell",
     "title": "Dell Pro Precision 7 T1 PW7T1260 Desktop PC — Core Ultra 7 · 16GB (PWT1260-U7-16512GB-8GFX)",
     "spec": "Core Ultra 7",
-    "price": "R44 446",
+    "price": "R46 532",
     "handle": "dell-pro-precision-7-t1-pw7t1260-intel-core-ultra-7-265-30-mb-cache-20-cores-20-threads-1-8-ghz-to-5-3-ghz-65w-16gb-1-x-16gb-ddr5-up-to-5600-mt-s-512gb-m-2-2230-tlc-pcie-gen4-ssd-nvidia-a1000-8gb",
     "url": "/products/dell-pro-precision-7-t1-pw7t1260-intel-core-ultra-7-265-30-mb-cache-20-cores-20-threads-1-8-ghz-to-5-3-ghz-65w-16gb-1-x-16gb-ddr5-up-to-5600-mt-s-512gb-m-2-2230-tlc-pcie-gen4-ssd-nvidia-a1000-8gb",
     "qty": 12,
@@ -424,7 +424,7 @@
     "price": "R72 632",
     "handle": "dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
     "url": "/products/dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
-    "qty": 5,
+    "qty": 45,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PW516261-U7-321TB-5G_default.jpg"
    }
   ]
@@ -1169,7 +1169,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
     "url": "https://ubratech.co.za/products/hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
-    "qty": 56,
+    "qty": 55,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    },
    {
@@ -1209,7 +1209,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
     "url": "/products/hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
-    "qty": 56,
+    "qty": 55,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    }
   ],
@@ -1321,14 +1321,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM512-45000_UGREEN-CM512-6-in-1-USB-Type-C-Docking-Station-Grey_wr_01b.jpg"
    },
    {
-    "brand": "Targus",
-    "title": "Targus - USB-C Multi-Function DisplayPort Alt Triple Video with 85W… (DOCK430EUZ)",
+    "brand": "Port",
+    "title": "Port Connect Multi-port USB Type-C 2x4K Office Docking Station",
     "spec": "Docking Station",
-    "price": "R2 191",
-    "handle": "targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
-    "url": "/products/targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
-    "qty": 53,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK430EUZ_default.jpg"
+    "price": "R2 769",
+    "handle": "port-connect-multi-port-usb-type-c-2x4k-office-docking-station",
+    "url": "/products/port-connect-multi-port-usb-type-c-2x4k-office-docking-station",
+    "qty": 9,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/901908V2EU_Port-Connect-Multi-port-USB-Type-C-2x4K-Office-Docking-Station-Black_wr_01a.jpg"
    },
    {
     "brand": "Dell",
@@ -1337,11 +1337,21 @@
     "price": "R8 461",
     "handle": "dell-pro-thunderbolt-5-smart-dock-sd25tb5",
     "url": "/products/dell-pro-thunderbolt-5-smart-dock-sd25tb5",
-    "qty": 4,
+    "qty": 3,
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BRFN_default.png"
    }
   ],
   "mac": [
+   {
+    "brand": "Dell",
+    "title": "Dell Pro Thunderbolt 4 Dock — WD25TB4",
+    "spec": "Thunderbolt · works with MacBook",
+    "price": "R5 303",
+    "handle": "dell-pro-thunderbolt-4-dock-wd25tb4",
+    "url": "https://ubratech.co.za/products/dell-pro-thunderbolt-4-dock-wd25tb4",
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BTHY_default.jpg",
+    "qty": 17
+   },
    {
     "brand": "Port",
     "title": "Port USB-C Mini with HDMI Docking Station",
@@ -1363,14 +1373,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901906V2_PORT_Mobile_docking_station_1_X_4K_USB-C_wr_01.png"
    },
    {
-    "brand": "Port2",
-    "title": "PORT2 x 4K USB-C desktop docking station 11 peripherals 96W",
+    "brand": "Lenovo",
+    "title": "Lenovo ThinkPad Hybrid USB-C with USB-A Dock- RSA",
     "spec": "Docking Station",
-    "price": "R4 154",
-    "handle": "port2-x-4k-usb-c-desktop-docking-station-11-peripherals-96w",
-    "url": "/products/port2-x-4k-usb-c-desktop-docking-station-11-peripherals-96w",
-    "qty": 7,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901904V2EU_PORT2_x_4K_USB-C_desktop_docking_station_wr_03.png"
+    "price": "R4 352",
+    "handle": "lenovo-thinkpad-hybrid-usb-c-with-usb-a-dock-rsa",
+    "url": "/products/lenovo-thinkpad-hybrid-usb-c-with-usb-a-dock-rsa",
+    "qty": 37,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/40AF0135SA_default.jpg"
    },
    {
     "brand": "Dell",
@@ -1379,7 +1389,7 @@
     "price": "R8 461",
     "handle": "dell-pro-thunderbolt-5-smart-dock-sd25tb5",
     "url": "/products/dell-pro-thunderbolt-5-smart-dock-sd25tb5",
-    "qty": 4,
+    "qty": 3,
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BRFN_default.png"
    }
   ],
@@ -1428,16 +1438,6 @@
  },
  "meet": {
   "desk": [
-   {
-    "brand": "HP",
-    "title": "HP 320 Full-HD USB Webcam",
-    "spec": "Full-HD webcam",
-    "price": "R515",
-    "handle": "hp-320-black-full-hd-usb-webcam",
-    "url": "https://ubratech.co.za/products/hp-320-black-full-hd-usb-webcam",
-    "qty": 3,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/5/3/53X26AA_9bf9.png"
-   },
    {
     "brand": "HP",
     "title": "HP Poly Blackwire 3220 USB-C Headset",
@@ -1603,16 +1603,6 @@
  },
  "components": {
   "storage": [
-   {
-    "brand": "Seagate",
-    "title": "Seagate IronWolf NAS 8TB 3.5\" SATA HDD",
-    "spec": "NAS-grade · always-on",
-    "price": "R6 656",
-    "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
-    "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
-    "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
-    "qty": 4
-   },
    {
     "brand": "Ugreen",
     "title": "UGREEN CM767 M.2 NVMe SSD Enclosure",
@@ -1978,14 +1968,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "Cudy",
-    "title": "Cudy AC650 WiFi Mini USB Adapter",
-    "spec": "Cables And Adapters",
+    "brand": "Port",
+    "title": "Port Comfortable Ergonomic Mouse Pad",
+    "spec": "Accessories",
     "price": "R132",
-    "handle": "cudy-ac650-wifi-mini-usb-adapter",
-    "url": "/products/cudy-ac650-wifi-mini-usb-adapter",
-    "qty": 104,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/WU650_wr_01.jpg"
+    "handle": "port-comfortable-ergonomic-mouse-pad",
+    "url": "/products/port-comfortable-ergonomic-mouse-pad",
+    "qty": 204,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900717_1_a313.png"
    },
    {
     "brand": "TP-Link",
@@ -2046,18 +2036,18 @@
     "price": "R369",
     "handle": "hp-235-wireless-keyboard-mouse-combo",
     "url": "/products/hp-235-wireless-keyboard-mouse-combo",
-    "qty": 37,
+    "qty": 47,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_0ec7.png"
    },
    {
-    "brand": "Keychron",
-    "title": "Keychron CHERRY MX2A Speed Silver RGB Switch Set",
-    "spec": "Keyboards",
+    "brand": "Port",
+    "title": "Port Executive Wireless Black Mouse",
+    "spec": "Wired Mouse",
     "price": "R729",
-    "handle": "keychron-cherry-mx2a-speed-silver-rgb-switch-set",
-    "url": "/products/keychron-cherry-mx2a-speed-silver-rgb-switch-set",
-    "qty": 3,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/SILVER-7.jpg"
+    "handle": "port-executive-wireless-black-mouse",
+    "url": "/products/port-executive-wireless-black-mouse",
+    "qty": 99,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_044c.png"
    },
    {
     "brand": "Keychron",
@@ -2080,18 +2070,18 @@
     "price": "R1 189",
     "handle": "hikvision-2mp-fixed-dome-ip-camera",
     "url": "/products/hikvision-2mp-fixed-dome-ip-camera",
-    "qty": 32,
+    "qty": 47,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD1123G0E_I_2.8MM_1_a66c.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP 2.8mm Smart Hybrid Light with ColorVu Fixed Mini Bullet Network Camera",
+    "title": "Hikvision 4MP Fixed Dome Network Camera",
     "spec": "4MP",
-    "price": "R2 403",
-    "handle": "hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
-    "url": "/products/hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
-    "qty": 727,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LI_2.8MM_e360.jpg"
+    "price": "R2 353",
+    "handle": "hikvision-4mp-fixed-dome-network-camera",
+    "url": "/products/hikvision-4mp-fixed-dome-network-camera",
+    "qty": 12,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
    },
    {
     "brand": "Hikvision",
@@ -2122,7 +2112,7 @@
     "price": "R1 189",
     "handle": "hikvision-2mp-fixed-dome-ip-camera",
     "url": "/products/hikvision-2mp-fixed-dome-ip-camera",
-    "qty": 32,
+    "qty": 47,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD1123G0E_I_2.8MM_1_a66c.png"
    },
    {
@@ -2132,18 +2122,18 @@
     "price": "R2 353",
     "handle": "hikvision-4mp-fixed-dome-network-camera",
     "url": "/products/hikvision-4mp-fixed-dome-network-camera",
-    "qty": 752,
+    "qty": 12,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Acusense Fixed Mini Dome IP Camera",
+    "title": "Hikvision 4MP Fixed Bullet Network Camera",
     "spec": "4MP",
-    "price": "R3 126",
-    "handle": "hikvision-4mp-acusense-fixed-mini-dome-ip-camera",
-    "url": "/products/hikvision-4mp-acusense-fixed-mini-dome-ip-camera",
-    "qty": 43,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2546G2_IS2.8MM__1__a2ef.png"
+    "price": "R3 005",
+    "handle": "hikvision-4mp-fixed-bullet-network-camera",
+    "url": "/products/hikvision-4mp-fixed-bullet-network-camera",
+    "qty": 10,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_2.8MM_1_e9e9.png"
    },
    {
     "brand": "Hikvision",
@@ -2169,13 +2159,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Acusense Bullet IP Camera (DS-2CD2T46G2-4I-6MM)",
+    "title": "Hikvision 4MP 2.8mm Smart Hybrid Light with ColorVu Fixed Mini Bullet Network Camera",
     "spec": "4MP",
-    "price": "R2 916",
-    "handle": "hikvision-4mp-acusense-bullet-ip-camera-ds-2cd2t46g2-4i-6mm",
-    "url": "/products/hikvision-4mp-acusense-bullet-ip-camera-ds-2cd2t46g2-4i-6mm",
-    "qty": 27,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2_4I_6MM_ff4a.jpg"
+    "price": "R2 403",
+    "handle": "hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
+    "url": "/products/hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
+    "qty": 727,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LI_2.8MM_e360.jpg"
    },
    {
     "brand": "Hikvision",
@@ -2216,7 +2206,7 @@
     "price": "R411",
     "handle": "hikvision-2mp-smart-hybrid-light-audio-fixed-mini-bullet-analogue-camera",
     "url": "/products/hikvision-2mp-smart-hybrid-light-audio-fixed-mini-bullet-analogue-camera",
-    "qty": 73,
+    "qty": 71,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_LFS2.8MM_1_1ecc.png"
    },
    {
@@ -2258,7 +2248,7 @@
     "price": "R411",
     "handle": "hikvision-2mp-smart-hybrid-light-audio-fixed-mini-bullet-analogue-camera",
     "url": "/products/hikvision-2mp-smart-hybrid-light-audio-fixed-mini-bullet-analogue-camera",
-    "qty": 73,
+    "qty": 71,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_LFS2.8MM_1_1ecc.png"
    },
    {
@@ -2300,7 +2290,7 @@
     "price": "R411",
     "handle": "hikvision-2mp-smart-hybrid-light-audio-fixed-mini-bullet-analogue-camera",
     "url": "/products/hikvision-2mp-smart-hybrid-light-audio-fixed-mini-bullet-analogue-camera",
-    "qty": 73,
+    "qty": 71,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_LFS2.8MM_1_1ecc.png"
    },
    {
