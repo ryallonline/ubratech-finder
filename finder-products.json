@@ -32,14 +32,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/HP_NBETB_004_Acer_Gadget_E10_ETBook_R3_156_Laptop_Ryz_wr_01.png"
    },
    {
-    "brand": "HP",
-    "title": "HP 250R G10 15.6\" Core 3 100U 8GB 512GB Win 11 Pro Silver Notebook",
-    "spec": "Core 3 · 15.6\" screen · 8GB RAM",
-    "price": "R11 332",
-    "handle": "hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
-    "url": "/products/hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
-    "qty": 14,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/7/C78E8AT_98d1.jpg"
+    "brand": "Acer",
+    "title": "Acer LITE 14 R3 5400U 8 512 14\" FHD IPS SLIM BEZEL Windows 11 Home",
+    "spec": "14\" screen",
+    "price": "R11 080",
+    "handle": "acer-lite-14-r3-5400u-8-512-14-fhd-ips-slim-bezel-windows-11-home",
+    "url": "/products/acer-lite-14-r3-5400u-8-512-14-fhd-ips-slim-bezel-windows-11-home",
+    "qty": 90,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.DQNEA.001_default.jpg"
    },
    {
     "brand": "Lenovo",
@@ -127,13 +127,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP ProBook 4 G2i AI 16in Laptop — 16GB · 512GB SSD (DS5L6ET)",
+    "title": "HP ProBook 4 G2i AI 14in Laptop — 16GB · 512GB SSD (DS5H9ET)",
     "spec": "512GB SSD",
-    "price": "R31 266",
-    "handle": "hp-probook-4-g2i-ai-16in-intel-core-7-350-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "url": "/products/hp-probook-4-g2i-ai-16in-intel-core-7-350-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "qty": 86,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DS5L6ET_default.png"
+    "price": "R31 379",
+    "handle": "hp-probook-4-g2i-ai-14in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "url": "/products/hp-probook-4-g2i-ai-14in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "qty": 23,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DS5H9ET_default.png"
    },
    {
     "brand": "Asus",
@@ -1611,7 +1611,7 @@
     "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
-    "qty": 5
+    "qty": 4
    },
    {
     "brand": "Ugreen",
@@ -1978,14 +1978,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "Port",
-    "title": "Port Comfortable Ergonomic Mouse Pad",
-    "spec": "Accessories",
+    "brand": "Cudy",
+    "title": "Cudy AC650 WiFi Mini USB Adapter",
+    "spec": "Cables And Adapters",
     "price": "R132",
-    "handle": "port-comfortable-ergonomic-mouse-pad",
-    "url": "/products/port-comfortable-ergonomic-mouse-pad",
-    "qty": 204,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900717_1_a313.png"
+    "handle": "cudy-ac650-wifi-mini-usb-adapter",
+    "url": "/products/cudy-ac650-wifi-mini-usb-adapter",
+    "qty": 104,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/WU650_wr_01.jpg"
    },
    {
     "brand": "TP-Link",
