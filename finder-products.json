@@ -32,14 +32,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/HP_NBETB_004_Acer_Gadget_E10_ETBook_R3_156_Laptop_Ryz_wr_01.png"
    },
    {
-    "brand": "Acer",
-    "title": "Acer LITE 14 R3 5400U 8 512 14\" FHD IPS SLIM BEZEL Windows 11 Home",
-    "spec": "14\" screen",
-    "price": "R11 080",
-    "handle": "acer-lite-14-r3-5400u-8-512-14-fhd-ips-slim-bezel-windows-11-home",
-    "url": "/products/acer-lite-14-r3-5400u-8-512-14-fhd-ips-slim-bezel-windows-11-home",
-    "qty": 40,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.DQNEA.001_default.jpg"
+    "brand": "HP",
+    "title": "HP 250R G10 15.6\" Core 3 100U 8GB 512GB Win 11 Pro Silver Notebook",
+    "spec": "Core 3 · 15.6\" screen · 8GB RAM",
+    "price": "R11 332",
+    "handle": "hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
+    "url": "/products/hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
+    "qty": 13,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/7/C78E8AT_98d1.jpg"
    },
    {
     "brand": "Lenovo",
@@ -85,23 +85,23 @@
    },
    {
     "brand": "Acer",
-    "title": "Acer EXO16 51 53W7 Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.EM3EA.004)",
+    "title": "Acer EXO14 72 51AG Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.ELVEA.001)",
     "spec": "Core Ultra 5 · 512GB SSD",
-    "price": "R16 747",
-    "handle": "acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
-    "url": "/products/acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
-    "qty": 82,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.004_default.jpg"
+    "price": "R17 628",
+    "handle": "acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
+    "url": "/products/acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
+    "qty": 63,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.ELVEA.001_default.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo Ideapad Slim 3 15.3\" WUXGA Core 7-320 16GB 512GB Win 11 Home Notebook",
-    "spec": "Core 7 · 15.3\" screen · 16GB RAM",
-    "price": "R19 563",
-    "handle": "lenovo-ideapad-slim-3-15-3-wuxga-core-7-320-16gb-512gb-win-11-home-notebook",
-    "url": "/products/lenovo-ideapad-slim-3-15-3-wuxga-core-7-320-16gb-512gb-win-11-home-notebook",
-    "qty": 94,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/8/3/83RR00CWSA_e01a.jpg"
+    "brand": "HP",
+    "title": "HP ProBook 4 NB G1iR 5 120U Laptop — 512GB SSD (C38KXAT)",
+    "spec": "512GB SSD",
+    "price": "R20 021",
+    "handle": "hp-probook-4-nb-g1ir-5-120u-14-0-wuxga-uwva-300-fhdc-60hz-bnt-panel-8gb-1d-ddr5-5600-cr-sodimm-memory-512gb-pcie-nvme-value-windows-11-pro-64-1-year-warranty-dual-arymic-f-usb2-nfovcamera-clickpad",
+    "url": "/products/hp-probook-4-nb-g1ir-5-120u-14-0-wuxga-uwva-300-fhdc-60hz-bnt-panel-8gb-1d-ddr5-5600-cr-sodimm-memory-512gb-pcie-nvme-value-windows-11-pro-64-1-year-warranty-dual-arymic-f-usb2-nfovcamera-clickpad",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/C38KXAT_default.png"
    },
    {
     "brand": "Dell",
@@ -242,16 +242,6 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO001_QVS1260_EMEA_default.png"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo Neo 50s G6 Desktop — Core Ultra 5 · 16GB · 512GB SSD",
-    "spec": "Performance desktop",
-    "price": "R20 147",
-    "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 13,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
-   },
-   {
     "brand": "PCBuilder",
     "title": "PCBuilder CUBE-N100 4GB DDR4 128GB Windows 11 Home Mini PC",
     "spec": "4GB RAM",
@@ -294,16 +284,6 @@
   ],
   "mid": [
    {
-    "brand": "Lenovo",
-    "title": "Lenovo Neo 50s G6 Desktop — Core Ultra 5 · 16GB · 512GB SSD",
-    "spec": "Performance desktop",
-    "price": "R20 147",
-    "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 13,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
-   },
-   {
     "brand": "PCBuilder",
     "title": "PCBuilder Intel i5-12400 HOME MASTER Windows 11 Desktop PC",
     "spec": "Desktops",
@@ -315,23 +295,23 @@
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder Ryzen 5 8600G WARDEN Windows 11 Gaming PC",
-    "spec": "Ryzen 5",
-    "price": "R15 763",
-    "handle": "pcbuilder-ryzen-5-8600g-warden-windows-11-gaming-pc",
-    "url": "/products/pcbuilder-ryzen-5-8600g-warden-windows-11-gaming-pc",
-    "qty": 6,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_WARDEN_02_PCBuilder-Ryzen-5-8600G-WARDEN-Windows-11-Gaming-PC_wr_01a.jpg"
+    "title": "PCBuilder CUBE Intel i5-1235U 16GB DDR4 512GB Windows 11 Pro Mini PC",
+    "spec": "16GB RAM",
+    "price": "R14 289",
+    "handle": "pcbuilder-cube-intel-i5-1235u-16gb-ddr4-512gb-windows-11-pro-mini-pc",
+    "url": "/products/pcbuilder-cube-intel-i5-1235u-16gb-ddr4-512gb-windows-11-pro-mini-pc",
+    "qty": 12,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_CUBE_I516G_OFFICE_V2_OFFICE_PCBuilder-CUBE-Intel-Core-3-100U-12GB-DDR5-512GB-Windows-11-Pro-Mini-PC_wr_01.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro Slim Essential QVS1260: Desktop PC — Core i3 (BTO001_QVS1260_EMEA)",
-    "spec": "Core i3",
-    "price": "R17 313",
-    "handle": "dell-pro-slim-essential-qvs1260-intel-core-i3-14100-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-8gb-8gbx1-ddr5-4800mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2-802",
-    "url": "/products/dell-pro-slim-essential-qvs1260-intel-core-i3-14100-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-8gb-8gbx1-ddr5-4800mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2-802",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO001_QVS1260_EMEA_default.png"
+    "brand": "PCBuilder",
+    "title": "PCBuilder CUBE Intel Core 3-100U 16GB DDR5 512GB Windows 11 Pro Mini PC",
+    "spec": "Core 3 · 16GB RAM",
+    "price": "R16 758",
+    "handle": "pcbuilder-cube-intel-core-3-100u-16gb-ddr5-512gb-windows-11-pro-mini-pc",
+    "url": "/products/pcbuilder-cube-intel-core-3-100u-16gb-ddr5-512gb-windows-11-pro-mini-pc",
+    "qty": 13,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/06/PCB_CUBE_100U16G_OFFICE_PCBuilder-CUBE-Intel-Core-3-100U-16GB-DDR5-512GB-Windows-11-Pro-Mini-PC_wr_01a.jpg"
    },
    {
     "brand": "PCBuilder",
@@ -600,14 +580,24 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
-    "brand": "HP",
-    "title": "HP Series 3 Pro 23.8\" FHD IPS Monitor",
-    "spec": "23.8\" screen",
-    "price": "R3 235",
-    "handle": "hp-series-3-pro-23-8-fhd-ips-monitor",
-    "url": "/products/hp-series-3-pro-23-8-fhd-ips-monitor",
-    "qty": 15,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5J5UT_61c4.jpg"
+    "brand": "Dell",
+    "title": "Dell E2225HSM 21.5\" FHD VA Monitor",
+    "spec": "21.5\" screen",
+    "price": "R2 360",
+    "handle": "dell-e2225hsm-21-5-fhd-va-monitor",
+    "url": "/products/dell-e2225hsm-21-5-fhd-va-monitor",
+    "qty": 12,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDT_e6cb.jpg"
+   },
+   {
+    "brand": "MSI",
+    "title": "MSI MAG 275F E20 27\" FHD 200Hz Rapid IPS Gaming Monitor",
+    "spec": "27\" screen",
+    "price": "R3 249",
+    "handle": "msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
+    "url": "/products/msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
+    "qty": 110,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-275F-E20_MSI-MAG-275F-E20-27inch-FHD-200Hz-Gaming-Montor-wr01.jpeg"
    },
    {
     "brand": "Xiaomi",
@@ -670,7 +660,7 @@
     "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 31,
+    "qty": 36,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -1122,23 +1112,23 @@
    },
    {
     "brand": "HP",
-    "title": "HP Smart Tank 581 Printer.Enjoy everyday relia All-in-One Printer (4A8D4A)",
+    "title": "HP 410A Magenta LaserJet M452/MFP M477",
     "spec": "Printers",
-    "price": "R3 473",
-    "handle": "hp-smart-tank-581-all-in-one-printer-enjoy-everyday-reliabilitywith-the-hp-smart-tank-581-all-in-one-printer-that-delivers-hp-quality-you-expect-and-savings-that-are-anything-but-expected-up-to-6-000",
-    "url": "/products/hp-smart-tank-581-all-in-one-printer-enjoy-everyday-reliabilitywith-the-hp-smart-tank-581-all-in-one-printer-that-delivers-hp-quality-you-expect-and-savings-that-are-anything-but-expected-up-to-6-000",
+    "price": "R2 968",
+    "handle": "hp-410a-magenta-laserjet-m452-mfp-m477",
+    "url": "/products/hp-410a-magenta-laserjet-m452-mfp-m477",
     "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/4A8D4A_default.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/CF413A_default.jpg"
    },
    {
     "brand": "HP",
-    "title": "HP Smart Tank 750 Print Wireless All-in-One Printer (6UU47A)",
+    "title": "HP Smart Tank 790 Print Wireless All-in-One Printer (4WF66A)",
     "spec": "Printers",
-    "price": "R6 505",
-    "handle": "hp-smart-tank-750-print-scan-copy-up-to-15-9-ppm-automatic-duplex-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-2-contextual-display-with-id-copy-low-on-ink-sensor-30-000",
-    "url": "/products/hp-smart-tank-750-print-scan-copy-up-to-15-9-ppm-automatic-duplex-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-2-contextual-display-with-id-copy-low-on-ink-sensor-30-000",
-    "qty": 12,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/6UU47A_default.jpg"
+    "price": "R6 634",
+    "handle": "hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
+    "url": "/products/hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
+    "qty": 54,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    },
    {
     "brand": "HP",
@@ -1181,16 +1171,6 @@
     "url": "/products/hp-smart-tank-530-wireless-all-in-one-print-scan-copy-adf-wireless-rmpv-400-to-800-pages-1-3-users-hp-smart-app-apple-airprint-fire-google-cloud-print-2-0-hp-eprint-android-printing-mopria-certified",
     "qty": 9,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4SB24A_default.jpg"
-   },
-   {
-    "brand": "HP",
-    "title": "HP Smart Tank 750 Print Wireless All-in-One Printer (6UU47A)",
-    "spec": "Printers",
-    "price": "R6 505",
-    "handle": "hp-smart-tank-750-print-scan-copy-up-to-15-9-ppm-automatic-duplex-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-2-contextual-display-with-id-copy-low-on-ink-sensor-30-000",
-    "url": "/products/hp-smart-tank-750-print-scan-copy-up-to-15-9-ppm-automatic-duplex-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-2-contextual-display-with-id-copy-low-on-ink-sensor-30-000",
-    "qty": 12,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/6UU47A_default.jpg"
    },
    {
     "brand": "HP",
@@ -1634,14 +1614,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SA400S37/480G_default.jpg"
    },
    {
-    "brand": "Proline",
-    "title": "Proline KINGSTON 1000G NV3 M.2 PCIe 4.0 NVMe SSD",
+    "brand": "Dell",
+    "title": "Dell 480GB PCIe Gen4 M.2 2280 NVMe SSD for BOSS-N1 Controller Card",
     "spec": "Storage",
-    "price": "R5 344",
-    "handle": "proline-kingston-1000g-nv3-m-2-pcie-4-0-nvme-ssd",
-    "url": "/products/proline-kingston-1000g-nv3-m-2-pcie-4-0-nvme-ssd",
-    "qty": 43,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SNV3SM3/1T0_default.jpg"
+    "price": "R5 432",
+    "handle": "dell-480gb-pcie-gen4-m-2-2280-nvme-ssd-for-boss-n1-controller-card",
+    "url": "/products/dell-480gb-pcie-gen4-m-2-2280-nvme-ssd-for-boss-n1-controller-card",
+    "qty": 3,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/4/0/400_BONG_7e2a.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -1988,14 +1968,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2016/02/JC530_wr_01a.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port Slim Keyed Cable Security Lock",
-    "spec": "Accessories",
-    "price": "R424",
-    "handle": "port-slim-keyed-cable-security-lock",
-    "url": "/products/port-slim-keyed-cable-security-lock",
-    "qty": 8,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/901200_67c8.jpg"
+    "brand": "TP-Link",
+    "title": "TP-Link Archer T4U AC1300 High Gain Dual Band Wi-Fi USB Adapter Router",
+    "spec": "Cables And Adapters",
+    "price": "R423",
+    "handle": "tp-link-archer-t4u-ac1300-high-gain-dual-band-wi-fi-usb-adapter-router",
+    "url": "/products/tp-link-archer-t4u-ac1300-high-gain-dual-band-wi-fi-usb-adapter-router",
+    "qty": 19,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/R/ARCHER_T4U_PLUS_1_abee.png"
    },
    {
     "brand": "HP",
@@ -2095,13 +2075,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Smart Hybrid ColorVu Fixed Mini Bullet IP Camera (DS-2CD2047G2H-LIU-SL-2.8MM)",
+    "title": "Hikvision 4MP Acusense Fixed Mini Dome IP Camera",
     "spec": "4MP",
-    "price": "R3 136",
-    "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-mini-bullet-ip-camera-ds-2cd2047g2h-liu-sl-2-8mm",
-    "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-mini-bullet-ip-camera-ds-2cd2047g2h-liu-sl-2-8mm",
-    "qty": 4,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LIU_SL_2.8MM_1_abe9.png"
+    "price": "R3 126",
+    "handle": "hikvision-4mp-acusense-fixed-mini-dome-ip-camera",
+    "url": "/products/hikvision-4mp-acusense-fixed-mini-dome-ip-camera",
+    "qty": 43,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2546G2_IS2.8MM__1__a2ef.png"
    },
    {
     "brand": "Hikvision",
@@ -2127,13 +2107,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Fixed Dome Network Camera",
+    "title": "Hikvision 4MP Fixed Minin Bullet Network Camera",
     "spec": "4MP",
-    "price": "R2 353",
-    "handle": "hikvision-4mp-fixed-dome-network-camera",
-    "url": "/products/hikvision-4mp-fixed-dome-network-camera",
-    "qty": 752,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
+    "price": "R2 041",
+    "handle": "hikvision-4mp-fixed-minin-bullet-network-camera",
+    "url": "/products/hikvision-4mp-fixed-minin-bullet-network-camera",
+    "qty": 219,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_2.8MM_1_1e43.png"
    },
    {
     "brand": "Hikvision",
