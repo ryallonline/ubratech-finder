@@ -110,7 +110,7 @@
     "price": "R21 431",
     "handle": "dell-pro-14-essential-pv14255-r5-220-amd-ryzen-tm-5-220-16gb-1-x-16gb-ddr5-5200-mt-s-512-gb-m-2-pcie-nvme-ssd-amd-radeon-graphics-carbon-black-power-button-with-fingerprint-reader-realtek-wi-fi-6",
     "url": "/products/dell-pro-14-essential-pv14255-r5-220-amd-ryzen-tm-5-220-16gb-1-x-16gb-ddr5-5200-mt-s-512-gb-m-2-pcie-nvme-ssd-amd-radeon-graphics-carbon-black-power-button-with-fingerprint-reader-realtek-wi-fi-6",
-    "qty": 12,
+    "qty": 11,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV14255_HWK_551_default.jpg"
    }
   ],
@@ -1816,7 +1816,7 @@
     "price": "R2 049",
     "handle": "deepcool-gamerstorm-pq1000g-1000w-80plus-gold-fully-modular-power-supply",
     "url": "/products/deepcool-gamerstorm-pq1000g-1000w-80plus-gold-fully-modular-power-supply",
-    "qty": 11,
+    "qty": 10,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/R-PQA00G-FD1B-JGEU-V1_DeepCool_Gamerstorm_PQ1000G_1000W_80PLUS_wr_01.jpg"
    },
    {
@@ -1979,13 +1979,13 @@
    },
    {
     "brand": "Giada",
-    "title": "Giada JC553 VESA Wall Mounting Kit",
+    "title": "Giada Vesa Mount for F210",
     "spec": "Accessories",
     "price": "R133",
-    "handle": "giada-jc553-vesa-wall-mounting-kit",
-    "url": "/products/giada-jc553-vesa-wall-mounting-kit",
-    "qty": 4,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/JC553_wr_01.jpg"
+    "handle": "giada-vesa-mount-for-f210-f200-vm23-dn7x",
+    "url": "/products/giada-vesa-mount-for-f210-f200-vm23-dn7x",
+    "qty": 22,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2016/02/JC530_wr_01a.jpg"
    },
    {
     "brand": "HP",
