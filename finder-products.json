@@ -616,7 +616,7 @@
     "price": "R2 108",
     "handle": "dell-pro-24-monitor-e2426h-1x-hdmi-1xdp-1x-vga",
     "url": "/products/dell-pro-24-monitor-e2426h-1x-hdmi-1xdp-1x-vga",
-    "qty": 44,
+    "qty": 42,
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPJ_default.jpg"
    },
    {
@@ -687,10 +687,10 @@
     "brand": "Dell",
     "title": "Dell SE2426H 24\" FHD Gaming Monitor",
     "spec": "High refresh · smooth motion",
-    "price": "R2 005",
+    "price": "R2 004",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 8,
+    "qty": 19,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -1692,7 +1692,7 @@
     "price": "R2 525",
     "handle": "kingston-8gb-ddr4-3200mhz-memory-module",
     "url": "/products/kingston-8gb-ddr4-3200mhz-memory-module",
-    "qty": 44,
+    "qty": 43,
     "image": "https://s3.amazonaws.com/tarsus.co.za/KCP432NS8/8_default.png"
    },
    {
@@ -1979,23 +1979,23 @@
    },
    {
     "brand": "Giada",
-    "title": "Giada Vesa Mount for F210",
+    "title": "Giada JC553 VESA Wall Mounting Kit",
     "spec": "Accessories",
     "price": "R133",
-    "handle": "giada-vesa-mount-for-f210-f200-vm23-dn7x",
-    "url": "/products/giada-vesa-mount-for-f210-f200-vm23-dn7x",
-    "qty": 22,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2016/02/JC530_wr_01a.jpg"
+    "handle": "giada-jc553-vesa-wall-mounting-kit",
+    "url": "/products/giada-jc553-vesa-wall-mounting-kit",
+    "qty": 4,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/JC553_wr_01.jpg"
    },
    {
-    "brand": "Datanet",
-    "title": "Datanet CAT6 24 PORT 19\" Patch Panel",
-    "spec": "19\" screen · 24 ports",
+    "brand": "HP",
+    "title": "HP 65W Smart AC Adapter (H6Y89AA-P)",
+    "spec": "Cables And Adapters",
     "price": "R427",
-    "handle": "datanet-cat6-24-port-19-patch-panel",
-    "url": "/products/datanet-cat6-24-port-19-patch-panel",
-    "qty": 55,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__16__3a42.png"
+    "handle": "hp-65w-smart-ac-adapter-h6y89aa-p",
+    "url": "/products/hp-65w-smart-ac-adapter-h6y89aa-p",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/H6Y89AA-P_default.png"
    },
    {
     "brand": "HP",
@@ -2090,7 +2090,7 @@
     "price": "R2 353",
     "handle": "hikvision-4mp-fixed-dome-network-camera",
     "url": "/products/hikvision-4mp-fixed-dome-network-camera",
-    "qty": 12,
+    "qty": 748,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
    },
    {
@@ -2132,7 +2132,7 @@
     "price": "R2 353",
     "handle": "hikvision-4mp-fixed-dome-network-camera",
     "url": "/products/hikvision-4mp-fixed-dome-network-camera",
-    "qty": 12,
+    "qty": 748,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
    },
    {
@@ -2360,25 +2360,25 @@
    "enquiry": true
   },
   {
-   "brand": "HPE Networking Instant On",
-   "title": "HPE Networking Instant On WiFi 5 Wave 2 Indoor Access Point",
-   "spec": "Dual band, 802.11ac Wave2, 2033Mbps, PoE excl, GbE uplink port, 4x4:4 ",
-   "price": "R2 971",
-   "handle": "hpe-networking-instant-on-wifi-5-wave-2-indoor-access-point-ap15",
-   "url": "/pages/hpe-networking-instant-on-wifi-5-wave-2-indoor-access-point-ap15",
+   "brand": "Grandstream",
+   "title": "Grandstream Enterprise Outdoor WiFi 7 Long Range Access Point",
+   "spec": "Outdoor Long-Range Dual-Band Wi-Fi 7 Access Point/Bridge, 2x2:2 2.4/5G",
+   "price": "R3 075",
+   "handle": "grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
+   "url": "/pages/grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/0/7/2/6/10726.jpg",
+   "image": "https://miro.co.za/img/p/1/8/7/0/7/18707.jpg",
    "enquiry": true
   },
   {
-   "brand": "TP-Link Omada",
-   "title": "TP-Link Omada Tri-Band Wi-Fi 7 Outdoor AP",
-   "spec": "1×2.5G RJ45 Port, 688 Mbps (2.4 GHz) + 2882 Mbps (5 GHz) + 5765 Mbps (",
-   "price": "R4 525",
-   "handle": "tp-link-omada-tri-band-wi-fi-7-outdoor-ap-eap772-o",
-   "url": "/pages/tp-link-omada-tri-band-wi-fi-7-outdoor-ap-eap772-o",
+   "brand": "Ubiquiti",
+   "title": "Ubiquiti UniFi WiFi 7 Outdoor Access Point",
+   "spec": "No PoE Injector included, 4 Spatial Streams, 250+ connected devices, 2",
+   "price": "R4 648",
+   "handle": "ubiquiti-unifi-wifi-7-outdoor-access-point-u7-outdoor",
+   "url": "/pages/ubiquiti-unifi-wifi-7-outdoor-access-point-u7-outdoor",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/8/1/0/2/18102.jpg",
+   "image": "https://miro.co.za/img/p/1/7/1/4/0/17140.jpg",
    "enquiry": true
   },
   {
