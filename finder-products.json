@@ -610,24 +610,24 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 24 Monitor - E2426H, 1x HDMI, 1xDP, 1x VGA",
-    "spec": "Monitors And Displays",
-    "price": "R2 108",
-    "handle": "dell-pro-24-monitor-e2426h-1x-hdmi-1xdp-1x-vga",
-    "url": "/products/dell-pro-24-monitor-e2426h-1x-hdmi-1xdp-1x-vga",
-    "qty": 42,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPJ_default.jpg"
+    "brand": "Asus",
+    "title": "Asus ZenScreen MB169CK 15.6\" IPS FHD Portable Monitor",
+    "spec": "15.6\" screen",
+    "price": "R2 280",
+    "handle": "asus-zenscreen-mb169ck-15-6-ips-fhd-portable-monitor",
+    "url": "/products/asus-zenscreen-mb169ck-15-6-ips-fhd-portable-monitor",
+    "qty": 83,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/M/B/MB169CK_2_174a.jpg"
    },
    {
     "brand": "HP",
-    "title": "HP Series 3 Pro 322pv 21.45\" FHD 100Hz 5ms LED VA Monitor",
-    "spec": "45\" screen",
-    "price": "R3 160",
-    "handle": "hp-series-3-pro-322pv-21-45-fhd-100hz-5ms-led-va-monitor",
-    "url": "/products/hp-series-3-pro-322pv-21-45-fhd-100hz-5ms-led-va-monitor",
-    "qty": 60,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/H/P/HP_9U5A2AA_9a08.jpg"
+    "title": "HP Series 3 Pro 24\" FHD Monitor",
+    "spec": "24\" screen",
+    "price": "R3 122",
+    "handle": "hp-series-3-pro-24-fhd-monitor",
+    "url": "/products/hp-series-3-pro-24-fhd-monitor",
+    "qty": 29,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5C1AA_1ac3.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -756,14 +756,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-E20_MSI-MAG-255F-E20-25-inch-FHD-200Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi A27Qi 2026 27\" inch 120Hz 2K IPS Office Monitor",
-    "spec": "27\" screen",
-    "price": "R3 449",
-    "handle": "xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
-    "url": "/products/xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
-    "qty": 175,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6568EU_Xiaomi-A27Qi-2026-27-inch-2K-120Hz-IPS-Office-Monitor_wr_01a.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro P24 23.8\" FHD IPS Monitor",
+    "spec": "23.8\" screen",
+    "price": "R3 399",
+    "handle": "dell-pro-p24-23-8-fhd-ips-monitor",
+    "url": "/products/dell-pro-p24-23-8-fhd-ips-monitor",
+    "qty": 37,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVKM_290f.jpg"
    },
    {
     "brand": "Xiaomi",
