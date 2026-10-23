@@ -94,14 +94,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/NX.ELVEA.001_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP ProBook 4 NB G1iR 5 120U Laptop — 512GB SSD (C38KXAT)",
-    "spec": "512GB SSD",
-    "price": "R20 021",
-    "handle": "hp-probook-4-nb-g1ir-5-120u-14-0-wuxga-uwva-300-fhdc-60hz-bnt-panel-8gb-1d-ddr5-5600-cr-sodimm-memory-512gb-pcie-nvme-value-windows-11-pro-64-1-year-warranty-dual-arymic-f-usb2-nfovcamera-clickpad",
-    "url": "/products/hp-probook-4-nb-g1ir-5-120u-14-0-wuxga-uwva-300-fhdc-60hz-bnt-panel-8gb-1d-ddr5-5600-cr-sodimm-memory-512gb-pcie-nvme-value-windows-11-pro-64-1-year-warranty-dual-arymic-f-usb2-nfovcamera-clickpad",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/C38KXAT_default.png"
+    "brand": "Asus",
+    "title": "Asus Vivobook 15 A1504VAP 15.6\" Core-i5 16GB 512GB Win 11 Pro Notebook (X1504VAP-I516512BL4X)",
+    "spec": "Core i5 · 15.6\" screen · 16GB RAM",
+    "price": "R20 147",
+    "handle": "asus-vivobook-15-a1504vap-15-6-core-i5-16gb-512gb-win-11-pro-notebook-x1504vap-i516512bl4x",
+    "url": "/products/asus-vivobook-15-a1504vap-15-6-core-i5-16gb-512gb-win-11-pro-notebook-x1504vap-i516512bl4x",
+    "qty": 24,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__64__de18.png"
    },
    {
     "brand": "Dell",
@@ -204,7 +204,7 @@
     "price": "R37 776",
     "handle": "asus-zenbook-14-ux3405ca-14-3k-oled-120hz-core-u9-285h-16gb-1tb-win-11-pro-notebook",
     "url": "/products/asus-zenbook-14-ux3405ca-14-3k-oled-120hz-core-u9-285h-16gb-1tb-win-11-pro-notebook",
-    "qty": 47,
+    "qty": 44,
     "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_14_UX3405CA_Product_photo_3B_Ponder_Blue_03_62bf.jpg"
    },
    {
@@ -230,6 +230,16 @@
     "url": "https://ubratech.co.za/products/dell-pro-slim-essential-qvs1260-desktop-pc-core-i3-bto001_qvs1260_emea",
     "qty": 99,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO001_QVS1260_EMEA_default.png"
+   },
+   {
+    "brand": "Lenovo",
+    "title": "Lenovo Neo 50s G6 Desktop — Core Ultra 5 · 16GB · 512GB SSD",
+    "spec": "Performance desktop",
+    "price": "R20 147",
+    "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
+    "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
+    "qty": 3,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    },
    {
     "brand": "PCBuilder",
@@ -268,11 +278,21 @@
     "price": "R11 826",
     "handle": "pcbuilder-cube-intel-i5-1235u-16gb-ddr4-1tb-windows-11-home-mini-pc",
     "url": "/products/pcbuilder-cube-intel-i5-1235u-16gb-ddr4-1tb-windows-11-home-mini-pc",
-    "qty": 14,
+    "qty": 12,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/PCB_CUBE_I516G_HOME_PCBuilder-CUBE-i5-1235U-16GB-DDR4-1TB-Windows-11-Home-Mini-PC_wr_01a.jpg"
    }
   ],
   "mid": [
+   {
+    "brand": "Lenovo",
+    "title": "Lenovo Neo 50s G6 Desktop — Core Ultra 5 · 16GB · 512GB SSD",
+    "spec": "Performance desktop",
+    "price": "R20 147",
+    "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
+    "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
+    "qty": 3,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
+   },
    {
     "brand": "Dell",
     "title": "Dell Pro Slim QCS1250 Desktop — Core Ultra 5 · 512GB SSD",
@@ -314,14 +334,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/06/PCB_CUBE_100U16G_OFFICE_PCBuilder-CUBE-Intel-Core-3-100U-16GB-DDR5-512GB-Windows-11-Pro-Mini-PC_wr_01a.jpg"
    },
    {
-    "brand": "PCBuilder",
-    "title": "PCBuilder Ryzen 5 5600XT PATHFINDER Windows 11 Gaming PC",
-    "spec": "Ryzen 5",
-    "price": "R21 684",
-    "handle": "pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
-    "url": "/products/pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
+    "brand": "Asus",
+    "title": "Asus ROG G700 Intel Ultra 5 255F Gaming PC · 16GB DDR5 · 1TB SSD · Win 11 Home",
+    "spec": "1TB SSD",
+    "price": "R20 525",
+    "handle": "asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
+    "url": "/products/asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
     "qty": 4,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/11/PCB_PATHFINDER_01_PCBuilder-Ryzen-5-5600XT-PATHFINDER-Windows-11-Gaming-PC_wr_01c.jpg"
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg"
    }
   ],
   "high": [
@@ -428,18 +448,18 @@
     "price": "R12 809",
     "handle": "pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
-    "qty": 99,
+    "qty": 104,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_DEFENDER_05_wr_01e.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus ROG G700 Intel Ultra 5 255F Gaming PC · 16GB DDR5 · 1TB SSD · Win 11 Home",
-    "spec": "1TB SSD",
-    "price": "R20 525",
-    "handle": "asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
-    "url": "/products/asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
-    "qty": 4,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg"
+    "brand": "PCBuilder",
+    "title": "PCBuilder Ryzen 5 5600XT SENTINEL Windows 11 Gaming PC",
+    "spec": "Ryzen 5",
+    "price": "R18 725",
+    "handle": "pcbuilder-ryzen-5-5600xt-sentinel-windows-11-gaming-pc",
+    "url": "/products/pcbuilder-ryzen-5-5600xt-sentinel-windows-11-gaming-pc",
+    "qty": 30,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SENTINEL_01_wr_01e.jpg"
    },
    {
     "brand": "Acer",
@@ -532,7 +552,7 @@
     "price": "R12 809",
     "handle": "pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
-    "qty": 99,
+    "qty": 104,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_DEFENDER_05_wr_01e.jpg"
    },
    {
@@ -542,18 +562,8 @@
     "price": "R18 725",
     "handle": "pcbuilder-ryzen-5-5600xt-sentinel-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600xt-sentinel-windows-11-gaming-pc",
-    "qty": 25,
+    "qty": 30,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SENTINEL_01_wr_01e.jpg"
-   },
-   {
-    "brand": "PCBuilder",
-    "title": "PCBuilder Ryzen 5 5600XT PATHFINDER Windows 11 Gaming PC",
-    "spec": "Ryzen 5",
-    "price": "R21 684",
-    "handle": "pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
-    "url": "/products/pcbuilder-ryzen-5-5600xt-pathfinder-windows-11-gaming-pc",
-    "qty": 4,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/11/PCB_PATHFINDER_01_PCBuilder-Ryzen-5-5600XT-PATHFINDER-Windows-11-Gaming-PC_wr_01c.jpg"
    },
    {
     "brand": "PCBuilder",
@@ -600,14 +610,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
-    "brand": "Asus",
-    "title": "Asus ZenScreen MB169CK 15.6\" IPS FHD Portable Monitor",
-    "spec": "15.6\" screen",
-    "price": "R2 280",
-    "handle": "asus-zenscreen-mb169ck-15-6-ips-fhd-portable-monitor",
-    "url": "/products/asus-zenscreen-mb169ck-15-6-ips-fhd-portable-monitor",
-    "qty": 84,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/M/B/MB169CK_2_174a.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 24 Monitor - E2426H, 1x HDMI, 1xDP, 1x VGA",
+    "spec": "Monitors And Displays",
+    "price": "R2 108",
+    "handle": "dell-pro-24-monitor-e2426h-1x-hdmi-1xdp-1x-vga",
+    "url": "/products/dell-pro-24-monitor-e2426h-1x-hdmi-1xdp-1x-vga",
+    "qty": 44,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPJ_default.jpg"
    },
    {
     "brand": "HP",
@@ -680,7 +690,7 @@
     "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 9,
+    "qty": 8,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -1545,14 +1555,14 @@
     "enquiry": true
    },
    {
-    "brand": "Ubiquiti",
-    "title": "Ubiquiti UniFi Pro HD 24 Port PoE Switch 600W",
-    "spec": "1.3\" touch LCM; 22 x 2.5Gbps ; 4 x 10G SFP+; 2 x 10Gbps, Etherlighting",
-    "price": "R24 117",
-    "handle": "ubiquiti-unifi-pro-hd-24-port-poe-switch-600w-usw-pro-hd-24-poe",
-    "url": "/pages/ubiquiti-unifi-pro-hd-24-port-poe-switch-600w-usw-pro-hd-24-poe",
+    "brand": "MikroTik",
+    "title": "MikroTik CRS354-48P-4S+2Q+RM - 750W, 48 POE 1Gb, 4X SFP+, 2X QSFP+",
+    "spec": "802.3af/at or 24V passive POE, 650Mhz CPU, 64MB RAM, Redundant PSU, 75",
+    "price": "R21 129",
+    "handle": "mikrotik-crs354-48p-4s-2q-rm-750w-48-poe-1gb-4x-sfp-2x-qsfp",
+    "url": "/pages/mikrotik-crs354-48p-4s-2q-rm-750w-48-poe-1gb-4x-sfp-2x-qsfp",
     "qty": 9,
-    "image": "https://miro.co.za/img/p/1/6/2/2/2/16222.jpg",
+    "image": "https://miro.co.za/img/p/1/7/4/3/0/17430.jpg",
     "enquiry": true
    }
   ],
@@ -1610,7 +1620,7 @@
     "price": "R257",
     "handle": "ugreen-cm767-m-2-nvme-ssd-enclosure-10gbps",
     "url": "/products/ugreen-cm767-m-2-nvme-ssd-enclosure-10gbps",
-    "qty": 49,
+    "qty": 40,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM767-35267_UGreen-CM767-M.2-NVMe-SSD-Enclosure-10Gbps-%E2%80%93-Silver_wr_01a.jpg"
    },
    {
@@ -1624,14 +1634,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SKC600/256G_default.jpg"
    },
    {
-    "brand": "Patriot",
-    "title": "Patriot P220 2TB 2.5\" SSD",
-    "spec": "2.5\" screen",
-    "price": "R4 910",
-    "handle": "patriot-p220-2tb-2-5-ssd",
-    "url": "/products/patriot-p220-2tb-2-5-ssd",
-    "qty": 13,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/04/P220S2TB25_wr_01.jpg"
+    "brand": "SanDisk",
+    "title": "SanDisk Optimus GX 7100 1TB NVMe SSD",
+    "spec": "1TB NVMe SSD",
+    "price": "R4 960",
+    "handle": "sandisk-optimus-gx-7100-1tb-nvme-ssd",
+    "url": "/products/sandisk-optimus-gx-7100-1tb-nvme-ssd",
+    "qty": 28,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/S/D/SDSP71100TAN_000E0_d4e8.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -1739,13 +1749,13 @@
    },
    {
     "brand": "Asus",
-    "title": "ASUS Dual GeForce RTX 5070 12GB GDDR7 OC Edition Graphics Card",
+    "title": "ASUS Prime Radeon RX 9070 GRE EVO OC Edition 12GB GDDR6 Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R20 473",
-    "handle": "asus-dual-geforce-rtx-5070-12gb-gddr7-oc-edition-graphics-card",
-    "url": "/products/asus-dual-geforce-rtx-5070-12gb-gddr7-oc-edition-graphics-card",
-    "qty": 7,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/DUAL-RTX5070-O12G_ASUS-Dual-GeForce-RTX-5070-12GB-GDDR7-OC-Edition-Graphics-Card_wr_01a.jpg"
+    "price": "R20 474",
+    "handle": "asus-prime-radeon-rx-9070-gre-evo-oc-edition-12gb-gddr6-graphics-card",
+    "url": "/products/asus-prime-radeon-rx-9070-gre-evo-oc-edition-12gb-gddr6-graphics-card",
+    "qty": 19,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/05/PRIME-RX9070GRE-O12G_ASUS-Prime-Radeon-RX-9070-GRE-EVO-OC-Edition-12GB-GDDR6-Graphics-Card_wr_01a.jpg"
    },
    {
     "brand": "Asus",
@@ -1777,7 +1787,7 @@
     "handle": "deepcool-ak400-g2-120mm-cpu-air-cooler-white",
     "url": "https://ubratech.co.za/products/deepcool-ak400-g2-120mm-cpu-air-cooler-white",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/R-AK400G2-WHNNMN-GJD_DeepCool-AK400-G2-120mm-CPU-Air-Cooler-White_wr_01.jpg",
-    "qty": 5
+    "qty": 4
    },
    {
     "brand": "Antec",
@@ -1786,7 +1796,7 @@
     "price": "R558",
     "handle": "antec-atom-v550-non-modular-power-supply",
     "url": "/products/antec-atom-v550-non-modular-power-supply",
-    "qty": 102,
+    "qty": 96,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/ATOM-V550_wr_01a.jpg"
    },
    {
@@ -1831,7 +1841,7 @@
     "handle": "xiaomi-robot-vacuum-s40c",
     "url": "https://ubratech.co.za/products/xiaomi-robot-vacuum-s40c",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/BHR9664EU_Xiaomi-Robot-Vacuum-S40C_wr_02a-1.jpg",
-    "qty": 148
+    "qty": 147
    },
    {
     "brand": "Xiaomi",
@@ -2031,23 +2041,23 @@
    },
    {
     "brand": "Port",
-    "title": "Port Pure MAC Wireless Iris Mouse",
+    "title": "Port Pure MAC Wireless Copper Rose Mouse",
     "spec": "Wired Mouse",
     "price": "R371",
-    "handle": "port-pure-mac-wireless-iris-mouse",
-    "url": "/products/port-pure-mac-wireless-iris-mouse",
-    "qty": 41,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__12__8186.png"
+    "handle": "port-pure-mac-wireless-copper-rose-mouse",
+    "url": "/products/port-pure-mac-wireless-copper-rose-mouse",
+    "qty": 27,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__13__9474.png"
    },
    {
-    "brand": "Redragon",
-    "title": "Redragon EISA 100 Retro RGB Wireless Mechanical Keyboard - Cream/Grey",
+    "brand": "Winx",
+    "title": "WINX ELITE Wireless and BT Keyboard",
     "spec": "Keyboards",
-    "price": "R743",
-    "handle": "redragon-eisa-100-retro-rgb-wireless-mechanical-keyboard-cream-grey",
-    "url": "/products/redragon-eisa-100-retro-rgb-wireless-mechanical-keyboard-cream-grey",
-    "qty": 12,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/RD-K768WGR-WL_Redragon_EISA_100_Retro_RGB_Wireless_Mec_wr_01.png"
+    "price": "R734",
+    "handle": "winx-elite-wireless-and-bt-keyboard",
+    "url": "/products/winx-elite-wireless-and-bt-keyboard",
+    "qty": 211,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2023/11/WX-KB104_wr_01.jpg"
    },
    {
     "brand": "Keychron",
@@ -2080,7 +2090,7 @@
     "price": "R2 353",
     "handle": "hikvision-4mp-fixed-dome-network-camera",
     "url": "/products/hikvision-4mp-fixed-dome-network-camera",
-    "qty": 71,
+    "qty": 12,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
    },
    {
@@ -2122,7 +2132,7 @@
     "price": "R2 353",
     "handle": "hikvision-4mp-fixed-dome-network-camera",
     "url": "/products/hikvision-4mp-fixed-dome-network-camera",
-    "qty": 71,
+    "qty": 12,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
    },
    {
@@ -2328,25 +2338,25 @@
    "enquiry": true
   },
   {
-   "brand": "Teltonika",
-   "title": "Teltonika Wi-Fi 4 PoE Industrial Wireless Access Point",
-   "spec": "Wi-Fi Mesh, Fast Roaming, 2x RJ45 ports (10/100), Integrated Din Rail ",
-   "price": "R1 446",
-   "handle": "teltonika-wi-fi-4-poe-industrial-wireless-access-point-dap142",
-   "url": "/pages/teltonika-wi-fi-4-poe-industrial-wireless-access-point-dap142",
+   "brand": "Grandstream",
+   "title": "Grandstream Enterprise WiFi 5 Wave 2 Indoor Access Point",
+   "spec": "2Gbps, 5GHz 4x4 MU-MIMO, 2.4GHz 2x2 MIMO, 200+ connections, Integrated",
+   "price": "R1 440",
+   "handle": "grandstream-enterprise-wifi-5-wave-2-indoor-access-point-gwn7625",
+   "url": "/pages/grandstream-enterprise-wifi-5-wave-2-indoor-access-point-gwn7625",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/6/3/9/8/16398.jpg",
+   "image": "https://miro.co.za/img/p/9/0/1/9/9019.jpg",
    "enquiry": true
   },
   {
-   "brand": "TP-Link Omada",
-   "title": "TP-Link Omada BE3600 Ceiling Mount Wi-Fi 7 Access Point",
-   "spec": "1×2.5G RJ45 Port, 688Mbps at 2.4 GHz + 4324 Mbps at 5 GHz, 802.3at PoE",
-   "price": "R2 056",
-   "handle": "tp-link-omada-be3600-ceiling-mount-wi-fi-7-access-point-tp-eap723",
-   "url": "/pages/tp-link-omada-be3600-ceiling-mount-wi-fi-7-access-point-tp-eap723",
+   "brand": "MikroTik",
+   "title": "Mikrotik cAP AC XL Dual Band 1200Mbps Wi-Fi 5 Ceiling AP · MT-RBCAP-AC-XL",
+   "spec": "802.11 b/g/n/ac, 6dBi (2.4GHz) 5.5dBi (5GHz), Dual chain, PoE-in 802.3",
+   "price": "R1 997",
+   "handle": "mikrotik-cap-ac-xl-dual-band-1200mbps-wi-fi-5-ceiling-ap-mt-rbcap-ac-xl",
+   "url": "/pages/mikrotik-cap-ac-xl-dual-band-1200mbps-wi-fi-5-ceiling-ap-mt-rbcap-ac-xl",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/6/9/5/7/16957.jpg",
+   "image": "https://miro.co.za/img/p/5/7/0/2/5702.jpg",
    "enquiry": true
   },
   {
