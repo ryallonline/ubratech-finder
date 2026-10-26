@@ -606,7 +606,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 752,
+    "qty": 737,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -626,7 +626,7 @@
     "price": "R2 280",
     "handle": "asus-zenscreen-mb169ck-15-6-ips-fhd-portable-monitor",
     "url": "/products/asus-zenscreen-mb169ck-15-6-ips-fhd-portable-monitor",
-    "qty": 83,
+    "qty": 82,
     "image": "https://www.pinnacle.co.za/media/catalog/product/M/B/MB169CK_2_174a.jpg"
    },
    {
@@ -742,7 +742,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 752,
+    "qty": 737,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -1162,13 +1162,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP Smart Tank 790 Print Wireless All-in-One Printer (4WF66A)",
+    "title": "HP OfficeJet Pro 9130 All in OnePrinter. Funct All-in-One Printer (404K9C)",
     "spec": "Printers",
-    "price": "R6 634",
-    "handle": "hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
-    "url": "/products/hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
-    "qty": 53,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
+    "price": "R7 179",
+    "handle": "hp-officejet-pro-9130-all-in-oneprinter-functions-print-copy-scan-fax-print-technology-hp-thermal-inkjet-print-speed-black-a4-iso-up-to-25-ppm-colour-a4-iso-up-to-20-ppm-draft-black-a4-up-to-39ppm",
+    "url": "/products/hp-officejet-pro-9130-all-in-oneprinter-functions-print-copy-scan-fax-print-technology-hp-thermal-inkjet-print-speed-black-a4-iso-up-to-25-ppm-colour-a4-iso-up-to-20-ppm-draft-black-a4-up-to-39ppm",
+    "qty": 5,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/404K9C_default.png"
    },
    {
     "brand": "HP",
@@ -1431,7 +1431,7 @@
     "price": "R1 069",
     "handle": "targus-usb-c-dual-hdmi-4k-docking-station",
     "url": "/products/targus-usb-c-dual-hdmi-4k-docking-station",
-    "qty": 17,
+    "qty": 16,
     "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK427GL_default.jpg"
    }
   ]
