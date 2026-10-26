@@ -22,24 +22,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NX.KKAEA_.001_Acer-Chromebook-311-C723-11.6-inch-MediaTek-Kompanio-528-4GB-32GB-Google-Chrome-Operating-System_wr_01a.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer Gadget E10 ETBook 15.6″ Laptop · Laptop — Ryzen 5 · 8GB · 256GB SSD",
-    "spec": "Ryzen 5 · 15.6\" screen · 256GB SSD",
-    "price": "R8 575",
-    "handle": "acer-gadget-e10-etbook-15-6-laptop-ryzen-5-3450u-8gb-ddr4-256gb-nvme-radeon-graphics-windows-11-home",
-    "url": "/products/acer-gadget-e10-etbook-15-6-laptop-ryzen-5-3450u-8gb-ddr4-256gb-nvme-radeon-graphics-windows-11-home",
-    "qty": 19,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/HP_NBETB_004_Acer_Gadget_E10_ETBook_R3_156_Laptop_Ryz_wr_01.png"
+    "brand": "Lenovo",
+    "title": "Lenovo Ideapad Slim 3 Laptop",
+    "spec": "Notebooks",
+    "price": "R8 291",
+    "handle": "lenovo-ideapad-slim-3-15-6-fhd-radeon-610m-athlon-silver-10-8gb-256gb-win-11-home-notebook",
+    "url": "/products/lenovo-ideapad-slim-3-15-6-fhd-radeon-610m-athlon-silver-10-8gb-256gb-win-11-home-notebook",
+    "qty": 9,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/8/2/82XQ01EGSA_7ee7.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer LITE 14 R3 5400U 8 512 14\" FHD IPS SLIM BEZEL Windows 11 Home",
-    "spec": "14\" screen",
-    "price": "R11 080",
-    "handle": "acer-lite-14-r3-5400u-8-512-14-fhd-ips-slim-bezel-windows-11-home",
-    "url": "/products/acer-lite-14-r3-5400u-8-512-14-fhd-ips-slim-bezel-windows-11-home",
-    "qty": 40,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.DQNEA.001_default.jpg"
+    "brand": "Asus",
+    "title": "Asus VivoBook 15 X1504MA 15.6\" Core-i3 8GB 256GB Win 11 Home Notebook",
+    "spec": "Core i3 · 15.6\" screen · 8GB RAM",
+    "price": "R11 332",
+    "handle": "asus-vivobook-15-x1504ma-15-6-core-i3-8gb-256gb-win-11-home-notebook",
+    "url": "/products/asus-vivobook-15-x1504ma-15-6-core-i3-8gb-256gb-win-11-home-notebook",
+    "qty": 87,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__65__4073.png"
    },
    {
     "brand": "Lenovo",
@@ -60,7 +60,7 @@
     "price": "R13 978",
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
-    "qty": 30,
+    "qty": 24,
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
@@ -80,28 +80,28 @@
     "price": "R13 978",
     "handle": "lenovo-v15-iru-i3-1315u-8gb-base-ddr5-256gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-15-6-fhd-tn-hd-camera-wi-fi-ax-2x2-bt-no-fpr-3-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
     "url": "/products/lenovo-v15-iru-i3-1315u-8gb-base-ddr5-256gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-15-6-fhd-tn-hd-camera-wi-fi-ax-2x2-bt-no-fpr-3-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
-    "qty": 30,
+    "qty": 24,
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo V15 IRU Laptop — Core i5 · 512GB SSD",
-    "spec": "Core i5 · 512GB SSD",
-    "price": "R17 881",
-    "handle": "lenovo-v15-iru-i5-13420h-8gb-base-ddr5-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-15-6-fhd-tn-hd-cam-wi-fi-ax-2x2-bt-n-fpr-2-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
-    "url": "/products/lenovo-v15-iru-i5-13420h-8gb-base-ddr5-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-15-6-fhd-tn-hd-cam-wi-fi-ax-2x2-bt-n-fpr-2-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
-    "qty": 86,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA_default.jpg"
+    "brand": "Acer",
+    "title": "Acer EXO14 72 51AG Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.ELVEA.001)",
+    "spec": "Core Ultra 5 · 512GB SSD",
+    "price": "R17 628",
+    "handle": "acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
+    "url": "/products/acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
+    "qty": 63,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.ELVEA.001_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP ProBook 4 NB G1iR 5 120U Laptop — 512GB SSD (C38KXAT)",
-    "spec": "512GB SSD",
-    "price": "R20 021",
-    "handle": "hp-probook-4-nb-g1ir-5-120u-14-0-wuxga-uwva-300-fhdc-60hz-bnt-panel-8gb-1d-ddr5-5600-cr-sodimm-memory-512gb-pcie-nvme-value-windows-11-pro-64-1-year-warranty-dual-arymic-f-usb2-nfovcamera-clickpad",
-    "url": "/products/hp-probook-4-nb-g1ir-5-120u-14-0-wuxga-uwva-300-fhdc-60hz-bnt-panel-8gb-1d-ddr5-5600-cr-sodimm-memory-512gb-pcie-nvme-value-windows-11-pro-64-1-year-warranty-dual-arymic-f-usb2-nfovcamera-clickpad",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/C38KXAT_default.png"
+    "brand": "Asus",
+    "title": "Asus Vivobook 15 A1504VAP 15.6\" Core-i5 16GB 512GB Win 11 Pro Notebook (X1504VAP-I516512BL4X)",
+    "spec": "Core i5 · 15.6\" screen · 16GB RAM",
+    "price": "R20 147",
+    "handle": "asus-vivobook-15-a1504vap-15-6-core-i5-16gb-512gb-win-11-pro-notebook-x1504vap-i516512bl4x",
+    "url": "/products/asus-vivobook-15-a1504vap-15-6-core-i5-16gb-512gb-win-11-pro-notebook-x1504vap-i516512bl4x",
+    "qty": 24,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__64__de18.png"
    },
    {
     "brand": "Dell",
@@ -132,7 +132,7 @@
     "price": "R31 266",
     "handle": "hp-probook-4-g2i-ai-16in-intel-core-7-350-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
     "url": "/products/hp-probook-4-g2i-ai-16in-intel-core-7-350-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "qty": 79,
+    "qty": 78,
     "image": "https://s3.amazonaws.com/tarsus.co.za/DS5L6ET_default.png"
    },
    {
@@ -194,7 +194,7 @@
     "price": "R18 694",
     "handle": "hp-probook-4-g1ah-14-fhd-radeon-740m-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
     "url": "/products/hp-probook-4-g1ah-14-fhd-radeon-740m-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
-    "qty": 60,
+    "qty": 59,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KTAT_4090.jpg"
    },
    {
@@ -386,14 +386,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO011_QCS1250_EMEA_default.png"
    },
    {
-    "brand": "PCBuilder",
-    "title": "PCBuilder Ryzen 5 7600 SEEKER Windows 11 Gaming PC (PCB_SEEKER_02)",
-    "spec": "Ryzen 5",
-    "price": "R39 420",
-    "handle": "pcbuilder-ryzen-5-7600-seeker-windows-11-gaming-pc-pcb-seeker-02",
-    "url": "/products/pcbuilder-ryzen-5-7600-seeker-windows-11-gaming-pc-pcb-seeker-02",
-    "qty": 8,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_SEEKER_02_PCBuilder-Ryzen-5-7600-SEEKER-Windows-11-Gaming-PC_wr_01a.jpg"
+    "brand": "Dell",
+    "title": "Dell 27 AIO EC27250 25 06 2025:Intel Desktop PC — 1TB SSD (EC27250_RPLU-R_008S)",
+    "spec": "1TB SSD",
+    "price": "R39 160",
+    "handle": "dell-27-aio-ec27250-25-06-2025-intel-core-7-150u-12mb-cache-up-to-5-4-ghz-27-fhd-touch-1920x1080-16g-5200mt-s-ddr5-1tb-ssd-pcie-nvme-m-2-intel-grapphics-camera-mic-5mp-ir-tilt-cam-intel-dual-band",
+    "url": "/products/dell-27-aio-ec27250-25-06-2025-intel-core-7-150u-12mb-cache-up-to-5-4-ghz-27-fhd-touch-1920x1080-16g-5200mt-s-ddr5-1tb-ssd-pcie-nvme-m-2-intel-grapphics-camera-mic-5mp-ir-tilt-cam-intel-dual-band",
+    "qty": 12,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/EC27250_RPLU-R_008S_default.jpg"
    },
    {
     "brand": "Dell",
@@ -606,7 +606,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 737,
+    "qty": 736,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -697,10 +697,10 @@
     "brand": "Dell",
     "title": "Dell SE2426H 24\" FHD Gaming Monitor",
     "spec": "High refresh · smooth motion",
-    "price": "R2 004",
+    "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 19,
+    "qty": 32,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -742,7 +742,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 737,
+    "qty": 736,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -796,7 +796,7 @@
     "price": "R442",
     "handle": "lalela-r1818-wi-fi-ups-for-router-and-ont-48-8wh-6-8-hour-runtime",
     "url": "/products/lalela-r1818-wi-fi-ups-for-router-and-ont-48-8wh-6-8-hour-runtime",
-    "qty": 52,
+    "qty": 50,
     "image": "https://s3.amazonaws.com/tarsus.co.za/LAL-R1818_default.jpg"
    },
    {
@@ -806,7 +806,7 @@
     "price": "R1 024",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "/products/hikvision-1000va-1kva-ups",
-    "qty": 307,
+    "qty": 297,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -860,7 +860,7 @@
     "price": "R1 024",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 307,
+    "qty": 297,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -1167,7 +1167,7 @@
     "price": "R7 179",
     "handle": "hp-officejet-pro-9130-all-in-oneprinter-functions-print-copy-scan-fax-print-technology-hp-thermal-inkjet-print-speed-black-a4-iso-up-to-25-ppm-colour-a4-iso-up-to-20-ppm-draft-black-a4-up-to-39ppm",
     "url": "/products/hp-officejet-pro-9130-all-in-oneprinter-functions-print-copy-scan-fax-print-technology-hp-thermal-inkjet-print-speed-black-a4-iso-up-to-25-ppm-colour-a4-iso-up-to-20-ppm-draft-black-a4-up-to-39ppm",
-    "qty": 5,
+    "qty": 4,
     "image": "https://s3.amazonaws.com/tarsus.co.za/404K9C_default.png"
    },
    {
@@ -1189,7 +1189,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
     "url": "https://ubratech.co.za/products/hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
-    "qty": 53,
+    "qty": 52,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    },
    {
@@ -1209,7 +1209,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
     "url": "/products/hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
-    "qty": 53,
+    "qty": 52,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    }
   ],
@@ -2137,13 +2137,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Fixed Dome Network Camera",
+    "title": "Hikvision 4MP 2.8mm Smart Hybrid Light with ColorVu Fixed Mini Bullet Network Camera",
     "spec": "4MP",
-    "price": "R2 353",
-    "handle": "hikvision-4mp-fixed-dome-network-camera",
-    "url": "/products/hikvision-4mp-fixed-dome-network-camera",
-    "qty": 12,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
+    "price": "R2 403",
+    "handle": "hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
+    "url": "/products/hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
+    "qty": 712,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LI_2.8MM_e360.jpg"
    },
    {
     "brand": "Hikvision",
@@ -2216,7 +2216,7 @@
     "price": "R205",
     "handle": "hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
     "url": "/products/hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
-    "qty": 72,
+    "qty": 62,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE76D0T_EXIPF2.8MM_752e.jpg"
    },
    {
@@ -2258,7 +2258,7 @@
     "price": "R205",
     "handle": "hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
     "url": "/products/hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
-    "qty": 72,
+    "qty": 62,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE76D0T_EXIPF2.8MM_752e.jpg"
    },
    {
@@ -2300,7 +2300,7 @@
     "price": "R205",
     "handle": "hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
     "url": "/products/hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
-    "qty": 72,
+    "qty": 62,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE76D0T_EXIPF2.8MM_752e.jpg"
    },
    {
