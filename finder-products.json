@@ -84,14 +84,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer EXO14 72 51AG Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.ELVEA.001)",
-    "spec": "Core Ultra 5 · 512GB SSD",
-    "price": "R17 628",
-    "handle": "acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
-    "url": "/products/acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
-    "qty": 63,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.ELVEA.001_default.jpg"
+    "brand": "Lenovo",
+    "title": "Lenovo V15 IRU Laptop — Core i5 · 512GB SSD",
+    "spec": "Core i5 · 512GB SSD",
+    "price": "R17 881",
+    "handle": "lenovo-v15-iru-i5-13420h-8gb-base-ddr5-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-15-6-fhd-tn-hd-cam-wi-fi-ax-2x2-bt-n-fpr-2-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
+    "url": "/products/lenovo-v15-iru-i5-13420h-8gb-base-ddr5-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-15-6-fhd-tn-hd-cam-wi-fi-ax-2x2-bt-n-fpr-2-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
+    "qty": 86,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA_default.jpg"
    },
    {
     "brand": "Asus",
@@ -122,7 +122,7 @@
     "price": "R22 087",
     "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
     "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "qty": 206,
+    "qty": 205,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
    },
    {
@@ -424,7 +424,7 @@
     "price": "R52 965",
     "handle": "dell-pro-precision-7-t1-pw7t1260-intel-core-ultra-7-265-30-mb-cache-20-cores-20-threads-1-8-ghz-to-5-3-ghz-65w-16gb-1-x-16gb-ddr5-up-to-5600-mt-s-1tb-m-2-2230-tlc-pcie-gen4-ssd-nvidia-a1000-8-gb",
     "url": "/products/dell-pro-precision-7-t1-pw7t1260-intel-core-ultra-7-265-30-mb-cache-20-cores-20-threads-1-8-ghz-to-5-3-ghz-65w-16gb-1-x-16gb-ddr5-up-to-5600-mt-s-1tb-m-2-2230-tlc-pcie-gen4-ssd-nvidia-a1000-8-gb",
-    "qty": 10,
+    "qty": 8,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PWT1260-U7-161TB-8GFX_default.png"
    },
    {
@@ -448,7 +448,7 @@
     "price": "R12 809",
     "handle": "pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
-    "qty": 23,
+    "qty": 20,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_DEFENDER_05_wr_01e.jpg"
    },
    {
@@ -468,7 +468,7 @@
     "price": "R22 036",
     "handle": "acer-nitro-v-16-gaming-laptop-16-amd-ryzen-5-16gb-1tb-rtx-5060-8gb-windows-11-home",
     "url": "/products/acer-nitro-v-16-gaming-laptop-16-amd-ryzen-5-16gb-1tb-rtx-5060-8gb-windows-11-home",
-    "qty": 11,
+    "qty": 16,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NH.QYXEA_.001_Acer-NITRO-V-16-Gaming-Laptop-16%E2%80%B3-AMD-Ryzen-5-16GB-1TB-RTX-5060-8GB-Windows-11-Home_wr_001a.jpg"
    },
    {
@@ -552,7 +552,7 @@
     "price": "R12 809",
     "handle": "pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
-    "qty": 23,
+    "qty": 20,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_DEFENDER_05_wr_01e.jpg"
    },
    {
@@ -606,7 +606,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 730,
+    "qty": 680,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -658,7 +658,7 @@
     "price": "R9 103",
     "handle": "asus-proart-27-qhd-1440p-ips-144hz-monitor-with-usb-type-c-96w-pd",
     "url": "/products/asus-proart-27-qhd-1440p-ips-144hz-monitor-with-usb-type-c-96w-pd",
-    "qty": 20,
+    "qty": 23,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PA278CGRV_Asus_ProArt_27_QHD_1440p_IPS_144Hz_Monit_wr_01.png"
    },
    {
@@ -678,7 +678,7 @@
     "price": "R36 421",
     "handle": "asus-proart-ips-32-6k-60hz-monitor-with-usb-type-c-96w-pd",
     "url": "/products/asus-proart-ips-32-6k-60hz-monitor-with-usb-type-c-96w-pd",
-    "qty": 9,
+    "qty": 11,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PA32QCV_Asus_ProArt_IPS_32_6K_60Hz_Monitor_with__wr_02.jpg"
    }
   ],
@@ -690,7 +690,7 @@
     "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 28,
+    "qty": 27,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -700,7 +700,7 @@
     "price": "R3 251",
     "handle": "xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
     "url": "/products/xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
-    "qty": 106,
+    "qty": 168,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6370EU_Xiaomi-G27i-2026-27%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
    },
    {
@@ -732,7 +732,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 730,
+    "qty": 680,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -989,7 +989,7 @@
     "price": "R437",
     "handle": "cudy-ac1200-wi-fi-mesh-kit-1-pack",
     "url": "/products/cudy-ac1200-wi-fi-mesh-kit-1-pack",
-    "qty": 180,
+    "qty": 179,
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/06/M1200-1PACK_wr_01a.jpg"
    },
    {
@@ -1179,7 +1179,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
     "url": "https://ubratech.co.za/products/hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
-    "qty": 52,
+    "qty": 51,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    },
    {
@@ -1199,7 +1199,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
     "url": "/products/hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
-    "qty": 52,
+    "qty": 51,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    }
   ],
@@ -1340,7 +1340,7 @@
     "handle": "dell-pro-thunderbolt-4-dock-wd25tb4",
     "url": "https://ubratech.co.za/products/dell-pro-thunderbolt-4-dock-wd25tb4",
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BTHY_default.jpg",
-    "qty": 16
+    "qty": 15
    },
    {
     "brand": "Port",
@@ -1459,14 +1459,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/981-000480_default.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port 912001 Wired Headset",
+    "brand": "Winx",
+    "title": "WINX CALL Elite AI Noise Cancelling Wireless Headset",
     "spec": "Headsets",
-    "price": "R1 245",
-    "handle": "port-912001-wired-headset",
-    "url": "/products/port-912001-wired-headset",
-    "qty": 57,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__7439.png"
+    "price": "R1 320",
+    "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
+    "url": "/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
+    "qty": 76,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg"
    },
    {
     "brand": "HP",
@@ -1620,28 +1620,28 @@
     "price": "R257",
     "handle": "ugreen-cm767-m-2-nvme-ssd-enclosure-10gbps",
     "url": "/products/ugreen-cm767-m-2-nvme-ssd-enclosure-10gbps",
-    "qty": 40,
+    "qty": 38,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM767-35267_UGreen-CM767-M.2-NVMe-SSD-Enclosure-10Gbps-%E2%80%93-Silver_wr_01a.jpg"
    },
    {
-    "brand": "SanDisk",
-    "title": "SanDisk Optimus 5100 500GB NVMe SSD",
-    "spec": "500GB NVMe SSD",
-    "price": "R2 191",
-    "handle": "sandisk-optimus-5100-500gb-nvme-ssd",
-    "url": "/products/sandisk-optimus-5100-500gb-nvme-ssd",
-    "qty": 65,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__1__861a.png"
+    "brand": "Kingston",
+    "title": "Kingston 256GB KC600 SSD SATA 3 2.5in SSD",
+    "spec": "Storage",
+    "price": "R2 150",
+    "handle": "kingston-256gb-kc600-ssd-sata-3-2-5in-ssd",
+    "url": "/products/kingston-256gb-kc600-ssd-sata-3-2-5in-ssd",
+    "qty": 9,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SKC600/256G_default.jpg"
    },
    {
-    "brand": "Proline",
-    "title": "Proline KINGSTON 1000G NV3 M.2 PCIe 4.0 NVMe SSD",
+    "brand": "Kingston",
+    "title": "Kingston 1TB XS1000 External USB 3.2 Gen 2 Portable Solid State Drive",
     "spec": "Storage",
-    "price": "R5 344",
-    "handle": "proline-kingston-1000g-nv3-m-2-pcie-4-0-nvme-ssd",
-    "url": "/products/proline-kingston-1000g-nv3-m-2-pcie-4-0-nvme-ssd",
-    "qty": 43,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SNV3SM3/1T0_default.jpg"
+    "price": "R5 159",
+    "handle": "kingston-1tb-xs1000-external-usb-3-2-gen-2-portable-solid-state-drive",
+    "url": "/products/kingston-1tb-xs1000-external-usb-3-2-gen-2-portable-solid-state-drive",
+    "qty": 4,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SXS1000/1000G_default.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -1725,7 +1725,7 @@
     "handle": "asus-tuf-gaming-geforce-rtx-5070-12gb-gddr7-oc-edition",
     "url": "https://ubratech.co.za/products/asus-tuf-gaming-geforce-rtx-5070-12gb-gddr7-oc-edition",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/TUF-RTX5070-O12G-GAMING-wr-01.jpg",
-    "qty": 7
+    "qty": 17
    },
    {
     "brand": "MSI",
@@ -1744,18 +1744,18 @@
     "price": "R10 236",
     "handle": "asus-nvidia-geforce-rtx-5050-dual-oc-8gb-gddr6-graphics-card",
     "url": "/products/asus-nvidia-geforce-rtx-5050-dual-oc-8gb-gddr6-graphics-card",
-    "qty": 73,
+    "qty": 85,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/07/DUAL-RTX5050-O8G_Asus-Nvidia-GeForce-RTX-5050-Dual-OC-88G-Graphics-Card_wr_01.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "ASUS Prime Radeon RX 9070 GRE EVO OC Edition 12GB GDDR6 Graphics Card",
+    "brand": "ASRock",
+    "title": "ASRock Radeon RX9070 XT Steel Legend Dark 16GB Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R20 474",
-    "handle": "asus-prime-radeon-rx-9070-gre-evo-oc-edition-12gb-gddr6-graphics-card",
-    "url": "/products/asus-prime-radeon-rx-9070-gre-evo-oc-edition-12gb-gddr6-graphics-card",
-    "qty": 19,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/05/PRIME-RX9070GRE-O12G_ASUS-Prime-Radeon-RX-9070-GRE-EVO-OC-Edition-12GB-GDDR6-Graphics-Card_wr_01a.jpg"
+    "price": "R20 896",
+    "handle": "asrock-radeon-rx9070-xt-steel-legend-dark-16gb-graphics-card",
+    "url": "/products/asrock-radeon-rx9070-xt-steel-legend-dark-16gb-graphics-card",
+    "qty": 29,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/RX9070XTSTEELLEGENDDARK16_ASROCK-RADEON-RX9070-XT-STEEL-LEGEND-DAR_wr_01.jpg"
    },
    {
     "brand": "Asus",
@@ -1764,7 +1764,7 @@
     "price": "R40 950",
     "handle": "asus-tuf-gaming-geforce-rtx-5080-16gb-gddr7-oc-edition",
     "url": "/products/asus-tuf-gaming-geforce-rtx-5080-16gb-gddr7-oc-edition",
-    "qty": 9,
+    "qty": 22,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/TUF-RTX5080-O16G-GAMING-wr-01.jpg"
    }
   ],
@@ -1777,7 +1777,7 @@
     "handle": "asus-prime-750w-80-plus-bronze-atx-non-modular-power-supply",
     "url": "https://ubratech.co.za/products/asus-prime-750w-80-plus-bronze-atx-non-modular-power-supply",
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/PRIME-750B-BLACK_Asus-PRIME-750W-80-PLUS-Bronze-ATX-Non-modular-Power-Supply_wr_01a.jpg",
-    "qty": 55
+    "qty": 79
    },
    {
     "brand": "Antec",
@@ -1786,38 +1786,38 @@
     "price": "R558",
     "handle": "antec-atom-v550-non-modular-power-supply",
     "url": "/products/antec-atom-v550-non-modular-power-supply",
-    "qty": 90,
+    "qty": 86,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/ATOM-V550_wr_01a.jpg"
    },
    {
-    "brand": "Antec",
-    "title": "Antec Atom G750 Semi-Modular Power Supply",
+    "brand": "FSP",
+    "title": "FSP VITA BD 850W 80PLUS Bronze ATX3.1 Non-modular Power Supply",
     "spec": "Power Supplies",
-    "price": "R1 118",
-    "handle": "antec-atom-g750-semi-modular-power-supply",
-    "url": "/products/antec-atom-g750-semi-modular-power-supply",
-    "qty": 139,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/11/Antec_ATOM-G750_wr_01a.jpg"
-   },
-   {
-    "brand": "DeepCool",
-    "title": "DeepCool Gamerstorm PQ1000G 1000W 80PLUS Gold Fully Modular Power Supply",
-    "spec": "Power Supplies",
-    "price": "R2 049",
-    "handle": "deepcool-gamerstorm-pq1000g-1000w-80plus-gold-fully-modular-power-supply",
-    "url": "/products/deepcool-gamerstorm-pq1000g-1000w-80plus-gold-fully-modular-power-supply",
-    "qty": 10,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/R-PQA00G-FD1B-JGEU-V1_DeepCool_Gamerstorm_PQ1000G_1000W_80PLUS_wr_01.jpg"
+    "price": "R1 195",
+    "handle": "fsp-vita-bd-850w-80plus-bronze-atx3-1-non-modular-power-supply",
+    "url": "/products/fsp-vita-bd-850w-80plus-bronze-atx3-1-non-modular-power-supply",
+    "qty": 23,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/VITA-850BD_FSP-VITA-BD-850W-80PLUS-Bronze-ATX3.1-Non-modular-Power-Supply_wr_01.jpg"
    },
    {
     "brand": "Asus",
-    "title": "ASUS ROG LOKI SFX-L 1000W 80 PLUS Platinum SFX-L Modular Power Supply",
+    "title": "ASUS TUF Gaming EVO 850W 80 PLUS Gold Modular Power Supply",
     "spec": "Power Supplies",
-    "price": "R7 634",
-    "handle": "asus-rog-loki-sfx-l-1000w-80-plus-platinum-sfx-l-modular-power-supply",
-    "url": "/products/asus-rog-loki-sfx-l-1000w-80-plus-platinum-sfx-l-modular-power-supply",
+    "price": "R2 790",
+    "handle": "asus-tuf-gaming-evo-850w-80-plus-gold-modular-power-supply",
+    "url": "/products/asus-tuf-gaming-evo-850w-80-plus-gold-modular-power-supply",
+    "qty": 13,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/TUF-GAMING-850G-EVO_ASUS_PSU_TUF_GAMING_EVO_850W_GOLD_MOD_wr_01.jpg"
+   },
+   {
+    "brand": "Asus",
+    "title": "Asus ROG Thor 1200W 80 PLUS Platinum III ATX Modular Power Supply",
+    "spec": "Power Supplies",
+    "price": "R8 841",
+    "handle": "asus-rog-thor-1200w-80-plus-platinum-iii-atx-modular-power-supply",
+    "url": "/products/asus-rog-thor-1200w-80-plus-platinum-iii-atx-modular-power-supply",
     "qty": 4,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/ROG-LOKI-1000PSFX-L-GAM_ASUS_ROG_LOKI_SFX-L_1000W_80_PLUS_Platin_wr_01.png"
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ROG-THOR-1200P3-GAMING_Asus-ROG-Thor-1200W-80-PLUS-Platinum-III-ATX-Modular-Power-Supply-Black_wr_01a.jpg"
    }
   ]
  },
@@ -1840,7 +1840,7 @@
     "price": "R229",
     "handle": "xiaomi-smart-temperature-and-humidity-monitor-3-mini",
     "url": "/products/xiaomi-smart-temperature-and-humidity-monitor-3-mini",
-    "qty": 96,
+    "qty": 98,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/QBH4312GL_Xiaomi-Smart-Temperature-and-Humidity-Monitor-3-Mini-White_wr_01a.jpg"
    },
    {
@@ -1893,7 +1893,7 @@
     "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
     "url": "https://ubratech.co.za/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg",
-    "qty": 77
+    "qty": 76
    },
    {
     "brand": "Xiaomi",
@@ -1906,24 +1906,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/BHR8930GL_wr_01.jpg"
    },
    {
-    "brand": "Logitech",
-    "title": "Logitech Compact stereo speakers with 6W peak power. Dual input…",
-    "spec": "Headsets",
-    "price": "R515",
-    "handle": "logitech-compact-stereo-speakers-with-6w-peak-power-dual-input-3-5-mm-aux-for-connecting-two-devices-front-facing-volume-and-headphone-jack",
-    "url": "/products/logitech-compact-stereo-speakers-with-6w-peak-power-dual-input-3-5-mm-aux-for-connecting-two-devices-front-facing-volume-and-headphone-jack",
-    "qty": 4,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/980-000814_default.png"
+    "brand": "Redmi",
+    "title": "Redmi Buds 8 Lite - Black",
+    "spec": "Tv And Audio",
+    "price": "R516",
+    "handle": "redmi-buds-8-lite-black",
+    "url": "/products/redmi-buds-8-lite-black",
+    "qty": 99,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/BHR08OMGL_Xiaomi-Redmi-Buds-8-Lite-Black_wr_01b.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell WH3024 Wired Headset",
+    "brand": "HP",
+    "title": "HP HyperX Cloud Stinger 3 Wired Gaming Headset Black",
     "spec": "Headsets",
-    "price": "R1 080",
-    "handle": "dell-wh3024-wired-headset",
-    "url": "/products/dell-wh3024-wired-headset",
-    "qty": 14,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/5/2/520_BBDH_a863.png"
+    "price": "R1 081",
+    "handle": "hp-hyperx-cloud-stinger-3-wired-gaming-headset-black",
+    "url": "/products/hp-hyperx-cloud-stinger-3-wired-gaming-headset-black",
+    "qty": 27,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/B/S/BS1T5AA_5dbd.jpg"
    },
    {
     "brand": "Poly",
