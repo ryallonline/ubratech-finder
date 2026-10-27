@@ -1534,24 +1534,24 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008D_a815.png"
    },
    {
-    "brand": "Cudy",
-    "title": "Cudy 4 Port Gigabit PoE 1x PoE Input 60W Switch",
-    "spec": "4 ports",
-    "price": "R543",
-    "handle": "cudy-4-port-gigabit-poe-1x-poe-input-60w-switch",
-    "url": "/products/cudy-4-port-gigabit-poe-1x-poe-input-60w-switch",
-    "qty": 25,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/POE40_Cudy_4_Port_Gigabit_PoE_1x_PoE_Input_60W_wr_02.png"
+    "brand": "TP-Link",
+    "title": "TP-Link 8 Port Gigabit Unmanaged Rackmount POE Switch",
+    "spec": "8 ports",
+    "price": "R1 838",
+    "handle": "tp-link-8-port-gigabit-unmanaged-rackmount-poe-switch",
+    "url": "/products/tp-link-8-port-gigabit-unmanaged-rackmount-poe-switch",
+    "qty": 3,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008MP_68a7.jpg"
    },
    {
     "brand": "Huawei",
-    "title": "Huawei S310-48P4S Ekit 48 Port POE Switch",
+    "title": "Huawei S310-48P4X Ekit 48 Port POE Switch",
     "spec": "48 ports",
-    "price": "R6 043",
-    "handle": "huawei-s310-48p4s-ekit-48-port-poe-switch",
-    "url": "/products/huawei-s310-48p4s-ekit-48-port-poe-switch",
-    "qty": 106,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_12a1.png"
+    "price": "R6 169",
+    "handle": "huawei-s310-48p4x-ekit-48-port-poe-switch",
+    "url": "/products/huawei-s310-48p4x-ekit-48-port-poe-switch",
+    "qty": 6,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_fcaa.png"
    },
    {
     "brand": "Tenda",
@@ -1860,7 +1860,7 @@
     "price": "R1 121",
     "handle": "xiaomi-smart-humidifier-2",
     "url": "/products/xiaomi-smart-humidifier-2",
-    "qty": 199,
+    "qty": 195,
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/BHR6026EU_wr_01a.jpg"
    },
    {
@@ -1979,23 +1979,23 @@
    },
    {
     "brand": "Giada",
-    "title": "Giada Vesa Mount for F210",
+    "title": "Giada JC553 VESA Wall Mounting Kit",
     "spec": "Accessories",
     "price": "R133",
-    "handle": "giada-vesa-mount-for-f210-f200-vm23-dn7x",
-    "url": "/products/giada-vesa-mount-for-f210-f200-vm23-dn7x",
-    "qty": 22,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2016/02/JC530_wr_01a.jpg"
+    "handle": "giada-jc553-vesa-wall-mounting-kit",
+    "url": "/products/giada-jc553-vesa-wall-mounting-kit",
+    "qty": 4,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/JC553_wr_01.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP 65W Smart AC Adapter (H6Y89AA-P)",
-    "spec": "Cables And Adapters",
+    "brand": "Datanet",
+    "title": "Datanet CAT6 24 PORT 19\" Patch Panel",
+    "spec": "19\" screen · 24 ports",
     "price": "R427",
-    "handle": "hp-65w-smart-ac-adapter-h6y89aa-p",
-    "url": "/products/hp-65w-smart-ac-adapter-h6y89aa-p",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/H6Y89AA-P_default.png"
+    "handle": "datanet-cat6-24-port-19-patch-panel",
+    "url": "/products/datanet-cat6-24-port-19-patch-panel",
+    "qty": 53,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__16__3a42.png"
    },
    {
     "brand": "HP",
