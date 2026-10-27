@@ -22,24 +22,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NX.KKAEA_.001_Acer-Chromebook-311-C723-11.6-inch-MediaTek-Kompanio-528-4GB-32GB-Google-Chrome-Operating-System_wr_01a.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer Gadget E10 ETBook 15.6″ Laptop · Laptop — Ryzen 5 · 8GB · 256GB SSD",
-    "spec": "Ryzen 5 · 15.6\" screen · 256GB SSD",
-    "price": "R8 575",
-    "handle": "acer-gadget-e10-etbook-15-6-laptop-ryzen-5-3450u-8gb-ddr4-256gb-nvme-radeon-graphics-windows-11-home",
-    "url": "/products/acer-gadget-e10-etbook-15-6-laptop-ryzen-5-3450u-8gb-ddr4-256gb-nvme-radeon-graphics-windows-11-home",
-    "qty": 19,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/HP_NBETB_004_Acer_Gadget_E10_ETBook_R3_156_Laptop_Ryz_wr_01.png"
+    "brand": "Lenovo",
+    "title": "Lenovo Ideapad Slim 3 Laptop",
+    "spec": "Notebooks",
+    "price": "R8 291",
+    "handle": "lenovo-ideapad-slim-3-15-6-fhd-radeon-610m-athlon-silver-10-8gb-256gb-win-11-home-notebook",
+    "url": "/products/lenovo-ideapad-slim-3-15-6-fhd-radeon-610m-athlon-silver-10-8gb-256gb-win-11-home-notebook",
+    "qty": 9,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/8/2/82XQ01EGSA_7ee7.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer LITE 14 R3 5400U 8 512 14\" FHD IPS SLIM BEZEL Windows 11 Home",
-    "spec": "14\" screen",
-    "price": "R11 080",
-    "handle": "acer-lite-14-r3-5400u-8-512-14-fhd-ips-slim-bezel-windows-11-home",
-    "url": "/products/acer-lite-14-r3-5400u-8-512-14-fhd-ips-slim-bezel-windows-11-home",
-    "qty": 40,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.DQNEA.001_default.jpg"
+    "brand": "Asus",
+    "title": "Asus VivoBook 15 X1504MA 15.6\" Core-i3 8GB 256GB Win 11 Home Notebook",
+    "spec": "Core i3 · 15.6\" screen · 8GB RAM",
+    "price": "R11 332",
+    "handle": "asus-vivobook-15-x1504ma-15-6-core-i3-8gb-256gb-win-11-home-notebook",
+    "url": "/products/asus-vivobook-15-x1504ma-15-6-core-i3-8gb-256gb-win-11-home-notebook",
+    "qty": 87,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__65__4073.png"
    },
    {
     "brand": "Lenovo",
@@ -60,7 +60,7 @@
     "price": "R13 978",
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
-    "qty": 24,
+    "qty": 30,
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
@@ -80,7 +80,7 @@
     "price": "R13 978",
     "handle": "lenovo-v15-iru-i3-1315u-8gb-base-ddr5-256gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-15-6-fhd-tn-hd-camera-wi-fi-ax-2x2-bt-no-fpr-3-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
     "url": "/products/lenovo-v15-iru-i3-1315u-8gb-base-ddr5-256gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-15-6-fhd-tn-hd-camera-wi-fi-ax-2x2-bt-no-fpr-3-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
-    "qty": 24,
+    "qty": 30,
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
@@ -127,23 +127,23 @@
    },
    {
     "brand": "HP",
-    "title": "HP ProBook 4 G2i AI 16in Laptop — 16GB · 512GB SSD (DS5L6ET)",
+    "title": "HP ProBook 4 G2i AI 14in Laptop — 16GB · 512GB SSD (DS5H9ET)",
     "spec": "512GB SSD",
-    "price": "R31 266",
-    "handle": "hp-probook-4-g2i-ai-16in-intel-core-7-350-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "url": "/products/hp-probook-4-g2i-ai-16in-intel-core-7-350-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "qty": 78,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DS5L6ET_default.png"
+    "price": "R31 379",
+    "handle": "hp-probook-4-g2i-ai-14in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "url": "/products/hp-probook-4-g2i-ai-14in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "qty": 23,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DS5H9ET_default.png"
    },
    {
-    "brand": "HP",
-    "title": "HP Pro x360 13.3\" Ryzen-7 16GB 1TB Win 11 Pro Silver Notebook",
-    "spec": "Ryzen 7 · 13.3\" screen · 16GB RAM",
-    "price": "R37 285",
-    "handle": "hp-pro-x360-13-3-ryzen-7-16gb-1tb-win-11-pro-silver-notebook",
-    "url": "/products/hp-pro-x360-13-3-ryzen-7-16gb-1tb-win-11-pro-silver-notebook",
-    "qty": 25,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/968K3ET__1__1391.jpg"
+    "brand": "Asus",
+    "title": "Asus Zenbook S16 UM5606GA 16\" 3K OLED 120Hz Ryzen AI 9-465 16GB 1TB Win 11 Pro Notebook",
+    "spec": "Ryzen AI 9 · 16\" screen · 16GB RAM",
+    "price": "R39 665",
+    "handle": "asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
+    "url": "/products/asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
+    "qty": 8,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_S16_UM5606GA_Product_photo_3G_Antrim_Gray_03__1__de3e.jpg"
    },
    {
     "brand": "HP",
@@ -268,7 +268,7 @@
     "price": "R11 826",
     "handle": "pcbuilder-cube-intel-i5-1235u-16gb-ddr4-1tb-windows-11-home-mini-pc",
     "url": "/products/pcbuilder-cube-intel-i5-1235u-16gb-ddr4-1tb-windows-11-home-mini-pc",
-    "qty": 12,
+    "qty": 13,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/PCB_CUBE_I516G_HOME_PCBuilder-CUBE-i5-1235U-16GB-DDR4-1TB-Windows-11-Home-Mini-PC_wr_01a.jpg"
    }
   ],
@@ -330,7 +330,7 @@
     "price": "R21 461",
     "handle": "dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
     "url": "/products/dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
-    "qty": 74,
+    "qty": 73,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO004_QVS1260_EMEA_default.jpg"
    }
   ],
@@ -414,7 +414,7 @@
     "price": "R52 965",
     "handle": "dell-pro-precision-7-t1-pw7t1260-intel-core-ultra-7-265-30-mb-cache-20-cores-20-threads-1-8-ghz-to-5-3-ghz-65w-16gb-1-x-16gb-ddr5-up-to-5600-mt-s-1tb-m-2-2230-tlc-pcie-gen4-ssd-nvidia-a1000-8-gb",
     "url": "/products/dell-pro-precision-7-t1-pw7t1260-intel-core-ultra-7-265-30-mb-cache-20-cores-20-threads-1-8-ghz-to-5-3-ghz-65w-16gb-1-x-16gb-ddr5-up-to-5600-mt-s-1tb-m-2-2230-tlc-pcie-gen4-ssd-nvidia-a1000-8-gb",
-    "qty": 8,
+    "qty": 7,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PWT1260-U7-161TB-8GFX_default.png"
    },
    {
@@ -586,7 +586,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 679,
+    "qty": 678,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -596,18 +596,18 @@
     "price": "R1 486",
     "handle": "hikvision-18-5-borderless-fhd-monitor",
     "url": "/products/hikvision-18-5-borderless-fhd-monitor",
-    "qty": 68,
+    "qty": 63,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
     "brand": "HP",
-    "title": "HP Series 3 Pro 24\" FHD Monitor",
-    "spec": "24\" screen",
-    "price": "R3 122",
-    "handle": "hp-series-3-pro-24-fhd-monitor",
-    "url": "/products/hp-series-3-pro-24-fhd-monitor",
-    "qty": 29,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5C1AA_1ac3.jpg"
+    "title": "HP Series 3 Pro 322pv 21.45\" FHD 100Hz 5ms LED VA Monitor",
+    "spec": "45\" screen",
+    "price": "R3 160",
+    "handle": "hp-series-3-pro-322pv-21-45-fhd-100hz-5ms-led-va-monitor",
+    "url": "/products/hp-series-3-pro-322pv-21-45-fhd-100hz-5ms-led-va-monitor",
+    "qty": 60,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/H/P/HP_9U5A2AA_9a08.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -670,7 +670,7 @@
     "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 16,
+    "qty": 11,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -712,7 +712,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 679,
+    "qty": 678,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -722,7 +722,7 @@
     "price": "R1 486",
     "handle": "hikvision-18-5-borderless-fhd-monitor",
     "url": "/products/hikvision-18-5-borderless-fhd-monitor",
-    "qty": 68,
+    "qty": 63,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
@@ -786,7 +786,7 @@
     "price": "R1 648",
     "handle": "eaton-5e-900va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-900va-gen2-usb-iec-ups",
-    "qty": 47,
+    "qty": 45,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E900UI_761f.png"
    },
    {
@@ -1435,7 +1435,7 @@
     "price": "R666",
     "handle": "logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
     "url": "/products/logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
-    "qty": 39,
+    "qty": 38,
     "image": "https://s3.amazonaws.com/tarsus.co.za/981-000480_default.jpg"
    },
    {
@@ -1504,14 +1504,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008D_a815.png"
    },
    {
-    "brand": "TP-Link",
-    "title": "TP-Link 8 Port Gigabit Unmanaged Rackmount POE Switch",
-    "spec": "8 ports",
-    "price": "R1 838",
-    "handle": "tp-link-8-port-gigabit-unmanaged-rackmount-poe-switch",
-    "url": "/products/tp-link-8-port-gigabit-unmanaged-rackmount-poe-switch",
-    "qty": 3,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008MP_68a7.jpg"
+    "brand": "Huawei",
+    "title": "Huawei S310 24P4S 24-Ports POE Switch",
+    "spec": "Networking And Wireless",
+    "price": "R3 776",
+    "handle": "huawei-s310-24p4s-24-ports-poe-switch",
+    "url": "/products/huawei-s310-24p4s-24-ports-poe-switch",
+    "qty": 4,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/h/u/huawei_switch_s310_24p4s_24ge_ports_4ge_sfp_ports_poe_ac_power_98012201_380436__c994.png"
    },
    {
     "brand": "Huawei",
@@ -1604,14 +1604,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM767-35267_UGreen-CM767-M.2-NVMe-SSD-Enclosure-10Gbps-%E2%80%93-Silver_wr_01a.jpg"
    },
    {
-    "brand": "SanDisk",
-    "title": "SanDisk Optimus 5100 500GB NVMe SSD",
-    "spec": "500GB NVMe SSD",
-    "price": "R2 191",
-    "handle": "sandisk-optimus-5100-500gb-nvme-ssd",
-    "url": "/products/sandisk-optimus-5100-500gb-nvme-ssd",
-    "qty": 65,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__1__861a.png"
+    "brand": "Kingston",
+    "title": "Kingston 480GB A400 SATA3 2.5 SSD",
+    "spec": "Storage",
+    "price": "R2 207",
+    "handle": "kingston-480gb-a400-sata3-2-5-ssd-7mm-height",
+    "url": "/products/kingston-480gb-a400-sata3-2-5-ssd-7mm-height",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SA400S37/480G_default.jpg"
    },
    {
     "brand": "Proline",
@@ -2011,23 +2011,23 @@
    },
    {
     "brand": "Port",
-    "title": "Port Pure MAC Wireless Copper Rose Mouse",
+    "title": "Port Pure MAC Wireless Iris Mouse",
     "spec": "Wired Mouse",
     "price": "R371",
-    "handle": "port-pure-mac-wireless-copper-rose-mouse",
-    "url": "/products/port-pure-mac-wireless-copper-rose-mouse",
-    "qty": 27,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__13__9474.png"
+    "handle": "port-pure-mac-wireless-iris-mouse",
+    "url": "/products/port-pure-mac-wireless-iris-mouse",
+    "qty": 41,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__12__8186.png"
    },
    {
-    "brand": "Port",
-    "title": "Port Executive Wireless Black Mouse",
-    "spec": "Wired Mouse",
-    "price": "R729",
-    "handle": "port-executive-wireless-black-mouse",
-    "url": "/products/port-executive-wireless-black-mouse",
-    "qty": 99,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_044c.png"
+    "brand": "Winx",
+    "title": "WINX ELITE Wireless and BT Keyboard",
+    "spec": "Keyboards",
+    "price": "R734",
+    "handle": "winx-elite-wireless-and-bt-keyboard",
+    "url": "/products/winx-elite-wireless-and-bt-keyboard",
+    "qty": 211,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2023/11/WX-KB104_wr_01.jpg"
    },
    {
     "brand": "Keychron",
@@ -2055,13 +2055,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Fixed Dome Network Camera",
+    "title": "Hikvision 4MP 4mm Build-In Mic Fixed Network IP Camera",
     "spec": "4MP",
-    "price": "R2 353",
-    "handle": "hikvision-4mp-fixed-dome-network-camera",
-    "url": "/products/hikvision-4mp-fixed-dome-network-camera",
-    "qty": 12,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
+    "price": "R1 623",
+    "handle": "hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
+    "url": "/products/hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
+    "qty": 5,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2141G0_LIU_4MM_ee84.jpg"
    },
    {
     "brand": "Hikvision",
@@ -2097,13 +2097,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP 4mm Build-In Mic Fixed Network IP Camera",
+    "title": "Hikvision 4MP 2.8mm Fixed Bullet Network Camera",
     "spec": "4MP",
-    "price": "R1 623",
-    "handle": "hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
-    "url": "/products/hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
-    "qty": 403,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2141G0_LIU_4MM_ee84.jpg"
+    "price": "R1 560",
+    "handle": "hikvision-4mp-2-8mm-fixed-bullet-network-camera",
+    "url": "/products/hikvision-4mp-2-8mm-fixed-bullet-network-camera",
+    "qty": 466,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2041G0_LIU_2.8MM_e3b5.png"
    },
    {
     "brand": "Hikvision",
@@ -2139,13 +2139,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP 2.8mm Smart Hybrid Light with ColorVu Fixed Mini Bullet Network Camera",
+    "title": "Hikvision 4MP Fixed Dome Network Camera",
     "spec": "4MP",
-    "price": "R2 403",
-    "handle": "hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
-    "url": "/products/hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
-    "qty": 712,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LI_2.8MM_e360.jpg"
+    "price": "R2 353",
+    "handle": "hikvision-4mp-fixed-dome-network-camera",
+    "url": "/products/hikvision-4mp-fixed-dome-network-camera",
+    "qty": 748,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
    },
    {
     "brand": "Hikvision",
@@ -2164,7 +2164,7 @@
     "price": "R9 752",
     "handle": "hikvision-4mp-deepinview-anpr-moto-varifocal-bullet-ip-camera",
     "url": "/products/hikvision-4mp-deepinview-anpr-moto-varifocal-bullet-ip-camera",
-    "qty": 59,
+    "qty": 57,
     "image": "https://www.pinnacle.co.za/media/catalog/product/I/D/IDS_2CD7A46G2_P_IZHS2.8_12MM_ac9b.jpg"
    }
   ],
@@ -2176,7 +2176,7 @@
     "price": "R205",
     "handle": "hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
     "url": "/products/hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
-    "qty": 62,
+    "qty": 42,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE76D0T_EXIPF2.8MM_752e.jpg"
    },
    {
@@ -2218,7 +2218,7 @@
     "price": "R205",
     "handle": "hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
     "url": "/products/hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
-    "qty": 62,
+    "qty": 42,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE76D0T_EXIPF2.8MM_752e.jpg"
    },
    {
@@ -2260,7 +2260,7 @@
     "price": "R205",
     "handle": "hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
     "url": "/products/hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
-    "qty": 62,
+    "qty": 42,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE76D0T_EXIPF2.8MM_752e.jpg"
    },
    {
@@ -2319,25 +2319,25 @@
    "enquiry": true
   },
   {
-   "brand": "MikroTik",
-   "title": "Mikrotik cAP AC XL Dual Band 1200Mbps Wi-Fi 5 Ceiling AP · MT-RBCAP-AC-XL",
-   "spec": "802.11 b/g/n/ac, 6dBi (2.4GHz) 5.5dBi (5GHz), Dual chain, PoE-in 802.3",
-   "price": "R1 997",
-   "handle": "mikrotik-cap-ac-xl-dual-band-1200mbps-wi-fi-5-ceiling-ap-mt-rbcap-ac-xl",
-   "url": "/pages/mikrotik-cap-ac-xl-dual-band-1200mbps-wi-fi-5-ceiling-ap-mt-rbcap-ac-xl",
+   "brand": "TP-Link Omada",
+   "title": "TP-Link Omada BE3600 Ceiling Mount Wi-Fi 7 Access Point",
+   "spec": "1×2.5G RJ45 Port, 688Mbps at 2.4 GHz + 4324 Mbps at 5 GHz, 802.3at PoE",
+   "price": "R2 056",
+   "handle": "tp-link-omada-be3600-ceiling-mount-wi-fi-7-access-point-tp-eap723",
+   "url": "/pages/tp-link-omada-be3600-ceiling-mount-wi-fi-7-access-point-tp-eap723",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/5/7/0/2/5702.jpg",
+   "image": "https://miro.co.za/img/p/1/6/9/5/7/16957.jpg",
    "enquiry": true
   },
   {
-   "brand": "Grandstream",
-   "title": "Grandstream Enterprise Outdoor WiFi 7 Long Range Access Point",
-   "spec": "Outdoor Long-Range Dual-Band Wi-Fi 7 Access Point/Bridge, 2x2:2 2.4/5G",
-   "price": "R3 075",
-   "handle": "grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
-   "url": "/pages/grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
+   "brand": "HPE Networking Instant On",
+   "title": "HPE Networking Instant On WiFi 5 Wave 2 Indoor Access Point",
+   "spec": "Dual band, 802.11ac Wave2, 2033Mbps, PoE excl, GbE uplink port, 4x4:4 ",
+   "price": "R2 971",
+   "handle": "hpe-networking-instant-on-wifi-5-wave-2-indoor-access-point-ap15",
+   "url": "/pages/hpe-networking-instant-on-wifi-5-wave-2-indoor-access-point-ap15",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/8/7/0/7/18707.jpg",
+   "image": "https://miro.co.za/img/p/1/0/7/2/6/10726.jpg",
    "enquiry": true
   },
   {
