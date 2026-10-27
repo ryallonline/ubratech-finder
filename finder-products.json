@@ -22,24 +22,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NX.KKAEA_.001_Acer-Chromebook-311-C723-11.6-inch-MediaTek-Kompanio-528-4GB-32GB-Google-Chrome-Operating-System_wr_01a.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo Ideapad Slim 3 Laptop",
-    "spec": "Notebooks",
-    "price": "R8 291",
-    "handle": "lenovo-ideapad-slim-3-15-6-fhd-radeon-610m-athlon-silver-10-8gb-256gb-win-11-home-notebook",
-    "url": "/products/lenovo-ideapad-slim-3-15-6-fhd-radeon-610m-athlon-silver-10-8gb-256gb-win-11-home-notebook",
-    "qty": 9,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/8/2/82XQ01EGSA_7ee7.jpg"
+    "brand": "Acer",
+    "title": "Acer Gadget E10 ETBook 15.6″ Laptop · Laptop — Ryzen 5 · 8GB · 256GB SSD",
+    "spec": "Ryzen 5 · 15.6\" screen · 256GB SSD",
+    "price": "R8 575",
+    "handle": "acer-gadget-e10-etbook-15-6-laptop-ryzen-5-3450u-8gb-ddr4-256gb-nvme-radeon-graphics-windows-11-home",
+    "url": "/products/acer-gadget-e10-etbook-15-6-laptop-ryzen-5-3450u-8gb-ddr4-256gb-nvme-radeon-graphics-windows-11-home",
+    "qty": 69,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/HP_NBETB_004_Acer_Gadget_E10_ETBook_R3_156_Laptop_Ryz_wr_01.png"
    },
    {
-    "brand": "Asus",
-    "title": "Asus VivoBook 15 X1504MA 15.6\" Core-i3 8GB 256GB Win 11 Home Notebook",
-    "spec": "Core i3 · 15.6\" screen · 8GB RAM",
-    "price": "R11 332",
-    "handle": "asus-vivobook-15-x1504ma-15-6-core-i3-8gb-256gb-win-11-home-notebook",
-    "url": "/products/asus-vivobook-15-x1504ma-15-6-core-i3-8gb-256gb-win-11-home-notebook",
-    "qty": 87,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__65__4073.png"
+    "brand": "HP",
+    "title": "HP 250R G10 15.6\" Core 3 100U 8GB 512GB Win 11 Pro Silver Notebook",
+    "spec": "Core 3 · 15.6\" screen · 8GB RAM",
+    "price": "R10 930",
+    "handle": "hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
+    "url": "/products/hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
+    "qty": 39,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/7/C78E8AT_98d1.jpg"
    },
    {
     "brand": "Lenovo",
@@ -70,7 +70,7 @@
     "price": "R17 881",
     "handle": "lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
-    "qty": 56,
+    "qty": 57,
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA_default.jpg"
    },
    {
@@ -84,14 +84,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus Vivobook 15 X1504VA 15.6\" FHD IPS Core 5-120U 16GB 512GB Win 11 Home Blue Notebook",
-    "spec": "Core 5 · 15.6\" screen · 16GB RAM",
-    "price": "R17 125",
-    "handle": "asus-vivobook-15-x1504va-15-6-fhd-ips-core-5-120u-16gb-512gb-win-11-home-blue-notebook",
-    "url": "/products/asus-vivobook-15-x1504va-15-6-fhd-ips-core-5-120u-16gb-512gb-win-11-home-blue-notebook",
-    "qty": 265,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/V/i/Vivobook_15_X1504VAP_Product_photo_1B_Quite_Blue_05_45a1.jpg"
+    "brand": "Acer",
+    "title": "Acer EXO14 72 51AG Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.ELVEA.001)",
+    "spec": "Core Ultra 5 · 512GB SSD",
+    "price": "R17 628",
+    "handle": "acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
+    "url": "/products/acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
+    "qty": 63,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.ELVEA.001_default.jpg"
    },
    {
     "brand": "HP",
@@ -116,14 +116,14 @@
   ],
   "high": [
    {
-    "brand": "Asus",
-    "title": "Asus Vivobook 15 X1504VAP 15.6\" Core-i7 16GB 512GB Win 11 Pro Notebook",
-    "spec": "Core i7 · 15.6\" screen · 16GB RAM",
-    "price": "R22 162",
-    "handle": "asus-vivobook-15-x1504vap-15-6-core-i7-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/asus-vivobook-15-x1504vap-15-6-core-i7-16gb-512gb-win-11-pro-notebook",
-    "qty": 26,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__85__2e2b.png"
+    "brand": "HP",
+    "title": "HP ProBook 4 G1iR 14' Core-5 16GB 512GB Win 11 Pro Notebook",
+    "spec": "Core 5 · 16GB RAM",
+    "price": "R22 087",
+    "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
+    "qty": 195,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
    },
    {
     "brand": "HP",
@@ -136,14 +136,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DS5H9ET_default.png"
    },
    {
-    "brand": "Asus",
-    "title": "Asus Zenbook S16 UM5606GA 16\" 3K OLED 120Hz Ryzen AI 9-465 16GB 1TB Win 11 Pro Notebook",
-    "spec": "Ryzen AI 9 · 16\" screen · 16GB RAM",
-    "price": "R39 665",
-    "handle": "asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
-    "url": "/products/asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
-    "qty": 8,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_S16_UM5606GA_Product_photo_3G_Antrim_Gray_03__1__de3e.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 14 Plus 14\" Core-U7 16GB 512GB Win 11 Pro Notebook (BTO216_PB14250)",
+    "spec": "14\" screen · 16GB RAM",
+    "price": "R39 939",
+    "handle": "dell-pro-14-plus-14-core-u7-16gb-512gb-win-11-pro-notebook-bto216-pb14250",
+    "url": "/products/dell-pro-14-plus-14-core-u7-16gb-512gb-win-11-pro-notebook-bto216-pb14250",
+    "qty": 6,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__78__cec9.png"
    },
    {
     "brand": "HP",
@@ -174,7 +174,7 @@
     "price": "R43 317",
     "handle": "hp-zbook-8-g1i-laptop-core-ultra-7-512gb-ssd-cg0k8et",
     "url": "https://ubratech.co.za/products/hp-zbook-8-g1i-laptop-core-ultra-7-512gb-ssd-cg0k8et",
-    "qty": 8,
+    "qty": 7,
     "image": "https://s3.amazonaws.com/tarsus.co.za/CG0K8ET_default.jpg"
    },
    {
@@ -228,7 +228,7 @@
     "price": "R20 147",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 3,
+    "qty": 39,
     "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    },
    {
@@ -280,7 +280,7 @@
     "price": "R20 147",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 3,
+    "qty": 39,
     "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    },
    {
@@ -382,7 +382,7 @@
     "price": "R72 632",
     "handle": "dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
     "url": "/products/dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
-    "qty": 42,
+    "qty": 39,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PW516261-U7-321TB-5G_default.jpg"
    }
   ],
@@ -424,7 +424,7 @@
     "price": "R72 632",
     "handle": "dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
     "url": "/products/dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
-    "qty": 42,
+    "qty": 39,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PW516261-U7-321TB-5G_default.jpg"
    }
   ]
@@ -438,7 +438,7 @@
     "price": "R15 763",
     "handle": "pcbuilder-ryzen-5-8600g-warden-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-8600g-warden-windows-11-gaming-pc",
-    "qty": 6,
+    "qty": 5,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_WARDEN_02_PCBuilder-Ryzen-5-8600G-WARDEN-Windows-11-Gaming-PC_wr_01a.jpg"
    },
    {
@@ -542,7 +542,7 @@
     "price": "R15 763",
     "handle": "pcbuilder-ryzen-5-8600g-warden-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-8600g-warden-windows-11-gaming-pc",
-    "qty": 6,
+    "qty": 5,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_WARDEN_02_PCBuilder-Ryzen-5-8600G-WARDEN-Windows-11-Gaming-PC_wr_01a.jpg"
    },
    {
@@ -610,14 +610,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDT_e6cb.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP Series 3 Pro 23.8\" FHD IPS Monitor",
-    "spec": "23.8\" screen",
-    "price": "R3 235",
-    "handle": "hp-series-3-pro-23-8-fhd-ips-monitor",
-    "url": "/products/hp-series-3-pro-23-8-fhd-ips-monitor",
-    "qty": 15,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5J5UT_61c4.jpg"
+    "brand": "MSI",
+    "title": "MSI MAG 275F E20 27\" FHD 200Hz Rapid IPS Gaming Monitor",
+    "spec": "27\" screen",
+    "price": "R3 249",
+    "handle": "msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
+    "url": "/products/msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
+    "qty": 110,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-275F-E20_MSI-MAG-275F-E20-27inch-FHD-200Hz-Gaming-Montor-wr01.jpeg"
    },
    {
     "brand": "Xiaomi",
@@ -642,14 +642,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-325QF-E18V_MSI-MAG-325QF-E18V-32-inch-WQHD-180Hz-VA-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus ProArt 27\" QHD 1440p IPS 144Hz Monitor with USB Type-C 96W PD",
-    "spec": "27\" screen",
-    "price": "R8 647",
-    "handle": "asus-proart-27-qhd-1440p-ips-144hz-monitor-with-usb-type-c-96w-pd",
-    "url": "/products/asus-proart-27-qhd-1440p-ips-144hz-monitor-with-usb-type-c-96w-pd",
-    "qty": 23,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PA278CGRV_Asus_ProArt_27_QHD_1440p_IPS_144Hz_Monit_wr_01.png"
+    "brand": "Dell",
+    "title": "Dell Pro 32 Plus QHD USB-C Hub Monitor - P3225DE, 80.1cm (31.5\")",
+    "spec": "31.5\" screen",
+    "price": "R9 125",
+    "handle": "dell-pro-32-plus-qhd-usb-c-hub-monitor-p3225de-80-1cm-31-5",
+    "url": "/products/dell-pro-32-plus-qhd-usb-c-hub-monitor-p3225de-80-1cm-31-5",
+    "qty": 3,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BRDP_default.jpg"
    },
    {
     "brand": "Asus",
@@ -776,7 +776,7 @@
     "price": "R442",
     "handle": "lalela-r1818-wi-fi-ups-for-router-and-ont-48-8wh-6-8-hour-runtime",
     "url": "/products/lalela-r1818-wi-fi-ups-for-router-and-ont-48-8wh-6-8-hour-runtime",
-    "qty": 50,
+    "qty": 49,
     "image": "https://s3.amazonaws.com/tarsus.co.za/LAL-R1818_default.jpg"
    },
    {
@@ -786,7 +786,7 @@
     "price": "R1 024",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "/products/hikvision-1000va-1kva-ups",
-    "qty": 297,
+    "qty": 295,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -796,7 +796,7 @@
     "price": "R1 648",
     "handle": "eaton-5e-900va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-900va-gen2-usb-iec-ups",
-    "qty": 45,
+    "qty": 41,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E900UI_761f.png"
    },
    {
@@ -840,7 +840,7 @@
     "price": "R1 024",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 297,
+    "qty": 295,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -1117,7 +1117,7 @@
     "price": "R10 427",
     "handle": "hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
     "url": "https://ubratech.co.za/products/hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
-    "qty": 31,
+    "qty": 25,
     "image": "https://s3.amazonaws.com/tarsus.co.za/3PZ55A_default.png"
    },
    {
@@ -1157,7 +1157,7 @@
     "price": "R8 801",
     "handle": "hp-color-laserjet-pro-4303dw-mfp-print-copy-scan-4-preinstalled-introductory-hp-laserjet-toner-cartridges-black-2000-pages-introductoy-cyan-magenta-yellow-1-000-pages-black-a4-normal-up-to-33-ppm",
     "url": "/products/hp-color-laserjet-pro-4303dw-mfp-print-copy-scan-4-preinstalled-introductory-hp-laserjet-toner-cartridges-black-2000-pages-introductoy-cyan-magenta-yellow-1-000-pages-black-a4-normal-up-to-33-ppm",
-    "qty": 99,
+    "qty": 98,
     "image": "https://s3.amazonaws.com/tarsus.co.za/5HH65A_default.png"
    }
   ],
@@ -1221,7 +1221,7 @@
     "price": "R10 427",
     "handle": "hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
     "url": "https://ubratech.co.za/products/hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
-    "qty": 31,
+    "qty": 25,
     "image": "https://s3.amazonaws.com/tarsus.co.za/3PZ55A_default.png"
    },
    {
@@ -1369,7 +1369,7 @@
     "price": "R1 478",
     "handle": "port-mobile-docking-station-1-x-4k-usb-c-9-devices-100w",
     "url": "/products/port-mobile-docking-station-1-x-4k-usb-c-9-devices-100w",
-    "qty": 8,
+    "qty": 7,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901906V2_PORT_Mobile_docking_station_1_X_4K_USB-C_wr_01.png"
    },
    {
@@ -1465,7 +1465,7 @@
     "price": "R666",
     "handle": "logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
     "url": "/products/logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
-    "qty": 38,
+    "qty": 35,
     "image": "https://s3.amazonaws.com/tarsus.co.za/981-000480_default.jpg"
    },
    {
@@ -1630,7 +1630,7 @@
     "price": "R257",
     "handle": "ugreen-cm767-m-2-nvme-ssd-enclosure-10gbps",
     "url": "/products/ugreen-cm767-m-2-nvme-ssd-enclosure-10gbps",
-    "qty": 35,
+    "qty": 46,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM767-35267_UGreen-CM767-M.2-NVMe-SSD-Enclosure-10Gbps-%E2%80%93-Silver_wr_01a.jpg"
    },
    {
@@ -1796,7 +1796,7 @@
     "price": "R558",
     "handle": "antec-atom-v550-non-modular-power-supply",
     "url": "/products/antec-atom-v550-non-modular-power-supply",
-    "qty": 78,
+    "qty": 69,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/ATOM-V550_wr_01a.jpg"
    },
    {
@@ -1806,7 +1806,7 @@
     "price": "R1 195",
     "handle": "fsp-vita-bd-850w-80plus-bronze-atx3-1-non-modular-power-supply",
     "url": "/products/fsp-vita-bd-850w-80plus-bronze-atx3-1-non-modular-power-supply",
-    "qty": 23,
+    "qty": 22,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/VITA-850BD_FSP-VITA-BD-850W-80PLUS-Bronze-ATX3.1-Non-modular-Power-Supply_wr_01.jpg"
    },
    {
@@ -1816,7 +1816,7 @@
     "price": "R2 790",
     "handle": "asus-tuf-gaming-evo-850w-80-plus-gold-modular-power-supply",
     "url": "/products/asus-tuf-gaming-evo-850w-80-plus-gold-modular-power-supply",
-    "qty": 13,
+    "qty": 12,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/TUF-GAMING-850G-EVO_ASUS_PSU_TUF_GAMING_EVO_850W_GOLD_MOD_wr_01.jpg"
    },
    {
@@ -1865,13 +1865,13 @@
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi Smart Doorbell 3S",
-    "spec": "Smart Home",
-    "price": "R2 049",
-    "handle": "xiaomi-smart-doorbell-3s",
-    "url": "/products/xiaomi-smart-doorbell-3s",
-    "qty": 49,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/11/BHR7068GL_wr_01a.jpg"
+    "title": "Xiaomi Smart Graphene Heater",
+    "spec": "Appliances",
+    "price": "R2 137",
+    "handle": "xiaomi-smart-graphene-heater",
+    "url": "/products/xiaomi-smart-graphene-heater",
+    "qty": 107,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/05/BHR084SEU_Xiaomi-Smart-Graphene-Heater_wr_01a.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -1988,14 +1988,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/JC553_wr_01.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port Slim Keyed Cable Security Lock",
-    "spec": "Accessories",
-    "price": "R424",
-    "handle": "port-slim-keyed-cable-security-lock",
-    "url": "/products/port-slim-keyed-cable-security-lock",
-    "qty": 8,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/901200_67c8.jpg"
+    "brand": "Datanet",
+    "title": "Datanet CAT6 24 PORT 19\" Patch Panel",
+    "spec": "19\" screen · 24 ports",
+    "price": "R427",
+    "handle": "datanet-cat6-24-port-19-patch-panel",
+    "url": "/products/datanet-cat6-24-port-19-patch-panel",
+    "qty": 53,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__16__3a42.png"
    },
    {
     "brand": "HP",
@@ -2041,13 +2041,13 @@
    },
    {
     "brand": "Port",
-    "title": "Port Pure MAC Wireless Pearl Mouse",
+    "title": "Port Pure MAC Wireless Iris Mouse",
     "spec": "Wired Mouse",
     "price": "R371",
-    "handle": "port-pure-mac-wireless-pearl-mouse",
-    "url": "/products/port-pure-mac-wireless-pearl-mouse",
-    "qty": 35,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__14__f97d.png"
+    "handle": "port-pure-mac-wireless-iris-mouse",
+    "url": "/products/port-pure-mac-wireless-iris-mouse",
+    "qty": 41,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__12__8186.png"
    },
    {
     "brand": "Winx",
@@ -2132,7 +2132,7 @@
     "price": "R1 560",
     "handle": "hikvision-4mp-2-8mm-fixed-bullet-network-camera",
     "url": "/products/hikvision-4mp-2-8mm-fixed-bullet-network-camera",
-    "qty": 466,
+    "qty": 458,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2041G0_LIU_2.8MM_e3b5.png"
    },
    {
@@ -2349,25 +2349,25 @@
    "enquiry": true
   },
   {
-   "brand": "TP-Link Omada",
-   "title": "TP-Link Omada BE3600 Ceiling Mount Wi-Fi 7 Access Point",
-   "spec": "1×2.5G RJ45 Port, 688Mbps at 2.4 GHz + 4324 Mbps at 5 GHz, 802.3at PoE",
-   "price": "R2 056",
-   "handle": "tp-link-omada-be3600-ceiling-mount-wi-fi-7-access-point-tp-eap723",
-   "url": "/pages/tp-link-omada-be3600-ceiling-mount-wi-fi-7-access-point-tp-eap723",
+   "brand": "MikroTik",
+   "title": "Mikrotik cAP AC XL Dual Band 1200Mbps Wi-Fi 5 Ceiling AP · MT-RBCAP-AC-XL",
+   "spec": "802.11 b/g/n/ac, 6dBi (2.4GHz) 5.5dBi (5GHz), Dual chain, PoE-in 802.3",
+   "price": "R1 997",
+   "handle": "mikrotik-cap-ac-xl-dual-band-1200mbps-wi-fi-5-ceiling-ap-mt-rbcap-ac-xl",
+   "url": "/pages/mikrotik-cap-ac-xl-dual-band-1200mbps-wi-fi-5-ceiling-ap-mt-rbcap-ac-xl",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/6/9/5/7/16957.jpg",
+   "image": "https://miro.co.za/img/p/5/7/0/2/5702.jpg",
    "enquiry": true
   },
   {
-   "brand": "TP-Link Omada",
-   "title": "TP-Link AX6000 Indoor WiFi 6 Ceiling Mount Access Point",
-   "spec": "1×2.5 Gigabit RJ45 Port, SPEED: 1148Mbps at  2.4 GHz + 4804 Mbps at 5 ",
-   "price": "R2 879",
-   "handle": "tp-link-ax6000-indoor-wifi-6-ceiling-mount-access-point-tp-eap683ur",
-   "url": "/pages/tp-link-ax6000-indoor-wifi-6-ceiling-mount-access-point-tp-eap683ur",
+   "brand": "HPE Networking Instant On",
+   "title": "HPE Networking Instant On WiFi 5 Wave 2 Indoor Access Point",
+   "spec": "Dual band, 802.11ac Wave2, 2033Mbps, PoE excl, GbE uplink port, 4x4:4 ",
+   "price": "R2 971",
+   "handle": "hpe-networking-instant-on-wifi-5-wave-2-indoor-access-point-ap15",
+   "url": "/pages/hpe-networking-instant-on-wifi-5-wave-2-indoor-access-point-ap15",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/6/9/8/5/16985.jpg",
+   "image": "https://miro.co.za/img/p/1/0/7/2/6/10726.jpg",
    "enquiry": true
   },
   {
