@@ -596,7 +596,7 @@
     "price": "R1 486",
     "handle": "hikvision-18-5-borderless-fhd-monitor",
     "url": "/products/hikvision-18-5-borderless-fhd-monitor",
-    "qty": 15,
+    "qty": 63,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
@@ -732,7 +732,7 @@
     "price": "R1 486",
     "handle": "hikvision-18-5-borderless-fhd-monitor",
     "url": "/products/hikvision-18-5-borderless-fhd-monitor",
-    "qty": 15,
+    "qty": 63,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
@@ -1534,24 +1534,24 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008D_a815.png"
    },
    {
-    "brand": "TP-Link",
-    "title": "TP-Link 8 Port Gigabit Unmanaged Rackmount POE Switch",
-    "spec": "8 ports",
-    "price": "R1 838",
-    "handle": "tp-link-8-port-gigabit-unmanaged-rackmount-poe-switch",
-    "url": "/products/tp-link-8-port-gigabit-unmanaged-rackmount-poe-switch",
-    "qty": 3,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008MP_68a7.jpg"
+    "brand": "Cudy",
+    "title": "Cudy 4 Port Gigabit PoE 1x PoE Input 60W Switch",
+    "spec": "4 ports",
+    "price": "R543",
+    "handle": "cudy-4-port-gigabit-poe-1x-poe-input-60w-switch",
+    "url": "/products/cudy-4-port-gigabit-poe-1x-poe-input-60w-switch",
+    "qty": 25,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/POE40_Cudy_4_Port_Gigabit_PoE_1x_PoE_Input_60W_wr_02.png"
    },
    {
     "brand": "Huawei",
-    "title": "Huawei S310-48P4X Ekit 48 Port POE Switch",
+    "title": "Huawei S310-48P4S Ekit 48 Port POE Switch",
     "spec": "48 ports",
-    "price": "R6 169",
-    "handle": "huawei-s310-48p4x-ekit-48-port-poe-switch",
-    "url": "/products/huawei-s310-48p4x-ekit-48-port-poe-switch",
-    "qty": 6,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_fcaa.png"
+    "price": "R6 043",
+    "handle": "huawei-s310-48p4s-ekit-48-port-poe-switch",
+    "url": "/products/huawei-s310-48p4s-ekit-48-port-poe-switch",
+    "qty": 106,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_12a1.png"
    },
    {
     "brand": "Tenda",
