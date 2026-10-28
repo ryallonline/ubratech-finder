@@ -28,7 +28,7 @@
     "price": "R8 575",
     "handle": "acer-gadget-e10-etbook-15-6-laptop-ryzen-5-3450u-8gb-ddr4-256gb-nvme-radeon-graphics-windows-11-home",
     "url": "/products/acer-gadget-e10-etbook-15-6-laptop-ryzen-5-3450u-8gb-ddr4-256gb-nvme-radeon-graphics-windows-11-home",
-    "qty": 69,
+    "qty": 68,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/HP_NBETB_004_Acer_Gadget_E10_ETBook_R3_156_Laptop_Ryz_wr_01.png"
    },
    {
@@ -38,7 +38,7 @@
     "price": "R10 954",
     "handle": "hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
     "url": "/products/hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
-    "qty": 28,
+    "qty": 18,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/7/C78E8AT_98d1.jpg"
    },
    {
@@ -94,14 +94,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA_default.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus Vivobook 15 A1504VAP 15.6\" Core-i5 16GB 512GB Win 11 Pro Notebook (X1504VAP-I516512BL4X)",
-    "spec": "Core i5 · 15.6\" screen · 16GB RAM",
-    "price": "R20 147",
-    "handle": "asus-vivobook-15-a1504vap-15-6-core-i5-16gb-512gb-win-11-pro-notebook-x1504vap-i516512bl4x",
-    "url": "/products/asus-vivobook-15-a1504vap-15-6-core-i5-16gb-512gb-win-11-pro-notebook-x1504vap-i516512bl4x",
-    "qty": 24,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__64__de18.png"
+    "brand": "HP",
+    "title": "HP ProBook 4 NB G1iR 5 120U Laptop — 512GB SSD (C38KXAT)",
+    "spec": "512GB SSD",
+    "price": "R20 021",
+    "handle": "hp-probook-4-nb-g1ir-5-120u-14-0-wuxga-uwva-300-fhdc-60hz-bnt-panel-8gb-1d-ddr5-5600-cr-sodimm-memory-512gb-pcie-nvme-value-windows-11-pro-64-1-year-warranty-dual-arymic-f-usb2-nfovcamera-clickpad",
+    "url": "/products/hp-probook-4-nb-g1ir-5-120u-14-0-wuxga-uwva-300-fhdc-60hz-bnt-panel-8gb-1d-ddr5-5600-cr-sodimm-memory-512gb-pcie-nvme-value-windows-11-pro-64-1-year-warranty-dual-arymic-f-usb2-nfovcamera-clickpad",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/C38KXAT_default.png"
    },
    {
     "brand": "HP",
@@ -448,7 +448,7 @@
     "price": "R20 692",
     "handle": "asus-tuf-gaming-a15-15-6-amd-ryzen-7-7445hs-windows-11-gaming-laptop",
     "url": "/products/asus-tuf-gaming-a15-15-6-amd-ryzen-7-7445hs-windows-11-gaming-laptop",
-    "qty": 64,
+    "qty": 63,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/FA506NCG-78512B0W_Asus-TUF-Gaming-A15-15.6-inch-AMD-Ryzen-7-7445HS-Windows-11-Gaming-Laptop_wr_01a.jpg"
    },
    {
@@ -586,7 +586,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 642,
+    "qty": 542,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -596,7 +596,7 @@
     "price": "R1 486",
     "handle": "hikvision-18-5-borderless-fhd-monitor",
     "url": "/products/hikvision-18-5-borderless-fhd-monitor",
-    "qty": 15,
+    "qty": 62,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
@@ -670,7 +670,7 @@
     "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 203,
+    "qty": 21,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -712,7 +712,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 642,
+    "qty": 542,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -722,7 +722,7 @@
     "price": "R1 486",
     "handle": "hikvision-18-5-borderless-fhd-monitor",
     "url": "/products/hikvision-18-5-borderless-fhd-monitor",
-    "qty": 15,
+    "qty": 62,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
@@ -732,7 +732,7 @@
     "price": "R2 563",
     "handle": "xiaomi-a27i-2026-27-144hz-full-hd-1080p-ips-office-monitor",
     "url": "/products/xiaomi-a27i-2026-27-144hz-full-hd-1080p-ips-office-monitor",
-    "qty": 103,
+    "qty": 203,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6410EU_Xiaomi-A27i-2026-27-inch-144Hz-Full-HD-1080P-IPS-Office-Monitor_wr_01a.jpg"
    },
    {
@@ -814,7 +814,7 @@
     "brand": "UPS",
     "title": "Acconet 1200VA/600W Offline UPS",
     "spec": "5-10 Minutes Run Time @ 600W Load.",
-    "price": "R1 577",
+    "price": "R1 581",
     "handle": "ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
     "url": "/pages/ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
     "qty": 9,
@@ -867,7 +867,7 @@
     "brand": "UPS",
     "title": "Acconet 1200VA/600W Offline UPS",
     "spec": "5-10 Minutes Run Time @ 600W Load.",
-    "price": "R1 577",
+    "price": "R1 581",
     "handle": "ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
     "url": "/pages/ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
     "qty": 9,
@@ -1297,7 +1297,7 @@
     "price": "R136",
     "handle": "port-connect-usb-type-c-to-4-port-usb-a-3-0-2-0-hub",
     "url": "/products/port-connect-usb-type-c-to-4-port-usb-a-3-0-2-0-hub",
-    "qty": 115,
+    "qty": 111,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/900160_Port-Connect-USB-Type-C-to-4-port-USB-A-3.0-2.0-Hub_wr_01a.jpg"
    },
    {
@@ -1465,7 +1465,7 @@
     "price": "R1 320",
     "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
     "url": "/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
-    "qty": 53,
+    "qty": 43,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg"
    },
    {
@@ -1591,7 +1591,7 @@
     "brand": "Acconet",
     "title": "Acconet 12U Unassembled Wall Mount Swing Box 450mm",
     "spec": "Flat Pack, Glass Door",
-    "price": "R2 745",
+    "price": "R2 748",
     "handle": "acconet-12u-unassembled-wall-mount-swing-box-450mm",
     "url": "/pages/acconet-12u-unassembled-wall-mount-swing-box-450mm",
     "qty": 9,
@@ -1634,14 +1634,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SA400S37/480G_default.jpg"
    },
    {
-    "brand": "Kingston",
-    "title": "Kingston 1TB XS1000 External USB 3.2 Gen 2 Portable Solid State Drive",
-    "spec": "Storage",
-    "price": "R5 159",
-    "handle": "kingston-1tb-xs1000-external-usb-3-2-gen-2-portable-solid-state-drive",
-    "url": "/products/kingston-1tb-xs1000-external-usb-3-2-gen-2-portable-solid-state-drive",
-    "qty": 4,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SXS1000/1000G_default.jpg"
+    "brand": "SanDisk",
+    "title": "SanDisk Optimus GX 7100 1TB NVMe SSD",
+    "spec": "1TB NVMe SSD",
+    "price": "R4 960",
+    "handle": "sandisk-optimus-gx-7100-1tb-nvme-ssd",
+    "url": "/products/sandisk-optimus-gx-7100-1tb-nvme-ssd",
+    "qty": 28,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/S/D/SDSP71100TAN_000E0_d4e8.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -1754,7 +1754,7 @@
     "price": "R20 896",
     "handle": "asrock-radeon-rx9070-xt-steel-legend-dark-16gb-graphics-card",
     "url": "/products/asrock-radeon-rx9070-xt-steel-legend-dark-16gb-graphics-card",
-    "qty": 25,
+    "qty": 20,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/RX9070XTSTEELLEGENDDARK16_ASROCK-RADEON-RX9070-XT-STEEL-LEGEND-DAR_wr_01.jpg"
    },
    {
@@ -1764,7 +1764,7 @@
     "price": "R40 950",
     "handle": "asus-tuf-gaming-geforce-rtx-5080-16gb-gddr7-oc-edition",
     "url": "/products/asus-tuf-gaming-geforce-rtx-5080-16gb-gddr7-oc-edition",
-    "qty": 22,
+    "qty": 17,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/TUF-RTX5080-O16G-GAMING-wr-01.jpg"
    }
   ],
@@ -1786,7 +1786,7 @@
     "price": "R558",
     "handle": "antec-atom-v550-non-modular-power-supply",
     "url": "/products/antec-atom-v550-non-modular-power-supply",
-    "qty": 62,
+    "qty": 60,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/ATOM-V550_wr_01a.jpg"
    },
    {
@@ -1893,7 +1893,7 @@
     "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
     "url": "https://ubratech.co.za/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg",
-    "qty": 53
+    "qty": 43
    },
    {
     "brand": "Xiaomi",
@@ -1916,14 +1916,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/BHR08OMGL_Xiaomi-Redmi-Buds-8-Lite-Black_wr_01b.jpg"
    },
    {
-    "brand": "Nearity",
-    "title": "Nearity AW-SP100 Wireless Speakerphone",
+    "brand": "HP",
+    "title": "HP HyperX Cloud Stinger 3 Wired Gaming Headset Black",
     "spec": "Headsets",
-    "price": "R1 132",
-    "handle": "nearity-aw-sp100-wireless-speakerphone",
-    "url": "/products/nearity-aw-sp100-wireless-speakerphone",
-    "qty": 15,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_Design__67__28ea.png"
+    "price": "R1 081",
+    "handle": "hp-hyperx-cloud-stinger-3-wired-gaming-headset-black",
+    "url": "/products/hp-hyperx-cloud-stinger-3-wired-gaming-headset-black",
+    "qty": 26,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/B/S/BS1T5AA_5dbd.jpg"
    },
    {
     "brand": "Poly",
@@ -1978,14 +1978,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2016/02/JC530_wr_01a.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port Slim Keyed Cable Security Lock",
-    "spec": "Accessories",
-    "price": "R424",
-    "handle": "port-slim-keyed-cable-security-lock",
-    "url": "/products/port-slim-keyed-cable-security-lock",
-    "qty": 8,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/901200_67c8.jpg"
+    "brand": "Datanet",
+    "title": "Datanet CAT6 24 PORT 19\" Patch Panel",
+    "spec": "19\" screen · 24 ports",
+    "price": "R427",
+    "handle": "datanet-cat6-24-port-19-patch-panel",
+    "url": "/products/datanet-cat6-24-port-19-patch-panel",
+    "qty": 53,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__16__3a42.png"
    },
    {
     "brand": "HP",
@@ -2080,7 +2080,7 @@
     "price": "R1 623",
     "handle": "hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
     "url": "/products/hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
-    "qty": 5,
+    "qty": 256,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2141G0_LIU_4MM_ee84.jpg"
    },
    {
@@ -2320,7 +2320,7 @@
    "brand": "Ubiquiti",
    "title": "Ubiquiti UniFi U7 Pro Wall Paintable Flush Mount",
    "spec": "WIRELESS ACCESS POINTS",
-   "price": "R947",
+   "price": "R878",
    "handle": "ubiquiti-unifi-u7-pro-wall-paintable-flush-mount-uacc-u7-pro-wall-fm",
    "url": "/pages/ubiquiti-unifi-u7-pro-wall-paintable-flush-mount-uacc-u7-pro-wall-fm",
    "qty": 9,
@@ -2328,14 +2328,14 @@
    "enquiry": true
   },
   {
-   "brand": "Teltonika",
-   "title": "Teltonika Wi-Fi 4 PoE Industrial Wireless Access Point",
-   "spec": "Wi-Fi Mesh, Fast Roaming, 2x RJ45 ports (10/100), Integrated Din Rail ",
-   "price": "R1 446",
-   "handle": "teltonika-wi-fi-4-poe-industrial-wireless-access-point-dap142",
-   "url": "/pages/teltonika-wi-fi-4-poe-industrial-wireless-access-point-dap142",
+   "brand": "Grandstream",
+   "title": "Grandstream Enterprise WiFi 5 Wave 2 Indoor Access Point",
+   "spec": "2Gbps, 5GHz 4x4 MU-MIMO, 2.4GHz 2x2 MIMO, 200+ connections, Integrated",
+   "price": "R1 440",
+   "handle": "grandstream-enterprise-wifi-5-wave-2-indoor-access-point-gwn7625",
+   "url": "/pages/grandstream-enterprise-wifi-5-wave-2-indoor-access-point-gwn7625",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/6/3/9/8/16398.jpg",
+   "image": "https://miro.co.za/img/p/9/0/1/9/9019.jpg",
    "enquiry": true
   },
   {
@@ -2361,14 +2361,14 @@
    "enquiry": true
   },
   {
-   "brand": "TP-Link Omada",
-   "title": "TP-Link Omada Tri-Band Wi-Fi 7 Outdoor AP",
-   "spec": "1×2.5G RJ45 Port, 688 Mbps (2.4 GHz) + 2882 Mbps (5 GHz) + 5765 Mbps (",
-   "price": "R4 525",
-   "handle": "tp-link-omada-tri-band-wi-fi-7-outdoor-ap-eap772-o",
-   "url": "/pages/tp-link-omada-tri-band-wi-fi-7-outdoor-ap-eap772-o",
+   "brand": "Ubiquiti",
+   "title": "Ubiquiti UniFi6 Mesh Pro Indoor/Outdoor Dual Band WiFi6 Access Point",
+   "spec": "No PoE Injector included, Indoor AP - 350+ concurrent client capacity,",
+   "price": "R4 694",
+   "handle": "ubiquiti-unifi6-mesh-pro-indoor-outdoor-dual-band-wifi6-access-point-u6-mesh-pro",
+   "url": "/pages/ubiquiti-unifi6-mesh-pro-indoor-outdoor-dual-band-wifi6-access-point-u6-mesh-pro",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/8/1/0/2/18102.jpg",
+   "image": "https://miro.co.za/img/p/1/4/0/8/5/14085.jpg",
    "enquiry": true
   },
   {
