@@ -32,14 +32,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/HP_NBETB_004_Acer_Gadget_E10_ETBook_R3_156_Laptop_Ryz_wr_01.png"
    },
    {
-    "brand": "HP",
-    "title": "HP 250R G10 15.6\" Core 3 100U 8GB 512GB Win 11 Pro Silver Notebook",
-    "spec": "Core 3 · 15.6\" screen · 8GB RAM",
-    "price": "R10 930",
-    "handle": "hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
-    "url": "/products/hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
-    "qty": 39,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/7/C78E8AT_98d1.jpg"
+    "brand": "Acer",
+    "title": "Acer LITE 14 R3 5400U 8 512 14\" FHD IPS SLIM BEZEL Windows 11 Home",
+    "spec": "14\" screen",
+    "price": "R11 080",
+    "handle": "acer-lite-14-r3-5400u-8-512-14-fhd-ips-slim-bezel-windows-11-home",
+    "url": "/products/acer-lite-14-r3-5400u-8-512-14-fhd-ips-slim-bezel-windows-11-home",
+    "qty": 40,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.DQNEA.001_default.jpg"
    },
    {
     "brand": "Lenovo",
@@ -366,14 +366,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO011_QCS1250_EMEA_default.png"
    },
    {
-    "brand": "Dell",
-    "title": "Dell 27 AIO EC27250 25 06 2025:Intel Desktop PC — 1TB SSD (EC27250_RPLU-R_008S)",
-    "spec": "1TB SSD",
-    "price": "R39 160",
-    "handle": "dell-27-aio-ec27250-25-06-2025-intel-core-7-150u-12mb-cache-up-to-5-4-ghz-27-fhd-touch-1920x1080-16g-5200mt-s-ddr5-1tb-ssd-pcie-nvme-m-2-intel-grapphics-camera-mic-5mp-ir-tilt-cam-intel-dual-band",
-    "url": "/products/dell-27-aio-ec27250-25-06-2025-intel-core-7-150u-12mb-cache-up-to-5-4-ghz-27-fhd-touch-1920x1080-16g-5200mt-s-ddr5-1tb-ssd-pcie-nvme-m-2-intel-grapphics-camera-mic-5mp-ir-tilt-cam-intel-dual-band",
-    "qty": 12,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/EC27250_RPLU-R_008S_default.jpg"
+    "brand": "PCBuilder",
+    "title": "PCBuilder Ryzen 5 7600 SEEKER Windows 11 Gaming PC (PCB_SEEKER_02)",
+    "spec": "Ryzen 5",
+    "price": "R39 420",
+    "handle": "pcbuilder-ryzen-5-7600-seeker-windows-11-gaming-pc-pcb-seeker-02",
+    "url": "/products/pcbuilder-ryzen-5-7600-seeker-windows-11-gaming-pc-pcb-seeker-02",
+    "qty": 8,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_SEEKER_02_PCBuilder-Ryzen-5-7600-SEEKER-Windows-11-Gaming-PC_wr_01a.jpg"
    },
    {
     "brand": "Dell",
@@ -596,7 +596,7 @@
     "price": "R1 486",
     "handle": "hikvision-18-5-borderless-fhd-monitor",
     "url": "/products/hikvision-18-5-borderless-fhd-monitor",
-    "qty": 63,
+    "qty": 15,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
@@ -732,7 +732,7 @@
     "price": "R1 486",
     "handle": "hikvision-18-5-borderless-fhd-monitor",
     "url": "/products/hikvision-18-5-borderless-fhd-monitor",
-    "qty": 63,
+    "qty": 15,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
@@ -1311,24 +1311,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/900160_Port-Connect-USB-Type-C-to-4-port-USB-A-3.0-2.0-Hub_wr_01a.jpg"
    },
    {
-    "brand": "Winx",
-    "title": "WINX CONNECT MAX 11-in-1 Type-C Hub",
+    "brand": "Ugreen",
+    "title": "UGREEN CM512 6-in-1 USB Type-C Docking Station",
     "spec": "Docking Station",
-    "price": "R536",
-    "handle": "winx-connect-max-11-in-1-type-c-hub",
-    "url": "/products/winx-connect-max-11-in-1-type-c-hub",
-    "qty": 163,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/HB112-wr-01a.jpg"
+    "price": "R426",
+    "handle": "ugreen-cm512-6-in-1-usb-type-c-docking-station",
+    "url": "/products/ugreen-cm512-6-in-1-usb-type-c-docking-station",
+    "qty": 90,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM512-45000_UGREEN-CM512-6-in-1-USB-Type-C-Docking-Station-Grey_wr_01b.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port Connect Multi-port USB Type-C 2x4K Office Docking Station",
+    "brand": "HP",
+    "title": "HP USB-C 100W G6 Black Docking Station",
     "spec": "Docking Station",
-    "price": "R2 769",
-    "handle": "port-connect-multi-port-usb-type-c-2x4k-office-docking-station",
-    "url": "/products/port-connect-multi-port-usb-type-c-2x4k-office-docking-station",
-    "qty": 7,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/901908V2EU_Port-Connect-Multi-port-USB-Type-C-2x4K-Office-Docking-Station-Black_wr_01a.jpg"
+    "price": "R2 863",
+    "handle": "hp-usb-c-100w-g6-black-docking-station",
+    "url": "/products/hp-usb-c-100w-g6-black-docking-station",
+    "qty": 41,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/X/9X3V1UT_2_1072.jpg"
    },
    {
     "brand": "Dell",
@@ -1406,13 +1406,13 @@
    },
    {
     "brand": "Ugreen",
-    "title": "UGREEN 4-in-1 Type-C Hub · USB 3.0",
-    "spec": "Docking Station",
-    "price": "R198",
-    "handle": "ugreen-4-in-1-type-c-hub-usb-3-0-type-c",
-    "url": "/products/ugreen-4-in-1-type-c-hub-usb-3-0-type-c",
-    "qty": 242,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/cm219-70336-wr-01a.jpg"
+    "title": "UGREEN 4-Port USB 3.0 Hub with Micro USB · 5Gbps Data Transfer - 1m",
+    "spec": "4 ports",
+    "price": "R174",
+    "handle": "ugreen-4-port-usb-3-0-hub-with-micro-usb-5gbps-data-transfer-1m",
+    "url": "/products/ugreen-4-port-usb-3-0-hub-with-micro-usb-5gbps-data-transfer-1m",
+    "qty": 108,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CR113-20291_UGREEN-4-Port-USB-3.0-Hub-with-Micro-USB-5Gbps-Data-Transfer-%E2%80%93-1m_wr_01.jpg"
    },
    {
     "brand": "Ugreen",
@@ -1425,14 +1425,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM478-15495-wr-01.jpg"
    },
    {
-    "brand": "Targus",
-    "title": "Targus USB C Dual HDMI 4K Docking Station",
+    "brand": "Ugreen",
+    "title": "UGREEN 6-in-1 Type-C Hub with 4K HDMI, 100W PD and 10Gbps USB Ports – Grey",
     "spec": "Docking Station",
-    "price": "R1 069",
-    "handle": "targus-usb-c-dual-hdmi-4k-docking-station",
-    "url": "/products/targus-usb-c-dual-hdmi-4k-docking-station",
-    "qty": 15,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK427GL_default.jpg"
+    "price": "R397",
+    "handle": "ugreen-6-in-1-type-c-hub-with-4k-hdmi-100w-pd-and-10gbps-usb-ports-grey",
+    "url": "/products/ugreen-6-in-1-type-c-hub-with-4k-hdmi-100w-pd-and-10gbps-usb-ports-grey",
+    "qty": 103,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/6941876239986_CM888-35998.jpg"
    }
   ]
  },
@@ -1534,24 +1534,24 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008D_a815.png"
    },
    {
-    "brand": "Cudy",
-    "title": "Cudy 4 Port Gigabit PoE 1x PoE Input 60W Switch",
-    "spec": "4 ports",
-    "price": "R543",
-    "handle": "cudy-4-port-gigabit-poe-1x-poe-input-60w-switch",
-    "url": "/products/cudy-4-port-gigabit-poe-1x-poe-input-60w-switch",
-    "qty": 25,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/POE40_Cudy_4_Port_Gigabit_PoE_1x_PoE_Input_60W_wr_02.png"
+    "brand": "TP-Link",
+    "title": "TP-Link 8 Port Gigabit Unmanaged Rackmount POE Switch",
+    "spec": "8 ports",
+    "price": "R1 838",
+    "handle": "tp-link-8-port-gigabit-unmanaged-rackmount-poe-switch",
+    "url": "/products/tp-link-8-port-gigabit-unmanaged-rackmount-poe-switch",
+    "qty": 3,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008MP_68a7.jpg"
    },
    {
     "brand": "Huawei",
-    "title": "Huawei S310-48P4S Ekit 48 Port POE Switch",
+    "title": "Huawei S310-48P4X Ekit 48 Port POE Switch",
     "spec": "48 ports",
-    "price": "R6 043",
-    "handle": "huawei-s310-48p4s-ekit-48-port-poe-switch",
-    "url": "/products/huawei-s310-48p4s-ekit-48-port-poe-switch",
-    "qty": 106,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_12a1.png"
+    "price": "R6 169",
+    "handle": "huawei-s310-48p4x-ekit-48-port-poe-switch",
+    "url": "/products/huawei-s310-48p4x-ekit-48-port-poe-switch",
+    "qty": 6,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_fcaa.png"
    },
    {
     "brand": "Tenda",
@@ -2041,13 +2041,13 @@
    },
    {
     "brand": "Port",
-    "title": "Port Pure MAC Wireless Iris Mouse",
+    "title": "Port Pure MAC Wireless Pearl Mouse",
     "spec": "Wired Mouse",
     "price": "R371",
-    "handle": "port-pure-mac-wireless-iris-mouse",
-    "url": "/products/port-pure-mac-wireless-iris-mouse",
-    "qty": 41,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__12__8186.png"
+    "handle": "port-pure-mac-wireless-pearl-mouse",
+    "url": "/products/port-pure-mac-wireless-pearl-mouse",
+    "qty": 35,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__14__f97d.png"
    },
    {
     "brand": "Winx",
@@ -2085,13 +2085,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Fixed Dome Network Camera",
+    "title": "Hikvision 4MP 4mm Build-In Mic Fixed Network IP Camera",
     "spec": "4MP",
-    "price": "R2 353",
-    "handle": "hikvision-4mp-fixed-dome-network-camera",
-    "url": "/products/hikvision-4mp-fixed-dome-network-camera",
-    "qty": 11,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
+    "price": "R1 623",
+    "handle": "hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
+    "url": "/products/hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
+    "qty": 5,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2141G0_LIU_4MM_ee84.jpg"
    },
    {
     "brand": "Hikvision",
@@ -2127,13 +2127,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Fixed Dome Network Camera",
+    "title": "Hikvision 4MP 2.8mm Fixed Bullet Network Camera",
     "spec": "4MP",
-    "price": "R2 353",
-    "handle": "hikvision-4mp-fixed-dome-network-camera",
-    "url": "/products/hikvision-4mp-fixed-dome-network-camera",
-    "qty": 11,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
+    "price": "R1 560",
+    "handle": "hikvision-4mp-2-8mm-fixed-bullet-network-camera",
+    "url": "/products/hikvision-4mp-2-8mm-fixed-bullet-network-camera",
+    "qty": 458,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2041G0_LIU_2.8MM_e3b5.png"
    },
    {
     "brand": "Hikvision",
@@ -2179,13 +2179,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Smart Hybrid ColorVu Fixed Bullet IP Camera",
+    "title": "Hikvision 4MP ColorVu Fixed Bullet IP Camera",
     "spec": "4MP",
-    "price": "R3 170",
-    "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-bullet-ip-camera",
-    "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-bullet-ip-camera",
-    "qty": 58,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T47G2H_LI_image_4_17d1.png"
+    "price": "R3 138",
+    "handle": "hikvision-4mp-colorvu-fixed-bullet-ip-camera",
+    "url": "/products/hikvision-4mp-colorvu-fixed-bullet-ip-camera",
+    "qty": 8,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T47G2_L_6MM_1977.jpg"
    },
    {
     "brand": "Hikvision",
