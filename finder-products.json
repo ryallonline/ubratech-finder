@@ -9,7 +9,7 @@
     "handle": "hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
     "url": "https://ubratech.co.za/products/hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
     "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DF6L7ET%238GB_default.jpg"
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/F/DF6L7ET_4f9d.jpg"
    },
    {
     "brand": "Acer",
@@ -32,14 +32,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/HP_NBETB_004_Acer_Gadget_E10_ETBook_R3_156_Laptop_Ryz_wr_01.png"
    },
    {
-    "brand": "Acer",
-    "title": "Acer LITE 14 R3 5400U 8 512 14\" FHD IPS SLIM BEZEL Windows 11 Home",
-    "spec": "14\" screen",
-    "price": "R11 080",
-    "handle": "acer-lite-14-r3-5400u-8-512-14-fhd-ips-slim-bezel-windows-11-home",
-    "url": "/products/acer-lite-14-r3-5400u-8-512-14-fhd-ips-slim-bezel-windows-11-home",
-    "qty": 40,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.DQNEA.001_default.jpg"
+    "brand": "HP",
+    "title": "HP 250R G10 15.6\" Core 3 100U 8GB 512GB Win 11 Pro Silver Notebook",
+    "spec": "Core 3 · 15.6\" screen · 8GB RAM",
+    "price": "R10 930",
+    "handle": "hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
+    "url": "/products/hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
+    "qty": 39,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/7/C78E8AT_98d1.jpg"
    },
    {
     "brand": "Lenovo",
@@ -60,7 +60,7 @@
     "price": "R13 978",
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
-    "qty": 30,
+    "qty": 24,
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
@@ -80,18 +80,18 @@
     "price": "R13 978",
     "handle": "lenovo-v15-iru-i3-1315u-8gb-base-ddr5-256gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-15-6-fhd-tn-hd-camera-wi-fi-ax-2x2-bt-no-fpr-3-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
     "url": "/products/lenovo-v15-iru-i3-1315u-8gb-base-ddr5-256gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-15-6-fhd-tn-hd-camera-wi-fi-ax-2x2-bt-no-fpr-3-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
-    "qty": 30,
+    "qty": 24,
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer EXO14 72 51AG Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.ELVEA.001)",
-    "spec": "Core Ultra 5 · 512GB SSD",
-    "price": "R17 628",
-    "handle": "acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
-    "url": "/products/acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
-    "qty": 63,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.ELVEA.001_default.jpg"
+    "brand": "Lenovo",
+    "title": "Lenovo V15 IRU Laptop — Core i5 · 512GB SSD",
+    "spec": "Core i5 · 512GB SSD",
+    "price": "R17 881",
+    "handle": "lenovo-v15-iru-i5-13420h-8gb-base-ddr5-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-15-6-fhd-tn-hd-cam-wi-fi-ax-2x2-bt-n-fpr-2-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
+    "url": "/products/lenovo-v15-iru-i5-13420h-8gb-base-ddr5-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-15-6-fhd-tn-hd-cam-wi-fi-ax-2x2-bt-n-fpr-2-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
+    "qty": 57,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA_default.jpg"
    },
    {
     "brand": "HP",
@@ -136,14 +136,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DS5H9ET_default.png"
    },
    {
-    "brand": "Asus",
-    "title": "Asus Zenbook S16 UM5606GA 16\" 3K OLED 120Hz Ryzen AI 9-465 16GB 1TB Win 11 Pro Notebook",
-    "spec": "Ryzen AI 9 · 16\" screen · 16GB RAM",
-    "price": "R39 665",
-    "handle": "asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
-    "url": "/products/asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
-    "qty": 8,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_S16_UM5606GA_Product_photo_3G_Antrim_Gray_03__1__de3e.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 14 Plus 14\" Core-U7 16GB 512GB Win 11 Pro Notebook (BTO216_PB14250)",
+    "spec": "14\" screen · 16GB RAM",
+    "price": "R39 939",
+    "handle": "dell-pro-14-plus-14-core-u7-16gb-512gb-win-11-pro-notebook-bto216-pb14250",
+    "url": "/products/dell-pro-14-plus-14-core-u7-16gb-512gb-win-11-pro-notebook-bto216-pb14250",
+    "qty": 6,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__78__cec9.png"
    },
    {
     "brand": "HP",
@@ -164,7 +164,7 @@
     "price": "R28 332",
     "handle": "asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
     "url": "https://ubratech.co.za/products/asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
-    "qty": 22,
+    "qty": 15,
     "image": "https://www.pinnacle.co.za/media/catalog/product/V/3/V3607VH_I71610B0X__1__7ef3.png"
    },
    {
@@ -184,7 +184,7 @@
     "price": "R18 694",
     "handle": "hp-probook-4-g1ah-14-fhd-radeon-740m-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
     "url": "/products/hp-probook-4-g1ah-14-fhd-radeon-740m-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
-    "qty": 59,
+    "qty": 54,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KTAT_4090.jpg"
    },
    {
@@ -253,13 +253,13 @@
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder CUBE Intel Core 3-100U 12GB DDR5 512GB Windows 11 Home Mini PC",
-    "spec": "Core 3 · 12GB RAM",
-    "price": "R9 854",
-    "handle": "pcbuilder-cube-intel-core-3-100u-12gb-ddr5-512gb-windows-11-home-mini-pc",
-    "url": "/products/pcbuilder-cube-intel-core-3-100u-12gb-ddr5-512gb-windows-11-home-mini-pc",
-    "qty": 3,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_CUBE_100U12G_HOME_PCBuilder-CUBE-Intel-Core-3-100U-12GB-DDR5-512GB-Windows-11-Home-Mini-PC_wr_01a.jpg"
+    "title": "PCBuilder AMD Ryzen 5 3400G HOME MASTER Windows 11 Desktop PC (PCB_HOME_R516G-V1)",
+    "spec": "Ryzen 5",
+    "price": "R9 368",
+    "handle": "pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc-pcb-home-r516g-v1",
+    "url": "/products/pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc-pcb-home-r516g-v1",
+    "qty": 33,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/04/PCB_HOME_R516G-V1_PCBuilder-AMD-Ryzen-5-3400G-HOME-MASTER-Windows-11-Desktop-PC_wr_01a.jpg"
    },
    {
     "brand": "PCBuilder",
@@ -382,7 +382,7 @@
     "price": "R72 632",
     "handle": "dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
     "url": "/products/dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
-    "qty": 38,
+    "qty": 37,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PW516261-U7-321TB-5G_default.jpg"
    }
   ],
@@ -414,7 +414,7 @@
     "price": "R52 965",
     "handle": "dell-pro-precision-7-t1-pw7t1260-intel-core-ultra-7-265-30-mb-cache-20-cores-20-threads-1-8-ghz-to-5-3-ghz-65w-16gb-1-x-16gb-ddr5-up-to-5600-mt-s-1tb-m-2-2230-tlc-pcie-gen4-ssd-nvidia-a1000-8-gb",
     "url": "/products/dell-pro-precision-7-t1-pw7t1260-intel-core-ultra-7-265-30-mb-cache-20-cores-20-threads-1-8-ghz-to-5-3-ghz-65w-16gb-1-x-16gb-ddr5-up-to-5600-mt-s-1tb-m-2-2230-tlc-pcie-gen4-ssd-nvidia-a1000-8-gb",
-    "qty": 7,
+    "qty": 6,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PWT1260-U7-161TB-8GFX_default.png"
    },
    {
@@ -424,7 +424,7 @@
     "price": "R72 632",
     "handle": "dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
     "url": "/products/dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
-    "qty": 38,
+    "qty": 37,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PW516261-U7-321TB-5G_default.jpg"
    }
   ]
@@ -586,7 +586,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 662,
+    "qty": 648,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -722,7 +722,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 662,
+    "qty": 648,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -952,7 +952,7 @@
     "brand": "APC",
     "title": "APC Smart Line Interactive 3000VA/ 3KVA 2100W UPS Tower Rack Mount…",
     "spec": "3KVA UPS",
-    "price": "R28 446",
+    "price": "R28 144",
     "handle": "apc-smart-line-interactive-3000va-3kva-2100w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
     "url": "/products/apc-smart-line-interactive-3000va-3kva-2100w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
     "qty": 5,
@@ -962,7 +962,7 @@
     "brand": "APC",
     "title": "APC Smart-UPS RT 10kVA 230V",
     "spec": "10kVA UPS",
-    "price": "R90 477",
+    "price": "R87 753",
     "handle": "apc-smart-ups-rt-10kva-230v",
     "url": "/products/apc-smart-ups-rt-10kva-230v",
     "qty": 5,
@@ -1157,7 +1157,7 @@
     "price": "R8 801",
     "handle": "hp-color-laserjet-pro-4303dw-mfp-print-copy-scan-4-preinstalled-introductory-hp-laserjet-toner-cartridges-black-2000-pages-introductoy-cyan-magenta-yellow-1-000-pages-black-a4-normal-up-to-33-ppm",
     "url": "/products/hp-color-laserjet-pro-4303dw-mfp-print-copy-scan-4-preinstalled-introductory-hp-laserjet-toner-cartridges-black-2000-pages-introductoy-cyan-magenta-yellow-1-000-pages-black-a4-normal-up-to-33-ppm",
-    "qty": 97,
+    "qty": 96,
     "image": "https://s3.amazonaws.com/tarsus.co.za/5HH65A_default.png"
    }
   ],
@@ -1169,7 +1169,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
     "url": "https://ubratech.co.za/products/hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
-    "qty": 29,
+    "qty": 27,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    },
    {
@@ -1209,7 +1209,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
     "url": "/products/hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
-    "qty": 29,
+    "qty": 27,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    }
   ],
@@ -1350,7 +1350,7 @@
     "handle": "dell-pro-thunderbolt-4-dock-wd25tb4",
     "url": "https://ubratech.co.za/products/dell-pro-thunderbolt-4-dock-wd25tb4",
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BTHY_default.jpg",
-    "qty": 14
+    "qty": 10
    },
    {
     "brand": "Port",
@@ -1465,18 +1465,18 @@
     "price": "R666",
     "handle": "logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
     "url": "/products/logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
-    "qty": 35,
+    "qty": 34,
     "image": "https://s3.amazonaws.com/tarsus.co.za/981-000480_default.jpg"
    },
    {
-    "brand": "Winx",
-    "title": "WINX CALL Elite AI Noise Cancelling Wireless Headset",
+    "brand": "Port",
+    "title": "Port 912001 Wired Headset",
     "spec": "Headsets",
-    "price": "R1 320",
-    "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
-    "url": "/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
-    "qty": 76,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg"
+    "price": "R1 245",
+    "handle": "port-912001-wired-headset",
+    "url": "/products/port-912001-wired-headset",
+    "qty": 57,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__7439.png"
    },
    {
     "brand": "HP",
@@ -1534,24 +1534,24 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008D_a815.png"
    },
    {
-    "brand": "TP-Link",
-    "title": "TP-Link 8 Port Gigabit Unmanaged Rackmount POE Switch",
-    "spec": "8 ports",
-    "price": "R1 838",
-    "handle": "tp-link-8-port-gigabit-unmanaged-rackmount-poe-switch",
-    "url": "/products/tp-link-8-port-gigabit-unmanaged-rackmount-poe-switch",
-    "qty": 3,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008MP_68a7.jpg"
+    "brand": "Cudy",
+    "title": "Cudy 4 Port Gigabit PoE 1x PoE Input 60W Switch",
+    "spec": "4 ports",
+    "price": "R543",
+    "handle": "cudy-4-port-gigabit-poe-1x-poe-input-60w-switch",
+    "url": "/products/cudy-4-port-gigabit-poe-1x-poe-input-60w-switch",
+    "qty": 25,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/POE40_Cudy_4_Port_Gigabit_PoE_1x_PoE_Input_60W_wr_02.png"
    },
    {
     "brand": "Huawei",
-    "title": "Huawei S310-48P4X Ekit 48 Port POE Switch",
+    "title": "Huawei S310-48P4S Ekit 48 Port POE Switch",
     "spec": "48 ports",
-    "price": "R6 169",
-    "handle": "huawei-s310-48p4x-ekit-48-port-poe-switch",
-    "url": "/products/huawei-s310-48p4x-ekit-48-port-poe-switch",
-    "qty": 6,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_fcaa.png"
+    "price": "R6 043",
+    "handle": "huawei-s310-48p4s-ekit-48-port-poe-switch",
+    "url": "/products/huawei-s310-48p4s-ekit-48-port-poe-switch",
+    "qty": 106,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_12a1.png"
    },
    {
     "brand": "Tenda",
@@ -1640,7 +1640,7 @@
     "price": "R2 191",
     "handle": "sandisk-optimus-5100-500gb-nvme-ssd",
     "url": "/products/sandisk-optimus-5100-500gb-nvme-ssd",
-    "qty": 64,
+    "qty": 63,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__1__861a.png"
    },
    {
@@ -1926,14 +1926,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/BHR08OMGL_Xiaomi-Redmi-Buds-8-Lite-Black_wr_01b.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP HyperX Cloud Stinger 3 Wired Gaming Headset Black",
+    "brand": "Dell",
+    "title": "Dell WH3024 Wired Headset",
     "spec": "Headsets",
-    "price": "R1 081",
-    "handle": "hp-hyperx-cloud-stinger-3-wired-gaming-headset-black",
-    "url": "/products/hp-hyperx-cloud-stinger-3-wired-gaming-headset-black",
-    "qty": 27,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/S/BS1T5AA_5dbd.jpg"
+    "price": "R1 080",
+    "handle": "dell-wh3024-wired-headset",
+    "url": "/products/dell-wh3024-wired-headset",
+    "qty": 14,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/5/2/520_BBDH_a863.png"
    },
    {
     "brand": "Poly",
@@ -1988,14 +1988,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/JC553_wr_01.jpg"
    },
    {
-    "brand": "Datanet",
-    "title": "Datanet CAT6 24 PORT 19\" Patch Panel",
-    "spec": "19\" screen · 24 ports",
-    "price": "R427",
-    "handle": "datanet-cat6-24-port-19-patch-panel",
-    "url": "/products/datanet-cat6-24-port-19-patch-panel",
-    "qty": 53,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__16__3a42.png"
+    "brand": "Port",
+    "title": "Port Slim Keyed Cable Security Lock",
+    "spec": "Accessories",
+    "price": "R424",
+    "handle": "port-slim-keyed-cable-security-lock",
+    "url": "/products/port-slim-keyed-cable-security-lock",
+    "qty": 8,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/901200_67c8.jpg"
    },
    {
     "brand": "HP",
@@ -2110,7 +2110,7 @@
     "price": "R3 755",
     "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-turret-ip-camera-ds-2cd2347g2h-lisu-sl-2-8mm",
     "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-turret-ip-camera-ds-2cd2347g2h-lisu-sl-2-8mm",
-    "qty": 19,
+    "qty": 16,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2347G2H_LISU_SL_2.8MM_1_dbbf.png"
    }
   ],
@@ -2152,7 +2152,7 @@
     "price": "R3 755",
     "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-turret-ip-camera-ds-2cd2347g2h-lisu-sl-2-8mm",
     "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-turret-ip-camera-ds-2cd2347g2h-lisu-sl-2-8mm",
-    "qty": 19,
+    "qty": 16,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2347G2H_LISU_SL_2.8MM_1_dbbf.png"
    }
   ],
