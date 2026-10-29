@@ -1534,24 +1534,24 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008D_a815.png"
    },
    {
-    "brand": "TP-Link",
-    "title": "TP-Link 8 Port Gigabit Unmanaged Rackmount POE Switch",
-    "spec": "8 ports",
-    "price": "R1 838",
-    "handle": "tp-link-8-port-gigabit-unmanaged-rackmount-poe-switch",
-    "url": "/products/tp-link-8-port-gigabit-unmanaged-rackmount-poe-switch",
-    "qty": 3,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008MP_68a7.jpg"
+    "brand": "Cudy",
+    "title": "Cudy 4 Port Gigabit PoE 1x PoE Input 60W Switch",
+    "spec": "4 ports",
+    "price": "R543",
+    "handle": "cudy-4-port-gigabit-poe-1x-poe-input-60w-switch",
+    "url": "/products/cudy-4-port-gigabit-poe-1x-poe-input-60w-switch",
+    "qty": 24,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/POE40_Cudy_4_Port_Gigabit_PoE_1x_PoE_Input_60W_wr_02.png"
    },
    {
     "brand": "Huawei",
-    "title": "Huawei S310-48P4X Ekit 48 Port POE Switch",
+    "title": "Huawei S310-48P4S Ekit 48 Port POE Switch",
     "spec": "48 ports",
-    "price": "R6 169",
-    "handle": "huawei-s310-48p4x-ekit-48-port-poe-switch",
-    "url": "/products/huawei-s310-48p4x-ekit-48-port-poe-switch",
-    "qty": 6,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_fcaa.png"
+    "price": "R6 043",
+    "handle": "huawei-s310-48p4s-ekit-48-port-poe-switch",
+    "url": "/products/huawei-s310-48p4s-ekit-48-port-poe-switch",
+    "qty": 106,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_12a1.png"
    },
    {
     "brand": "Tenda",
@@ -1624,6 +1624,16 @@
  "components": {
   "storage": [
    {
+    "brand": "Seagate",
+    "title": "Seagate IronWolf NAS 8TB 3.5\" SATA HDD",
+    "spec": "NAS-grade · always-on",
+    "price": "R6 656",
+    "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
+    "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
+    "qty": 3
+   },
+   {
     "brand": "Ugreen",
     "title": "UGREEN CM767 M.2 NVMe SSD Enclosure",
     "spec": "Storage",
@@ -1650,7 +1660,7 @@
     "price": "R4 960",
     "handle": "sandisk-optimus-gx-7100-1tb-nvme-ssd",
     "url": "/products/sandisk-optimus-gx-7100-1tb-nvme-ssd",
-    "qty": 28,
+    "qty": 23,
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/D/SDSP71100TAN_000E0_d4e8.jpg"
    },
    {
@@ -2132,7 +2142,7 @@
     "price": "R1 560",
     "handle": "hikvision-4mp-2-8mm-fixed-bullet-network-camera",
     "url": "/products/hikvision-4mp-2-8mm-fixed-bullet-network-camera",
-    "qty": 462,
+    "qty": 362,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2041G0_LIU_2.8MM_e3b5.png"
    },
    {
@@ -2164,7 +2174,7 @@
     "price": "R922",
     "handle": "hikvision-2mp-ir-and-white-light-mini-pt-network-ip-camera",
     "url": "/products/hikvision-2mp-ir-and-white-light-mini-pt-network-ip-camera",
-    "qty": 35,
+    "qty": 34,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2DE2C200MWG_E_1_44a7.png"
    },
    {
