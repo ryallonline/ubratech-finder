@@ -38,7 +38,7 @@
     "price": "R10 954",
     "handle": "hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
     "url": "/products/hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
-    "qty": 13,
+    "qty": 8,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/7/C78E8AT_98d1.jpg"
    },
    {
@@ -126,14 +126,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__85__2e2b.png"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 16 AI 16\" Core-U5 16GB 512GB Win 11 Pro Notebook",
-    "spec": "16\" screen · 16GB RAM",
-    "price": "R31 858",
-    "handle": "dell-pro-16-ai-16-core-u5-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/dell-pro-16-ai-16-core-u5-16gb-512gb-win-11-pro-notebook",
-    "qty": 5,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/T/BTO105_PB16250_dc38.jpg"
+    "brand": "HP",
+    "title": "HP ProBook 4 G2i AI 14in Laptop — 16GB · 512GB SSD",
+    "spec": "512GB SSD",
+    "price": "R31 379",
+    "handle": "hp-probook-4-g2i-ai-14in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "url": "/products/hp-probook-4-g2i-ai-14in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "qty": 23,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DS5H9ET_default.png"
    },
    {
     "brand": "Asus",
@@ -330,7 +330,7 @@
     "price": "R21 461",
     "handle": "dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
     "url": "/products/dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
-    "qty": 71,
+    "qty": 76,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO004_QVS1260_EMEA_default.jpg"
    }
   ],
@@ -382,7 +382,7 @@
     "price": "R72 632",
     "handle": "dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
     "url": "/products/dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
-    "qty": 37,
+    "qty": 36,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PW516261-U7-321TB-5G_default.jpg"
    }
   ],
@@ -414,7 +414,7 @@
     "price": "R52 965",
     "handle": "dell-pro-precision-7-t1-pw7t1260-intel-core-ultra-7-265-30-mb-cache-20-cores-20-threads-1-8-ghz-to-5-3-ghz-65w-16gb-1-x-16gb-ddr5-up-to-5600-mt-s-1tb-m-2-2230-tlc-pcie-gen4-ssd-nvidia-a1000-8-gb",
     "url": "/products/dell-pro-precision-7-t1-pw7t1260-intel-core-ultra-7-265-30-mb-cache-20-cores-20-threads-1-8-ghz-to-5-3-ghz-65w-16gb-1-x-16gb-ddr5-up-to-5600-mt-s-1tb-m-2-2230-tlc-pcie-gen4-ssd-nvidia-a1000-8-gb",
-    "qty": 7,
+    "qty": 6,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PWT1260-U7-161TB-8GFX_default.png"
    },
    {
@@ -424,7 +424,7 @@
     "price": "R72 632",
     "handle": "dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
     "url": "/products/dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
-    "qty": 37,
+    "qty": 36,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PW516261-U7-321TB-5G_default.jpg"
    }
   ]
@@ -494,24 +494,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NH.U3PEA.001_Acer-NITRO-V-15-Gaming-Laptop-15.6-inch-AMD-Ryzen-7-16GB-512GB-RTX-5060-8GB-Windows-11-Home_wr_02a-1.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Alienware 15 Aurora 15.3\" Core-7 16GB 512GB Win 11 Home Notebook",
-    "spec": "Core 7 · 15.3\" screen · 16GB RAM",
-    "price": "R37 955",
-    "handle": "dell-alienware-15-aurora-15-3-core-7-16gb-512gb-win-11-home-notebook",
-    "url": "/products/dell-alienware-15-aurora-15-3-core-7-16gb-512gb-win-11-home-notebook",
-    "qty": 9,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__16__1e12.png"
+    "brand": "Asus",
+    "title": "Asus TUF Gaming F16 FX608JMI Laptop — Core i7",
+    "spec": "Core i7",
+    "price": "R36 517",
+    "handle": "asus-tuf-gaming-f16-fx608jmi-16-rtx5060-8gb-core-i7-14650hx-16gb-1tb-win-11-home-gaming-notebook",
+    "url": "/products/asus-tuf-gaming-f16-fx608jmi-16-rtx5060-8gb-core-i7-14650hx-16gb-1tb-win-11-home-gaming-notebook",
+    "qty": 19,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/S/ASUS_TUF__GAMING_A16_Jaeger_Grey_02_L__1__d0c6.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus ROG Strix G16 G614PP Laptop — Ryzen 9",
-    "spec": "Ryzen 9",
-    "price": "R50 621",
-    "handle": "asus-rog-strix-g16-g614pp-16-rtx5070-240hz-ryzen-9-8940hx-16gb-1tb-win-11-home-gaming-notebook",
-    "url": "/products/asus-rog-strix-g16-g614pp-16-rtx5070-240hz-ryzen-9-8940hx-16gb-1tb-win-11-home-gaming-notebook",
-    "qty": 8,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/0/2/02_G_New_16_L__8__d684.png"
+    "brand": "Dell",
+    "title": "Dell Alienware 15 Aurora 15.3\" Core-7 32GB 1TB Win 11 Home Notebook",
+    "spec": "Core 7 · 15.3\" screen · 32GB RAM",
+    "price": "R49 786",
+    "handle": "dell-alienware-15-aurora-15-3-core-7-32gb-1tb-win-11-home-notebook",
+    "url": "/products/dell-alienware-15-aurora-15-3-core-7-32gb-1tb-win-11-home-notebook",
+    "qty": 18,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__97__74c5.png"
    },
    {
     "brand": "Dell",
@@ -658,7 +658,7 @@
     "price": "R20 776",
     "handle": "asus-proart-pa27jcv-27-5k-hdr-60hz-ips-display",
     "url": "/products/asus-proart-pa27jcv-27-5k-hdr-60hz-ips-display",
-    "qty": 45,
+    "qty": 44,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/PA27JCV_Asus-ProArt-PA27JCV-27-inch-5K-HDR-60Hz-IPS-Display-%E2%80%93-Black_wr_01.jpg"
    },
    {
@@ -680,7 +680,7 @@
     "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 17,
+    "qty": 14,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -776,7 +776,7 @@
     "price": "R442",
     "handle": "lalela-r1818-wi-fi-ups-for-router-and-ont-48-8wh-6-8-hour-runtime",
     "url": "/products/lalela-r1818-wi-fi-ups-for-router-and-ont-48-8wh-6-8-hour-runtime",
-    "qty": 49,
+    "qty": 19,
     "image": "https://s3.amazonaws.com/tarsus.co.za/LAL-R1818_default.jpg"
    },
    {
@@ -984,13 +984,13 @@
    },
    {
     "brand": "Cudy",
-    "title": "Cudy AX3000 Wi-Fi 6 Mesh Kit 1 Pack - White",
-    "spec": "Wi-Fi 6",
-    "price": "R1 111",
-    "handle": "cudy-ax3000-wi-fi-6-mesh-kit-1-pack-white",
-    "url": "/products/cudy-ax3000-wi-fi-6-mesh-kit-1-pack-white",
-    "qty": 148,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/Cudy_M3000W-1PACK_wr_01a.jpg"
+    "title": "Cudy AC1200 Wi-Fi Mesh Kit 2 Pack With Gigabit",
+    "spec": "Router",
+    "price": "R1 233",
+    "handle": "cudy-ac1200-wi-fi-mesh-kit-2-pack-with-gigabit",
+    "url": "/products/cudy-ac1200-wi-fi-mesh-kit-2-pack-with-gigabit",
+    "qty": 116,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/10/M1300_wr_01.jpg"
    },
    {
     "brand": "Mercusys",
@@ -1041,7 +1041,7 @@
     "price": "R2 244",
     "handle": "xiaomi-mesh-system-ax3000-ne-whole-home-wi-fi-6-router-2-pack-white",
     "url": "/products/xiaomi-mesh-system-ax3000-ne-whole-home-wi-fi-6-router-2-pack-white",
-    "qty": 14,
+    "qty": 13,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/DVB4458GL_Xiaomi-Mesh-AX3000-NE-Wi-Fi-6-Router-2-Pck_001-1.jpeg"
    },
    {
@@ -1087,24 +1087,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/12/M3600-2PACK_Cudy-BE3600-Gigabit-Mesh-Wi-Fi-7-System-M3600-2-Pack_wr_01a.jpg"
    },
    {
-    "brand": "Mercusys",
-    "title": "Mercusys BE6500 Whole Home Mesh Wi-Fi 7 System",
+    "brand": "Cudy",
+    "title": "Cudy BE3600 Gigabit Mesh Wi-Fi 7 System – 3 Pack",
     "spec": "Wi-Fi 7",
-    "price": "R4 599",
-    "handle": "mercusys-be6500-whole-home-mesh-wi-fi-7-system",
-    "url": "/products/mercusys-be6500-whole-home-mesh-wi-fi-7-system",
-    "qty": 5,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/5/_/5__3__426b.png"
+    "price": "R4 110",
+    "handle": "cudy-be3600-gigabit-mesh-wi-fi-7-system-3-pack",
+    "url": "/products/cudy-be3600-gigabit-mesh-wi-fi-7-system-3-pack",
+    "qty": 150,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/12/M3600-3PACK_Cudy-BE3600-Gigabit-Mesh-Wi-Fi-7-System-M3600-3-Pack_wr_01a.jpg"
    },
    {
     "brand": "Asus",
-    "title": "Asus ZenWiFi BQ16 Quad-Band Wi-Fi 7 Mesh System - 2 Pack",
+    "title": "Asus ZenWiFi BT8 Tri-Band Wi-Fi 7 Mesh System - 2 Pack",
     "spec": "Wi-Fi 7",
-    "price": "R22 649",
-    "handle": "asus-zenwifi-bq16-quad-band-wi-fi-7-mesh-system-2-pack",
-    "url": "/products/asus-zenwifi-bq16-quad-band-wi-fi-7-mesh-system-2-pack",
+    "price": "R8 094",
+    "handle": "asus-zenwifi-bt8-tri-band-wi-fi-7-mesh-system-2-pack",
+    "url": "/products/asus-zenwifi-bt8-tri-band-wi-fi-7-mesh-system-2-pack",
     "qty": 3,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/Q/BQ16_2PK_7888.jpg"
+    "image": "https://www.pinnacle.co.za/media/catalog/product/B/T/BT8_2PK_79b7.jpg"
    }
   ]
  },
@@ -1169,7 +1169,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
     "url": "https://ubratech.co.za/products/hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
-    "qty": 28,
+    "qty": 25,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    },
    {
@@ -1209,7 +1209,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
     "url": "/products/hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
-    "qty": 28,
+    "qty": 25,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    }
   ],
@@ -1307,7 +1307,7 @@
     "price": "R426",
     "handle": "ugreen-cm512-6-in-1-usb-type-c-docking-station",
     "url": "/products/ugreen-cm512-6-in-1-usb-type-c-docking-station",
-    "qty": 73,
+    "qty": 69,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM512-45000_UGREEN-CM512-6-in-1-USB-Type-C-Docking-Station-Grey_wr_01b.jpg"
    },
    {
@@ -1411,7 +1411,7 @@
     "price": "R259",
     "handle": "ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0-usb2-0",
     "url": "/products/ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0-usb2-0",
-    "qty": 129,
+    "qty": 106,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM478-15495-wr-01.jpg"
    },
    {
@@ -1524,24 +1524,24 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008D_a815.png"
    },
    {
-    "brand": "Cudy",
-    "title": "Cudy 4 Port Gigabit PoE 1x PoE Input 60W Switch",
-    "spec": "4 ports",
-    "price": "R543",
-    "handle": "cudy-4-port-gigabit-poe-1x-poe-input-60w-switch",
-    "url": "/products/cudy-4-port-gigabit-poe-1x-poe-input-60w-switch",
-    "qty": 24,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/POE40_Cudy_4_Port_Gigabit_PoE_1x_PoE_Input_60W_wr_02.png"
+    "brand": "TP-Link",
+    "title": "TP-Link 8 Port Gigabit Unmanaged Rackmount POE Switch",
+    "spec": "8 ports",
+    "price": "R1 838",
+    "handle": "tp-link-8-port-gigabit-unmanaged-rackmount-poe-switch",
+    "url": "/products/tp-link-8-port-gigabit-unmanaged-rackmount-poe-switch",
+    "qty": 3,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008MP_68a7.jpg"
    },
    {
     "brand": "Huawei",
-    "title": "Huawei S310-48P4S Ekit 48 Port POE Switch",
+    "title": "Huawei S310-48P4X Ekit 48 Port POE Switch",
     "spec": "48 ports",
-    "price": "R6 043",
-    "handle": "huawei-s310-48p4s-ekit-48-port-poe-switch",
-    "url": "/products/huawei-s310-48p4s-ekit-48-port-poe-switch",
-    "qty": 106,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_12a1.png"
+    "price": "R6 169",
+    "handle": "huawei-s310-48p4x-ekit-48-port-poe-switch",
+    "url": "/products/huawei-s310-48p4x-ekit-48-port-poe-switch",
+    "qty": 6,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_fcaa.png"
    },
    {
     "brand": "Tenda",
@@ -1663,7 +1663,7 @@
     "handle": "hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/HSC516U48Z1-16G_Hiksemi-Hiker-16GB-DDR5-4800MHz-Desktop-Memory_wr_01a.jpg",
-    "qty": 112
+    "qty": 109
    },
    {
     "brand": "GeIL",
@@ -1682,7 +1682,7 @@
     "price": "R452",
     "handle": "hiksemi-future-8gb-1600mhz-8gb-x-1-so-dimm-memory-module",
     "url": "/products/hiksemi-future-8gb-1600mhz-8gb-x-1-so-dimm-memory-module",
-    "qty": 27,
+    "qty": 23,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/HSC308S16Z1-8G_wr_-2.jpg"
    },
    {
@@ -1702,7 +1702,7 @@
     "price": "R5 053",
     "handle": "hiksemi-future-rgb-16gb-6000mhz-ddr5-desktop-gaming-memory",
     "url": "/products/hiksemi-future-rgb-16gb-6000mhz-ddr5-desktop-gaming-memory",
-    "qty": 20,
+    "qty": 19,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/HSC516U60C4-16G_Hiksemi-Future-RGB-16GB-6000MHz-DDR5-Desktop-Gaming-Memory_wr_01.jpg"
    },
    {
@@ -1777,7 +1777,7 @@
     "handle": "asus-prime-750w-80-plus-bronze-atx-non-modular-power-supply",
     "url": "https://ubratech.co.za/products/asus-prime-750w-80-plus-bronze-atx-non-modular-power-supply",
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/PRIME-750B-BLACK_Asus-PRIME-750W-80-PLUS-Bronze-ATX-Non-modular-Power-Supply_wr_01a.jpg",
-    "qty": 79
+    "qty": 78
    },
    {
     "brand": "Antec",
@@ -1786,7 +1786,7 @@
     "price": "R558",
     "handle": "antec-atom-v550-non-modular-power-supply",
     "url": "/products/antec-atom-v550-non-modular-power-supply",
-    "qty": 60,
+    "qty": 57,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/ATOM-V550_wr_01a.jpg"
    },
    {
@@ -1796,7 +1796,7 @@
     "price": "R1 213",
     "handle": "antec-atom-g850-850w-80-plus-gold-semi-modular-power-supply",
     "url": "/products/antec-atom-g850-850w-80-plus-gold-semi-modular-power-supply",
-    "qty": 96,
+    "qty": 97,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/ATOM-G850_Antec-ATOM-G850-850W-80-PLUS-Gold-Semi-Modular-Power-Supply_wr_01a.jpg"
    },
    {
@@ -1968,24 +1968,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "Gizzu",
-    "title": "Gizzu 4K Type-C to DisplayPort Cable 1.8m Poly",
-    "spec": "Cables And Adapters",
+    "brand": "Giada",
+    "title": "Giada JC553 VESA Wall Mounting Kit",
+    "spec": "Accessories",
     "price": "R133",
-    "handle": "gizzu-4k-type-c-to-displayport-cable-1-8m-poly",
-    "url": "/products/gizzu-4k-type-c-to-displayport-cable-1-8m-poly",
-    "qty": 22,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2023/08/GCPCDP18_wr_01.jpg"
+    "handle": "giada-jc553-vesa-wall-mounting-kit",
+    "url": "/products/giada-jc553-vesa-wall-mounting-kit",
+    "qty": 4,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/JC553_wr_01.jpg"
    },
    {
-    "brand": "Datanet",
-    "title": "Datanet CAT6 24 PORT 19\" Patch Panel",
-    "spec": "19\" screen · 24 ports",
-    "price": "R427",
-    "handle": "datanet-cat6-24-port-19-patch-panel",
-    "url": "/products/datanet-cat6-24-port-19-patch-panel",
-    "qty": 53,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__16__3a42.png"
+    "brand": "TP-Link",
+    "title": "TP-Link Archer T4U AC1300 High Gain Dual Band Wi-Fi USB Adapter Router",
+    "spec": "Cables And Adapters",
+    "price": "R423",
+    "handle": "tp-link-archer-t4u-ac1300-high-gain-dual-band-wi-fi-usb-adapter-router",
+    "url": "/products/tp-link-archer-t4u-ac1300-high-gain-dual-band-wi-fi-usb-adapter-router",
+    "qty": 18,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/R/ARCHER_T4U_PLUS_1_abee.png"
    },
    {
     "brand": "HP",
@@ -2026,7 +2026,7 @@
     "price": "R58",
     "handle": "redragon-bm-4054-4000dpi-wireless-optical-mouse",
     "url": "/products/redragon-bm-4054-4000dpi-wireless-optical-mouse",
-    "qty": 179,
+    "qty": 172,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/RD-BM-4054_wr_01.jpg"
    },
    {
@@ -2080,7 +2080,7 @@
     "price": "R1 623",
     "handle": "hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
     "url": "/products/hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
-    "qty": 256,
+    "qty": 396,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2141G0_LIU_4MM_ee84.jpg"
    },
    {
@@ -2122,7 +2122,7 @@
     "price": "R1 560",
     "handle": "hikvision-4mp-2-8mm-fixed-bullet-network-camera",
     "url": "/products/hikvision-4mp-2-8mm-fixed-bullet-network-camera",
-    "qty": 362,
+    "qty": 364,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2041G0_LIU_2.8MM_e3b5.png"
    },
    {
