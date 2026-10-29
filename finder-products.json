@@ -126,24 +126,24 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__85__2e2b.png"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 16 AI 16\" Core-U5 16GB 512GB Win 11 Pro Notebook",
-    "spec": "16\" screen · 16GB RAM",
-    "price": "R31 858",
-    "handle": "dell-pro-16-ai-16-core-u5-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/dell-pro-16-ai-16-core-u5-16gb-512gb-win-11-pro-notebook",
-    "qty": 5,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/T/BTO105_PB16250_dc38.jpg"
+    "brand": "HP",
+    "title": "HP ProBook 4 G2i AI 14in Laptop — 16GB · 512GB SSD",
+    "spec": "512GB SSD",
+    "price": "R31 379",
+    "handle": "hp-probook-4-g2i-ai-14in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "url": "/products/hp-probook-4-g2i-ai-14in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "qty": 23,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DS5H9ET_default.png"
    },
    {
-    "brand": "Asus",
-    "title": "Asus Zenbook S16 UM5606GA 16\" 3K OLED 120Hz Ryzen AI 9-465 16GB 1TB Win 11 Pro Notebook",
-    "spec": "Ryzen AI 9 · 16\" screen · 16GB RAM",
-    "price": "R39 665",
-    "handle": "asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
-    "url": "/products/asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
-    "qty": 7,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_S16_UM5606GA_Product_photo_3G_Antrim_Gray_03__1__de3e.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 14 Plus 14\" Core-U7 16GB 512GB Win 11 Pro Notebook (BTO216_PB14250)",
+    "spec": "14\" screen · 16GB RAM",
+    "price": "R39 939",
+    "handle": "dell-pro-14-plus-14-core-u7-16gb-512gb-win-11-pro-notebook-bto216-pb14250",
+    "url": "/products/dell-pro-14-plus-14-core-u7-16gb-512gb-win-11-pro-notebook-bto216-pb14250",
+    "qty": 6,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__78__cec9.png"
    },
    {
     "brand": "HP",
@@ -194,7 +194,7 @@
     "price": "R37 776",
     "handle": "asus-zenbook-14-ux3405ca-14-3k-oled-120hz-core-u9-285h-16gb-1tb-win-11-pro-notebook",
     "url": "/products/asus-zenbook-14-ux3405ca-14-3k-oled-120hz-core-u9-285h-16gb-1tb-win-11-pro-notebook",
-    "qty": 44,
+    "qty": 47,
     "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_14_UX3405CA_Product_photo_3B_Ponder_Blue_03_62bf.jpg"
    },
    {
@@ -674,24 +674,24 @@
   ],
   "gaming": [
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi A24i 2026 24″ 144Hz Full HD 1080P IPS Office Monitor",
-    "spec": "24\" screen",
-    "price": "R2 071",
-    "handle": "xiaomi-a24i-2026-24-144hz-full-hd-1080p-ips-office-monitor",
-    "url": "/products/xiaomi-a24i-2026-24-144hz-full-hd-1080p-ips-office-monitor",
-    "qty": 210,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6416EU_Xiaomi-A24i-2026-24-inch-144Hz-Full-HD-1080P-IPS-Office-Monitor_wr_01a.jpg"
+    "brand": "Dell",
+    "title": "Dell SE2426H 24\" FHD Gaming Monitor",
+    "spec": "High refresh · smooth motion",
+    "price": "R2 005",
+    "handle": "dell-se2426h-24-fhd-gaming-monitor",
+    "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
+    "qty": 24,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi A27Qi 2026 27\" inch 120Hz 2K IPS Office Monitor",
+    "title": "Xiaomi G27i 2026 27″ 200Hz Full HD 1080p IPS Gaming Monitor",
     "spec": "27\" screen",
-    "price": "R3 449",
-    "handle": "xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
-    "url": "/products/xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
-    "qty": 157,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6568EU_Xiaomi-A27Qi-2026-27-inch-2K-120Hz-IPS-Office-Monitor_wr_01a.jpg"
+    "price": "R3 251",
+    "handle": "xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
+    "url": "/products/xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
+    "qty": 113,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6370EU_Xiaomi-G27i-2026-27%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -1534,24 +1534,24 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008D_a815.png"
    },
    {
-    "brand": "Cudy",
-    "title": "Cudy 4 Port Gigabit PoE 1x PoE Input 60W Switch",
-    "spec": "4 ports",
-    "price": "R543",
-    "handle": "cudy-4-port-gigabit-poe-1x-poe-input-60w-switch",
-    "url": "/products/cudy-4-port-gigabit-poe-1x-poe-input-60w-switch",
-    "qty": 24,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/POE40_Cudy_4_Port_Gigabit_PoE_1x_PoE_Input_60W_wr_02.png"
+    "brand": "TP-Link",
+    "title": "TP-Link 8 Port Gigabit Unmanaged Rackmount POE Switch",
+    "spec": "8 ports",
+    "price": "R1 838",
+    "handle": "tp-link-8-port-gigabit-unmanaged-rackmount-poe-switch",
+    "url": "/products/tp-link-8-port-gigabit-unmanaged-rackmount-poe-switch",
+    "qty": 3,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008MP_68a7.jpg"
    },
    {
     "brand": "Huawei",
-    "title": "Huawei S310-48P4S Ekit 48 Port POE Switch",
+    "title": "Huawei S310-48P4X Ekit 48 Port POE Switch",
     "spec": "48 ports",
-    "price": "R6 043",
-    "handle": "huawei-s310-48p4s-ekit-48-port-poe-switch",
-    "url": "/products/huawei-s310-48p4s-ekit-48-port-poe-switch",
-    "qty": 106,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_12a1.png"
+    "price": "R6 169",
+    "handle": "huawei-s310-48p4x-ekit-48-port-poe-switch",
+    "url": "/products/huawei-s310-48p4x-ekit-48-port-poe-switch",
+    "qty": 6,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_fcaa.png"
    },
    {
     "brand": "Tenda",
@@ -1706,14 +1706,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/KCP432SS8/8_default.jpg"
    },
    {
-    "brand": "GeIL",
-    "title": "GeIL Pristine 32GB DDR4 3200MHz UDIMM Desktop Memory",
+    "brand": "Hiksemi",
+    "title": "Hiksemi Future RGB 16GB 6000MHz DDR5 Desktop Gaming Memory",
     "spec": "Memory",
-    "price": "R4 978",
-    "handle": "geil-pristine-32gb-ddr4-3200mhz-udimm-desktop-memory",
-    "url": "/products/geil-pristine-32gb-ddr4-3200mhz-udimm-desktop-memory",
-    "qty": 71,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/GP432GB3200C22SC_GeIL-Pristine-32GB-DDR4-3200MHz-UDIMM-Desktop-Memory_wr_01.jpg"
+    "price": "R5 053",
+    "handle": "hiksemi-future-rgb-16gb-6000mhz-ddr5-desktop-gaming-memory",
+    "url": "/products/hiksemi-future-rgb-16gb-6000mhz-ddr5-desktop-gaming-memory",
+    "qty": 20,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/HSC516U60C4-16G_Hiksemi-Future-RGB-16GB-6000MHz-DDR5-Desktop-Gaming-Memory_wr_01.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -1988,14 +1988,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2023/08/GCPCDP18_wr_01.jpg"
    },
    {
-    "brand": "Datanet",
-    "title": "Datanet CAT6 24 PORT 19\" Patch Panel",
-    "spec": "19\" screen · 24 ports",
-    "price": "R427",
-    "handle": "datanet-cat6-24-port-19-patch-panel",
-    "url": "/products/datanet-cat6-24-port-19-patch-panel",
-    "qty": 53,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__16__3a42.png"
+    "brand": "Port",
+    "title": "Port Slim Keyed Cable Security Lock",
+    "spec": "Accessories",
+    "price": "R424",
+    "handle": "port-slim-keyed-cable-security-lock",
+    "url": "/products/port-slim-keyed-cable-security-lock",
+    "qty": 8,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/901200_67c8.jpg"
    },
    {
     "brand": "HP",
