@@ -38,7 +38,7 @@
     "price": "R10 954",
     "handle": "hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
     "url": "/products/hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
-    "qty": 8,
+    "qty": 7,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/7/C78E8AT_98d1.jpg"
    },
    {
@@ -468,7 +468,7 @@
     "price": "R23 169",
     "handle": "asus-tuf-gaming-a16-gaming-laptop-16-ryzen-7-260-16gb-ddr5-rtx-5050-512gb-ssd-windows-11-home-fa608uhi-716512g0w",
     "url": "/products/asus-tuf-gaming-a16-gaming-laptop-16-ryzen-7-260-16gb-ddr5-rtx-5050-512gb-ssd-windows-11-home-fa608uhi-716512g0w",
-    "qty": 28,
+    "qty": 24,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/FA608UHI-716512G0W_Asus_TUF_Gaming_A16_Gaming_Laptop_16_Ryz_wr_01.png"
    }
   ],
@@ -586,7 +586,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 539,
+    "qty": 518,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -680,7 +680,7 @@
     "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 14,
+    "qty": 13,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -722,7 +722,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 539,
+    "qty": 518,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -1157,7 +1157,7 @@
     "price": "R8 801",
     "handle": "hp-color-laserjet-pro-4303dw-mfp-print-copy-scan-4-preinstalled-introductory-hp-laserjet-toner-cartridges-black-2000-pages-introductoy-cyan-magenta-yellow-1-000-pages-black-a4-normal-up-to-33-ppm",
     "url": "/products/hp-color-laserjet-pro-4303dw-mfp-print-copy-scan-4-preinstalled-introductory-hp-laserjet-toner-cartridges-black-2000-pages-introductoy-cyan-magenta-yellow-1-000-pages-black-a4-normal-up-to-33-ppm",
-    "qty": 98,
+    "qty": 97,
     "image": "https://s3.amazonaws.com/tarsus.co.za/5HH65A_default.png"
    }
   ],
@@ -1311,37 +1311,27 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM512-45000_UGREEN-CM512-6-in-1-USB-Type-C-Docking-Station-Grey_wr_01b.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP USB-C 100W G6 Black Docking Station",
+    "brand": "Targus",
+    "title": "Targus - USB-C Multi-Function DisplayPort Alt Triple Video with 85W… (DOCK430EUZ)",
     "spec": "Docking Station",
-    "price": "R2 863",
-    "handle": "hp-usb-c-100w-g6-black-docking-station",
-    "url": "/products/hp-usb-c-100w-g6-black-docking-station",
-    "qty": 41,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/X/9X3V1UT_2_1072.jpg"
+    "price": "R2 267",
+    "handle": "targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
+    "url": "/products/targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
+    "qty": 46,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK430EUZ_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro Thunderbolt 5 Smart Dock SD25TB5",
+    "brand": "Targus",
+    "title": "Targus - USB-C Universal Quad 4K Docking Station with 100W Power…",
     "spec": "Docking Station",
-    "price": "R8 461",
-    "handle": "dell-pro-thunderbolt-5-smart-dock-sd25tb5",
-    "url": "/products/dell-pro-thunderbolt-5-smart-dock-sd25tb5",
-    "qty": 3,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BRFN_default.png"
+    "price": "R7 455",
+    "handle": "targus-usb-c-universal-quad-4k-docking-station-with-100w-power-delivery-supports-four-4k-displays-via-four-displayport-3840-x-2160-p60-or-four-hdmi-3840-x-2160-p50-ports-thunderbolt-3-compatible",
+    "url": "/products/targus-usb-c-universal-quad-4k-docking-station-with-100w-power-delivery-supports-four-4k-displays-via-four-displayport-3840-x-2160-p60-or-four-hdmi-3840-x-2160-p50-ports-thunderbolt-3-compatible",
+    "qty": 5,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK570EUZ_default.jpg"
    }
   ],
   "mac": [
-   {
-    "brand": "Dell",
-    "title": "Dell Pro Thunderbolt 4 Dock — WD25TB4",
-    "spec": "Thunderbolt · works with MacBook",
-    "price": "R5 160",
-    "handle": "dell-pro-thunderbolt-4-dock-wd25tb4",
-    "url": "https://ubratech.co.za/products/dell-pro-thunderbolt-4-dock-wd25tb4",
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BTHY_default.jpg",
-    "qty": 3
-   },
    {
     "brand": "Port",
     "title": "Port USB-C Mini with HDMI Docking Station",
@@ -1353,34 +1343,34 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900140_0708.jpg"
    },
    {
-    "brand": "Port",
-    "title": "PORT Mobile docking station 1 X 4K USB-C 9 devices 100W",
-    "spec": "Docking Station",
-    "price": "R1 478",
-    "handle": "port-mobile-docking-station-1-x-4k-usb-c-9-devices-100w",
-    "url": "/products/port-mobile-docking-station-1-x-4k-usb-c-9-devices-100w",
-    "qty": 7,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901906V2_PORT_Mobile_docking_station_1_X_4K_USB-C_wr_01.png"
-   },
-   {
-    "brand": "Lenovo",
-    "title": "Lenovo ThinkPad Hybrid USB-C with USB-A Dock- RSA",
-    "spec": "Docking Station",
-    "price": "R4 352",
-    "handle": "lenovo-thinkpad-hybrid-usb-c-with-usb-a-dock-rsa",
-    "url": "/products/lenovo-thinkpad-hybrid-usb-c-with-usb-a-dock-rsa",
-    "qty": 29,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/40AF0135SA_default.jpg"
-   },
-   {
     "brand": "Dell",
-    "title": "Dell Pro Thunderbolt 5 Smart Dock SD25TB5",
+    "title": "Dell Pro 7-in-1 USB-C Mobile Docking Station",
     "spec": "Docking Station",
-    "price": "R8 461",
-    "handle": "dell-pro-thunderbolt-5-smart-dock-sd25tb5",
-    "url": "/products/dell-pro-thunderbolt-5-smart-dock-sd25tb5",
-    "qty": 3,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BRFN_default.png"
+    "price": "R1 427",
+    "handle": "dell-pro-7-in-1-usb-c-mobile-docking-station",
+    "url": "/products/dell-pro-7-in-1-usb-c-mobile-docking-station",
+    "qty": 47,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__23__d7c1.png"
+   },
+   {
+    "brand": "Port2",
+    "title": "PORT2 x 4K USB-C desktop docking station 11 peripherals 96W",
+    "spec": "Docking Station",
+    "price": "R4 154",
+    "handle": "port2-x-4k-usb-c-desktop-docking-station-11-peripherals-96w",
+    "url": "/products/port2-x-4k-usb-c-desktop-docking-station-11-peripherals-96w",
+    "qty": 7,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901904V2EU_PORT2_x_4K_USB-C_desktop_docking_station_wr_03.png"
+   },
+   {
+    "brand": "Targus",
+    "title": "Targus - USB-C Universal Quad 4K Docking Station with 100W Power…",
+    "spec": "Docking Station",
+    "price": "R7 455",
+    "handle": "targus-usb-c-universal-quad-4k-docking-station-with-100w-power-delivery-supports-four-4k-displays-via-four-displayport-3840-x-2160-p60-or-four-hdmi-3840-x-2160-p50-ports-thunderbolt-3-compatible",
+    "url": "/products/targus-usb-c-universal-quad-4k-docking-station-with-100w-power-delivery-supports-four-4k-displays-via-four-displayport-3840-x-2160-p60-or-four-hdmi-3840-x-2160-p50-ports-thunderbolt-3-compatible",
+    "qty": 5,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK570EUZ_default.jpg"
    }
   ],
   "legacy": [
@@ -1447,16 +1437,6 @@
     "url": "/products/winx-call-clear-3-5mm-headset",
     "qty": 199,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS105_wr_01.jpg"
-   },
-   {
-    "brand": "Logitech",
-    "title": "Logitech H540 USB Computer Headset with HD Sound and On-Ear… (981-000480)",
-    "spec": "Headsets",
-    "price": "R666",
-    "handle": "logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
-    "url": "/products/logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
-    "qty": 34,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/981-000480_default.jpg"
    },
    {
     "brand": "Winx",
@@ -1614,6 +1594,16 @@
  "components": {
   "storage": [
    {
+    "brand": "Seagate",
+    "title": "Seagate IronWolf NAS 8TB 3.5\" SATA HDD",
+    "spec": "NAS-grade · always-on",
+    "price": "R6 656",
+    "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
+    "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
+    "qty": 3
+   },
+   {
     "brand": "Ugreen",
     "title": "UGREEN CM767 M.2 NVMe SSD Enclosure",
     "spec": "Storage",
@@ -1663,7 +1653,7 @@
     "handle": "hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/HSC516U48Z1-16G_Hiksemi-Hiker-16GB-DDR5-4800MHz-Desktop-Memory_wr_01a.jpg",
-    "qty": 109
+    "qty": 108
    },
    {
     "brand": "GeIL",
@@ -1673,7 +1663,7 @@
     "handle": "geil-orion-rgb-16gb-6000mhz-ddr5-desktop-gaming-memory-grey",
     "url": "https://ubratech.co.za/products/geil-orion-rgb-16gb-6000mhz-ddr5-desktop-gaming-memory-grey",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/GAVSG516GB6000C36CSC_Geil-Orion-V-RGB-16GB-6000MHz-DDR5-Desktop-Gaming-Memory-Grey_wr_01.jpg",
-    "qty": 22
+    "qty": 19
    },
    {
     "brand": "Hiksemi",
@@ -1687,13 +1677,13 @@
    },
    {
     "brand": "Kingston",
-    "title": "Kingston 8GB DDR4 3200MHz SODIMM",
+    "title": "Kingston 8GB DDR4 3200MHz Single Rank Module",
     "spec": "Memory",
-    "price": "R2 525",
-    "handle": "kingston-8gb-ddr4-3200mhz-sodimm",
-    "url": "/products/kingston-8gb-ddr4-3200mhz-sodimm",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/KCP432SS8/8_default.jpg"
+    "price": "R2 973",
+    "handle": "kingston-8gb-ddr4-3200mhz-single-rank-module",
+    "url": "/products/kingston-8gb-ddr4-3200mhz-single-rank-module",
+    "qty": 7,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/KCP432NS6/8_default.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -1845,13 +1835,13 @@
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi Smart Home hub 2",
-    "spec": "Smart Home",
-    "price": "R1 166",
-    "handle": "xiaomi-smart-home-hub-2",
-    "url": "/products/xiaomi-smart-home-hub-2",
-    "qty": 19,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/12/BHR6765GL_wr_01.jpg"
+    "title": "Xiaomi Smart Humidifier 2",
+    "spec": "Appliances",
+    "price": "R1 121",
+    "handle": "xiaomi-smart-humidifier-2",
+    "url": "/products/xiaomi-smart-humidifier-2",
+    "qty": 195,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/BHR6026EU_wr_01a.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -1907,13 +1897,13 @@
    },
    {
     "brand": "Redmi",
-    "title": "Redmi Buds 8 Lite - Black",
+    "title": "Redmi Buds 8 Lite - White",
     "spec": "Tv And Audio",
     "price": "R516",
-    "handle": "redmi-buds-8-lite-black",
-    "url": "/products/redmi-buds-8-lite-black",
-    "qty": 99,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/BHR08OMGL_Xiaomi-Redmi-Buds-8-Lite-Black_wr_01b.jpg"
+    "handle": "redmi-buds-8-lite-white",
+    "url": "/products/redmi-buds-8-lite-white",
+    "qty": 143,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/BHR08OLGL_Xiaomi-Redmi-Buds-8-Lite-White_wr_01b.jpg"
    },
    {
     "brand": "Nearity",
@@ -1978,14 +1968,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/JC553_wr_01.jpg"
    },
    {
-    "brand": "TP-Link",
-    "title": "TP-Link Archer T4U AC1300 High Gain Dual Band Wi-Fi USB Adapter Router",
-    "spec": "Cables And Adapters",
-    "price": "R423",
-    "handle": "tp-link-archer-t4u-ac1300-high-gain-dual-band-wi-fi-usb-adapter-router",
-    "url": "/products/tp-link-archer-t4u-ac1300-high-gain-dual-band-wi-fi-usb-adapter-router",
-    "qty": 18,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/R/ARCHER_T4U_PLUS_1_abee.png"
+    "brand": "Ugreen",
+    "title": "UGREEN 130W USB-C 3-port Car Charger",
+    "spec": "3 ports",
+    "price": "R419",
+    "handle": "ugreen-130w-usb-c-3-port-car-charger",
+    "url": "/products/ugreen-130w-usb-c-3-port-car-charger",
+    "qty": 54,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/EC705-55511_UGREEN_130W_USB-C_3-port_Car_Charger_wr_01.png"
    },
    {
     "brand": "HP",
@@ -2017,7 +2007,7 @@
     "handle": "logitech-c920s-pro-full-hd-usb-webcam",
     "url": "https://ubratech.co.za/products/logitech-c920s-pro-full-hd-usb-webcam",
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/960_001252_9ebb.jpg",
-    "qty": 4
+    "qty": 3
    },
    {
     "brand": "Redragon",
@@ -2031,23 +2021,23 @@
    },
    {
     "brand": "Port",
-    "title": "Port Pure MAC Wireless Silver Mouse",
+    "title": "Port Pure MAC Wireless Pearl Mouse",
     "spec": "Wired Mouse",
     "price": "R371",
-    "handle": "port-pure-mac-wireless-silver-mouse",
-    "url": "/products/port-pure-mac-wireless-silver-mouse",
-    "qty": 99,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_6e09.png"
+    "handle": "port-pure-mac-wireless-pearl-mouse",
+    "url": "/products/port-pure-mac-wireless-pearl-mouse",
+    "qty": 35,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__14__f97d.png"
    },
    {
-    "brand": "Redragon",
-    "title": "Redragon EISA 100 Retro RGB Wireless Mechanical Keyboard - Cream/Grey",
+    "brand": "Winx",
+    "title": "WINX ELITE Wireless and BT Keyboard",
     "spec": "Keyboards",
-    "price": "R743",
-    "handle": "redragon-eisa-100-retro-rgb-wireless-mechanical-keyboard-cream-grey",
-    "url": "/products/redragon-eisa-100-retro-rgb-wireless-mechanical-keyboard-cream-grey",
-    "qty": 14,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/RD-K768WGR-WL_Redragon_EISA_100_Retro_RGB_Wireless_Mec_wr_01.png"
+    "price": "R734",
+    "handle": "winx-elite-wireless-and-bt-keyboard",
+    "url": "/products/winx-elite-wireless-and-bt-keyboard",
+    "qty": 211,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2023/11/WX-KB104_wr_01.jpg"
    },
    {
     "brand": "Keychron",
@@ -2080,18 +2070,18 @@
     "price": "R1 623",
     "handle": "hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
     "url": "/products/hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
-    "qty": 396,
+    "qty": 4,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2141G0_LIU_4MM_ee84.jpg"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Acusense Fixed Mini Dome IP Camera",
+    "title": "Hikvision 4MP Smart Hybrid ColorVu Fixed Mini Bullet IP Camera (DS-2CD2047G2H-LIU-SL-2.8MM)",
     "spec": "4MP",
-    "price": "R3 126",
-    "handle": "hikvision-4mp-acusense-fixed-mini-dome-ip-camera",
-    "url": "/products/hikvision-4mp-acusense-fixed-mini-dome-ip-camera",
-    "qty": 42,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2546G2_IS2.8MM__1__a2ef.png"
+    "price": "R3 136",
+    "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-mini-bullet-ip-camera-ds-2cd2047g2h-liu-sl-2-8mm",
+    "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-mini-bullet-ip-camera-ds-2cd2047g2h-liu-sl-2-8mm",
+    "qty": 4,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LIU_SL_2.8MM_1_abe9.png"
    },
    {
     "brand": "Hikvision",
@@ -2127,13 +2117,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Acusense Fixed Mini Dome IP Camera",
+    "title": "Hikvision 4MP ColorVu Fixed Bullet IP Camera",
     "spec": "4MP",
-    "price": "R3 126",
-    "handle": "hikvision-4mp-acusense-fixed-mini-dome-ip-camera",
-    "url": "/products/hikvision-4mp-acusense-fixed-mini-dome-ip-camera",
-    "qty": 42,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2546G2_IS2.8MM__1__a2ef.png"
+    "price": "R3 138",
+    "handle": "hikvision-4mp-colorvu-fixed-bullet-ip-camera",
+    "url": "/products/hikvision-4mp-colorvu-fixed-bullet-ip-camera",
+    "qty": 8,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T47G2_L_6MM_1977.jpg"
    },
    {
     "brand": "Hikvision",
@@ -2159,23 +2149,23 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Fixed Dome Network Camera",
+    "title": "Hikvision 4MP Acusense Bullet IP Camera (DS-2CD2T46G2-4I-6MM)",
     "spec": "4MP",
-    "price": "R2 353",
-    "handle": "hikvision-4mp-fixed-dome-network-camera",
-    "url": "/products/hikvision-4mp-fixed-dome-network-camera",
-    "qty": 11,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
+    "price": "R2 920",
+    "handle": "hikvision-4mp-acusense-bullet-ip-camera-ds-2cd2t46g2-4i-6mm",
+    "url": "/products/hikvision-4mp-acusense-bullet-ip-camera-ds-2cd2t46g2-4i-6mm",
+    "qty": 9,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2_4I_6MM_ff4a.jpg"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP ColorVu Smart Hybrid Light Fixed Turret Camera",
+    "title": "Hikvision 4MP Smart Hybrid ColorVu Fixed Bullet IP Camera",
     "spec": "4MP",
-    "price": "R3 200",
-    "handle": "hikvision-4mp-colorvu-smart-hybrid-light-fixed-turret-camera",
-    "url": "/products/hikvision-4mp-colorvu-smart-hybrid-light-fixed-turret-camera",
-    "qty": 3,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2347G2H_LI_2.8MM_1_1a0e.png"
+    "price": "R3 170",
+    "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-bullet-ip-camera",
+    "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-bullet-ip-camera",
+    "qty": 58,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T47G2H_LI_image_4_17d1.png"
    },
    {
     "brand": "Hikvision",
