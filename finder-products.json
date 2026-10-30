@@ -28,7 +28,7 @@
     "price": "R10 954",
     "handle": "hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
     "url": "/products/hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
-    "qty": 4,
+    "qty": 160,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/7/C78E8AT_98d1.jpg"
    },
    {
@@ -74,14 +74,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer EXO14 72 51AG Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.ELVEA.001)",
-    "spec": "Core Ultra 5 · 512GB SSD",
-    "price": "R17 628",
-    "handle": "acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
-    "url": "/products/acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
-    "qty": 47,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.ELVEA.001_default.jpg"
+    "brand": "Lenovo",
+    "title": "Lenovo V15 IRU Laptop — Core i5 · 512GB SSD",
+    "spec": "Core i5 · 512GB SSD",
+    "price": "R17 881",
+    "handle": "lenovo-v15-iru-i5-13420h-8gb-base-ddr5-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-15-6-fhd-tn-hd-cam-wi-fi-ax-2x2-bt-n-fpr-2-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
+    "url": "/products/lenovo-v15-iru-i5-13420h-8gb-base-ddr5-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-15-6-fhd-tn-hd-cam-wi-fi-ax-2x2-bt-n-fpr-2-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
+    "qty": 57,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA_default.jpg"
    },
    {
     "brand": "Dell",
@@ -174,7 +174,7 @@
     "price": "R18 694",
     "handle": "hp-probook-4-g1ah-14-fhd-radeon-740m-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
     "url": "/products/hp-probook-4-g1ah-14-fhd-radeon-740m-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
-    "qty": 58,
+    "qty": 38,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KTAT_4090.jpg"
    },
    {
@@ -238,7 +238,7 @@
     "price": "R7 392",
     "handle": "pcbuilder-cube-n100-8gb-ddr4-512gb-windows-11-home-mini-pc",
     "url": "/products/pcbuilder-cube-n100-8gb-ddr4-512gb-windows-11-home-mini-pc",
-    "qty": 41,
+    "qty": 37,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/PCB_CUBE_N100_8G_HOME_PCBuilder-CUBE-N100-8GB-DDR4-512GB-Windows-11-Home-Mini-PC_wr_01a.jpg"
    },
    {
@@ -596,7 +596,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 479,
+    "qty": 499,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -732,7 +732,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 479,
+    "qty": 499,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -999,7 +999,7 @@
     "price": "R1 111",
     "handle": "cudy-ax3000-wi-fi-6-mesh-kit-1-pack-white",
     "url": "/products/cudy-ax3000-wi-fi-6-mesh-kit-1-pack-white",
-    "qty": 143,
+    "qty": 137,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/Cudy_M3000W-1PACK_wr_01a.jpg"
    },
    {
@@ -1041,7 +1041,7 @@
     "price": "R1 522",
     "handle": "xiaomi-ac1200-whole-home-mesh-wi-fi-system-2-pack",
     "url": "/products/xiaomi-ac1200-whole-home-mesh-wi-fi-system-2-pack",
-    "qty": 35,
+    "qty": 33,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/DVB4451GL_wr_01.jpg"
    },
    {
@@ -1317,7 +1317,7 @@
     "price": "R426",
     "handle": "ugreen-cm512-6-in-1-usb-type-c-docking-station",
     "url": "/products/ugreen-cm512-6-in-1-usb-type-c-docking-station",
-    "qty": 64,
+    "qty": 43,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM512-45000_UGREEN-CM512-6-in-1-USB-Type-C-Docking-Station-Grey_wr_01b.jpg"
    },
    {
@@ -1591,7 +1591,7 @@
     "brand": "Acconet",
     "title": "Acconet 12U Unassembled Wall Mount Swing Box 450mm",
     "spec": "Flat Pack, Glass Door",
-    "price": "R2 748",
+    "price": "R2 746",
     "handle": "acconet-12u-unassembled-wall-mount-swing-box-450mm",
     "url": "/pages/acconet-12u-unassembled-wall-mount-swing-box-450mm",
     "qty": 9,
@@ -1748,24 +1748,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/09/GT7102GD3H4HDMI_wr_01.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "ASUS Nvidia GeForce RTX 3050 Dual OC 6G Graphic Card",
+    "brand": "MSI",
+    "title": "MSI GeForce RTX 3050 VENTUS 2X E 6GB OC Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R6 883",
-    "handle": "asus-nvidia-geforce-rtx-3050-dual-oc-6g-graphic-card",
-    "url": "/products/asus-nvidia-geforce-rtx-3050-dual-oc-6g-graphic-card",
-    "qty": 102,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/DUAL-RTX3050-O6G_wr_01.jpg"
+    "price": "R6 515",
+    "handle": "msi-geforce-rtx-3050-ventus-2x-e-6gb-oc-graphics-card",
+    "url": "/products/msi-geforce-rtx-3050-ventus-2x-e-6gb-oc-graphics-card",
+    "qty": 12,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/RTX3050VENTUS2XE6GOC-WR-01.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus Dual Radeon RX 9060 XT 16GB GDDR6 Graphics Card",
+    "brand": "ASRock",
+    "title": "ASRock Radeon RX9070 XT Steel Legend Dark 16GB Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R14 893",
-    "handle": "asus-dual-radeon-rx-9060-xt-16gb-gddr6-graphics-card",
-    "url": "/products/asus-dual-radeon-rx-9060-xt-16gb-gddr6-graphics-card",
-    "qty": 7,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/DUAL-RX9060XT-16G_Asus-Dual-Radeon-RX-9060-XT-16GB-GDDR6-Graphics-Card_wr_01.jpg"
+    "price": "R20 896",
+    "handle": "asrock-radeon-rx9070-xt-steel-legend-dark-16gb-graphics-card",
+    "url": "/products/asrock-radeon-rx9070-xt-steel-legend-dark-16gb-graphics-card",
+    "qty": 24,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/RX9070XTSTEELLEGENDDARK16_ASROCK-RADEON-RX9070-XT-STEEL-LEGEND-DAR_wr_01.jpg"
    },
    {
     "brand": "Asus",
@@ -1978,14 +1978,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "Cudy",
-    "title": "Cudy AC650 WiFi Mini USB Adapter",
-    "spec": "Cables And Adapters",
+    "brand": "Port",
+    "title": "Port Comfortable Ergonomic Mouse Pad",
+    "spec": "Accessories",
     "price": "R132",
-    "handle": "cudy-ac650-wifi-mini-usb-adapter",
-    "url": "/products/cudy-ac650-wifi-mini-usb-adapter",
-    "qty": 199,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/WU650_wr_01.jpg"
+    "handle": "port-comfortable-ergonomic-mouse-pad",
+    "url": "/products/port-comfortable-ergonomic-mouse-pad",
+    "qty": 204,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900717_1_a313.png"
    },
    {
     "brand": "Ugreen",
@@ -2075,23 +2075,23 @@
   "ip_small": [
    {
     "brand": "Hikvision",
-    "title": "Hikvision 2MP Fixed Dome IP Camera",
+    "title": "Hikvision 2MP Fixed Bullet IP Camera",
     "spec": "2MP",
-    "price": "R1 189",
-    "handle": "hikvision-2mp-fixed-dome-ip-camera",
-    "url": "/products/hikvision-2mp-fixed-dome-ip-camera",
-    "qty": 42,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD1123G0E_I_2.8MM_1_a66c.png"
+    "price": "R1 207",
+    "handle": "hikvision-2mp-fixed-bullet-ip-camera",
+    "url": "/products/hikvision-2mp-fixed-bullet-ip-camera",
+    "qty": 269,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD1023G0E_I_4MM_1_7247.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP 4mm Build-In Mic Fixed Network IP Camera",
+    "title": "Hikvision 4MP Fixed Dome Network Camera",
     "spec": "4MP",
-    "price": "R1 623",
-    "handle": "hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
-    "url": "/products/hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
-    "qty": 394,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2141G0_LIU_4MM_ee84.jpg"
+    "price": "R2 353",
+    "handle": "hikvision-4mp-fixed-dome-network-camera",
+    "url": "/products/hikvision-4mp-fixed-dome-network-camera",
+    "qty": 748,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
    },
    {
     "brand": "Hikvision",
@@ -2117,13 +2117,13 @@
   "ip_medium": [
    {
     "brand": "Hikvision",
-    "title": "Hikvision 2MP Fixed Dome IP Camera",
+    "title": "Hikvision 2MP Fixed Bullet IP Camera",
     "spec": "2MP",
-    "price": "R1 189",
-    "handle": "hikvision-2mp-fixed-dome-ip-camera",
-    "url": "/products/hikvision-2mp-fixed-dome-ip-camera",
-    "qty": 42,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD1123G0E_I_2.8MM_1_a66c.png"
+    "price": "R1 207",
+    "handle": "hikvision-2mp-fixed-bullet-ip-camera",
+    "url": "/products/hikvision-2mp-fixed-bullet-ip-camera",
+    "qty": 269,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD1023G0E_I_4MM_1_7247.png"
    },
    {
     "brand": "Hikvision",
@@ -2137,13 +2137,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Acusense Fixed Mini Dome IP Camera",
+    "title": "Hikvision 4MP ColorVu Fixed Bullet IP Camera",
     "spec": "4MP",
-    "price": "R3 126",
-    "handle": "hikvision-4mp-acusense-fixed-mini-dome-ip-camera",
-    "url": "/products/hikvision-4mp-acusense-fixed-mini-dome-ip-camera",
-    "qty": 42,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2546G2_IS2.8MM__1__a2ef.png"
+    "price": "R3 138",
+    "handle": "hikvision-4mp-colorvu-fixed-bullet-ip-camera",
+    "url": "/products/hikvision-4mp-colorvu-fixed-bullet-ip-camera",
+    "qty": 8,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T47G2_L_6MM_1977.jpg"
    },
    {
     "brand": "Hikvision",
@@ -2179,13 +2179,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Smart Hybrid ColorVu Fixed Bullet IP Camera",
+    "title": "Hikvision 4MP ColorVu Smart Hybrid Light Fixed Turret Camera",
     "spec": "4MP",
-    "price": "R3 170",
-    "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-bullet-ip-camera",
-    "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-bullet-ip-camera",
-    "qty": 8,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T47G2H_LI_image_4_17d1.png"
+    "price": "R3 200",
+    "handle": "hikvision-4mp-colorvu-smart-hybrid-light-fixed-turret-camera",
+    "url": "/products/hikvision-4mp-colorvu-smart-hybrid-light-fixed-turret-camera",
+    "qty": 3,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2347G2H_LI_2.8MM_1_1a0e.png"
    },
    {
     "brand": "Hikvision",
