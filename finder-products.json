@@ -142,7 +142,7 @@
     "price": "R39 665",
     "handle": "asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
     "url": "/products/asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
-    "qty": 7,
+    "qty": 8,
     "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_S16_UM5606GA_Product_photo_3G_Antrim_Gray_03__1__de3e.jpg"
    },
    {
@@ -510,7 +510,7 @@
     "price": "R49 786",
     "handle": "dell-alienware-15-aurora-15-3-core-7-32gb-1tb-win-11-home-notebook",
     "url": "/products/dell-alienware-15-aurora-15-3-core-7-32gb-1tb-win-11-home-notebook",
-    "qty": 18,
+    "qty": 19,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__97__74c5.png"
    },
    {
@@ -601,23 +601,23 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro 22 Adjustable Stand E2226HS Monitor",
-    "spec": "Monitors And Displays",
-    "price": "R2 384",
-    "handle": "dell-pro-22-adjustable-stand-monitor-e2226hs-1x-hdmi-1x-dp-1x-vga-integrated-speakers",
-    "url": "/products/dell-pro-22-adjustable-stand-monitor-e2226hs-1x-hdmi-1x-dp-1x-vga-integrated-speakers",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPH_default.jpg"
+    "title": "Dell E2225HSM 21.5\" FHD VA Monitor",
+    "spec": "21.5\" screen",
+    "price": "R2 360",
+    "handle": "dell-e2225hsm-21-5-fhd-va-monitor",
+    "url": "/products/dell-e2225hsm-21-5-fhd-va-monitor",
+    "qty": 8,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDT_e6cb.jpg"
    },
    {
-    "brand": "MSI",
-    "title": "MSI MAG 275F E20 27\" FHD 200Hz Rapid IPS Gaming Monitor",
-    "spec": "27\" screen",
-    "price": "R3 249",
-    "handle": "msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
-    "url": "/products/msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
-    "qty": 110,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-275F-E20_MSI-MAG-275F-E20-27inch-FHD-200Hz-Gaming-Montor-wr01.jpeg"
+    "brand": "HP",
+    "title": "HP Series 3 Pro 23.8\" FHD IPS Monitor",
+    "spec": "23.8\" screen",
+    "price": "R3 235",
+    "handle": "hp-series-3-pro-23-8-fhd-ips-monitor",
+    "url": "/products/hp-series-3-pro-23-8-fhd-ips-monitor",
+    "qty": 15,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5J5UT_61c4.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -685,23 +685,23 @@
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi A27Qi 2026 27\" inch 120Hz 2K IPS Office Monitor",
+    "title": "Xiaomi G27i 2026 27″ 200Hz Full HD 1080p IPS Gaming Monitor",
     "spec": "27\" screen",
-    "price": "R3 449",
-    "handle": "xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
-    "url": "/products/xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
-    "qty": 155,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6568EU_Xiaomi-A27Qi-2026-27-inch-2K-120Hz-IPS-Office-Monitor_wr_01a.jpg"
+    "price": "R3 251",
+    "handle": "xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
+    "url": "/products/xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
+    "qty": 113,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6370EU_Xiaomi-G27i-2026-27%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi G34WQi 34\" 1440p UltraWide VA Curved Gaming Monitor (180Hz, 1ms)",
-    "spec": "34\" screen",
-    "price": "R6 898",
-    "handle": "xiaomi-g34wqi-34-1440p-ultrawide-va-curved-gaming-monitor-180hz-1ms",
-    "url": "/products/xiaomi-g34wqi-34-1440p-ultrawide-va-curved-gaming-monitor-180hz-1ms",
-    "qty": 13,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/ELA5454EU_Xiaomi-G34WQi-34-inch-1440p-UltraWide-VA-Curved-Gaming-Monitor_wr_01b.jpg"
+    "title": "Xiaomi Curved Gaming Monitor G34WQi 2026",
+    "spec": "Monitors And Displays",
+    "price": "R6 899",
+    "handle": "xiaomi-curved-gaming-monitor-g34wqi-2026",
+    "url": "/products/xiaomi-curved-gaming-monitor-g34wqi-2026",
+    "qty": 135,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/ELA6562EU_Xiaomi_Curved_Gaming_Monitor_G34WQi_2026_wr_03.png"
    },
    {
     "brand": "Asus",
@@ -1045,14 +1045,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/DVB4458GL_Xiaomi-Mesh-AX3000-NE-Wi-Fi-6-Router-2-Pck_001-1.jpeg"
    },
    {
-    "brand": "Cudy",
-    "title": "Cudy BE3600 Gigabit Mesh Wi-Fi 7 System – 2 Pack",
+    "brand": "Xiaomi",
+    "title": "Xiaomi BE3600 Pro Dual-Band Wi-Fi 7 2.5Gb Mesh Router",
     "spec": "Wi-Fi 7",
-    "price": "R2 710",
-    "handle": "cudy-be3600-gigabit-mesh-wi-fi-7-system-2-pack",
-    "url": "/products/cudy-be3600-gigabit-mesh-wi-fi-7-system-2-pack",
-    "qty": 118,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/12/M3600-2PACK_Cudy-BE3600-Gigabit-Mesh-Wi-Fi-7-System-M3600-2-Pack_wr_01a.jpg"
+    "price": "R2 603",
+    "handle": "xiaomi-be3600-pro-dual-band-wi-fi-7-2-5gb-mesh-router",
+    "url": "/products/xiaomi-be3600-pro-dual-band-wi-fi-7-2-5gb-mesh-router",
+    "qty": 15,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/DVB4475GL_Xiaomi-BE3600-Pro-Dual-Band-Mesh-Router-hr01-2.jpeg"
    },
    {
     "brand": "Cudy",
@@ -1077,14 +1077,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/E/DECO_M4_3_PACK_b101.jpg"
    },
    {
-    "brand": "Cudy",
-    "title": "Cudy BE3600 Gigabit Mesh Wi-Fi 7 System – 2 Pack",
+    "brand": "Xiaomi",
+    "title": "Xiaomi BE3600 Pro Dual-Band Wi-Fi 7 2.5Gb Mesh Router",
     "spec": "Wi-Fi 7",
-    "price": "R2 710",
-    "handle": "cudy-be3600-gigabit-mesh-wi-fi-7-system-2-pack",
-    "url": "/products/cudy-be3600-gigabit-mesh-wi-fi-7-system-2-pack",
-    "qty": 118,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/12/M3600-2PACK_Cudy-BE3600-Gigabit-Mesh-Wi-Fi-7-System-M3600-2-Pack_wr_01a.jpg"
+    "price": "R2 603",
+    "handle": "xiaomi-be3600-pro-dual-band-wi-fi-7-2-5gb-mesh-router",
+    "url": "/products/xiaomi-be3600-pro-dual-band-wi-fi-7-2-5gb-mesh-router",
+    "qty": 15,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/DVB4475GL_Xiaomi-BE3600-Pro-Dual-Band-Mesh-Router-hr01-2.jpeg"
    },
    {
     "brand": "Cudy",
@@ -1097,14 +1097,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/12/M3600-3PACK_Cudy-BE3600-Gigabit-Mesh-Wi-Fi-7-System-M3600-3-Pack_wr_01a.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus ZenWiFi BT8 Tri-Band Wi-Fi 7 Mesh System - 2 Pack",
+    "brand": "Cudy",
+    "title": "Cudy BE6500 2.5G Mesh Wi-Fi 7 System – 2 Pack",
     "spec": "Wi-Fi 7",
-    "price": "R8 094",
-    "handle": "asus-zenwifi-bt8-tri-band-wi-fi-7-mesh-system-2-pack",
-    "url": "/products/asus-zenwifi-bt8-tri-band-wi-fi-7-mesh-system-2-pack",
-    "qty": 3,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/T/BT8_2PK_79b7.jpg"
+    "price": "R5 167",
+    "handle": "cudy-be6500-2-5g-mesh-wi-fi-7-system-2-pack",
+    "url": "/products/cudy-be6500-2-5g-mesh-wi-fi-7-system-2-pack",
+    "qty": 9,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/M6500-2PACK_Cudy-BE6500-Wi-Fi-7-Mesh-Route-2pack-White_02.jpg"
    }
   ]
  },
@@ -1439,16 +1439,6 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS105_wr_01.jpg"
    },
    {
-    "brand": "Logitech",
-    "title": "Logitech H540 USB Computer Headset with HD Sound and On-Ear… (981-000480)",
-    "spec": "Headsets",
-    "price": "R666",
-    "handle": "logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
-    "url": "/products/logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
-    "qty": 34,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/981-000480_default.jpg"
-   },
-   {
     "brand": "Winx",
     "title": "WINX CALL Elite AI Noise Cancelling Wireless Headset",
     "spec": "Headsets",
@@ -1514,24 +1504,24 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008D_a815.png"
    },
    {
-    "brand": "Cudy",
-    "title": "Cudy 4 Port Gigabit PoE 1x PoE Input 60W Switch",
-    "spec": "4 ports",
-    "price": "R543",
-    "handle": "cudy-4-port-gigabit-poe-1x-poe-input-60w-switch",
-    "url": "/products/cudy-4-port-gigabit-poe-1x-poe-input-60w-switch",
-    "qty": 23,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/POE40_Cudy_4_Port_Gigabit_PoE_1x_PoE_Input_60W_wr_02.png"
+    "brand": "TP-Link",
+    "title": "TP-Link 8 Port Gigabit Unmanaged Rackmount POE Switch",
+    "spec": "8 ports",
+    "price": "R1 838",
+    "handle": "tp-link-8-port-gigabit-unmanaged-rackmount-poe-switch",
+    "url": "/products/tp-link-8-port-gigabit-unmanaged-rackmount-poe-switch",
+    "qty": 3,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008MP_68a7.jpg"
    },
    {
     "brand": "Huawei",
-    "title": "Huawei S310-48P4S Ekit 48 Port POE Switch",
+    "title": "Huawei S310-48P4X Ekit 48 Port POE Switch",
     "spec": "48 ports",
-    "price": "R6 043",
-    "handle": "huawei-s310-48p4s-ekit-48-port-poe-switch",
-    "url": "/products/huawei-s310-48p4s-ekit-48-port-poe-switch",
-    "qty": 106,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_12a1.png"
+    "price": "R6 169",
+    "handle": "huawei-s310-48p4x-ekit-48-port-poe-switch",
+    "url": "/products/huawei-s310-48p4x-ekit-48-port-poe-switch",
+    "qty": 6,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_fcaa.png"
    },
    {
     "brand": "Tenda",
@@ -1687,13 +1677,13 @@
    },
    {
     "brand": "Kingston",
-    "title": "Kingston 8GB DDR4 3200MHz Single Rank Module",
+    "title": "Kingston 8GB DDR4 3200MHz SODIMM",
     "spec": "Memory",
-    "price": "R2 973",
-    "handle": "kingston-8gb-ddr4-3200mhz-single-rank-module",
-    "url": "/products/kingston-8gb-ddr4-3200mhz-single-rank-module",
-    "qty": 7,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/KCP432NS6/8_default.jpg"
+    "price": "R2 525",
+    "handle": "kingston-8gb-ddr4-3200mhz-sodimm",
+    "url": "/products/kingston-8gb-ddr4-3200mhz-sodimm",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/KCP432SS8/8_default.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -1907,13 +1897,13 @@
    },
    {
     "brand": "Redmi",
-    "title": "Redmi Buds 8 Lite - Black",
+    "title": "Redmi Buds 8 Lite - White",
     "spec": "Tv And Audio",
     "price": "R516",
-    "handle": "redmi-buds-8-lite-black",
-    "url": "/products/redmi-buds-8-lite-black",
-    "qty": 99,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/BHR08OMGL_Xiaomi-Redmi-Buds-8-Lite-Black_wr_01b.jpg"
+    "handle": "redmi-buds-8-lite-white",
+    "url": "/products/redmi-buds-8-lite-white",
+    "qty": 143,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/BHR08OLGL_Xiaomi-Redmi-Buds-8-Lite-White_wr_01b.jpg"
    },
    {
     "brand": "HP",
@@ -1978,14 +1968,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900717_1_a313.png"
    },
    {
-    "brand": "TP-Link",
-    "title": "TP-Link Archer T4U AC1300 High Gain Dual Band Wi-Fi USB Adapter Router",
-    "spec": "Cables And Adapters",
-    "price": "R423",
-    "handle": "tp-link-archer-t4u-ac1300-high-gain-dual-band-wi-fi-usb-adapter-router",
-    "url": "/products/tp-link-archer-t4u-ac1300-high-gain-dual-band-wi-fi-usb-adapter-router",
-    "qty": 18,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/R/ARCHER_T4U_PLUS_1_abee.png"
+    "brand": "Ugreen",
+    "title": "UGREEN 130W USB-C 3-port Car Charger",
+    "spec": "3 ports",
+    "price": "R419",
+    "handle": "ugreen-130w-usb-c-3-port-car-charger",
+    "url": "/products/ugreen-130w-usb-c-3-port-car-charger",
+    "qty": 54,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/EC705-55511_UGREEN_130W_USB-C_3-port_Car_Charger_wr_01.png"
    },
    {
     "brand": "HP",
@@ -2031,23 +2021,23 @@
    },
    {
     "brand": "Port",
-    "title": "Port Pure MAC Wireless Shadow Mouse",
+    "title": "Port Pure MAC Wireless Pearl Mouse",
     "spec": "Wired Mouse",
     "price": "R371",
-    "handle": "port-pure-mac-wireless-shadow-mouse",
-    "url": "/products/port-pure-mac-wireless-shadow-mouse",
-    "qty": 4,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__10__3c08.png"
+    "handle": "port-pure-mac-wireless-pearl-mouse",
+    "url": "/products/port-pure-mac-wireless-pearl-mouse",
+    "qty": 35,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__14__f97d.png"
    },
    {
-    "brand": "Winx",
-    "title": "WINX ELITE Wireless and BT Keyboard",
-    "spec": "Keyboards",
-    "price": "R734",
-    "handle": "winx-elite-wireless-and-bt-keyboard",
-    "url": "/products/winx-elite-wireless-and-bt-keyboard",
-    "qty": 211,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2023/11/WX-KB104_wr_01.jpg"
+    "brand": "Port",
+    "title": "Port Executive Wireless Black Mouse",
+    "spec": "Wired Mouse",
+    "price": "R729",
+    "handle": "port-executive-wireless-black-mouse",
+    "url": "/products/port-executive-wireless-black-mouse",
+    "qty": 99,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_044c.png"
    },
    {
     "brand": "Keychron",
