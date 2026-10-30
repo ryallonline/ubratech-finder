@@ -600,16 +600,6 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
-    "brand": "Dell",
-    "title": "Dell E2225HSM 21.5\" FHD VA Monitor",
-    "spec": "21.5\" screen",
-    "price": "R2 360",
-    "handle": "dell-e2225hsm-21-5-fhd-va-monitor",
-    "url": "/products/dell-e2225hsm-21-5-fhd-va-monitor",
-    "qty": 8,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRDT_e6cb.jpg"
-   },
-   {
     "brand": "HP",
     "title": "HP Series 3 Pro 23.8\" FHD IPS Monitor",
     "spec": "23.8\" screen",
@@ -674,24 +664,24 @@
   ],
   "gaming": [
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi A24i 2026 24″ 144Hz Full HD 1080P IPS Office Monitor",
-    "spec": "24\" screen",
-    "price": "R2 071",
-    "handle": "xiaomi-a24i-2026-24-144hz-full-hd-1080p-ips-office-monitor",
-    "url": "/products/xiaomi-a24i-2026-24-144hz-full-hd-1080p-ips-office-monitor",
-    "qty": 210,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6416EU_Xiaomi-A24i-2026-24-inch-144Hz-Full-HD-1080P-IPS-Office-Monitor_wr_01a.jpg"
+    "brand": "Dell",
+    "title": "Dell SE2426H 24\" FHD Gaming Monitor",
+    "spec": "High refresh · smooth motion",
+    "price": "R2 005",
+    "handle": "dell-se2426h-24-fhd-gaming-monitor",
+    "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
+    "qty": 345,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi G27i 2026 27″ 200Hz Full HD 1080p IPS Gaming Monitor",
+    "brand": "MSI",
+    "title": "MSI MAG 275F E20 27\" FHD 200Hz Rapid IPS Gaming Monitor",
     "spec": "27\" screen",
-    "price": "R3 251",
-    "handle": "xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
-    "url": "/products/xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
-    "qty": 113,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6370EU_Xiaomi-G27i-2026-27%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
+    "price": "R3 249",
+    "handle": "msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
+    "url": "/products/msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
+    "qty": 110,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-275F-E20_MSI-MAG-275F-E20-27inch-FHD-200Hz-Gaming-Montor-wr01.jpeg"
    },
    {
     "brand": "Xiaomi",
@@ -737,13 +727,13 @@
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi G24i 2026 24″ 200Hz Full HD 1080p IPS Gaming Monitor",
-    "spec": "24\" screen",
-    "price": "R2 660",
-    "handle": "xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
-    "url": "/products/xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
-    "qty": 203,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6364EU_Xiaomi-G24i-2026-24%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
+    "title": "Xiaomi A27i 2026 27″ 144Hz Full HD 1080P IPS Office Monitor",
+    "spec": "27\" screen",
+    "price": "R2 563",
+    "handle": "xiaomi-a27i-2026-27-144hz-full-hd-1080p-ips-office-monitor",
+    "url": "/products/xiaomi-a27i-2026-27-144hz-full-hd-1080p-ips-office-monitor",
+    "qty": 202,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6410EU_Xiaomi-A27i-2026-27-inch-144Hz-Full-HD-1080P-IPS-Office-Monitor_wr_01a.jpg"
    },
    {
     "brand": "HP",
@@ -2075,13 +2065,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Smart Hybrid ColorVu Fixed Mini Bullet IP Camera (DS-2CD2047G2H-LIU-SL-2.8MM)",
+    "title": "Hikvision 4MP Acusense Fixed Mini Dome IP Camera",
     "spec": "4MP",
-    "price": "R3 136",
-    "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-mini-bullet-ip-camera-ds-2cd2047g2h-liu-sl-2-8mm",
-    "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-mini-bullet-ip-camera-ds-2cd2047g2h-liu-sl-2-8mm",
-    "qty": 4,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LIU_SL_2.8MM_1_abe9.png"
+    "price": "R3 126",
+    "handle": "hikvision-4mp-acusense-fixed-mini-dome-ip-camera",
+    "url": "/products/hikvision-4mp-acusense-fixed-mini-dome-ip-camera",
+    "qty": 42,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2546G2_IS2.8MM__1__a2ef.png"
    },
    {
     "brand": "Hikvision",
@@ -2107,13 +2097,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP 4mm Build-In Mic Fixed Network IP Camera",
+    "title": "Hikvision 4MP 2.8mm Fixed Bullet Network Camera",
     "spec": "4MP",
-    "price": "R1 623",
-    "handle": "hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
-    "url": "/products/hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
-    "qty": 394,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2141G0_LIU_4MM_ee84.jpg"
+    "price": "R1 560",
+    "handle": "hikvision-4mp-2-8mm-fixed-bullet-network-camera",
+    "url": "/products/hikvision-4mp-2-8mm-fixed-bullet-network-camera",
+    "qty": 364,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2041G0_LIU_2.8MM_e3b5.png"
    },
    {
     "brand": "Hikvision",
@@ -2149,23 +2139,23 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Acusense Bullet IP Camera (DS-2CD2T46G2-4I-6MM)",
+    "title": "Hikvision 4MP Fixed Dome Network Camera",
     "spec": "4MP",
-    "price": "R2 920",
-    "handle": "hikvision-4mp-acusense-bullet-ip-camera-ds-2cd2t46g2-4i-6mm",
-    "url": "/products/hikvision-4mp-acusense-bullet-ip-camera-ds-2cd2t46g2-4i-6mm",
-    "qty": 9,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2_4I_6MM_ff4a.jpg"
+    "price": "R2 353",
+    "handle": "hikvision-4mp-fixed-dome-network-camera",
+    "url": "/products/hikvision-4mp-fixed-dome-network-camera",
+    "qty": 748,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Smart Hybrid ColorVu Fixed Bullet IP Camera",
+    "title": "Hikvision 4MP ColorVu Smart Hybrid Light Fixed Turret Camera",
     "spec": "4MP",
-    "price": "R3 170",
-    "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-bullet-ip-camera",
-    "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-bullet-ip-camera",
-    "qty": 58,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T47G2H_LI_image_4_17d1.png"
+    "price": "R3 200",
+    "handle": "hikvision-4mp-colorvu-smart-hybrid-light-fixed-turret-camera",
+    "url": "/products/hikvision-4mp-colorvu-smart-hybrid-light-fixed-turret-camera",
+    "qty": 3,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2347G2H_LI_2.8MM_1_1a0e.png"
    },
    {
     "brand": "Hikvision",
