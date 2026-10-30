@@ -60,7 +60,7 @@
     "price": "R13 978",
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
-    "qty": 18,
+    "qty": 17,
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
@@ -80,7 +80,7 @@
     "price": "R13 978",
     "handle": "lenovo-v15-iru-i3-1315u-8gb-base-ddr5-256gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-15-6-fhd-tn-hd-camera-wi-fi-ax-2x2-bt-no-fpr-3-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
     "url": "/products/lenovo-v15-iru-i3-1315u-8gb-base-ddr5-256gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-15-6-fhd-tn-hd-camera-wi-fi-ax-2x2-bt-no-fpr-3-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
-    "qty": 18,
+    "qty": 17,
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
@@ -174,7 +174,7 @@
     "price": "R43 317",
     "handle": "hp-zbook-8-g1i-laptop-core-ultra-7-512gb-ssd-cg0k8et",
     "url": "https://ubratech.co.za/products/hp-zbook-8-g1i-laptop-core-ultra-7-512gb-ssd-cg0k8et",
-    "qty": 7,
+    "qty": 5,
     "image": "https://s3.amazonaws.com/tarsus.co.za/CG0K8ET_default.jpg"
    },
    {
@@ -184,7 +184,7 @@
     "price": "R18 694",
     "handle": "hp-probook-4-g1ah-14-fhd-radeon-740m-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
     "url": "/products/hp-probook-4-g1ah-14-fhd-radeon-740m-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
-    "qty": 59,
+    "qty": 58,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KTAT_4090.jpg"
    },
    {
@@ -347,6 +347,16 @@
    },
    {
     "brand": "Dell",
+    "title": "Dell Pro Micro QCM1250 Desktop — Core Ultra 5 · 16GB",
+    "spec": "Premium desktop",
+    "price": "R30 039",
+    "handle": "dell-pro-micro-qcm1250-desktop-pc-core-ultra-5-16gb-bto106_qcm1250_emea",
+    "url": "https://ubratech.co.za/products/dell-pro-micro-qcm1250-desktop-pc-core-ultra-5-16gb-bto106_qcm1250_emea",
+    "qty": 19,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO106_QCM1250_EMEA_default.jpg"
+   },
+   {
+    "brand": "Dell",
     "title": "Dell Pro Tower QCT1250 Desktop PC — Core Ultra 5 · 512GB SSD (BTO104_QCT1250_EMEA)",
     "spec": "Core Ultra 5 · 512GB SSD",
     "price": "R24 023",
@@ -366,14 +376,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO011_QCS1250_EMEA_default.png"
    },
    {
-    "brand": "PCBuilder",
-    "title": "PCBuilder Ryzen 5 7600 SEEKER Windows 11 Gaming PC (PCB_SEEKER_02)",
-    "spec": "Ryzen 5",
-    "price": "R39 420",
-    "handle": "pcbuilder-ryzen-5-7600-seeker-windows-11-gaming-pc-pcb-seeker-02",
-    "url": "/products/pcbuilder-ryzen-5-7600-seeker-windows-11-gaming-pc-pcb-seeker-02",
-    "qty": 8,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_SEEKER_02_PCBuilder-Ryzen-5-7600-SEEKER-Windows-11-Gaming-PC_wr_01a.jpg"
+    "brand": "Dell",
+    "title": "Dell 27 AIO EC27250 25 06 2025:Intel Desktop PC — 1TB SSD (EC27250_RPLU-R_008S)",
+    "spec": "1TB SSD",
+    "price": "R39 160",
+    "handle": "dell-27-aio-ec27250-25-06-2025-intel-core-7-150u-12mb-cache-up-to-5-4-ghz-27-fhd-touch-1920x1080-16g-5200mt-s-ddr5-1tb-ssd-pcie-nvme-m-2-intel-grapphics-camera-mic-5mp-ir-tilt-cam-intel-dual-band",
+    "url": "/products/dell-27-aio-ec27250-25-06-2025-intel-core-7-150u-12mb-cache-up-to-5-4-ghz-27-fhd-touch-1920x1080-16g-5200mt-s-ddr5-1tb-ssd-pcie-nvme-m-2-intel-grapphics-camera-mic-5mp-ir-tilt-cam-intel-dual-band",
+    "qty": 12,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/EC27250_RPLU-R_008S_default.jpg"
    },
    {
     "brand": "Dell",
@@ -586,7 +596,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 516,
+    "qty": 484,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -670,7 +680,7 @@
     "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 345,
+    "qty": 344,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -712,7 +722,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 516,
+    "qty": 484,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -1137,7 +1147,7 @@
     "price": "R6 505",
     "handle": "hp-smart-tank-750-print-scan-copy-up-to-15-9-ppm-automatic-duplex-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-2-contextual-display-with-id-copy-low-on-ink-sensor-30-000",
     "url": "/products/hp-smart-tank-750-print-scan-copy-up-to-15-9-ppm-automatic-duplex-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-2-contextual-display-with-id-copy-low-on-ink-sensor-30-000",
-    "qty": 12,
+    "qty": 11,
     "image": "https://s3.amazonaws.com/tarsus.co.za/6UU47A_default.jpg"
    },
    {
@@ -1147,7 +1157,7 @@
     "price": "R8 801",
     "handle": "hp-color-laserjet-pro-4303dw-mfp-print-copy-scan-4-preinstalled-introductory-hp-laserjet-toner-cartridges-black-2000-pages-introductoy-cyan-magenta-yellow-1-000-pages-black-a4-normal-up-to-33-ppm",
     "url": "/products/hp-color-laserjet-pro-4303dw-mfp-print-copy-scan-4-preinstalled-introductory-hp-laserjet-toner-cartridges-black-2000-pages-introductoy-cyan-magenta-yellow-1-000-pages-black-a4-normal-up-to-33-ppm",
-    "qty": 92,
+    "qty": 90,
     "image": "https://s3.amazonaws.com/tarsus.co.za/5HH65A_default.png"
    }
   ],
@@ -1189,7 +1199,7 @@
     "price": "R6 505",
     "handle": "hp-smart-tank-750-print-scan-copy-up-to-15-9-ppm-automatic-duplex-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-2-contextual-display-with-id-copy-low-on-ink-sensor-30-000",
     "url": "/products/hp-smart-tank-750-print-scan-copy-up-to-15-9-ppm-automatic-duplex-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-2-contextual-display-with-id-copy-low-on-ink-sensor-30-000",
-    "qty": 12,
+    "qty": 11,
     "image": "https://s3.amazonaws.com/tarsus.co.za/6UU47A_default.jpg"
    },
    {
@@ -1435,7 +1445,7 @@
     "price": "R1 320",
     "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
     "url": "/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
-    "qty": 51,
+    "qty": 58,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg"
    },
    {
@@ -1667,13 +1677,13 @@
    },
    {
     "brand": "Kingston",
-    "title": "Kingston 8GB DDR4 3200MHz SODIMM",
+    "title": "Kingston 8GB DDR4 3200MHz Memory Module",
     "spec": "Memory",
     "price": "R2 525",
-    "handle": "kingston-8gb-ddr4-3200mhz-sodimm",
-    "url": "/products/kingston-8gb-ddr4-3200mhz-sodimm",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/KCP432SS8/8_default.jpg"
+    "handle": "kingston-8gb-ddr4-3200mhz-memory-module",
+    "url": "/products/kingston-8gb-ddr4-3200mhz-memory-module",
+    "qty": 43,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/KCP432NS8/8_default.png"
    },
    {
     "brand": "Hiksemi",
@@ -1873,7 +1883,7 @@
     "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
     "url": "https://ubratech.co.za/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg",
-    "qty": 51
+    "qty": 58
    },
    {
     "brand": "Xiaomi",
@@ -1902,7 +1912,7 @@
     "price": "R1 081",
     "handle": "hp-hyperx-cloud-stinger-3-wired-gaming-headset-black",
     "url": "/products/hp-hyperx-cloud-stinger-3-wired-gaming-headset-black",
-    "qty": 26,
+    "qty": 22,
     "image": "https://www.pinnacle.co.za/media/catalog/product/B/S/BS1T5AA_5dbd.jpg"
    },
    {
@@ -2055,23 +2065,23 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP 4mm Build-In Mic Fixed Network IP Camera",
+    "title": "Hikvision 4MP Fixed Dome Network Camera",
     "spec": "4MP",
-    "price": "R1 623",
-    "handle": "hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
-    "url": "/products/hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
-    "qty": 394,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2141G0_LIU_4MM_ee84.jpg"
+    "price": "R2 353",
+    "handle": "hikvision-4mp-fixed-dome-network-camera",
+    "url": "/products/hikvision-4mp-fixed-dome-network-camera",
+    "qty": 748,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Acusense Fixed Mini Dome IP Camera",
+    "title": "Hikvision 4MP Smart Hybrid ColorVu Fixed Mini Bullet IP Camera (DS-2CD2047G2H-LIU-SL-2.8MM)",
     "spec": "4MP",
-    "price": "R3 126",
-    "handle": "hikvision-4mp-acusense-fixed-mini-dome-ip-camera",
-    "url": "/products/hikvision-4mp-acusense-fixed-mini-dome-ip-camera",
-    "qty": 42,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2546G2_IS2.8MM__1__a2ef.png"
+    "price": "R3 136",
+    "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-mini-bullet-ip-camera-ds-2cd2047g2h-liu-sl-2-8mm",
+    "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-mini-bullet-ip-camera-ds-2cd2047g2h-liu-sl-2-8mm",
+    "qty": 4,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LIU_SL_2.8MM_1_abe9.png"
    },
    {
     "brand": "Hikvision",
@@ -2097,13 +2107,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP 2.8mm Fixed Bullet Network Camera",
+    "title": "Hikvision 4MP 4mm Build-In Mic Fixed Network IP Camera",
     "spec": "4MP",
-    "price": "R1 560",
-    "handle": "hikvision-4mp-2-8mm-fixed-bullet-network-camera",
-    "url": "/products/hikvision-4mp-2-8mm-fixed-bullet-network-camera",
-    "qty": 364,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2041G0_LIU_2.8MM_e3b5.png"
+    "price": "R1 623",
+    "handle": "hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
+    "url": "/products/hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
+    "qty": 394,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2141G0_LIU_4MM_ee84.jpg"
    },
    {
     "brand": "Hikvision",
@@ -2139,13 +2149,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Fixed Dome Network Camera",
+    "title": "Hikvision 4MP Acusense Bullet IP Camera (DS-2CD2T46G2-4I-6MM)",
     "spec": "4MP",
-    "price": "R2 353",
-    "handle": "hikvision-4mp-fixed-dome-network-camera",
-    "url": "/products/hikvision-4mp-fixed-dome-network-camera",
-    "qty": 748,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
+    "price": "R2 920",
+    "handle": "hikvision-4mp-acusense-bullet-ip-camera-ds-2cd2t46g2-4i-6mm",
+    "url": "/products/hikvision-4mp-acusense-bullet-ip-camera-ds-2cd2t46g2-4i-6mm",
+    "qty": 9,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2_4I_6MM_ff4a.jpg"
    },
    {
     "brand": "Hikvision",
@@ -2308,14 +2318,14 @@
    "enquiry": true
   },
   {
-   "brand": "Teltonika",
-   "title": "Teltonika Wi-Fi 4 PoE Industrial Wireless Access Point",
-   "spec": "Wi-Fi Mesh, Fast Roaming, 2x RJ45 ports (10/100), Integrated Din Rail ",
-   "price": "R1 446",
-   "handle": "teltonika-wi-fi-4-poe-industrial-wireless-access-point-dap142",
-   "url": "/pages/teltonika-wi-fi-4-poe-industrial-wireless-access-point-dap142",
+   "brand": "Grandstream",
+   "title": "Grandstream Enterprise WiFi 5 Wave 2 Indoor Access Point",
+   "spec": "2Gbps, 5GHz 4x4 MU-MIMO, 2.4GHz 2x2 MIMO, 200+ connections, Integrated",
+   "price": "R1 440",
+   "handle": "grandstream-enterprise-wifi-5-wave-2-indoor-access-point-gwn7625",
+   "url": "/pages/grandstream-enterprise-wifi-5-wave-2-indoor-access-point-gwn7625",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/6/3/9/8/16398.jpg",
+   "image": "https://miro.co.za/img/p/9/0/1/9/9019.jpg",
    "enquiry": true
   },
   {
@@ -2330,25 +2340,25 @@
    "enquiry": true
   },
   {
-   "brand": "Grandstream",
-   "title": "Grandstream Enterprise Outdoor WiFi 7 Long Range Access Point",
-   "spec": "Outdoor Long-Range Dual-Band Wi-Fi 7 Access Point/Bridge, 2x2:2 2.4/5G",
-   "price": "R3 075",
-   "handle": "grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
-   "url": "/pages/grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
+   "brand": "HPE Networking Instant On",
+   "title": "HPE Networking Instant On WiFi 5 Wave 2 Indoor Access Point",
+   "spec": "Dual band, 802.11ac Wave2, 2033Mbps, PoE excl, GbE uplink port, 4x4:4 ",
+   "price": "R2 971",
+   "handle": "hpe-networking-instant-on-wifi-5-wave-2-indoor-access-point-ap15",
+   "url": "/pages/hpe-networking-instant-on-wifi-5-wave-2-indoor-access-point-ap15",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/8/7/0/7/18707.jpg",
+   "image": "https://miro.co.za/img/p/1/0/7/2/6/10726.jpg",
    "enquiry": true
   },
   {
    "brand": "Ubiquiti",
-   "title": "Ubiquiti UniFi6 Mesh Pro Indoor/Outdoor Dual Band WiFi6 Access Point",
-   "spec": "No PoE Injector included, Indoor AP - 350+ concurrent client capacity,",
-   "price": "R4 694",
-   "handle": "ubiquiti-unifi6-mesh-pro-indoor-outdoor-dual-band-wifi6-access-point-u6-mesh-pro",
-   "url": "/pages/ubiquiti-unifi6-mesh-pro-indoor-outdoor-dual-band-wifi6-access-point-u6-mesh-pro",
+   "title": "Ubiquiti UniFi WiFi 7 Outdoor Access Point",
+   "spec": "No PoE Injector included, 4 Spatial Streams, 250+ connected devices, 2",
+   "price": "R4 735",
+   "handle": "ubiquiti-unifi-wifi-7-outdoor-access-point-u7-outdoor",
+   "url": "/pages/ubiquiti-unifi-wifi-7-outdoor-access-point-u7-outdoor",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/4/0/8/5/14085.jpg",
+   "image": "https://miro.co.za/img/p/1/7/1/4/0/17140.jpg",
    "enquiry": true
   },
   {
