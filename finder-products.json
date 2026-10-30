@@ -94,24 +94,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 15 15.6\" Core-C3 8GB 512GB Win 11 Pro Notebook",
-    "spec": "15.6\" screen · 8GB RAM",
-    "price": "R20 243",
-    "handle": "dell-pro-15-15-6-core-c3-8gb-512gb-win-11-pro-notebook",
-    "url": "/products/dell-pro-15-15-6-core-c3-8gb-512gb-win-11-pro-notebook",
-    "qty": 299,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__93__df5f.png"
+    "brand": "HP",
+    "title": "HP ProBook 4 NB G1iR 5 120U Laptop — 512GB SSD (C38KXAT)",
+    "spec": "512GB SSD",
+    "price": "R20 021",
+    "handle": "hp-probook-4-nb-g1ir-5-120u-14-0-wuxga-uwva-300-fhdc-60hz-bnt-panel-8gb-1d-ddr5-5600-cr-sodimm-memory-512gb-pcie-nvme-value-windows-11-pro-64-1-year-warranty-dual-arymic-f-usb2-nfovcamera-clickpad",
+    "url": "/products/hp-probook-4-nb-g1ir-5-120u-14-0-wuxga-uwva-300-fhdc-60hz-bnt-panel-8gb-1d-ddr5-5600-cr-sodimm-memory-512gb-pcie-nvme-value-windows-11-pro-64-1-year-warranty-dual-arymic-f-usb2-nfovcamera-clickpad",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/C38KXAT_default.png"
    },
    {
-    "brand": "HP",
-    "title": "HP ProBook 4 G1iR 14' Core-5 16GB 512GB Win 11 Pro Notebook",
-    "spec": "Core 5 · 16GB RAM",
-    "price": "R21 620",
-    "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "qty": 337,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
+    "brand": "Asus",
+    "title": "Asus VivoBook S14 Snapdragon X1 16GB 512GB Win 11 Home Notebook",
+    "spec": "Snapdragon X1 · 16GB RAM",
+    "price": "R21 406",
+    "handle": "asus-vivobook-s14-snapdragon-x1-16gb-512gb-win-11-home-notebook",
+    "url": "/products/asus-vivobook-s14-snapdragon-x1-16gb-512gb-win-11-home-notebook",
+    "qty": 17,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__56__bd0f.png"
    }
   ],
   "high": [
@@ -132,18 +132,18 @@
     "price": "R31 858",
     "handle": "dell-pro-16-ai-16-core-u5-16gb-512gb-win-11-pro-notebook",
     "url": "/products/dell-pro-16-ai-16-core-u5-16gb-512gb-win-11-pro-notebook",
-    "qty": 95,
+    "qty": 94,
     "image": "https://www.pinnacle.co.za/media/catalog/product/B/T/BTO105_PB16250_dc38.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 14 Plus 14\" Core-U7 16GB 512GB Win 11 Pro Notebook (BTO216_PB14250)",
-    "spec": "14\" screen · 16GB RAM",
-    "price": "R39 939",
-    "handle": "dell-pro-14-plus-14-core-u7-16gb-512gb-win-11-pro-notebook-bto216-pb14250",
-    "url": "/products/dell-pro-14-plus-14-core-u7-16gb-512gb-win-11-pro-notebook-bto216-pb14250",
-    "qty": 5,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__78__cec9.png"
+    "brand": "Asus",
+    "title": "Asus Zenbook S16 UM5606GA 16\" 3K OLED 120Hz Ryzen AI 9-465 16GB 1TB Win 11 Pro Notebook",
+    "spec": "Ryzen AI 9 · 16\" screen · 16GB RAM",
+    "price": "R39 665",
+    "handle": "asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
+    "url": "/products/asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
+    "qty": 8,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_S16_UM5606GA_Product_photo_3G_Antrim_Gray_03__1__de3e.jpg"
    },
    {
     "brand": "HP",
@@ -174,7 +174,7 @@
     "price": "R43 317",
     "handle": "hp-zbook-8-g1i-laptop-core-ultra-7-512gb-ssd-cg0k8et",
     "url": "https://ubratech.co.za/products/hp-zbook-8-g1i-laptop-core-ultra-7-512gb-ssd-cg0k8et",
-    "qty": 5,
+    "qty": 4,
     "image": "https://s3.amazonaws.com/tarsus.co.za/CG0K8ET_default.jpg"
    },
    {
@@ -238,7 +238,7 @@
     "price": "R4 922",
     "handle": "pcbuilder-cube-n100-4gb-ddr4-128gb-windows-11-home-mini-pc",
     "url": "/products/pcbuilder-cube-n100-4gb-ddr4-128gb-windows-11-home-mini-pc",
-    "qty": 10,
+    "qty": 7,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/PCB_CUBE_N100_4G_HOME_PCBuilder-CUBE-N100-4GB-DDR4-128GB-Windows-11-Home-Mini-PC_wr_01a.jpg"
    },
    {
@@ -330,7 +330,7 @@
     "price": "R21 461",
     "handle": "dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
     "url": "/products/dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
-    "qty": 75,
+    "qty": 71,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO004_QVS1260_EMEA_default.jpg"
    }
   ],
@@ -490,7 +490,7 @@
     "price": "R53 643",
     "handle": "asus-rog-strix-16-ryzen-9-16gb-1tb-win-11-home-notebook",
     "url": "https://ubratech.co.za/products/asus-rog-strix-16-ryzen-9-16gb-1tb-win-11-home-notebook",
-    "qty": 12,
+    "qty": 6,
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/r/Artboard_1_15_100_7231.jpg"
    },
    {
@@ -611,13 +611,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP Series 3 Pro 322pv 21.45\" FHD 100Hz 5ms LED VA Monitor",
-    "spec": "45\" screen",
-    "price": "R3 160",
-    "handle": "hp-series-3-pro-322pv-21-45-fhd-100hz-5ms-led-va-monitor",
-    "url": "/products/hp-series-3-pro-322pv-21-45-fhd-100hz-5ms-led-va-monitor",
-    "qty": 60,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/H/P/HP_9U5A2AA_9a08.jpg"
+    "title": "HP Series 3 Pro 23.8\" FHD IPS Monitor",
+    "spec": "23.8\" screen",
+    "price": "R3 235",
+    "handle": "hp-series-3-pro-23-8-fhd-ips-monitor",
+    "url": "/products/hp-series-3-pro-23-8-fhd-ips-monitor",
+    "qty": 15,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5J5UT_61c4.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -668,7 +668,7 @@
     "price": "R35 511",
     "handle": "asus-proart-ips-32-6k-60hz-monitor-with-usb-type-c-96w-pd",
     "url": "/products/asus-proart-ips-32-6k-60hz-monitor-with-usb-type-c-96w-pd",
-    "qty": 11,
+    "qty": 9,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PA32QCV_Asus_ProArt_IPS_32_6K_60Hz_Monitor_with__wr_02.jpg"
    }
   ],
@@ -680,7 +680,7 @@
     "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 344,
+    "qty": 341,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -746,14 +746,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6410EU_Xiaomi-A27i-2026-27-inch-144Hz-Full-HD-1080P-IPS-Office-Monitor_wr_01a.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro P24 23.8\" FHD IPS Monitor",
-    "spec": "23.8\" screen",
-    "price": "R3 399",
-    "handle": "dell-pro-p24-23-8-fhd-ips-monitor",
-    "url": "/products/dell-pro-p24-23-8-fhd-ips-monitor",
-    "qty": 35,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVKM_290f.jpg"
+    "brand": "Xiaomi",
+    "title": "Xiaomi A27Qi 2026 27\" inch 120Hz 2K IPS Office Monitor",
+    "spec": "27\" screen",
+    "price": "R3 449",
+    "handle": "xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
+    "url": "/products/xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
+    "qty": 155,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6568EU_Xiaomi-A27Qi-2026-27-inch-2K-120Hz-IPS-Office-Monitor_wr_01a.jpg"
    },
    {
     "brand": "Asus",
@@ -776,7 +776,7 @@
     "price": "R442",
     "handle": "lalela-r1818-wi-fi-ups-for-router-and-ont-48-8wh-6-8-hour-runtime",
     "url": "/products/lalela-r1818-wi-fi-ups-for-router-and-ont-48-8wh-6-8-hour-runtime",
-    "qty": 19,
+    "qty": 18,
     "image": "https://s3.amazonaws.com/tarsus.co.za/LAL-R1818_default.jpg"
    },
    {
@@ -1031,7 +1031,7 @@
     "price": "R1 522",
     "handle": "xiaomi-ac1200-whole-home-mesh-wi-fi-system-2-pack",
     "url": "/products/xiaomi-ac1200-whole-home-mesh-wi-fi-system-2-pack",
-    "qty": 36,
+    "qty": 35,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/DVB4451GL_wr_01.jpg"
    },
    {
@@ -1157,7 +1157,7 @@
     "price": "R8 801",
     "handle": "hp-color-laserjet-pro-4303dw-mfp-print-copy-scan-4-preinstalled-introductory-hp-laserjet-toner-cartridges-black-2000-pages-introductoy-cyan-magenta-yellow-1-000-pages-black-a4-normal-up-to-33-ppm",
     "url": "/products/hp-color-laserjet-pro-4303dw-mfp-print-copy-scan-4-preinstalled-introductory-hp-laserjet-toner-cartridges-black-2000-pages-introductoy-cyan-magenta-yellow-1-000-pages-black-a4-normal-up-to-33-ppm",
-    "qty": 89,
+    "qty": 88,
     "image": "https://s3.amazonaws.com/tarsus.co.za/5HH65A_default.png"
    }
   ],
@@ -1307,18 +1307,18 @@
     "price": "R426",
     "handle": "ugreen-cm512-6-in-1-usb-type-c-docking-station",
     "url": "/products/ugreen-cm512-6-in-1-usb-type-c-docking-station",
-    "qty": 68,
+    "qty": 64,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM512-45000_UGREEN-CM512-6-in-1-USB-Type-C-Docking-Station-Grey_wr_01b.jpg"
    },
    {
-    "brand": "Targus",
-    "title": "Targus - USB-C Multi-Function DisplayPort Alt Triple Video with 85W… (DOCK430EUZ)",
+    "brand": "Port",
+    "title": "Port Connect Multi-port USB Type-C 2x4K Office Docking Station",
     "spec": "Docking Station",
-    "price": "R2 267",
-    "handle": "targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
-    "url": "/products/targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
-    "qty": 46,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK430EUZ_default.jpg"
+    "price": "R2 769",
+    "handle": "port-connect-multi-port-usb-type-c-2x4k-office-docking-station",
+    "url": "/products/port-connect-multi-port-usb-type-c-2x4k-office-docking-station",
+    "qty": 6,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/901908V2EU_Port-Connect-Multi-port-USB-Type-C-2x4K-Office-Docking-Station-Black_wr_01a.jpg"
    },
    {
     "brand": "Targus",
@@ -1349,7 +1349,7 @@
     "price": "R1 472",
     "handle": "dell-pro-7-in-1-usb-c-mobile-docking-station",
     "url": "/products/dell-pro-7-in-1-usb-c-mobile-docking-station",
-    "qty": 84,
+    "qty": 79,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__23__d7c1.png"
    },
    {
@@ -1395,24 +1395,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CR113-20291_UGREEN-4-Port-USB-3.0-Hub-with-Micro-USB-5Gbps-Data-Transfer-%E2%80%93-1m_wr_01.jpg"
    },
    {
-    "brand": "Ugreen",
-    "title": "UGREEN Revodok 5-in-1 Type-C Hub · 4K HDMI",
+    "brand": "Port",
+    "title": "Port USB-C Mini with HDMI Docking Station",
     "spec": "Docking Station",
-    "price": "R259",
-    "handle": "ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0-usb2-0",
-    "url": "/products/ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0-usb2-0",
-    "qty": 106,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM478-15495-wr-01.jpg"
+    "price": "R220",
+    "handle": "port-usb-c-mini-with-hdmi-docking-station",
+    "url": "/products/port-usb-c-mini-with-hdmi-docking-station",
+    "qty": 139,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900140_0708.jpg"
    },
    {
     "brand": "Ugreen",
-    "title": "UGREEN 6-in-1 Type-C Hub with 4K HDMI, 100W PD and 10Gbps USB Ports – Grey",
+    "title": "UGREEN Revodok 5-in-1 Type-C Hub · 4K HDMI",
     "spec": "Docking Station",
-    "price": "R397",
-    "handle": "ugreen-6-in-1-type-c-hub-with-4k-hdmi-100w-pd-and-10gbps-usb-ports-grey",
-    "url": "/products/ugreen-6-in-1-type-c-hub-with-4k-hdmi-100w-pd-and-10gbps-usb-ports-grey",
-    "qty": 81,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/6941876239986_CM888-35998.jpg"
+    "price": "R288",
+    "handle": "ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0",
+    "url": "/products/ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0",
+    "qty": 21,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM511-15596-wr-01.jpg"
    }
   ]
  },
@@ -1604,16 +1604,6 @@
     "qty": 20
    },
    {
-    "brand": "Seagate",
-    "title": "Seagate IronWolf NAS 8TB 3.5\" SATA HDD",
-    "spec": "NAS-grade · always-on",
-    "price": "R6 656",
-    "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
-    "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
-    "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
-    "qty": 3
-   },
-   {
     "brand": "Ugreen",
     "title": "UGREEN CM767 M.2 NVMe SSD Enclosure",
     "spec": "Storage",
@@ -1624,14 +1614,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM767-35267_UGreen-CM767-M.2-NVMe-SSD-Enclosure-10Gbps-%E2%80%93-Silver_wr_01a.jpg"
    },
    {
-    "brand": "Kingston",
-    "title": "Kingston 256GB KC600 SSD SATA 3 2.5in SSD",
-    "spec": "Storage",
-    "price": "R2 150",
-    "handle": "kingston-256gb-kc600-ssd-sata-3-2-5in-ssd",
-    "url": "/products/kingston-256gb-kc600-ssd-sata-3-2-5in-ssd",
-    "qty": 5,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SKC600/256G_default.jpg"
+    "brand": "SanDisk",
+    "title": "SanDisk Optimus 5100 500GB NVMe SSD",
+    "spec": "500GB NVMe SSD",
+    "price": "R2 191",
+    "handle": "sandisk-optimus-5100-500gb-nvme-ssd",
+    "url": "/products/sandisk-optimus-5100-500gb-nvme-ssd",
+    "qty": 38,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__1__861a.png"
    },
    {
     "brand": "Patriot",
@@ -1682,18 +1672,18 @@
     "price": "R452",
     "handle": "hiksemi-future-8gb-1600mhz-8gb-x-1-so-dimm-memory-module",
     "url": "/products/hiksemi-future-8gb-1600mhz-8gb-x-1-so-dimm-memory-module",
-    "qty": 15,
+    "qty": 14,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/HSC308S16Z1-8G_wr_-2.jpg"
    },
    {
     "brand": "Kingston",
-    "title": "Kingston 8GB DDR4 3200MHz SODIMM",
+    "title": "Kingston 8GB DDR4 3200MHz Memory Module",
     "spec": "Memory",
     "price": "R2 525",
-    "handle": "kingston-8gb-ddr4-3200mhz-sodimm",
-    "url": "/products/kingston-8gb-ddr4-3200mhz-sodimm",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/KCP432SS8/8_default.jpg"
+    "handle": "kingston-8gb-ddr4-3200mhz-memory-module",
+    "url": "/products/kingston-8gb-ddr4-3200mhz-memory-module",
+    "qty": 41,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/KCP432NS8/8_default.png"
    },
    {
     "brand": "Hiksemi",
@@ -1738,24 +1728,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/09/GT7102GD3H4HDMI_wr_01.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus Nvidia GeForce RTX 5050 Dual OC 8GB GDDR6 Graphics Card",
+    "brand": "MSI",
+    "title": "MSI GeForce RTX 5060 VENTUS 2X OC 8GB GDDR7 Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R10 236",
-    "handle": "asus-nvidia-geforce-rtx-5050-dual-oc-8gb-gddr6-graphics-card",
-    "url": "/products/asus-nvidia-geforce-rtx-5050-dual-oc-8gb-gddr6-graphics-card",
-    "qty": 82,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/07/DUAL-RTX5050-O8G_Asus-Nvidia-GeForce-RTX-5050-Dual-OC-88G-Graphics-Card_wr_01.jpg"
+    "price": "R10 235",
+    "handle": "msi-geforce-rtx-5060-ventus-2x-oc-8gb-gddr7-graphics-card",
+    "url": "/products/msi-geforce-rtx-5060-ventus-2x-oc-8gb-gddr7-graphics-card",
+    "qty": 4,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/RTX5060VENTUS2XOC8G_MSI-GF-RTX-5060-VENTUS-2X-OC-8GB_wr_01.jpg"
    },
    {
-    "brand": "ASRock",
-    "title": "ASRock Radeon RX9070 XT Steel Legend Dark 16GB Graphics Card",
+    "brand": "Asus",
+    "title": "ASUS Dual GeForce RTX 5070 12GB GDDR7 OC Edition Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R20 896",
-    "handle": "asrock-radeon-rx9070-xt-steel-legend-dark-16gb-graphics-card",
-    "url": "/products/asrock-radeon-rx9070-xt-steel-legend-dark-16gb-graphics-card",
-    "qty": 24,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/RX9070XTSTEELLEGENDDARK16_ASROCK-RADEON-RX9070-XT-STEEL-LEGEND-DAR_wr_01.jpg"
+    "price": "R20 473",
+    "handle": "asus-dual-geforce-rtx-5070-12gb-gddr7-oc-edition-graphics-card",
+    "url": "/products/asus-dual-geforce-rtx-5070-12gb-gddr7-oc-edition-graphics-card",
+    "qty": 6,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/DUAL-RTX5070-O12G_ASUS-Dual-GeForce-RTX-5070-12GB-GDDR7-OC-Edition-Graphics-Card_wr_01a.jpg"
    },
    {
     "brand": "Asus",
@@ -1831,7 +1821,7 @@
     "handle": "xiaomi-robot-vacuum-s40c",
     "url": "https://ubratech.co.za/products/xiaomi-robot-vacuum-s40c",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/BHR9664EU_Xiaomi-Robot-Vacuum-S40C_wr_02a-1.jpg",
-    "qty": 138
+    "qty": 134
    },
    {
     "brand": "Xiaomi",
@@ -1978,14 +1968,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900717_1_a313.png"
    },
    {
-    "brand": "TP-Link",
-    "title": "TP-Link Archer T4U AC1300 High Gain Dual Band Wi-Fi USB Adapter Router",
-    "spec": "Cables And Adapters",
-    "price": "R423",
-    "handle": "tp-link-archer-t4u-ac1300-high-gain-dual-band-wi-fi-usb-adapter-router",
-    "url": "/products/tp-link-archer-t4u-ac1300-high-gain-dual-band-wi-fi-usb-adapter-router",
-    "qty": 18,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/R/ARCHER_T4U_PLUS_1_abee.png"
+    "brand": "Ugreen",
+    "title": "UGREEN 130W USB-C 3-port Car Charger",
+    "spec": "3 ports",
+    "price": "R419",
+    "handle": "ugreen-130w-usb-c-3-port-car-charger",
+    "url": "/products/ugreen-130w-usb-c-3-port-car-charger",
+    "qty": 51,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/EC705-55511_UGREEN_130W_USB-C_3-port_Car_Charger_wr_01.png"
    },
    {
     "brand": "HP",
