@@ -238,7 +238,7 @@
     "price": "R9 368",
     "handle": "pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc-pcb-home-r516g-v1",
     "url": "/products/pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc-pcb-home-r516g-v1",
-    "qty": 51,
+    "qty": 52,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/04/PCB_HOME_R516G-V1_PCBuilder-AMD-Ryzen-5-3400G-HOME-MASTER-Windows-11-Desktop-PC_wr_01a.jpg"
    },
    {
@@ -270,7 +270,7 @@
     "price": "R12 809",
     "handle": "pcbuilder-intel-i5-12400-home-master-windows-11-desktop-pc",
     "url": "/products/pcbuilder-intel-i5-12400-home-master-windows-11-desktop-pc",
-    "qty": 14,
+    "qty": 19,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/04/PCB_HOME_I516G_wr_01a.jpg"
    },
    {
@@ -428,7 +428,7 @@
     "price": "R18 725",
     "handle": "pcbuilder-ryzen-5-5600xt-sentinel-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600xt-sentinel-windows-11-gaming-pc",
-    "qty": 9,
+    "qty": 12,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SENTINEL_01_wr_01e.jpg"
    },
    {
@@ -475,23 +475,23 @@
    },
    {
     "brand": "Asus",
-    "title": "Asus TUF Gaming A16 Gaming Laptop 16″ · Laptop — Ryzen 7 · 16GB · 1TB SSD",
-    "spec": "Ryzen 7 · 16\" screen · 1TB SSD",
-    "price": "R35 180",
-    "handle": "asus-tuf-gaming-a16-gaming-laptop-16-ryzen-7-260-16gb-ddr5-rtx-5050-1tb-ssd-windows-11-home",
-    "url": "/products/asus-tuf-gaming-a16-gaming-laptop-16-ryzen-7-260-16gb-ddr5-rtx-5050-1tb-ssd-windows-11-home",
-    "qty": 31,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/FA608UHI-71610G0W_Asus-TUF-Gaming-A16-Gaming-Laptop-16-inch-Ryzen-7-260-16GB-DDR5-RTX-5050-1TB-SSD-Windows-11-Home_wr_01a.jpg"
+    "title": "Asus TUF Gaming F16 16\" Core-i7 16GB 512GB Win 11 Home Notebook",
+    "spec": "Core i7 · 16\" screen · 16GB RAM",
+    "price": "R35 887",
+    "handle": "asus-tuf-gaming-f16-16-core-i7-16gb-512gb-win-11-home-notebook",
+    "url": "/products/asus-tuf-gaming-f16-16-core-i7-16gb-512gb-win-11-home-notebook",
+    "qty": 22,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__48__bbef.png"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Alienware 15 Aurora 15.3\" Core-7 32GB 1TB Win 11 Home Notebook",
-    "spec": "Core 7 · 15.3\" screen · 32GB RAM",
-    "price": "R49 786",
-    "handle": "dell-alienware-15-aurora-15-3-core-7-32gb-1tb-win-11-home-notebook",
-    "url": "/products/dell-alienware-15-aurora-15-3-core-7-32gb-1tb-win-11-home-notebook",
-    "qty": 19,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__97__74c5.png"
+    "brand": "Asus",
+    "title": "Asus ROG Strix G16 16\" Core-U9 16GB 1TB Win 11 Home Notebook (G615LP-U91610G0W)",
+    "spec": "16\" screen · 16GB RAM",
+    "price": "R49 293",
+    "handle": "asus-rog-strix-g16-16-core-u9-16gb-1tb-win-11-home-notebook-g615lp-u91610g0w",
+    "url": "/products/asus-rog-strix-g16-16-core-u9-16gb-1tb-win-11-home-notebook-g615lp-u91610g0w",
+    "qty": 4,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__39__3504.png"
    },
    {
     "brand": "Dell",
@@ -532,7 +532,7 @@
     "price": "R18 725",
     "handle": "pcbuilder-ryzen-5-5600xt-sentinel-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600xt-sentinel-windows-11-gaming-pc",
-    "qty": 9,
+    "qty": 12,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SENTINEL_01_wr_01e.jpg"
    },
    {
@@ -1329,7 +1329,7 @@
     "price": "R1 472",
     "handle": "dell-pro-7-in-1-usb-c-mobile-docking-station",
     "url": "/products/dell-pro-7-in-1-usb-c-mobile-docking-station",
-    "qty": 79,
+    "qty": 77,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__23__d7c1.png"
    },
    {
@@ -1711,7 +1711,7 @@
     "brand": "Asus",
     "title": "Asus TUF Gaming RTX 5070 12GB GDDR7 OC",
     "spec": "Desktop PCIe · high-detail gaming",
-    "price": "R22 340",
+    "price": "R21 037",
     "handle": "asus-tuf-gaming-geforce-rtx-5070-12gb-gddr7-oc-edition",
     "url": "https://ubratech.co.za/products/asus-tuf-gaming-geforce-rtx-5070-12gb-gddr7-oc-edition",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/TUF-RTX5070-O12G-GAMING-wr-01.jpg",
@@ -1729,19 +1729,19 @@
    },
    {
     "brand": "Asus",
-    "title": "ASUS Dual GeForce RTX 5060 OC Edition 8GB GDDR7 Graphics Card",
+    "title": "ASUS Prime Radeon RX 9070 GRE EVO OC Edition 12GB GDDR6 Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R11 429",
-    "handle": "asus-dual-geforce-rtx-5060-oc-edition-8gb-gddr7-graphics-card",
-    "url": "/products/asus-dual-geforce-rtx-5060-oc-edition-8gb-gddr7-graphics-card",
-    "qty": 26,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/04/DUAL-RTX5060-O8G-WR-01-1.jpg"
+    "price": "R12 564",
+    "handle": "asus-prime-radeon-rx-9070-gre-evo-oc-edition-12gb-gddr6-graphics-card",
+    "url": "/products/asus-prime-radeon-rx-9070-gre-evo-oc-edition-12gb-gddr6-graphics-card",
+    "qty": 19,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/05/PRIME-RX9070GRE-O12G_ASUS-Prime-Radeon-RX-9070-GRE-EVO-OC-Edition-12GB-GDDR6-Graphics-Card_wr_01a.jpg"
    },
    {
     "brand": "Asus",
     "title": "ASUS Dual GeForce RTX 5060 Ti OC Edition 16GB GDDR7 Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R18 522",
+    "price": "R20 012",
     "handle": "asus-dual-geforce-rtx-5060-ti-oc-edition-16gb-gddr7-graphics-card",
     "url": "/products/asus-dual-geforce-rtx-5060-ti-oc-edition-16gb-gddr7-graphics-card",
     "qty": 14,
@@ -1751,7 +1751,7 @@
     "brand": "Asus",
     "title": "Asus TUF Gaming GeForce RTX 5080 16GB GDDR7 OC Edition",
     "spec": "Graphics Cards",
-    "price": "R40 950",
+    "price": "R41 888",
     "handle": "asus-tuf-gaming-geforce-rtx-5080-16gb-gddr7-oc-edition",
     "url": "/products/asus-tuf-gaming-geforce-rtx-5080-16gb-gddr7-oc-edition",
     "qty": 8,
@@ -1776,7 +1776,7 @@
     "price": "R558",
     "handle": "antec-atom-v550-non-modular-power-supply",
     "url": "/products/antec-atom-v550-non-modular-power-supply",
-    "qty": 24,
+    "qty": 23,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/ATOM-V550_wr_01a.jpg"
    },
    {
@@ -2060,7 +2060,7 @@
     "price": "R1 623",
     "handle": "hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
     "url": "/products/hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
-    "qty": 256,
+    "qty": 383,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2141G0_LIU_4MM_ee84.jpg"
    },
    {
@@ -2070,7 +2070,7 @@
     "price": "R3 126",
     "handle": "hikvision-4mp-acusense-fixed-mini-dome-ip-camera",
     "url": "/products/hikvision-4mp-acusense-fixed-mini-dome-ip-camera",
-    "qty": 41,
+    "qty": 40,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2546G2_IS2.8MM__1__a2ef.png"
    },
    {
@@ -2112,7 +2112,7 @@
     "price": "R3 126",
     "handle": "hikvision-4mp-acusense-fixed-mini-dome-ip-camera",
     "url": "/products/hikvision-4mp-acusense-fixed-mini-dome-ip-camera",
-    "qty": 41,
+    "qty": 40,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2546G2_IS2.8MM__1__a2ef.png"
    },
    {
