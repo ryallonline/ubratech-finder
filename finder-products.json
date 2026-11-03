@@ -1696,24 +1696,24 @@
     "qty": 119
    },
    {
-    "brand": "Hiksemi",
-    "title": "Hiksemi Future 8GB 1600MHz 8GB X 1 SO-DIMM Memory Module",
+    "brand": "GeIL",
+    "title": "GeIL Pristine 4GB DDR4 2666MHz Desktop Memory",
     "spec": "Memory",
-    "price": "R452",
-    "handle": "hiksemi-future-8gb-1600mhz-8gb-x-1-so-dimm-memory-module",
-    "url": "/products/hiksemi-future-8gb-1600mhz-8gb-x-1-so-dimm-memory-module",
-    "qty": 4,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/HSC308S16Z1-8G_wr_-2.jpg"
+    "price": "R654",
+    "handle": "geil-pristine-4gb-ddr4-2666mhz-desktop-memory",
+    "url": "/products/geil-pristine-4gb-ddr4-2666mhz-desktop-memory",
+    "qty": 6,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/GP44GB2666C19SC_GeIL_Pristine_4GB_DDR4_2666MHz_Desktop_M_wr_01.png"
    },
    {
     "brand": "Kingston",
-    "title": "Kingston 8GB DDR4 3200MHz Memory Module",
+    "title": "Kingston 8GB DDR4 3200MHz SODIMM",
     "spec": "Memory",
     "price": "R2 525",
-    "handle": "kingston-8gb-ddr4-3200mhz-memory-module",
-    "url": "/products/kingston-8gb-ddr4-3200mhz-memory-module",
-    "qty": 41,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/KCP432NS8/8_default.png"
+    "handle": "kingston-8gb-ddr4-3200mhz-sodimm",
+    "url": "/products/kingston-8gb-ddr4-3200mhz-sodimm",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/KCP432SS8/8_default.jpg"
    },
    {
     "brand": "GeIL",
