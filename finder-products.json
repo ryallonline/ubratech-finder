@@ -13,13 +13,13 @@
    },
    {
     "brand": "Acer",
-    "title": "Acer ETBook 14 R3 8GB 256GB 14\" Slim Bezel Windows 11 Home 64 Single Language",
-    "spec": "14\" screen · 8GB RAM",
-    "price": "R7 932",
-    "handle": "acer-etbook-14-r3-8gb-256gb-14-slim-bezel-windows-11-home-64-single-language",
-    "url": "/products/acer-etbook-14-r3-8gb-256gb-14-slim-bezel-windows-11-home-64-single-language",
-    "qty": 8,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/ZL.OTH11.051_default.png"
+    "title": "Acer Gadget E10 ETBook 15.6″ Laptop · Laptop — Ryzen 5 · 8GB · 256GB SSD",
+    "spec": "Ryzen 5 · 15.6\" screen · 256GB SSD",
+    "price": "R8 575",
+    "handle": "acer-gadget-e10-etbook-15-6-laptop-ryzen-5-3450u-8gb-ddr4-256gb-nvme-radeon-graphics-windows-11-home",
+    "url": "/products/acer-gadget-e10-etbook-15-6-laptop-ryzen-5-3450u-8gb-ddr4-256gb-nvme-radeon-graphics-windows-11-home",
+    "qty": 67,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/HP_NBETB_004_Acer_Gadget_E10_ETBook_R3_156_Laptop_Ryz_wr_01.png"
    },
    {
     "brand": "Acer",
@@ -32,14 +32,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/NX.DZAEA.002_default.png"
    },
    {
-    "brand": "Acer",
-    "title": "Acer Lite 15 Laptop — Ryzen 5",
-    "spec": "Ryzen 5",
-    "price": "R12 088",
-    "handle": "acer-lite-15-r5-7430u-8-512-15-6-fhd-ips-slim-bezel-windows-11-home-64bit-single-language",
-    "url": "/products/acer-lite-15-r5-7430u-8-512-15-6-fhd-ips-slim-bezel-windows-11-home-64bit-single-language",
-    "qty": 17,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.DJVEA.001_default.png"
+    "brand": "Lenovo",
+    "title": "Lenovo Ideapad Slim 3 15.6\" Ryzen-3 8GB 256GB Win 11 Home Notebook",
+    "spec": "Ryzen 3 · 15.6\" screen · 8GB RAM",
+    "price": "R12 968",
+    "handle": "lenovo-ideapad-slim-3-15-6-ryzen-3-8gb-256gb-win-11-home-notebook",
+    "url": "/products/lenovo-ideapad-slim-3-15-6-ryzen-3-8gb-256gb-win-11-home-notebook",
+    "qty": 185,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__82__8f75.png"
    }
   ],
   "mid": [
@@ -70,18 +70,18 @@
     "price": "R13 121",
     "handle": "lenovo-ideapad-slim-3-15-6-fhd-ryzen-5-5625u-8gb-512gb-win-11-home-notebook",
     "url": "/products/lenovo-ideapad-slim-3-15-6-fhd-ryzen-5-5625u-8gb-512gb-win-11-home-notebook",
-    "qty": 142,
+    "qty": 137,
     "image": "https://www.pinnacle.co.za/media/catalog/product/8/2/82XM01AUSA_dc5c.jpg"
    },
    {
     "brand": "Acer",
-    "title": "Acer EXO14 72 51AG Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.ELVEA.001)",
+    "title": "Acer EXO16 51 53W7 Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.EM3EA.004)",
     "spec": "Core Ultra 5 · 512GB SSD",
-    "price": "R17 628",
-    "handle": "acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
-    "url": "/products/acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
-    "qty": 47,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.ELVEA.001_default.jpg"
+    "price": "R16 747",
+    "handle": "acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
+    "url": "/products/acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
+    "qty": 77,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.004_default.jpg"
    },
    {
     "brand": "Dell",
@@ -552,7 +552,7 @@
     "price": "R43 361",
     "handle": "pcbuilder-ryzen-5-7600-maverick-windows-11-gaming-pc-pcb-maverick-02",
     "url": "/products/pcbuilder-ryzen-5-7600-maverick-windows-11-gaming-pc-pcb-maverick-02",
-    "qty": 12,
+    "qty": 11,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_MAVERICK_02_PCBuilder-Ryzen-5-7600-MAVERICK-Windows-11-Gaming-PC_wr_01.jpg"
    }
   ]
@@ -580,14 +580,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
-    "brand": "Hikvision",
-    "title": "Hikvision 18.5\" Borderless FHD Monitor",
-    "spec": "18.5\" screen",
-    "price": "R1 486",
-    "handle": "hikvision-18-5-borderless-fhd-monitor",
-    "url": "/products/hikvision-18-5-borderless-fhd-monitor",
-    "qty": 15,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
+    "brand": "Acer",
+    "title": "Acer V206H 19.5\" HD Monitor (UM.IV6EE.024)",
+    "spec": "19.5\" screen",
+    "price": "R1 258",
+    "handle": "acer-monitor-v206h-flat-19-5-tn-led-response-time-5-ms-resolution-1600-x-900-viewing-angle-178-h-178-v-aspect-ratio-16-09-digital-frequency-100hz-interface-x1-hdmi-1x-vga-speaker-none-power-supply",
+    "url": "/products/acer-monitor-v206h-flat-19-5-tn-led-response-time-5-ms-resolution-1600-x-900-viewing-angle-178-h-178-v-aspect-ratio-16-09-digital-frequency-100hz-interface-x1-hdmi-1x-vga-speaker-none-power-supply",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
     "brand": "Dell",
@@ -601,13 +601,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP Series 3 Pro 24\" FHD Monitor",
-    "spec": "24\" screen",
-    "price": "R3 214",
-    "handle": "hp-series-3-pro-24-fhd-monitor",
-    "url": "/products/hp-series-3-pro-24-fhd-monitor",
-    "qty": 29,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5C1AA_1ac3.jpg"
+    "title": "HP Series 3 Pro 322pv 21.45\" FHD 100Hz 5ms LED VA Monitor",
+    "spec": "45\" screen",
+    "price": "R3 160",
+    "handle": "hp-series-3-pro-322pv-21-45-fhd-100hz-5ms-led-va-monitor",
+    "url": "/products/hp-series-3-pro-322pv-21-45-fhd-100hz-5ms-led-va-monitor",
+    "qty": 60,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/H/P/HP_9U5A2AA_9a08.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -670,7 +670,7 @@
     "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 346,
+    "qty": 325,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -732,7 +732,7 @@
     "price": "R2 571",
     "handle": "hp-series-5-pro-27-fhd-120hz-5ms-led-ips-monitor",
     "url": "/products/hp-series-5-pro-27-fhd-120hz-5ms-led-ips-monitor",
-    "qty": 5,
+    "qty": 15,
     "image": "https://www.pinnacle.co.za/media/catalog/product/B/2/B28F5AS_4ff1.jpg"
    },
    {
@@ -850,7 +850,7 @@
     "price": "R2 366",
     "handle": "eaton-5e-1200va-gen2-ups",
     "url": "/products/eaton-5e-1200va-gen2-ups",
-    "qty": 42,
+    "qty": 39,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1200UI_66a3.png"
    },
    {
@@ -903,7 +903,7 @@
     "price": "R10 967",
     "handle": "apc-smart-line-interative-1500va-1-5kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
     "url": "/products/apc-smart-line-interative-1500va-1-5kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
-    "qty": 4,
+    "qty": 3,
     "image": "https://s3.amazonaws.com/tarsus.co.za/SMC1500IC_default.jpg"
    },
    {
@@ -935,7 +935,7 @@
     "price": "R10 967",
     "handle": "apc-smart-line-interative-1500va-1-5kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
     "url": "/products/apc-smart-line-interative-1500va-1-5kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
-    "qty": 4,
+    "qty": 3,
     "image": "https://s3.amazonaws.com/tarsus.co.za/SMC1500IC_default.jpg"
    },
    {
@@ -1011,7 +1011,7 @@
     "price": "R2 527",
     "handle": "tp-link-deco-m4-whole-home-mesh-wi-fi-system-3-pack",
     "url": "https://ubratech.co.za/products/tp-link-deco-m4-whole-home-mesh-wi-fi-system-3-pack",
-    "qty": 5,
+    "qty": 3,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/E/DECO_M4_3_PACK_b101.jpg"
    },
    {
@@ -1063,7 +1063,7 @@
     "price": "R2 527",
     "handle": "tp-link-deco-m4-whole-home-mesh-wi-fi-system-3-pack",
     "url": "https://ubratech.co.za/products/tp-link-deco-m4-whole-home-mesh-wi-fi-system-3-pack",
-    "qty": 5,
+    "qty": 3,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/E/DECO_M4_3_PACK_b101.jpg"
    },
    {
@@ -1159,7 +1159,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
     "url": "https://ubratech.co.za/products/hp-smart-tank-790-print-wireless-all-in-one-printer-4wf66a",
-    "qty": 22,
+    "qty": 21,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    },
    {
@@ -1199,7 +1199,7 @@
     "price": "R6 634",
     "handle": "hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
     "url": "/products/hp-smart-tank-790-print-scan-copy-and-fax-up-to-15-9-ppm-automatic-duple-automatic-document-feeder-adf-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-ethernet-2-contextual",
-    "qty": 22,
+    "qty": 21,
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    }
   ],
@@ -1445,7 +1445,7 @@
     "price": "R1 320",
     "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
     "url": "/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
-    "qty": 30,
+    "qty": 40,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg"
    },
    {
@@ -1504,24 +1504,24 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008D_a815.png"
    },
    {
-    "brand": "Cudy",
-    "title": "Cudy 4 Port Gigabit PoE 1x PoE Input 60W Switch",
-    "spec": "4 ports",
-    "price": "R543",
-    "handle": "cudy-4-port-gigabit-poe-1x-poe-input-60w-switch",
-    "url": "/products/cudy-4-port-gigabit-poe-1x-poe-input-60w-switch",
-    "qty": 23,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/POE40_Cudy_4_Port_Gigabit_PoE_1x_PoE_Input_60W_wr_02.png"
+    "brand": "TP-Link",
+    "title": "TP-Link 8 Port Gigabit Unmanaged Rackmount POE Switch",
+    "spec": "8 ports",
+    "price": "R1 838",
+    "handle": "tp-link-8-port-gigabit-unmanaged-rackmount-poe-switch",
+    "url": "/products/tp-link-8-port-gigabit-unmanaged-rackmount-poe-switch",
+    "qty": 3,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008MP_68a7.jpg"
    },
    {
     "brand": "Huawei",
-    "title": "Huawei S310-48P4S Ekit 48 Port POE Switch",
+    "title": "Huawei S310-48P4X Ekit 48 Port POE Switch",
     "spec": "48 ports",
-    "price": "R6 043",
-    "handle": "huawei-s310-48p4s-ekit-48-port-poe-switch",
-    "url": "/products/huawei-s310-48p4s-ekit-48-port-poe-switch",
-    "qty": 106,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_12a1.png"
+    "price": "R6 169",
+    "handle": "huawei-s310-48p4x-ekit-48-port-poe-switch",
+    "url": "/products/huawei-s310-48p4x-ekit-48-port-poe-switch",
+    "qty": 6,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_fcaa.png"
    },
    {
     "brand": "Tenda",
@@ -1624,14 +1624,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM767-35267_UGreen-CM767-M.2-NVMe-SSD-Enclosure-10Gbps-%E2%80%93-Silver_wr_01a.jpg"
    },
    {
-    "brand": "Hiksemi",
-    "title": "Hiksemi Wave Series 512GB PCIE GEN 3 NVME 2280 Internal SSD",
+    "brand": "Verbatim",
+    "title": "Verbatim 1TB 2.5 Portable HDD Black Gen 2",
     "spec": "Storage",
-    "price": "R1 966",
-    "handle": "hiksemi-wave-series-512gb-pcie-gen-3-nvme-2280-internal-ssd",
-    "url": "/products/hiksemi-wave-series-512gb-pcie-gen-3-nvme-2280-internal-ssd",
-    "qty": 44,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_512G_8935.jpg"
+    "price": "R1 767",
+    "handle": "verbatim-1tb-2-5-portable-hdd-black-gen-2",
+    "url": "/products/verbatim-1tb-2-5-portable-hdd-black-gen-2",
+    "qty": 11,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/53194_default.jpg"
    },
    {
     "brand": "Patriot",
@@ -1893,7 +1893,7 @@
     "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
     "url": "https://ubratech.co.za/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg",
-    "qty": 30
+    "qty": 40
    },
    {
     "brand": "Xiaomi",
@@ -1968,24 +1968,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "Ugreen",
-    "title": "UGREEN HD104-10109 HDMI 4K Cable Male to Male Black 5m - Black",
+    "brand": "TP-Link",
+    "title": "TP-Link AC650 High Gain Wi-Fi USB Adapter",
     "spec": "Cables And Adapters",
-    "price": "R128",
-    "handle": "ugreen-hd104-10109-hdmi-4k-cable-male-to-male-black-5m-black",
-    "url": "/products/ugreen-hd104-10109-hdmi-4k-cable-male-to-male-black-5m-black",
-    "qty": 140,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/hd-104-10106-wr-01.jpg"
+    "price": "R130",
+    "handle": "tp-link-ac650-high-gain-wi-fi-usb-adapter",
+    "url": "/products/tp-link-ac650-high-gain-wi-fi-usb-adapter",
+    "qty": 72,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__77__2632.png"
    },
    {
-    "brand": "Gizzu",
-    "title": "Gizzu USB3.0 Active Extension Cable 10m",
+    "brand": "TP-Link",
+    "title": "TP-Link AX1800 USB Wireless Adapter",
     "spec": "Cables And Adapters",
-    "price": "R418",
-    "handle": "gizzu-usb3-0-active-extension-cable-10m",
-    "url": "/products/gizzu-usb3-0-active-extension-cable-10m",
-    "qty": 74,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/GCPU3UE10A-0128-Edit1500x1500-96DPI.jpg"
+    "price": "R414",
+    "handle": "tp-link-ax1800-usb-wireless-adapter",
+    "url": "/products/tp-link-ax1800-usb-wireless-adapter",
+    "qty": 14,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/R/ARCHER_TX20U_cdc8.jpg"
    },
    {
     "brand": "HP",
@@ -2070,7 +2070,7 @@
     "price": "R1 623",
     "handle": "hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
     "url": "/products/hikvision-4mp-4mm-build-in-mic-fixed-network-ip-camera",
-    "qty": 392,
+    "qty": 256,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2141G0_LIU_4MM_ee84.jpg"
    },
    {
@@ -2112,7 +2112,7 @@
     "price": "R1 560",
     "handle": "hikvision-4mp-2-8mm-fixed-bullet-network-camera",
     "url": "/products/hikvision-4mp-2-8mm-fixed-bullet-network-camera",
-    "qty": 258,
+    "qty": 245,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2041G0_LIU_2.8MM_e3b5.png"
    },
    {
@@ -2154,7 +2154,7 @@
     "price": "R2 353",
     "handle": "hikvision-4mp-fixed-dome-network-camera",
     "url": "/products/hikvision-4mp-fixed-dome-network-camera",
-    "qty": 71,
+    "qty": 11,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
    },
    {
