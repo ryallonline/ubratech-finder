@@ -1494,13 +1494,13 @@
    },
    {
     "brand": "TP-Link",
-    "title": "TP-Link 5 Port Gigabit Smart Switch",
-    "spec": "5 ports",
-    "price": "R326",
-    "handle": "tp-link-5-port-gigabit-smart-switch",
-    "url": "/products/tp-link-5-port-gigabit-smart-switch",
-    "qty": 15,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG105E_ef37.jpg"
+    "title": "TP-Link 8 Port Gigabit Desktop Switch",
+    "spec": "8 ports",
+    "price": "R356",
+    "handle": "tp-link-8-port-gigabit-desktop-switch",
+    "url": "/products/tp-link-8-port-gigabit-desktop-switch",
+    "qty": 3,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008D_a815.png"
    },
    {
     "brand": "TP-Link",
@@ -1514,13 +1514,13 @@
    },
    {
     "brand": "Huawei",
-    "title": "Huawei S310-48P4S Ekit 48 Port POE Switch",
+    "title": "Huawei S310-48P4X Ekit 48 Port POE Switch",
     "spec": "48 ports",
-    "price": "R6 043",
-    "handle": "huawei-s310-48p4s-ekit-48-port-poe-switch",
-    "url": "/products/huawei-s310-48p4s-ekit-48-port-poe-switch",
-    "qty": 106,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_12a1.png"
+    "price": "R6 169",
+    "handle": "huawei-s310-48p4x-ekit-48-port-poe-switch",
+    "url": "/products/huawei-s310-48p4x-ekit-48-port-poe-switch",
+    "qty": 6,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_fcaa.png"
    },
    {
     "brand": "Tenda",
@@ -1619,7 +1619,7 @@
     "price": "R257",
     "handle": "ugreen-cm767-m-2-nvme-ssd-enclosure-10gbps",
     "url": "/products/ugreen-cm767-m-2-nvme-ssd-enclosure-10gbps",
-    "qty": 26,
+    "qty": 25,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM767-35267_UGreen-CM767-M.2-NVMe-SSD-Enclosure-10Gbps-%E2%80%93-Silver_wr_01a.jpg"
    },
    {
