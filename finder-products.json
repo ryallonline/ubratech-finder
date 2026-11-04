@@ -1121,16 +1121,6 @@
  "printers": {
   "docs": [
    {
-    "brand": "HP",
-    "title": "HP LaserJet Enterprise MFP M430f All-in-One",
-    "spec": "Laser · sharp text · low running cost",
-    "price": "R10 427",
-    "handle": "hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
-    "url": "https://ubratech.co.za/products/hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
-    "qty": 19,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/3PZ55A_default.png"
-   },
-   {
     "brand": "Canon",
     "title": "Canon PIXMA MG2541S All-in-One Printer (0727C067AA)",
     "spec": "Printers",
@@ -1152,23 +1142,23 @@
    },
    {
     "brand": "HP",
-    "title": "HP OfficeJet Mobile 202 Wireless Printer (N4K99C)",
+    "title": "HP OfficeJet Pro 9730 Wide Format Printer. Fun All-in-One Printer (537P5C)",
     "spec": "Printers",
-    "price": "R6 238",
-    "handle": "hp-officejet-mobile-202-print-on-ac-up-to-10-ppm-on-battery-up-to-9-ppm-black-on-ac-up-to-19-ppm-on-battery-up-to-17-ppm-colour-1-usb-2-0-wi-fi-9-front-panel-buttons-2-leds-wi-fi-on-off-wi-fi-direct",
-    "url": "/products/hp-officejet-mobile-202-print-on-ac-up-to-10-ppm-on-battery-up-to-9-ppm-black-on-ac-up-to-19-ppm-on-battery-up-to-17-ppm-colour-1-usb-2-0-wi-fi-9-front-panel-buttons-2-leds-wi-fi-on-off-wi-fi-direct",
-    "qty": 40,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/N4K99C_default.jpg"
+    "price": "R5 548",
+    "handle": "hp-officejet-pro-9730-wide-format-all-in-one-printer-functions-print-copy-scan-print-technology-hp-thermal-inkjet-print-speed-black-a4-iso-up-to-22-ppm-colour-a4-iso-up-to-18-ppm-draft-black-a4-up-to",
+    "url": "/products/hp-officejet-pro-9730-wide-format-all-in-one-printer-functions-print-copy-scan-print-technology-hp-thermal-inkjet-print-speed-black-a4-iso-up-to-22-ppm-colour-a4-iso-up-to-18-ppm-draft-black-a4-up-to",
+    "qty": 4,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/537P5C_default.png"
    },
    {
-    "brand": "HP",
-    "title": "HP Color All-in-One Printer (5HH65A)",
+    "brand": "Lexmark",
+    "title": "Lexmark Light Printer (29S0215)",
     "spec": "Printers",
-    "price": "R8 801",
-    "handle": "hp-color-laserjet-pro-4303dw-mfp-print-copy-scan-4-preinstalled-introductory-hp-laserjet-toner-cartridges-black-2000-pages-introductoy-cyan-magenta-yellow-1-000-pages-black-a4-normal-up-to-33-ppm",
-    "url": "/products/hp-color-laserjet-pro-4303dw-mfp-print-copy-scan-4-preinstalled-introductory-hp-laserjet-toner-cartridges-black-2000-pages-introductoy-cyan-magenta-yellow-1-000-pages-black-a4-normal-up-to-33-ppm",
-    "qty": 86,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/5HH65A_default.png"
+    "price": "R8 667",
+    "handle": "lexmark-light-compact-and-fast-the-mx431adn-multifunction-supports-output-up-to-40-pages-per-minute-2-8inch-lcd-touch-display-40ppm-512mb-duplex-100-sheet-mpf-dual-core-1-0-ghz-processor-dadf-scanner",
+    "url": "/products/lexmark-light-compact-and-fast-the-mx431adn-multifunction-supports-output-up-to-40-pages-per-minute-2-8inch-lcd-touch-display-40ppm-512mb-duplex-100-sheet-mpf-dual-core-1-0-ghz-processor-dadf-scanner",
+    "qty": 25,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/29S0215_default.jpg"
    }
   ],
   "photo": [
@@ -1223,18 +1213,7 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/4WF66A_default.jpg"
    }
   ],
-  "volume": [
-   {
-    "brand": "HP",
-    "title": "HP LaserJet Enterprise MFP M430f All-in-One",
-    "spec": "All-in-one · built for an office",
-    "price": "R10 427",
-    "handle": "hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
-    "url": "https://ubratech.co.za/products/hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
-    "qty": 19,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/3PZ55A_default.png"
-   }
-  ],
+  "volume": [],
   "labels": [
    {
     "brand": "Niimbot",
@@ -1515,13 +1494,13 @@
    },
    {
     "brand": "TP-Link",
-    "title": "TP-Link 5 Port Gigabit Smart Switch",
-    "spec": "5 ports",
-    "price": "R326",
-    "handle": "tp-link-5-port-gigabit-smart-switch",
-    "url": "/products/tp-link-5-port-gigabit-smart-switch",
-    "qty": 15,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG105E_ef37.jpg"
+    "title": "TP-Link 8 Port Gigabit Desktop Switch",
+    "spec": "8 ports",
+    "price": "R356",
+    "handle": "tp-link-8-port-gigabit-desktop-switch",
+    "url": "/products/tp-link-8-port-gigabit-desktop-switch",
+    "qty": 3,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008D_a815.png"
    },
    {
     "brand": "TP-Link",
@@ -1535,13 +1514,13 @@
    },
    {
     "brand": "Huawei",
-    "title": "Huawei S310-48P4S Ekit 48 Port POE Switch",
+    "title": "Huawei S310-48P4X Ekit 48 Port POE Switch",
     "spec": "48 ports",
-    "price": "R6 043",
-    "handle": "huawei-s310-48p4s-ekit-48-port-poe-switch",
-    "url": "/products/huawei-s310-48p4s-ekit-48-port-poe-switch",
-    "qty": 106,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_12a1.png"
+    "price": "R6 169",
+    "handle": "huawei-s310-48p4x-ekit-48-port-poe-switch",
+    "url": "/products/huawei-s310-48p4x-ekit-48-port-poe-switch",
+    "qty": 6,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_fcaa.png"
    },
    {
     "brand": "Tenda",
@@ -2027,7 +2006,7 @@
     "handle": "logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "url": "https://ubratech.co.za/products/logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "image": "https://s3.amazonaws.com/tarsus.co.za/920-008685_default.jpg",
-    "qty": 44
+    "qty": 41
    },
    {
     "brand": "Redragon",
