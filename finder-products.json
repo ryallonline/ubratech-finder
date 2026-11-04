@@ -70,7 +70,7 @@
     "price": "R13 121",
     "handle": "lenovo-ideapad-slim-3-15-6-fhd-ryzen-5-5625u-8gb-512gb-win-11-home-notebook",
     "url": "/products/lenovo-ideapad-slim-3-15-6-fhd-ryzen-5-5625u-8gb-512gb-win-11-home-notebook",
-    "qty": 137,
+    "qty": 142,
     "image": "https://www.pinnacle.co.za/media/catalog/product/8/2/82XM01AUSA_dc5c.jpg"
    },
    {
@@ -376,14 +376,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/9H7N7ET_default.png"
    },
    {
-    "brand": "Dell",
-    "title": "Dell 27 AIO EC27250 25 06 2025:Intel Desktop PC — 1TB SSD (EC27250_RPLU-R_008S)",
-    "spec": "1TB SSD",
-    "price": "R39 160",
-    "handle": "dell-27-aio-ec27250-25-06-2025-intel-core-7-150u-12mb-cache-up-to-5-4-ghz-27-fhd-touch-1920x1080-16g-5200mt-s-ddr5-1tb-ssd-pcie-nvme-m-2-intel-grapphics-camera-mic-5mp-ir-tilt-cam-intel-dual-band",
-    "url": "/products/dell-27-aio-ec27250-25-06-2025-intel-core-7-150u-12mb-cache-up-to-5-4-ghz-27-fhd-touch-1920x1080-16g-5200mt-s-ddr5-1tb-ssd-pcie-nvme-m-2-intel-grapphics-camera-mic-5mp-ir-tilt-cam-intel-dual-band",
-    "qty": 12,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/EC27250_RPLU-R_008S_default.jpg"
+    "brand": "HP",
+    "title": "HP ProStudio 4 G1i 23.8 AiO Intgrtd Cam DM 5MP Desktop PC — 16GB (BY6U8ET)",
+    "spec": "5MP",
+    "price": "R36 706",
+    "handle": "hp-prostudio-4-g1i-23-8-aio-intgrtd-cam-dm-5mp-ram-16gb-ddr5-5600-ssd-512g-2280-pcie-nvme-value-ost-windows-11p6-hp-3y-nbd-onsite-dt-support-bundling-misc-pkg-sgl-pk-aio-23-8-ah-std-mouse-hp-blk-125",
+    "url": "/products/hp-prostudio-4-g1i-23-8-aio-intgrtd-cam-dm-5mp-ram-16gb-ddr5-5600-ssd-512g-2280-pcie-nvme-value-ost-windows-11p6-hp-3y-nbd-onsite-dt-support-bundling-misc-pkg-sgl-pk-aio-23-8-ah-std-mouse-hp-blk-125",
+    "qty": 8,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BY6U8ET_default.jpg"
    },
    {
     "brand": "Dell",
@@ -406,16 +406,6 @@
     "url": "https://ubratech.co.za/products/asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg",
     "qty": 3
-   },
-   {
-    "brand": "Dell",
-    "title": "Dell Pro Precision 7 T1 PW7T1260 Desktop PC — Core Ultra 7 · 16GB (PWT1260-U7-16512GB-8GFX)",
-    "spec": "Core Ultra 7",
-    "price": "R46 532",
-    "handle": "dell-pro-precision-7-t1-pw7t1260-intel-core-ultra-7-265-30-mb-cache-20-cores-20-threads-1-8-ghz-to-5-3-ghz-65w-16gb-1-x-16gb-ddr5-up-to-5600-mt-s-512gb-m-2-2230-tlc-pcie-gen4-ssd-nvidia-a1000-8gb",
-    "url": "/products/dell-pro-precision-7-t1-pw7t1260-intel-core-ultra-7-265-30-mb-cache-20-cores-20-threads-1-8-ghz-to-5-3-ghz-65w-16gb-1-x-16gb-ddr5-up-to-5600-mt-s-512gb-m-2-2230-tlc-pcie-gen4-ssd-nvidia-a1000-8gb",
-    "qty": 8,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/PWT1260-U7-16512GB-8GFX_default.png"
    },
    {
     "brand": "Dell",
@@ -621,13 +611,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP Series 3 Pro 322pv 21.45\" FHD 100Hz 5ms LED VA Monitor",
-    "spec": "45\" screen",
-    "price": "R3 160",
-    "handle": "hp-series-3-pro-322pv-21-45-fhd-100hz-5ms-led-va-monitor",
-    "url": "/products/hp-series-3-pro-322pv-21-45-fhd-100hz-5ms-led-va-monitor",
-    "qty": 60,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/H/P/HP_9U5A2AA_9a08.jpg"
+    "title": "HP Series 3 Pro 22\" FHD Monitor",
+    "spec": "22\" screen",
+    "price": "R3 102",
+    "handle": "hp-series-3-pro-22-fhd-monitor",
+    "url": "/products/hp-series-3-pro-22-fhd-monitor",
+    "qty": 29,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5A2AA__1__b014.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -1162,13 +1152,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP Smart Tank 750 Print Wireless All-in-One Printer (6UU47A)",
+    "title": "HP OfficeJet Mobile 202 Wireless Printer (N4K99C)",
     "spec": "Printers",
-    "price": "R6 505",
-    "handle": "hp-smart-tank-750-print-scan-copy-up-to-15-9-ppm-automatic-duplex-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-2-contextual-display-with-id-copy-low-on-ink-sensor-30-000",
-    "url": "/products/hp-smart-tank-750-print-scan-copy-up-to-15-9-ppm-automatic-duplex-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-2-contextual-display-with-id-copy-low-on-ink-sensor-30-000",
-    "qty": 10,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/6UU47A_default.jpg"
+    "price": "R6 238",
+    "handle": "hp-officejet-mobile-202-print-on-ac-up-to-10-ppm-on-battery-up-to-9-ppm-black-on-ac-up-to-19-ppm-on-battery-up-to-17-ppm-colour-1-usb-2-0-wi-fi-9-front-panel-buttons-2-leds-wi-fi-on-off-wi-fi-direct",
+    "url": "/products/hp-officejet-mobile-202-print-on-ac-up-to-10-ppm-on-battery-up-to-9-ppm-black-on-ac-up-to-19-ppm-on-battery-up-to-17-ppm-colour-1-usb-2-0-wi-fi-9-front-panel-buttons-2-leds-wi-fi-on-off-wi-fi-direct",
+    "qty": 40,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/N4K99C_default.jpg"
    },
    {
     "brand": "HP",
@@ -1214,13 +1204,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP Smart Tank 750 Print Wireless All-in-One Printer (6UU47A)",
+    "title": "HP Smart Tank 530 Wireless Wireless All-in-One Printer (4SB24A)",
     "spec": "Printers",
-    "price": "R6 505",
-    "handle": "hp-smart-tank-750-print-scan-copy-up-to-15-9-ppm-automatic-duplex-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-2-contextual-display-with-id-copy-low-on-ink-sensor-30-000",
-    "url": "/products/hp-smart-tank-750-print-scan-copy-up-to-15-9-ppm-automatic-duplex-250-sheets-close-tray-100-sheet-output-tray-dual-band-wi-fi-with-self-heal-2-contextual-display-with-id-copy-low-on-ink-sensor-30-000",
-    "qty": 10,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/6UU47A_default.jpg"
+    "price": "R5 123",
+    "handle": "hp-smart-tank-530-wireless-all-in-one-print-scan-copy-adf-wireless-rmpv-400-to-800-pages-1-3-users-hp-smart-app-apple-airprint-fire-google-cloud-print-2-0-hp-eprint-android-printing-mopria-certified",
+    "url": "/products/hp-smart-tank-530-wireless-all-in-one-print-scan-copy-adf-wireless-rmpv-400-to-800-pages-1-3-users-hp-smart-app-apple-airprint-fire-google-cloud-print-2-0-hp-eprint-android-printing-mopria-certified",
+    "qty": 3,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/4SB24A_default.jpg"
    },
    {
     "brand": "HP",
@@ -1864,14 +1854,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/QBH4312GL_Xiaomi-Smart-Temperature-and-Humidity-Monitor-3-Mini-White_wr_01a.jpg"
    },
    {
-    "brand": "TP-Link",
-    "title": "TP-Link TAPO C225 Pan/Tilt AI Home Security Wi-Fi Camera",
-    "spec": "Smart Home",
-    "price": "R1 063",
-    "handle": "tp-link-tapo-c225-pan-tilt-ai-home-security-wi-fi-camera",
-    "url": "/products/tp-link-tapo-c225-pan-tilt-ai-home-security-wi-fi-camera",
-    "qty": 9,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/T/C/TC73_US_2.6_overview_01_normal_20230925211116u_175c.png"
+    "brand": "Xiaomi",
+    "title": "Xiaomi Smart Humidifier 2",
+    "spec": "Appliances",
+    "price": "R1 121",
+    "handle": "xiaomi-smart-humidifier-2",
+    "url": "/products/xiaomi-smart-humidifier-2",
+    "qty": 199,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/BHR6026EU_wr_01a.jpg"
    },
    {
     "brand": "Xiaomi",
