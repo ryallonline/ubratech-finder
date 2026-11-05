@@ -154,7 +154,7 @@
     "price": "R28 332",
     "handle": "asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
     "url": "https://ubratech.co.za/products/asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
-    "qty": 21,
+    "qty": 20,
     "image": "https://www.pinnacle.co.za/media/catalog/product/V/3/V3607VH_I71610B0X__1__7ef3.png"
    },
    {
@@ -258,7 +258,7 @@
     "price": "R9 368",
     "handle": "pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc-pcb-home-r516g-v1",
     "url": "/products/pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc-pcb-home-r516g-v1",
-    "qty": 54,
+    "qty": 56,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/04/PCB_HOME_R516G-V1_PCBuilder-AMD-Ryzen-5-3400G-HOME-MASTER-Windows-11-Desktop-PC_wr_01a.jpg"
    },
    {
@@ -586,7 +586,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 456,
+    "qty": 452,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -611,13 +611,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP Series 3 Pro 24\" FHD Monitor",
-    "spec": "24\" screen",
-    "price": "R3 214",
-    "handle": "hp-series-3-pro-24-fhd-monitor",
-    "url": "/products/hp-series-3-pro-24-fhd-monitor",
-    "qty": 29,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5C1AA_1ac3.jpg"
+    "title": "HP Series 3 Pro 322pv 21.45\" FHD 100Hz 5ms LED VA Monitor",
+    "spec": "45\" screen",
+    "price": "R3 160",
+    "handle": "hp-series-3-pro-322pv-21-45-fhd-100hz-5ms-led-va-monitor",
+    "url": "/products/hp-series-3-pro-322pv-21-45-fhd-100hz-5ms-led-va-monitor",
+    "qty": 50,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/H/P/HP_9U5A2AA_9a08.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -680,7 +680,7 @@
     "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 243,
+    "qty": 241,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -722,7 +722,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 456,
+    "qty": 452,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -736,14 +736,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi G24i 2026 24″ 200Hz Full HD 1080p IPS Gaming Monitor",
-    "spec": "24\" screen",
-    "price": "R2 660",
-    "handle": "xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
-    "url": "/products/xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
-    "qty": 203,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6364EU_Xiaomi-G24i-2026-24%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
+    "brand": "HP",
+    "title": "HP Series 5 Pro 27\" FHD 120Hz 5ms LED IPS Monitor",
+    "spec": "27\" screen",
+    "price": "R2 571",
+    "handle": "hp-series-5-pro-27-fhd-120hz-5ms-led-ips-monitor",
+    "url": "/products/hp-series-5-pro-27-fhd-120hz-5ms-led-ips-monitor",
+    "qty": 5,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/B/2/B28F5AS_4ff1.jpg"
    },
    {
     "brand": "Dell",
@@ -786,7 +786,7 @@
     "price": "R1 024",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "/products/hikvision-1000va-1kva-ups",
-    "qty": 275,
+    "qty": 270,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -840,7 +840,7 @@
     "price": "R1 024",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 275,
+    "qty": 270,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -1370,7 +1370,7 @@
     "price": "R120",
     "handle": "ugreen-4-in-1-usb-3-0-hub-high-speed-5gbps-data-transfer-grey",
     "url": "/products/ugreen-4-in-1-usb-3-0-hub-high-speed-5gbps-data-transfer-grey",
-    "qty": 131,
+    "qty": 147,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM219-25851-WR-01.jpg"
    },
    {
@@ -1444,7 +1444,7 @@
     "price": "R1 320",
     "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
     "url": "/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
-    "qty": 40,
+    "qty": 50,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg"
    },
    {
@@ -1619,28 +1619,28 @@
     "price": "R257",
     "handle": "ugreen-cm767-m-2-nvme-ssd-enclosure-10gbps",
     "url": "/products/ugreen-cm767-m-2-nvme-ssd-enclosure-10gbps",
-    "qty": 21,
+    "qty": 18,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM767-35267_UGreen-CM767-M.2-NVMe-SSD-Enclosure-10Gbps-%E2%80%93-Silver_wr_01a.jpg"
    },
    {
-    "brand": "Crucial",
-    "title": "Crucial E100 480GB PCIe Gen4 2280 NVMe M.2 SSD",
-    "spec": "Storage",
-    "price": "R2 136",
-    "handle": "crucial-e100-480gb-pcie-gen4-2280-nvme-m-2-ssd",
-    "url": "/products/crucial-e100-480gb-pcie-gen4-2280-nvme-m-2-ssd",
-    "qty": 213,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/CT480E100SSD8_wr_01.jpg"
+    "brand": "SanDisk",
+    "title": "SanDisk Optimus 5100 500GB NVMe SSD",
+    "spec": "500GB NVMe SSD",
+    "price": "R2 069",
+    "handle": "sandisk-optimus-5100-500gb-nvme-ssd",
+    "url": "/products/sandisk-optimus-5100-500gb-nvme-ssd",
+    "qty": 17,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__1__861a.png"
    },
    {
     "brand": "Patriot",
-    "title": "Patriot P220 2TB 2.5\" SSD",
-    "spec": "2.5\" screen",
+    "title": "Patriot P210 2TB 2.5 Inch SATAIII SSD",
+    "spec": "Storage",
     "price": "R4 910",
-    "handle": "patriot-p220-2tb-2-5-ssd",
-    "url": "/products/patriot-p220-2tb-2-5-ssd",
-    "qty": 10,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/04/P220S2TB25_wr_01.jpg"
+    "handle": "patriot-p210-2tb-2-5-inch-sataiii-ssd",
+    "url": "/products/patriot-p210-2tb-2-5-inch-sataiii-ssd",
+    "qty": 25,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/P210S2TB25_Patriot-P210-2TB-2.5-Inch-SATAIII-SSD_wr_01.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -1728,13 +1728,13 @@
    },
    {
     "brand": "Asus",
-    "title": "ASUS Prime Radeon RX 9070 GRE EVO OC Edition 12GB GDDR6 Graphics Card",
+    "title": "ASUS Dual Radeon RX 7600 EVO OC Edition 8GB GDDR6 Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R12 564",
-    "handle": "asus-prime-radeon-rx-9070-gre-evo-oc-edition-12gb-gddr6-graphics-card",
-    "url": "/products/asus-prime-radeon-rx-9070-gre-evo-oc-edition-12gb-gddr6-graphics-card",
-    "qty": 19,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/05/PRIME-RX9070GRE-O12G_ASUS-Prime-Radeon-RX-9070-GRE-EVO-OC-Edition-12GB-GDDR6-Graphics-Card_wr_01a.jpg"
+    "price": "R9 310",
+    "handle": "asus-dual-radeon-rx-7600-evo-oc-edition-8gb-gddr6-graphics-card",
+    "url": "/products/asus-dual-radeon-rx-7600-evo-oc-edition-8gb-gddr6-graphics-card",
+    "qty": 9,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/07/DUAL-RX7600-O8G-EVO_ASUS-Dual-Radeon-RX-7600-EVO-OC-Edition-8GB-GDDR6-Graphics-Card_wr_01a.jpg"
    },
    {
     "brand": "Asus",
@@ -1859,7 +1859,7 @@
     "price": "R10 240",
     "handle": "xiaomi-mijia-smart-air-purifier-with-humidification-pro",
     "url": "/products/xiaomi-mijia-smart-air-purifier-with-humidification-pro",
-    "qty": 25,
+    "qty": 12,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/BHR09D9EU_Xiaomi_Mijia_Smart_Air_Purifier_with_Hum_wr_01.png"
    }
   ],
@@ -1892,7 +1892,7 @@
     "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
     "url": "https://ubratech.co.za/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg",
-    "qty": 40
+    "qty": 50
    },
    {
     "brand": "Xiaomi",
@@ -1967,24 +1967,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi 3A Braided USB Type-C Cable (10cm, 60W)",
-    "spec": "Cables And Adapters",
+    "brand": "Gizzu",
+    "title": "GIZZU Voltage Protector 16A",
+    "spec": "Power Adapter",
     "price": "R135",
-    "handle": "xiaomi-3a-braided-usb-type-c-cable-10cm-60w",
-    "url": "/products/xiaomi-3a-braided-usb-type-c-cable-10cm-60w",
-    "qty": 204,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/BHR08W0GL-_Xiaomi-3A-Braided-USB-Type-C-Cable-10cm-60W_wr01.jpeg"
+    "handle": "gizzu-voltage-protector-16a",
+    "url": "/products/gizzu-voltage-protector-16a",
+    "qty": 220,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/11/GSP16A_wr_01a.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell 65W USB-C AC Adapter",
-    "spec": "Cables And Adapters",
-    "price": "R433",
-    "handle": "dell-65w-usb-c-ac-adapter",
-    "url": "/products/dell-65w-usb-c-ac-adapter",
-    "qty": 99,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__14__995f.png"
+    "brand": "Targus",
+    "title": "Targus Wireless Presenter With Laser Pointer, lear & intuitive… (AMP13EU)",
+    "spec": "Accessories",
+    "price": "R427",
+    "handle": "targus-wireless-presenter-with-laser-pointer-lear-intuitive-layout-2-4-ghz-wireless-technology-operates-up-to-15-metres-away-usb-port-required-true-plug-and-play-device-no-drivers-required-pc-mac-and",
+    "url": "/products/targus-wireless-presenter-with-laser-pointer-lear-intuitive-layout-2-4-ghz-wireless-technology-operates-up-to-15-metres-away-usb-port-required-true-plug-and-play-device-no-drivers-required-pc-mac-and",
+    "qty": 74,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/AMP13EU_default.jpg"
    },
    {
     "brand": "HP",
@@ -2030,13 +2030,13 @@
    },
    {
     "brand": "Redragon",
-    "title": "Redragon TRUNDLE RGB Wireless Mechanical Keyboard - White",
+    "title": "Redragon K673 UCAL 75% Magnetic Ultramag Switch Wired Keyboard - Black",
     "spec": "Keyboards",
-    "price": "R737",
-    "handle": "redragon-trundle-rgb-wireless-mechanical-keyboard-white",
-    "url": "/products/redragon-trundle-rgb-wireless-mechanical-keyboard-white",
+    "price": "R738",
+    "handle": "redragon-k673-ucal-75-magnetic-ultramag-switch-wired-keyboard-black",
+    "url": "/products/redragon-k673-ucal-75-magnetic-ultramag-switch-wired-keyboard-black",
     "qty": 99,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/RD-K668WBO-WL_Redragon_TRUNDLE_RGB_Wireless_Mechanical_wr_01.png"
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/RD-K673WB-RGB-M_Redragon-K673-UCAL-75-Magnetic-Ultramag-Switch-Wired-Keyboard-Black_wr_01a.jpg"
    },
    {
     "brand": "Keychron",
@@ -2069,7 +2069,7 @@
     "price": "R2 353",
     "handle": "hikvision-4mp-fixed-dome-network-camera",
     "url": "/products/hikvision-4mp-fixed-dome-network-camera",
-    "qty": 11,
+    "qty": 71,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
    },
    {
@@ -2153,7 +2153,7 @@
     "price": "R2 353",
     "handle": "hikvision-4mp-fixed-dome-network-camera",
     "url": "/products/hikvision-4mp-fixed-dome-network-camera",
-    "qty": 11,
+    "qty": 71,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
    },
    {
