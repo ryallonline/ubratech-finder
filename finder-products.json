@@ -1833,14 +1833,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/QBH4312GL_Xiaomi-Smart-Temperature-and-Humidity-Monitor-3-Mini-White_wr_01a.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi Smart Humidifier 2",
-    "spec": "Appliances",
-    "price": "R1 121",
-    "handle": "xiaomi-smart-humidifier-2",
-    "url": "/products/xiaomi-smart-humidifier-2",
-    "qty": 199,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/BHR6026EU_wr_01a.jpg"
+    "brand": "TP-Link",
+    "title": "TP-Link TAPO C225 Pan/Tilt AI Home Security Wi-Fi Camera",
+    "spec": "Smart Home",
+    "price": "R1 063",
+    "handle": "tp-link-tapo-c225-pan-tilt-ai-home-security-wi-fi-camera",
+    "url": "/products/tp-link-tapo-c225-pan-tilt-ai-home-security-wi-fi-camera",
+    "qty": 9,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/T/C/TC73_US_2.6_overview_01_normal_20230925211116u_175c.png"
    },
    {
     "brand": "Xiaomi",
@@ -2121,7 +2121,7 @@
     "price": "R3 126",
     "handle": "hikvision-4mp-acusense-fixed-mini-dome-ip-camera",
     "url": "/products/hikvision-4mp-acusense-fixed-mini-dome-ip-camera",
-    "qty": 40,
+    "qty": 41,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2546G2_IS2.8MM__1__a2ef.png"
    },
    {
@@ -2153,18 +2153,18 @@
     "price": "R2 353",
     "handle": "hikvision-4mp-fixed-dome-network-camera",
     "url": "/products/hikvision-4mp-fixed-dome-network-camera",
-    "qty": 71,
+    "qty": 11,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Smart Hybrid ColorVu Fixed Bullet IP Camera",
+    "title": "Hikvision 4MP ColorVu Smart Hybrid Light Fixed Turret Camera",
     "spec": "4MP",
-    "price": "R3 170",
-    "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-bullet-ip-camera",
-    "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-bullet-ip-camera",
-    "qty": 8,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T47G2H_LI_image_4_17d1.png"
+    "price": "R3 200",
+    "handle": "hikvision-4mp-colorvu-smart-hybrid-light-fixed-turret-camera",
+    "url": "/products/hikvision-4mp-colorvu-smart-hybrid-light-fixed-turret-camera",
+    "qty": 3,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2347G2H_LI_2.8MM_1_1a0e.png"
    },
    {
     "brand": "Hikvision",
