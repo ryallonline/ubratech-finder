@@ -90,7 +90,7 @@
     "price": "R19 601",
     "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
     "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "qty": 88,
+    "qty": 31,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
    },
    {
@@ -169,23 +169,13 @@
    },
    {
     "brand": "Asus",
-    "title": "Asus Vivobook 14 Flip 14\" OLED Touch Core-U7 16GB 1TB Win 11 Home Notebook",
+    "title": "Asus Zenbook 14 UX3405CA 14\" 3K OLED 120Hz Core U9-285H 16GB 1TB Win 11 Pro Notebook",
     "spec": "14\" screen · 16GB RAM",
-    "price": "R22 665",
-    "handle": "asus-vivobook-14-flip-14-oled-touch-core-u7-16gb-1tb-win-11-home-notebook",
-    "url": "/products/asus-vivobook-14-flip-14-oled-touch-core-u7-16gb-1tb-win-11-home-notebook",
-    "qty": 3,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/T/P/TP3407SA_OU71610G1W_66cc.jpg"
-   },
-   {
-    "brand": "Dell",
-    "title": "Dell Alienware 15 Aurora 15.3\" Core-5-210H 16GB 512GB SSD RTX 3050 Win 11 Home Notebook",
-    "spec": "Core 5 · 15.3\" screen · 16GB RAM",
-    "price": "R28 997",
-    "handle": "dell-alienware-15-aurora-15-3-core-5-210h-16gb-512gb-ssd-rtx-3050-win-11-home-notebook",
-    "url": "/products/dell-alienware-15-aurora-15-3-core-5-210h-16gb-512gb-ssd-rtx-3050-win-11-home-notebook",
-    "qty": 3,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__6__868d.png"
+    "price": "R37 776",
+    "handle": "asus-zenbook-14-ux3405ca-14-3k-oled-120hz-core-u9-285h-16gb-1tb-win-11-pro-notebook",
+    "url": "/products/asus-zenbook-14-ux3405ca-14-3k-oled-120hz-core-u9-285h-16gb-1tb-win-11-pro-notebook",
+    "qty": 48,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_14_UX3405CA_Product_photo_3B_Ponder_Blue_03_62bf.jpg"
    },
    {
     "brand": "Asus",
@@ -258,7 +248,7 @@
     "price": "R9 368",
     "handle": "pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc-pcb-home-r516g-v1",
     "url": "/products/pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc-pcb-home-r516g-v1",
-    "qty": 56,
+    "qty": 61,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/04/PCB_HOME_R516G-V1_PCBuilder-AMD-Ryzen-5-3400G-HOME-MASTER-Windows-11-Desktop-PC_wr_01a.jpg"
    },
    {
@@ -586,7 +576,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 450,
+    "qty": 442,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -626,7 +616,7 @@
     "price": "R5 917",
     "handle": "xiaomi-a27ui-27-60hz-4k-ips-office-monitor",
     "url": "/products/xiaomi-a27ui-27-60hz-4k-ips-office-monitor",
-    "qty": 85,
+    "qty": 84,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6221EU_Xiaomi-A27Ui-27-inch-60Hz-4K-IPS-Office-Monitor_wr_01b.jpg"
    }
   ],
@@ -680,28 +670,28 @@
     "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 216,
+    "qty": 194,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP Series 3 Pro 322pv 21.45\" FHD 100Hz 5ms LED VA Monitor",
-    "spec": "45\" screen",
-    "price": "R3 160",
-    "handle": "hp-series-3-pro-322pv-21-45-fhd-100hz-5ms-led-va-monitor",
-    "url": "/products/hp-series-3-pro-322pv-21-45-fhd-100hz-5ms-led-va-monitor",
-    "qty": 50,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/H/P/HP_9U5A2AA_9a08.jpg"
+    "brand": "MSI",
+    "title": "MSI MAG 275F E20 27\" FHD 200Hz Rapid IPS Gaming Monitor",
+    "spec": "27\" screen",
+    "price": "R3 249",
+    "handle": "msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
+    "url": "/products/msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
+    "qty": 20,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-275F-E20_MSI-MAG-275F-E20-27inch-FHD-200Hz-Gaming-Montor-wr01.jpeg"
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi G34WQi 34\" 1440p UltraWide VA Curved Gaming Monitor (180Hz, 1ms)",
-    "spec": "34\" screen",
-    "price": "R6 898",
-    "handle": "xiaomi-g34wqi-34-1440p-ultrawide-va-curved-gaming-monitor-180hz-1ms",
-    "url": "/products/xiaomi-g34wqi-34-1440p-ultrawide-va-curved-gaming-monitor-180hz-1ms",
-    "qty": 13,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/ELA5454EU_Xiaomi-G34WQi-34-inch-1440p-UltraWide-VA-Curved-Gaming-Monitor_wr_01b.jpg"
+    "title": "Xiaomi Curved Gaming Monitor G34WQi 2026",
+    "spec": "Monitors And Displays",
+    "price": "R6 899",
+    "handle": "xiaomi-curved-gaming-monitor-g34wqi-2026",
+    "url": "/products/xiaomi-curved-gaming-monitor-g34wqi-2026",
+    "qty": 135,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/ELA6562EU_Xiaomi_Curved_Gaming_Monitor_G34WQi_2026_wr_03.png"
    },
    {
     "brand": "Asus",
@@ -722,7 +712,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 450,
+    "qty": 442,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -860,7 +850,7 @@
     "price": "R2 366",
     "handle": "eaton-5e-1200va-gen2-ups",
     "url": "/products/eaton-5e-1200va-gen2-ups",
-    "qty": 37,
+    "qty": 36,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1200UI_66a3.png"
    },
    {
@@ -924,7 +914,7 @@
     "price": "R10 916",
     "handle": "apc-smart-line-interative-1500va-1-5kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
     "url": "/products/apc-smart-line-interative-1500va-1-5kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
-    "qty": 4,
+    "qty": 3,
     "image": "https://s3.amazonaws.com/tarsus.co.za/SMC1500IC_default.jpg"
    },
    {
@@ -966,7 +956,7 @@
     "price": "R10 916",
     "handle": "apc-smart-line-interative-1500va-1-5kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
     "url": "/products/apc-smart-line-interative-1500va-1-5kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
-    "qty": 4,
+    "qty": 3,
     "image": "https://s3.amazonaws.com/tarsus.co.za/SMC1500IC_default.jpg"
    },
    {
@@ -1257,7 +1247,7 @@
     "price": "R136",
     "handle": "port-connect-usb-type-c-to-4-port-usb-a-3-0-2-0-hub",
     "url": "/products/port-connect-usb-type-c-to-4-port-usb-a-3-0-2-0-hub",
-    "qty": 108,
+    "qty": 104,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/900160_Port-Connect-USB-Type-C-to-4-port-USB-A-3.0-2.0-Hub_wr_01a.jpg"
    },
    {
@@ -1271,24 +1261,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/WINX_WX-HB111_Connect-Pro-6-in-1-Type-C-Hub-45-0116-Edit1500x1500-96DPI.jpg"
    },
    {
-    "brand": "Targus",
-    "title": "Targus - USB-C Multi-Function DisplayPort Alt Triple Video with 85W… (DOCK430EUZ)",
+    "brand": "Port",
+    "title": "Port Connect Multi-port USB Type-C 2x4K Office Docking Station",
     "spec": "Docking Station",
-    "price": "R2 267",
-    "handle": "targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
-    "url": "/products/targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
-    "qty": 46,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK430EUZ_default.jpg"
+    "price": "R2 769",
+    "handle": "port-connect-multi-port-usb-type-c-2x4k-office-docking-station",
+    "url": "/products/port-connect-multi-port-usb-type-c-2x4k-office-docking-station",
+    "qty": 4,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/901908V2EU_Port-Connect-Multi-port-USB-Type-C-2x4K-Office-Docking-Station-Black_wr_01a.jpg"
    },
    {
-    "brand": "Targus",
-    "title": "Targus - USB-C Universal Quad 4K Docking Station with 100W Power…",
+    "brand": "Dell",
+    "title": "Dell Pro Thunderbolt 5 Smart Dock SD25TB5",
     "spec": "Docking Station",
-    "price": "R7 455",
-    "handle": "targus-usb-c-universal-quad-4k-docking-station-with-100w-power-delivery-supports-four-4k-displays-via-four-displayport-3840-x-2160-p60-or-four-hdmi-3840-x-2160-p50-ports-thunderbolt-3-compatible",
-    "url": "/products/targus-usb-c-universal-quad-4k-docking-station-with-100w-power-delivery-supports-four-4k-displays-via-four-displayport-3840-x-2160-p60-or-four-hdmi-3840-x-2160-p50-ports-thunderbolt-3-compatible",
-    "qty": 5,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK570EUZ_default.jpg"
+    "price": "R8 461",
+    "handle": "dell-pro-thunderbolt-5-smart-dock-sd25tb5",
+    "url": "/products/dell-pro-thunderbolt-5-smart-dock-sd25tb5",
+    "qty": 4,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BRFN_default.png"
    }
   ],
   "mac": [
@@ -1303,14 +1293,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900140_0708.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 7-in-1 USB-C Mobile Docking Station",
+    "brand": "Port",
+    "title": "PORT Mobile docking station 1 X 4K USB-C 9 devices 100W",
     "spec": "Docking Station",
-    "price": "R1 472",
-    "handle": "dell-pro-7-in-1-usb-c-mobile-docking-station",
-    "url": "/products/dell-pro-7-in-1-usb-c-mobile-docking-station",
-    "qty": 53,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__23__d7c1.png"
+    "price": "R1 478",
+    "handle": "port-mobile-docking-station-1-x-4k-usb-c-9-devices-100w",
+    "url": "/products/port-mobile-docking-station-1-x-4k-usb-c-9-devices-100w",
+    "qty": 5,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901906V2_PORT_Mobile_docking_station_1_X_4K_USB-C_wr_01.png"
    },
    {
     "brand": "Port2",
@@ -1323,14 +1313,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901904V2EU_PORT2_x_4K_USB-C_desktop_docking_station_wr_03.png"
    },
    {
-    "brand": "Targus",
-    "title": "Targus - USB-C Universal Quad 4K Docking Station with 100W Power…",
+    "brand": "Dell",
+    "title": "Dell Pro Thunderbolt 5 Smart Dock SD25TB5",
     "spec": "Docking Station",
-    "price": "R7 455",
-    "handle": "targus-usb-c-universal-quad-4k-docking-station-with-100w-power-delivery-supports-four-4k-displays-via-four-displayport-3840-x-2160-p60-or-four-hdmi-3840-x-2160-p50-ports-thunderbolt-3-compatible",
-    "url": "/products/targus-usb-c-universal-quad-4k-docking-station-with-100w-power-delivery-supports-four-4k-displays-via-four-displayport-3840-x-2160-p60-or-four-hdmi-3840-x-2160-p50-ports-thunderbolt-3-compatible",
-    "qty": 5,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK570EUZ_default.jpg"
+    "price": "R8 461",
+    "handle": "dell-pro-thunderbolt-5-smart-dock-sd25tb5",
+    "url": "/products/dell-pro-thunderbolt-5-smart-dock-sd25tb5",
+    "qty": 4,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BRFN_default.png"
    }
   ],
   "legacy": [
@@ -1409,14 +1399,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/C01A9AA_default.png"
    },
    {
-    "brand": "Logitech",
-    "title": "Logitech Zone Vibe 100 Bluetooth Headset Graphite. Bluetooth 5.2… (981-001213)",
+    "brand": "Winx",
+    "title": "WINX CALL Elite AI Noise Cancelling Wireless Headset",
     "spec": "Headsets",
-    "price": "R1 313",
-    "handle": "logitech-zone-vibe-100-bluetooth-headset-graphite-bluetooth-5-2-wireless-headset-with-40-mm-drivers-for-immersive-sound-dual-beamforming-mics-with-dsp-for-clear-voice-pickup-lightweight-comfortable",
-    "url": "/products/logitech-zone-vibe-100-bluetooth-headset-graphite-bluetooth-5-2-wireless-headset-with-40-mm-drivers-for-immersive-sound-dual-beamforming-mics-with-dsp-for-clear-voice-pickup-lightweight-comfortable",
-    "qty": 17,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/981-001213_default.jpg"
+    "price": "R1 320",
+    "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
+    "url": "/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
+    "qty": 50,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg"
    },
    {
     "brand": "HP",
@@ -1590,7 +1580,7 @@
     "price": "R257",
     "handle": "ugreen-cm767-m-2-nvme-ssd-enclosure-10gbps",
     "url": "/products/ugreen-cm767-m-2-nvme-ssd-enclosure-10gbps",
-    "qty": 18,
+    "qty": 17,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM767-35267_UGreen-CM767-M.2-NVMe-SSD-Enclosure-10Gbps-%E2%80%93-Silver_wr_01a.jpg"
    },
    {
@@ -1633,7 +1623,7 @@
     "handle": "hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/HSC516U48Z1-16G_Hiksemi-Hiker-16GB-DDR5-4800MHz-Desktop-Memory_wr_01a.jpg",
-    "qty": 90
+    "qty": 115
    },
    {
     "brand": "GeIL",
@@ -1737,7 +1727,7 @@
     "handle": "asus-prime-750w-80-plus-bronze-atx-non-modular-power-supply",
     "url": "https://ubratech.co.za/products/asus-prime-750w-80-plus-bronze-atx-non-modular-power-supply",
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/PRIME-750B-BLACK_Asus-PRIME-750W-80-PLUS-Bronze-ATX-Non-modular-Power-Supply_wr_01a.jpg",
-    "qty": 60
+    "qty": 59
    },
    {
     "brand": "Antec",
@@ -1805,13 +1795,13 @@
    },
    {
     "brand": "TP-Link",
-    "title": "TP-Link TAPO C225 Pan/Tilt AI Home Security Wi-Fi Camera",
+    "title": "TP-Link TAPO Smart Sensor Starter Kit",
     "spec": "Smart Home",
-    "price": "R1 063",
-    "handle": "tp-link-tapo-c225-pan-tilt-ai-home-security-wi-fi-camera",
-    "url": "/products/tp-link-tapo-c225-pan-tilt-ai-home-security-wi-fi-camera",
+    "price": "R1 044",
+    "handle": "tp-link-tapo-smart-sensor-starter-kit",
+    "url": "/products/tp-link-tapo-smart-sensor-starter-kit",
     "qty": 9,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/T/C/TC73_US_2.6_overview_01_normal_20230925211116u_175c.png"
+    "image": "https://www.pinnacle.co.za/media/catalog/product/T/A/TAPO_T30_KIT_1628.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -1938,24 +1928,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi 3A Braided USB Type-C Cable (10cm, 60W)",
+    "brand": "Gizzu",
+    "title": "Gizzu 4-in-1 Type-C to HDMI/VGA/USB3.0 Hub",
     "spec": "Cables And Adapters",
-    "price": "R135",
-    "handle": "xiaomi-3a-braided-usb-type-c-cable-10cm-60w",
-    "url": "/products/xiaomi-3a-braided-usb-type-c-cable-10cm-60w",
-    "qty": 204,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/BHR08W0GL-_Xiaomi-3A-Braided-USB-Type-C-Cable-10cm-60W_wr01.jpeg"
+    "price": "R121",
+    "handle": "gizzu-4-in-1-type-c-to-hdmi-vga-usb3-0-hub",
+    "url": "/products/gizzu-4-in-1-type-c-to-hdmi-vga-usb3-0-hub",
+    "qty": 156,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/GAPCHVUPD_wr_01a.jpg"
    },
    {
-    "brand": "Targus",
-    "title": "Targus Wireless Presenter With Laser Pointer, lear & intuitive… (AMP13EU)",
+    "brand": "HP",
+    "title": "HP Wired 320MK combo",
     "spec": "Accessories",
-    "price": "R427",
-    "handle": "targus-wireless-presenter-with-laser-pointer-lear-intuitive-layout-2-4-ghz-wireless-technology-operates-up-to-15-metres-away-usb-port-required-true-plug-and-play-device-no-drivers-required-pc-mac-and",
-    "url": "/products/targus-wireless-presenter-with-laser-pointer-lear-intuitive-layout-2-4-ghz-wireless-technology-operates-up-to-15-metres-away-usb-port-required-true-plug-and-play-device-no-drivers-required-pc-mac-and",
-    "qty": 74,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/AMP13EU_default.jpg"
+    "price": "R414",
+    "handle": "hp-wired-320mk-combo",
+    "url": "/products/hp-wired-320mk-combo",
+    "qty": 14,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/9SR36UT_default.png"
    },
    {
     "brand": "HP",
@@ -1973,11 +1963,21 @@
     "brand": "Logitech",
     "title": "Logitech MK540 Advanced Wireless Combo",
     "spec": "Keyboard & mouse · palm rest",
-    "price": "R821",
+    "price": "R842",
     "handle": "logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "url": "https://ubratech.co.za/products/logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "image": "https://s3.amazonaws.com/tarsus.co.za/920-008685_default.jpg",
     "qty": 38
+   },
+   {
+    "brand": "Logitech",
+    "title": "Logitech C920s Pro Full-HD Webcam",
+    "spec": "Sharp video for calls",
+    "price": "R1 636",
+    "handle": "logitech-c920s-pro-full-hd-usb-webcam",
+    "url": "https://ubratech.co.za/products/logitech-c920s-pro-full-hd-usb-webcam",
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/960_001252_9ebb.jpg",
+    "qty": 32
    },
    {
     "brand": "Redragon",
@@ -1991,13 +1991,13 @@
    },
    {
     "brand": "Port",
-    "title": "Port Pure MAC Wireless Shadow Mouse",
+    "title": "Port Pure MAC Wireless Silver Mouse",
     "spec": "Wired Mouse",
     "price": "R371",
-    "handle": "port-pure-mac-wireless-shadow-mouse",
-    "url": "/products/port-pure-mac-wireless-shadow-mouse",
-    "qty": 7,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__10__3c08.png"
+    "handle": "port-pure-mac-wireless-silver-mouse",
+    "url": "/products/port-pure-mac-wireless-silver-mouse",
+    "qty": 99,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_6e09.png"
    },
    {
     "brand": "Redragon",
@@ -2030,7 +2030,7 @@
     "price": "R1 207",
     "handle": "hikvision-2mp-fixed-bullet-ip-camera",
     "url": "/products/hikvision-2mp-fixed-bullet-ip-camera",
-    "qty": 67,
+    "qty": 66,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD1023G0E_I_4MM_1_7247.png"
    },
    {
@@ -2072,7 +2072,7 @@
     "price": "R1 207",
     "handle": "hikvision-2mp-fixed-bullet-ip-camera",
     "url": "/products/hikvision-2mp-fixed-bullet-ip-camera",
-    "qty": 67,
+    "qty": 66,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD1023G0E_I_4MM_1_7247.png"
    },
    {
@@ -2156,7 +2156,7 @@
     "price": "R235",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 5822,
+    "qty": 5798,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
@@ -2198,7 +2198,7 @@
     "price": "R235",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 5822,
+    "qty": 5798,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
@@ -2240,7 +2240,7 @@
     "price": "R235",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 5822,
+    "qty": 5798,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
