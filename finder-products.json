@@ -70,7 +70,7 @@
     "price": "R13 347",
     "handle": "asus-vivobook-15-x1504vap-15-6-core-i5-8gb-512gb-win-11-home-notebook",
     "url": "/products/asus-vivobook-15-x1504vap-15-6-core-i5-8gb-512gb-win-11-home-notebook",
-    "qty": 243,
+    "qty": 123,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__72__0802.png"
    },
    {
@@ -84,14 +84,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.004_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 15 Essential PV15250 Laptop — Core i5 · 8GB (PV15250_RPLU_001_P8L_HOM)",
-    "spec": "Core i5",
-    "price": "R19 853",
-    "handle": "dell-pro-15-essential-pv15250-intel-core-i5-1334u-rrpl-p-u15-8-layerpcb-10cores-up-to-4-6-ghz-15-6-fhd-120hz-wva-ips-anti-glare-250-nit-8-gb-1-x-8-gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd",
-    "url": "/products/dell-pro-15-essential-pv15250-intel-core-i5-1334u-rrpl-p-u15-8-layerpcb-10cores-up-to-4-6-ghz-15-6-fhd-120hz-wva-ips-anti-glare-250-nit-8-gb-1-x-8-gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_001_P8L_HOM_default.jpg"
+    "brand": "HP",
+    "title": "HP ProBook 4 G1iR 14' Core-5 16GB 512GB Win 11 Pro Notebook",
+    "spec": "Core 5 · 16GB RAM",
+    "price": "R19 601",
+    "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
+    "qty": 88,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
    },
    {
     "brand": "HP",
@@ -127,13 +127,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP Pro x360 13.3\" Ryzen-7 16GB 1TB Win 11 Pro Silver Notebook",
-    "spec": "Ryzen 7 · 13.3\" screen · 16GB RAM",
-    "price": "R37 285",
-    "handle": "hp-pro-x360-13-3-ryzen-7-16gb-1tb-win-11-pro-silver-notebook",
-    "url": "/products/hp-pro-x360-13-3-ryzen-7-16gb-1tb-win-11-pro-silver-notebook",
-    "qty": 25,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/968K3ET__1__1391.jpg"
+    "title": "HP EliteBook 6 G1i 16\" AI Core U5-225U 16GB 512GB LTE Win 11 Pro Notebook",
+    "spec": "16\" screen · 16GB RAM",
+    "price": "R37 085",
+    "handle": "hp-elitebook-6-g1i-16-ai-core-u5-225u-16gb-512gb-lte-win-11-pro-notebook",
+    "url": "/products/hp-elitebook-6-g1i-16-ai-core-u5-225u-16gb-512gb-lte-win-11-pro-notebook",
+    "qty": 33,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/K/CK8H0EA_ca75.jpg"
    },
    {
     "brand": "HP",
@@ -154,7 +154,7 @@
     "price": "R28 332",
     "handle": "asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
     "url": "https://ubratech.co.za/products/asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
-    "qty": 20,
+    "qty": 18,
     "image": "https://www.pinnacle.co.za/media/catalog/product/V/3/V3607VH_I71610B0X__1__7ef3.png"
    },
    {
@@ -586,7 +586,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 452,
+    "qty": 450,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -680,7 +680,7 @@
     "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 239,
+    "qty": 216,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -722,7 +722,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 452,
+    "qty": 450,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -732,7 +732,7 @@
     "price": "R1 486",
     "handle": "hikvision-18-5-borderless-fhd-monitor",
     "url": "/products/hikvision-18-5-borderless-fhd-monitor",
-    "qty": 15,
+    "qty": 58,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
@@ -776,7 +776,7 @@
     "price": "R442",
     "handle": "lalela-r1818-wi-fi-ups-for-router-and-ont-48-8wh-6-8-hour-runtime",
     "url": "/products/lalela-r1818-wi-fi-ups-for-router-and-ont-48-8wh-6-8-hour-runtime",
-    "qty": 12,
+    "qty": 62,
     "image": "https://s3.amazonaws.com/tarsus.co.za/LAL-R1818_default.jpg"
    },
    {
@@ -822,13 +822,13 @@
    },
    {
     "brand": "UPS",
-    "title": "Acconet 1200VA/600W Offline UPS",
-    "spec": "5-10 Minutes Run Time @ 600W Load.",
-    "price": "R1 581",
-    "handle": "ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
-    "url": "/pages/ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
+    "title": "Acconet 2000VA/1200W Offline UPS",
+    "spec": "5-10 Minutes Run Time @ 1200W Load.",
+    "price": "R2 164",
+    "handle": "ups-acconet-2000va-1200w-offline-ups-ac-ups-2000",
+    "url": "/pages/ups-acconet-2000va-1200w-offline-ups-ac-ups-2000",
     "qty": 9,
-    "image": "https://miro.co.za/img/p/6/2/0/2/6202.jpg",
+    "image": "https://miro.co.za/img/p/6/2/0/6/6206.jpg",
     "enquiry": true
    }
   ],
@@ -850,7 +850,7 @@
     "price": "R1 310",
     "handle": "eaton-5e-700va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-700va-gen2-usb-iec-ups",
-    "qty": 42,
+    "qty": 37,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E700UI_33ac.png"
    },
    {
@@ -883,6 +883,17 @@
     "qty": 9,
     "image": "https://miro.co.za/img/p/6/2/0/2/6202.jpg",
     "enquiry": true
+   },
+   {
+    "brand": "UPS",
+    "title": "Acconet 2000VA/1200W Offline UPS",
+    "spec": "5-10 Minutes Run Time @ 1200W Load.",
+    "price": "R2 164",
+    "handle": "ups-acconet-2000va-1200w-offline-ups-ac-ups-2000",
+    "url": "/pages/ups-acconet-2000va-1200w-offline-ups-ac-ups-2000",
+    "qty": 9,
+    "image": "https://miro.co.za/img/p/6/2/0/6/6206.jpg",
+    "enquiry": true
    }
   ],
   "multi": [
@@ -913,7 +924,7 @@
     "price": "R10 916",
     "handle": "apc-smart-line-interative-1500va-1-5kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
     "url": "/products/apc-smart-line-interative-1500va-1-5kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
-    "qty": 5,
+    "qty": 4,
     "image": "https://s3.amazonaws.com/tarsus.co.za/SMC1500IC_default.jpg"
    },
    {
@@ -955,7 +966,7 @@
     "price": "R10 916",
     "handle": "apc-smart-line-interative-1500va-1-5kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
     "url": "/products/apc-smart-line-interative-1500va-1-5kva-900w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
-    "qty": 5,
+    "qty": 4,
     "image": "https://s3.amazonaws.com/tarsus.co.za/SMC1500IC_default.jpg"
    },
    {
@@ -1260,14 +1271,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/WINX_WX-HB111_Connect-Pro-6-in-1-Type-C-Hub-45-0116-Edit1500x1500-96DPI.jpg"
    },
    {
-    "brand": "Port",
-    "title": "PORT Mobile docking station 1 X 4K USB-C 9 devices 100W",
+    "brand": "Targus",
+    "title": "Targus - USB-C Multi-Function DisplayPort Alt Triple Video with 85W… (DOCK430EUZ)",
     "spec": "Docking Station",
-    "price": "R1 478",
-    "handle": "port-mobile-docking-station-1-x-4k-usb-c-9-devices-100w",
-    "url": "/products/port-mobile-docking-station-1-x-4k-usb-c-9-devices-100w",
-    "qty": 5,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901906V2_PORT_Mobile_docking_station_1_X_4K_USB-C_wr_01.png"
+    "price": "R2 267",
+    "handle": "targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
+    "url": "/products/targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
+    "qty": 46,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK430EUZ_default.jpg"
    },
    {
     "brand": "Targus",
@@ -1302,14 +1313,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__23__d7c1.png"
    },
    {
-    "brand": "Port",
-    "title": "PORT Office docking station 3 X 4 USB-C 11 devices 100W",
+    "brand": "Port2",
+    "title": "PORT2 x 4K USB-C desktop docking station 11 peripherals 96W",
     "spec": "Docking Station",
-    "price": "R3 535",
-    "handle": "port-office-docking-station-3-x-4-usb-c-11-devices-100w",
-    "url": "/products/port-office-docking-station-3-x-4-usb-c-11-devices-100w",
-    "qty": 4,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901910V2EU_PORT_Office_docking_station_3_X_4_USB-C__wr_01.png"
+    "price": "R4 154",
+    "handle": "port2-x-4k-usb-c-desktop-docking-station-11-peripherals-96w",
+    "url": "/products/port2-x-4k-usb-c-desktop-docking-station-11-peripherals-96w",
+    "qty": 6,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901904V2EU_PORT2_x_4K_USB-C_desktop_docking_station_wr_03.png"
    },
    {
     "brand": "Targus",
@@ -1398,14 +1409,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/C01A9AA_default.png"
    },
    {
-    "brand": "Winx",
-    "title": "WINX CALL Elite AI Noise Cancelling Wireless Headset",
+    "brand": "Logitech",
+    "title": "Logitech Zone Vibe 100 Bluetooth Headset Graphite. Bluetooth 5.2… (981-001213)",
     "spec": "Headsets",
-    "price": "R1 320",
-    "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
-    "url": "/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
-    "qty": 50,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg"
+    "price": "R1 313",
+    "handle": "logitech-zone-vibe-100-bluetooth-headset-graphite-bluetooth-5-2-wireless-headset-with-40-mm-drivers-for-immersive-sound-dual-beamforming-mics-with-dsp-for-clear-voice-pickup-lightweight-comfortable",
+    "url": "/products/logitech-zone-vibe-100-bluetooth-headset-graphite-bluetooth-5-2-wireless-headset-with-40-mm-drivers-for-immersive-sound-dual-beamforming-mics-with-dsp-for-clear-voice-pickup-lightweight-comfortable",
+    "qty": 17,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/981-001213_default.jpg"
    },
    {
     "brand": "HP",
@@ -1560,7 +1571,7 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 20
+    "qty": 22
    },
    {
     "brand": "Seagate",
@@ -1804,23 +1815,23 @@
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi Smart Camera C500 Dual (4MP, 360° PTZ, AI Detection, Night Vision)",
-    "spec": "4MP",
-    "price": "R2 045",
-    "handle": "xiaomi-smart-camera-c500-dual-4mp-360-ptz-ai-detection-night-vision",
-    "url": "/products/xiaomi-smart-camera-c500-dual-4mp-360-ptz-ai-detection-night-vision",
-    "qty": 35,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/Xiaomi-Smart-Camera-C500-Dual-Front.jpg"
+    "title": "Xiaomi Smart Standing Fan 2",
+    "spec": "Appliances",
+    "price": "R1 857",
+    "handle": "xiaomi-smart-standing-fan-2",
+    "url": "/products/xiaomi-smart-standing-fan-2",
+    "qty": 196,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2021/12/BHR4828GL_wr_01.jpg"
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi Mijia Smart Air Purifier with Humidification Pro",
+    "title": "Xiaomi Smart Double Stack Air Fryer 12L",
     "spec": "Appliances",
-    "price": "R10 240",
-    "handle": "xiaomi-mijia-smart-air-purifier-with-humidification-pro",
-    "url": "/products/xiaomi-mijia-smart-air-purifier-with-humidification-pro",
-    "qty": 12,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/BHR09D9EU_Xiaomi_Mijia_Smart_Air_Purifier_with_Hum_wr_01.png"
+    "price": "R4 658",
+    "handle": "xiaomi-smart-double-stack-air-fryer-12l",
+    "url": "/products/xiaomi-smart-double-stack-air-fryer-12l",
+    "qty": 72,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/BHR0883EU_Xiaomi-Smart-Double-Stack-Air-Fryer-12L_wr_01a.jpg"
    }
   ],
   "audio": [
@@ -1962,7 +1973,7 @@
     "brand": "Logitech",
     "title": "Logitech MK540 Advanced Wireless Combo",
     "spec": "Keyboard & mouse · palm rest",
-    "price": "R842",
+    "price": "R821",
     "handle": "logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "url": "https://ubratech.co.za/products/logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "image": "https://s3.amazonaws.com/tarsus.co.za/920-008685_default.jpg",
@@ -1980,23 +1991,23 @@
    },
    {
     "brand": "Port",
-    "title": "Port Pure MAC Wireless Silver Mouse",
+    "title": "Port Pure MAC Wireless Shadow Mouse",
     "spec": "Wired Mouse",
     "price": "R371",
-    "handle": "port-pure-mac-wireless-silver-mouse",
-    "url": "/products/port-pure-mac-wireless-silver-mouse",
-    "qty": 99,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_6e09.png"
+    "handle": "port-pure-mac-wireless-shadow-mouse",
+    "url": "/products/port-pure-mac-wireless-shadow-mouse",
+    "qty": 7,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__10__3c08.png"
    },
    {
     "brand": "Redragon",
-    "title": "Redragon K673 UCAL 75% Magnetic Ultramag Switch Wired Keyboard - Black",
+    "title": "Redragon EISA 100 Retro RGB Wireless Mechanical Keyboard - Cream/Grey",
     "spec": "Keyboards",
-    "price": "R738",
-    "handle": "redragon-k673-ucal-75-magnetic-ultramag-switch-wired-keyboard-black",
-    "url": "/products/redragon-k673-ucal-75-magnetic-ultramag-switch-wired-keyboard-black",
-    "qty": 99,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/RD-K673WB-RGB-M_Redragon-K673-UCAL-75-Magnetic-Ultramag-Switch-Wired-Keyboard-Black_wr_01a.jpg"
+    "price": "R743",
+    "handle": "redragon-eisa-100-retro-rgb-wireless-mechanical-keyboard-cream-grey",
+    "url": "/products/redragon-eisa-100-retro-rgb-wireless-mechanical-keyboard-cream-grey",
+    "qty": 14,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/RD-K768WGR-WL_Redragon_EISA_100_Retro_RGB_Wireless_Mec_wr_01.png"
    },
    {
     "brand": "Keychron",
@@ -2029,7 +2040,7 @@
     "price": "R2 353",
     "handle": "hikvision-4mp-fixed-dome-network-camera",
     "url": "/products/hikvision-4mp-fixed-dome-network-camera",
-    "qty": 71,
+    "qty": 11,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
    },
    {
@@ -2049,7 +2060,7 @@
     "price": "R3 755",
     "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-turret-ip-camera-ds-2cd2347g2h-lisu-sl-2-8mm",
     "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-turret-ip-camera-ds-2cd2347g2h-lisu-sl-2-8mm",
-    "qty": 11,
+    "qty": 9,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2347G2H_LISU_SL_2.8MM_1_dbbf.png"
    }
   ],
@@ -2071,7 +2082,7 @@
     "price": "R1 560",
     "handle": "hikvision-4mp-2-8mm-fixed-bullet-network-camera",
     "url": "/products/hikvision-4mp-2-8mm-fixed-bullet-network-camera",
-    "qty": 203,
+    "qty": 159,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2041G0_LIU_2.8MM_e3b5.png"
    },
    {
@@ -2091,7 +2102,7 @@
     "price": "R3 755",
     "handle": "hikvision-4mp-smart-hybrid-colorvu-fixed-turret-ip-camera-ds-2cd2347g2h-lisu-sl-2-8mm",
     "url": "/products/hikvision-4mp-smart-hybrid-colorvu-fixed-turret-ip-camera-ds-2cd2347g2h-lisu-sl-2-8mm",
-    "qty": 11,
+    "qty": 9,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2347G2H_LISU_SL_2.8MM_1_dbbf.png"
    }
   ],
@@ -2113,7 +2124,7 @@
     "price": "R2 353",
     "handle": "hikvision-4mp-fixed-dome-network-camera",
     "url": "/products/hikvision-4mp-fixed-dome-network-camera",
-    "qty": 71,
+    "qty": 11,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
    },
    {
