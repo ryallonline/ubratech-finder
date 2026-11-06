@@ -126,14 +126,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/8/3/83JG001CSA__2__40b1.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo T14 G7 PTL Laptop — Core Ultra 5 · 512GB SSD (21WN002RZA)",
-    "spec": "Core Ultra 5 · 512GB SSD",
-    "price": "R37 650",
-    "handle": "lenovo-t14-g7-ptl-u5-325-16gb-base-ddr5x-512gb-ssd-m-2-2280-tlc-g4-intel-arc-windows-11-pro-64-14-0-wuxga-ag-400nits-5m-rgb-ir-cam-intel-wi-fi-7-be211-802-11be-2x2-bt5-4-snapdragon-x12-lte-modem-4g",
-    "url": "/products/lenovo-t14-g7-ptl-u5-325-16gb-base-ddr5x-512gb-ssd-m-2-2280-tlc-g4-intel-arc-windows-11-pro-64-14-0-wuxga-ag-400nits-5m-rgb-ir-cam-intel-wi-fi-7-be211-802-11be-2x2-bt5-4-snapdragon-x12-lte-modem-4g",
-    "qty": 14,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/21WN002RZA_default.jpg"
+    "brand": "HP",
+    "title": "HP Pro x360 13.3\" Ryzen-7 16GB 1TB Win 11 Pro Silver Notebook",
+    "spec": "Ryzen 7 · 13.3\" screen · 16GB RAM",
+    "price": "R37 285",
+    "handle": "hp-pro-x360-13-3-ryzen-7-16gb-1tb-win-11-pro-silver-notebook",
+    "url": "/products/hp-pro-x360-13-3-ryzen-7-16gb-1tb-win-11-pro-silver-notebook",
+    "qty": 25,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/968K3ET__1__1391.jpg"
    },
    {
     "brand": "HP",
@@ -611,13 +611,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP Series 3 Pro 322pv 21.45\" FHD 100Hz 5ms LED VA Monitor",
-    "spec": "45\" screen",
-    "price": "R3 160",
-    "handle": "hp-series-3-pro-322pv-21-45-fhd-100hz-5ms-led-va-monitor",
-    "url": "/products/hp-series-3-pro-322pv-21-45-fhd-100hz-5ms-led-va-monitor",
-    "qty": 50,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/H/P/HP_9U5A2AA_9a08.jpg"
+    "title": "HP Series 3 Pro 24\" FHD Monitor",
+    "spec": "24\" screen",
+    "price": "R3 214",
+    "handle": "hp-series-3-pro-24-fhd-monitor",
+    "url": "/products/hp-series-3-pro-24-fhd-monitor",
+    "qty": 29,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5C1AA_1ac3.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -736,14 +736,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
-    "brand": "HP",
-    "title": "HP Series 5 Pro 27\" FHD 120Hz 5ms LED IPS Monitor",
-    "spec": "27\" screen",
-    "price": "R2 571",
-    "handle": "hp-series-5-pro-27-fhd-120hz-5ms-led-ips-monitor",
-    "url": "/products/hp-series-5-pro-27-fhd-120hz-5ms-led-ips-monitor",
-    "qty": 5,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/2/B28F5AS_4ff1.jpg"
+    "brand": "Xiaomi",
+    "title": "Xiaomi G24i 2026 24″ 200Hz Full HD 1080p IPS Gaming Monitor",
+    "spec": "24\" screen",
+    "price": "R2 660",
+    "handle": "xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
+    "url": "/products/xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
+    "qty": 203,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6364EU_Xiaomi-G24i-2026-24%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
    },
    {
     "brand": "Dell",
@@ -2069,7 +2069,7 @@
     "price": "R2 353",
     "handle": "hikvision-4mp-fixed-dome-network-camera",
     "url": "/products/hikvision-4mp-fixed-dome-network-camera",
-    "qty": 11,
+    "qty": 71,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
    },
    {
@@ -2153,7 +2153,7 @@
     "price": "R2 353",
     "handle": "hikvision-4mp-fixed-dome-network-camera",
     "url": "/products/hikvision-4mp-fixed-dome-network-camera",
-    "qty": 11,
+    "qty": 71,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
    },
    {
