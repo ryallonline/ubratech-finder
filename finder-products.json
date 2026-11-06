@@ -50,7 +50,7 @@
     "price": "R13 978",
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
-    "qty": 17,
+    "qty": 16,
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
@@ -84,14 +84,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.004_default.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer EXO15 51 5183 Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.EMBEA.004)",
-    "spec": "Core Ultra 5 · 512GB SSD",
-    "price": "R19 013",
-    "handle": "acer-exo15-51-5183-intel-core-ultra-5-processor-125u-15-6-fhd-ips-slimbezel-uma-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-53wh-battery-65w",
-    "url": "/products/acer-exo15-51-5183-intel-core-ultra-5-processor-125u-15-6-fhd-ips-slimbezel-uma-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-53wh-battery-65w",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EMBEA.004_default.jpg"
+    "brand": "HP",
+    "title": "HP ProBook 4 G1iR 14' Core-5 16GB 512GB Win 11 Pro Notebook",
+    "spec": "Core 5 · 16GB RAM",
+    "price": "R19 517",
+    "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
+    "qty": 29,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
    },
    {
     "brand": "HP",
@@ -127,13 +127,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP EliteBoard G1a Laptop — Ryzen 7 (DD2Q8ET)",
-    "spec": "Ryzen 7",
-    "price": "R36 996",
-    "handle": "hp-eliteboard-g1a-amd-ryzen-7-ai-pro-350-os-recovery-ids-detached-cable-32gb-1x32gb-ddr5-5600-sodimm-memory-1tb-hdd-pcie-gen5-2280-nvme-value-windows-11-pro-next-gen-premium-lbl-tco-acadpt-hp-65w",
-    "url": "/products/hp-eliteboard-g1a-amd-ryzen-7-ai-pro-350-os-recovery-ids-detached-cable-32gb-1x32gb-ddr5-5600-sodimm-memory-1tb-hdd-pcie-gen5-2280-nvme-value-windows-11-pro-next-gen-premium-lbl-tco-acadpt-hp-65w",
-    "qty": 8,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DD2Q8ET_default.png"
+    "title": "HP EliteBook 6 G1i 16\" AI Core U5-225U 16GB 512GB LTE Win 11 Pro Notebook",
+    "spec": "16\" screen · 16GB RAM",
+    "price": "R37 085",
+    "handle": "hp-elitebook-6-g1i-16-ai-core-u5-225u-16gb-512gb-lte-win-11-pro-notebook",
+    "url": "/products/hp-elitebook-6-g1i-16-ai-core-u5-225u-16gb-512gb-lte-win-11-pro-notebook",
+    "qty": 33,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/K/CK8H0EA_ca75.jpg"
    },
    {
     "brand": "HP",
@@ -154,7 +154,7 @@
     "price": "R28 332",
     "handle": "asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
     "url": "https://ubratech.co.za/products/asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
-    "qty": 18,
+    "qty": 17,
     "image": "https://www.pinnacle.co.za/media/catalog/product/V/3/V3607VH_I71610B0X__1__7ef3.png"
    },
    {
@@ -591,13 +591,13 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro 22 Adjustable Stand E2226HS Monitor",
+    "title": "Dell Pro 27 Monitor - E2726H 1x HDMI, 1x DP, 1x VGA (Includes DP & Power Cable)",
     "spec": "Monitors And Displays",
-    "price": "R2 384",
-    "handle": "dell-pro-22-adjustable-stand-monitor-e2226hs-1x-hdmi-1x-dp-1x-vga-integrated-speakers",
-    "url": "/products/dell-pro-22-adjustable-stand-monitor-e2226hs-1x-hdmi-1x-dp-1x-vga-integrated-speakers",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPH_default.jpg"
+    "price": "R2 444",
+    "handle": "dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
+    "url": "/products/dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
+    "qty": 90,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPN_default.jpg"
    },
    {
     "brand": "HP",
@@ -616,7 +616,7 @@
     "price": "R5 917",
     "handle": "xiaomi-a27ui-27-60hz-4k-ips-office-monitor",
     "url": "/products/xiaomi-a27ui-27-60hz-4k-ips-office-monitor",
-    "qty": 82,
+    "qty": 72,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6221EU_Xiaomi-A27Ui-27-inch-60Hz-4K-IPS-Office-Monitor_wr_01b.jpg"
    }
   ],
@@ -670,7 +670,7 @@
     "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 145,
+    "qty": 143,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -742,7 +742,7 @@
     "price": "R3 449",
     "handle": "xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
     "url": "/products/xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
-    "qty": 153,
+    "qty": 143,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6568EU_Xiaomi-A27Qi-2026-27-inch-2K-120Hz-IPS-Office-Monitor_wr_01a.jpg"
    },
    {
@@ -1186,16 +1186,6 @@
     "qty": 23
    },
    {
-    "brand": "Zebra",
-    "title": "Zebra ZT411 4\" Thermal Transfer Label Printer",
-    "spec": "Industrial · high volume",
-    "price": "R18 560",
-    "handle": "zebra-zt411-4-thermal-transfer-label-printer",
-    "url": "https://ubratech.co.za/products/zebra-zt411-4-thermal-transfer-label-printer",
-    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/T/ZT41142_T0E0000Z_4906.png",
-    "qty": 3
-   },
-   {
     "brand": "Niimbot",
     "title": "Niimbot D11 D110 D101 H1S Thermal Label 12.5x7 Printer",
     "spec": "Printers",
@@ -1573,14 +1563,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/HD5001GL_default.png"
    },
    {
-    "brand": "Patriot",
-    "title": "Patriot P210 2TB 2.5 Inch SATAIII SSD",
+    "brand": "Proline",
+    "title": "Proline KINGSTON 1000G NV3 M.2 PCIe 4.0 NVMe SSD",
     "spec": "Storage",
-    "price": "R4 910",
-    "handle": "patriot-p210-2tb-2-5-inch-sataiii-ssd",
-    "url": "/products/patriot-p210-2tb-2-5-inch-sataiii-ssd",
-    "qty": 25,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/P210S2TB25_Patriot-P210-2TB-2.5-Inch-SATAIII-SSD_wr_01.jpg"
+    "price": "R5 344",
+    "handle": "proline-kingston-1000g-nv3-m-2-pcie-4-0-nvme-ssd",
+    "url": "/products/proline-kingston-1000g-nv3-m-2-pcie-4-0-nvme-ssd",
+    "qty": 30,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SNV3SM3/1T0_default.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -1678,13 +1668,13 @@
    },
    {
     "brand": "Asus",
-    "title": "Asus Dual Radeon RX 9060 XT 16GB GDDR6 Graphics Card",
+    "title": "ASUS Dual GeForce RTX 5060 Ti OC Edition 16GB GDDR7 Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R18 617",
-    "handle": "asus-dual-radeon-rx-9060-xt-16gb-gddr6-graphics-card",
-    "url": "/products/asus-dual-radeon-rx-9060-xt-16gb-gddr6-graphics-card",
-    "qty": 8,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/DUAL-RX9060XT-16G_Asus-Dual-Radeon-RX-9060-XT-16GB-GDDR6-Graphics-Card_wr_01.jpg"
+    "price": "R20 012",
+    "handle": "asus-dual-geforce-rtx-5060-ti-oc-edition-16gb-gddr7-graphics-card",
+    "url": "/products/asus-dual-geforce-rtx-5060-ti-oc-edition-16gb-gddr7-graphics-card",
+    "qty": 40,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/04/DUAL-RTX5060TI-O16G-WR-01.jpg"
    },
    {
     "brand": "Asus",
@@ -1773,14 +1763,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/QBH4312GL_Xiaomi-Smart-Temperature-and-Humidity-Monitor-3-Mini-White_wr_01a.jpg"
    },
    {
-    "brand": "TP-Link",
-    "title": "TP-Link TAPO C225 Pan/Tilt AI Home Security Wi-Fi Camera",
-    "spec": "Smart Home",
-    "price": "R1 063",
-    "handle": "tp-link-tapo-c225-pan-tilt-ai-home-security-wi-fi-camera",
-    "url": "/products/tp-link-tapo-c225-pan-tilt-ai-home-security-wi-fi-camera",
-    "qty": 9,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/T/C/TC73_US_2.6_overview_01_normal_20230925211116u_175c.png"
+    "brand": "Hikvision",
+    "title": "Hikvision Bullet Wireless Outdoor Security Camera, 2.8mm Lens, 2MP",
+    "spec": "2MP",
+    "price": "R1 098",
+    "handle": "hikvision-bullet-wireless-outdoor-security-camera-2-8mm-lens-2mp",
+    "url": "/products/hikvision-bullet-wireless-outdoor-security-camera-2-8mm-lens-2mp",
+    "qty": 96,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/DS-2CV2021G2-IDW-wr-01.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -2267,47 +2257,47 @@
    "enquiry": true
   },
   {
-   "brand": "TP-Link Omada",
-   "title": "TP-Link AC1750 Ceiling Mount Dual-Band Access Point",
-   "spec": "450Mbps at 2.4GHz+1300Mbps at 5GHz, 2 x Gb LAN, 802.3at PoE Supported,",
-   "price": "R1 439",
-   "handle": "tp-link-ac1750-ceiling-mount-dual-band-access-point-tp-eap245",
-   "url": "/pages/tp-link-ac1750-ceiling-mount-dual-band-access-point-tp-eap245",
+   "brand": "Grandstream",
+   "title": "Grandstream Enterprise WiFi 6 In-Wall Indoor Access Point",
+   "spec": "3 Gbps, 2x2:2 2.4G/5G, 1x GbE PoE, 3x GbE,100m coverage,256 clients, E",
+   "price": "R1 317",
+   "handle": "grandstream-enterprise-wifi-6-in-wall-indoor-access-point-gwn7604",
+   "url": "/pages/grandstream-enterprise-wifi-6-in-wall-indoor-access-point-gwn7604",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/5/8/2/1582.jpg",
+   "image": "https://miro.co.za/img/p/1/5/3/5/1/15351.jpg",
    "enquiry": true
   },
   {
    "brand": "Grandstream",
    "title": "Grandstream Enterprise WiFi 7 Indoor Access Point",
    "spec": "3.6Gbps, Dual-band 2x2:2 MU-MIMO, 256 client devices, 2x 2.5GbE, BLE, ",
-   "price": "R1 997",
-   "handle": "grandstream-enterprise-wifi-7-indoor-access-point-gwn7670e",
-   "url": "/pages/grandstream-enterprise-wifi-7-indoor-access-point-gwn7670e",
+   "price": "R1 986",
+   "handle": "grandstream-enterprise-wifi-7-indoor-access-point-gwn7670",
+   "url": "/pages/grandstream-enterprise-wifi-7-indoor-access-point-gwn7670",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/9/4/6/1/19461.jpg",
+   "image": "https://miro.co.za/img/p/1/6/8/1/2/16812.jpg",
    "enquiry": true
   },
   {
-   "brand": "HPE Networking Instant On",
-   "title": "HPE Networking Instant On WiFi 5 Wave 2 Indoor Access Point",
-   "spec": "Dual band, 802.11ac Wave2, 2033Mbps, PoE excl, GbE uplink port, 4x4:4 ",
-   "price": "R2 971",
-   "handle": "hpe-networking-instant-on-wifi-5-wave-2-indoor-access-point-ap15",
-   "url": "/pages/hpe-networking-instant-on-wifi-5-wave-2-indoor-access-point-ap15",
+   "brand": "Grandstream",
+   "title": "Grandstream Enterprise Outdoor WiFi 7 Long Range Access Point",
+   "spec": "Outdoor Long-Range Dual-Band Wi-Fi 7 Access Point/Bridge, 2x2:2 2.4/5G",
+   "price": "R3 075",
+   "handle": "grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
+   "url": "/pages/grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/0/7/2/6/10726.jpg",
+   "image": "https://miro.co.za/img/p/1/8/7/0/7/18707.jpg",
    "enquiry": true
   },
   {
-   "brand": "TP-Link Omada",
-   "title": "TP-Link Omada Tri-Band Wi-Fi 7 Outdoor AP",
-   "spec": "1×2.5G RJ45 Port, 688 Mbps (2.4 GHz) + 2882 Mbps (5 GHz) + 5765 Mbps (",
-   "price": "R4 525",
-   "handle": "tp-link-omada-tri-band-wi-fi-7-outdoor-ap-eap772-o",
-   "url": "/pages/tp-link-omada-tri-band-wi-fi-7-outdoor-ap-eap772-o",
+   "brand": "Ubiquiti",
+   "title": "Ubiquiti UniFi WiFi 7 Outdoor Access Point",
+   "spec": "No PoE Injector included, 4 Spatial Streams, 250+ connected devices, 2",
+   "price": "R4 735",
+   "handle": "ubiquiti-unifi-wifi-7-outdoor-access-point-u7-outdoor",
+   "url": "/pages/ubiquiti-unifi-wifi-7-outdoor-access-point-u7-outdoor",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/8/1/0/2/18102.jpg",
+   "image": "https://miro.co.za/img/p/1/7/1/4/0/17140.jpg",
    "enquiry": true
   },
   {
