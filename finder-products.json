@@ -100,7 +100,7 @@
     "price": "R21 406",
     "handle": "hp-probook-4-g1a-14-ai-ryzen-5-230-16gb-512gb-win-11-pro-notebook",
     "url": "/products/hp-probook-4-g1a-14-ai-ryzen-5-230-16gb-512gb-win-11-pro-notebook",
-    "qty": 50,
+    "qty": 54,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/6/C67GCEA_1f78.jpg"
    }
   ],
@@ -126,14 +126,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/8/3/83JG001CSA__2__40b1.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 16 Plus Laptop — Core Ultra 7 · 16GB · 512GB SSD (BTO209_PB16250_EMEA)",
-    "spec": "Core Ultra 7 · 512GB SSD",
-    "price": "R36 739",
-    "handle": "dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-onboard-512-gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro-processor-16",
-    "url": "/products/dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-onboard-512-gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro-processor-16",
-    "qty": 19,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO209_PB16250_EMEA_default.jpg"
+    "brand": "HP",
+    "title": "HP EliteBoard G1a Laptop — Ryzen 7 (DD2Q8ET)",
+    "spec": "Ryzen 7",
+    "price": "R36 996",
+    "handle": "hp-eliteboard-g1a-amd-ryzen-7-ai-pro-350-os-recovery-ids-detached-cable-32gb-1x32gb-ddr5-5600-sodimm-memory-1tb-hdd-pcie-gen5-2280-nvme-value-windows-11-pro-next-gen-premium-lbl-tco-acadpt-hp-65w",
+    "url": "/products/hp-eliteboard-g1a-amd-ryzen-7-ai-pro-350-os-recovery-ids-detached-cable-32gb-1x32gb-ddr5-5600-sodimm-memory-1tb-hdd-pcie-gen5-2280-nvme-value-windows-11-pro-next-gen-premium-lbl-tco-acadpt-hp-65w",
+    "qty": 8,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DD2Q8ET_default.png"
    },
    {
     "brand": "HP",
@@ -670,7 +670,7 @@
     "price": "R2 005",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 143,
+    "qty": 144,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
@@ -1424,13 +1424,13 @@
    },
    {
     "brand": "TP-Link",
-    "title": "TP-Link 5 Port Gigabit Smart Switch",
-    "spec": "5 ports",
-    "price": "R326",
-    "handle": "tp-link-5-port-gigabit-smart-switch",
-    "url": "/products/tp-link-5-port-gigabit-smart-switch",
-    "qty": 14,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG105E_ef37.jpg"
+    "title": "TP-Link 8 Port Gigabit Desktop Switch",
+    "spec": "8 ports",
+    "price": "R356",
+    "handle": "tp-link-8-port-gigabit-desktop-switch",
+    "url": "/products/tp-link-8-port-gigabit-desktop-switch",
+    "qty": 3,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008D_a815.png"
    },
    {
     "brand": "Hikvision",
@@ -1444,13 +1444,13 @@
    },
    {
     "brand": "Huawei",
-    "title": "Huawei S310-48P4S Ekit 48 Port POE Switch",
+    "title": "Huawei S310-48P4X Ekit 48 Port POE Switch",
     "spec": "48 ports",
-    "price": "R6 043",
-    "handle": "huawei-s310-48p4s-ekit-48-port-poe-switch",
-    "url": "/products/huawei-s310-48p4s-ekit-48-port-poe-switch",
-    "qty": 106,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_12a1.png"
+    "price": "R6 169",
+    "handle": "huawei-s310-48p4x-ekit-48-port-poe-switch",
+    "url": "/products/huawei-s310-48p4x-ekit-48-port-poe-switch",
+    "qty": 6,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_fcaa.png"
    },
    {
     "brand": "Tenda",
@@ -1835,14 +1835,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/6941876247608_WS210-45760_02.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP HyperX Cloud Stinger 3 Wired Gaming Headset Black",
+    "brand": "Corsair",
+    "title": "Corsair HS55 Surround Wired Gaming Headset – White",
     "spec": "Headsets",
-    "price": "R1 081",
-    "handle": "hp-hyperx-cloud-stinger-3-wired-gaming-headset-black",
-    "url": "/products/hp-hyperx-cloud-stinger-3-wired-gaming-headset-black",
-    "qty": 22,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/S/BS1T5AA_5dbd.jpg"
+    "price": "R1 060",
+    "handle": "corsair-hs55-surround-wired-gaming-headset-white",
+    "url": "/products/corsair-hs55-surround-wired-gaming-headset-white",
+    "qty": 12,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/CA-9011261-AP_CORSAIR_OVER-EAR_HS55_WIRED_WH_wr_01.png"
    },
    {
     "brand": "Poly",
@@ -1897,14 +1897,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/RD-P037_wr_01.jpg"
    },
    {
-    "brand": "TP-Link",
-    "title": "TP-Link AX1800 USB Wireless Adapter",
+    "brand": "Gizzu",
+    "title": "Gizzu USB3.0 Active Extension Cable 10m",
     "spec": "Cables And Adapters",
-    "price": "R414",
-    "handle": "tp-link-ax1800-usb-wireless-adapter",
-    "url": "/products/tp-link-ax1800-usb-wireless-adapter",
-    "qty": 9,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/R/ARCHER_TX20U_cdc8.jpg"
+    "price": "R418",
+    "handle": "gizzu-usb3-0-active-extension-cable-10m",
+    "url": "/products/gizzu-usb3-0-active-extension-cable-10m",
+    "qty": 73,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/GCPU3UE10A-0128-Edit1500x1500-96DPI.jpg"
    },
    {
     "brand": "HP",
