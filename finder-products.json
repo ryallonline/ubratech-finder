@@ -116,14 +116,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__85__2e2b.png"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 14 Essential PV14255 Laptop — 16GB (PV14255_KRK_501)",
-    "spec": "Notebooks",
-    "price": "R29 001",
-    "handle": "dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
-    "url": "/products/dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
-    "qty": 42,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/PV14255_KRK_501_default.jpg"
+    "brand": "Lenovo",
+    "title": "Lenovo LOQ 15AHP10 15.6\" Ryzen-7 16GB 1TB Win 11 Home Notebook",
+    "spec": "Ryzen 7 · 15.6\" screen · 16GB RAM",
+    "price": "R29 028",
+    "handle": "lenovo-loq-15ahp10-15-6-ryzen-7-16gb-1tb-win-11-home-notebook",
+    "url": "/products/lenovo-loq-15ahp10-15-6-ryzen-7-16gb-1tb-win-11-home-notebook",
+    "qty": 16,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/8/3/83JG001CSA__2__40b1.jpg"
    },
    {
     "brand": "HP",
@@ -1216,7 +1216,7 @@
     "price": "R703",
     "handle": "dell-pro-4-in-1-usb-c-travel-hub-da225",
     "url": "https://ubratech.co.za/products/dell-pro-4-in-1-usb-c-travel-hub-da225",
-    "qty": 5,
+    "qty": 6,
     "image": "https://s3.amazonaws.com/tarsus.co.za/470-BFBN_default.png"
    },
    {
@@ -2009,7 +2009,7 @@
     "price": "R2 353",
     "handle": "hikvision-4mp-fixed-dome-network-camera",
     "url": "/products/hikvision-4mp-fixed-dome-network-camera",
-    "qty": 748,
+    "qty": 11,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
    },
    {
