@@ -116,14 +116,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo LOQ 15AHP10 15.6\" Ryzen-7 16GB 1TB Win 11 Home Notebook",
-    "spec": "Ryzen 7 · 15.6\" screen · 16GB RAM",
-    "price": "R29 028",
-    "handle": "lenovo-loq-15ahp10-15-6-ryzen-7-16gb-1tb-win-11-home-notebook",
-    "url": "/products/lenovo-loq-15ahp10-15-6-ryzen-7-16gb-1tb-win-11-home-notebook",
-    "qty": 16,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/8/3/83JG001CSA__2__40b1.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 14 Essential PV14255 Laptop — 16GB (PV14255_KRK_501)",
+    "spec": "Notebooks",
+    "price": "R29 001",
+    "handle": "dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
+    "url": "/products/dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
+    "qty": 42,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/PV14255_KRK_501_default.jpg"
    },
    {
     "brand": "HP",
@@ -834,16 +834,6 @@
   ],
   "desk": [
    {
-    "brand": "Hikvision",
-    "title": "Hikvision 1000VA UPS",
-    "spec": "Backs up a PC + screen",
-    "price": "R904",
-    "handle": "hikvision-1000va-1kva-ups",
-    "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 243,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
-   },
-   {
     "brand": "Eaton",
     "title": "Eaton 5E 700VA GEN2 USB IEC UPS",
     "spec": "Ups And Power",
@@ -1444,13 +1434,13 @@
    },
    {
     "brand": "TP-Link",
-    "title": "TP-Link 8 Port Gigabit Desktop Switch",
-    "spec": "8 ports",
-    "price": "R356",
-    "handle": "tp-link-8-port-gigabit-desktop-switch",
-    "url": "/products/tp-link-8-port-gigabit-desktop-switch",
-    "qty": 3,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008D_a815.png"
+    "title": "TP-Link 5 Port Gigabit Smart Switch",
+    "spec": "5 ports",
+    "price": "R326",
+    "handle": "tp-link-5-port-gigabit-smart-switch",
+    "url": "/products/tp-link-5-port-gigabit-smart-switch",
+    "qty": 14,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG105E_ef37.jpg"
    },
    {
     "brand": "Hikvision",
@@ -2039,7 +2029,7 @@
     "price": "R3 385",
     "handle": "hikvision-4mp-acusense-strobe-light-audible-warning-fixed-turret-ip-camera",
     "url": "/products/hikvision-4mp-acusense-strobe-light-audible-warning-fixed-turret-ip-camera",
-    "qty": 56,
+    "qty": 57,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2346G2H_IS2U_SL_2.8MM_98ea.jpg"
    },
    {
@@ -2081,7 +2071,7 @@
     "price": "R3 385",
     "handle": "hikvision-4mp-acusense-strobe-light-audible-warning-fixed-turret-ip-camera",
     "url": "/products/hikvision-4mp-acusense-strobe-light-audible-warning-fixed-turret-ip-camera",
-    "qty": 56,
+    "qty": 57,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2346G2H_IS2U_SL_2.8MM_98ea.jpg"
    },
    {
