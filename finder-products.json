@@ -90,7 +90,7 @@
     "price": "R19 517",
     "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
     "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "qty": 28,
+    "qty": 25,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
    },
    {
@@ -586,7 +586,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 423,
+    "qty": 417,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -606,7 +606,7 @@
     "price": "R2 444",
     "handle": "dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
     "url": "/products/dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
-    "qty": 69,
+    "qty": 68,
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPN_default.jpg"
    },
    {
@@ -722,7 +722,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 423,
+    "qty": 417,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -732,7 +732,7 @@
     "price": "R1 486",
     "handle": "hikvision-18-5-borderless-fhd-monitor",
     "url": "/products/hikvision-18-5-borderless-fhd-monitor",
-    "qty": 58,
+    "qty": 15,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
@@ -833,6 +833,16 @@
    }
   ],
   "desk": [
+   {
+    "brand": "Hikvision",
+    "title": "Hikvision 1000VA UPS",
+    "spec": "Backs up a PC + screen",
+    "price": "R904",
+    "handle": "hikvision-1000va-1kva-ups",
+    "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
+    "qty": 3,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
+   },
    {
     "brand": "Eaton",
     "title": "Eaton 5E 700VA GEN2 USB IEC UPS",
@@ -2024,13 +2034,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Acusense Strobe Light Audible Warning Fixed Turret IP Camera",
+    "title": "Hikvision 4MP ColorVu Fixed Bullet IP Camera",
     "spec": "4MP",
-    "price": "R3 385",
-    "handle": "hikvision-4mp-acusense-strobe-light-audible-warning-fixed-turret-ip-camera",
-    "url": "/products/hikvision-4mp-acusense-strobe-light-audible-warning-fixed-turret-ip-camera",
-    "qty": 57,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2346G2H_IS2U_SL_2.8MM_98ea.jpg"
+    "price": "R3 138",
+    "handle": "hikvision-4mp-colorvu-fixed-bullet-ip-camera",
+    "url": "/products/hikvision-4mp-colorvu-fixed-bullet-ip-camera",
+    "qty": 4,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T47G2_L_6MM_1977.jpg"
    },
    {
     "brand": "Hikvision",
@@ -2066,13 +2076,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Acusense Strobe Light Audible Warning Fixed Turret IP Camera",
+    "title": "Hikvision 4MP Varifocal Bullet IP Camera",
     "spec": "4MP",
-    "price": "R3 385",
-    "handle": "hikvision-4mp-acusense-strobe-light-audible-warning-fixed-turret-ip-camera",
-    "url": "/products/hikvision-4mp-acusense-strobe-light-audible-warning-fixed-turret-ip-camera",
-    "qty": 57,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2346G2H_IS2U_SL_2.8MM_98ea.jpg"
+    "price": "R3 202",
+    "handle": "hikvision-4mp-varifocal-bullet-ip-camera",
+    "url": "/products/hikvision-4mp-varifocal-bullet-ip-camera",
+    "qty": 109,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2641G0_LIZSU_2.8MM_12MM__0a67.png"
    },
    {
     "brand": "Hikvision",
@@ -2103,18 +2113,18 @@
     "price": "R2 978",
     "handle": "hikvision-4mp-fixed-mini-bullet-network-camera",
     "url": "/products/hikvision-4mp-fixed-mini-bullet-network-camera",
-    "qty": 47,
+    "qty": 42,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_4MM_1_306c.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Darkfighter Fiexed Bullet IP Camera",
+    "title": "Hikvision 4MP Acusense Strobe Light Audible Warning Fixed Turret IP Camera",
     "spec": "4MP",
-    "price": "R3 533",
-    "handle": "hikvision-4mp-darkfighter-fiexed-bullet-ip-camera",
-    "url": "/products/hikvision-4mp-darkfighter-fiexed-bullet-ip-camera",
-    "qty": 180,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_4I_4MM_1_ef81.png"
+    "price": "R3 385",
+    "handle": "hikvision-4mp-acusense-strobe-light-audible-warning-fixed-turret-ip-camera",
+    "url": "/products/hikvision-4mp-acusense-strobe-light-audible-warning-fixed-turret-ip-camera",
+    "qty": 57,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2346G2H_IS2U_SL_2.8MM_98ea.jpg"
    },
    {
     "brand": "Hikvision",
@@ -2135,7 +2145,7 @@
     "price": "R235",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 5798,
+    "qty": 5698,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
@@ -2177,7 +2187,7 @@
     "price": "R235",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 5798,
+    "qty": 5698,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
@@ -2219,7 +2229,7 @@
     "price": "R235",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 5798,
+    "qty": 5698,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
