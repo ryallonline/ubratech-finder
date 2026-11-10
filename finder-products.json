@@ -84,14 +84,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KTAT_4090.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP ProBook 4 G1iR 14' Core-5 16GB 512GB Win 11 Pro Notebook",
-    "spec": "Core 5 · 16GB RAM",
-    "price": "R19 517",
-    "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "qty": 25,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
+    "brand": "Acer",
+    "title": "Acer EXO15 51 5183 Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.EMBEA.004)",
+    "spec": "Core Ultra 5 · 512GB SSD",
+    "price": "R19 013",
+    "handle": "acer-exo15-51-5183-intel-core-ultra-5-processor-125u-15-6-fhd-ips-slimbezel-uma-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-53wh-battery-65w",
+    "url": "/products/acer-exo15-51-5183-intel-core-ultra-5-processor-125u-15-6-fhd-ips-slimbezel-uma-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-53wh-battery-65w",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EMBEA.004_default.jpg"
    },
    {
     "brand": "HP",
@@ -100,7 +100,7 @@
     "price": "R21 406",
     "handle": "hp-probook-4-g1a-14-ai-ryzen-5-230-16gb-512gb-win-11-pro-notebook",
     "url": "/products/hp-probook-4-g1a-14-ai-ryzen-5-230-16gb-512gb-win-11-pro-notebook",
-    "qty": 55,
+    "qty": 53,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/6/C67GCEA_1f78.jpg"
    }
   ],
@@ -116,14 +116,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 14 Essential PV14255 Laptop — 16GB (PV14255_KRK_501)",
-    "spec": "Notebooks",
-    "price": "R29 001",
-    "handle": "dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
-    "url": "/products/dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
-    "qty": 42,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/PV14255_KRK_501_default.jpg"
+    "brand": "HP",
+    "title": "HP 15S 15.6\" FHD UltraSlim Core 7-150U 16GB 512GB Win 11 Home Silver Notebook",
+    "spec": "Core 7 · 15.6\" screen · 16GB RAM",
+    "price": "R28 965",
+    "handle": "hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
+    "url": "/products/hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
+    "qty": 27,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D6ZS9EA_cc0d.jpg"
    },
    {
     "brand": "HP",
@@ -218,7 +218,7 @@
     "price": "R17 313",
     "handle": "dell-pro-slim-essential-qvs1260-desktop-pc-core-i3-bto001_qvs1260_emea",
     "url": "https://ubratech.co.za/products/dell-pro-slim-essential-qvs1260-desktop-pc-core-i3-bto001_qvs1260_emea",
-    "qty": 57,
+    "qty": 54,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO001_QVS1260_EMEA_default.png"
    },
    {
@@ -258,7 +258,7 @@
     "price": "R9 859",
     "handle": "pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
     "url": "/products/pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
-    "qty": 39,
+    "qty": 38,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_CUBE_I58G_HOME_V2_PCBuilder-CUBE-Intel-i5-1235U-8GB-DDR4-512GB-Windows-11-Home-Mini-PC_wr_01a.jpg"
    },
    {
@@ -268,7 +268,7 @@
     "price": "R11 826",
     "handle": "pcbuilder-cube-intel-i5-1235u-16gb-ddr4-1tb-windows-11-home-mini-pc",
     "url": "/products/pcbuilder-cube-intel-i5-1235u-16gb-ddr4-1tb-windows-11-home-mini-pc",
-    "qty": 8,
+    "qty": 7,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/PCB_CUBE_I516G_HOME_PCBuilder-CUBE-i5-1235U-16GB-DDR4-1TB-Windows-11-Home-Mini-PC_wr_01a.jpg"
    }
   ],
@@ -330,7 +330,7 @@
     "price": "R21 461",
     "handle": "dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
     "url": "/products/dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
-    "qty": 42,
+    "qty": 38,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO004_QVS1260_EMEA_default.jpg"
    }
   ],
@@ -435,10 +435,10 @@
     "brand": "Asus",
     "title": "Asus TUF A15 15.6\" Ryzen-7 8GB 512GB Win 11 Home Notebook",
     "spec": "Ryzen 7 · 15.6\" screen · 8GB RAM",
-    "price": "R20 692",
+    "price": "R19 391",
     "handle": "asus-tuf-a15-15-6-ryzen-7-8gb-512gb-win-11-home-notebook",
     "url": "/products/asus-tuf-a15-15-6-ryzen-7-8gb-512gb-win-11-home-notebook",
-    "qty": 63,
+    "qty": 14,
     "image": "https://www.pinnacle.co.za/media/catalog/product/F/A/FA506NCG_78512B0W__1__1ce1.png"
    },
    {
@@ -576,7 +576,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 416,
+    "qty": 415,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -732,7 +732,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 416,
+    "qty": 415,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -832,13 +832,13 @@
    },
    {
     "brand": "UPS",
-    "title": "Acconet 2000VA/1200W Offline UPS",
-    "spec": "5-10 Minutes Run Time @ 1200W Load.",
-    "price": "R2 164",
-    "handle": "ups-acconet-2000va-1200w-offline-ups-ac-ups-2000",
-    "url": "/pages/ups-acconet-2000va-1200w-offline-ups-ac-ups-2000",
+    "title": "Acconet 1200VA/600W Offline UPS",
+    "spec": "5-10 Minutes Run Time @ 600W Load.",
+    "price": "R1 581",
+    "handle": "ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
+    "url": "/pages/ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
     "qty": 9,
-    "image": "https://miro.co.za/img/p/6/2/0/6/6206.jpg",
+    "image": "https://miro.co.za/img/p/6/2/0/2/6202.jpg",
     "enquiry": true
    }
   ],
@@ -870,7 +870,7 @@
     "price": "R1 648",
     "handle": "eaton-5e-900va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-900va-gen2-usb-iec-ups",
-    "qty": 50,
+    "qty": 45,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E900UI_761f.png"
    },
    {
@@ -902,17 +902,6 @@
     "url": "/pages/ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
     "qty": 9,
     "image": "https://miro.co.za/img/p/6/2/0/2/6202.jpg",
-    "enquiry": true
-   },
-   {
-    "brand": "UPS",
-    "title": "Acconet 2000VA/1200W Offline UPS",
-    "spec": "5-10 Minutes Run Time @ 1200W Load.",
-    "price": "R2 164",
-    "handle": "ups-acconet-2000va-1200w-offline-ups-ac-ups-2000",
-    "url": "/pages/ups-acconet-2000va-1200w-offline-ups-ac-ups-2000",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/6/2/0/6/6206.jpg",
     "enquiry": true
    }
   ],
@@ -1257,7 +1246,7 @@
     "price": "R136",
     "handle": "port-connect-usb-type-c-to-4-port-usb-a-3-0-2-0-hub",
     "url": "/products/port-connect-usb-type-c-to-4-port-usb-a-3-0-2-0-hub",
-    "qty": 94,
+    "qty": 93,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/900160_Port-Connect-USB-Type-C-to-4-port-USB-A-3.0-2.0-Hub_wr_01a.jpg"
    },
    {
@@ -1309,7 +1298,7 @@
     "price": "R1 489",
     "handle": "dell-pro-7-in-1-usb-c-mobile-docking-station",
     "url": "/products/dell-pro-7-in-1-usb-c-mobile-docking-station",
-    "qty": 81,
+    "qty": 80,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__23__d7c1.png"
    },
    {
@@ -1319,7 +1308,7 @@
     "price": "R4 352",
     "handle": "lenovo-thinkpad-hybrid-usb-c-with-usb-a-dock-rsa",
     "url": "/products/lenovo-thinkpad-hybrid-usb-c-with-usb-a-dock-rsa",
-    "qty": 13,
+    "qty": 17,
     "image": "https://s3.amazonaws.com/tarsus.co.za/40AF0135SA_default.jpg"
    },
    {
@@ -1341,7 +1330,7 @@
     "price": "R120",
     "handle": "ugreen-4-in-1-usb-3-0-hub-high-speed-5gbps-data-transfer-grey",
     "url": "/products/ugreen-4-in-1-usb-3-0-hub-high-speed-5gbps-data-transfer-grey",
-    "qty": 131,
+    "qty": 122,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM219-25851-WR-01.jpg"
    },
    {
@@ -1415,7 +1404,7 @@
     "price": "R1 320",
     "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
     "url": "/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
-    "qty": 46,
+    "qty": 41,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg"
    },
    {
@@ -1474,14 +1463,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008D_a815.png"
    },
    {
-    "brand": "Huawei",
-    "title": "Huawei S310 24P4S 24-Ports POE Switch",
-    "spec": "Networking And Wireless",
-    "price": "R3 776",
-    "handle": "huawei-s310-24p4s-24-ports-poe-switch",
-    "url": "/products/huawei-s310-24p4s-24-ports-poe-switch",
-    "qty": 178,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/h/u/huawei_switch_s310_24p4s_24ge_ports_4ge_sfp_ports_poe_ac_power_98012201_380436__c994.png"
+    "brand": "Hikvision",
+    "title": "Hikvision 4 Port Gigabit Smart Managed Industrial Solar PoE Switch",
+    "spec": "4 ports",
+    "price": "R2 426",
+    "handle": "hikvision-4-port-gigabit-smart-managed-industrial-solar-poe-switch",
+    "url": "/products/hikvision-4-port-gigabit-smart-managed-industrial-solar-poe-switch",
+    "qty": 11,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__1__0e1c.png"
    },
    {
     "brand": "Huawei",
@@ -1853,7 +1842,7 @@
     "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
     "url": "https://ubratech.co.za/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg",
-    "qty": 46
+    "qty": 41
    },
    {
     "brand": "Xiaomi",
@@ -1938,14 +1927,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2016/01/PC-6D3IC13BK3.8_wr_01.jpg"
    },
    {
-    "brand": "Winx",
-    "title": "WINX POWER Max 65W GaN Wall Charger",
-    "spec": "Power Adapter",
-    "price": "R412",
-    "handle": "winx-power-max-65w-gan-wall-charger",
-    "url": "/products/winx-power-max-65w-gan-wall-charger",
-    "qty": 225,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/WX-WC108_WINX-POWER-Max-65W-GaN-Wall-Charger-Black_wr_01.jpg"
+    "brand": "HP",
+    "title": "HP Slim Rechargeable Pen Charger",
+    "spec": "Cables And Adapters",
+    "price": "R414",
+    "handle": "hp-slim-rechargeable-pen-charger",
+    "url": "/products/hp-slim-rechargeable-pen-charger",
+    "qty": 4,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/4X491AA_default.jpg"
    },
    {
     "brand": "HP",
@@ -2001,13 +1990,13 @@
    },
    {
     "brand": "Redragon",
-    "title": "Redragon M991 RGB PRO ENLIGHTENMENT 26000 DPI Wireless Gaming Mouse - Black",
-    "spec": "Mice",
-    "price": "R709",
-    "handle": "redragon-m991-rgb-pro-enlightenment-26000-dpi-wireless-gaming-mouse-black",
-    "url": "/products/redragon-m991-rgb-pro-enlightenment-26000-dpi-wireless-gaming-mouse-black",
-    "qty": 55,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/RD-M991RGB-PRO_Redragon-M991-RGB-PRO-ENLIGHTENMENT-26000-DPI-Wireless-Gaming-Mouse-Black_wr_01a.jpg"
+    "title": "Redragon K588 RGB Pro BROADSWORD TKL Mechanical Wired Gaming Keyboard - Black",
+    "spec": "Keyboards",
+    "price": "R706",
+    "handle": "redragon-k588-rgb-pro-broadsword-tkl-mechanical-wired-gaming-keyboard-black",
+    "url": "/products/redragon-k588-rgb-pro-broadsword-tkl-mechanical-wired-gaming-keyboard-black",
+    "qty": 14,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/RD-K588RGB_Redragon-K588-RGB-Pro-BROADSWORD-TKL-Mechanical-Wired-Gaming-Keyboard-Black_wr_01a.jpg"
    },
    {
     "brand": "Keychron",
@@ -2082,7 +2071,7 @@
     "price": "R2 075",
     "handle": "hikvision-4mp-fixed-dome-network-camera",
     "url": "/products/hikvision-4mp-fixed-dome-network-camera",
-    "qty": 748,
+    "qty": 71,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_4MM_1_9727.png"
    },
    {
