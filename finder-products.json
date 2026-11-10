@@ -314,14 +314,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/B/T/BTO001_QVT1260_EMEA_aad7.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP Pro Tower 280 G9 E PCI PC Desktop PC — Core i3 (D6RQ3EA)",
-    "spec": "Core i3",
-    "price": "R19 202",
-    "handle": "hp-pro-tower-280-g9-e-pci-desktop-pc-intel-core-i3-14100-3-50-ghz-up-to-4-70-ghz-4-cores-8-threads-14th-generation-with-intel-uhd-graphics-730-512gb-m-2-pcie-nvme-2280-value-3x4-ssd-8gb-3200mt-s-ddr4",
-    "url": "/products/hp-pro-tower-280-g9-e-pci-desktop-pc-intel-core-i3-14100-3-50-ghz-up-to-4-70-ghz-4-cores-8-threads-14th-generation-with-intel-uhd-graphics-730-512gb-m-2-pcie-nvme-2280-value-3x4-ssd-8gb-3200mt-s-ddr4",
-    "qty": 19,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/D6RQ3EA_default.jpg"
+    "brand": "PCBuilder",
+    "title": "PCBuilder FUSION 24″ Intel Core i5-12400 16GB DDR5 1TB Windows 11 Pro AiO Desktop PC",
+    "spec": "Core i5 · 24\" screen · 16GB RAM",
+    "price": "R19 711",
+    "handle": "pcbuilder-fusion-24-intel-core-i5-12400-16gb-ddr5-1tb-windows-11-pro-aio-desktop-pc",
+    "url": "/products/pcbuilder-fusion-24-intel-core-i5-12400-16gb-ddr5-1tb-windows-11-pro-aio-desktop-pc",
+    "qty": 16,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB-AIO-FIB24-I5161TB-D5O_PCBuilder-FUSION-24-inch-Intel-Core-i5-12400-16GB-DDR5-1TB-Windows-11-Pro-AiO-Desktop-PC_wr_01.jpg"
    },
    {
     "brand": "Dell",
@@ -330,7 +330,7 @@
     "price": "R21 461",
     "handle": "dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
     "url": "/products/dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
-    "qty": 38,
+    "qty": 36,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO004_QVS1260_EMEA_default.jpg"
    }
   ],
@@ -591,23 +591,23 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro 22 Adjustable Stand E2226HS Monitor",
+    "title": "Dell Pro 27 Monitor - E2726H 1x HDMI, 1x DP, 1x VGA (Includes DP & Power Cable)",
     "spec": "Monitors And Displays",
-    "price": "R2 384",
-    "handle": "dell-pro-22-adjustable-stand-monitor-e2226hs-1x-hdmi-1x-dp-1x-vga-integrated-speakers",
-    "url": "/products/dell-pro-22-adjustable-stand-monitor-e2226hs-1x-hdmi-1x-dp-1x-vga-integrated-speakers",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPH_default.jpg"
+    "price": "R2 444",
+    "handle": "dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
+    "url": "/products/dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
+    "qty": 65,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPN_default.jpg"
    },
    {
-    "brand": "MSI",
-    "title": "MSI MAG 275F E20 27\" FHD 200Hz Rapid IPS Gaming Monitor",
+    "brand": "Xiaomi",
+    "title": "Xiaomi G27i 2026 27″ 200Hz Full HD 1080p IPS Gaming Monitor",
     "spec": "27\" screen",
-    "price": "R3 249",
-    "handle": "msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
-    "url": "/products/msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
-    "qty": 18,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-275F-E20_MSI-MAG-275F-E20-27inch-FHD-200Hz-Gaming-Montor-wr01.jpeg"
+    "price": "R3 251",
+    "handle": "xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
+    "url": "/products/xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
+    "qty": 125,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6370EU_Xiaomi-G27i-2026-27%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -664,16 +664,6 @@
   ],
   "gaming": [
    {
-    "brand": "Dell",
-    "title": "Dell SE2426H 24\" FHD Gaming Monitor",
-    "spec": "High refresh · smooth motion",
-    "price": "R2 112",
-    "handle": "dell-se2426h-24-fhd-gaming-monitor",
-    "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 99,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
-   },
-   {
     "brand": "Acer",
     "title": "Acer 24\" IPS FHD 120Hz Monitor",
     "spec": "High refresh · smooth motion",
@@ -704,14 +694,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/P/HP_9U5A2AA_9a08.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi Curved Gaming Monitor G34WQi 2026",
-    "spec": "Monitors And Displays",
-    "price": "R6 899",
-    "handle": "xiaomi-curved-gaming-monitor-g34wqi-2026",
-    "url": "/products/xiaomi-curved-gaming-monitor-g34wqi-2026",
-    "qty": 130,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/ELA6562EU_Xiaomi_Curved_Gaming_Monitor_G34WQi_2026_wr_03.png"
+    "brand": "Samsung",
+    "title": "Samsung Odyssey G55T Gaming 1000R 34\" QHD Monitor (LC34G55TWWPXEN)",
+    "spec": "34\" screen",
+    "price": "R8 058",
+    "handle": "samsung-odyssey-g55t-gaming-1000r-borderless-34-display-va-response-1ms-mprt-ar-21-9-resolution-3440x1440-uwqhd-rr-165hz-hdmi-display-port-speaker-no-power-supply-external-tilt-yes-swivel-no-pivot-no",
+    "url": "/products/samsung-odyssey-g55t-gaming-1000r-borderless-34-display-va-response-1ms-mprt-ar-21-9-resolution-3440x1440-uwqhd-rr-165hz-hdmi-display-port-speaker-no-power-supply-external-tilt-yes-swivel-no-pivot-no",
+    "qty": 23,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/LC34G55TWWPXEN_default.png"
    },
    {
     "brand": "Asus",
@@ -746,14 +736,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
-    "brand": "HP",
-    "title": "HP Series 5 Pro 27\" FHD 120Hz 5ms LED IPS Monitor",
-    "spec": "27\" screen",
-    "price": "R2 517",
-    "handle": "hp-series-5-pro-27-fhd-120hz-5ms-led-ips-monitor",
-    "url": "/products/hp-series-5-pro-27-fhd-120hz-5ms-led-ips-monitor",
-    "qty": 5,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/2/B28F5AS_4ff1.jpg"
+    "brand": "Xiaomi",
+    "title": "Xiaomi G24i 2026 24″ 200Hz Full HD 1080p IPS Gaming Monitor",
+    "spec": "24\" screen",
+    "price": "R2 660",
+    "handle": "xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
+    "url": "/products/xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
+    "qty": 203,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6364EU_Xiaomi-G24i-2026-24%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -813,10 +803,10 @@
     "brand": "Eaton",
     "title": "Eaton 5E 1600VA GEN2 USB IEC UPS",
     "spec": "Ups And Power",
-    "price": "R3 058",
+    "price": "R2 879",
     "handle": "eaton-5e-1600va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-1600va-gen2-usb-iec-ups",
-    "qty": 11,
+    "qty": 29,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
    },
    {
@@ -880,17 +870,17 @@
     "price": "R2 366",
     "handle": "eaton-5e-1200va-gen2-ups",
     "url": "/products/eaton-5e-1200va-gen2-ups",
-    "qty": 63,
+    "qty": 62,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1200UI_66a3.png"
    },
    {
     "brand": "Eaton",
     "title": "Eaton 5E 1600VA GEN2 USB IEC UPS",
     "spec": "Ups And Power",
-    "price": "R3 058",
+    "price": "R2 879",
     "handle": "eaton-5e-1600va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-1600va-gen2-usb-iec-ups",
-    "qty": 11,
+    "qty": 29,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
    },
    {
@@ -910,10 +900,10 @@
     "brand": "Eaton",
     "title": "Eaton 5E 1600VA UPS",
     "spec": "Backs up a whole desk",
-    "price": "R3 058",
+    "price": "R2 879",
     "handle": "eaton-5e-1600va-gen2-usb-iec-ups",
     "url": "https://ubratech.co.za/products/eaton-5e-1600va-gen2-usb-iec-ups",
-    "qty": 11,
+    "qty": 29,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
    },
    {
@@ -925,6 +915,16 @@
     "url": "/products/apc-smart-line-interactive-1000va-1kva-600w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
     "qty": 5,
     "image": "https://s3.amazonaws.com/tarsus.co.za/SMC1000IC_default.jpg"
+   },
+   {
+    "brand": "APC",
+    "title": "APC Smart-UPS 1000VA LCD 230V with SmartConnect",
+    "spec": "Ups And Power",
+    "price": "R10 098",
+    "handle": "apc-smart-ups-1000va-lcd-230v-with-smartconnect",
+    "url": "/products/apc-smart-ups-1000va-lcd-230v-with-smartconnect",
+    "qty": 4,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SMT1000IC_default.jpg"
    },
    {
     "brand": "APC",
@@ -1360,7 +1360,7 @@
     "price": "R259",
     "handle": "ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0-usb2-0",
     "url": "/products/ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0-usb2-0",
-    "qty": 154,
+    "qty": 155,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM478-15495-wr-01.jpg"
    }
   ]
@@ -1394,18 +1394,18 @@
     "price": "R667",
     "handle": "logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
     "url": "/products/logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
-    "qty": 41,
+    "qty": 39,
     "image": "https://s3.amazonaws.com/tarsus.co.za/981-000480_default.jpg"
    },
    {
-    "brand": "Winx",
-    "title": "WINX CALL Elite AI Noise Cancelling Wireless Headset",
+    "brand": "Logitech",
+    "title": "Logitech Headset-Zone 300-Black- BT-N/A-EMEA28i-935, dual…",
     "spec": "Headsets",
-    "price": "R1 320",
-    "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
-    "url": "/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
-    "qty": 41,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg"
+    "price": "R1 423",
+    "handle": "logitech-headset-zone-300-black-bt-n-a-emea28i-935-dual-noise-cancelling-mics-20-hour-battery-multi-device-support",
+    "url": "/products/logitech-headset-zone-300-black-bt-n-a-emea28i-935-dual-noise-cancelling-mics-20-hour-battery-multi-device-support",
+    "qty": 55,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/981-001407_default.png"
    },
    {
     "brand": "HP",
@@ -1573,14 +1573,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM767-35267_UGreen-CM767-M.2-NVMe-SSD-Enclosure-10Gbps-%E2%80%93-Silver_wr_01a.jpg"
    },
    {
-    "brand": "Targus",
-    "title": "Targus Hyper HyperDrive EcoSmart USB4 SSD Enclosure",
-    "spec": "Storage",
-    "price": "R2 002",
-    "handle": "targus-hyper-hyperdrive-ecosmart-usb4-ssd-enclosure",
-    "url": "/products/targus-hyper-hyperdrive-ecosmart-usb4-ssd-enclosure",
-    "qty": 6,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/HD5001GL_default.png"
+    "brand": "SanDisk",
+    "title": "SanDisk Optimus 5100 500GB NVMe SSD",
+    "spec": "500GB NVMe SSD",
+    "price": "R2 026",
+    "handle": "sandisk-optimus-5100-500gb-nvme-ssd",
+    "url": "/products/sandisk-optimus-5100-500gb-nvme-ssd",
+    "qty": 17,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__1__861a.png"
    },
    {
     "brand": "SanDisk",
@@ -1612,7 +1612,7 @@
     "handle": "hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/HSC516U48Z1-16G_Hiksemi-Hiker-16GB-DDR5-4800MHz-Desktop-Memory_wr_01a.jpg",
-    "qty": 136
+    "qty": 135
    },
    {
     "brand": "GeIL",
@@ -1865,14 +1865,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/BHR08OLGL_Xiaomi-Redmi-Buds-8-Lite-White_wr_01b.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP HyperX Cloud Stinger 3 Wired Gaming Headset Black",
+    "brand": "Nearity",
+    "title": "Nearity AW-SP100 Wireless Speakerphone",
     "spec": "Headsets",
-    "price": "R1 081",
-    "handle": "hp-hyperx-cloud-stinger-3-wired-gaming-headset-black",
-    "url": "/products/hp-hyperx-cloud-stinger-3-wired-gaming-headset-black",
-    "qty": 22,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/S/BS1T5AA_5dbd.jpg"
+    "price": "R1 132",
+    "handle": "nearity-aw-sp100-wireless-speakerphone",
+    "url": "/products/nearity-aw-sp100-wireless-speakerphone",
+    "qty": 15,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_Design__67__28ea.png"
    },
    {
     "brand": "Poly",
@@ -2024,23 +2024,23 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Acusense Bullet IP Camera (DS-2CD2T46G2-4I-6MM)",
+    "title": "Hikvision 4MP Fixed Minin Bullet Network Camera",
     "spec": "4MP",
-    "price": "R2 918",
-    "handle": "hikvision-4mp-acusense-bullet-ip-camera-ds-2cd2t46g2-4i-6mm",
-    "url": "/products/hikvision-4mp-acusense-bullet-ip-camera-ds-2cd2t46g2-4i-6mm",
-    "qty": 6,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2_4I_6MM_ff4a.jpg"
+    "price": "R2 746",
+    "handle": "hikvision-4mp-fixed-minin-bullet-network-camera",
+    "url": "/products/hikvision-4mp-fixed-minin-bullet-network-camera",
+    "qty": 233,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_2.8MM_1_1e43.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP ColorVu Fixed Bullet IP Camera",
+    "title": "Hikvision 4MP Varifocal Bullet IP Camera",
     "spec": "4MP",
-    "price": "R3 138",
-    "handle": "hikvision-4mp-colorvu-fixed-bullet-ip-camera",
-    "url": "/products/hikvision-4mp-colorvu-fixed-bullet-ip-camera",
-    "qty": 4,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T47G2_L_6MM_1977.jpg"
+    "price": "R3 202",
+    "handle": "hikvision-4mp-varifocal-bullet-ip-camera",
+    "url": "/products/hikvision-4mp-varifocal-bullet-ip-camera",
+    "qty": 108,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2641G0_LIZSU_2.8MM_12MM__0a67.png"
    },
    {
     "brand": "Hikvision",
@@ -2081,7 +2081,7 @@
     "price": "R3 202",
     "handle": "hikvision-4mp-varifocal-bullet-ip-camera",
     "url": "/products/hikvision-4mp-varifocal-bullet-ip-camera",
-    "qty": 109,
+    "qty": 108,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2641G0_LIZSU_2.8MM_12MM__0a67.png"
    },
    {
@@ -2108,23 +2108,23 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Fixed Mini Bullet Network Camera",
+    "title": "Hikvision 4MP Acusense Bullet IP Camera (DS-2CD2T46G2-4I-6MM)",
     "spec": "4MP",
-    "price": "R2 978",
-    "handle": "hikvision-4mp-fixed-mini-bullet-network-camera",
-    "url": "/products/hikvision-4mp-fixed-mini-bullet-network-camera",
-    "qty": 42,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_4MM_1_306c.png"
+    "price": "R2 918",
+    "handle": "hikvision-4mp-acusense-bullet-ip-camera-ds-2cd2t46g2-4i-6mm",
+    "url": "/products/hikvision-4mp-acusense-bullet-ip-camera-ds-2cd2t46g2-4i-6mm",
+    "qty": 6,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2_4I_6MM_ff4a.jpg"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Acusense Strobe Light Audible Warning Fixed Turret IP Camera",
+    "title": "Hikvision 4MP Acusense Bullet Camera",
     "spec": "4MP",
-    "price": "R3 385",
-    "handle": "hikvision-4mp-acusense-strobe-light-audible-warning-fixed-turret-ip-camera",
-    "url": "/products/hikvision-4mp-acusense-strobe-light-audible-warning-fixed-turret-ip-camera",
-    "qty": 57,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2346G2H_IS2U_SL_2.8MM_98ea.jpg"
+    "price": "R3 533",
+    "handle": "hikvision-4mp-acusense-bullet-camera",
+    "url": "/products/hikvision-4mp-acusense-bullet-camera",
+    "qty": 12,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_4I_2.8MM_9cd8.png"
    },
    {
     "brand": "Hikvision",
@@ -2155,7 +2155,7 @@
     "price": "R468",
     "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
     "url": "/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 1343,
+    "qty": 1193,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
@@ -2197,7 +2197,7 @@
     "price": "R468",
     "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
     "url": "/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 1343,
+    "qty": 1193,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
@@ -2239,7 +2239,7 @@
     "price": "R468",
     "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
     "url": "/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 1343,
+    "qty": 1193,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
