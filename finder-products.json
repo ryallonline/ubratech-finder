@@ -54,16 +54,6 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo V15 Laptop — Core i5 · 512GB SSD",
-    "spec": "Core i5 · 512GB SSD",
-    "price": "R17 881",
-    "handle": "lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
-    "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
-    "qty": 6,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA_default.jpg"
-   },
-   {
     "brand": "Asus",
     "title": "Asus VivoBook 15 X1504VAP 15.6\" Core-i5 8GB 512GB Win 11 Home Notebook",
     "spec": "Core i5 · 15.6\" screen · 8GB RAM",
@@ -74,14 +64,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__72__0802.png"
    },
    {
-    "brand": "HP",
-    "title": "HP ProBook 4 G1ah 14\" FHD Radeon 740M Ryzen 5-220 16GB 512GB Win 11 Pro Notebook",
-    "spec": "Ryzen 5 · 14\" screen · 16GB RAM",
+    "brand": "Acer",
+    "title": "Acer EXO16 51 53W7 Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.EM3EA.004)",
+    "spec": "Core Ultra 5 · 512GB SSD",
     "price": "R16 747",
-    "handle": "hp-probook-4-g1ah-14-fhd-radeon-740m-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/hp-probook-4-g1ah-14-fhd-radeon-740m-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
-    "qty": 4,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KTAT_4090.jpg"
+    "handle": "acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
+    "url": "/products/acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
+    "qty": 68,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.004_default.jpg"
    },
    {
     "brand": "Acer",
@@ -116,14 +106,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP 15S 15.6\" FHD UltraSlim Core 7-150U 16GB 512GB Win 11 Home Silver Notebook",
-    "spec": "Core 7 · 15.6\" screen · 16GB RAM",
-    "price": "R28 965",
-    "handle": "hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
-    "url": "/products/hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
-    "qty": 27,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D6ZS9EA_cc0d.jpg"
+    "brand": "Lenovo",
+    "title": "Lenovo LOQ 15AHP10 15.6\" Ryzen-7 16GB 1TB Win 11 Home Notebook",
+    "spec": "Ryzen 7 · 15.6\" screen · 16GB RAM",
+    "price": "R29 028",
+    "handle": "lenovo-loq-15ahp10-15-6-ryzen-7-16gb-1tb-win-11-home-notebook",
+    "url": "/products/lenovo-loq-15ahp10-15-6-ryzen-7-16gb-1tb-win-11-home-notebook",
+    "qty": 16,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/8/3/83JG001CSA__2__40b1.jpg"
    },
    {
     "brand": "HP",
@@ -570,16 +560,6 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQMZ_4276.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell SE2726HM 27\" FHD Monitor",
-    "spec": "Crisp everyday screen",
-    "price": "R2 332",
-    "handle": "dell-se2726hm-27-fhd-monitor",
-    "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 415,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
-   },
-   {
     "brand": "Acer",
     "title": "Acer V206H 19.5\" HD Monitor (UM.IV6EE.024)",
     "spec": "19.5\" screen",
@@ -590,14 +570,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 27 Monitor - E2726H 1x HDMI, 1x DP, 1x VGA (Includes DP & Power Cable)",
-    "spec": "Monitors And Displays",
-    "price": "R2 444",
-    "handle": "dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
-    "url": "/products/dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
-    "qty": 65,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPN_default.jpg"
+    "brand": "MSI",
+    "title": "MSI MAG 255F E20 25\" FHD 200Hz Rapid IPS Gaming Monitor",
+    "spec": "25\" screen",
+    "price": "R2 461",
+    "handle": "msi-mag-255f-e20-25-fhd-200hz-rapid-ips-gaming-monitor",
+    "url": "/products/msi-mag-255f-e20-25-fhd-200hz-rapid-ips-gaming-monitor",
+    "qty": 131,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-E20_MSI-MAG-255F-E20-25-inch-FHD-200Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -715,16 +695,6 @@
    }
   ],
   "multi": [
-   {
-    "brand": "Dell",
-    "title": "Dell SE2726HM 27\" FHD Monitor",
-    "spec": "Slim bezel · great for lots of windows",
-    "price": "R2 332",
-    "handle": "dell-se2726hm-27-fhd-monitor",
-    "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 415,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
-   },
    {
     "brand": "Hikvision",
     "title": "Hikvision 18.5\" Borderless FHD Monitor",
@@ -1439,7 +1409,7 @@
     "price": "R146",
     "handle": "tp-link-8-port-desktop-switch",
     "url": "https://ubratech.co.za/products/tp-link-8-port-desktop-switch",
-    "qty": 38,
+    "qty": 39,
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SF1008D_2687.jpg"
    },
    {
@@ -1574,23 +1544,23 @@
    },
    {
     "brand": "SanDisk",
-    "title": "SanDisk Portable SSD (V3) - 500GB",
-    "spec": "Storage",
-    "price": "R2 112",
-    "handle": "sandisk-portable-ssd-v3-500gb",
-    "url": "/products/sandisk-portable-ssd-v3-500gb",
-    "qty": 32,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_9437.png"
+    "title": "SanDisk Optimus 5100 500GB NVMe SSD",
+    "spec": "500GB NVMe SSD",
+    "price": "R2 026",
+    "handle": "sandisk-optimus-5100-500gb-nvme-ssd",
+    "url": "/products/sandisk-optimus-5100-500gb-nvme-ssd",
+    "qty": 17,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__1__861a.png"
    },
    {
-    "brand": "Proline",
-    "title": "Proline KINGSTON 1000G NV3 M.2 PCIe 4.0 NVMe SSD",
+    "brand": "SanDisk",
+    "title": "SanDisk Extreme Portable SSD (V3) - 1TB",
     "spec": "Storage",
-    "price": "R5 344",
-    "handle": "proline-kingston-1000g-nv3-m-2-pcie-4-0-nvme-ssd",
-    "url": "/products/proline-kingston-1000g-nv3-m-2-pcie-4-0-nvme-ssd",
-    "qty": 27,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SNV3SM3/1T0_default.jpg"
+    "price": "R5 833",
+    "handle": "sandisk-extreme-portable-ssd-v3-1tb",
+    "url": "/products/sandisk-extreme-portable-ssd-v3-1tb",
+    "qty": 15,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__2__954f.png"
    },
    {
     "brand": "Hiksemi",
