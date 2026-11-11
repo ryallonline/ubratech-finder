@@ -560,6 +560,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQMZ_4276.jpg"
    },
    {
+    "brand": "Dell",
+    "title": "Dell SE2726HM 27\" FHD Monitor",
+    "spec": "Crisp everyday screen",
+    "price": "R2 332",
+    "handle": "dell-se2726hm-27-fhd-monitor",
+    "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
+    "qty": 415,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
+   },
+   {
     "brand": "Acer",
     "title": "Acer V206H 19.5\" HD Monitor (UM.IV6EE.024)",
     "spec": "19.5\" screen",
@@ -570,14 +580,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
-    "brand": "MSI",
-    "title": "MSI MAG 255F E20 25\" FHD 200Hz Rapid IPS Gaming Monitor",
-    "spec": "25\" screen",
-    "price": "R2 461",
-    "handle": "msi-mag-255f-e20-25-fhd-200hz-rapid-ips-gaming-monitor",
-    "url": "/products/msi-mag-255f-e20-25-fhd-200hz-rapid-ips-gaming-monitor",
-    "qty": 131,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-E20_MSI-MAG-255F-E20-25-inch-FHD-200Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 27 Monitor - E2726H 1x HDMI, 1x DP, 1x VGA (Includes DP & Power Cable)",
+    "spec": "Monitors And Displays",
+    "price": "R2 444",
+    "handle": "dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
+    "url": "/products/dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
+    "qty": 65,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPN_default.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -695,6 +705,16 @@
    }
   ],
   "multi": [
+   {
+    "brand": "Dell",
+    "title": "Dell SE2726HM 27\" FHD Monitor",
+    "spec": "Slim bezel · great for lots of windows",
+    "price": "R2 332",
+    "handle": "dell-se2726hm-27-fhd-monitor",
+    "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
+    "qty": 415,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
+   },
    {
     "brand": "Hikvision",
     "title": "Hikvision 18.5\" Borderless FHD Monitor",
@@ -2125,7 +2145,7 @@
     "price": "R468",
     "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
     "url": "/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 1193,
+    "qty": 1173,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
@@ -2167,7 +2187,7 @@
     "price": "R468",
     "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
     "url": "/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 1193,
+    "qty": 1173,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
@@ -2209,7 +2229,7 @@
     "price": "R468",
     "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
     "url": "/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 1193,
+    "qty": 1173,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
