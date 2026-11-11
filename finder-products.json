@@ -60,7 +60,7 @@
     "price": "R13 347",
     "handle": "asus-vivobook-15-x1504vap-15-6-core-i5-8gb-512gb-win-11-home-notebook",
     "url": "/products/asus-vivobook-15-x1504vap-15-6-core-i5-8gb-512gb-win-11-home-notebook",
-    "qty": 122,
+    "qty": 116,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__72__0802.png"
    },
    {
@@ -106,14 +106,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 14 Essential PV14255 Laptop — 16GB (PV14255_KRK_501)",
-    "spec": "Notebooks",
-    "price": "R29 001",
-    "handle": "dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
-    "url": "/products/dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
-    "qty": 41,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/PV14255_KRK_501_default.jpg"
+    "brand": "Lenovo",
+    "title": "Lenovo LOQ 15AHP10 15.6\" Ryzen-7 16GB 1TB Win 11 Home Notebook",
+    "spec": "Ryzen 7 · 15.6\" screen · 16GB RAM",
+    "price": "R29 028",
+    "handle": "lenovo-loq-15ahp10-15-6-ryzen-7-16gb-1tb-win-11-home-notebook",
+    "url": "/products/lenovo-loq-15ahp10-15-6-ryzen-7-16gb-1tb-win-11-home-notebook",
+    "qty": 16,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/8/3/83JG001CSA__2__40b1.jpg"
    },
    {
     "brand": "HP",
@@ -158,16 +158,6 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/CG0K8ET_default.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo Yoga 7 14\" WUXGA OLED Touch Ultra 7-355 16GB 512GB Win 11 Home 2-in-1 Notebook",
-    "spec": "14\" screen · 16GB RAM",
-    "price": "R28 084",
-    "handle": "lenovo-yoga-7-14-wuxga-oled-touch-ultra-7-355-16gb-512gb-win-11-home-2-in-1-notebook",
-    "url": "/products/lenovo-yoga-7-14-wuxga-oled-touch-ultra-7-355-16gb-512gb-win-11-home-2-in-1-notebook",
-    "qty": 6,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/8/3/83TC004ESA_704b.jpg"
-   },
-   {
     "brand": "Asus",
     "title": "Asus Zenbook 14 UX3405CA 14\" 3K OLED 120Hz Core U9-285H 16GB 1TB Win 11 Pro Notebook",
     "spec": "14\" screen · 16GB RAM",
@@ -179,13 +169,13 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell Alienware 16 Aurora 16\" RTX 5060 Core-7 32GB 1TB Win 11 Pro Notebook",
-    "spec": "Core 7 · 16\" screen · 32GB RAM",
-    "price": "R67 150",
-    "handle": "dell-alienware-16-aurora-16-rtx-5060-core-7-32gb-1tb-win-11-pro-notebook",
-    "url": "/products/dell-alienware-16-aurora-16-rtx-5060-core-7-32gb-1tb-win-11-pro-notebook",
-    "qty": 15,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/C/AC16250_RPLH_R_010_7f52.jpg"
+    "title": "Dell XPS 14 DA14260 Series 3 Laptop — 32GB (XPS14DA14260-321TB-OLED)",
+    "spec": "Notebooks",
+    "price": "R76 268",
+    "handle": "dell-xps-14-da14260-series-3-intel-core-ultra-x7-processor-358h-16-cores-18mb-cache-up-to-4-8-ghz-copilot-pc-intel-arc-graphics-32gb-lpddr5x-dual-channel-at-9600-mt-s-1tb-m-2-pcie-nvme-ssd-colour",
+    "url": "/products/dell-xps-14-da14260-series-3-intel-core-ultra-x7-processor-358h-16-cores-18mb-cache-up-to-4-8-ghz-copilot-pc-intel-arc-graphics-32gb-lpddr5x-dual-channel-at-9600-mt-s-1tb-m-2-pcie-nvme-ssd-colour",
+    "qty": 9,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/XPS14DA14260-321TB-OLED_default.jpg"
    },
    {
     "brand": "Dell",
@@ -218,7 +208,7 @@
     "price": "R20 147",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 73,
+    "qty": 71,
     "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    },
    {
@@ -270,7 +260,7 @@
     "price": "R20 147",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 73,
+    "qty": 71,
     "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    },
    {
@@ -556,7 +546,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 402,
+    "qty": 401,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -644,6 +634,16 @@
   ],
   "gaming": [
    {
+    "brand": "Dell",
+    "title": "Dell SE2426H 24\" FHD Gaming Monitor",
+    "spec": "High refresh · smooth motion",
+    "price": "R2 112",
+    "handle": "dell-se2426h-24-fhd-gaming-monitor",
+    "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
+    "qty": 99,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
+   },
+   {
     "brand": "Acer",
     "title": "Acer 24\" IPS FHD 120Hz Monitor",
     "spec": "High refresh · smooth motion",
@@ -674,14 +674,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/P/HP_9U5A2AA_9a08.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi Curved Gaming Monitor G34WQi 2026",
-    "spec": "Monitors And Displays",
-    "price": "R6 899",
-    "handle": "xiaomi-curved-gaming-monitor-g34wqi-2026",
-    "url": "/products/xiaomi-curved-gaming-monitor-g34wqi-2026",
-    "qty": 130,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/ELA6562EU_Xiaomi_Curved_Gaming_Monitor_G34WQi_2026_wr_03.png"
+    "brand": "MSI",
+    "title": "MSI MAG 325QF E18V 32\" WQHD 180Hz VA Gaming Monitor",
+    "spec": "32\" screen",
+    "price": "R6 410",
+    "handle": "msi-mag-325qf-e18v-32-wqhd-180hz-va-gaming-monitor",
+    "url": "/products/msi-mag-325qf-e18v-32-wqhd-180hz-va-gaming-monitor",
+    "qty": 3,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-325QF-E18V_MSI-MAG-325QF-E18V-32-inch-WQHD-180Hz-VA-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
     "brand": "Asus",
@@ -702,7 +702,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 402,
+    "qty": 401,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -717,13 +717,13 @@
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi G24i 2026 24″ 200Hz Full HD 1080p IPS Gaming Monitor",
-    "spec": "24\" screen",
-    "price": "R2 660",
-    "handle": "xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
-    "url": "/products/xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
-    "qty": 203,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6364EU_Xiaomi-G24i-2026-24%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
+    "title": "Xiaomi A27i 2026 27″ 144Hz Full HD 1080P IPS Office Monitor",
+    "spec": "27\" screen",
+    "price": "R2 563",
+    "handle": "xiaomi-a27i-2026-27-144hz-full-hd-1080p-ips-office-monitor",
+    "url": "/products/xiaomi-a27i-2026-27-144hz-full-hd-1080p-ips-office-monitor",
+    "qty": 202,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6410EU_Xiaomi-A27i-2026-27-inch-144Hz-Full-HD-1080P-IPS-Office-Monitor_wr_01a.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -1459,7 +1459,7 @@
     "price": "R6 925",
     "handle": "huawei-s310-48p4x-ekit-48-port-poe-switch",
     "url": "/products/huawei-s310-48p4x-ekit-48-port-poe-switch",
-    "qty": 8,
+    "qty": 4,
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_fcaa.png"
    },
    {
@@ -1663,7 +1663,7 @@
     "price": "R12 564",
     "handle": "asus-prime-radeon-rx-9070-gre-evo-oc-edition-12gb-gddr6-graphics-card",
     "url": "/products/asus-prime-radeon-rx-9070-gre-evo-oc-edition-12gb-gddr6-graphics-card",
-    "qty": 17,
+    "qty": 15,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/05/PRIME-RX9070GRE-O12G_ASUS-Prime-Radeon-RX-9070-GRE-EVO-OC-Edition-12GB-GDDR6-Graphics-Card_wr_01a.jpg"
    },
    {
@@ -1735,7 +1735,7 @@
     "price": "R8 375",
     "handle": "asus-rog-thor-1200w-80-plus-platinum-iii-atx-modular-power-supply",
     "url": "/products/asus-rog-thor-1200w-80-plus-platinum-iii-atx-modular-power-supply",
-    "qty": 4,
+    "qty": 3,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ROG-THOR-1200P3-GAMING_Asus-ROG-Thor-1200W-80-PLUS-Platinum-III-ATX-Modular-Power-Supply-Black_wr_01a.jpg"
    }
   ]
@@ -1907,14 +1907,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/06/WX-CC105_WINX-VIEW-simple-car-phone-holder-%E2%80%93-Black_wr_01a.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP Wired 320MK combo",
-    "spec": "Accessories",
+    "brand": "Port",
+    "title": "Port 45W Universal AC Adapter (900096B-EU)",
+    "spec": "Cables And Adapters",
     "price": "R414",
-    "handle": "hp-wired-320mk-combo",
-    "url": "/products/hp-wired-320mk-combo",
-    "qty": 14,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/9SR36UT_default.png"
+    "handle": "port-45w-universal-ac-adapter-900096b-eu",
+    "url": "/products/port-45w-universal-ac-adapter-900096b-eu",
+    "qty": 90,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__2__35ed.png"
    },
    {
     "brand": "HP",
@@ -1946,7 +1946,7 @@
     "handle": "logitech-c920s-pro-full-hd-usb-webcam",
     "url": "https://ubratech.co.za/products/logitech-c920s-pro-full-hd-usb-webcam",
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/960_001252_9ebb.jpg",
-    "qty": 31
+    "qty": 30
    },
    {
     "brand": "Redragon",
@@ -2004,13 +2004,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Fixed Mini Bullet Network Camera",
+    "title": "Hikvision 4MP Fixed Minin Bullet Network Camera",
     "spec": "4MP",
-    "price": "R2 978",
-    "handle": "hikvision-4mp-fixed-mini-bullet-network-camera",
-    "url": "/products/hikvision-4mp-fixed-mini-bullet-network-camera",
-    "qty": 42,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_4MM_1_306c.png"
+    "price": "R2 746",
+    "handle": "hikvision-4mp-fixed-minin-bullet-network-camera",
+    "url": "/products/hikvision-4mp-fixed-minin-bullet-network-camera",
+    "qty": 226,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_2.8MM_1_1e43.png"
    },
    {
     "brand": "Hikvision",
@@ -2019,7 +2019,7 @@
     "price": "R3 202",
     "handle": "hikvision-4mp-varifocal-bullet-ip-camera",
     "url": "/products/hikvision-4mp-varifocal-bullet-ip-camera",
-    "qty": 108,
+    "qty": 93,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2641G0_LIZSU_2.8MM_12MM__0a67.png"
    },
    {
@@ -2098,13 +2098,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Darkfighter Fiexed Bullet IP Camera",
+    "title": "Hikvision 4MP Acusense Bullet Camera",
     "spec": "4MP",
     "price": "R3 533",
-    "handle": "hikvision-4mp-darkfighter-fiexed-bullet-ip-camera",
-    "url": "/products/hikvision-4mp-darkfighter-fiexed-bullet-ip-camera",
-    "qty": 177,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_4I_4MM_1_ef81.png"
+    "handle": "hikvision-4mp-acusense-bullet-camera",
+    "url": "/products/hikvision-4mp-acusense-bullet-camera",
+    "qty": 12,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_4I_2.8MM_9cd8.png"
    },
    {
     "brand": "Hikvision",
@@ -2113,7 +2113,7 @@
     "price": "R9 329",
     "handle": "hikvision-4-4mp-25x-colorvu-ir-network-speed-dome",
     "url": "/products/hikvision-4-4mp-25x-colorvu-ir-network-speed-dome",
-    "qty": 48,
+    "qty": 47,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2SE4C425MWG_E_14F0_09e8.png"
    }
   ],
@@ -2257,14 +2257,14 @@
    "enquiry": true
   },
   {
-   "brand": "TP-Link Omada",
-   "title": "TP-Link AC1750 Ceiling Mount Dual-Band Access Point",
-   "spec": "450Mbps at 2.4GHz+1300Mbps at 5GHz, 2 x Gb LAN, 802.3at PoE Supported,",
-   "price": "R1 439",
-   "handle": "tp-link-ac1750-ceiling-mount-dual-band-access-point-tp-eap245",
-   "url": "/pages/tp-link-ac1750-ceiling-mount-dual-band-access-point-tp-eap245",
+   "brand": "Grandstream",
+   "title": "Grandstream Enterprise WiFi 5 Wave 2 Indoor Access Point",
+   "spec": "2Gbps, 5GHz 4x4 MU-MIMO, 2.4GHz 2x2 MIMO, 200+ connections, Integrated",
+   "price": "R1 440",
+   "handle": "grandstream-enterprise-wifi-5-wave-2-indoor-access-point-gwn7625",
+   "url": "/pages/grandstream-enterprise-wifi-5-wave-2-indoor-access-point-gwn7625",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/5/8/2/1582.jpg",
+   "image": "https://miro.co.za/img/p/9/0/1/9/9019.jpg",
    "enquiry": true
   },
   {
@@ -2280,13 +2280,13 @@
   },
   {
    "brand": "Grandstream",
-   "title": "Grandstream Enterprise Outdoor WiFi 7 Long Range Access Point",
-   "spec": "Outdoor Long-Range Dual-Band Wi-Fi 7 Access Point/Bridge, 2x2:2 2.4/5G",
-   "price": "R3 075",
-   "handle": "grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
-   "url": "/pages/grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
+   "title": "Grandstream Enterprise Outdoor WiFi 6 Long Range Access Point",
+   "spec": "6Gbps, 4x4:4 2.4/5G, 1x 2.5GbE, 1x SFP 2.5G, 512 client devices, Embed",
+   "price": "R3 383",
+   "handle": "grandstream-enterprise-outdoor-wifi-6-long-range-access-point-gwn7664elr",
+   "url": "/pages/grandstream-enterprise-outdoor-wifi-6-long-range-access-point-gwn7664elr",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/8/7/0/7/18707.jpg",
+   "image": "https://miro.co.za/img/p/1/5/3/5/6/15356.jpg",
    "enquiry": true
   },
   {
