@@ -80,7 +80,7 @@
     "price": "R19 692",
     "handle": "dell-pro-15-essential-pv15250-15-6-fhd-core-i5-1334u-16gb-512gb-win-11-pro-notebook",
     "url": "/products/dell-pro-15-essential-pv15250-15-6-fhd-core-i5-1334u-16gb-512gb-win-11-pro-notebook",
-    "qty": 166,
+    "qty": 162,
     "image": "https://www.pinnacle.co.za/media/catalog/product/P/V/PV15250_RPLU_005_P8L_5d6f.jpg"
    },
    {
@@ -126,14 +126,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DD2Q8ET_default.png"
    },
    {
-    "brand": "HP",
-    "title": "HP ZBook Fury 16 G1i Laptop — Core Ultra 7 · 1TB SSD (B14E2AV)",
-    "spec": "Core Ultra 7 · 1TB SSD",
-    "price": "R81 044",
-    "handle": "hp-zbook-fury-16-g1i-u7255hx-fwwan-intgrtd-cam-dm-5mp-ir-ai-16-0ag2-5kuwvawled-lbl400fwwanfai5mpirwf-ram-32gb-1x32gb-ddr5-5600-1tb-pcie-2280-opal2-nvme-tlc-ssd-gfx-nvidia-rtx-pro-2000-blackwell",
-    "url": "/products/hp-zbook-fury-16-g1i-u7255hx-fwwan-intgrtd-cam-dm-5mp-ir-ai-16-0ag2-5kuwvawled-lbl400fwwanfai5mpirwf-ram-32gb-1x32gb-ddr5-5600-1tb-pcie-2280-opal2-nvme-tlc-ssd-gfx-nvidia-rtx-pro-2000-blackwell",
-    "qty": 26,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/B14E2AV%2354401224_default.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro Precision 5 16\" Core-U7 32GB 1TB Win 11 Pro Notebook",
+    "spec": "16\" screen · 32GB RAM",
+    "price": "R86 374",
+    "handle": "dell-pro-precision-5-16-core-u7-32gb-1tb-win-11-pro-notebook",
+    "url": "/products/dell-pro-precision-5-16-core-u7-32gb-1tb-win-11-pro-notebook",
+    "qty": 16,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__11__7ca3.png"
    }
   ],
   "creator": [
@@ -158,6 +158,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/CG0K8ET_default.jpg"
    },
    {
+    "brand": "Lenovo",
+    "title": "Lenovo Yoga 7 14\" WUXGA OLED Touch Ultra 7-355 16GB 512GB Win 11 Home 2-in-1 Notebook",
+    "spec": "14\" screen · 16GB RAM",
+    "price": "R28 084",
+    "handle": "lenovo-yoga-7-14-wuxga-oled-touch-ultra-7-355-16gb-512gb-win-11-home-2-in-1-notebook",
+    "url": "/products/lenovo-yoga-7-14-wuxga-oled-touch-ultra-7-355-16gb-512gb-win-11-home-2-in-1-notebook",
+    "qty": 6,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/8/3/83TC004ESA_704b.jpg"
+   },
+   {
     "brand": "Asus",
     "title": "Asus Zenbook 14 UX3405CA 14\" 3K OLED 120Hz Core U9-285H 16GB 1TB Win 11 Pro Notebook",
     "spec": "14\" screen · 16GB RAM",
@@ -169,13 +179,13 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell XPS 14 DA14260 Series 3 Laptop — 32GB (XPS14DA14260-321TB-OLED)",
-    "spec": "Notebooks",
-    "price": "R76 268",
-    "handle": "dell-xps-14-da14260-series-3-intel-core-ultra-x7-processor-358h-16-cores-18mb-cache-up-to-4-8-ghz-copilot-pc-intel-arc-graphics-32gb-lpddr5x-dual-channel-at-9600-mt-s-1tb-m-2-pcie-nvme-ssd-colour",
-    "url": "/products/dell-xps-14-da14260-series-3-intel-core-ultra-x7-processor-358h-16-cores-18mb-cache-up-to-4-8-ghz-copilot-pc-intel-arc-graphics-32gb-lpddr5x-dual-channel-at-9600-mt-s-1tb-m-2-pcie-nvme-ssd-colour",
+    "title": "Dell Alienware 16 Aurora 16\" RTX 5060 Core-7 32GB 1TB Win 11 Pro Notebook",
+    "spec": "Core 7 · 16\" screen · 32GB RAM",
+    "price": "R64 627",
+    "handle": "dell-alienware-16-aurora-16-rtx-5060-core-7-32gb-1tb-win-11-pro-notebook",
+    "url": "/products/dell-alienware-16-aurora-16-rtx-5060-core-7-32gb-1tb-win-11-pro-notebook",
     "qty": 9,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/XPS14DA14260-321TB-OLED_default.jpg"
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/C/AC16250_RPLH_R_010_7f52.jpg"
    },
    {
     "brand": "Dell",
@@ -388,7 +398,7 @@
     "price": "R16 753",
     "handle": "pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
-    "qty": 11,
+    "qty": 17,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SCOUT_05_wr_01e.jpg"
    },
    {
@@ -482,7 +492,7 @@
     "price": "R16 753",
     "handle": "pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
-    "qty": 11,
+    "qty": 17,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SCOUT_05_wr_01e.jpg"
    },
    {
@@ -736,7 +746,7 @@
     "price": "R336",
     "handle": "gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "url": "/products/gizzu-30w-38wh-10400mah-mini-dc-ups-black",
-    "qty": 99,
+    "qty": 199,
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GU30WPRO_wr_01a.jpg"
    },
    {
@@ -746,7 +756,7 @@
     "price": "R481",
     "handle": "gizzu-60w-65wh-17600mah-mini-poe-dc-ups-lithium-black",
     "url": "/products/gizzu-60w-65wh-17600mah-mini-poe-dc-ups-lithium-black",
-    "qty": 99,
+    "qty": 199,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/GUP60W_wr_01.jpg"
    },
    {
@@ -959,7 +969,7 @@
     "price": "R437",
     "handle": "cudy-ac1200-wi-fi-mesh-kit-1-pack",
     "url": "/products/cudy-ac1200-wi-fi-mesh-kit-1-pack",
-    "qty": 83,
+    "qty": 81,
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/06/M1200-1PACK_wr_01a.jpg"
    },
    {
@@ -1512,24 +1522,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM767-35267_UGreen-CM767-M.2-NVMe-SSD-Enclosure-10Gbps-%E2%80%93-Silver_wr_01a.jpg"
    },
    {
-    "brand": "SanDisk",
-    "title": "SanDisk Optimus 5100 500GB NVMe SSD",
-    "spec": "500GB NVMe SSD",
-    "price": "R2 026",
-    "handle": "sandisk-optimus-5100-500gb-nvme-ssd",
-    "url": "/products/sandisk-optimus-5100-500gb-nvme-ssd",
-    "qty": 17,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__1__861a.png"
+    "brand": "Targus",
+    "title": "Targus Hyper HyperDrive EcoSmart USB4 SSD Enclosure",
+    "spec": "Storage",
+    "price": "R2 002",
+    "handle": "targus-hyper-hyperdrive-ecosmart-usb4-ssd-enclosure",
+    "url": "/products/targus-hyper-hyperdrive-ecosmart-usb4-ssd-enclosure",
+    "qty": 6,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/HD5001GL_default.png"
    },
    {
-    "brand": "Proline",
-    "title": "Proline KINGSTON 1000G NV3 M.2 PCIe 4.0 NVMe SSD",
+    "brand": "SanDisk",
+    "title": "SanDisk Extreme Portable SSD (V3) - 1TB",
     "spec": "Storage",
-    "price": "R5 344",
-    "handle": "proline-kingston-1000g-nv3-m-2-pcie-4-0-nvme-ssd",
-    "url": "/products/proline-kingston-1000g-nv3-m-2-pcie-4-0-nvme-ssd",
-    "qty": 20,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SNV3SM3/1T0_default.jpg"
+    "price": "R5 833",
+    "handle": "sandisk-extreme-portable-ssd-v3-1tb",
+    "url": "/products/sandisk-extreme-portable-ssd-v3-1tb",
+    "qty": 15,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__2__954f.png"
    },
    {
     "brand": "Hiksemi",
@@ -1551,7 +1561,7 @@
     "handle": "hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/HSC516U48Z1-16G_Hiksemi-Hiker-16GB-DDR5-4800MHz-Desktop-Memory_wr_01a.jpg",
-    "qty": 123
+    "qty": 82
    },
    {
     "brand": "GeIL",
@@ -1574,14 +1584,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/KCP432NS8/8_default.png"
    },
    {
-    "brand": "Kingston",
-    "title": "Kingston 16GB DDR4 3200MHz SODIMM",
+    "brand": "GeIL",
+    "title": "GeIL Pristine 32GB DDR4 3200MHz UDIMM Desktop Memory",
     "spec": "Memory",
-    "price": "R4 717",
-    "handle": "kingston-16gb-ddr4-3200mhz-sodimm",
-    "url": "/products/kingston-16gb-ddr4-3200mhz-sodimm",
-    "qty": 93,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/KCP432SD8/16_default.jpg"
+    "price": "R4 406",
+    "handle": "geil-pristine-32gb-ddr4-3200mhz-udimm-desktop-memory",
+    "url": "/products/geil-pristine-32gb-ddr4-3200mhz-udimm-desktop-memory",
+    "qty": 71,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/GP432GB3200C22SC_GeIL-Pristine-32GB-DDR4-3200MHz-UDIMM-Desktop-Memory_wr_01.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -1655,7 +1665,7 @@
     "handle": "gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "url": "https://ubratech.co.za/products/gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GU30WPRO_wr_01a.jpg",
-    "qty": 99
+    "qty": 199
    },
    {
     "brand": "FSP",
@@ -1856,24 +1866,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2018/09/N301-10-SV-PRO_wr_01a.jpg"
    },
    {
-    "brand": "Winx",
-    "title": "WINX VIEW simple car phone holder - Black",
+    "brand": "Redragon",
+    "title": "REDRAGON METEOR L Gaming WristPad 435x73x20mm",
     "spec": "Accessories",
     "price": "R122",
-    "handle": "winx-view-simple-car-phone-holder-black",
-    "url": "/products/winx-view-simple-car-phone-holder-black",
-    "qty": 139,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/06/WX-CC105_WINX-VIEW-simple-car-phone-holder-%E2%80%93-Black_wr_01a.jpg"
+    "handle": "redragon-meteor-l-gaming-wristpad-435x73x20mm",
+    "url": "/products/redragon-meteor-l-gaming-wristpad-435x73x20mm",
+    "qty": 92,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/RD-P037_wr_01.jpg"
    },
    {
     "brand": "HP",
-    "title": "HP Wired 320MK combo",
-    "spec": "Accessories",
+    "title": "HP Slim Rechargeable Pen Charger",
+    "spec": "Cables And Adapters",
     "price": "R414",
-    "handle": "hp-wired-320mk-combo",
-    "url": "/products/hp-wired-320mk-combo",
+    "handle": "hp-slim-rechargeable-pen-charger",
+    "url": "/products/hp-slim-rechargeable-pen-charger",
     "qty": 4,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/9SR36UT_default.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/4X491AA_default.jpg"
    },
    {
     "brand": "HP",
@@ -1914,7 +1924,7 @@
     "price": "R34",
     "handle": "redragon-bm-4049-1200dpi-wired-optical-mouse",
     "url": "/products/redragon-bm-4049-1200dpi-wired-optical-mouse",
-    "qty": 118,
+    "qty": 138,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/RD-BM-4049_wr_01.jpg"
    },
    {
@@ -2005,13 +2015,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Fixed Minin Bullet Network Camera",
+    "title": "Hikvision 4MP 2.8mm Smart Hybrid Light with ColorVu Fixed Mini Bullet Network Camera",
     "spec": "4MP",
-    "price": "R2 746",
-    "handle": "hikvision-4mp-fixed-minin-bullet-network-camera",
-    "url": "/products/hikvision-4mp-fixed-minin-bullet-network-camera",
-    "qty": 226,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_2.8MM_1_1e43.png"
+    "price": "R2 464",
+    "handle": "hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
+    "url": "/products/hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
+    "qty": 666,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LI_2.8MM_e360.jpg"
    },
    {
     "brand": "Hikvision",
@@ -2057,23 +2067,23 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Acusense Bullet Camera",
+    "title": "Hikvision 4MP Darkfighter Fiexed Bullet IP Camera",
     "spec": "4MP",
     "price": "R3 533",
-    "handle": "hikvision-4mp-acusense-bullet-camera",
-    "url": "/products/hikvision-4mp-acusense-bullet-camera",
-    "qty": 12,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_4I_2.8MM_9cd8.png"
+    "handle": "hikvision-4mp-darkfighter-fiexed-bullet-ip-camera",
+    "url": "/products/hikvision-4mp-darkfighter-fiexed-bullet-ip-camera",
+    "qty": 163,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_4I_4MM_1_ef81.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP DeepinView ANPR Moto Varifocal Bullet IP Camera",
-    "spec": "4MP",
-    "price": "R9 112",
-    "handle": "hikvision-4mp-deepinview-anpr-moto-varifocal-bullet-ip-camera",
-    "url": "/products/hikvision-4mp-deepinview-anpr-moto-varifocal-bullet-ip-camera",
-    "qty": 25,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/I/D/IDS_2CD7A46G2_P_IZHS2.8_12MM_ac9b.jpg"
+    "title": "Hikvision 4\" 4MP 25X ColorVu & IR Network Speed Dome",
+    "spec": "4\" screen · 4MP",
+    "price": "R9 329",
+    "handle": "hikvision-4-4mp-25x-colorvu-ir-network-speed-dome",
+    "url": "/products/hikvision-4-4mp-25x-colorvu-ir-network-speed-dome",
+    "qty": 45,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2SE4C425MWG_E_14F0_09e8.png"
    }
   ],
   "small": [
