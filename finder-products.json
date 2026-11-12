@@ -8,7 +8,7 @@
     "price": "R6 925",
     "handle": "acer-etbook-14-celeron-8gb-256gb-14in-fhd-16-9-windows-11-home-64bit-single-language",
     "url": "/products/acer-etbook-14-celeron-8gb-256gb-14in-fhd-16-9-windows-11-home-64bit-single-language",
-    "qty": 65,
+    "qty": 64,
     "image": "https://s3.amazonaws.com/tarsus.co.za/ZL.OTH11.055_default.png"
    },
    {
@@ -70,7 +70,7 @@
     "price": "R16 747",
     "handle": "acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
     "url": "/products/acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
-    "qty": 66,
+    "qty": 64,
     "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.004_default.jpg"
    },
    {
@@ -117,13 +117,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP EliteBoard G1a Laptop — Ryzen 7 (DD2Q8ET)",
-    "spec": "Ryzen 7",
-    "price": "R36 996",
-    "handle": "hp-eliteboard-g1a-amd-ryzen-7-ai-pro-350-os-recovery-ids-detached-cable-32gb-1x32gb-ddr5-5600-sodimm-memory-1tb-hdd-pcie-gen5-2280-nvme-value-windows-11-pro-next-gen-premium-lbl-tco-acadpt-hp-65w",
-    "url": "/products/hp-eliteboard-g1a-amd-ryzen-7-ai-pro-350-os-recovery-ids-detached-cable-32gb-1x32gb-ddr5-5600-sodimm-memory-1tb-hdd-pcie-gen5-2280-nvme-value-windows-11-pro-next-gen-premium-lbl-tco-acadpt-hp-65w",
-    "qty": 8,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DD2Q8ET_default.png"
+    "title": "HP EliteBook 6 G1i 16\" AI Core U5-225U 16GB 512GB LTE Win 11 Pro Notebook",
+    "spec": "16\" screen · 16GB RAM",
+    "price": "R37 085",
+    "handle": "hp-elitebook-6-g1i-16-ai-core-u5-225u-16gb-512gb-lte-win-11-pro-notebook",
+    "url": "/products/hp-elitebook-6-g1i-16-ai-core-u5-225u-16gb-512gb-lte-win-11-pro-notebook",
+    "qty": 34,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/K/CK8H0EA_ca75.jpg"
    },
    {
     "brand": "Dell",
@@ -280,7 +280,7 @@
     "price": "R25 861",
     "handle": "dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
     "url": "https://ubratech.co.za/products/dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
-    "qty": 16,
+    "qty": 14,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO105_QCS1250_EMEA_default.png"
    },
    {
@@ -332,7 +332,7 @@
     "price": "R25 861",
     "handle": "dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
     "url": "https://ubratech.co.za/products/dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
-    "qty": 16,
+    "qty": 14,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO105_QCS1250_EMEA_default.png"
    },
    {
@@ -830,7 +830,7 @@
     "price": "R2 366",
     "handle": "eaton-5e-1200va-gen2-ups",
     "url": "/products/eaton-5e-1200va-gen2-ups",
-    "qty": 49,
+    "qty": 48,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1200UI_66a3.png"
    },
    {
@@ -1337,14 +1337,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS105_wr_01.jpg"
    },
    {
-    "brand": "Logitech",
-    "title": "Logitech H540 USB Computer Headset with HD Sound and On-Ear… (981-000480)",
+    "brand": "Winx",
+    "title": "WINX CALL Pro 2 Mono AI Noise Cancelling Headset",
     "spec": "Headsets",
-    "price": "R667",
-    "handle": "logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
-    "url": "/products/logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
-    "qty": 40,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/981-000480_default.jpg"
+    "price": "R565",
+    "handle": "winx-call-pro-2-mono-ai-noise-cancelling-headset",
+    "url": "/products/winx-call-pro-2-mono-ai-noise-cancelling-headset",
+    "qty": 299,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS113_WINX-CALL-Pro-Wireless-Noise-Cancelling-Mic-Headset-Black_wr_01a.jpg"
    },
    {
     "brand": "Logitech",
