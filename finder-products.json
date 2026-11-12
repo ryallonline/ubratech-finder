@@ -18,7 +18,7 @@
     "price": "R8 575",
     "handle": "acer-gadget-e10-etbook-15-6-laptop-ryzen-5-3450u-8gb-ddr4-256gb-nvme-radeon-graphics-windows-11-home",
     "url": "/products/acer-gadget-e10-etbook-15-6-laptop-ryzen-5-3450u-8gb-ddr4-256gb-nvme-radeon-graphics-windows-11-home",
-    "qty": 51,
+    "qty": 50,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/HP_NBETB_004_Acer_Gadget_E10_ETBook_R3_156_Laptop_Ryz_wr_01.png"
    },
    {
@@ -106,14 +106,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 14 Essential PV14255 Laptop — 16GB (PV14255_KRK_501)",
-    "spec": "Notebooks",
-    "price": "R29 001",
-    "handle": "dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
-    "url": "/products/dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
-    "qty": 41,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/PV14255_KRK_501_default.jpg"
+    "brand": "HP",
+    "title": "HP 15S 15.6\" FHD UltraSlim Core 7-150U 16GB 512GB Win 11 Home Silver Notebook",
+    "spec": "Core 7 · 15.6\" screen · 16GB RAM",
+    "price": "R28 965",
+    "handle": "hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
+    "url": "/products/hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
+    "qty": 27,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D6ZS9EA_cc0d.jpg"
    },
    {
     "brand": "HP",
@@ -198,7 +198,7 @@
     "price": "R17 313",
     "handle": "dell-pro-slim-essential-qvs1260-desktop-pc-core-i3-bto001_qvs1260_emea",
     "url": "https://ubratech.co.za/products/dell-pro-slim-essential-qvs1260-desktop-pc-core-i3-bto001_qvs1260_emea",
-    "qty": 54,
+    "qty": 50,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO001_QVS1260_EMEA_default.png"
    },
    {
@@ -540,14 +540,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 27 Monitor - E2726H 1x HDMI, 1x DP, 1x VGA (Includes DP & Power Cable)",
-    "spec": "Monitors And Displays",
-    "price": "R2 444",
-    "handle": "dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
-    "url": "/products/dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
-    "qty": 20,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPN_default.jpg"
+    "brand": "Acer",
+    "title": "Acer 27\" IPS FHD 120Hz Monitor 3Yr",
+    "spec": "27\" screen",
+    "price": "R2 391",
+    "handle": "acer-27-ips-fhd-120hz-monitor-3yr",
+    "url": "/products/acer-27-ips-fhd-120hz-monitor-3yr",
+    "qty": 3,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -1107,7 +1107,7 @@
     "price": "R2 539",
     "handle": "canon-g3410-megatank-continuous-ink-supply-system-a4-3-in-1-print-copy-scan-4800-x-1200-dpi-8-8-ipm-5-0-ipm-colour-borderless-printing-100-sheets-rear-feed-supports-windows-only-usb-only-no-mc",
     "url": "/products/canon-g3410-megatank-continuous-ink-supply-system-a4-3-in-1-print-copy-scan-4800-x-1200-dpi-8-8-ipm-5-0-ipm-colour-borderless-printing-100-sheets-rear-feed-supports-windows-only-usb-only-no-mc",
-    "qty": 4,
+    "qty": 3,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2315C056AA_default.png"
    },
    {
@@ -1551,7 +1551,7 @@
     "handle": "hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/HSC516U48Z1-16G_Hiksemi-Hiker-16GB-DDR5-4800MHz-Desktop-Memory_wr_01a.jpg",
-    "qty": 124
+    "qty": 123
    },
    {
     "brand": "GeIL",
@@ -1833,7 +1833,7 @@
     "handle": "gizzu-2-port-65w-gan-wall-charger",
     "url": "https://ubratech.co.za/products/gizzu-2-port-65w-gan-wall-charger",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/GWCCU65W_Gizzu-2-Port-65W-GaN-Wall-Charger-White_wr_01b.jpg",
-    "qty": 281
+    "qty": 280
    },
    {
     "brand": "Lenovo",
@@ -1928,14 +1928,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__13__9474.png"
    },
    {
-    "brand": "Corsair",
-    "title": "Corsair K55 CORE RGB Gaming Keyboard - Black",
+    "brand": "Keychron",
+    "title": "Keychron C1 Pro 8K 80% Super Red Hot-swappable RGB Wired Mechanical Keyboard",
     "spec": "Keyboards",
     "price": "R754",
-    "handle": "corsair-k55-core-rgb-gaming-keyboard-black",
-    "url": "/products/corsair-k55-core-rgb-gaming-keyboard-black",
-    "qty": 26,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/CH-9226C65-NA_Corsair_K55_CORE_RGB_Gaming_Keyboard_-_B_wr_01.png"
+    "handle": "keychron-c1-pro-8k-80-super-red-hot-swappable-rgb-wired-mechanical-keyboard",
+    "url": "/products/keychron-c1-pro-8k-80-super-red-hot-swappable-rgb-wired-mechanical-keyboard",
+    "qty": 54,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/05/C1PX-M1_Keychron-C1-Pro-8K-80-Super-Red-Hot-swappable-RGB-Wired-Mechanical-Keyboard_wr_01a.jpg"
    },
    {
     "brand": "Keychron",
@@ -2005,13 +2005,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP 2.8mm Smart Hybrid Light with ColorVu Fixed Mini Bullet Network Camera",
+    "title": "Hikvision 4MP Fixed Minin Bullet Network Camera",
     "spec": "4MP",
-    "price": "R2 464",
-    "handle": "hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
-    "url": "/products/hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
-    "qty": 666,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LI_2.8MM_e360.jpg"
+    "price": "R2 746",
+    "handle": "hikvision-4mp-fixed-minin-bullet-network-camera",
+    "url": "/products/hikvision-4mp-fixed-minin-bullet-network-camera",
+    "qty": 226,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_2.8MM_1_1e43.png"
    },
    {
     "brand": "Hikvision",
@@ -2052,50 +2052,50 @@
     "price": "R2 978",
     "handle": "hikvision-4mp-fixed-mini-bullet-network-camera",
     "url": "/products/hikvision-4mp-fixed-mini-bullet-network-camera",
-    "qty": 42,
+    "qty": 38,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_4MM_1_306c.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Darkfighter Fiexed Bullet IP Camera",
+    "title": "Hikvision 4MP Acusense Bullet Camera",
     "spec": "4MP",
     "price": "R3 533",
-    "handle": "hikvision-4mp-darkfighter-fiexed-bullet-ip-camera",
-    "url": "/products/hikvision-4mp-darkfighter-fiexed-bullet-ip-camera",
-    "qty": 163,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_4I_4MM_1_ef81.png"
+    "handle": "hikvision-4mp-acusense-bullet-camera",
+    "url": "/products/hikvision-4mp-acusense-bullet-camera",
+    "qty": 12,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_4I_2.8MM_9cd8.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4\" 4MP 25X ColorVu & IR Network Speed Dome",
-    "spec": "4\" screen · 4MP",
-    "price": "R9 329",
-    "handle": "hikvision-4-4mp-25x-colorvu-ir-network-speed-dome",
-    "url": "/products/hikvision-4-4mp-25x-colorvu-ir-network-speed-dome",
-    "qty": 45,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2SE4C425MWG_E_14F0_09e8.png"
+    "title": "Hikvision 4MP DeepinView ANPR Moto Varifocal Bullet IP Camera",
+    "spec": "4MP",
+    "price": "R9 112",
+    "handle": "hikvision-4mp-deepinview-anpr-moto-varifocal-bullet-ip-camera",
+    "url": "/products/hikvision-4mp-deepinview-anpr-moto-varifocal-bullet-ip-camera",
+    "qty": 25,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/I/D/IDS_2CD7A46G2_P_IZHS2.8_12MM_ac9b.jpg"
    }
   ],
   "small": [
    {
     "brand": "Hikvision",
-    "title": "Hikvision 2MP 2.8mm 20m-IR Bullet Analog Camera",
+    "title": "Hikvision 2MP 2.8mm Fixed Indoor Turret Analogue Camera",
     "spec": "2MP",
-    "price": "R235",
-    "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 5691,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
+    "price": "R224",
+    "handle": "hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
+    "url": "/products/hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
+    "qty": 5,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE76D0T_EXIPF2.8MM_752e.jpg"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 2MP ColorVu Fixed Turret Analogue Camera",
-    "spec": "2MP",
-    "price": "R468",
-    "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "url": "/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 1153,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
+    "title": "Hikvision 3K 2.8mm Smart Hybrid Light Audio Indoor Fixed Turret Camera",
+    "spec": "Cctv Ip Cameras",
+    "price": "R463",
+    "handle": "hikvision-3k-2-8mm-smart-hybrid-light-audio-indoor-fixed-turret-camera",
+    "url": "/products/hikvision-3k-2-8mm-smart-hybrid-light-audio-indoor-fixed-turret-camera",
+    "qty": 67,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE76K0T_LPFS_2.8MM_1d22.jpg"
    },
    {
     "brand": "Hikvision",
@@ -2163,23 +2163,23 @@
   "large": [
    {
     "brand": "Hikvision",
-    "title": "Hikvision 2MP 2.8mm 20m-IR Bullet Analog Camera",
+    "title": "Hikvision 2MP 2.8mm Fixed Indoor Turret Analogue Camera",
     "spec": "2MP",
-    "price": "R235",
-    "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 5691,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
+    "price": "R224",
+    "handle": "hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
+    "url": "/products/hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
+    "qty": 5,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE76D0T_EXIPF2.8MM_752e.jpg"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 2MP ColorVu Fixed Turret Analogue Camera",
-    "spec": "2MP",
-    "price": "R468",
-    "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "url": "/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 1153,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
+    "title": "Hikvision 3K 2.8mm Smart Hybrid Light Audio Indoor Fixed Turret Camera",
+    "spec": "Cctv Ip Cameras",
+    "price": "R463",
+    "handle": "hikvision-3k-2-8mm-smart-hybrid-light-audio-indoor-fixed-turret-camera",
+    "url": "/products/hikvision-3k-2-8mm-smart-hybrid-light-audio-indoor-fixed-turret-camera",
+    "qty": 67,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE76K0T_LPFS_2.8MM_1d22.jpg"
    },
    {
     "brand": "Hikvision",
