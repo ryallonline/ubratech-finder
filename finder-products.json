@@ -96,14 +96,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 14 Essential PV14255 Laptop — 16GB (PV14255_KRK_501)",
-    "spec": "Notebooks",
-    "price": "R29 001",
-    "handle": "dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
-    "url": "/products/dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
-    "qty": 41,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/PV14255_KRK_501_default.jpg"
+    "brand": "HP",
+    "title": "HP 15S 15.6\" FHD UltraSlim Core 7-150U 16GB 512GB Win 11 Home Silver Notebook",
+    "spec": "Core 7 · 15.6\" screen · 16GB RAM",
+    "price": "R28 965",
+    "handle": "hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
+    "url": "/products/hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
+    "qty": 27,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D6ZS9EA_cc0d.jpg"
    },
    {
     "brand": "Asus",
@@ -294,14 +294,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/05/PCB-AIO-FIB24-I5161000-D5_PCBuilder-FUSION-24-inch-Intel-Core-i5-12400-16GB-DDR5-1TB-Windows-11-AiO-Desktop-PC_wr_01a.jpg"
    },
    {
-    "brand": "PCBuilder",
-    "title": "PCBuilder FUSION 24″ Intel Core i5-12400 16GB DDR5 1TB Windows 11 Pro AiO Desktop PC",
-    "spec": "Core i5 · 24\" screen · 16GB RAM",
-    "price": "R19 711",
-    "handle": "pcbuilder-fusion-24-intel-core-i5-12400-16gb-ddr5-1tb-windows-11-pro-aio-desktop-pc",
-    "url": "/products/pcbuilder-fusion-24-intel-core-i5-12400-16gb-ddr5-1tb-windows-11-pro-aio-desktop-pc",
-    "qty": 14,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB-AIO-FIB24-I5161TB-D5O_PCBuilder-FUSION-24-inch-Intel-Core-i5-12400-16GB-DDR5-1TB-Windows-11-Pro-AiO-Desktop-PC_wr_01.jpg"
+    "brand": "Lenovo",
+    "title": "Lenovo Neo 50q G6 Tiny Desktop PC — Core Ultra 5 · 16GB · 512GB SSD (13HR001JSA)",
+    "spec": "Core Ultra 5 · 512GB SSD",
+    "price": "R18 887",
+    "handle": "lenovo-neo-50q-g6-tiny-u5-226v-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-qlc-integrated-windows-11-pro-64-rtl8852be-2x2ax-bluetooth-vesa-mount-internal-speaker-90w-adapter-usb-clp-us-eng-usb-clp-mouse-pub",
+    "url": "/products/lenovo-neo-50q-g6-tiny-u5-226v-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-qlc-integrated-windows-11-pro-64-rtl8852be-2x2ax-bluetooth-vesa-mount-internal-speaker-90w-adapter-usb-clp-us-eng-usb-clp-mouse-pub",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/13HR001JSA_default.png"
    },
    {
     "brand": "Dell",
@@ -1489,7 +1489,7 @@
     "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
-    "qty": 71
+    "qty": 70
    },
    {
     "brand": "Ugreen",
@@ -1995,13 +1995,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Fixed Minin Bullet Network Camera",
+    "title": "Hikvision 4MP 2.8mm Smart Hybrid Light with ColorVu Fixed Mini Bullet Network Camera",
     "spec": "4MP",
-    "price": "R2 746",
-    "handle": "hikvision-4mp-fixed-minin-bullet-network-camera",
-    "url": "/products/hikvision-4mp-fixed-minin-bullet-network-camera",
-    "qty": 226,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_2.8MM_1_1e43.png"
+    "price": "R2 464",
+    "handle": "hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
+    "url": "/products/hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
+    "qty": 666,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LI_2.8MM_e360.jpg"
    },
    {
     "brand": "Hikvision",
