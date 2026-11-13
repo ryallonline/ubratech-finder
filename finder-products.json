@@ -1378,7 +1378,7 @@
     "price": "R96",
     "handle": "mercusys-5-port-desktop-switch",
     "url": "/products/mercusys-5-port-desktop-switch",
-    "qty": 5,
+    "qty": 31,
     "image": "https://www.pinnacle.co.za/media/catalog/product/M/S/MS105_fcc4.png"
    },
    {
@@ -1392,14 +1392,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG105E_ef37.jpg"
    },
    {
-    "brand": "Huawei",
-    "title": "Huawei S310 24P4S 24-Ports POE Switch",
-    "spec": "Networking And Wireless",
-    "price": "R3 776",
-    "handle": "huawei-s310-24p4s-24-ports-poe-switch",
-    "url": "/products/huawei-s310-24p4s-24-ports-poe-switch",
-    "qty": 177,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/h/u/huawei_switch_s310_24p4s_24ge_ports_4ge_sfp_ports_poe_ac_power_98012201_380436__c994.png"
+    "brand": "Hikvision",
+    "title": "Hikvision 4 Port Gigabit Smart Managed Industrial Solar PoE Switch",
+    "spec": "4 ports",
+    "price": "R2 426",
+    "handle": "hikvision-4-port-gigabit-smart-managed-industrial-solar-poe-switch",
+    "url": "/products/hikvision-4-port-gigabit-smart-managed-industrial-solar-poe-switch",
+    "qty": 11,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__1__0e1c.png"
    },
    {
     "brand": "Huawei",
@@ -1995,13 +1995,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Fixed Minin Bullet Network Camera",
+    "title": "Hikvision 4MP 2.8mm Smart Hybrid Light with ColorVu Fixed Mini Bullet Network Camera",
     "spec": "4MP",
-    "price": "R2 746",
-    "handle": "hikvision-4mp-fixed-minin-bullet-network-camera",
-    "url": "/products/hikvision-4mp-fixed-minin-bullet-network-camera",
-    "qty": 226,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_2.8MM_1_1e43.png"
+    "price": "R2 464",
+    "handle": "hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
+    "url": "/products/hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
+    "qty": 666,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LI_2.8MM_e360.jpg"
    },
    {
     "brand": "Hikvision",
@@ -2206,14 +2206,14 @@
    "enquiry": true
   },
   {
-   "brand": "TP-Link Omada",
-   "title": "TP-Link AC1750 Ceiling Mount Dual-Band Access Point",
-   "spec": "450Mbps at 2.4GHz+1300Mbps at 5GHz, 2 x Gb LAN, 802.3at PoE Supported,",
-   "price": "R1 439",
-   "handle": "tp-link-ac1750-ceiling-mount-dual-band-access-point-tp-eap245",
-   "url": "/pages/tp-link-ac1750-ceiling-mount-dual-band-access-point-tp-eap245",
+   "brand": "Teltonika",
+   "title": "Teltonika Wi-Fi 4 Industrial Wireless Access Point",
+   "spec": "Wi-Fi Mesh, Fast Roaming, 2x RJ45 ports (10/100), Integrated Din Rail ",
+   "price": "R1 389",
+   "handle": "teltonika-wi-fi-4-industrial-wireless-access-point-dap140",
+   "url": "/pages/teltonika-wi-fi-4-industrial-wireless-access-point-dap140",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/5/8/2/1582.jpg",
+   "image": "https://miro.co.za/img/p/1/6/3/9/2/16392.jpg",
    "enquiry": true
   },
   {
@@ -2229,24 +2229,24 @@
   },
   {
    "brand": "Grandstream",
-   "title": "Grandstream Enterprise WiFi 7 Indoor Access Point",
-   "spec": "3.6Gbps, Dual-band 2x2:2 MU-MIMO,256 client devices, 2x 2.5GbE, BLE, E",
-   "price": "R3 418",
-   "handle": "grandstream-enterprise-wifi-7-indoor-access-point-gwn7672",
-   "url": "/pages/grandstream-enterprise-wifi-7-indoor-access-point-gwn7672",
+   "title": "Grandstream Enterprise Outdoor WiFi 6 Long Range Access Point",
+   "spec": "6Gbps, 4x4:4 2.4/5G, 1x 2.5GbE, 1x SFP 2.5G, 512 client devices, Embed",
+   "price": "R3 383",
+   "handle": "grandstream-enterprise-outdoor-wifi-6-long-range-access-point-gwn7664elr",
+   "url": "/pages/grandstream-enterprise-outdoor-wifi-6-long-range-access-point-gwn7664elr",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/8/6/6/5/18665.jpg",
+   "image": "https://miro.co.za/img/p/1/5/3/5/6/15356.jpg",
    "enquiry": true
   },
   {
-   "brand": "Ubiquiti",
-   "title": "Ubiquiti UniFi WiFi 7 Outdoor Access Point",
-   "spec": "No PoE Injector included, 4 Spatial Streams, 250+ connected devices, 2",
-   "price": "R4 735",
-   "handle": "ubiquiti-unifi-wifi-7-outdoor-access-point-u7-outdoor",
-   "url": "/pages/ubiquiti-unifi-wifi-7-outdoor-access-point-u7-outdoor",
+   "brand": "HPE Networking Instant On",
+   "title": "HPE Networking Instant On WiFi 6E Indoor Access Point",
+   "spec": "Tri-band, 802.11ax, PoE excl, 2.5GbE uplink port, 2X2:2 MU-MIMO, 75 Cl",
+   "price": "R4 740",
+   "handle": "hpe-networking-instant-on-wifi-6e-indoor-access-point-ap32",
+   "url": "/pages/hpe-networking-instant-on-wifi-6e-indoor-access-point-ap32",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/7/1/4/0/17140.jpg",
+   "image": "https://miro.co.za/img/p/1/3/6/8/4/13684.jpg",
    "enquiry": true
   },
   {
