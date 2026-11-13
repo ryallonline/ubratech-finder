@@ -8,7 +8,7 @@
     "price": "R6 925",
     "handle": "acer-etbook-14-celeron-8gb-256gb-14in-fhd-16-9-windows-11-home-64bit-single-language",
     "url": "/products/acer-etbook-14-celeron-8gb-256gb-14in-fhd-16-9-windows-11-home-64bit-single-language",
-    "qty": 64,
+    "qty": 63,
     "image": "https://s3.amazonaws.com/tarsus.co.za/ZL.OTH11.055_default.png"
    },
    {
@@ -97,13 +97,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP ProBook 4 G2i AI 16In Laptop — 16GB · 512GB SSD",
-    "spec": "512GB SSD",
-    "price": "R28 256",
-    "handle": "hp-probook-4-g2i-ai-16in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "url": "/products/hp-probook-4-g2i-ai-16in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
-    "qty": 47,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DW2G5ET_default.png"
+    "title": "HP 15S 15.6\" FHD UltraSlim Core 7-150U 16GB 512GB Win 11 Home Silver Notebook",
+    "spec": "Core 7 · 15.6\" screen · 16GB RAM",
+    "price": "R28 965",
+    "handle": "hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
+    "url": "/products/hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
+    "qty": 27,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D6ZS9EA_cc0d.jpg"
    },
    {
     "brand": "Asus",
@@ -418,7 +418,7 @@
     "price": "R24 630",
     "handle": "acer-nitro-v-16-gaming-laptop-16-amd-ryzen-5-16gb-1tb-rtx-5060-8gb-windows-11-home",
     "url": "/products/acer-nitro-v-16-gaming-laptop-16-amd-ryzen-5-16gb-1tb-rtx-5060-8gb-windows-11-home",
-    "qty": 11,
+    "qty": 12,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NH.QYXEA_.001_Acer-NITRO-V-16-Gaming-Laptop-16%E2%80%B3-AMD-Ryzen-5-16GB-1TB-RTX-5060-8GB-Windows-11-Home_wr_001a.jpg"
    }
   ],
@@ -492,7 +492,7 @@
     "price": "R39 420",
     "handle": "pcbuilder-ryzen-5-7600-seeker-windows-11-gaming-pc-pcb-seeker-02",
     "url": "/products/pcbuilder-ryzen-5-7600-seeker-windows-11-gaming-pc-pcb-seeker-02",
-    "qty": 7,
+    "qty": 8,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_SEEKER_02_PCBuilder-Ryzen-5-7600-SEEKER-Windows-11-Gaming-PC_wr_01a.jpg"
    },
    {
@@ -502,7 +502,7 @@
     "price": "R43 361",
     "handle": "pcbuilder-ryzen-5-7600-maverick-windows-11-gaming-pc-pcb-maverick-02",
     "url": "/products/pcbuilder-ryzen-5-7600-maverick-windows-11-gaming-pc-pcb-maverick-02",
-    "qty": 10,
+    "qty": 11,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_MAVERICK_02_PCBuilder-Ryzen-5-7600-MAVERICK-Windows-11-Gaming-PC_wr_01.jpg"
    }
   ]
@@ -556,7 +556,7 @@
     "price": "R3 251",
     "handle": "xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
     "url": "/products/xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
-    "qty": 124,
+    "qty": 162,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6370EU_Xiaomi-G27i-2026-27%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
    },
    {
@@ -566,7 +566,7 @@
     "price": "R5 917",
     "handle": "xiaomi-a27ui-27-60hz-4k-ips-office-monitor",
     "url": "/products/xiaomi-a27ui-27-60hz-4k-ips-office-monitor",
-    "qty": 65,
+    "qty": 59,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6221EU_Xiaomi-A27Ui-27-inch-60Hz-4K-IPS-Office-Monitor_wr_01b.jpg"
    }
   ],
@@ -702,7 +702,7 @@
     "price": "R4 240",
     "handle": "xiaomi-g27qi-2026-27-2k-qhd-200hz-fast-ips-gaming-monitor",
     "url": "/products/xiaomi-g27qi-2026-27-2k-qhd-200hz-fast-ips-gaming-monitor",
-    "qty": 118,
+    "qty": 143,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6556EU_Xiaomi-G27Qi-2026-27-inch-2K-QHD-200Hz-IPS-Gaming-Monitor_wr_01a.jpg"
    },
    {
@@ -1031,7 +1031,7 @@
     "price": "R6 287",
     "handle": "xiaomi-mesh-system-be3600-pro-3-pack",
     "url": "/products/xiaomi-mesh-system-be3600-pro-3-pack",
-    "qty": 8,
+    "qty": 10,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/DVB4480GL_Xiaomi-BE3600-Pro-Dual-Band-Mesh-Router-3-Pack_hr01a.jpeg"
    }
   ],
@@ -1593,7 +1593,7 @@
     "handle": "asus-tuf-gaming-geforce-rtx-5070-12gb-gddr7-oc-edition",
     "url": "https://ubratech.co.za/products/asus-tuf-gaming-geforce-rtx-5070-12gb-gddr7-oc-edition",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/TUF-RTX5070-O12G-GAMING-wr-01.jpg",
-    "qty": 9
+    "qty": 7
    },
    {
     "brand": "MSI",
@@ -1664,7 +1664,7 @@
     "price": "R1 118",
     "handle": "antec-atom-g750-semi-modular-power-supply",
     "url": "/products/antec-atom-g750-semi-modular-power-supply",
-    "qty": 116,
+    "qty": 140,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/11/Antec_ATOM-G750_wr_01a.jpg"
    },
    {
@@ -1699,7 +1699,7 @@
     "handle": "xiaomi-robot-vacuum-s40c",
     "url": "https://ubratech.co.za/products/xiaomi-robot-vacuum-s40c",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/BHR9664EU_Xiaomi-Robot-Vacuum-S40C_wr_02a-1.jpg",
-    "qty": 137
+    "qty": 136
    },
    {
     "brand": "Xiaomi",
@@ -1712,34 +1712,34 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/QBH4312GL_Xiaomi-Smart-Temperature-and-Humidity-Monitor-3-Mini-White_wr_01a.jpg"
    },
    {
-    "brand": "TP-Link",
-    "title": "TP-Link TAPO C225 Pan/Tilt AI Home Security Wi-Fi Camera",
-    "spec": "Smart Home",
-    "price": "R1 063",
-    "handle": "tp-link-tapo-c225-pan-tilt-ai-home-security-wi-fi-camera",
-    "url": "/products/tp-link-tapo-c225-pan-tilt-ai-home-security-wi-fi-camera",
-    "qty": 5,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/T/C/TC73_US_2.6_overview_01_normal_20230925211116u_175c.png"
-   },
-   {
     "brand": "Xiaomi",
-    "title": "Xiaomi Smart Camera C500 Dual (4MP, 360° PTZ, AI Detection, Night Vision)",
-    "spec": "4MP",
-    "price": "R2 045",
-    "handle": "xiaomi-smart-camera-c500-dual-4mp-360-ptz-ai-detection-night-vision",
-    "url": "/products/xiaomi-smart-camera-c500-dual-4mp-360-ptz-ai-detection-night-vision",
-    "qty": 25,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/Xiaomi-Smart-Camera-C500-Dual-Front.jpg"
-   },
-   {
-    "brand": "Xiaomi",
-    "title": "Xiaomi Smart Double Stack Air Fryer 12L",
+    "title": "Xiaomi Smart Humidifier 2",
     "spec": "Appliances",
-    "price": "R4 658",
-    "handle": "xiaomi-smart-double-stack-air-fryer-12l",
-    "url": "/products/xiaomi-smart-double-stack-air-fryer-12l",
-    "qty": 89,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/BHR0883EU_Xiaomi-Smart-Double-Stack-Air-Fryer-12L_wr_01a.jpg"
+    "price": "R1 121",
+    "handle": "xiaomi-smart-humidifier-2",
+    "url": "/products/xiaomi-smart-humidifier-2",
+    "qty": 199,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/BHR6026EU_wr_01a.jpg"
+   },
+   {
+    "brand": "Xiaomi",
+    "title": "Xiaomi Smart Standing Air Circulation Fan",
+    "spec": "Appliances",
+    "price": "R2 044",
+    "handle": "xiaomi-smart-standing-air-circulation-fan",
+    "url": "/products/xiaomi-smart-standing-air-circulation-fan",
+    "qty": 202,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/6932554413064_BHR9849EU_Front-Right.jpeg"
+   },
+   {
+    "brand": "Xiaomi",
+    "title": "Xiaomi Mijia Smart Air Purifier with Humidification Pro",
+    "spec": "Appliances",
+    "price": "R10 240",
+    "handle": "xiaomi-mijia-smart-air-purifier-with-humidification-pro",
+    "url": "/products/xiaomi-mijia-smart-air-purifier-with-humidification-pro",
+    "qty": 3,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/BHR09D9EU_Xiaomi_Mijia_Smart_Air_Purifier_with_Hum_wr_01.png"
    }
   ],
   "audio": [
@@ -1751,7 +1751,7 @@
     "handle": "xiaomi-soundbar-2-0ch",
     "url": "https://ubratech.co.za/products/xiaomi-soundbar-2-0ch",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/QBH4286EU_Xiaomi-Soundbar-2.0ch_wr_01.jpg",
-    "qty": 84
+    "qty": 89
    },
    {
     "brand": "Xiaomi",
@@ -1846,14 +1846,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2018/09/N301-10-SV-PRO_wr_01a.jpg"
    },
    {
-    "brand": "PWR",
-    "title": "PWR Dedicated to 3 Headed Cable 3.8m",
-    "spec": "Cables And Adapters",
+    "brand": "Redragon",
+    "title": "REDRAGON METEOR L Gaming WristPad 435x73x20mm",
+    "spec": "Accessories",
     "price": "R122",
-    "handle": "pwr-dedicated-to-3-headed-cable-3-8m",
-    "url": "/products/pwr-dedicated-to-3-headed-cable-3-8m",
-    "qty": 10,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2016/01/PC-6D3IC13BK3.8_wr_01.jpg"
+    "handle": "redragon-meteor-l-gaming-wristpad-435x73x20mm",
+    "url": "/products/redragon-meteor-l-gaming-wristpad-435x73x20mm",
+    "qty": 96,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/RD-P037_wr_01.jpg"
    },
    {
     "brand": "HP",
