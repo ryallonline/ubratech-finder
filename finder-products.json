@@ -23,13 +23,13 @@
    },
    {
     "brand": "Asus",
-    "title": "Asus VivoBook 16 AMD Ryzen 5 8GB 256GB Win 11 Home Notebook",
-    "spec": "Ryzen 5 · 8GB RAM",
-    "price": "R10 954",
-    "handle": "asus-vivobook-16-amd-ryzen-5-8gb-256gb-win-11-home-notebook",
-    "url": "/products/asus-vivobook-16-amd-ryzen-5-8gb-256gb-win-11-home-notebook",
-    "qty": 5,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/S/ASUS_Vivobook_16_X1652XA_X1652DA_Product_photo_1S_Cool_Silver_03_3efe.jpg"
+    "title": "Asus VivoBook 15 X1504VAP 15.6\" Core 5-120U 8GB 512GB Win 11 Home Notebook - Quiet Blue",
+    "spec": "Core 5 · 15.6\" screen · 8GB RAM",
+    "price": "R10 199",
+    "handle": "asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
+    "url": "/products/asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
+    "qty": 38,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/X/1/X1504VAP_I382BL0W_a78d.jpg"
    },
    {
     "brand": "Lenovo",
@@ -44,16 +44,6 @@
   ],
   "mid": [
    {
-    "brand": "Lenovo",
-    "title": "Lenovo V15 Laptop — Core i3 · 256GB SSD",
-    "spec": "Core i3 · 256GB SSD",
-    "price": "R13 978",
-    "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
-    "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
-    "qty": 16,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
-   },
-   {
     "brand": "HP",
     "title": "HP 250R G10 15.6\" Core 3 100U 8GB 512GB Win 11 Pro Silver Notebook",
     "spec": "Core 3 · 15.6\" screen · 8GB RAM",
@@ -64,14 +54,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/7/C78E8AT_98d1.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer EXO16 51 53W7 Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.EM3EA.004)",
-    "spec": "Core Ultra 5 · 512GB SSD",
-    "price": "R16 747",
-    "handle": "acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
-    "url": "/products/acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
-    "qty": 64,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.004_default.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 15 15.6\" Core-i5 8GB 512GB Win 11 Pro Notebook",
+    "spec": "Core i5 · 15.6\" screen · 8GB RAM",
+    "price": "R16 824",
+    "handle": "dell-pro-15-15-6-core-i5-8gb-512gb-win-11-pro-notebook",
+    "url": "/products/dell-pro-15-15-6-core-i5-8gb-512gb-win-11-pro-notebook",
+    "qty": 141,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/P/V/PV15250_RPLU_001_P8L_f32d.jpg"
    },
    {
     "brand": "Dell",
@@ -106,24 +96,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP 15S 15.6\" FHD UltraSlim Core 7-150U 16GB 512GB Win 11 Home Silver Notebook",
-    "spec": "Core 7 · 15.6\" screen · 16GB RAM",
-    "price": "R28 965",
-    "handle": "hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
-    "url": "/products/hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
-    "qty": 27,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D6ZS9EA_cc0d.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 14 Essential PV14255 Laptop — 16GB (PV14255_KRK_501)",
+    "spec": "Notebooks",
+    "price": "R29 001",
+    "handle": "dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
+    "url": "/products/dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
+    "qty": 41,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/PV14255_KRK_501_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP Pro x360 13.3\" Ryzen-7 16GB 1TB Win 11 Pro Silver Notebook",
-    "spec": "Ryzen 7 · 13.3\" screen · 16GB RAM",
-    "price": "R37 285",
-    "handle": "hp-pro-x360-13-3-ryzen-7-16gb-1tb-win-11-pro-silver-notebook",
-    "url": "/products/hp-pro-x360-13-3-ryzen-7-16gb-1tb-win-11-pro-silver-notebook",
-    "qty": 24,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/968K3ET__1__1391.jpg"
+    "brand": "Asus",
+    "title": "Asus Zenbook S16 UM5606GA 16\" 3K OLED 120Hz Ryzen AI 9-465 16GB 1TB Win 11 Pro Notebook",
+    "spec": "Ryzen AI 9 · 16\" screen · 16GB RAM",
+    "price": "R37 650",
+    "handle": "asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
+    "url": "/products/asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
+    "qty": 3,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_S16_UM5606GA_Product_photo_3G_Antrim_Gray_03__1__de3e.jpg"
    },
    {
     "brand": "Dell",
@@ -346,14 +336,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP ProDesk 4 SFF G1i AI PC Desktop PC — Core Ultra 5 · 16GB · 512GB SSD (9H7N7ET)",
-    "spec": "Core Ultra 5 · 512GB SSD",
-    "price": "R26 896",
-    "handle": "hp-prodesk-4-sff-g1i-desktop-ai-pc-intel-core-ultra-5-225-16gb-ddr5-5600-mt-s-2-slots-max-64gb-512-gb-pcie-nvme-m-2-ssd-no-optical-drive-intel-graphics-windows-11-pro-intel-wi-fi-6e-ax211-2x2-and",
-    "url": "/products/hp-prodesk-4-sff-g1i-desktop-ai-pc-intel-core-ultra-5-225-16gb-ddr5-5600-mt-s-2-slots-max-64gb-512-gb-pcie-nvme-m-2-ssd-no-optical-drive-intel-graphics-windows-11-pro-intel-wi-fi-6e-ax211-2x2-and",
-    "qty": 39,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/9H7N7ET_default.png"
+    "brand": "Lenovo",
+    "title": "Lenovo M70s G6 Desktop PC — Core Ultra 7 · 16GB · 512GB SSD (12YQ000ESA)",
+    "spec": "Core Ultra 7 · 512GB SSD",
+    "price": "R26 696",
+    "handle": "lenovo-m70s-g6-sff-u7-265-13-tops-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-integrated-windows-11-pro-64-intel-ax211-2x2ax-6e-bluetooth-internal-speaker-usb-trd-us-eng-usb-clp-mouse-pub-fra-ara-eng-1year",
+    "url": "/products/lenovo-m70s-g6-sff-u7-265-13-tops-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-integrated-windows-11-pro-64-intel-ax211-2x2ax-6e-bluetooth-internal-speaker-usb-trd-us-eng-usb-clp-mouse-pub-fra-ara-eng-1year",
+    "qty": 14,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/12YQ000ESA_default.jpg"
    },
    {
     "brand": "Dell",
@@ -536,7 +526,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 386,
+    "qty": 387,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -550,14 +540,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer 27\" IPS FHD 120Hz Monitor 3Yr",
-    "spec": "27\" screen",
-    "price": "R2 391",
-    "handle": "acer-27-ips-fhd-120hz-monitor-3yr",
-    "url": "/products/acer-27-ips-fhd-120hz-monitor-3yr",
-    "qty": 3,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
+    "brand": "MSI",
+    "title": "MSI MAG 255F E20 25\" FHD 200Hz Rapid IPS Gaming Monitor",
+    "spec": "25\" screen",
+    "price": "R2 461",
+    "handle": "msi-mag-255f-e20-25-fhd-200hz-rapid-ips-gaming-monitor",
+    "url": "/products/msi-mag-255f-e20-25-fhd-200hz-rapid-ips-gaming-monitor",
+    "qty": 132,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-E20_MSI-MAG-255F-E20-25-inch-FHD-200Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -634,34 +624,24 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer 24\" IPS FHD 120Hz Monitor",
-    "spec": "High refresh · smooth motion",
-    "price": "R2 014",
-    "handle": "acer-24-ips-fhd-120hz-monitor-3yr",
-    "url": "https://ubratech.co.za/products/acer-24-ips-fhd-120hz-monitor-3yr",
-    "qty": 9,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.QE1EE.G08_default.png"
-   },
-   {
-    "brand": "Acer",
-    "title": "Acer 27\" IPS FHD 120Hz Monitor",
-    "spec": "High refresh · smooth motion",
-    "price": "R2 391",
-    "handle": "acer-27-ips-fhd-120hz-monitor-3yr",
-    "url": "https://ubratech.co.za/products/acer-27-ips-fhd-120hz-monitor-3yr",
-    "qty": 3,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
+    "brand": "Xiaomi",
+    "title": "Xiaomi A24i 2026 24″ 144Hz Full HD 1080P IPS Office Monitor",
+    "spec": "24\" screen",
+    "price": "R2 071",
+    "handle": "xiaomi-a24i-2026-24-144hz-full-hd-1080p-ips-office-monitor",
+    "url": "/products/xiaomi-a24i-2026-24-144hz-full-hd-1080p-ips-office-monitor",
+    "qty": 191,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6416EU_Xiaomi-A24i-2026-24-inch-144Hz-Full-HD-1080P-IPS-Office-Monitor_wr_01a.jpg"
    },
    {
     "brand": "MSI",
-    "title": "MSI MAG 255F X24 25″ FHD 240Hz IPS Gaming Monitor",
-    "spec": "25\" screen",
-    "price": "R2 661",
-    "handle": "msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
-    "url": "/products/msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
-    "qty": 136,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-X24_MSI-MAG-255F-X24-25-inch-FHD-240Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
+    "title": "MSI MAG 275F E20 27\" FHD 200Hz Rapid IPS Gaming Monitor",
+    "spec": "27\" screen",
+    "price": "R3 249",
+    "handle": "msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
+    "url": "/products/msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
+    "qty": 16,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-275F-E20_MSI-MAG-275F-E20-27inch-FHD-200Hz-Gaming-Montor-wr01.jpeg"
    },
    {
     "brand": "Xiaomi",
@@ -692,7 +672,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 386,
+    "qty": 387,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -706,24 +686,24 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi G24i 2026 24″ 200Hz Full HD 1080p IPS Gaming Monitor",
-    "spec": "24\" screen",
-    "price": "R2 660",
-    "handle": "xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
-    "url": "/products/xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
-    "qty": 203,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6364EU_Xiaomi-G24i-2026-24%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
+    "brand": "MSI",
+    "title": "MSI MAG 255F X24 25″ FHD 240Hz IPS Gaming Monitor",
+    "spec": "25\" screen",
+    "price": "R2 661",
+    "handle": "msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
+    "url": "/products/msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
+    "qty": 136,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-X24_MSI-MAG-255F-X24-25-inch-FHD-240Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi A27Qi 2026 27\" inch 120Hz 2K IPS Office Monitor",
+    "title": "Xiaomi G27Qi 2026 27″ 2K QHD 200Hz Fast IPS Gaming Monitor",
     "spec": "27\" screen",
-    "price": "R3 449",
-    "handle": "xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
-    "url": "/products/xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
-    "qty": 162,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6568EU_Xiaomi-A27Qi-2026-27-inch-2K-120Hz-IPS-Office-Monitor_wr_01a.jpg"
+    "price": "R4 240",
+    "handle": "xiaomi-g27qi-2026-27-2k-qhd-200hz-fast-ips-gaming-monitor",
+    "url": "/products/xiaomi-g27qi-2026-27-2k-qhd-200hz-fast-ips-gaming-monitor",
+    "qty": 118,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6556EU_Xiaomi-G27Qi-2026-27-inch-2K-QHD-200Hz-IPS-Gaming-Monitor_wr_01a.jpg"
    },
    {
     "brand": "Asus",
@@ -1403,23 +1383,23 @@
    },
    {
     "brand": "TP-Link",
-    "title": "TP-Link 8 Port Gigabit Desktop Switch",
-    "spec": "8 ports",
-    "price": "R356",
-    "handle": "tp-link-8-port-gigabit-desktop-switch",
-    "url": "/products/tp-link-8-port-gigabit-desktop-switch",
-    "qty": 3,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008D_a815.png"
+    "title": "TP-Link 5 Port Gigabit Smart Switch",
+    "spec": "5 ports",
+    "price": "R326",
+    "handle": "tp-link-5-port-gigabit-smart-switch",
+    "url": "/products/tp-link-5-port-gigabit-smart-switch",
+    "qty": 14,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG105E_ef37.jpg"
    },
    {
-    "brand": "Hikvision",
-    "title": "Hikvision 4 Port Gigabit Smart Managed Industrial Solar PoE Switch",
-    "spec": "4 ports",
-    "price": "R2 426",
-    "handle": "hikvision-4-port-gigabit-smart-managed-industrial-solar-poe-switch",
-    "url": "/products/hikvision-4-port-gigabit-smart-managed-industrial-solar-poe-switch",
-    "qty": 11,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__1__0e1c.png"
+    "brand": "Huawei",
+    "title": "Huawei S310 24P4S 24-Ports POE Switch",
+    "spec": "Networking And Wireless",
+    "price": "R3 776",
+    "handle": "huawei-s310-24p4s-24-ports-poe-switch",
+    "url": "/products/huawei-s310-24p4s-24-ports-poe-switch",
+    "qty": 177,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/h/u/huawei_switch_s310_24p4s_24ge_ports_4ge_sfp_ports_poe_ac_power_98012201_380436__c994.png"
    },
    {
     "brand": "Huawei",
@@ -1866,14 +1846,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2018/09/N301-10-SV-PRO_wr_01a.jpg"
    },
    {
-    "brand": "Redragon",
-    "title": "REDRAGON METEOR L Gaming WristPad 435x73x20mm",
-    "spec": "Accessories",
+    "brand": "PWR",
+    "title": "PWR Dedicated to 3 Headed Cable 3.8m",
+    "spec": "Cables And Adapters",
     "price": "R122",
-    "handle": "redragon-meteor-l-gaming-wristpad-435x73x20mm",
-    "url": "/products/redragon-meteor-l-gaming-wristpad-435x73x20mm",
-    "qty": 92,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/RD-P037_wr_01.jpg"
+    "handle": "pwr-dedicated-to-3-headed-cable-3-8m",
+    "url": "/products/pwr-dedicated-to-3-headed-cable-3-8m",
+    "qty": 10,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2016/01/PC-6D3IC13BK3.8_wr_01.jpg"
    },
    {
     "brand": "HP",
@@ -2015,13 +1995,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP 2.8mm Smart Hybrid Light with ColorVu Fixed Mini Bullet Network Camera",
+    "title": "Hikvision 4MP Fixed Minin Bullet Network Camera",
     "spec": "4MP",
-    "price": "R2 464",
-    "handle": "hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
-    "url": "/products/hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
-    "qty": 666,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LI_2.8MM_e360.jpg"
+    "price": "R2 746",
+    "handle": "hikvision-4mp-fixed-minin-bullet-network-camera",
+    "url": "/products/hikvision-4mp-fixed-minin-bullet-network-camera",
+    "qty": 226,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_2.8MM_1_1e43.png"
    },
    {
     "brand": "Hikvision",
