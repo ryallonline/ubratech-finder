@@ -238,7 +238,7 @@
     "price": "R9 859",
     "handle": "pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
     "url": "/products/pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
-    "qty": 36,
+    "qty": 35,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_CUBE_I58G_HOME_V2_PCBuilder-CUBE-Intel-i5-1235U-8GB-DDR4-512GB-Windows-11-Home-Mini-PC_wr_01a.jpg"
    },
    {
@@ -388,7 +388,7 @@
     "price": "R16 753",
     "handle": "pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
-    "qty": 17,
+    "qty": 18,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SCOUT_05_wr_01e.jpg"
    },
    {
@@ -398,7 +398,7 @@
     "price": "R19 391",
     "handle": "asus-tuf-a15-15-6-ryzen-7-8gb-512gb-win-11-home-notebook",
     "url": "/products/asus-tuf-a15-15-6-ryzen-7-8gb-512gb-win-11-home-notebook",
-    "qty": 14,
+    "qty": 13,
     "image": "https://www.pinnacle.co.za/media/catalog/product/F/A/FA506NCG_78512B0W__1__1ce1.png"
    },
    {
@@ -482,7 +482,7 @@
     "price": "R16 753",
     "handle": "pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
-    "qty": 17,
+    "qty": 18,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SCOUT_05_wr_01e.jpg"
    },
    {
@@ -630,7 +630,7 @@
     "price": "R2 071",
     "handle": "xiaomi-a24i-2026-24-144hz-full-hd-1080p-ips-office-monitor",
     "url": "/products/xiaomi-a24i-2026-24-144hz-full-hd-1080p-ips-office-monitor",
-    "qty": 191,
+    "qty": 190,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6416EU_Xiaomi-A24i-2026-24-inch-144Hz-Full-HD-1080P-IPS-Office-Monitor_wr_01a.jpg"
    },
    {
@@ -1388,7 +1388,7 @@
     "price": "R326",
     "handle": "tp-link-5-port-gigabit-smart-switch",
     "url": "/products/tp-link-5-port-gigabit-smart-switch",
-    "qty": 14,
+    "qty": 13,
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG105E_ef37.jpg"
    },
    {
@@ -1541,7 +1541,7 @@
     "handle": "hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/HSC516U48Z1-16G_Hiksemi-Hiker-16GB-DDR5-4800MHz-Desktop-Memory_wr_01a.jpg",
-    "qty": 76
+    "qty": 73
    },
    {
     "brand": "GeIL",
@@ -1612,7 +1612,7 @@
     "price": "R12 564",
     "handle": "asus-prime-radeon-rx-9070-gre-evo-oc-edition-12gb-gddr6-graphics-card",
     "url": "/products/asus-prime-radeon-rx-9070-gre-evo-oc-edition-12gb-gddr6-graphics-card",
-    "qty": 14,
+    "qty": 13,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/05/PRIME-RX9070GRE-O12G_ASUS-Prime-Radeon-RX-9070-GRE-EVO-OC-Edition-12GB-GDDR6-Graphics-Card_wr_01a.jpg"
    },
    {
@@ -1761,7 +1761,7 @@
     "handle": "xiaomi-sound-outdoor-30w-portable-bluetooth-speaker-black",
     "url": "https://ubratech.co.za/products/xiaomi-sound-outdoor-30w-portable-bluetooth-speaker-black",
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/QBH4261GL_wr_01a.jpg",
-    "qty": 186
+    "qty": 181
    },
    {
     "brand": "WINX",
@@ -1856,14 +1856,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2016/01/PC-6D3IC13BK3.8_wr_01.jpg"
    },
    {
-    "brand": "Winx",
-    "title": "WINX POWER Max 65W GaN Wall Charger",
-    "spec": "Power Adapter",
-    "price": "R412",
-    "handle": "winx-power-max-65w-gan-wall-charger",
-    "url": "/products/winx-power-max-65w-gan-wall-charger",
-    "qty": 225,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/WX-WC108_WINX-POWER-Max-65W-GaN-Wall-Charger-Black_wr_01.jpg"
+    "brand": "HP",
+    "title": "HP Slim Rechargeable Pen Charger",
+    "spec": "Cables And Adapters",
+    "price": "R414",
+    "handle": "hp-slim-rechargeable-pen-charger",
+    "url": "/products/hp-slim-rechargeable-pen-charger",
+    "qty": 4,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/4X491AA_default.jpg"
    },
    {
     "brand": "HP",
@@ -1953,13 +1953,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Fixed Minin Bullet Network Camera",
+    "title": "Hikvision 4MP 2.8mm Smart Hybrid Light with ColorVu Fixed Mini Bullet Network Camera",
     "spec": "4MP",
-    "price": "R2 746",
-    "handle": "hikvision-4mp-fixed-minin-bullet-network-camera",
-    "url": "/products/hikvision-4mp-fixed-minin-bullet-network-camera",
-    "qty": 226,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_2.8MM_1_1e43.png"
+    "price": "R2 464",
+    "handle": "hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
+    "url": "/products/hikvision-4mp-2-8mm-smart-hybrid-light-with-colorvu-fixed-mini-bullet-network-camera",
+    "qty": 666,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2047G2H_LI_2.8MM_e360.jpg"
    },
    {
     "brand": "Hikvision",
