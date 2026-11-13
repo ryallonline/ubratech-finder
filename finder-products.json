@@ -64,14 +64,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.004_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 15 Essential PV15250 15.6\" FHD Core i5-1334U 16GB 512GB Win 11 Pro Notebook",
-    "spec": "Core i5 · 15.6\" screen · 16GB RAM",
-    "price": "R19 692",
-    "handle": "dell-pro-15-essential-pv15250-15-6-fhd-core-i5-1334u-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/dell-pro-15-essential-pv15250-15-6-fhd-core-i5-1334u-16gb-512gb-win-11-pro-notebook",
-    "qty": 161,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/P/V/PV15250_RPLU_005_P8L_5d6f.jpg"
+    "brand": "HP",
+    "title": "HP ProBook 4 G1iR 14' Core-5 16GB 512GB Win 11 Pro Notebook",
+    "spec": "Core 5 · 16GB RAM",
+    "price": "R19 601",
+    "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
+    "qty": 25,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
    },
    {
     "brand": "HP",
@@ -233,13 +233,13 @@
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder CUBE Intel i5-1235U 8GB DDR4 512GB Windows 11 Home Mini PC",
-    "spec": "8GB RAM",
-    "price": "R9 859",
-    "handle": "pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
-    "url": "/products/pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
-    "qty": 35,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_CUBE_I58G_HOME_V2_PCBuilder-CUBE-Intel-i5-1235U-8GB-DDR4-512GB-Windows-11-Home-Mini-PC_wr_01a.jpg"
+    "title": "PCBuilder AMD Ryzen 5 3400G HOME MASTER Windows 11 Desktop PC (PCB_HOME_R516G-V1)",
+    "spec": "Ryzen 5",
+    "price": "R9 368",
+    "handle": "pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc-pcb-home-r516g-v1",
+    "url": "/products/pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc-pcb-home-r516g-v1",
+    "qty": 69,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/04/PCB_HOME_R516G-V1_PCBuilder-AMD-Ryzen-5-3400G-HOME-MASTER-Windows-11-Desktop-PC_wr_01a.jpg"
    },
    {
     "brand": "PCBuilder",
@@ -1541,7 +1541,7 @@
     "handle": "hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/HSC516U48Z1-16G_Hiksemi-Hiker-16GB-DDR5-4800MHz-Desktop-Memory_wr_01a.jpg",
-    "qty": 70
+    "qty": 68
    },
    {
     "brand": "GeIL",
@@ -1674,7 +1674,7 @@
     "price": "R2 976",
     "handle": "asus-tuf-gaming-1000w-80-plus-gold-evo-atx-3-1-modular-power-supply",
     "url": "/products/asus-tuf-gaming-1000w-80-plus-gold-evo-atx-3-1-modular-power-supply",
-    "qty": 9,
+    "qty": 8,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/TUF-GAMING-1000G-EVO_ASUS_TUF_Gaming_1000W_80_PLUS_Gold_EVO_A_wr_01.png"
    },
    {
@@ -1842,18 +1842,18 @@
     "price": "R6",
     "handle": "orico-micro-usb-chargesync-cable-silver-1m",
     "url": "/products/orico-micro-usb-chargesync-cable-silver-1m",
-    "qty": 122,
+    "qty": 121,
     "image": "https://www.syntech.co.za/wp-content/uploads/2018/09/N301-10-SV-PRO_wr_01a.jpg"
    },
    {
-    "brand": "Redragon",
-    "title": "REDRAGON METEOR L Gaming WristPad 435x73x20mm",
-    "spec": "Accessories",
+    "brand": "PWR",
+    "title": "PWR Dedicated to 3 Headed Cable 3.8m",
+    "spec": "Cables And Adapters",
     "price": "R122",
-    "handle": "redragon-meteor-l-gaming-wristpad-435x73x20mm",
-    "url": "/products/redragon-meteor-l-gaming-wristpad-435x73x20mm",
-    "qty": 96,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/RD-P037_wr_01.jpg"
+    "handle": "pwr-dedicated-to-3-headed-cable-3-8m",
+    "url": "/products/pwr-dedicated-to-3-headed-cable-3-8m",
+    "qty": 10,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2016/01/PC-6D3IC13BK3.8_wr_01.jpg"
    },
    {
     "brand": "HP",
@@ -2074,7 +2074,7 @@
     "price": "R224",
     "handle": "hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
     "url": "/products/hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
-    "qty": 5,
+    "qty": 45,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE76D0T_EXIPF2.8MM_752e.jpg"
    },
    {
@@ -2111,23 +2111,23 @@
   "medium": [
    {
     "brand": "Hikvision",
-    "title": "Hikvision 2MP 2.8mm 20m-IR Bullet Analog Camera",
+    "title": "Hikvision 2MP 2.8mm Fixed Indoor Turret Analogue Camera",
     "spec": "2MP",
-    "price": "R235",
-    "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 5691,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
+    "price": "R224",
+    "handle": "hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
+    "url": "/products/hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
+    "qty": 45,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE76D0T_EXIPF2.8MM_752e.jpg"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 2MP ColorVu Fixed Turret Analogue Camera",
-    "spec": "2MP",
-    "price": "R468",
-    "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "url": "/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 1153,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
+    "title": "Hikvision 3K 2.8mm Smart Hybrid Light Audio Indoor Fixed Turret Camera",
+    "spec": "Cctv Ip Cameras",
+    "price": "R463",
+    "handle": "hikvision-3k-2-8mm-smart-hybrid-light-audio-indoor-fixed-turret-camera",
+    "url": "/products/hikvision-3k-2-8mm-smart-hybrid-light-audio-indoor-fixed-turret-camera",
+    "qty": 47,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE76K0T_LPFS_2.8MM_1d22.jpg"
    },
    {
     "brand": "Hikvision",
@@ -2158,7 +2158,7 @@
     "price": "R224",
     "handle": "hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
     "url": "/products/hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
-    "qty": 5,
+    "qty": 45,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE76D0T_EXIPF2.8MM_752e.jpg"
    },
    {
