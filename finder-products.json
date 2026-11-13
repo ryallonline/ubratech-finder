@@ -28,7 +28,7 @@
     "price": "R10 199",
     "handle": "asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
     "url": "/products/asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
-    "qty": 26,
+    "qty": 16,
     "image": "https://www.pinnacle.co.za/media/catalog/product/X/1/X1504VAP_I382BL0W_a78d.jpg"
    },
    {
@@ -97,13 +97,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP 15S 15.6\" FHD UltraSlim Core 7-150U 16GB 512GB Win 11 Home Silver Notebook",
-    "spec": "Core 7 · 15.6\" screen · 16GB RAM",
-    "price": "R28 965",
-    "handle": "hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
-    "url": "/products/hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
-    "qty": 27,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D6ZS9EA_cc0d.jpg"
+    "title": "HP ProBook 4 G2i AI 16In Laptop — 16GB · 512GB SSD",
+    "spec": "512GB SSD",
+    "price": "R28 256",
+    "handle": "hp-probook-4-g2i-ai-16in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "url": "/products/hp-probook-4-g2i-ai-16in-intel-core-5-320-wwan-5g-16gb-ddr5-5600mhz-512gb-ssd-nvme-pcie-backlit-keyboard-windows-11-pro-3-year-onsite-travel-silver",
+    "qty": 47,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DW2G5ET_default.png"
    },
    {
     "brand": "Asus",
@@ -336,14 +336,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo M70s G6 Desktop PC — Core Ultra 7 · 16GB · 512GB SSD (12YQ000ESA)",
-    "spec": "Core Ultra 7 · 512GB SSD",
-    "price": "R26 696",
-    "handle": "lenovo-m70s-g6-sff-u7-265-13-tops-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-integrated-windows-11-pro-64-intel-ax211-2x2ax-6e-bluetooth-internal-speaker-usb-trd-us-eng-usb-clp-mouse-pub-fra-ara-eng-1year",
-    "url": "/products/lenovo-m70s-g6-sff-u7-265-13-tops-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-integrated-windows-11-pro-64-intel-ax211-2x2ax-6e-bluetooth-internal-speaker-usb-trd-us-eng-usb-clp-mouse-pub-fra-ara-eng-1year",
-    "qty": 14,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/12YQ000ESA_default.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro Micro QCM1250 Core U5-235T 16GB 512GB Win 11 Pro Desktop",
+    "spec": "16GB RAM",
+    "price": "R26 520",
+    "handle": "dell-pro-micro-qcm1250-core-u5-235t-16gb-512gb-win-11-pro-desktop",
+    "url": "/products/dell-pro-micro-qcm1250-core-u5-235t-16gb-512gb-win-11-pro-desktop",
+    "qty": 19,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/B/T/BTO106_QCM1250_2eba.jpg"
    },
    {
     "brand": "HP",
@@ -1664,7 +1664,7 @@
     "price": "R1 118",
     "handle": "antec-atom-g750-semi-modular-power-supply",
     "url": "/products/antec-atom-g750-semi-modular-power-supply",
-    "qty": 117,
+    "qty": 116,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/11/Antec_ATOM-G750_wr_01a.jpg"
    },
    {
@@ -1908,24 +1908,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/RD-BM-4049_wr_01.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP 400 Quiet Wireless Blue Mouse",
+    "brand": "Port",
+    "title": "Port Pure MAC Wireless Copper Rose Mouse",
     "spec": "Wired Mouse",
     "price": "R371",
-    "handle": "hp-400-quiet-wireless-blue-mouse",
-    "url": "/products/hp-400-quiet-wireless-blue-mouse",
-    "qty": 13,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B4AA_ed00.jpg"
+    "handle": "port-pure-mac-wireless-copper-rose-mouse",
+    "url": "/products/port-pure-mac-wireless-copper-rose-mouse",
+    "qty": 27,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__13__9474.png"
    },
    {
-    "brand": "Corsair",
-    "title": "Corsair K55 CORE RGB Gaming Keyboard - Black",
+    "brand": "Keychron",
+    "title": "Keychron B2 Pro Ultra-Slim 96% Wireless Keyboard - Ivory White",
     "spec": "Keyboards",
-    "price": "R754",
-    "handle": "corsair-k55-core-rgb-gaming-keyboard-black",
-    "url": "/products/corsair-k55-core-rgb-gaming-keyboard-black",
-    "qty": 26,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/CH-9226C65-NA_Corsair_K55_CORE_RGB_Gaming_Keyboard_-_B_wr_01.png"
+    "price": "R748",
+    "handle": "keychron-b2-pro-ultra-slim-96-wireless-keyboard-ivory-white",
+    "url": "/products/keychron-b2-pro-ultra-slim-96-wireless-keyboard-ivory-white",
+    "qty": 34,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/B2P-K8_Keychron-B2-Pro-Ultra-Slim-96-Wireless-Keyboard-Ivory-White_wr_01a.jpg"
    },
    {
     "brand": "Keychron",
