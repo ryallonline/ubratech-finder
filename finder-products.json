@@ -44,6 +44,16 @@
   ],
   "mid": [
    {
+    "brand": "Lenovo",
+    "title": "Lenovo V15 Laptop — Core i5 · 512GB SSD",
+    "spec": "Core i5 · 512GB SSD",
+    "price": "R18 860",
+    "handle": "lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
+    "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i5-512gb-ssd-83gw0078za",
+    "qty": 6,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA_default.jpg"
+   },
+   {
     "brand": "HP",
     "title": "HP 250R G10 15.6\" Core 3 100U 8GB 512GB Win 11 Pro Silver Notebook",
     "spec": "Core 3 · 15.6\" screen · 8GB RAM",
@@ -64,14 +74,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.004_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP ProBook 4 G1iR 14' Core-5 16GB 512GB Win 11 Pro Notebook",
-    "spec": "Core 5 · 16GB RAM",
-    "price": "R19 601",
-    "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "qty": 25,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
+    "brand": "Acer",
+    "title": "Acer EXO15 51 5183 Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.EMBEA.004)",
+    "spec": "Core Ultra 5 · 512GB SSD",
+    "price": "R19 013",
+    "handle": "acer-exo15-51-5183-intel-core-ultra-5-processor-125u-15-6-fhd-ips-slimbezel-uma-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-53wh-battery-65w",
+    "url": "/products/acer-exo15-51-5183-intel-core-ultra-5-processor-125u-15-6-fhd-ips-slimbezel-uma-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-53wh-battery-65w",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EMBEA.004_default.jpg"
    },
    {
     "brand": "HP",
@@ -106,14 +116,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D6ZS9EA_cc0d.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus Zenbook S16 UM5606GA 16\" 3K OLED 120Hz Ryzen AI 9-465 16GB 1TB Win 11 Pro Notebook",
-    "spec": "Ryzen AI 9 · 16\" screen · 16GB RAM",
+    "brand": "Lenovo",
+    "title": "Lenovo T14 G7 PTL Laptop — Core Ultra 5 · 512GB SSD (21WN002RZA)",
+    "spec": "Core Ultra 5 · 512GB SSD",
     "price": "R37 650",
-    "handle": "asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
-    "url": "/products/asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
-    "qty": 10,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_S16_UM5606GA_Product_photo_3G_Antrim_Gray_03__1__de3e.jpg"
+    "handle": "lenovo-t14-g7-ptl-u5-325-16gb-base-ddr5x-512gb-ssd-m-2-2280-tlc-g4-intel-arc-windows-11-pro-64-14-0-wuxga-ag-400nits-5m-rgb-ir-cam-intel-wi-fi-7-be211-802-11be-2x2-bt5-4-snapdragon-x12-lte-modem-4g",
+    "url": "/products/lenovo-t14-g7-ptl-u5-325-16gb-base-ddr5x-512gb-ssd-m-2-2280-tlc-g4-intel-arc-windows-11-pro-64-14-0-wuxga-ag-400nits-5m-rgb-ir-cam-intel-wi-fi-7-be211-802-11be-2x2-bt5-4-snapdragon-x12-lte-modem-4g",
+    "qty": 6,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/21WN002RZA_default.jpg"
    },
    {
     "brand": "Dell",
@@ -310,7 +320,7 @@
     "price": "R21 461",
     "handle": "dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
     "url": "/products/dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
-    "qty": 28,
+    "qty": 27,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO004_QVS1260_EMEA_default.jpg"
    }
   ],
@@ -556,7 +566,7 @@
     "price": "R3 251",
     "handle": "xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
     "url": "/products/xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
-    "qty": 162,
+    "qty": 150,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6370EU_Xiaomi-G27i-2026-27%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
    },
    {
@@ -566,7 +576,7 @@
     "price": "R5 917",
     "handle": "xiaomi-a27ui-27-60hz-4k-ips-office-monitor",
     "url": "/products/xiaomi-a27ui-27-60hz-4k-ips-office-monitor",
-    "qty": 59,
+    "qty": 49,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6221EU_Xiaomi-A27Ui-27-inch-60Hz-4K-IPS-Office-Monitor_wr_01b.jpg"
    }
   ],
@@ -630,7 +640,7 @@
     "price": "R2 071",
     "handle": "xiaomi-a24i-2026-24-144hz-full-hd-1080p-ips-office-monitor",
     "url": "/products/xiaomi-a24i-2026-24-144hz-full-hd-1080p-ips-office-monitor",
-    "qty": 186,
+    "qty": 172,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6416EU_Xiaomi-A24i-2026-24-inch-144Hz-Full-HD-1080P-IPS-Office-Monitor_wr_01a.jpg"
    },
    {
@@ -650,7 +660,7 @@
     "price": "R6 899",
     "handle": "xiaomi-curved-gaming-monitor-g34wqi-2026",
     "url": "/products/xiaomi-curved-gaming-monitor-g34wqi-2026",
-    "qty": 126,
+    "qty": 123,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/ELA6562EU_Xiaomi_Curved_Gaming_Monitor_G34WQi_2026_wr_03.png"
    },
    {
@@ -702,7 +712,7 @@
     "price": "R4 240",
     "handle": "xiaomi-g27qi-2026-27-2k-qhd-200hz-fast-ips-gaming-monitor",
     "url": "/products/xiaomi-g27qi-2026-27-2k-qhd-200hz-fast-ips-gaming-monitor",
-    "qty": 143,
+    "qty": 110,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6556EU_Xiaomi-G27Qi-2026-27-inch-2K-QHD-200Hz-IPS-Gaming-Monitor_wr_01a.jpg"
    },
    {
@@ -726,7 +736,7 @@
     "price": "R336",
     "handle": "gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "url": "/products/gizzu-30w-38wh-10400mah-mini-dc-ups-black",
-    "qty": 199,
+    "qty": 299,
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GU30WPRO_wr_01a.jpg"
    },
    {
@@ -736,7 +746,7 @@
     "price": "R481",
     "handle": "gizzu-60w-65wh-17600mah-mini-poe-dc-ups-lithium-black",
     "url": "/products/gizzu-60w-65wh-17600mah-mini-poe-dc-ups-lithium-black",
-    "qty": 199,
+    "qty": 299,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/GUP60W_wr_01.jpg"
    },
    {
@@ -959,7 +969,7 @@
     "price": "R1 064",
     "handle": "cudy-ac1200-mesh-wi-fi-system-2-pack",
     "url": "/products/cudy-ac1200-mesh-wi-fi-system-2-pack",
-    "qty": 50,
+    "qty": 69,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/M1200_2PACK_-2_CUDY_AC1200_Mesh_Wi-fi_system_-_2_Pack_wr_02.png"
    },
    {
@@ -979,7 +989,7 @@
     "price": "R2 461",
     "handle": "cudy-be11000-wi-fi7-gigabit-mesh-router",
     "url": "/products/cudy-be11000-wi-fi7-gigabit-mesh-router",
-    "qty": 11,
+    "qty": 41,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/WR11000_Cudy-BE11000-Wi-Fi7-Gigabit-Mesh-Router_wr_01.jpg"
    }
   ],
@@ -1645,7 +1655,7 @@
     "handle": "gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "url": "https://ubratech.co.za/products/gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GU30WPRO_wr_01a.jpg",
-    "qty": 199
+    "qty": 299
    },
    {
     "brand": "FSP",
@@ -1699,7 +1709,7 @@
     "handle": "xiaomi-robot-vacuum-s40c",
     "url": "https://ubratech.co.za/products/xiaomi-robot-vacuum-s40c",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/BHR9664EU_Xiaomi-Robot-Vacuum-S40C_wr_02a-1.jpg",
-    "qty": 136
+    "qty": 134
    },
    {
     "brand": "Xiaomi",
@@ -1794,14 +1804,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/BHR08OLGL_Xiaomi-Redmi-Buds-8-Lite-White_wr_01b.jpg"
    },
    {
-    "brand": "Nearity",
-    "title": "Nearity AW-SP100 Wireless Speakerphone",
+    "brand": "HP",
+    "title": "HP HyperX Cloud Stinger 3 Wired Gaming Headset Black",
     "spec": "Headsets",
-    "price": "R1 132",
-    "handle": "nearity-aw-sp100-wireless-speakerphone",
-    "url": "/products/nearity-aw-sp100-wireless-speakerphone",
-    "qty": 15,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_Design__67__28ea.png"
+    "price": "R1 081",
+    "handle": "hp-hyperx-cloud-stinger-3-wired-gaming-headset-black",
+    "url": "/products/hp-hyperx-cloud-stinger-3-wired-gaming-headset-black",
+    "qty": 22,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/B/S/BS1T5AA_5dbd.jpg"
    },
    {
     "brand": "Poly",
@@ -1846,14 +1856,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2018/09/N301-10-SV-PRO_wr_01a.jpg"
    },
    {
-    "brand": "PWR",
-    "title": "PWR Dedicated to 3 Headed Cable 3.8m",
+    "brand": "Ugreen",
+    "title": "UGREEN DP131 DisplayPort 2.1 Braided Cable 1M ( 80Gbps · 16K · 60Hz ) - Black/Grey",
     "spec": "Cables And Adapters",
-    "price": "R122",
-    "handle": "pwr-dedicated-to-3-headed-cable-3-8m",
-    "url": "/products/pwr-dedicated-to-3-headed-cable-3-8m",
-    "qty": 10,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2016/01/PC-6D3IC13BK3.8_wr_01.jpg"
+    "price": "R121",
+    "handle": "ugreen-dp131-displayport-2-1-braided-cable-1m-80gbps-16k-60hz-black-grey",
+    "url": "/products/ugreen-dp131-displayport-2-1-braided-cable-1m-80gbps-16k-60hz-black-grey",
+    "qty": 93,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/DP131-55567_UGreen-DP131-DisplayPort-2.1-80Gbps-16K-60Hz-1M-Braided-Cable-Black-Grey_wr_01a.jpg"
    },
    {
     "brand": "HP",
@@ -1904,7 +1914,7 @@
     "price": "R34",
     "handle": "redragon-bm-4049-1200dpi-wired-optical-mouse",
     "url": "/products/redragon-bm-4049-1200dpi-wired-optical-mouse",
-    "qty": 138,
+    "qty": 238,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/RD-BM-4049_wr_01.jpg"
    },
    {
@@ -2074,7 +2084,7 @@
     "price": "R224",
     "handle": "hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
     "url": "/products/hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
-    "qty": 45,
+    "qty": 5,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE76D0T_EXIPF2.8MM_752e.jpg"
    },
    {
@@ -2111,23 +2121,23 @@
   "medium": [
    {
     "brand": "Hikvision",
-    "title": "Hikvision 2MP 2.8mm Fixed Indoor Turret Analogue Camera",
+    "title": "Hikvision 2MP 2.8mm 20m-IR Bullet Analog Camera",
     "spec": "2MP",
-    "price": "R224",
-    "handle": "hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
-    "url": "/products/hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
-    "qty": 45,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE76D0T_EXIPF2.8MM_752e.jpg"
+    "price": "R235",
+    "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
+    "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
+    "qty": 5691,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 3K 2.8mm Smart Hybrid Light Audio Indoor Fixed Turret Camera",
-    "spec": "Cctv Ip Cameras",
-    "price": "R463",
-    "handle": "hikvision-3k-2-8mm-smart-hybrid-light-audio-indoor-fixed-turret-camera",
-    "url": "/products/hikvision-3k-2-8mm-smart-hybrid-light-audio-indoor-fixed-turret-camera",
-    "qty": 47,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE76K0T_LPFS_2.8MM_1d22.jpg"
+    "title": "Hikvision 2MP ColorVu Fixed Turret Analogue Camera",
+    "spec": "2MP",
+    "price": "R468",
+    "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
+    "url": "/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
+    "qty": 1153,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
     "brand": "Hikvision",
@@ -2158,7 +2168,7 @@
     "price": "R224",
     "handle": "hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
     "url": "/products/hikvision-2mp-2-8mm-fixed-indoor-turret-analogue-camera",
-    "qty": 45,
+    "qty": 5,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE76D0T_EXIPF2.8MM_752e.jpg"
    },
    {
