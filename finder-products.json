@@ -18,18 +18,18 @@
     "price": "R8 443",
     "handle": "asus-vivobook-15-x1504vap-15-6-core-3-100u-8gb-256gb-win-11-home-notebook-quiet-blue",
     "url": "/products/asus-vivobook-15-x1504vap-15-6-core-3-100u-8gb-256gb-win-11-home-notebook-quiet-blue",
-    "qty": 449,
+    "qty": 448,
     "image": "https://www.pinnacle.co.za/media/catalog/product/X/1/X1504VAP_I382BL0W_2231.jpg"
    },
    {
     "brand": "Asus",
-    "title": "Asus VivoBook 16 AMD Ryzen 5 8GB 256GB Win 11 Home Notebook",
-    "spec": "Ryzen 5 · 8GB RAM",
-    "price": "R10 954",
-    "handle": "asus-vivobook-16-amd-ryzen-5-8gb-256gb-win-11-home-notebook",
-    "url": "/products/asus-vivobook-16-amd-ryzen-5-8gb-256gb-win-11-home-notebook",
-    "qty": 5,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/S/ASUS_Vivobook_16_X1652XA_X1652DA_Product_photo_1S_Cool_Silver_03_3efe.jpg"
+    "title": "Asus VivoBook Go 15 E1504FA 15,6\" Ryzen-3 8GB 256GB Win 11 Home Notebook",
+    "spec": "Ryzen 3 · 6\" screen · 8GB RAM",
+    "price": "R10 073",
+    "handle": "asus-vivobook-go-15-e1504fa-15-6-ryzen-3-8gb-256gb-win-11-home-notebook",
+    "url": "/products/asus-vivobook-go-15-e1504fa-15-6-ryzen-3-8gb-256gb-win-11-home-notebook",
+    "qty": 143,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/V/i/Vivobook_Go_15_E1504F_E1504G_Product_photo_1K_Mixed_Black_05_Non_Fingerprint_No_3ed0.jpg"
    },
    {
     "brand": "Lenovo",
@@ -102,7 +102,7 @@
     "price": "R22 021",
     "handle": "dell-pro-15-essential-pv15250-i7-1355u-intel-rpl-p-u15-i7-8-layer-pcb-15-6-non-touch-fhd-120hz-wva-ips-anti-glare-250-nit-16gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-fingerprint",
     "url": "/products/dell-pro-15-essential-pv15250-i7-1355u-intel-rpl-p-u15-i7-8-layer-pcb-15-6-non-touch-fhd-120hz-wva-ips-anti-glare-250-nit-16gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-fingerprint",
-    "qty": 26,
+    "qty": 24,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
@@ -132,7 +132,7 @@
     "price": "R86 374",
     "handle": "dell-pro-precision-5-16-core-u7-32gb-1tb-win-11-pro-notebook",
     "url": "/products/dell-pro-precision-5-16-core-u7-32gb-1tb-win-11-pro-notebook",
-    "qty": 16,
+    "qty": 15,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__11__7ca3.png"
    }
   ],
@@ -243,13 +243,13 @@
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder AMD Ryzen 5 3400G HOME MASTER Windows 11 Desktop PC (PCB_HOME_R516G-V1)",
-    "spec": "Ryzen 5",
-    "price": "R9 368",
-    "handle": "pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc-pcb-home-r516g-v1",
-    "url": "/products/pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc-pcb-home-r516g-v1",
-    "qty": 68,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/04/PCB_HOME_R516G-V1_PCBuilder-AMD-Ryzen-5-3400G-HOME-MASTER-Windows-11-Desktop-PC_wr_01a.jpg"
+    "title": "PCBuilder CUBE Intel i5-1235U 8GB DDR4 512GB Windows 11 Home Mini PC",
+    "spec": "8GB RAM",
+    "price": "R9 859",
+    "handle": "pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
+    "url": "/products/pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
+    "qty": 35,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_CUBE_I58G_HOME_V2_PCBuilder-CUBE-Intel-i5-1235U-8GB-DDR4-512GB-Windows-11-Home-Mini-PC_wr_01a.jpg"
    },
    {
     "brand": "PCBuilder",
@@ -258,7 +258,7 @@
     "price": "R11 826",
     "handle": "pcbuilder-cube-intel-i5-1235u-16gb-ddr4-1tb-windows-11-home-mini-pc",
     "url": "/products/pcbuilder-cube-intel-i5-1235u-16gb-ddr4-1tb-windows-11-home-mini-pc",
-    "qty": 5,
+    "qty": 4,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/PCB_CUBE_I516G_HOME_PCBuilder-CUBE-i5-1235U-16GB-DDR4-1TB-Windows-11-Home-Mini-PC_wr_01a.jpg"
    }
   ],
@@ -320,7 +320,7 @@
     "price": "R21 461",
     "handle": "dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
     "url": "/products/dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
-    "qty": 25,
+    "qty": 23,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO004_QVS1260_EMEA_default.jpg"
    }
   ],
@@ -540,14 +540,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPN_default.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi G27i 2026 27″ 200Hz Full HD 1080p IPS Gaming Monitor",
-    "spec": "27\" screen",
-    "price": "R3 251",
-    "handle": "xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
-    "url": "/products/xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
-    "qty": 150,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6370EU_Xiaomi-G27i-2026-27%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
+    "brand": "HP",
+    "title": "HP Series 3 Pro 23.8\" FHD IPS Monitor",
+    "spec": "23.8\" screen",
+    "price": "R3 273",
+    "handle": "hp-series-3-pro-23-8-fhd-ips-monitor",
+    "url": "/products/hp-series-3-pro-23-8-fhd-ips-monitor",
+    "qty": 9,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5J5UT_61c4.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -969,7 +969,7 @@
     "price": "R1 522",
     "handle": "xiaomi-ac1200-whole-home-mesh-wi-fi-system-2-pack",
     "url": "/products/xiaomi-ac1200-whole-home-mesh-wi-fi-system-2-pack",
-    "qty": 111,
+    "qty": 107,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/DVB4451GL_wr_01.jpg"
    },
    {
@@ -1165,7 +1165,7 @@
     "price": "R703",
     "handle": "dell-pro-4-in-1-usb-c-travel-hub-da225",
     "url": "https://ubratech.co.za/products/dell-pro-4-in-1-usb-c-travel-hub-da225",
-    "qty": 6,
+    "qty": 5,
     "image": "https://s3.amazonaws.com/tarsus.co.za/470-BFBN_default.png"
    },
    {
@@ -1189,14 +1189,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/HB112-wr-01a.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP USB-C 100W G6 Black Docking Station",
+    "brand": "Dell",
+    "title": "Dell Pro WD25 13OW USB-C Docking Station",
     "spec": "Docking Station",
-    "price": "R2 819",
-    "handle": "hp-usb-c-100w-g6-black-docking-station",
-    "url": "/products/hp-usb-c-100w-g6-black-docking-station",
-    "qty": 99,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/X/9X3V1UT_2_1072.jpg"
+    "price": "R3 344",
+    "handle": "dell-pro-wd25-13ow-usb-c-docking-station",
+    "url": "/products/dell-pro-wd25-13ow-usb-c-docking-station",
+    "qty": 268,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/r/Artboard_1_4_100_1c4d.jpg"
    },
    {
     "brand": "Dell",
@@ -1227,7 +1227,7 @@
     "price": "R2 267",
     "handle": "targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
     "url": "/products/targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
-    "qty": 36,
+    "qty": 35,
     "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK430EUZ_default.jpg"
    },
    {
@@ -1264,13 +1264,13 @@
    },
    {
     "brand": "Ugreen",
-    "title": "UGREEN 4-Port USB 3.0 Hub with Micro USB · 5Gbps Data Transfer - 1m",
+    "title": "UGREEN 4-Port USB 3.0 Hub · 5Gbps Data Transfer - 0.5m",
     "spec": "4 ports",
-    "price": "R174",
-    "handle": "ugreen-4-port-usb-3-0-hub-with-micro-usb-5gbps-data-transfer-1m",
-    "url": "/products/ugreen-4-port-usb-3-0-hub-with-micro-usb-5gbps-data-transfer-1m",
-    "qty": 99,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CR113-20291_UGREEN-4-Port-USB-3.0-Hub-with-Micro-USB-5Gbps-Data-Transfer-%E2%80%93-1m_wr_01.jpg"
+    "price": "R166",
+    "handle": "ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
+    "url": "/products/ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
+    "qty": 75,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CR113-20290_UGREEN-4-Port-USB-3.0-Hub-with-Micro-USB_wr_01a.jpg"
    },
    {
     "brand": "Port",
@@ -1286,11 +1286,11 @@
     "brand": "Ugreen",
     "title": "UGREEN Revodok 5-in-1 Type-C Hub · 4K HDMI",
     "spec": "Docking Station",
-    "price": "R288",
-    "handle": "ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0",
-    "url": "/products/ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0",
-    "qty": 5,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM511-15596-wr-01.jpg"
+    "price": "R259",
+    "handle": "ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0-usb2-0",
+    "url": "/products/ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0-usb2-0",
+    "qty": 127,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM478-15495-wr-01.jpg"
    }
   ]
  },
@@ -1597,13 +1597,23 @@
    },
    {
     "brand": "Asus",
-    "title": "ASUS Dual Radeon RX 7600 EVO OC Edition 8GB GDDR6 Graphics Card",
+    "title": "ASUS Prime Radeon RX 9070 GRE EVO OC Edition 12GB GDDR6 Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R9 310",
-    "handle": "asus-dual-radeon-rx-7600-evo-oc-edition-8gb-gddr6-graphics-card",
-    "url": "/products/asus-dual-radeon-rx-7600-evo-oc-edition-8gb-gddr6-graphics-card",
-    "qty": 5,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/07/DUAL-RX7600-O8G-EVO_ASUS-Dual-Radeon-RX-7600-EVO-OC-Edition-8GB-GDDR6-Graphics-Card_wr_01a.jpg"
+    "price": "R12 564",
+    "handle": "asus-prime-radeon-rx-9070-gre-evo-oc-edition-12gb-gddr6-graphics-card",
+    "url": "/products/asus-prime-radeon-rx-9070-gre-evo-oc-edition-12gb-gddr6-graphics-card",
+    "qty": 13,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/05/PRIME-RX9070GRE-O12G_ASUS-Prime-Radeon-RX-9070-GRE-EVO-OC-Edition-12GB-GDDR6-Graphics-Card_wr_01a.jpg"
+   },
+   {
+    "brand": "Asus",
+    "title": "ASUS Dual GeForce RTX 5070 12GB GDDR7 OC Edition Graphics Card",
+    "spec": "Graphics Cards",
+    "price": "R20 473",
+    "handle": "asus-dual-geforce-rtx-5070-12gb-gddr7-oc-edition-graphics-card",
+    "url": "/products/asus-dual-geforce-rtx-5070-12gb-gddr7-oc-edition-graphics-card",
+    "qty": 3,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/DUAL-RTX5070-O12G_ASUS-Dual-GeForce-RTX-5070-12GB-GDDR7-OC-Edition-Graphics-Card_wr_01a.jpg"
    },
    {
     "brand": "Asus",
@@ -1718,7 +1728,7 @@
     "price": "R10 240",
     "handle": "xiaomi-mijia-smart-air-purifier-with-humidification-pro",
     "url": "/products/xiaomi-mijia-smart-air-purifier-with-humidification-pro",
-    "qty": 3,
+    "qty": 4,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/BHR09D9EU_Xiaomi_Mijia_Smart_Air_Purifier_with_Hum_wr_01.png"
    }
   ],
@@ -1826,24 +1836,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2018/09/N301-10-SV-PRO_wr_01a.jpg"
    },
    {
-    "brand": "Ugreen",
-    "title": "UGREEN DP131 DisplayPort 2.1 Braided Cable 1M ( 80Gbps · 16K · 60Hz ) - Black/Grey",
+    "brand": "PWR",
+    "title": "PWR Dedicated to 3 Headed Cable 3.8m",
     "spec": "Cables And Adapters",
-    "price": "R121",
-    "handle": "ugreen-dp131-displayport-2-1-braided-cable-1m-80gbps-16k-60hz-black-grey",
-    "url": "/products/ugreen-dp131-displayport-2-1-braided-cable-1m-80gbps-16k-60hz-black-grey",
-    "qty": 93,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/DP131-55567_UGreen-DP131-DisplayPort-2.1-80Gbps-16K-60Hz-1M-Braided-Cable-Black-Grey_wr_01a.jpg"
+    "price": "R122",
+    "handle": "pwr-dedicated-to-3-headed-cable-3-8m",
+    "url": "/products/pwr-dedicated-to-3-headed-cable-3-8m",
+    "qty": 88,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2016/01/PC-6D3IC13BK3.8_wr_01.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell 65W 4.5MM AC Adapter",
-    "spec": "Cables And Adapters",
+    "brand": "Winx",
+    "title": "WINX VIEW Power Phone Holder and Wireless Charger",
+    "spec": "Accessories",
     "price": "R411",
-    "handle": "dell-65w-4-5mm-ac-adapter",
-    "url": "/products/dell-65w-4-5mm-ac-adapter",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/450-ALOF_default.jpg"
+    "handle": "winx-view-power-phone-holder-and-wireless-charger",
+    "url": "/products/winx-view-power-phone-holder-and-wireless-charger",
+    "qty": 119,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/06/WX-CC104_WINX-VIEW-Power-Phone-Holder-Wireless-Charger_wr_01a.jpg"
    },
    {
     "brand": "HP",
@@ -1865,7 +1875,7 @@
     "handle": "logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "url": "https://ubratech.co.za/products/logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "image": "https://s3.amazonaws.com/tarsus.co.za/920-008685_default.jpg",
-    "qty": 31
+    "qty": 30
    },
    {
     "brand": "Logitech",
@@ -1898,14 +1908,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__13__9474.png"
    },
    {
-    "brand": "Keychron",
-    "title": "Keychron B2 Pro Ultra-Slim 96% Wireless Keyboard - Ivory White",
-    "spec": "Keyboards",
-    "price": "R748",
-    "handle": "keychron-b2-pro-ultra-slim-96-wireless-keyboard-ivory-white",
-    "url": "/products/keychron-b2-pro-ultra-slim-96-wireless-keyboard-ivory-white",
-    "qty": 34,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/B2P-K8_Keychron-B2-Pro-Ultra-Slim-96-Wireless-Keyboard-Ivory-White_wr_01a.jpg"
+    "brand": "Dell",
+    "title": "Dell Premier Rechargeable Wireless Mouse - MS7421W",
+    "spec": "Wired Mouse",
+    "price": "R747",
+    "handle": "dell-premier-rechargeable-wireless-mouse-ms7421w",
+    "url": "/products/dell-premier-rechargeable-wireless-mouse-ms7421w",
+    "qty": 12,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/570-ABLO_default.jpg"
    },
    {
     "brand": "Keychron",
@@ -1914,7 +1924,7 @@
     "price": "R4 294",
     "handle": "keychron-q6-he-qmk-full-size-wireless-custom-mechanical-keyboard-nebula-switch-shell-white",
     "url": "/products/keychron-q6-he-qmk-full-size-wireless-custom-mechanical-keyboard-nebula-switch-shell-white",
-    "qty": 14,
+    "qty": 11,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/07/Q6H-P1_Keychron-Q6-HE-QMK-Full-size-Wireless-Custom-Mechanical-Keyboard-Nebula-Switch-%E2%80%93-Shell-White_wr_01a.jpg"
    }
   ]
