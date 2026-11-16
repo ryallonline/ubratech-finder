@@ -738,6 +738,28 @@
     "url": "/products/eaton-5e-1600va-gen2-usb-iec-ups",
     "qty": 26,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
+   },
+   {
+    "brand": "Acconet",
+    "title": "Acconet Mini UPS DC Jack Input 12V 2.3A",
+    "spec": "13200mAh Battery, 4 Way Cable - 1x USB, 1x 9V, 2x 12V, no PSU included",
+    "price": "R252",
+    "handle": "acconet-mini-ups-dc-jack-input-12v-2-3a-ac-ups-mini-v2",
+    "url": "/pages/acconet-mini-ups-dc-jack-input-12v-2-3a-ac-ups-mini-v2",
+    "qty": 9,
+    "image": "https://miro.co.za/img/p/9/8/9/0/9890.jpg",
+    "enquiry": true
+   },
+   {
+    "brand": "UPS",
+    "title": "Acconet 1200VA/600W Offline UPS",
+    "spec": "5-10 Minutes Run Time @ 600W Load.",
+    "price": "R1 564",
+    "handle": "ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
+    "url": "/pages/ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
+    "qty": 9,
+    "image": "https://miro.co.za/img/p/6/2/0/2/6202.jpg",
+    "enquiry": true
    }
   ],
   "desk": [
@@ -790,6 +812,17 @@
     "url": "/products/eaton-5e-1600va-gen2-usb-iec-ups",
     "qty": 26,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
+   },
+   {
+    "brand": "UPS",
+    "title": "Acconet 1200VA/600W Offline UPS",
+    "spec": "5-10 Minutes Run Time @ 600W Load.",
+    "price": "R1 564",
+    "handle": "ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
+    "url": "/pages/ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
+    "qty": 9,
+    "image": "https://miro.co.za/img/p/6/2/0/2/6202.jpg",
+    "enquiry": true
    }
   ],
   "multi": [
@@ -1357,6 +1390,28 @@
     "url": "/products/huawei-s310-48p4s-ekit-48-port-poe-switch",
     "qty": 108,
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_12a1.png"
+   },
+   {
+    "brand": "Tenda",
+    "title": "Tenda 5-Port Fast Ethernet Switch",
+    "spec": "Desktop/Wall-mountable, 5-port 10/100Mbps, Plug and Play, 5v PSU inclu",
+    "price": "R95",
+    "handle": "tenda-5-port-fast-ethernet-switch-s105",
+    "url": "/pages/tenda-5-port-fast-ethernet-switch-s105",
+    "qty": 9,
+    "image": "https://miro.co.za/img/p/1/5/1/1/1511.jpg",
+    "enquiry": true
+   },
+   {
+    "brand": "BDCOM",
+    "title": "BDCOM 48 Port Gigabit SFP - Switch - Dual PSU optional",
+    "spec": "Managed - Layer 3, 48 GBE auto-adaptive SFP ports, 4 Combo GBE ports, ",
+    "price": "R19 629",
+    "handle": "bdcom-48-port-gigabit-sfp-switch-dual-psu-optional",
+    "url": "/pages/bdcom-48-port-gigabit-sfp-switch-dual-psu-optional",
+    "qty": 9,
+    "image": "https://miro.co.za/img/p/1/5/6/156.jpg",
+    "enquiry": true
    }
   ],
   "rack": [
@@ -1369,6 +1424,28 @@
     "url": "https://ubratech.co.za/products/cudy-16-port-layer-2-managed-gigabit-poe-switch",
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/GS2018PS2_wr_01.jpg",
     "qty": 8
+   },
+   {
+    "brand": "Acconet",
+    "title": "Acconet 4U Unassembled Fixed Wall Mount Box 450mm",
+    "spec": "Flat Pack, Glass Door",
+    "price": "R1 235",
+    "handle": "acconet-4u-unassembled-fixed-wall-mount-box-450mm",
+    "url": "/pages/acconet-4u-unassembled-fixed-wall-mount-box-450mm",
+    "qty": 9,
+    "image": "https://miro.co.za/img/p/1/3/4/2/6/13426.jpg",
+    "enquiry": true
+   },
+   {
+    "brand": "Acconet",
+    "title": "Acconet 19\" 25U vented outdoor Safe / Cabinet - 120KG",
+    "spec": "RACKS AND CABINETS",
+    "price": "R31 283",
+    "handle": "acconet-19-25u-vented-outdoor-safe-cabinet-120kg",
+    "url": "/pages/acconet-19-25u-vented-outdoor-safe-cabinet-120kg",
+    "qty": 9,
+    "image": "https://miro.co.za/img/p/5/1/7/8/5178.jpg",
+    "enquiry": true
    }
   ]
  },
@@ -2096,7 +2173,74 @@
    }
   ]
  },
- "wifi_ap": [],
+ "wifi_ap": [
+  {
+   "brand": "MikroTik",
+   "title": "MikroTik mAP 2nD - 2.4GHz mini Indoor AP/CPE",
+   "spec": "650MHz CPU, 64MB RAM, 802.11b/g/n dual chain, 2 x 10/100 LAN, RouterOS",
+   "price": "R848",
+   "handle": "mikrotik-map-2nd-2-4ghz-mini-indoor-ap-cpe",
+   "url": "/pages/mikrotik-map-2nd-2-4ghz-mini-indoor-ap-cpe",
+   "qty": 9,
+   "image": "https://miro.co.za/img/p/4/8/3/1/4831.jpg",
+   "enquiry": true
+  },
+  {
+   "brand": "Teltonika",
+   "title": "Teltonika Wi-Fi 4 Industrial Wireless Access Point",
+   "spec": "Wi-Fi Mesh, Fast Roaming, 2x RJ45 ports (10/100), Integrated Din Rail ",
+   "price": "R1 389",
+   "handle": "teltonika-wi-fi-4-industrial-wireless-access-point-dap140",
+   "url": "/pages/teltonika-wi-fi-4-industrial-wireless-access-point-dap140",
+   "qty": 9,
+   "image": "https://miro.co.za/img/p/1/6/3/9/2/16392.jpg",
+   "enquiry": true
+  },
+  {
+   "brand": "Grandstream",
+   "title": "Grandstream Enterprise WiFi 7 In-Wall Indoor Access Point",
+   "spec": "3,6 Gbps, 2x2:2 2.4G/5G, 1x 2.5GbE PoE,175m coverage,256 clients, Embe",
+   "price": "R2 128",
+   "handle": "grandstream-enterprise-wifi-7-in-wall-indoor-access-point-gwn7670wm",
+   "url": "/pages/grandstream-enterprise-wifi-7-in-wall-indoor-access-point-gwn7670wm",
+   "qty": 9,
+   "image": "https://miro.co.za/img/p/1/7/9/2/9/17929.jpg",
+   "enquiry": true
+  },
+  {
+   "brand": "Grandstream",
+   "title": "Grandstream Enterprise WiFi 7 Indoor Access Point",
+   "spec": "3.6Gbps, Dual-band 2x2:2 MU-MIMO,256 client devices, 2x 2.5GbE, BLE, E",
+   "price": "R3 418",
+   "handle": "grandstream-enterprise-wifi-7-indoor-access-point-gwn7672",
+   "url": "/pages/grandstream-enterprise-wifi-7-indoor-access-point-gwn7672",
+   "qty": 9,
+   "image": "https://miro.co.za/img/p/1/8/6/6/5/18665.jpg",
+   "enquiry": true
+  },
+  {
+   "brand": "HPE Networking Instant On",
+   "title": "HPE Networking Instant On WiFi 6E Indoor Access Point",
+   "spec": "Tri-band, 802.11ax, PoE excl, 2.5GbE uplink port, 2X2:2 MU-MIMO, 75 Cl",
+   "price": "R4 740",
+   "handle": "hpe-networking-instant-on-wifi-6e-indoor-access-point-ap32",
+   "url": "/pages/hpe-networking-instant-on-wifi-6e-indoor-access-point-ap32",
+   "qty": 9,
+   "image": "https://miro.co.za/img/p/1/3/6/8/4/13684.jpg",
+   "enquiry": true
+  },
+  {
+   "brand": "TP-Link",
+   "title": "TP-Link EAP225-O Promotion: Buy 20 X EAP225-O And Get 1 Free OC200",
+   "spec": "Buy 5 x TP-EAP670 Get 1 x TP-EAP670 Free",
+   "price": "R21 377",
+   "handle": "tp-link-eap225-o-promotion-buy-20-x-eap225-o-and-get-1-free-oc200",
+   "url": "/pages/tp-link-eap225-o-promotion-buy-20-x-eap225-o-and-get-1-free-oc200",
+   "qty": 9,
+   "image": "https://miro.co.za/img/p/8/8/7/4/8874.jpg",
+   "enquiry": true
+  }
+ ],
  "companions": {
   "cctv": [
    [
