@@ -74,14 +74,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.004_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 15 Essential PV15250 15.6\" FHD Core i5-1334U 16GB 512GB Win 11 Pro Notebook",
-    "spec": "Core i5 · 15.6\" screen · 16GB RAM",
-    "price": "R19 692",
-    "handle": "dell-pro-15-essential-pv15250-15-6-fhd-core-i5-1334u-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/dell-pro-15-essential-pv15250-15-6-fhd-core-i5-1334u-16gb-512gb-win-11-pro-notebook",
-    "qty": 165,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/P/V/PV15250_RPLU_005_P8L_5d6f.jpg"
+    "brand": "Acer",
+    "title": "Acer EXO15 51 5183 Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.EMBEA.004)",
+    "spec": "Core Ultra 5 · 512GB SSD",
+    "price": "R19 013",
+    "handle": "acer-exo15-51-5183-intel-core-ultra-5-processor-125u-15-6-fhd-ips-slimbezel-uma-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-53wh-battery-65w",
+    "url": "/products/acer-exo15-51-5183-intel-core-ultra-5-processor-125u-15-6-fhd-ips-slimbezel-uma-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-53wh-battery-65w",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EMBEA.004_default.jpg"
    },
    {
     "brand": "HP",
