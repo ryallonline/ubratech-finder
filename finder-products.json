@@ -248,7 +248,7 @@
     "price": "R9 368",
     "handle": "pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc-pcb-home-r516g-v1",
     "url": "/products/pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc-pcb-home-r516g-v1",
-    "qty": 68,
+    "qty": 67,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/04/PCB_HOME_R516G-V1_PCBuilder-AMD-Ryzen-5-3400G-HOME-MASTER-Windows-11-Desktop-PC_wr_01a.jpg"
    },
    {
@@ -530,14 +530,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
-    "brand": "MSI",
-    "title": "MSI MAG 255F E20 25\" FHD 200Hz Rapid IPS Gaming Monitor",
-    "spec": "25\" screen",
-    "price": "R2 461",
-    "handle": "msi-mag-255f-e20-25-fhd-200hz-rapid-ips-gaming-monitor",
-    "url": "/products/msi-mag-255f-e20-25-fhd-200hz-rapid-ips-gaming-monitor",
-    "qty": 131,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-E20_MSI-MAG-255F-E20-25-inch-FHD-200Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 27 Monitor - E2726H 1x HDMI, 1x DP, 1x VGA (Includes DP & Power Cable)",
+    "spec": "Monitors And Displays",
+    "price": "R2 444",
+    "handle": "dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
+    "url": "/products/dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
+    "qty": 15,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPN_default.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -562,14 +562,14 @@
   ],
   "creative": [
    {
-    "brand": "Dell",
-    "title": "Dell 27 Plus S2725QS 27\" 4K 4ms IPS Monitor",
-    "spec": "27\" screen",
-    "price": "R6 862",
-    "handle": "dell-27-plus-s2725qs-27-4k-4ms-ips-monitor",
-    "url": "/products/dell-27-plus-s2725qs-27-4k-4ms-ips-monitor",
-    "qty": 5,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQWM_f0f0.jpg"
+    "brand": "Asus",
+    "title": "Asus ProArt Display PA248CNV 24.1\" WUXGA IPS 75Hz Monitor",
+    "spec": "24.1\" screen",
+    "price": "R6 925",
+    "handle": "asus-proart-display-pa248cnv-24-1-wuxga-ips-75hz-monitor",
+    "url": "/products/asus-proart-display-pa248cnv-24-1-wuxga-ips-75hz-monitor",
+    "qty": 18,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/PA248CNV_Asus-ProArt-Display-PA248CNV-24.1-inch-WUXGA-IPS-75Hz-Monitor-Black_wr_01.jpg"
    },
    {
     "brand": "Asus",
@@ -582,14 +582,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PA278CGRV_Asus_ProArt_27_QHD_1440p_IPS_144Hz_Monit_wr_01.png"
    },
    {
-    "brand": "Dell",
-    "title": "Dell P2722HE 27\" FHD IPS Monitor",
+    "brand": "Asus",
+    "title": "Asus ProArt PA27JCV 27\" 5K HDR 60Hz IPS Display",
     "spec": "27\" screen",
-    "price": "R17 762",
-    "handle": "dell-p2722he-27-fhd-ips-monitor",
-    "url": "/products/dell-p2722he-27-fhd-ips-monitor",
-    "qty": 22,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BMDW_1_c0eb.png"
+    "price": "R18 887",
+    "handle": "asus-proart-pa27jcv-27-5k-hdr-60hz-ips-display",
+    "url": "/products/asus-proart-pa27jcv-27-5k-hdr-60hz-ips-display",
+    "qty": 43,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/PA27JCV_Asus-ProArt-PA27JCV-27-inch-5K-HDR-60Hz-IPS-Display-%E2%80%93-Black_wr_01.jpg"
    },
    {
     "brand": "Asus",
@@ -676,14 +676,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-X24_MSI-MAG-255F-X24-25-inch-FHD-240Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP Series 3 Pro 27\" FHD IPS Monitor",
+    "brand": "Xiaomi",
+    "title": "Xiaomi A27Qi 2026 27\" inch 120Hz 2K IPS Office Monitor",
     "spec": "27\" screen",
-    "price": "R3 776",
-    "handle": "hp-series-3-pro-27-fhd-ips-monitor",
-    "url": "/products/hp-series-3-pro-27-fhd-ips-monitor",
-    "qty": 29,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/0/B0CG3UT_30b1.jpg"
+    "price": "R3 449",
+    "handle": "xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
+    "url": "/products/xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
+    "qty": 116,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6568EU_Xiaomi-A27Qi-2026-27-inch-2K-120Hz-IPS-Office-Monitor_wr_01a.jpg"
    },
    {
     "brand": "Asus",
@@ -738,28 +738,6 @@
     "url": "/products/eaton-5e-1600va-gen2-usb-iec-ups",
     "qty": 26,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
-   },
-   {
-    "brand": "Acconet",
-    "title": "Acconet Mini UPS DC Jack Input 12V 2.3A",
-    "spec": "13200mAh Battery, 4 Way Cable - 1x USB, 1x 9V, 2x 12V, no PSU included",
-    "price": "R252",
-    "handle": "acconet-mini-ups-dc-jack-input-12v-2-3a-ac-ups-mini-v2",
-    "url": "/pages/acconet-mini-ups-dc-jack-input-12v-2-3a-ac-ups-mini-v2",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/9/8/9/0/9890.jpg",
-    "enquiry": true
-   },
-   {
-    "brand": "UPS",
-    "title": "Acconet 1200VA/600W Offline UPS",
-    "spec": "5-10 Minutes Run Time @ 600W Load.",
-    "price": "R1 564",
-    "handle": "ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
-    "url": "/pages/ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/6/2/0/2/6202.jpg",
-    "enquiry": true
    }
   ],
   "desk": [
@@ -812,17 +790,6 @@
     "url": "/products/eaton-5e-1600va-gen2-usb-iec-ups",
     "qty": 26,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
-   },
-   {
-    "brand": "UPS",
-    "title": "Acconet 1200VA/600W Offline UPS",
-    "spec": "5-10 Minutes Run Time @ 600W Load.",
-    "price": "R1 564",
-    "handle": "ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
-    "url": "/pages/ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/6/2/0/2/6202.jpg",
-    "enquiry": true
    }
   ],
   "multi": [
@@ -1131,7 +1098,7 @@
     "price": "R49",
     "handle": "niimbot-d11-d110-d101-h1s-thermal-label-12-5x74mm-65-labels-per-roll-yellow-for-cable",
     "url": "/products/niimbot-d11-d110-d101-h1s-thermal-label-12-5x74mm-65-labels-per-roll-yellow-for-cable",
-    "qty": 32,
+    "qty": 31,
     "image": "https://www.syntech.co.za/wp-content/uploads/2023/09/T12.5x7435-65YELLOW-CABL_wr_01.jpg"
    }
   ]
@@ -1303,7 +1270,7 @@
     "price": "R218",
     "handle": "winx-call-clear-3-5mm-headset",
     "url": "/products/winx-call-clear-3-5mm-headset",
-    "qty": 239,
+    "qty": 237,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS105_wr_01.jpg"
    },
    {
@@ -1390,28 +1357,6 @@
     "url": "/products/huawei-s310-48p4s-ekit-48-port-poe-switch",
     "qty": 108,
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_12a1.png"
-   },
-   {
-    "brand": "Tenda",
-    "title": "Tenda 5-Port Fast Ethernet Switch",
-    "spec": "Desktop/Wall-mountable, 5-port 10/100Mbps, Plug and Play, 5v PSU inclu",
-    "price": "R95",
-    "handle": "tenda-5-port-fast-ethernet-switch-s105",
-    "url": "/pages/tenda-5-port-fast-ethernet-switch-s105",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/1/5/1/1/1511.jpg",
-    "enquiry": true
-   },
-   {
-    "brand": "BDCOM",
-    "title": "BDCOM 48 Port Gigabit SFP - Switch - Dual PSU optional",
-    "spec": "Managed - Layer 3, 48 GBE auto-adaptive SFP ports, 4 Combo GBE ports, ",
-    "price": "R19 629",
-    "handle": "bdcom-48-port-gigabit-sfp-switch-dual-psu-optional",
-    "url": "/pages/bdcom-48-port-gigabit-sfp-switch-dual-psu-optional",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/1/5/6/156.jpg",
-    "enquiry": true
    }
   ],
   "rack": [
@@ -1424,28 +1369,6 @@
     "url": "https://ubratech.co.za/products/cudy-16-port-layer-2-managed-gigabit-poe-switch",
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/GS2018PS2_wr_01.jpg",
     "qty": 8
-   },
-   {
-    "brand": "Acconet",
-    "title": "Acconet 4U Unassembled Fixed Wall Mount Box 450mm",
-    "spec": "Flat Pack, Glass Door",
-    "price": "R1 235",
-    "handle": "acconet-4u-unassembled-fixed-wall-mount-box-450mm",
-    "url": "/pages/acconet-4u-unassembled-fixed-wall-mount-box-450mm",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/1/3/4/2/6/13426.jpg",
-    "enquiry": true
-   },
-   {
-    "brand": "Acconet",
-    "title": "Acconet 19\" 25U vented outdoor Safe / Cabinet - 120KG",
-    "spec": "RACKS AND CABINETS",
-    "price": "R31 283",
-    "handle": "acconet-19-25u-vented-outdoor-safe-cabinet-120kg",
-    "url": "/pages/acconet-19-25u-vented-outdoor-safe-cabinet-120kg",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/5/1/7/8/5178.jpg",
-    "enquiry": true
    }
   ]
  },
@@ -1492,14 +1415,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/HD5001GL_default.png"
    },
    {
-    "brand": "Proline",
-    "title": "Proline KINGSTON 1000G NV3 M.2 PCIe 4.0 NVMe SSD",
+    "brand": "Kingston",
+    "title": "Kingston 1TB XS1000 External USB 3.2 Gen 2 Portable Solid State Drive",
     "spec": "Storage",
-    "price": "R5 344",
-    "handle": "proline-kingston-1000g-nv3-m-2-pcie-4-0-nvme-ssd",
-    "url": "/products/proline-kingston-1000g-nv3-m-2-pcie-4-0-nvme-ssd",
-    "qty": 20,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SNV3SM3/1T0_default.jpg"
+    "price": "R5 159",
+    "handle": "kingston-1tb-xs1000-external-usb-3-2-gen-2-portable-solid-state-drive",
+    "url": "/products/kingston-1tb-xs1000-external-usb-3-2-gen-2-portable-solid-state-drive",
+    "qty": 4,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SXS1000/1000G_default.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -1592,7 +1515,7 @@
     "price": "R12 564",
     "handle": "asus-prime-radeon-rx-9070-gre-evo-oc-edition-12gb-gddr6-graphics-card",
     "url": "/products/asus-prime-radeon-rx-9070-gre-evo-oc-edition-12gb-gddr6-graphics-card",
-    "qty": 13,
+    "qty": 12,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/05/PRIME-RX9070GRE-O12G_ASUS-Prime-Radeon-RX-9070-GRE-EVO-OC-Edition-12GB-GDDR6-Graphics-Card_wr_01a.jpg"
    },
    {
@@ -1837,13 +1760,13 @@
    },
    {
     "brand": "Winx",
-    "title": "WINX VIEW Power Phone Holder and Wireless Charger",
-    "spec": "Accessories",
-    "price": "R411",
-    "handle": "winx-view-power-phone-holder-and-wireless-charger",
-    "url": "/products/winx-view-power-phone-holder-and-wireless-charger",
-    "qty": 119,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/06/WX-CC104_WINX-VIEW-Power-Phone-Holder-Wireless-Charger_wr_01a.jpg"
+    "title": "WINX POWER Max 65W GaN Wall Charger",
+    "spec": "Power Adapter",
+    "price": "R412",
+    "handle": "winx-power-max-65w-gan-wall-charger",
+    "url": "/products/winx-power-max-65w-gan-wall-charger",
+    "qty": 225,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/WX-WC108_WINX-POWER-Max-65W-GaN-Wall-Charger-Black_wr_01.jpg"
    },
    {
     "brand": "HP",
@@ -1933,13 +1856,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP DarkFighter Fixed Dome IP Camera",
+    "title": "Hikvision 4MP Fixed Minin Bullet Network Camera",
     "spec": "4MP",
-    "price": "R2 675",
-    "handle": "hikvision-4mp-darkfighter-fixed-dome-ip-camera",
-    "url": "/products/hikvision-4mp-darkfighter-fixed-dome-ip-camera",
-    "qty": 4,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_ISU_2.8MM_1_061c.png"
+    "price": "R2 727",
+    "handle": "hikvision-4mp-fixed-minin-bullet-network-camera",
+    "url": "/products/hikvision-4mp-fixed-minin-bullet-network-camera",
+    "qty": 230,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_2.8MM_1_1e43.png"
    },
    {
     "brand": "Hikvision",
@@ -2106,7 +2029,7 @@
     "price": "R468",
     "handle": "hikvision-3k-2-8mm-smart-hybrid-light-audio-indoor-fixed-turret-camera",
     "url": "/products/hikvision-3k-2-8mm-smart-hybrid-light-audio-indoor-fixed-turret-camera",
-    "qty": 47,
+    "qty": 45,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE76K0T_LPFS_2.8MM_1d22.jpg"
    },
    {
@@ -2173,74 +2096,7 @@
    }
   ]
  },
- "wifi_ap": [
-  {
-   "brand": "MikroTik",
-   "title": "MikroTik mAP 2nD - 2.4GHz mini Indoor AP/CPE",
-   "spec": "650MHz CPU, 64MB RAM, 802.11b/g/n dual chain, 2 x 10/100 LAN, RouterOS",
-   "price": "R848",
-   "handle": "mikrotik-map-2nd-2-4ghz-mini-indoor-ap-cpe",
-   "url": "/pages/mikrotik-map-2nd-2-4ghz-mini-indoor-ap-cpe",
-   "qty": 9,
-   "image": "https://miro.co.za/img/p/4/8/3/1/4831.jpg",
-   "enquiry": true
-  },
-  {
-   "brand": "Teltonika",
-   "title": "Teltonika Wi-Fi 4 Industrial Wireless Access Point",
-   "spec": "Wi-Fi Mesh, Fast Roaming, 2x RJ45 ports (10/100), Integrated Din Rail ",
-   "price": "R1 389",
-   "handle": "teltonika-wi-fi-4-industrial-wireless-access-point-dap140",
-   "url": "/pages/teltonika-wi-fi-4-industrial-wireless-access-point-dap140",
-   "qty": 9,
-   "image": "https://miro.co.za/img/p/1/6/3/9/2/16392.jpg",
-   "enquiry": true
-  },
-  {
-   "brand": "Grandstream",
-   "title": "Grandstream Enterprise WiFi 7 In-Wall Indoor Access Point",
-   "spec": "3,6 Gbps, 2x2:2 2.4G/5G, 1x 2.5GbE PoE,175m coverage,256 clients, Embe",
-   "price": "R2 128",
-   "handle": "grandstream-enterprise-wifi-7-in-wall-indoor-access-point-gwn7670wm",
-   "url": "/pages/grandstream-enterprise-wifi-7-in-wall-indoor-access-point-gwn7670wm",
-   "qty": 9,
-   "image": "https://miro.co.za/img/p/1/7/9/2/9/17929.jpg",
-   "enquiry": true
-  },
-  {
-   "brand": "Grandstream",
-   "title": "Grandstream Enterprise WiFi 7 Indoor Access Point",
-   "spec": "3.6Gbps, Dual-band 2x2:2 MU-MIMO,256 client devices, 2x 2.5GbE, BLE, E",
-   "price": "R3 418",
-   "handle": "grandstream-enterprise-wifi-7-indoor-access-point-gwn7672",
-   "url": "/pages/grandstream-enterprise-wifi-7-indoor-access-point-gwn7672",
-   "qty": 9,
-   "image": "https://miro.co.za/img/p/1/8/6/6/5/18665.jpg",
-   "enquiry": true
-  },
-  {
-   "brand": "HPE Networking Instant On",
-   "title": "HPE Networking Instant On WiFi 6E Indoor Access Point",
-   "spec": "Tri-band, 802.11ax, PoE excl, 2.5GbE uplink port, 2X2:2 MU-MIMO, 75 Cl",
-   "price": "R4 740",
-   "handle": "hpe-networking-instant-on-wifi-6e-indoor-access-point-ap32",
-   "url": "/pages/hpe-networking-instant-on-wifi-6e-indoor-access-point-ap32",
-   "qty": 9,
-   "image": "https://miro.co.za/img/p/1/3/6/8/4/13684.jpg",
-   "enquiry": true
-  },
-  {
-   "brand": "TP-Link",
-   "title": "TP-Link EAP225-O Promotion: Buy 20 X EAP225-O And Get 1 Free OC200",
-   "spec": "Buy 5 x TP-EAP670 Get 1 x TP-EAP670 Free",
-   "price": "R21 377",
-   "handle": "tp-link-eap225-o-promotion-buy-20-x-eap225-o-and-get-1-free-oc200",
-   "url": "/pages/tp-link-eap225-o-promotion-buy-20-x-eap225-o-and-get-1-free-oc200",
-   "qty": 9,
-   "image": "https://miro.co.za/img/p/8/8/7/4/8874.jpg",
-   "enquiry": true
-  }
- ],
+ "wifi_ap": [],
  "companions": {
   "cctv": [
    [
