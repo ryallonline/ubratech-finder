@@ -13,13 +13,13 @@
    },
    {
     "brand": "Asus",
-    "title": "Asus VivoBook Go 15\" Intel N150 8GB 256GB Win 11 Home Notebook - Mixed Black",
-    "spec": "Intel N150 · 15\" screen · 8GB RAM",
-    "price": "R9 065",
-    "handle": "asus-vivobook-go-15-intel-n150-8gb-256gb-win-11-home-notebook-mixed-black",
-    "url": "/products/asus-vivobook-go-15-intel-n150-8gb-256gb-win-11-home-notebook-mixed-black",
-    "qty": 140,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__42__340b.png"
+    "title": "Asus VivoBook 15 X1504VAP 15.6\" Core 3-100U 8GB 256GB Win 11 Home Notebook - Quiet Blue",
+    "spec": "Core 3 · 15.6\" screen · 8GB RAM",
+    "price": "R8 443",
+    "handle": "asus-vivobook-15-x1504vap-15-6-core-3-100u-8gb-256gb-win-11-home-notebook-quiet-blue",
+    "url": "/products/asus-vivobook-15-x1504vap-15-6-core-3-100u-8gb-256gb-win-11-home-notebook-quiet-blue",
+    "qty": 449,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/X/1/X1504VAP_I382BL0W_2231.jpg"
    },
    {
     "brand": "Asus",
@@ -116,14 +116,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/8/3/83JG001CSA__2__40b1.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 16 Plus Laptop — Core Ultra 7 · 16GB · 512GB SSD (BTO209_PB16250_EMEA)",
-    "spec": "Core Ultra 7 · 512GB SSD",
-    "price": "R38 282",
-    "handle": "dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-onboard-512-gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro-processor-16",
-    "url": "/products/dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-onboard-512-gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro-processor-16",
-    "qty": 31,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO209_PB16250_EMEA_default.jpg"
+    "brand": "HP",
+    "title": "HP ZBook 8 G1i Laptop — Core Ultra 5 · 24GB · 1TB SSD (DM7P4ES)",
+    "spec": "Core Ultra 5 · 1TB SSD",
+    "price": "R38 809",
+    "handle": "hp-zbook-8-g1i-14inch-dsc-rtx-500-ada-4gb-u5-225h-lcd-14-0wuxgaagled300uwvafwwanf5mpirlpln-ram-24gb-ddr5-5600-ssd-1tb-pcie4x4-nvme-tlc-ost-w11p6-hp-3y-onsite-mws-supp-no-country-of-origin-restriction",
+    "url": "/products/hp-zbook-8-g1i-14inch-dsc-rtx-500-ada-4gb-u5-225h-lcd-14-0wuxgaagled300uwvafwwanf5mpirlpln-ram-24gb-ddr5-5600-ssd-1tb-pcie4x4-nvme-tlc-ost-w11p6-hp-3y-onsite-mws-supp-no-country-of-origin-restriction",
+    "qty": 13,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DM7P4ES_default.jpg"
    },
    {
     "brand": "Dell",
@@ -438,7 +438,7 @@
     "price": "R24 630",
     "handle": "acer-nitro-v-16-gaming-laptop-16-amd-ryzen-5-16gb-1tb-rtx-5060-8gb-windows-11-home",
     "url": "/products/acer-nitro-v-16-gaming-laptop-16-amd-ryzen-5-16gb-1tb-rtx-5060-8gb-windows-11-home",
-    "qty": 11,
+    "qty": 10,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NH.QYXEA_.001_Acer-NITRO-V-16-Gaming-Laptop-16%E2%80%B3-AMD-Ryzen-5-16GB-1TB-RTX-5060-8GB-Windows-11-Home_wr_001a.jpg"
    }
   ],
@@ -520,16 +520,6 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQMZ_4276.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell SE2726HM 27\" FHD Monitor",
-    "spec": "Crisp everyday screen",
-    "price": "R2 304",
-    "handle": "dell-se2726hm-27-fhd-monitor",
-    "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 5,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
-   },
-   {
     "brand": "Acer",
     "title": "Acer V206H 19.5\" HD Monitor (UM.IV6EE.024)",
     "spec": "19.5\" screen",
@@ -540,14 +530,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer 27\" IPS FHD 120Hz Monitor 3Yr",
-    "spec": "27\" screen",
-    "price": "R2 391",
-    "handle": "acer-27-ips-fhd-120hz-monitor-3yr",
-    "url": "/products/acer-27-ips-fhd-120hz-monitor-3yr",
-    "qty": 4,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 27 Monitor - E2726H 1x HDMI, 1x DP, 1x VGA (Includes DP & Power Cable)",
+    "spec": "Monitors And Displays",
+    "price": "R2 444",
+    "handle": "dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
+    "url": "/products/dell-pro-27-monitor-e2726h-1x-hdmi-1x-dp-1x-vga-includes-dp-power-cable",
+    "qty": 15,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPN_default.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -675,16 +665,6 @@
    }
   ],
   "multi": [
-   {
-    "brand": "Dell",
-    "title": "Dell SE2726HM 27\" FHD Monitor",
-    "spec": "Slim bezel · great for lots of windows",
-    "price": "R2 304",
-    "handle": "dell-se2726hm-27-fhd-monitor",
-    "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 5,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
-   },
    {
     "brand": "Hikvision",
     "title": "Hikvision 18.5\" Borderless FHD Monitor",
@@ -1333,7 +1313,7 @@
     "price": "R218",
     "handle": "winx-call-clear-3-5mm-headset",
     "url": "/products/winx-call-clear-3-5mm-headset",
-    "qty": 244,
+    "qty": 239,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS105_wr_01.jpg"
    },
    {
@@ -1485,7 +1465,7 @@
     "brand": "Hiksemi",
     "title": "Hiksemi Wave 1TB PCIe Gen3 NVMe SSD",
     "spec": "M.2 2280 · big speed boost",
-    "price": "R3 525",
+    "price": "R2 743",
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
@@ -1522,14 +1502,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/CT480E100SSD8_wr_01.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell 480GB PCIe Gen4 M.2 2280 NVMe SSD for BOSS-N1 Controller Card",
+    "brand": "Proline",
+    "title": "Proline KINGSTON 1000G NV3 M.2 PCIe 4.0 NVMe SSD",
     "spec": "Storage",
-    "price": "R5 432",
-    "handle": "dell-480gb-pcie-gen4-m-2-2280-nvme-ssd-for-boss-n1-controller-card",
-    "url": "/products/dell-480gb-pcie-gen4-m-2-2280-nvme-ssd-for-boss-n1-controller-card",
-    "qty": 3,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/4/0/400_BONG_7e2a.jpg"
+    "price": "R5 344",
+    "handle": "proline-kingston-1000g-nv3-m-2-pcie-4-0-nvme-ssd",
+    "url": "/products/proline-kingston-1000g-nv3-m-2-pcie-4-0-nvme-ssd",
+    "qty": 20,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SNV3SM3/1T0_default.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -1617,23 +1597,13 @@
    },
    {
     "brand": "Asus",
-    "title": "ASUS Prime Radeon RX 9070 GRE EVO OC Edition 12GB GDDR6 Graphics Card",
+    "title": "ASUS Dual Radeon RX 7600 EVO OC Edition 8GB GDDR6 Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R12 564",
-    "handle": "asus-prime-radeon-rx-9070-gre-evo-oc-edition-12gb-gddr6-graphics-card",
-    "url": "/products/asus-prime-radeon-rx-9070-gre-evo-oc-edition-12gb-gddr6-graphics-card",
-    "qty": 13,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/05/PRIME-RX9070GRE-O12G_ASUS-Prime-Radeon-RX-9070-GRE-EVO-OC-Edition-12GB-GDDR6-Graphics-Card_wr_01a.jpg"
-   },
-   {
-    "brand": "Asus",
-    "title": "ASUS Dual GeForce RTX 5070 12GB GDDR7 OC Edition Graphics Card",
-    "spec": "Graphics Cards",
-    "price": "R20 473",
-    "handle": "asus-dual-geforce-rtx-5070-12gb-gddr7-oc-edition-graphics-card",
-    "url": "/products/asus-dual-geforce-rtx-5070-12gb-gddr7-oc-edition-graphics-card",
-    "qty": 3,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/DUAL-RTX5070-O12G_ASUS-Dual-GeForce-RTX-5070-12GB-GDDR7-OC-Edition-Graphics-Card_wr_01a.jpg"
+    "price": "R9 310",
+    "handle": "asus-dual-radeon-rx-7600-evo-oc-edition-8gb-gddr6-graphics-card",
+    "url": "/products/asus-dual-radeon-rx-7600-evo-oc-edition-8gb-gddr6-graphics-card",
+    "qty": 5,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/07/DUAL-RX7600-O8G-EVO_ASUS-Dual-Radeon-RX-7600-EVO-OC-Edition-8GB-GDDR6-Graphics-Card_wr_01a.jpg"
    },
    {
     "brand": "Asus",
@@ -1856,14 +1826,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2018/09/N301-10-SV-PRO_wr_01a.jpg"
    },
    {
-    "brand": "PWR",
-    "title": "PWR Dedicated to 3 Headed Cable 3.8m",
+    "brand": "Ugreen",
+    "title": "UGREEN DP131 DisplayPort 2.1 Braided Cable 1M ( 80Gbps · 16K · 60Hz ) - Black/Grey",
     "spec": "Cables And Adapters",
-    "price": "R122",
-    "handle": "pwr-dedicated-to-3-headed-cable-3-8m",
-    "url": "/products/pwr-dedicated-to-3-headed-cable-3-8m",
-    "qty": 88,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2016/01/PC-6D3IC13BK3.8_wr_01.jpg"
+    "price": "R121",
+    "handle": "ugreen-dp131-displayport-2-1-braided-cable-1m-80gbps-16k-60hz-black-grey",
+    "url": "/products/ugreen-dp131-displayport-2-1-braided-cable-1m-80gbps-16k-60hz-black-grey",
+    "qty": 93,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/DP131-55567_UGreen-DP131-DisplayPort-2.1-80Gbps-16K-60Hz-1M-Braided-Cable-Black-Grey_wr_01a.jpg"
    },
    {
     "brand": "Dell",
@@ -2089,13 +2059,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 3K 2.8mm Smart Hybrid Light Audio Indoor Fixed Turret Camera",
-    "spec": "Cctv Ip Cameras",
-    "price": "R468",
-    "handle": "hikvision-3k-2-8mm-smart-hybrid-light-audio-indoor-fixed-turret-camera",
-    "url": "/products/hikvision-3k-2-8mm-smart-hybrid-light-audio-indoor-fixed-turret-camera",
-    "qty": 47,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE76K0T_LPFS_2.8MM_1d22.jpg"
+    "title": "Hikvision 5MP Smart Hybrid Light Audio Fixed Mini Analogue Camera",
+    "spec": "5MP",
+    "price": "R490",
+    "handle": "hikvision-5mp-smart-hybrid-light-audio-fixed-mini-analogue-camera",
+    "url": "/products/hikvision-5mp-smart-hybrid-light-audio-fixed-mini-analogue-camera",
+    "qty": 501,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16K0T_LPFS_image_2_c2f1.png"
    },
    {
     "brand": "Hikvision",
@@ -2114,7 +2084,7 @@
     "price": "R1 187",
     "handle": "hikvision-3k-colorvu-fixed-outdoor-pt-turret-camera",
     "url": "/products/hikvision-3k-colorvu-fixed-outdoor-pt-turret-camera",
-    "qty": 19,
+    "qty": 18,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__28__001a.png"
    }
   ],
@@ -2156,7 +2126,7 @@
     "price": "R1 187",
     "handle": "hikvision-3k-colorvu-fixed-outdoor-pt-turret-camera",
     "url": "/products/hikvision-3k-colorvu-fixed-outdoor-pt-turret-camera",
-    "qty": 19,
+    "qty": 18,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__28__001a.png"
    }
   ],
@@ -2173,13 +2143,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 3K 2.8mm Smart Hybrid Light Audio Indoor Fixed Turret Camera",
-    "spec": "Cctv Ip Cameras",
-    "price": "R468",
-    "handle": "hikvision-3k-2-8mm-smart-hybrid-light-audio-indoor-fixed-turret-camera",
-    "url": "/products/hikvision-3k-2-8mm-smart-hybrid-light-audio-indoor-fixed-turret-camera",
-    "qty": 47,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE76K0T_LPFS_2.8MM_1d22.jpg"
+    "title": "Hikvision 5MP Smart Hybrid Light Audio Fixed Mini Analogue Camera",
+    "spec": "5MP",
+    "price": "R490",
+    "handle": "hikvision-5mp-smart-hybrid-light-audio-fixed-mini-analogue-camera",
+    "url": "/products/hikvision-5mp-smart-hybrid-light-audio-fixed-mini-analogue-camera",
+    "qty": 501,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16K0T_LPFS_image_2_c2f1.png"
    },
    {
     "brand": "Hikvision",
@@ -2198,7 +2168,7 @@
     "price": "R1 187",
     "handle": "hikvision-3k-colorvu-fixed-outdoor-pt-turret-camera",
     "url": "/products/hikvision-3k-colorvu-fixed-outdoor-pt-turret-camera",
-    "qty": 19,
+    "qty": 18,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__28__001a.png"
    }
   ]
