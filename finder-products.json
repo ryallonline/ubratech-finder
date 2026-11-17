@@ -74,14 +74,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/NX.ELVEA.001_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 15 Essential PV15250 Laptop — Core i5 · 8GB (PV15250_RPLU_001_P8L_HOM)",
-    "spec": "Core i5",
-    "price": "R19 853",
-    "handle": "dell-pro-15-essential-pv15250-intel-core-i5-1334u-rrpl-p-u15-8-layerpcb-10cores-up-to-4-6-ghz-15-6-fhd-120hz-wva-ips-anti-glare-250-nit-8-gb-1-x-8-gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd",
-    "url": "/products/dell-pro-15-essential-pv15250-intel-core-i5-1334u-rrpl-p-u15-8-layerpcb-10cores-up-to-4-6-ghz-15-6-fhd-120hz-wva-ips-anti-glare-250-nit-8-gb-1-x-8-gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_001_P8L_HOM_default.jpg"
+    "brand": "HP",
+    "title": "HP ProBook 4 G1iR 14' Core-5 16GB 512GB Win 11 Pro Notebook",
+    "spec": "Core 5 · 16GB RAM",
+    "price": "R19 601",
+    "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
+    "qty": 21,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
    },
    {
     "brand": "HP",
@@ -106,24 +106,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 14 Essential PV14255 Laptop — 16GB (PV14255_KRK_501)",
-    "spec": "Notebooks",
-    "price": "R29 001",
-    "handle": "dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
-    "url": "/products/dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
-    "qty": 39,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/PV14255_KRK_501_default.jpg"
+    "brand": "HP",
+    "title": "HP 15S 15.6\" FHD UltraSlim Core 7-150U 16GB 512GB Win 11 Home Silver Notebook",
+    "spec": "Core 7 · 15.6\" screen · 16GB RAM",
+    "price": "R28 965",
+    "handle": "hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
+    "url": "/products/hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
+    "qty": 27,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D6ZS9EA_cc0d.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo T14 G7 PTL Laptop — Core Ultra 5 · 512GB SSD (21WN002RZA)",
-    "spec": "Core Ultra 5 · 512GB SSD",
+    "brand": "Asus",
+    "title": "Asus Zenbook S16 UM5606GA 16\" 3K OLED 120Hz Ryzen AI 9-465 16GB 1TB Win 11 Pro Notebook",
+    "spec": "Ryzen AI 9 · 16\" screen · 16GB RAM",
     "price": "R37 650",
-    "handle": "lenovo-t14-g7-ptl-u5-325-16gb-base-ddr5x-512gb-ssd-m-2-2280-tlc-g4-intel-arc-windows-11-pro-64-14-0-wuxga-ag-400nits-5m-rgb-ir-cam-intel-wi-fi-7-be211-802-11be-2x2-bt5-4-snapdragon-x12-lte-modem-4g",
-    "url": "/products/lenovo-t14-g7-ptl-u5-325-16gb-base-ddr5x-512gb-ssd-m-2-2280-tlc-g4-intel-arc-windows-11-pro-64-14-0-wuxga-ag-400nits-5m-rgb-ir-cam-intel-wi-fi-7-be211-802-11be-2x2-bt5-4-snapdragon-x12-lte-modem-4g",
-    "qty": 6,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/21WN002RZA_default.jpg"
+    "handle": "asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
+    "url": "/products/asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
+    "qty": 10,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_S16_UM5606GA_Product_photo_3G_Antrim_Gray_03__1__de3e.jpg"
    },
    {
     "brand": "Dell",
@@ -408,7 +408,7 @@
     "price": "R12 809",
     "handle": "pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
-    "qty": 16,
+    "qty": 38,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_DEFENDER_05_wr_01e.jpg"
    },
    {
@@ -502,7 +502,7 @@
     "price": "R12 809",
     "handle": "pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
-    "qty": 16,
+    "qty": 38,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_DEFENDER_05_wr_01e.jpg"
    },
    {
@@ -660,7 +660,7 @@
     "price": "R6 899",
     "handle": "xiaomi-curved-gaming-monitor-g34wqi-2026",
     "url": "/products/xiaomi-curved-gaming-monitor-g34wqi-2026",
-    "qty": 123,
+    "qty": 122,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/ELA6562EU_Xiaomi_Curved_Gaming_Monitor_G34WQi_2026_wr_03.png"
    },
    {
@@ -1299,7 +1299,7 @@
     "price": "R259",
     "handle": "ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0-usb2-0",
     "url": "/products/ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0-usb2-0",
-    "qty": 125,
+    "qty": 123,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM478-15495-wr-01.jpg"
    }
   ]
@@ -1489,7 +1489,7 @@
     "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
-    "qty": 63
+    "qty": 58
    },
    {
     "brand": "Ugreen",
@@ -1607,23 +1607,13 @@
    },
    {
     "brand": "Asus",
-    "title": "ASUS Prime Radeon RX 9070 GRE EVO OC Edition 12GB GDDR6 Graphics Card",
+    "title": "ASUS Dual Radeon RX 7600 EVO OC Edition 8GB GDDR6 Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R12 564",
-    "handle": "asus-prime-radeon-rx-9070-gre-evo-oc-edition-12gb-gddr6-graphics-card",
-    "url": "/products/asus-prime-radeon-rx-9070-gre-evo-oc-edition-12gb-gddr6-graphics-card",
-    "qty": 11,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/05/PRIME-RX9070GRE-O12G_ASUS-Prime-Radeon-RX-9070-GRE-EVO-OC-Edition-12GB-GDDR6-Graphics-Card_wr_01a.jpg"
-   },
-   {
-    "brand": "Asus",
-    "title": "ASUS Dual GeForce RTX 5070 12GB GDDR7 OC Edition Graphics Card",
-    "spec": "Graphics Cards",
-    "price": "R20 473",
-    "handle": "asus-dual-geforce-rtx-5070-12gb-gddr7-oc-edition-graphics-card",
-    "url": "/products/asus-dual-geforce-rtx-5070-12gb-gddr7-oc-edition-graphics-card",
-    "qty": 3,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/DUAL-RTX5070-O12G_ASUS-Dual-GeForce-RTX-5070-12GB-GDDR7-OC-Edition-Graphics-Card_wr_01a.jpg"
+    "price": "R9 310",
+    "handle": "asus-dual-radeon-rx-7600-evo-oc-edition-8gb-gddr6-graphics-card",
+    "url": "/products/asus-dual-radeon-rx-7600-evo-oc-edition-8gb-gddr6-graphics-card",
+    "qty": 7,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/07/DUAL-RX7600-O8G-EVO_ASUS-Dual-Radeon-RX-7600-EVO-OC-Edition-8GB-GDDR6-Graphics-Card_wr_01a.jpg"
    },
    {
     "brand": "Asus",
@@ -1953,23 +1943,23 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Fixed Minin Bullet Network Camera",
+    "title": "Hikvision 4MP DarkFighter Fixed Dome IP Camera",
     "spec": "4MP",
-    "price": "R2 727",
-    "handle": "hikvision-4mp-fixed-minin-bullet-network-camera",
-    "url": "/products/hikvision-4mp-fixed-minin-bullet-network-camera",
-    "qty": 228,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_2.8MM_1_1e43.png"
+    "price": "R2 675",
+    "handle": "hikvision-4mp-darkfighter-fixed-dome-ip-camera",
+    "url": "/products/hikvision-4mp-darkfighter-fixed-dome-ip-camera",
+    "qty": 4,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_ISU_2.8MM_1_061c.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Varifocal Bullet IP Camera",
+    "title": "Hikvision 4MP Fixed Bullet Network Camera",
     "spec": "4MP",
-    "price": "R3 204",
-    "handle": "hikvision-4mp-varifocal-bullet-ip-camera",
-    "url": "/products/hikvision-4mp-varifocal-bullet-ip-camera",
-    "qty": 92,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2641G0_LIZSU_2.8MM_12MM__0a67.png"
+    "price": "R3 221",
+    "handle": "hikvision-4mp-fixed-bullet-network-camera",
+    "url": "/products/hikvision-4mp-fixed-bullet-network-camera",
+    "qty": 116,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_2.8MM_1_e9e9.png"
    },
    {
     "brand": "Hikvision",
@@ -2000,7 +1990,7 @@
     "price": "R2 727",
     "handle": "hikvision-4mp-fixed-minin-bullet-network-camera",
     "url": "/products/hikvision-4mp-fixed-minin-bullet-network-camera",
-    "qty": 228,
+    "qty": 226,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_2.8MM_1_1e43.png"
    },
    {
@@ -2042,7 +2032,7 @@
     "price": "R2 727",
     "handle": "hikvision-4mp-fixed-minin-bullet-network-camera",
     "url": "/products/hikvision-4mp-fixed-minin-bullet-network-camera",
-    "qty": 228,
+    "qty": 226,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_2.8MM_1_1e43.png"
    },
    {
@@ -2084,7 +2074,7 @@
     "price": "R468",
     "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
     "url": "/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 1138,
+    "qty": 1128,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
@@ -2126,7 +2116,7 @@
     "price": "R468",
     "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
     "url": "/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 1138,
+    "qty": 1128,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
@@ -2168,7 +2158,7 @@
     "price": "R468",
     "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
     "url": "/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 1138,
+    "qty": 1128,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
