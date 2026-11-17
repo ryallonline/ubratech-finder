@@ -74,14 +74,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/NX.ELVEA.001_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP ProBook 4 G1iR 14' Core-5 16GB 512GB Win 11 Pro Notebook",
-    "spec": "Core 5 · 16GB RAM",
-    "price": "R19 601",
-    "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "qty": 21,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 15 Essential PV15250 Laptop — Core i5 · 8GB (PV15250_RPLU_001_P8L_HOM)",
+    "spec": "Core i5",
+    "price": "R19 853",
+    "handle": "dell-pro-15-essential-pv15250-intel-core-i5-1334u-rrpl-p-u15-8-layerpcb-10cores-up-to-4-6-ghz-15-6-fhd-120hz-wva-ips-anti-glare-250-nit-8-gb-1-x-8-gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd",
+    "url": "/products/dell-pro-15-essential-pv15250-intel-core-i5-1334u-rrpl-p-u15-8-layerpcb-10cores-up-to-4-6-ghz-15-6-fhd-120hz-wva-ips-anti-glare-250-nit-8-gb-1-x-8-gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_001_P8L_HOM_default.jpg"
    },
    {
     "brand": "HP",
@@ -1237,7 +1237,7 @@
     "price": "R1 489",
     "handle": "dell-pro-7-in-1-usb-c-mobile-docking-station",
     "url": "/products/dell-pro-7-in-1-usb-c-mobile-docking-station",
-    "qty": 74,
+    "qty": 66,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__23__d7c1.png"
    },
    {
@@ -1299,7 +1299,7 @@
     "price": "R259",
     "handle": "ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0-usb2-0",
     "url": "/products/ugreen-revodok-5-in-1-type-c-hub-4k-hdmi-type-c-usb3-0-usb2-0",
-    "qty": 123,
+    "qty": 120,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM478-15495-wr-01.jpg"
    }
   ]
@@ -1658,24 +1658,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/R-PL650D-FC0B-EU-V2_DeepCool-PL650D-650W-80PLUS-Bronze-ATX3.1-Semi-Modular-Power-Supply_wr_01.jpg"
    },
    {
-    "brand": "Corsair",
-    "title": "Corsair RM850x SHIFT 80 PLUS Gold Fully Modular ATX Power Supply",
+    "brand": "Asus",
+    "title": "ASUS TUF Gaming 1000W 80 PLUS Gold EVO ATX 3.1 Modular Power Supply",
     "spec": "Power Supplies",
-    "price": "R3 470",
-    "handle": "corsair-rm850x-shift-80-plus-gold-fully-modular-atx-power-supply",
-    "url": "/products/corsair-rm850x-shift-80-plus-gold-fully-modular-atx-power-supply",
-    "qty": 5,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/CP-9020299-WW_Corsair_RM850x_SHIFT_80_PLUS_Gold_Fully__wr_01.png"
+    "price": "R2 976",
+    "handle": "asus-tuf-gaming-1000w-80-plus-gold-evo-atx-3-1-modular-power-supply",
+    "url": "/products/asus-tuf-gaming-1000w-80-plus-gold-evo-atx-3-1-modular-power-supply",
+    "qty": 8,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/TUF-GAMING-1000G-EVO_ASUS_TUF_Gaming_1000W_80_PLUS_Gold_EVO_A_wr_01.png"
    },
    {
     "brand": "Asus",
-    "title": "Asus ROG Thor 1200W 80 PLUS Platinum III ATX Modular Power Supply",
+    "title": "ASUS ROG LOKI SFX-L 1000W 80 PLUS Platinum SFX-L Modular Power Supply",
     "spec": "Power Supplies",
-    "price": "R8 375",
-    "handle": "asus-rog-thor-1200w-80-plus-platinum-iii-atx-modular-power-supply",
-    "url": "/products/asus-rog-thor-1200w-80-plus-platinum-iii-atx-modular-power-supply",
-    "qty": 3,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ROG-THOR-1200P3-GAMING_Asus-ROG-Thor-1200W-80-PLUS-Platinum-III-ATX-Modular-Power-Supply-Black_wr_01a.jpg"
+    "price": "R4 934",
+    "handle": "asus-rog-loki-sfx-l-1000w-80-plus-platinum-sfx-l-modular-power-supply",
+    "url": "/products/asus-rog-loki-sfx-l-1000w-80-plus-platinum-sfx-l-modular-power-supply",
+    "qty": 4,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/ROG-LOKI-1000PSFX-L-GAM_ASUS_ROG_LOKI_SFX-L_1000W_80_PLUS_Platin_wr_01.png"
    }
   ]
  },
