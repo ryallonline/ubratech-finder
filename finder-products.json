@@ -8,7 +8,7 @@
     "price": "R7 176",
     "handle": "asus-vivobook-go-15-intel-n150-8gb-256gb-win-11-home-notebook-mixed-black",
     "url": "/products/asus-vivobook-go-15-intel-n150-8gb-256gb-win-11-home-notebook-mixed-black",
-    "qty": 140,
+    "qty": 148,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__42__340b.png"
    },
    {
@@ -18,7 +18,7 @@
     "price": "R8 443",
     "handle": "asus-vivobook-15-x1504vap-15-6-core-3-100u-8gb-256gb-win-11-home-notebook-quiet-blue",
     "url": "/products/asus-vivobook-15-x1504vap-15-6-core-3-100u-8gb-256gb-win-11-home-notebook-quiet-blue",
-    "qty": 441,
+    "qty": 433,
     "image": "https://www.pinnacle.co.za/media/catalog/product/X/1/X1504VAP_I382BL0W_2231.jpg"
    },
    {
@@ -346,14 +346,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP ProDesk 4 Mini G1i AI Desktop PC — Core Ultra 5 · 16GB (BY6U5ET)",
-    "spec": "Core Ultra 5",
-    "price": "R26 544",
-    "handle": "hp-prodesk-4-mini-g1i-ai-intel-core-ultra-5-225t-processor-16gb-ddr5-5600-2-slots-max-64gb-512gb-m-2-2280-ssd-no-optical-drive-intel-graphics-windows-11-pro-64-intel-i219-lm-gigabit-network",
-    "url": "/products/hp-prodesk-4-mini-g1i-ai-intel-core-ultra-5-225t-processor-16gb-ddr5-5600-2-slots-max-64gb-512gb-m-2-2280-ssd-no-optical-drive-intel-graphics-windows-11-pro-64-intel-i219-lm-gigabit-network",
-    "qty": 20,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BY6U5ET_default.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro Micro QCM1250 Core U5-235T 16GB 512GB Win 11 Pro Desktop",
+    "spec": "16GB RAM",
+    "price": "R26 520",
+    "handle": "dell-pro-micro-qcm1250-core-u5-235t-16gb-512gb-win-11-pro-desktop",
+    "url": "/products/dell-pro-micro-qcm1250-core-u5-235t-16gb-512gb-win-11-pro-desktop",
+    "qty": 19,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/B/T/BTO106_QCM1250_2eba.jpg"
    },
    {
     "brand": "Dell",
@@ -726,7 +726,7 @@
     "price": "R336",
     "handle": "gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "url": "/products/gizzu-30w-38wh-10400mah-mini-dc-ups-black",
-    "qty": 297,
+    "qty": 295,
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GU30WPRO_wr_01a.jpg"
    },
    {
@@ -810,7 +810,7 @@
     "price": "R1 648",
     "handle": "eaton-5e-900va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-900va-gen2-usb-iec-ups",
-    "qty": 16,
+    "qty": 37,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E900UI_761f.png"
    },
    {
@@ -1333,7 +1333,7 @@
     "price": "R667",
     "handle": "logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
     "url": "/products/logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
-    "qty": 40,
+    "qty": 56,
     "image": "https://s3.amazonaws.com/tarsus.co.za/981-000480_default.jpg"
    },
    {
@@ -1612,7 +1612,7 @@
     "price": "R12 564",
     "handle": "asus-prime-radeon-rx-9070-gre-evo-oc-edition-12gb-gddr6-graphics-card",
     "url": "/products/asus-prime-radeon-rx-9070-gre-evo-oc-edition-12gb-gddr6-graphics-card",
-    "qty": 12,
+    "qty": 11,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/05/PRIME-RX9070GRE-O12G_ASUS-Prime-Radeon-RX-9070-GRE-EVO-OC-Edition-12GB-GDDR6-Graphics-Card_wr_01a.jpg"
    },
    {
@@ -1645,7 +1645,7 @@
     "handle": "gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "url": "https://ubratech.co.za/products/gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GU30WPRO_wr_01a.jpg",
-    "qty": 297
+    "qty": 295
    },
    {
     "brand": "FSP",
@@ -1658,24 +1658,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/FSP350-50EGN_FSP_350W_80_PLUS_Gold_ATX_Non-modular_Po_wr_01.png"
    },
    {
-    "brand": "Antec",
-    "title": "Antec Atom G750 Semi-Modular Power Supply",
+    "brand": "DeepCool",
+    "title": "DeepCool PL650D 650W 80PLUS Bronze ATX3.1 Non-Modular Power Supply",
     "spec": "Power Supplies",
-    "price": "R1 118",
-    "handle": "antec-atom-g750-semi-modular-power-supply",
-    "url": "/products/antec-atom-g750-semi-modular-power-supply",
-    "qty": 130,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/11/Antec_ATOM-G750_wr_01a.jpg"
+    "price": "R931",
+    "handle": "deepcool-pl650d-650w-80plus-bronze-atx3-1-non-modular-power-supply",
+    "url": "/products/deepcool-pl650d-650w-80plus-bronze-atx3-1-non-modular-power-supply",
+    "qty": 25,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/R-PL650D-FC0B-EU-V2_DeepCool-PL650D-650W-80PLUS-Bronze-ATX3.1-Semi-Modular-Power-Supply_wr_01.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "ASUS TUF Gaming 1000W 80 PLUS Gold EVO ATX 3.1 Modular Power Supply",
+    "brand": "Corsair",
+    "title": "Corsair RM850x SHIFT 80 PLUS Gold Fully Modular ATX Power Supply",
     "spec": "Power Supplies",
-    "price": "R2 976",
-    "handle": "asus-tuf-gaming-1000w-80-plus-gold-evo-atx-3-1-modular-power-supply",
-    "url": "/products/asus-tuf-gaming-1000w-80-plus-gold-evo-atx-3-1-modular-power-supply",
-    "qty": 8,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/TUF-GAMING-1000G-EVO_ASUS_TUF_Gaming_1000W_80_PLUS_Gold_EVO_A_wr_01.png"
+    "price": "R3 470",
+    "handle": "corsair-rm850x-shift-80-plus-gold-fully-modular-atx-power-supply",
+    "url": "/products/corsair-rm850x-shift-80-plus-gold-fully-modular-atx-power-supply",
+    "qty": 5,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/CP-9020299-WW_Corsair_RM850x_SHIFT_80_PLUS_Gold_Fully__wr_01.png"
    },
    {
     "brand": "Asus",
@@ -1909,23 +1909,23 @@
    },
    {
     "brand": "HP",
-    "title": "HP 400 Quiet Wireless Black Mouse",
+    "title": "HP 400 Quiet Wireless Blue Mouse",
     "spec": "Wired Mouse",
     "price": "R371",
-    "handle": "hp-400-quiet-wireless-black-mouse",
-    "url": "/products/hp-400-quiet-wireless-black-mouse",
-    "qty": 153,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B2AA_dac7.jpg"
+    "handle": "hp-400-quiet-wireless-blue-mouse",
+    "url": "/products/hp-400-quiet-wireless-blue-mouse",
+    "qty": 96,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B4AA_ed00.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Premier Rechargeable Wireless Mouse - MS7421W",
-    "spec": "Wired Mouse",
-    "price": "R747",
-    "handle": "dell-premier-rechargeable-wireless-mouse-ms7421w",
-    "url": "/products/dell-premier-rechargeable-wireless-mouse-ms7421w",
-    "qty": 12,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/570-ABLO_default.jpg"
+    "brand": "Keychron",
+    "title": "Keychron B2 Pro Ultra-Slim 96% Wireless Keyboard - Ivory White",
+    "spec": "Keyboards",
+    "price": "R748",
+    "handle": "keychron-b2-pro-ultra-slim-96-wireless-keyboard-ivory-white",
+    "url": "/products/keychron-b2-pro-ultra-slim-96-wireless-keyboard-ivory-white",
+    "qty": 34,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/B2P-K8_Keychron-B2-Pro-Ultra-Slim-96-Wireless-Keyboard-Ivory-White_wr_01a.jpg"
    },
    {
     "brand": "Keychron",
@@ -1958,7 +1958,7 @@
     "price": "R2 727",
     "handle": "hikvision-4mp-fixed-minin-bullet-network-camera",
     "url": "/products/hikvision-4mp-fixed-minin-bullet-network-camera",
-    "qty": 230,
+    "qty": 228,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_2.8MM_1_1e43.png"
    },
    {
@@ -2000,7 +2000,7 @@
     "price": "R2 727",
     "handle": "hikvision-4mp-fixed-minin-bullet-network-camera",
     "url": "/products/hikvision-4mp-fixed-minin-bullet-network-camera",
-    "qty": 230,
+    "qty": 228,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_2.8MM_1_1e43.png"
    },
    {
@@ -2042,7 +2042,7 @@
     "price": "R2 727",
     "handle": "hikvision-4mp-fixed-minin-bullet-network-camera",
     "url": "/products/hikvision-4mp-fixed-minin-bullet-network-camera",
-    "qty": 230,
+    "qty": 228,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_2.8MM_1_1e43.png"
    },
    {
