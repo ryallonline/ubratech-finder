@@ -1482,24 +1482,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM767-35267_UGreen-CM767-M.2-NVMe-SSD-Enclosure-10Gbps-%E2%80%93-Silver_wr_01a.jpg"
    },
    {
-    "brand": "Targus",
-    "title": "Targus Hyper HyperDrive EcoSmart USB4 SSD Enclosure",
+    "brand": "Patriot",
+    "title": "Patriot iLuxe Cube 512GB Type-C Smart Backup Solution - White",
     "spec": "Storage",
-    "price": "R2 002",
-    "handle": "targus-hyper-hyperdrive-ecosmart-usb4-ssd-enclosure",
-    "url": "/products/targus-hyper-hyperdrive-ecosmart-usb4-ssd-enclosure",
-    "qty": 6,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/HD5001GL_default.png"
+    "price": "R1 762",
+    "handle": "patriot-iluxe-cube-512gb-type-c-smart-backup-solution-white",
+    "url": "/products/patriot-iluxe-cube-512gb-type-c-smart-backup-solution-white",
+    "qty": 7,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/PI512GCUW30C_Patriot-iLuxe-Cube-512GB-Type-C-Smart-Backup-Solution-White_wr_01.jpg"
    },
    {
-    "brand": "Kingston",
-    "title": "Kingston 1TB XS1000 External USB 3.2 Gen 2 Portable Solid State Drive",
+    "brand": "Seagate",
+    "title": "Seagate IronWolf NAS 2TB SATA Hard Drive",
     "spec": "Storage",
-    "price": "R5 159",
-    "handle": "kingston-1tb-xs1000-external-usb-3-2-gen-2-portable-solid-state-drive",
-    "url": "/products/kingston-1tb-xs1000-external-usb-3-2-gen-2-portable-solid-state-drive",
-    "qty": 4,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SXS1000/1000G_default.jpg"
+    "price": "R4 377",
+    "handle": "seagate-ironwolf-nas-2tb-sata-hard-drive",
+    "url": "/products/seagate-ironwolf-nas-2tb-sata-hard-drive",
+    "qty": 25,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/ST2000VN003_SEAGATE-HDD-IRONWOLF-3.5-2TB-256MB_wr_01.jpg"
    },
    {
     "brand": "Hiksemi",
