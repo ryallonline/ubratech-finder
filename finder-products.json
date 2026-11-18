@@ -38,7 +38,7 @@
     "price": "R12 968",
     "handle": "lenovo-ideapad-slim-3-15-6-ryzen-3-8gb-256gb-win-11-home-notebook",
     "url": "/products/lenovo-ideapad-slim-3-15-6-ryzen-3-8gb-256gb-win-11-home-notebook",
-    "qty": 185,
+    "qty": 165,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__82__8f75.png"
    }
   ],
@@ -65,23 +65,23 @@
    },
    {
     "brand": "Acer",
-    "title": "Acer EXO14 72 51AG Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.ELVEA.001)",
+    "title": "Acer EXO16 51 53W7 Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.EM3EA.004)",
     "spec": "Core Ultra 5 · 512GB SSD",
-    "price": "R17 628",
-    "handle": "acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
-    "url": "/products/acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
-    "qty": 59,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.ELVEA.001_default.jpg"
+    "price": "R16 747",
+    "handle": "acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
+    "url": "/products/acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
+    "qty": 60,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.004_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 15 Essential PV15250 Laptop — Core i5 · 8GB (PV15250_RPLU_001_P8L_HOM)",
-    "spec": "Core i5",
-    "price": "R19 853",
-    "handle": "dell-pro-15-essential-pv15250-intel-core-i5-1334u-rrpl-p-u15-8-layerpcb-10cores-up-to-4-6-ghz-15-6-fhd-120hz-wva-ips-anti-glare-250-nit-8-gb-1-x-8-gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd",
-    "url": "/products/dell-pro-15-essential-pv15250-intel-core-i5-1334u-rrpl-p-u15-8-layerpcb-10cores-up-to-4-6-ghz-15-6-fhd-120hz-wva-ips-anti-glare-250-nit-8-gb-1-x-8-gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_001_P8L_HOM_default.jpg"
+    "brand": "HP",
+    "title": "HP ProBook 4 G1iR 14' Core-5 16GB 512GB Win 11 Pro Notebook",
+    "spec": "Core 5 · 16GB RAM",
+    "price": "R19 601",
+    "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
+    "qty": 21,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
    },
    {
     "brand": "HP",
@@ -218,7 +218,7 @@
     "price": "R20 147",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 70,
+    "qty": 72,
     "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    },
    {
@@ -270,7 +270,7 @@
     "price": "R20 147",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 70,
+    "qty": 72,
     "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    },
    {
@@ -320,7 +320,7 @@
     "price": "R21 461",
     "handle": "dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
     "url": "/products/dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
-    "qty": 14,
+    "qty": 13,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO004_QVS1260_EMEA_default.jpg"
    }
   ],
@@ -536,7 +536,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 380,
+    "qty": 370,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -550,14 +550,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer 27\" IPS FHD 120Hz Monitor 3Yr",
-    "spec": "27\" screen",
-    "price": "R2 391",
-    "handle": "acer-27-ips-fhd-120hz-monitor-3yr",
-    "url": "/products/acer-27-ips-fhd-120hz-monitor-3yr",
-    "qty": 3,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 22 Adjustable Stand E2226HS Monitor",
+    "spec": "Monitors And Displays",
+    "price": "R2 384",
+    "handle": "dell-pro-22-adjustable-stand-monitor-e2226hs-1x-hdmi-1x-dp-1x-vga-integrated-speakers",
+    "url": "/products/dell-pro-22-adjustable-stand-monitor-e2226hs-1x-hdmi-1x-dp-1x-vga-integrated-speakers",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPH_default.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -640,7 +640,7 @@
     "price": "R2 014",
     "handle": "acer-24-ips-fhd-120hz-monitor-3yr",
     "url": "https://ubratech.co.za/products/acer-24-ips-fhd-120hz-monitor-3yr",
-    "qty": 3,
+    "qty": 9,
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.QE1EE.G08_default.png"
    },
    {
@@ -650,7 +650,7 @@
     "price": "R2 391",
     "handle": "acer-27-ips-fhd-120hz-monitor-3yr",
     "url": "https://ubratech.co.za/products/acer-27-ips-fhd-120hz-monitor-3yr",
-    "qty": 3,
+    "qty": 9,
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
    },
    {
@@ -692,7 +692,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 380,
+    "qty": 370,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -766,7 +766,7 @@
     "price": "R1 310",
     "handle": "eaton-5e-700va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-700va-gen2-usb-iec-ups",
-    "qty": 37,
+    "qty": 36,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E700UI_33ac.png"
    },
    {
@@ -820,7 +820,7 @@
     "price": "R1 310",
     "handle": "eaton-5e-700va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-700va-gen2-usb-iec-ups",
-    "qty": 37,
+    "qty": 36,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E700UI_33ac.png"
    },
    {
@@ -880,7 +880,7 @@
     "brand": "APC",
     "title": "APC Smart Line Interactive 1000VA/ 1KVA 600W UPS Tower Rack Mount…",
     "spec": "1KVA UPS",
-    "price": "R8 286",
+    "price": "R8 563",
     "handle": "apc-smart-line-interactive-1000va-1kva-600w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
     "url": "/products/apc-smart-line-interactive-1000va-1kva-600w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
     "qty": 4,
@@ -932,7 +932,7 @@
     "brand": "APC",
     "title": "APC Smart Line Interactive 1000VA/ 1KVA 600W UPS Tower Rack Mount…",
     "spec": "1KVA UPS",
-    "price": "R8 286",
+    "price": "R8 563",
     "handle": "apc-smart-line-interactive-1000va-1kva-600w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
     "url": "/products/apc-smart-line-interactive-1000va-1kva-600w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
     "qty": 4,
@@ -962,7 +962,7 @@
     "brand": "APC",
     "title": "APC Smart-UPS RT 10kVA 230V",
     "spec": "10kVA UPS",
-    "price": "R87 753",
+    "price": "R92 943",
     "handle": "apc-smart-ups-rt-10kva-230v",
     "url": "/products/apc-smart-ups-rt-10kva-230v",
     "qty": 7,
@@ -1343,7 +1343,7 @@
     "price": "R218",
     "handle": "winx-call-clear-3-5mm-headset",
     "url": "/products/winx-call-clear-3-5mm-headset",
-    "qty": 237,
+    "qty": 229,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS105_wr_01.jpg"
    },
    {
@@ -1522,14 +1522,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/CM767-35267_UGreen-CM767-M.2-NVMe-SSD-Enclosure-10Gbps-%E2%80%93-Silver_wr_01a.jpg"
    },
    {
-    "brand": "Crucial",
-    "title": "Crucial E100 480GB PCIe Gen4 2280 NVMe M.2 SSD",
+    "brand": "Targus",
+    "title": "Targus Hyper HyperDrive EcoSmart USB4 SSD Enclosure",
     "spec": "Storage",
-    "price": "R2 136",
-    "handle": "crucial-e100-480gb-pcie-gen4-2280-nvme-m-2-ssd",
-    "url": "/products/crucial-e100-480gb-pcie-gen4-2280-nvme-m-2-ssd",
-    "qty": 177,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/CT480E100SSD8_wr_01.jpg"
+    "price": "R2 002",
+    "handle": "targus-hyper-hyperdrive-ecosmart-usb4-ssd-enclosure",
+    "url": "/products/targus-hyper-hyperdrive-ecosmart-usb4-ssd-enclosure",
+    "qty": 6,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/HD5001GL_default.png"
    },
    {
     "brand": "SanDisk",
@@ -1856,14 +1856,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2018/09/N301-10-SV-PRO_wr_01a.jpg"
    },
    {
-    "brand": "PWR",
-    "title": "PWR Dedicated to 3 Headed Cable 3.8m",
-    "spec": "Cables And Adapters",
+    "brand": "Redragon",
+    "title": "REDRAGON METEOR L Gaming WristPad 435x73x20mm",
+    "spec": "Accessories",
     "price": "R122",
-    "handle": "pwr-dedicated-to-3-headed-cable-3-8m",
-    "url": "/products/pwr-dedicated-to-3-headed-cable-3-8m",
-    "qty": 138,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2016/01/PC-6D3IC13BK3.8_wr_01.jpg"
+    "handle": "redragon-meteor-l-gaming-wristpad-435x73x20mm",
+    "url": "/products/redragon-meteor-l-gaming-wristpad-435x73x20mm",
+    "qty": 104,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/RD-P037_wr_01.jpg"
    },
    {
     "brand": "Winx",
@@ -1919,23 +1919,23 @@
    },
    {
     "brand": "HP",
-    "title": "HP 400 Quiet Wireless Blue Mouse",
+    "title": "HP 400 Quiet Wireless Black Mouse",
     "spec": "Wired Mouse",
     "price": "R371",
-    "handle": "hp-400-quiet-wireless-blue-mouse",
-    "url": "/products/hp-400-quiet-wireless-blue-mouse",
-    "qty": 96,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B4AA_ed00.jpg"
+    "handle": "hp-400-quiet-wireless-black-mouse",
+    "url": "/products/hp-400-quiet-wireless-black-mouse",
+    "qty": 153,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B2AA_dac7.jpg"
    },
    {
-    "brand": "Keychron",
-    "title": "Keychron B2 Pro Ultra-Slim 96% Wireless Keyboard - Ivory White",
-    "spec": "Keyboards",
-    "price": "R748",
-    "handle": "keychron-b2-pro-ultra-slim-96-wireless-keyboard-ivory-white",
-    "url": "/products/keychron-b2-pro-ultra-slim-96-wireless-keyboard-ivory-white",
-    "qty": 34,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/B2P-K8_Keychron-B2-Pro-Ultra-Slim-96-Wireless-Keyboard-Ivory-White_wr_01a.jpg"
+    "brand": "Dell",
+    "title": "Dell Premier Rechargeable Wireless Mouse - MS7421W",
+    "spec": "Wired Mouse",
+    "price": "R747",
+    "handle": "dell-premier-rechargeable-wireless-mouse-ms7421w",
+    "url": "/products/dell-premier-rechargeable-wireless-mouse-ms7421w",
+    "qty": 12,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/570-ABLO_default.jpg"
    },
    {
     "brand": "Keychron",
