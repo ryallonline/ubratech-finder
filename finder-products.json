@@ -74,14 +74,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/NX.ELVEA.001_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP ProBook 4 G1iR 14' Core-5 16GB 512GB Win 11 Pro Notebook",
-    "spec": "Core 5 · 16GB RAM",
-    "price": "R19 601",
-    "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "qty": 21,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 15 Essential PV15250 Laptop — Core i5 · 8GB (PV15250_RPLU_001_P8L_HOM)",
+    "spec": "Core i5",
+    "price": "R19 853",
+    "handle": "dell-pro-15-essential-pv15250-intel-core-i5-1334u-rrpl-p-u15-8-layerpcb-10cores-up-to-4-6-ghz-15-6-fhd-120hz-wva-ips-anti-glare-250-nit-8-gb-1-x-8-gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd",
+    "url": "/products/dell-pro-15-essential-pv15250-intel-core-i5-1334u-rrpl-p-u15-8-layerpcb-10cores-up-to-4-6-ghz-15-6-fhd-120hz-wva-ips-anti-glare-250-nit-8-gb-1-x-8-gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_001_P8L_HOM_default.jpg"
    },
    {
     "brand": "HP",
@@ -530,6 +530,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BQMZ_4276.jpg"
    },
    {
+    "brand": "Dell",
+    "title": "Dell SE2726HM 27\" FHD Monitor",
+    "spec": "Crisp everyday screen",
+    "price": "R2 332",
+    "handle": "dell-se2726hm-27-fhd-monitor",
+    "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
+    "qty": 380,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
+   },
+   {
     "brand": "Acer",
     "title": "Acer V206H 19.5\" HD Monitor (UM.IV6EE.024)",
     "spec": "19.5\" screen",
@@ -550,14 +560,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP Series 3 Pro 23.8\" FHD IPS Monitor",
-    "spec": "23.8\" screen",
-    "price": "R3 273",
-    "handle": "hp-series-3-pro-23-8-fhd-ips-monitor",
-    "url": "/products/hp-series-3-pro-23-8-fhd-ips-monitor",
-    "qty": 9,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5J5UT_61c4.jpg"
+    "brand": "Xiaomi",
+    "title": "Xiaomi G27i 2026 27″ 200Hz Full HD 1080p IPS Gaming Monitor",
+    "spec": "27\" screen",
+    "price": "R3 251",
+    "handle": "xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
+    "url": "/products/xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
+    "qty": 150,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6370EU_Xiaomi-G27i-2026-27%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -676,6 +686,16 @@
   ],
   "multi": [
    {
+    "brand": "Dell",
+    "title": "Dell SE2726HM 27\" FHD Monitor",
+    "spec": "Slim bezel · great for lots of windows",
+    "price": "R2 332",
+    "handle": "dell-se2726hm-27-fhd-monitor",
+    "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
+    "qty": 380,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
+   },
+   {
     "brand": "Hikvision",
     "title": "Hikvision 18.5\" Borderless FHD Monitor",
     "spec": "18.5\" screen",
@@ -790,7 +810,7 @@
     "price": "R904",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 405,
+    "qty": 402,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -1512,14 +1532,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/CT480E100SSD8_wr_01.jpg"
    },
    {
-    "brand": "Proline",
-    "title": "Proline KINGSTON 1000G NV3 M.2 PCIe 4.0 NVMe SSD",
-    "spec": "Storage",
-    "price": "R5 344",
-    "handle": "proline-kingston-1000g-nv3-m-2-pcie-4-0-nvme-ssd",
-    "url": "/products/proline-kingston-1000g-nv3-m-2-pcie-4-0-nvme-ssd",
-    "qty": 29,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SNV3SM3/1T0_default.jpg"
+    "brand": "SanDisk",
+    "title": "SanDisk Optimus GX 7100 1TB NVMe SSD",
+    "spec": "1TB NVMe SSD",
+    "price": "R5 203",
+    "handle": "sandisk-optimus-gx-7100-1tb-nvme-ssd",
+    "url": "/products/sandisk-optimus-gx-7100-1tb-nvme-ssd",
+    "qty": 113,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/S/D/SDSP71100TAN_000E0_d4e8.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -1943,13 +1963,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP DarkFighter Fixed Dome IP Camera",
+    "title": "Hikvision 4MP Fixed Minin Bullet Network Camera",
     "spec": "4MP",
-    "price": "R2 675",
-    "handle": "hikvision-4mp-darkfighter-fixed-dome-ip-camera",
-    "url": "/products/hikvision-4mp-darkfighter-fixed-dome-ip-camera",
-    "qty": 4,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_ISU_2.8MM_1_061c.png"
+    "price": "R2 727",
+    "handle": "hikvision-4mp-fixed-minin-bullet-network-camera",
+    "url": "/products/hikvision-4mp-fixed-minin-bullet-network-camera",
+    "qty": 226,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_2.8MM_1_1e43.png"
    },
    {
     "brand": "Hikvision",
@@ -2027,13 +2047,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Fixed Minin Bullet Network Camera",
+    "title": "Hikvision 4MP Acusense Bullet IP Camera (DS-2CD2T46G2-4I-6MM)",
     "spec": "4MP",
-    "price": "R2 727",
-    "handle": "hikvision-4mp-fixed-minin-bullet-network-camera",
-    "url": "/products/hikvision-4mp-fixed-minin-bullet-network-camera",
-    "qty": 226,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_2.8MM_1_1e43.png"
+    "price": "R2 919",
+    "handle": "hikvision-4mp-acusense-bullet-ip-camera-ds-2cd2t46g2-4i-6mm",
+    "url": "/products/hikvision-4mp-acusense-bullet-ip-camera-ds-2cd2t46g2-4i-6mm",
+    "qty": 8,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2_4I_6MM_ff4a.jpg"
    },
    {
     "brand": "Hikvision",
@@ -2214,7 +2234,7 @@
    "handle": "grandstream-enterprise-wifi-7-in-wall-indoor-access-point-gwn7670wm",
    "url": "/pages/grandstream-enterprise-wifi-7-in-wall-indoor-access-point-gwn7670wm",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/7/9/2/9/17929.jpg",
+   "image": "https://miro.co.za/img/p/1/7/9/3/4/17934.jpg",
    "enquiry": true
   },
   {
