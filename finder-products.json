@@ -60,7 +60,7 @@
     "price": "R13 372",
     "handle": "hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
     "url": "/products/hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
-    "qty": 54,
+    "qty": 48,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/7/C78E8AT_98d1.jpg"
    },
    {
@@ -106,14 +106,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo E14 G8 PTL Laptop — Core Ultra 7 · 16GB · 512GB SSD (21Y6001RZA)",
-    "spec": "Core Ultra 7 · 512GB SSD",
-    "price": "R28 963",
-    "handle": "lenovo-e14-g8-ptl-u7-355-16gb-ddr5-512gb-ssd-m-2-2242-tlc-g4-integrated-windows-11-pro-64-14-0-wuxga-ag-300nits-fhd-ir-cam-wi-fi-7-802-11be-2x2-bt5-4-y-fpr-3-cell-48whr-65w-usb-c-3pin-za-bklt-kb-us",
-    "url": "/products/lenovo-e14-g8-ptl-u7-355-16gb-ddr5-512gb-ssd-m-2-2242-tlc-g4-integrated-windows-11-pro-64-14-0-wuxga-ag-300nits-fhd-ir-cam-wi-fi-7-802-11be-2x2-bt5-4-y-fpr-3-cell-48whr-65w-usb-c-3pin-za-bklt-kb-us",
-    "qty": 10,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/21Y6001RZA_default.jpg"
+    "brand": "HP",
+    "title": "HP 15S 15.6\" FHD UltraSlim Core 7-150U 16GB 512GB Win 11 Home Silver Notebook",
+    "spec": "Core 7 · 15.6\" screen · 16GB RAM",
+    "price": "R28 965",
+    "handle": "hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
+    "url": "/products/hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
+    "qty": 27,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D6ZS9EA_cc0d.jpg"
    },
    {
     "brand": "Lenovo",
@@ -326,6 +326,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO105_QCS1250_EMEA_default.png"
    },
    {
+    "brand": "Dell",
+    "title": "Dell Pro Micro QCM1250 Desktop — Core Ultra 5 · 16GB",
+    "spec": "Premium desktop",
+    "price": "R30 039",
+    "handle": "dell-pro-micro-qcm1250-desktop-pc-core-ultra-5-16gb-bto106_qcm1250_emea",
+    "url": "https://ubratech.co.za/products/dell-pro-micro-qcm1250-desktop-pc-core-ultra-5-16gb-bto106_qcm1250_emea",
+    "qty": 7,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO106_QCM1250_EMEA_default.jpg"
+   },
+   {
     "brand": "Asus",
     "title": "Asus ROG G700 Intel Ultra 5 255F Gaming PC · 16GB DDR5 · 1TB SSD · Win 11 Home",
     "spec": "1TB SSD",
@@ -347,13 +357,13 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro Slim QCS1250 Desktop PC — Core i7 · 512GB SSD (BTO011_QCS1250_EMEA)",
-    "spec": "Core i7 · 512GB SSD",
-    "price": "R28 338",
-    "handle": "dell-pro-slim-qcs1250-intel-core-i7-14700-20cores-up-to-5-3-ghz-8gb-1x8gb-5600mt-s-ddr5-512gb-ssd-pcie-integrated-graphics-dell-kb216-multimedia-usb-keyboard-dell-ms116-optical-mouse-180w-power",
-    "url": "/products/dell-pro-slim-qcs1250-intel-core-i7-14700-20cores-up-to-5-3-ghz-8gb-1x8gb-5600mt-s-ddr5-512gb-ssd-pcie-integrated-graphics-dell-kb216-multimedia-usb-keyboard-dell-ms116-optical-mouse-180w-power",
-    "qty": 7,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO011_QCS1250_EMEA_default.png"
+    "title": "Dell Pro Tower Essential QVT1260: Desktop PC — Core i5 (BTO006_QVT1260_EMEA)",
+    "spec": "Core i5",
+    "price": "R28 862",
+    "handle": "dell-pro-tower-essential-qvt1260-intel-core-i5-14400-20-mb-cache-10-cores-16-threads-up-to-4-7ghz-65w-16gb-16gbx1-ddr5-4800mt-s-1tb-m-2-pcie-nvme-ssd-intel-uhd730-graphics-mediatek-wi-fi-6-mt7920-2x2",
+    "url": "/products/dell-pro-tower-essential-qvt1260-intel-core-i5-14400-20-mb-cache-10-cores-16-threads-up-to-4-7ghz-65w-16gb-16gbx1-ddr5-4800mt-s-1tb-m-2-pcie-nvme-ssd-intel-uhd730-graphics-mediatek-wi-fi-6-mt7920-2x2",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO006_QVT1260_EMEA_default.jpg"
    },
    {
     "brand": "Dell",
@@ -398,7 +408,7 @@
     "price": "R12 809",
     "handle": "pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
-    "qty": 38,
+    "qty": 44,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_DEFENDER_05_wr_01e.jpg"
    },
    {
@@ -492,7 +502,7 @@
     "price": "R12 809",
     "handle": "pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
-    "qty": 38,
+    "qty": 44,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_DEFENDER_05_wr_01e.jpg"
    },
    {
@@ -502,7 +512,7 @@
     "price": "R16 753",
     "handle": "pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
-    "qty": 12,
+    "qty": 10,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SCOUT_05_wr_01e.jpg"
    }
   ]
@@ -526,7 +536,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 366,
+    "qty": 326,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -540,14 +550,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 22 Adjustable Stand E2226HS Monitor",
-    "spec": "Monitors And Displays",
-    "price": "R2 384",
-    "handle": "dell-pro-22-adjustable-stand-monitor-e2226hs-1x-hdmi-1x-dp-1x-vga-integrated-speakers",
-    "url": "/products/dell-pro-22-adjustable-stand-monitor-e2226hs-1x-hdmi-1x-dp-1x-vga-integrated-speakers",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPH_default.jpg"
+    "brand": "Acer",
+    "title": "Acer 27\" IPS FHD 120Hz Monitor 3Yr",
+    "spec": "27\" screen",
+    "price": "R2 391",
+    "handle": "acer-27-ips-fhd-120hz-monitor-3yr",
+    "url": "/products/acer-27-ips-fhd-120hz-monitor-3yr",
+    "qty": 8,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -682,7 +692,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 366,
+    "qty": 326,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -696,14 +706,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi G24i 2026 24″ 200Hz Full HD 1080p IPS Gaming Monitor",
-    "spec": "24\" screen",
-    "price": "R2 660",
-    "handle": "xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
-    "url": "/products/xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
-    "qty": 203,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6364EU_Xiaomi-G24i-2026-24%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
+    "brand": "MSI",
+    "title": "MSI MAG 255F X24 25″ FHD 240Hz IPS Gaming Monitor",
+    "spec": "25\" screen",
+    "price": "R2 661",
+    "handle": "msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
+    "url": "/products/msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
+    "qty": 136,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-X24_MSI-MAG-255F-X24-25-inch-FHD-240Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
     "brand": "HP",
@@ -766,7 +776,7 @@
     "price": "R2 879",
     "handle": "eaton-5e-1600va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-1600va-gen2-usb-iec-ups",
-    "qty": 26,
+    "qty": 25,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
    },
    {
@@ -840,7 +850,7 @@
     "price": "R2 879",
     "handle": "eaton-5e-1600va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-1600va-gen2-usb-iec-ups",
-    "qty": 26,
+    "qty": 25,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
    },
    {
@@ -863,8 +873,18 @@
     "price": "R2 879",
     "handle": "eaton-5e-1600va-gen2-usb-iec-ups",
     "url": "https://ubratech.co.za/products/eaton-5e-1600va-gen2-usb-iec-ups",
-    "qty": 26,
+    "qty": 25,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
+   },
+   {
+    "brand": "APC",
+    "title": "APC Backup UPS 2200VA/ 2.2KVA 1200W UPS Tower Rack Mount included:…",
+    "spec": "2.2KVA UPS",
+    "price": "R4 849",
+    "handle": "apc-backup-ups-2200va-2-2kva-1200w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
+    "url": "/products/apc-backup-ups-2200va-2-2kva-1200w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
+    "qty": 10,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BX2200MI_default.jpg"
    },
    {
     "brand": "APC",
@@ -875,16 +895,6 @@
     "url": "/products/apc-smart-line-interactive-1000va-1kva-600w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
     "qty": 4,
     "image": "https://s3.amazonaws.com/tarsus.co.za/SMC1000IC_default.jpg"
-   },
-   {
-    "brand": "APC",
-    "title": "APC Smart-UPS 1000VA LCD 230V with SmartConnect",
-    "spec": "Ups And Power",
-    "price": "R10 098",
-    "handle": "apc-smart-ups-1000va-lcd-230v-with-smartconnect",
-    "url": "/products/apc-smart-ups-1000va-lcd-230v-with-smartconnect",
-    "qty": 4,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SMT1000IC_default.jpg"
    },
    {
     "brand": "APC",
@@ -915,7 +925,7 @@
     "price": "R10 098",
     "handle": "apc-smart-ups-1000va-lcd-230v-with-smartconnect",
     "url": "https://ubratech.co.za/products/apc-smart-ups-1000va-lcd-230v-with-smartconnect",
-    "qty": 4,
+    "qty": 5,
     "image": "https://s3.amazonaws.com/tarsus.co.za/SMT1000IC_default.jpg"
    },
    {
@@ -1343,7 +1353,7 @@
     "price": "R667",
     "handle": "logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
     "url": "/products/logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
-    "qty": 56,
+    "qty": 51,
     "image": "https://s3.amazonaws.com/tarsus.co.za/981-000480_default.jpg"
    },
    {
@@ -1846,14 +1856,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2018/09/N301-10-SV-PRO_wr_01a.jpg"
    },
    {
-    "brand": "FSP",
-    "title": "FSP PSU 30W 2.5MM 12V 2.5A Adapter",
-    "spec": "Power Adapter",
+    "brand": "Gizzu",
+    "title": "Gizzu 4K60Hz DisplayPort to HDMI Active Adapter",
+    "spec": "Cables And Adapters",
     "price": "R125",
-    "handle": "fsp-psu-30w-2-5mm-12v-2-5a-adapter",
-    "url": "/products/fsp-psu-30w-2-5mm-12v-2-5a-adapter",
-    "qty": 67,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/FSP030-DHAN3_wr_01a.jpg"
+    "handle": "gizzu-4k60hz-displayport-to-hdmi-active-adapter",
+    "url": "/products/gizzu-4k60hz-displayport-to-hdmi-active-adapter",
+    "qty": 60,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/GIZZU-GAPDPHA-45-0004-Edit_1500x1500.jpg"
    },
    {
     "brand": "HP",
@@ -2010,7 +2020,7 @@
     "price": "R3 533",
     "handle": "hikvision-4mp-acusense-bullet-camera",
     "url": "/products/hikvision-4mp-acusense-bullet-camera",
-    "qty": 12,
+    "qty": 10,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_4I_2.8MM_9cd8.png"
    },
    {
@@ -2206,14 +2216,14 @@
    "enquiry": true
   },
   {
-   "brand": "TP-Link Omada",
-   "title": "TP-Link AC1750 Ceiling Mount Dual-Band Access Point",
-   "spec": "450Mbps at 2.4GHz+1300Mbps at 5GHz, 2 x Gb LAN, 802.3at PoE Supported,",
-   "price": "R1 439",
-   "handle": "tp-link-ac1750-ceiling-mount-dual-band-access-point-tp-eap245",
-   "url": "/pages/tp-link-ac1750-ceiling-mount-dual-band-access-point-tp-eap245",
+   "brand": "Teltonika",
+   "title": "Teltonika Wi-Fi 4 Industrial Wireless Access Point",
+   "spec": "Wi-Fi Mesh, Fast Roaming, 2x RJ45 ports (10/100), Integrated Din Rail ",
+   "price": "R1 389",
+   "handle": "teltonika-wi-fi-4-industrial-wireless-access-point-dap140",
+   "url": "/pages/teltonika-wi-fi-4-industrial-wireless-access-point-dap140",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/5/8/2/1582.jpg",
+   "image": "https://miro.co.za/img/p/1/6/3/9/2/16392.jpg",
    "enquiry": true
   },
   {
@@ -2229,13 +2239,13 @@
   },
   {
    "brand": "Grandstream",
-   "title": "Grandstream Enterprise Outdoor WiFi 6 Long Range Access Point",
-   "spec": "6Gbps, 4x4:4 2.4/5G, 1x 2.5GbE, 1x SFP 2.5G, 512 client devices, Embed",
-   "price": "R3 383",
-   "handle": "grandstream-enterprise-outdoor-wifi-6-long-range-access-point-gwn7664elr",
-   "url": "/pages/grandstream-enterprise-outdoor-wifi-6-long-range-access-point-gwn7664elr",
+   "title": "Grandstream Enterprise Outdoor WiFi 7 Long Range Access Point",
+   "spec": "Outdoor Long-Range Dual-Band Wi-Fi 7 Access Point/Bridge, 2x2:2 2.4/5G",
+   "price": "R3 075",
+   "handle": "grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
+   "url": "/pages/grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/5/3/5/6/15356.jpg",
+   "image": "https://miro.co.za/img/p/1/8/7/0/7/18707.jpg",
    "enquiry": true
   },
   {
