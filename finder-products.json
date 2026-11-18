@@ -74,14 +74,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/NX.ELVEA.001_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP ProBook 4 G1iR 14' Core-5 16GB 512GB Win 11 Pro Notebook",
-    "spec": "Core 5 · 16GB RAM",
-    "price": "R19 601",
-    "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "qty": 24,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
+    "brand": "Acer",
+    "title": "Acer EXO15 51 5183 Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.EMBEA.004)",
+    "spec": "Core Ultra 5 · 512GB SSD",
+    "price": "R19 013",
+    "handle": "acer-exo15-51-5183-intel-core-ultra-5-processor-125u-15-6-fhd-ips-slimbezel-uma-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-53wh-battery-65w",
+    "url": "/products/acer-exo15-51-5183-intel-core-ultra-5-processor-125u-15-6-fhd-ips-slimbezel-uma-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-53wh-battery-65w",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EMBEA.004_default.jpg"
    },
    {
     "brand": "HP",
@@ -138,16 +138,6 @@
   ],
   "creator": [
    {
-    "brand": "Asus",
-    "title": "Asus VivoBook (RTX) V3607VH 16\" Core i7 16GB 1TB Win 11 Pro",
-    "spec": "RTX · 16GB RAM · 1TB SSD",
-    "price": "R28 332",
-    "handle": "asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
-    "url": "https://ubratech.co.za/products/asus-vivobook-rtx-v3607vh-16-core-i7-16gb-1tb-win-11-pro-notebook",
-    "qty": 13,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/V/3/V3607VH_I71610B0X__1__7ef3.png"
-   },
-   {
     "brand": "HP",
     "title": "HP ZBook 8 G1i — Core Ultra 7 · 512GB SSD · RTX",
     "spec": "RTX · Core Ultra 7 · 512GB SSD",
@@ -179,13 +169,13 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell Alienware 16 Aurora 16\" RTX 5060 Core-7 32GB 1TB Win 11 Pro Notebook",
-    "spec": "Core 7 · 16\" screen · 32GB RAM",
-    "price": "R64 627",
-    "handle": "dell-alienware-16-aurora-16-rtx-5060-core-7-32gb-1tb-win-11-pro-notebook",
-    "url": "/products/dell-alienware-16-aurora-16-rtx-5060-core-7-32gb-1tb-win-11-pro-notebook",
-    "qty": 9,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/C/AC16250_RPLH_R_010_7f52.jpg"
+    "title": "Dell XPS 14 DA14260 Series 3 Laptop — 32GB (XPS14DA14260-321TB-OLED)",
+    "spec": "Notebooks",
+    "price": "R76 268",
+    "handle": "dell-xps-14-da14260-series-3-intel-core-ultra-x7-processor-358h-16-cores-18mb-cache-up-to-4-8-ghz-copilot-pc-intel-arc-graphics-32gb-lpddr5x-dual-channel-at-9600-mt-s-1tb-m-2-pcie-nvme-ssd-colour",
+    "url": "/products/dell-xps-14-da14260-series-3-intel-core-ultra-x7-processor-358h-16-cores-18mb-cache-up-to-4-8-ghz-copilot-pc-intel-arc-graphics-32gb-lpddr5x-dual-channel-at-9600-mt-s-1tb-m-2-pcie-nvme-ssd-colour",
+    "qty": 8,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/XPS14DA14260-321TB-OLED_default.jpg"
    },
    {
     "brand": "Dell",
@@ -454,14 +444,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/FA608UHI-716512G0W_Asus_TUF_Gaming_A16_Gaming_Laptop_16_Ryz_wr_01.png"
    },
    {
-    "brand": "Asus",
-    "title": "Asus TUF Gaming A16 Gaming Laptop 16″ · Laptop — Ryzen 9 · 16GB · 1TB SSD",
-    "spec": "Ryzen 9 · 16\" screen · 1TB SSD",
-    "price": "R30 221",
-    "handle": "asus-tuf-gaming-a16-gaming-laptop-16-ryzen-9-8940hx-16gb-ddr5-rtx-5060-1tb-ssd-windows-11-home",
-    "url": "/products/asus-tuf-gaming-a16-gaming-laptop-16-ryzen-9-8940hx-16gb-ddr5-rtx-5060-1tb-ssd-windows-11-home",
-    "qty": 3,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/FA608PM-91610G0W_Asus-TUF-Gaming-A16-Gaming-Laptop-16-inch-Ryzen-9-8940HX-16GB-DDR5-RTX-5060-1TB-SSD-Windows-11-Home_wr_01a.jpg"
+    "brand": "Acer",
+    "title": "Acer NITRO V 15 Gaming Laptop 15.6″ · Laptop (NH.QZAEA.006)",
+    "spec": "15.6\" screen",
+    "price": "R32 524",
+    "handle": "acer-nitro-v-15-gaming-laptop-15-6-intel-core-7-240h-16gb-512gb-rtx-5060-8gb-windows-11-home",
+    "url": "/products/acer-nitro-v-15-gaming-laptop-15-6-intel-core-7-240h-16gb-512gb-rtx-5060-8gb-windows-11-home",
+    "qty": 65,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/NH_QZAEA_006_Acer_NITRO_V_15_Gaming_Laptop_156_Intel__wr_01.png"
    },
    {
     "brand": "Acer",
@@ -512,7 +502,7 @@
     "price": "R16 753",
     "handle": "pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
-    "qty": 13,
+    "qty": 12,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SCOUT_05_wr_01e.jpg"
    }
   ]
@@ -536,7 +526,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 368,
+    "qty": 366,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -692,7 +682,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 368,
+    "qty": 366,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -810,7 +800,7 @@
     "price": "R904",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 402,
+    "qty": 401,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -1343,7 +1333,7 @@
     "price": "R218",
     "handle": "winx-call-clear-3-5mm-headset",
     "url": "/products/winx-call-clear-3-5mm-headset",
-    "qty": 229,
+    "qty": 214,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS105_wr_01.jpg"
    },
    {
@@ -1528,7 +1518,7 @@
     "price": "R2 136",
     "handle": "crucial-e100-480gb-pcie-gen4-2280-nvme-m-2-ssd",
     "url": "/products/crucial-e100-480gb-pcie-gen4-2280-nvme-m-2-ssd",
-    "qty": 81,
+    "qty": 80,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/CT480E100SSD8_wr_01.jpg"
    },
    {
@@ -1856,14 +1846,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2018/09/N301-10-SV-PRO_wr_01a.jpg"
    },
    {
-    "brand": "Gizzu",
-    "title": "Gizzu 4K60Hz DisplayPort to HDMI Active Adapter",
-    "spec": "Cables And Adapters",
+    "brand": "FSP",
+    "title": "FSP PSU 30W 2.5MM 12V 2.5A Adapter",
+    "spec": "Power Adapter",
     "price": "R125",
-    "handle": "gizzu-4k60hz-displayport-to-hdmi-active-adapter",
-    "url": "/products/gizzu-4k60hz-displayport-to-hdmi-active-adapter",
-    "qty": 72,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/GIZZU-GAPDPHA-45-0004-Edit_1500x1500.jpg"
+    "handle": "fsp-psu-30w-2-5mm-12v-2-5a-adapter",
+    "url": "/products/fsp-psu-30w-2-5mm-12v-2-5a-adapter",
+    "qty": 67,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/FSP030-DHAN3_wr_01a.jpg"
    },
    {
     "brand": "HP",
@@ -2094,7 +2084,7 @@
     "price": "R468",
     "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
     "url": "/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 588,
+    "qty": 578,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
@@ -2136,7 +2126,7 @@
     "price": "R468",
     "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
     "url": "/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 588,
+    "qty": 578,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
@@ -2178,7 +2168,7 @@
     "price": "R468",
     "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
     "url": "/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 588,
+    "qty": 578,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
