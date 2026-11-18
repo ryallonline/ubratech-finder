@@ -74,14 +74,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/NX.ELVEA.001_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP ProBook 4 G1iR 14' Core-5 16GB 512GB Win 11 Pro Notebook",
-    "spec": "Core 5 · 16GB RAM",
-    "price": "R19 601",
-    "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "qty": 21,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 15 Essential PV15250 Laptop — Core i5 · 8GB (PV15250_RPLU_001_P8L_HOM)",
+    "spec": "Core i5",
+    "price": "R19 853",
+    "handle": "dell-pro-15-essential-pv15250-intel-core-i5-1334u-rrpl-p-u15-8-layerpcb-10cores-up-to-4-6-ghz-15-6-fhd-120hz-wva-ips-anti-glare-250-nit-8-gb-1-x-8-gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd",
+    "url": "/products/dell-pro-15-essential-pv15250-intel-core-i5-1334u-rrpl-p-u15-8-layerpcb-10cores-up-to-4-6-ghz-15-6-fhd-120hz-wva-ips-anti-glare-250-nit-8-gb-1-x-8-gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_001_P8L_HOM_default.jpg"
    },
    {
     "brand": "HP",
