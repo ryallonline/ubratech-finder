@@ -106,24 +106,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 14 Essential PV14255 Laptop — 16GB (PV14255_KRK_501)",
-    "spec": "Notebooks",
-    "price": "R29 001",
-    "handle": "dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
-    "url": "/products/dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
-    "qty": 38,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/PV14255_KRK_501_default.jpg"
+    "brand": "HP",
+    "title": "HP 15S 15.6\" FHD UltraSlim Core 7-150U 16GB 512GB Win 11 Home Silver Notebook",
+    "spec": "Core 7 · 15.6\" screen · 16GB RAM",
+    "price": "R28 965",
+    "handle": "hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
+    "url": "/products/hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
+    "qty": 27,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D6ZS9EA_cc0d.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus Zenbook S16 UM5606GA 16\" 3K OLED 120Hz Ryzen AI 9-465 16GB 1TB Win 11 Pro Notebook",
-    "spec": "Ryzen AI 9 · 16\" screen · 16GB RAM",
-    "price": "R37 650",
-    "handle": "asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
-    "url": "/products/asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
-    "qty": 10,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_S16_UM5606GA_Product_photo_3G_Antrim_Gray_03__1__de3e.jpg"
+    "brand": "HP",
+    "title": "HP Pro x360 13.3\" Ryzen-7 16GB 1TB Win 11 Pro Silver Notebook",
+    "spec": "Ryzen 7 · 13.3\" screen · 16GB RAM",
+    "price": "R37 285",
+    "handle": "hp-pro-x360-13-3-ryzen-7-16gb-1tb-win-11-pro-silver-notebook",
+    "url": "/products/hp-pro-x360-13-3-ryzen-7-16gb-1tb-win-11-pro-silver-notebook",
+    "qty": 24,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/968K3ET__1__1391.jpg"
    },
    {
     "brand": "Dell",
@@ -536,7 +536,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 370,
+    "qty": 368,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -692,7 +692,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 370,
+    "qty": 368,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -1205,7 +1205,7 @@
     "price": "R136",
     "handle": "port-connect-usb-type-c-to-4-port-usb-a-3-0-2-0-hub",
     "url": "/products/port-connect-usb-type-c-to-4-port-usb-a-3-0-2-0-hub",
-    "qty": 83,
+    "qty": 81,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/900160_Port-Connect-USB-Type-C-to-4-port-USB-A-3.0-2.0-Hub_wr_01a.jpg"
    },
    {
@@ -1418,7 +1418,7 @@
     "price": "R3 776",
     "handle": "huawei-s310-24p4s-24-ports-poe-switch",
     "url": "/products/huawei-s310-24p4s-24-ports-poe-switch",
-    "qty": 177,
+    "qty": 176,
     "image": "https://www.pinnacle.co.za/media/catalog/product/h/u/huawei_switch_s310_24p4s_24ge_ports_4ge_sfp_ports_poe_ac_power_98012201_380436__c994.png"
    },
    {
@@ -1532,14 +1532,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/CT480E100SSD8_wr_01.jpg"
    },
    {
-    "brand": "Proline",
-    "title": "Proline KINGSTON 1000G NV3 M.2 PCIe 4.0 NVMe SSD",
+    "brand": "Kingston",
+    "title": "Kingston 1TB XS1000 External USB 3.2 Gen 2 Portable Solid State Drive",
     "spec": "Storage",
-    "price": "R5 344",
-    "handle": "proline-kingston-1000g-nv3-m-2-pcie-4-0-nvme-ssd",
-    "url": "/products/proline-kingston-1000g-nv3-m-2-pcie-4-0-nvme-ssd",
-    "qty": 30,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SNV3SM3/1T0_default.jpg"
+    "price": "R5 159",
+    "handle": "kingston-1tb-xs1000-external-usb-3-2-gen-2-portable-solid-state-drive",
+    "url": "/products/kingston-1tb-xs1000-external-usb-3-2-gen-2-portable-solid-state-drive",
+    "qty": 4,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SXS1000/1000G_default.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -1866,14 +1866,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/FSP030-DHAN3_wr_01a.jpg"
    },
    {
-    "brand": "Winx",
-    "title": "WINX POWER Max 65W GaN Wall Charger",
-    "spec": "Power Adapter",
-    "price": "R412",
-    "handle": "winx-power-max-65w-gan-wall-charger",
-    "url": "/products/winx-power-max-65w-gan-wall-charger",
-    "qty": 225,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/WX-WC108_WINX-POWER-Max-65W-GaN-Wall-Charger-Black_wr_01.jpg"
+    "brand": "HP",
+    "title": "HP Wired 320MK combo",
+    "spec": "Accessories",
+    "price": "R414",
+    "handle": "hp-wired-320mk-combo",
+    "url": "/products/hp-wired-320mk-combo",
+    "qty": 9,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/9SR36UT_default.png"
    },
    {
     "brand": "HP",
@@ -2089,23 +2089,23 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 5MP Smart Hybrid Light Audio Fixed Mini Analogue Camera",
-    "spec": "5MP",
-    "price": "R490",
-    "handle": "hikvision-5mp-smart-hybrid-light-audio-fixed-mini-analogue-camera",
-    "url": "/products/hikvision-5mp-smart-hybrid-light-audio-fixed-mini-analogue-camera",
-    "qty": 201,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16K0T_LPFS_image_2_c2f1.png"
+    "title": "Hikvision 2MP ColorVu Fixed Turret Analogue Camera",
+    "spec": "2MP",
+    "price": "R468",
+    "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
+    "url": "/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
+    "qty": 588,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 3K 5MP ColorVu Smart Hybrid Light Fixed Turret Analogue Camera",
-    "spec": "5MP",
-    "price": "R666",
-    "handle": "hikvision-3k-5mp-colorvu-smart-hybrid-light-fixed-turret-analogue-camera",
-    "url": "/products/hikvision-3k-5mp-colorvu-smart-hybrid-light-fixed-turret-analogue-camera",
-    "qty": 160,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70KF0T_LPFS_2.8MM_0208.jpg"
+    "title": "Hikvision 2MP Manual Varifocal Bullet Analogue Camera",
+    "spec": "2MP",
+    "price": "R814",
+    "handle": "hikvision-2mp-manual-varifocal-bullet-analogue-camera",
+    "url": "/products/hikvision-2mp-manual-varifocal-bullet-analogue-camera",
+    "qty": 43,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE19D0T_VFIT3F_356a.jpg"
    },
    {
     "brand": "Hikvision",
@@ -2136,7 +2136,7 @@
     "price": "R468",
     "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
     "url": "/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 638,
+    "qty": 588,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
@@ -2173,23 +2173,23 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 5MP Smart Hybrid Light Audio Fixed Mini Analogue Camera",
-    "spec": "5MP",
-    "price": "R490",
-    "handle": "hikvision-5mp-smart-hybrid-light-audio-fixed-mini-analogue-camera",
-    "url": "/products/hikvision-5mp-smart-hybrid-light-audio-fixed-mini-analogue-camera",
-    "qty": 201,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16K0T_LPFS_image_2_c2f1.png"
+    "title": "Hikvision 2MP ColorVu Fixed Turret Analogue Camera",
+    "spec": "2MP",
+    "price": "R468",
+    "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
+    "url": "/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
+    "qty": 588,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 3K 5MP ColorVu Smart Hybrid Light Fixed Turret Analogue Camera",
-    "spec": "5MP",
-    "price": "R666",
-    "handle": "hikvision-3k-5mp-colorvu-smart-hybrid-light-fixed-turret-analogue-camera",
-    "url": "/products/hikvision-3k-5mp-colorvu-smart-hybrid-light-fixed-turret-analogue-camera",
-    "qty": 160,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70KF0T_LPFS_2.8MM_0208.jpg"
+    "title": "Hikvision 2MP Manual Varifocal Bullet Analogue Camera",
+    "spec": "2MP",
+    "price": "R814",
+    "handle": "hikvision-2mp-manual-varifocal-bullet-analogue-camera",
+    "url": "/products/hikvision-2mp-manual-varifocal-bullet-analogue-camera",
+    "qty": 43,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE19D0T_VFIT3F_356a.jpg"
    },
    {
     "brand": "Hikvision",
