@@ -2,24 +2,34 @@
  "laptops": {
   "entry": [
    {
-    "brand": "Asus",
-    "title": "Asus VivoBook Go 15\" Intel N150 8GB 256GB Win 11 Home Notebook - Mixed Black",
-    "spec": "Intel N150 · 15\" screen · 8GB RAM",
-    "price": "R7 176",
-    "handle": "asus-vivobook-go-15-intel-n150-8gb-256gb-win-11-home-notebook-mixed-black",
-    "url": "/products/asus-vivobook-go-15-intel-n150-8gb-256gb-win-11-home-notebook-mixed-black",
-    "qty": 149,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__42__340b.png"
+    "brand": "HP",
+    "title": "HP 250 G9 15.6\" Core i3 16GB 256GB Win 11 Pro Notebook",
+    "spec": "Core i3 · 16GB RAM · 256GB SSD",
+    "price": "R15 462",
+    "handle": "hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
+    "url": "https://ubratech.co.za/products/hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
+    "qty": 10,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/F/DF6L7ET_4f9d.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus VivoBook 15 X1504VAP 15.6\" Core 3-100U 8GB 256GB Win 11 Home Notebook - Quiet Blue",
-    "spec": "Core 3 · 15.6\" screen · 8GB RAM",
-    "price": "R8 443",
-    "handle": "asus-vivobook-15-x1504vap-15-6-core-3-100u-8gb-256gb-win-11-home-notebook-quiet-blue",
-    "url": "/products/asus-vivobook-15-x1504vap-15-6-core-3-100u-8gb-256gb-win-11-home-notebook-quiet-blue",
-    "qty": 423,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/X/1/X1504VAP_I382BL0W_2231.jpg"
+    "brand": "Acer",
+    "title": "Acer ETBook 14 R3 8GB 256GB 14\" Slim Bezel Windows 11 Home 64 Single Language",
+    "spec": "14\" screen · 8GB RAM",
+    "price": "R7 932",
+    "handle": "acer-etbook-14-r3-8gb-256gb-14-slim-bezel-windows-11-home-64-single-language",
+    "url": "/products/acer-etbook-14-r3-8gb-256gb-14-slim-bezel-windows-11-home-64-single-language",
+    "qty": 22,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/ZL.OTH11.051_default.png"
+   },
+   {
+    "brand": "Acer",
+    "title": "Acer Lite 15 R3 5400U 8 256 15.6\" FHD IPS SLIM BEZEL Windows 11 Home",
+    "spec": "15.6\" screen",
+    "price": "R9 065",
+    "handle": "acer-lite-15-r3-5400u-8-256-15-6-fhd-ips-slim-bezel-windows-11-home",
+    "url": "/products/acer-lite-15-r3-5400u-8-256-15-6-fhd-ips-slim-bezel-windows-11-home",
+    "qty": 13,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.DZAEA.002_default.png"
    },
    {
     "brand": "Asus",
@@ -65,13 +75,13 @@
    },
    {
     "brand": "Acer",
-    "title": "Acer EXO14 72 51AG Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.ELVEA.001)",
+    "title": "Acer EXO16 51 53W7 Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.EM3EA.004)",
     "spec": "Core Ultra 5 · 512GB SSD",
-    "price": "R17 628",
-    "handle": "acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
-    "url": "/products/acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
+    "price": "R16 747",
+    "handle": "acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
+    "url": "/products/acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
     "qty": 59,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.ELVEA.001_default.jpg"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.004_default.jpg"
    },
    {
     "brand": "Acer",
@@ -116,14 +126,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/21Y6001RZA_default.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo T14 G7 PTL Laptop — Core Ultra 5 · 512GB SSD (21WN002RZA)",
-    "spec": "Core Ultra 5 · 512GB SSD",
-    "price": "R37 650",
-    "handle": "lenovo-t14-g7-ptl-u5-325-16gb-base-ddr5x-512gb-ssd-m-2-2280-tlc-g4-intel-arc-windows-11-pro-64-14-0-wuxga-ag-400nits-5m-rgb-ir-cam-intel-wi-fi-7-be211-802-11be-2x2-bt5-4-snapdragon-x12-lte-modem-4g",
-    "url": "/products/lenovo-t14-g7-ptl-u5-325-16gb-base-ddr5x-512gb-ssd-m-2-2280-tlc-g4-intel-arc-windows-11-pro-64-14-0-wuxga-ag-400nits-5m-rgb-ir-cam-intel-wi-fi-7-be211-802-11be-2x2-bt5-4-snapdragon-x12-lte-modem-4g",
-    "qty": 6,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/21WN002RZA_default.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 16 Plus Laptop — Core Ultra 7 · 16GB · 512GB SSD (BTO209_PB16250_EMEA)",
+    "spec": "Core Ultra 7 · 512GB SSD",
+    "price": "R38 282",
+    "handle": "dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-onboard-512-gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro-processor-16",
+    "url": "/products/dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-onboard-512-gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro-processor-16",
+    "qty": 28,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO209_PB16250_EMEA_default.jpg"
    },
    {
     "brand": "Lenovo",
@@ -285,13 +295,13 @@
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder FUSION 24\" Intel Core i5-12400 16GB DDR5 1TB Windows 11 AiO Desktop PC",
-    "spec": "Core i5 · 24\" screen · 16GB RAM",
-    "price": "R16 756",
-    "handle": "pcbuilder-fusion-24-intel-core-i5-12400-16gb-ddr5-1tb-windows-11-aio-desktop-pc",
-    "url": "/products/pcbuilder-fusion-24-intel-core-i5-12400-16gb-ddr5-1tb-windows-11-aio-desktop-pc",
-    "qty": 34,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/05/PCB-AIO-FIB24-I5161000-D5_PCBuilder-FUSION-24-inch-Intel-Core-i5-12400-16GB-DDR5-1TB-Windows-11-AiO-Desktop-PC_wr_01a.jpg"
+    "title": "PCBuilder Ryzen 5 5500 SCOUT Windows 11 Gaming PC",
+    "spec": "Ryzen 5",
+    "price": "R16 753",
+    "handle": "pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
+    "url": "/products/pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
+    "qty": 10,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SCOUT_05_wr_01e.jpg"
    },
    {
     "brand": "Lenovo",
@@ -560,14 +570,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP Series 3 Pro 23.8\" FHD IPS Monitor",
-    "spec": "23.8\" screen",
-    "price": "R3 273",
-    "handle": "hp-series-3-pro-23-8-fhd-ips-monitor",
-    "url": "/products/hp-series-3-pro-23-8-fhd-ips-monitor",
-    "qty": 9,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5J5UT_61c4.jpg"
+    "brand": "Xiaomi",
+    "title": "Xiaomi G27i 2026 27″ 200Hz Full HD 1080p IPS Gaming Monitor",
+    "spec": "27\" screen",
+    "price": "R3 251",
+    "handle": "xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
+    "url": "/products/xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
+    "qty": 150,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6370EU_Xiaomi-G27i-2026-27%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -1119,16 +1129,6 @@
     "url": "/products/canon-pixma-mg2541s-inkjet-mfp-3-in-1-a4-grey-a4-mfp-print-copy-and-scan-8ipm-mono-4-0ipm-colour-4800-x-600-print-resolution-600-x-1200-dpi-scan-resolution-60-sheet-rear-tray-manual-duplex-usb-4-ink",
     "qty": 11,
     "image": "https://s3.amazonaws.com/tarsus.co.za/0727C067AA_default.png"
-   },
-   {
-    "brand": "Canon",
-    "title": "Canon G3410 Megatank continuous ink supply sys Wireless All-in-One Printer (2315C056AA)",
-    "spec": "Printers",
-    "price": "R2 539",
-    "handle": "canon-g3410-megatank-continuous-ink-supply-system-a4-3-in-1-print-copy-scan-4800-x-1200-dpi-8-8-ipm-5-0-ipm-colour-borderless-printing-100-sheets-rear-feed-supports-windows-only-usb-only-no-mc",
-    "url": "/products/canon-g3410-megatank-continuous-ink-supply-system-a4-3-in-1-print-copy-scan-4800-x-1200-dpi-8-8-ipm-5-0-ipm-colour-borderless-printing-100-sheets-rear-feed-supports-windows-only-usb-only-no-mc",
-    "qty": 3,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/2315C056AA_default.png"
    },
    {
     "brand": "Lexmark",
@@ -1919,13 +1919,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP 400 Quiet Wireless Purple Mouse",
+    "title": "HP 400 Quiet Wireless Black Mouse",
     "spec": "Wired Mouse",
-    "price": "R368",
-    "handle": "hp-400-quiet-wireless-purple-mouse",
-    "url": "/products/hp-400-quiet-wireless-purple-mouse",
-    "qty": 94,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B7AA_428e.jpg"
+    "price": "R371",
+    "handle": "hp-400-quiet-wireless-black-mouse",
+    "url": "/products/hp-400-quiet-wireless-black-mouse",
+    "qty": 153,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B2AA_dac7.jpg"
    },
    {
     "brand": "Dell",
