@@ -8,7 +8,7 @@
     "price": "R15 462",
     "handle": "hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
     "url": "https://ubratech.co.za/products/hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
-    "qty": 10,
+    "qty": 45,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/F/DF6L7ET_4f9d.jpg"
    },
    {
@@ -64,34 +64,34 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA_default.jpg"
    },
    {
+    "brand": "Lenovo",
+    "title": "Lenovo V15 G4 IRU Laptop — Core i5 · 512GB SSD",
+    "spec": "Core i5 · 512GB SSD",
+    "price": "R13 725",
+    "handle": "lenovo-v15-g4-iru-i5-13420h-8gb-base-ddr4-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-home-64-15-6-fhd-tn-hd-camera-wi-fi-ax-2x2-bluetooth-n-fpr-2-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
+    "url": "/products/lenovo-v15-g4-iru-i5-13420h-8gb-base-ddr4-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-home-64-15-6-fhd-tn-hd-camera-wi-fi-ax-2x2-bluetooth-n-fpr-2-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
+    "qty": 23,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0077ZA_default.jpg"
+   },
+   {
+    "brand": "Lenovo",
+    "title": "Lenovo Ideapad Slim 3 15.3\" WUXGA Core 7-320 16GB 512GB Win 11 Home Notebook",
+    "spec": "Core 7 · 15.3\" screen · 16GB RAM",
+    "price": "R17 628",
+    "handle": "lenovo-ideapad-slim-3-15-3-wuxga-core-7-320-16gb-512gb-win-11-home-notebook",
+    "url": "/products/lenovo-ideapad-slim-3-15-3-wuxga-core-7-320-16gb-512gb-win-11-home-notebook",
+    "qty": 4,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/8/3/83RR00CWSA_e01a.jpg"
+   },
+   {
     "brand": "HP",
-    "title": "HP 250R G10 15.6\" Core 3 100U 8GB 512GB Win 11 Pro Silver Notebook",
-    "spec": "Core 3 · 15.6\" screen · 8GB RAM",
-    "price": "R13 372",
-    "handle": "hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
-    "url": "/products/hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
-    "qty": 48,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/7/C78E8AT_98d1.jpg"
-   },
-   {
-    "brand": "Acer",
-    "title": "Acer EXO16 51 53W7 Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.EM3EA.004)",
-    "spec": "Core Ultra 5 · 512GB SSD",
-    "price": "R16 747",
-    "handle": "acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
-    "url": "/products/acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
-    "qty": 59,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.004_default.jpg"
-   },
-   {
-    "brand": "Acer",
-    "title": "Acer EXO15 51 5183 Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.EMBEA.004)",
-    "spec": "Core Ultra 5 · 512GB SSD",
-    "price": "R19 013",
-    "handle": "acer-exo15-51-5183-intel-core-ultra-5-processor-125u-15-6-fhd-ips-slimbezel-uma-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-53wh-battery-65w",
-    "url": "/products/acer-exo15-51-5183-intel-core-ultra-5-processor-125u-15-6-fhd-ips-slimbezel-uma-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-53wh-battery-65w",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EMBEA.004_default.jpg"
+    "title": "HP ProBook 4 G1iR 14' Core-5 16GB 512GB Win 11 Pro Notebook",
+    "spec": "Core 5 · 16GB RAM",
+    "price": "R19 601",
+    "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
+    "qty": 11,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
    },
    {
     "brand": "HP",
@@ -132,7 +132,7 @@
     "price": "R38 282",
     "handle": "dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-onboard-512-gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro-processor-16",
     "url": "/products/dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-onboard-512-gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro-processor-16",
-    "qty": 30,
+    "qty": 28,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO209_PB16250_EMEA_default.jpg"
    },
    {
@@ -320,7 +320,7 @@
     "price": "R21 461",
     "handle": "dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
     "url": "/products/dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
-    "qty": 12,
+    "qty": 10,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO004_QVS1260_EMEA_default.jpg"
    }
   ],
@@ -546,7 +546,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 326,
+    "qty": 325,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -566,7 +566,7 @@
     "price": "R2 391",
     "handle": "acer-27-ips-fhd-120hz-monitor-3yr",
     "url": "/products/acer-27-ips-fhd-120hz-monitor-3yr",
-    "qty": 8,
+    "qty": 7,
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
    },
    {
@@ -660,7 +660,7 @@
     "price": "R2 391",
     "handle": "acer-27-ips-fhd-120hz-monitor-3yr",
     "url": "https://ubratech.co.za/products/acer-27-ips-fhd-120hz-monitor-3yr",
-    "qty": 8,
+    "qty": 7,
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
    },
    {
@@ -702,7 +702,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 326,
+    "qty": 325,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -890,7 +890,7 @@
     "brand": "APC",
     "title": "APC Backup UPS 2200VA/ 2.2KVA 1200W UPS Tower Rack Mount included:…",
     "spec": "2.2KVA UPS",
-    "price": "R4 849",
+    "price": "R4 307",
     "handle": "apc-backup-ups-2200va-2-2kva-1200w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
     "url": "/products/apc-backup-ups-2200va-2-2kva-1200w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
     "qty": 10,
@@ -932,7 +932,7 @@
     "brand": "APC",
     "title": "APC Smart-UPS 1000VA LCD (SmartConnect)",
     "spec": "Rack-mount · critical kit",
-    "price": "R10 098",
+    "price": "R10 199",
     "handle": "apc-smart-ups-1000va-lcd-230v-with-smartconnect",
     "url": "https://ubratech.co.za/products/apc-smart-ups-1000va-lcd-230v-with-smartconnect",
     "qty": 5,
@@ -1532,14 +1532,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/CT480E100SSD8_wr_01.jpg"
    },
    {
-    "brand": "Kingston",
-    "title": "Kingston 1TB XS1000 External USB 3.2 Gen 2 Portable Solid State Drive",
-    "spec": "Storage",
-    "price": "R5 159",
-    "handle": "kingston-1tb-xs1000-external-usb-3-2-gen-2-portable-solid-state-drive",
-    "url": "/products/kingston-1tb-xs1000-external-usb-3-2-gen-2-portable-solid-state-drive",
-    "qty": 4,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SXS1000/1000G_default.jpg"
+    "brand": "SanDisk",
+    "title": "SanDisk Optimus GX 7100 1TB NVMe SSD",
+    "spec": "1TB NVMe SSD",
+    "price": "R5 203",
+    "handle": "sandisk-optimus-gx-7100-1tb-nvme-ssd",
+    "url": "/products/sandisk-optimus-gx-7100-1tb-nvme-ssd",
+    "qty": 113,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/S/D/SDSP71100TAN_000E0_d4e8.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -1642,7 +1642,7 @@
     "price": "R41 888",
     "handle": "asus-tuf-gaming-geforce-rtx-5080-16gb-gddr7-oc-edition",
     "url": "/products/asus-tuf-gaming-geforce-rtx-5080-16gb-gddr7-oc-edition",
-    "qty": 8,
+    "qty": 7,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/TUF-RTX5080-O16G-GAMING-wr-01.jpg"
    }
   ],
@@ -2084,18 +2084,18 @@
     "price": "R235",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 25648,
+    "qty": 25646,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 2MP ColorVu Fixed Turret Analogue Camera",
-    "spec": "2MP",
-    "price": "R468",
-    "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "url": "/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 578,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
+    "title": "Hikvision 3K 2.8mm Smart Hybrid Light Audio Indoor Fixed Turret Camera",
+    "spec": "Cctv Ip Cameras",
+    "price": "R467",
+    "handle": "hikvision-3k-2-8mm-smart-hybrid-light-audio-indoor-fixed-turret-camera",
+    "url": "/products/hikvision-3k-2-8mm-smart-hybrid-light-audio-indoor-fixed-turret-camera",
+    "qty": 25,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE76K0T_LPFS_2.8MM_1d22.jpg"
    },
    {
     "brand": "Hikvision",
@@ -2126,7 +2126,7 @@
     "price": "R235",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 25648,
+    "qty": 25646,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
@@ -2168,18 +2168,18 @@
     "price": "R235",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 25648,
+    "qty": 25646,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 2MP ColorVu Fixed Turret Analogue Camera",
-    "spec": "2MP",
-    "price": "R468",
-    "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "url": "/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
-    "qty": 578,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
+    "title": "Hikvision 3K 2.8mm Smart Hybrid Light Audio Indoor Fixed Turret Camera",
+    "spec": "Cctv Ip Cameras",
+    "price": "R467",
+    "handle": "hikvision-3k-2-8mm-smart-hybrid-light-audio-indoor-fixed-turret-camera",
+    "url": "/products/hikvision-3k-2-8mm-smart-hybrid-light-audio-indoor-fixed-turret-camera",
+    "qty": 25,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE76K0T_LPFS_2.8MM_1d22.jpg"
    },
    {
     "brand": "Hikvision",
