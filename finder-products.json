@@ -70,7 +70,7 @@
     "price": "R13 372",
     "handle": "hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
     "url": "/products/hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
-    "qty": 53,
+    "qty": 48,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/7/C78E8AT_98d1.jpg"
    },
    {
@@ -84,14 +84,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.004_default.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer EXO15 51 5183 Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.EMBEA.004)",
-    "spec": "Core Ultra 5 · 512GB SSD",
-    "price": "R19 013",
-    "handle": "acer-exo15-51-5183-intel-core-ultra-5-processor-125u-15-6-fhd-ips-slimbezel-uma-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-53wh-battery-65w",
-    "url": "/products/acer-exo15-51-5183-intel-core-ultra-5-processor-125u-15-6-fhd-ips-slimbezel-uma-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-53wh-battery-65w",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EMBEA.004_default.jpg"
+    "brand": "HP",
+    "title": "HP ProBook 4 G1iR 14' Core-5 16GB 512GB Win 11 Pro Notebook",
+    "spec": "Core 5 · 16GB RAM",
+    "price": "R19 601",
+    "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
+    "qty": 20,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
    },
    {
     "brand": "HP",
@@ -132,7 +132,7 @@
     "price": "R38 282",
     "handle": "dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-onboard-512-gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro-processor-16",
     "url": "/products/dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-onboard-512-gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro-processor-16",
-    "qty": 28,
+    "qty": 30,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO209_PB16250_EMEA_default.jpg"
    },
    {
@@ -820,7 +820,7 @@
     "price": "R904",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 401,
+    "qty": 399,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -1580,7 +1580,7 @@
     "price": "R2 525",
     "handle": "kingston-8gb-ddr4-3200mhz-memory-module",
     "url": "/products/kingston-8gb-ddr4-3200mhz-memory-module",
-    "qty": 37,
+    "qty": 33,
     "image": "https://s3.amazonaws.com/tarsus.co.za/KCP432NS8/8_default.png"
    },
    {
@@ -1919,13 +1919,13 @@
    },
    {
     "brand": "HP",
-    "title": "HP 400 Quiet Wireless Black Mouse",
+    "title": "HP 400 Quiet Wireless Purple Mouse",
     "spec": "Wired Mouse",
-    "price": "R371",
-    "handle": "hp-400-quiet-wireless-black-mouse",
-    "url": "/products/hp-400-quiet-wireless-black-mouse",
-    "qty": 153,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B2AA_dac7.jpg"
+    "price": "R368",
+    "handle": "hp-400-quiet-wireless-purple-mouse",
+    "url": "/products/hp-400-quiet-wireless-purple-mouse",
+    "qty": 94,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B7AA_428e.jpg"
    },
    {
     "brand": "Dell",
@@ -1968,7 +1968,7 @@
     "price": "R2 727",
     "handle": "hikvision-4mp-fixed-minin-bullet-network-camera",
     "url": "/products/hikvision-4mp-fixed-minin-bullet-network-camera",
-    "qty": 226,
+    "qty": 206,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_2.8MM_1_1e43.png"
    },
    {
@@ -2010,7 +2010,7 @@
     "price": "R2 727",
     "handle": "hikvision-4mp-fixed-minin-bullet-network-camera",
     "url": "/products/hikvision-4mp-fixed-minin-bullet-network-camera",
-    "qty": 226,
+    "qty": 206,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_2.8MM_1_1e43.png"
    },
    {
@@ -2084,7 +2084,7 @@
     "price": "R235",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 25654,
+    "qty": 25648,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
@@ -2126,7 +2126,7 @@
     "price": "R235",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 25654,
+    "qty": 25648,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
@@ -2168,7 +2168,7 @@
     "price": "R235",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 25654,
+    "qty": 25648,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
