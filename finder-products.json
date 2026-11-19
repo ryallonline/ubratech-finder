@@ -64,34 +64,34 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA_default.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo V15 G4 IRU Laptop — Core i5 · 512GB SSD",
-    "spec": "Core i5 · 512GB SSD",
-    "price": "R13 725",
-    "handle": "lenovo-v15-g4-iru-i5-13420h-8gb-base-ddr4-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-home-64-15-6-fhd-tn-hd-camera-wi-fi-ax-2x2-bluetooth-n-fpr-2-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
-    "url": "/products/lenovo-v15-g4-iru-i5-13420h-8gb-base-ddr4-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-home-64-15-6-fhd-tn-hd-camera-wi-fi-ax-2x2-bluetooth-n-fpr-2-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
-    "qty": 23,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0077ZA_default.jpg"
-   },
-   {
-    "brand": "Lenovo",
-    "title": "Lenovo Ideapad Slim 3 15.3\" WUXGA Core 7-320 16GB 512GB Win 11 Home Notebook",
-    "spec": "Core 7 · 15.3\" screen · 16GB RAM",
-    "price": "R17 628",
-    "handle": "lenovo-ideapad-slim-3-15-3-wuxga-core-7-320-16gb-512gb-win-11-home-notebook",
-    "url": "/products/lenovo-ideapad-slim-3-15-3-wuxga-core-7-320-16gb-512gb-win-11-home-notebook",
-    "qty": 4,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/8/3/83RR00CWSA_e01a.jpg"
-   },
-   {
     "brand": "HP",
-    "title": "HP ProBook 4 G1iR 14' Core-5 16GB 512GB Win 11 Pro Notebook",
-    "spec": "Core 5 · 16GB RAM",
-    "price": "R19 601",
-    "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "qty": 9,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
+    "title": "HP 250R G10 15.6\" Core 3 100U 8GB 512GB Win 11 Pro Silver Notebook",
+    "spec": "Core 3 · 15.6\" screen · 8GB RAM",
+    "price": "R13 372",
+    "handle": "hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
+    "url": "/products/hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
+    "qty": 3,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/7/C78E8AT_98d1.jpg"
+   },
+   {
+    "brand": "Acer",
+    "title": "Acer EXO16 51 53W7 Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.EM3EA.004)",
+    "spec": "Core Ultra 5 · 512GB SSD",
+    "price": "R16 747",
+    "handle": "acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
+    "url": "/products/acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
+    "qty": 57,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.004_default.jpg"
+   },
+   {
+    "brand": "Acer",
+    "title": "Acer EXO15 51 5183 Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.EMBEA.004)",
+    "spec": "Core Ultra 5 · 512GB SSD",
+    "price": "R19 013",
+    "handle": "acer-exo15-51-5183-intel-core-ultra-5-processor-125u-15-6-fhd-ips-slimbezel-uma-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-53wh-battery-65w",
+    "url": "/products/acer-exo15-51-5183-intel-core-ultra-5-processor-125u-15-6-fhd-ips-slimbezel-uma-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-53wh-battery-65w",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EMBEA.004_default.jpg"
    },
    {
     "brand": "HP",
@@ -132,7 +132,7 @@
     "price": "R38 282",
     "handle": "dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-onboard-512-gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro-processor-16",
     "url": "/products/dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-onboard-512-gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro-processor-16",
-    "qty": 28,
+    "qty": 26,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO209_PB16250_EMEA_default.jpg"
    },
    {
@@ -320,7 +320,7 @@
     "price": "R21 461",
     "handle": "dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
     "url": "/products/dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
-    "qty": 10,
+    "qty": 9,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO004_QVS1260_EMEA_default.jpg"
    }
   ],
@@ -342,7 +342,7 @@
     "price": "R30 039",
     "handle": "dell-pro-micro-qcm1250-desktop-pc-core-ultra-5-16gb-bto106_qcm1250_emea",
     "url": "https://ubratech.co.za/products/dell-pro-micro-qcm1250-desktop-pc-core-ultra-5-16gb-bto106_qcm1250_emea",
-    "qty": 7,
+    "qty": 6,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO106_QCM1250_EMEA_default.jpg"
    },
    {
@@ -418,7 +418,7 @@
     "price": "R12 809",
     "handle": "pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
-    "qty": 62,
+    "qty": 64,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_DEFENDER_05_wr_01e.jpg"
    },
    {
@@ -512,7 +512,7 @@
     "price": "R12 809",
     "handle": "pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
-    "qty": 62,
+    "qty": 64,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_DEFENDER_05_wr_01e.jpg"
    },
    {
@@ -586,7 +586,7 @@
     "price": "R5 917",
     "handle": "xiaomi-a27ui-27-60hz-4k-ips-office-monitor",
     "url": "/products/xiaomi-a27ui-27-60hz-4k-ips-office-monitor",
-    "qty": 49,
+    "qty": 48,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6221EU_Xiaomi-A27Ui-27-inch-60Hz-4K-IPS-Office-Monitor_wr_01b.jpg"
    }
   ],
@@ -893,7 +893,7 @@
     "price": "R4 307",
     "handle": "apc-backup-ups-2200va-2-2kva-1200w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
     "url": "/products/apc-backup-ups-2200va-2-2kva-1200w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
-    "qty": 10,
+    "qty": 9,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BX2200MI_default.jpg"
    },
    {
@@ -1316,7 +1316,7 @@
     "brand": "Targus",
     "title": "Targus USB C Dual HDMI 4K Docking Station",
     "spec": "Docking Station",
-    "price": "R1 495",
+    "price": "R1 390",
     "handle": "targus-usb-c-dual-hdmi-4k-docking-station",
     "url": "/products/targus-usb-c-dual-hdmi-4k-docking-station",
     "qty": 49,
@@ -1418,7 +1418,7 @@
     "price": "R3 776",
     "handle": "huawei-s310-24p4s-24-ports-poe-switch",
     "url": "/products/huawei-s310-24p4s-24-ports-poe-switch",
-    "qty": 176,
+    "qty": 172,
     "image": "https://www.pinnacle.co.za/media/catalog/product/h/u/huawei_switch_s310_24p4s_24ge_ports_4ge_sfp_ports_poe_ac_power_98012201_380436__c994.png"
    },
    {
@@ -1561,7 +1561,7 @@
     "handle": "hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/HSC516U48Z1-16G_Hiksemi-Hiker-16GB-DDR5-4800MHz-Desktop-Memory_wr_01a.jpg",
-    "qty": 11
+    "qty": 10
    },
    {
     "brand": "GeIL",
@@ -1748,7 +1748,7 @@
     "price": "R2 048",
     "handle": "xiaomi-smart-air-purifier-4-compact-eu",
     "url": "/products/xiaomi-smart-air-purifier-4-compact-eu",
-    "qty": 99,
+    "qty": 113,
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/06/BHR5860EU_wr_01.jpg"
    },
    {
@@ -1866,14 +1866,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2018/09/N301-10-SV-PRO_wr_01a.jpg"
    },
    {
-    "brand": "FSP",
-    "title": "FSP PSU 30W 2.5MM 12V 2.5A Adapter",
-    "spec": "Power Adapter",
+    "brand": "Gizzu",
+    "title": "Gizzu 4K60Hz DisplayPort to HDMI Active Adapter",
+    "spec": "Cables And Adapters",
     "price": "R125",
-    "handle": "fsp-psu-30w-2-5mm-12v-2-5a-adapter",
-    "url": "/products/fsp-psu-30w-2-5mm-12v-2-5a-adapter",
-    "qty": 64,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/FSP030-DHAN3_wr_01a.jpg"
+    "handle": "gizzu-4k60hz-displayport-to-hdmi-active-adapter",
+    "url": "/products/gizzu-4k60hz-displayport-to-hdmi-active-adapter",
+    "qty": 60,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/GIZZU-GAPDPHA-45-0004-Edit_1500x1500.jpg"
    },
    {
     "brand": "HP",
@@ -1905,7 +1905,7 @@
     "handle": "logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "url": "https://ubratech.co.za/products/logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "image": "https://s3.amazonaws.com/tarsus.co.za/920-008685_default.jpg",
-    "qty": 27
+    "qty": 47
    },
    {
     "brand": "Logitech",
@@ -2094,7 +2094,7 @@
     "price": "R235",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 25636,
+    "qty": 25631,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
@@ -2136,7 +2136,7 @@
     "price": "R235",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 25636,
+    "qty": 25631,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
@@ -2178,7 +2178,7 @@
     "price": "R235",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 25636,
+    "qty": 25631,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
