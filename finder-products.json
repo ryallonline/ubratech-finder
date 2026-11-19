@@ -28,7 +28,7 @@
     "price": "R9 065",
     "handle": "acer-lite-15-r3-5400u-8-256-15-6-fhd-ips-slim-bezel-windows-11-home",
     "url": "/products/acer-lite-15-r3-5400u-8-256-15-6-fhd-ips-slim-bezel-windows-11-home",
-    "qty": 5,
+    "qty": 19,
     "image": "https://s3.amazonaws.com/tarsus.co.za/NX.DZAEA.002_default.png"
    },
    {
@@ -38,7 +38,7 @@
     "price": "R10 451",
     "handle": "asus-vivobook-15-x1504vap-15-6-core-3-100u-8gb-256gb-win-11-home-notebook-quiet-blue",
     "url": "/products/asus-vivobook-15-x1504vap-15-6-core-3-100u-8gb-256gb-win-11-home-notebook-quiet-blue",
-    "qty": 982,
+    "qty": 989,
     "image": "https://www.pinnacle.co.za/media/catalog/product/X/1/X1504VAP_I382BL0W_2231.jpg"
    },
    {
@@ -64,24 +64,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA_default.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus VivoBook 15 X1504VAP 15.6\" Core 5-120U 8GB 512GB Win 11 Home Notebook - Quiet Blue",
-    "spec": "Core 5 · 15.6\" screen · 8GB RAM",
-    "price": "R13 347",
-    "handle": "asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
-    "url": "/products/asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
-    "qty": 7,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/X/1/X1504VAP_I382BL0W_a78d.jpg"
+    "brand": "Lenovo",
+    "title": "Lenovo V15 G4 IRU Laptop — Core i5 · 512GB SSD",
+    "spec": "Core i5 · 512GB SSD",
+    "price": "R13 725",
+    "handle": "lenovo-v15-g4-iru-i5-13420h-8gb-base-ddr4-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-home-64-15-6-fhd-tn-hd-camera-wi-fi-ax-2x2-bluetooth-n-fpr-2-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
+    "url": "/products/lenovo-v15-g4-iru-i5-13420h-8gb-base-ddr4-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-home-64-15-6-fhd-tn-hd-camera-wi-fi-ax-2x2-bluetooth-n-fpr-2-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
+    "qty": 23,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0077ZA_default.jpg"
    },
    {
     "brand": "Acer",
-    "title": "Acer EXO16 51 53W7 Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.EM3EA.004)",
+    "title": "Acer EXO14 72 51AG Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.ELVEA.001)",
     "spec": "Core Ultra 5 · 512GB SSD",
-    "price": "R16 747",
-    "handle": "acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
-    "url": "/products/acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
-    "qty": 57,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.004_default.jpg"
+    "price": "R17 628",
+    "handle": "acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
+    "url": "/products/acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
+    "qty": 59,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.ELVEA.001_default.jpg"
    },
    {
     "brand": "Acer",
@@ -116,24 +116,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP 15S 15.6\" FHD UltraSlim Core 7-150U 16GB 512GB Win 11 Home Silver Notebook",
-    "spec": "Core 7 · 15.6\" screen · 16GB RAM",
-    "price": "R28 965",
-    "handle": "hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
-    "url": "/products/hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
-    "qty": 27,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D6ZS9EA_cc0d.jpg"
+    "brand": "Lenovo",
+    "title": "Lenovo E14 G8 PTL Laptop — Core Ultra 7 · 16GB · 512GB SSD (21Y6001RZA)",
+    "spec": "Core Ultra 7 · 512GB SSD",
+    "price": "R28 963",
+    "handle": "lenovo-e14-g8-ptl-u7-355-16gb-ddr5-512gb-ssd-m-2-2242-tlc-g4-integrated-windows-11-pro-64-14-0-wuxga-ag-300nits-fhd-ir-cam-wi-fi-7-802-11be-2x2-bt5-4-y-fpr-3-cell-48whr-65w-usb-c-3pin-za-bklt-kb-us",
+    "url": "/products/lenovo-e14-g8-ptl-u7-355-16gb-ddr5-512gb-ssd-m-2-2242-tlc-g4-integrated-windows-11-pro-64-14-0-wuxga-ag-300nits-fhd-ir-cam-wi-fi-7-802-11be-2x2-bt5-4-y-fpr-3-cell-48whr-65w-usb-c-3pin-za-bklt-kb-us",
+    "qty": 9,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/21Y6001RZA_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 16 Plus Laptop — Core Ultra 7 · 16GB · 512GB SSD (BTO209_PB16250_EMEA)",
-    "spec": "Core Ultra 7 · 512GB SSD",
-    "price": "R38 282",
-    "handle": "dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-onboard-512-gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro-processor-16",
-    "url": "/products/dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-onboard-512-gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro-processor-16",
-    "qty": 26,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO209_PB16250_EMEA_default.jpg"
+    "brand": "HP",
+    "title": "HP Elitebook 6 G1i 14\" AI Core U7-255U 16GB 512GB Win 11 Pro Notebook",
+    "spec": "14\" screen · 16GB RAM",
+    "price": "R38 451",
+    "handle": "hp-elitebook-6-g1i-14-ai-core-u7-255u-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/hp-elitebook-6-g1i-14-ai-core-u7-255u-16gb-512gb-win-11-pro-notebook",
+    "qty": 8,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/K/CK8G9EA_80b8.jpg"
    },
    {
     "brand": "Lenovo",
@@ -154,7 +154,7 @@
     "price": "R42 121",
     "handle": "hp-zbook-8-g1i-laptop-core-ultra-7-512gb-ssd-cg0k8et",
     "url": "https://ubratech.co.za/products/hp-zbook-8-g1i-laptop-core-ultra-7-512gb-ssd-cg0k8et",
-    "qty": 4,
+    "qty": 3,
     "image": "https://s3.amazonaws.com/tarsus.co.za/CG0K8ET_default.jpg"
    },
    {
@@ -218,7 +218,7 @@
     "price": "R20 147",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 72,
+    "qty": 70,
     "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    },
    {
@@ -270,7 +270,7 @@
     "price": "R20 147",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 72,
+    "qty": 70,
     "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    },
    {
@@ -305,23 +305,23 @@
    },
    {
     "brand": "Lenovo",
-    "title": "Lenovo Neo 50q G6 Tiny Desktop PC — Core Ultra 5 · 16GB · 512GB SSD (13HR001JSA)",
-    "spec": "Core Ultra 5 · 512GB SSD",
-    "price": "R18 887",
-    "handle": "lenovo-neo-50q-g6-tiny-u5-226v-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-qlc-integrated-windows-11-pro-64-rtl8852be-2x2ax-bluetooth-vesa-mount-internal-speaker-90w-adapter-usb-clp-us-eng-usb-clp-mouse-pub",
-    "url": "/products/lenovo-neo-50q-g6-tiny-u5-226v-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-qlc-integrated-windows-11-pro-64-rtl8852be-2x2ax-bluetooth-vesa-mount-internal-speaker-90w-adapter-usb-clp-us-eng-usb-clp-mouse-pub",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/13HR001JSA_default.png"
+    "title": "Lenovo TC Neo 30s G5 Desktop PC — Core i5 · 16GB · 512GB SSD (13DK0011SA)",
+    "spec": "Core i5 · 512GB SSD",
+    "price": "R18 511",
+    "handle": "lenovo-tc-neo-30s-g5-intel-core-i5-13420h-4-6-ghz-1x-16gb-ddr5-5200-512gb-ssd-m-2-2280-pcie-4-0x4-nvme-opal-2-0-usb-calliope-keyboard-black-english-eu-usb-calliope-mouse-black-integrated-100-1000m",
+    "url": "/products/lenovo-tc-neo-30s-g5-intel-core-i5-13420h-4-6-ghz-1x-16gb-ddr5-5200-512gb-ssd-m-2-2280-pcie-4-0x4-nvme-opal-2-0-usb-calliope-keyboard-black-english-eu-usb-calliope-mouse-black-integrated-100-1000m",
+    "qty": 26,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/13DK0011SA_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro Slim Essential QVS1260: Desktop PC — Core i5 · 16GB (BTO004_QVS1260_EMEA)",
+    "brand": "HP",
+    "title": "HP Pro Tower 290 G9 E PCI PC Desktop PC — Core i5 (D6RR1EA)",
     "spec": "Core i5",
-    "price": "R21 461",
-    "handle": "dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
-    "url": "/products/dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
-    "qty": 4,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO004_QVS1260_EMEA_default.jpg"
+    "price": "R21 255",
+    "handle": "hp-pro-tower-290-g9-e-pci-desktop-pc-intel-core-i5-14500-1-90-ghz-up-to-5-00-ghz-14-cores-20-threads-14th-generation-with-intel-uhd-graphics-770-512gb-m-2-pcie-nvme-2280-value-3x4-ssd-8gb-3200mt-s",
+    "url": "/products/hp-pro-tower-290-g9-e-pci-desktop-pc-intel-core-i5-14500-1-90-ghz-up-to-5-00-ghz-14-cores-20-threads-14th-generation-with-intel-uhd-graphics-770-512gb-m-2-pcie-nvme-2280-value-3x4-ssd-8gb-3200mt-s",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/D6RR1EA_default.jpg"
    }
   ],
   "high": [
@@ -342,7 +342,7 @@
     "price": "R30 039",
     "handle": "dell-pro-micro-qcm1250-desktop-pc-core-ultra-5-16gb-bto106_qcm1250_emea",
     "url": "https://ubratech.co.za/products/dell-pro-micro-qcm1250-desktop-pc-core-ultra-5-16gb-bto106_qcm1250_emea",
-    "qty": 6,
+    "qty": 4,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO106_QCM1250_EMEA_default.jpg"
    },
    {
@@ -382,7 +382,7 @@
     "price": "R72 632",
     "handle": "dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
     "url": "/products/dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
-    "qty": 21,
+    "qty": 20,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PW516261-U7-321TB-5G_default.jpg"
    }
   ],
@@ -404,7 +404,7 @@
     "price": "R72 632",
     "handle": "dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
     "url": "/products/dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
-    "qty": 21,
+    "qty": 20,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PW516261-U7-321TB-5G_default.jpg"
    }
   ]
@@ -470,7 +470,7 @@
     "price": "R32 524",
     "handle": "acer-nitro-v-15-gaming-laptop-15-6-intel-core-7-240h-16gb-512gb-rtx-5060-8gb-windows-11-home",
     "url": "/products/acer-nitro-v-15-gaming-laptop-15-6-intel-core-7-240h-16gb-512gb-rtx-5060-8gb-windows-11-home",
-    "qty": 65,
+    "qty": 67,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/NH_QZAEA_006_Acer_NITRO_V_15_Gaming_Laptop_156_Intel__wr_01.png"
    },
    {
@@ -570,14 +570,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
    },
    {
-    "brand": "MSI",
-    "title": "MSI MAG 275F E20 27\" FHD 200Hz Rapid IPS Gaming Monitor",
+    "brand": "Xiaomi",
+    "title": "Xiaomi G27i 2026 27″ 200Hz Full HD 1080p IPS Gaming Monitor",
     "spec": "27\" screen",
-    "price": "R3 249",
-    "handle": "msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
-    "url": "/products/msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
-    "qty": 16,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-275F-E20_MSI-MAG-275F-E20-27inch-FHD-200Hz-Gaming-Montor-wr01.jpeg"
+    "price": "R3 251",
+    "handle": "xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
+    "url": "/products/xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
+    "qty": 150,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6370EU_Xiaomi-G27i-2026-27%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -650,7 +650,7 @@
     "price": "R2 014",
     "handle": "acer-24-ips-fhd-120hz-monitor-3yr",
     "url": "https://ubratech.co.za/products/acer-24-ips-fhd-120hz-monitor-3yr",
-    "qty": 9,
+    "qty": 5,
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.QE1EE.G08_default.png"
    },
    {
@@ -1319,7 +1319,7 @@
     "price": "R1 390",
     "handle": "targus-usb-c-dual-hdmi-4k-docking-station",
     "url": "/products/targus-usb-c-dual-hdmi-4k-docking-station",
-    "qty": 49,
+    "qty": 48,
     "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK427GL_default.jpg"
    }
   ]
@@ -1350,7 +1350,7 @@
     "brand": "Logitech",
     "title": "Logitech H540 USB Computer Headset with HD Sound and On-Ear… (981-000480)",
     "spec": "Headsets",
-    "price": "R667",
+    "price": "R675",
     "handle": "logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
     "url": "/products/logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
     "qty": 51,
@@ -1963,23 +1963,23 @@
   "ip_small": [
    {
     "brand": "Hikvision",
-    "title": "Hikvision 2MP Fixed Bullet IP Camera",
+    "title": "Hikvision 2MP 2.8mm Fixed Dome Network Camera",
     "spec": "2MP",
-    "price": "R1 207",
-    "handle": "hikvision-2mp-fixed-bullet-ip-camera",
-    "url": "/products/hikvision-2mp-fixed-bullet-ip-camera",
-    "qty": 128,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD1023G0E_I_4MM_1_7247.png"
+    "price": "R1 317",
+    "handle": "hikvision-2mp-2-8mm-fixed-dome-network-camera",
+    "url": "/products/hikvision-2mp-2-8mm-fixed-dome-network-camera",
+    "qty": 411,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2121G0_LIU_2.8MM_4d7a.jpg"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Fixed Minin Bullet Network Camera",
+    "title": "Hikvision 4MP Fixed Mini Bullet Network Camera",
     "spec": "4MP",
-    "price": "R2 727",
-    "handle": "hikvision-4mp-fixed-minin-bullet-network-camera",
-    "url": "/products/hikvision-4mp-fixed-minin-bullet-network-camera",
-    "qty": 194,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_2.8MM_1_1e43.png"
+    "price": "R2 986",
+    "handle": "hikvision-4mp-fixed-mini-bullet-network-camera",
+    "url": "/products/hikvision-4mp-fixed-mini-bullet-network-camera",
+    "qty": 58,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_4MM_1_306c.png"
    },
    {
     "brand": "Hikvision",
@@ -2005,33 +2005,33 @@
   "ip_medium": [
    {
     "brand": "Hikvision",
-    "title": "Hikvision 2MP Fixed Bullet IP Camera",
+    "title": "Hikvision 2MP 2.8mm Fixed Dome Network Camera",
     "spec": "2MP",
-    "price": "R1 207",
-    "handle": "hikvision-2mp-fixed-bullet-ip-camera",
-    "url": "/products/hikvision-2mp-fixed-bullet-ip-camera",
-    "qty": 128,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD1023G0E_I_4MM_1_7247.png"
+    "price": "R1 317",
+    "handle": "hikvision-2mp-2-8mm-fixed-dome-network-camera",
+    "url": "/products/hikvision-2mp-2-8mm-fixed-dome-network-camera",
+    "qty": 411,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2121G0_LIU_2.8MM_4d7a.jpg"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Acusense Bullet IP Camera (DS-2CD2T46G2-4I-6MM)",
+    "title": "Hikvision 4MP Fixed Mini Bullet Network Camera",
     "spec": "4MP",
-    "price": "R2 919",
-    "handle": "hikvision-4mp-acusense-bullet-ip-camera-ds-2cd2t46g2-4i-6mm",
-    "url": "/products/hikvision-4mp-acusense-bullet-ip-camera-ds-2cd2t46g2-4i-6mm",
-    "qty": 8,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2_4I_6MM_ff4a.jpg"
+    "price": "R2 986",
+    "handle": "hikvision-4mp-fixed-mini-bullet-network-camera",
+    "url": "/products/hikvision-4mp-fixed-mini-bullet-network-camera",
+    "qty": 58,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_4MM_1_306c.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Acusense Bullet Camera",
+    "title": "Hikvision 4MP Darkfighter Fiexed Bullet IP Camera",
     "spec": "4MP",
     "price": "R3 533",
-    "handle": "hikvision-4mp-acusense-bullet-camera",
-    "url": "/products/hikvision-4mp-acusense-bullet-camera",
-    "qty": 10,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_4I_2.8MM_9cd8.png"
+    "handle": "hikvision-4mp-darkfighter-fiexed-bullet-ip-camera",
+    "url": "/products/hikvision-4mp-darkfighter-fiexed-bullet-ip-camera",
+    "qty": 163,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_4I_4MM_1_ef81.png"
    },
    {
     "brand": "Hikvision",
@@ -2057,13 +2057,13 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Acusense Bullet IP Camera (DS-2CD2T46G2-4I-6MM)",
+    "title": "Hikvision 4MP Fixed Mini Bullet Network Camera",
     "spec": "4MP",
-    "price": "R2 919",
-    "handle": "hikvision-4mp-acusense-bullet-ip-camera-ds-2cd2t46g2-4i-6mm",
-    "url": "/products/hikvision-4mp-acusense-bullet-ip-camera-ds-2cd2t46g2-4i-6mm",
-    "qty": 8,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2_4I_6MM_ff4a.jpg"
+    "price": "R2 986",
+    "handle": "hikvision-4mp-fixed-mini-bullet-network-camera",
+    "url": "/products/hikvision-4mp-fixed-mini-bullet-network-camera",
+    "qty": 58,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_4MM_1_306c.png"
    },
    {
     "brand": "Hikvision",
@@ -2249,35 +2249,35 @@
   },
   {
    "brand": "Grandstream",
-   "title": "Grandstream Enterprise Outdoor WiFi 7 Long Range Access Point",
-   "spec": "Outdoor Long-Range Dual-Band Wi-Fi 7 Access Point/Bridge, 2x2:2 2.4/5G",
-   "price": "R3 075",
-   "handle": "grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
-   "url": "/pages/grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
+   "title": "Grandstream Enterprise WiFi 7 MLO Indoor Access Point",
+   "spec": "11Gbps, Tri-band 2x2:2 MU-MIMO, 384 client devices, 1x 5GbE (PoE Input",
+   "price": "R3 371",
+   "handle": "grandstream-enterprise-wifi-7-mlo-indoor-access-point-gwn7672l",
+   "url": "/pages/grandstream-enterprise-wifi-7-mlo-indoor-access-point-gwn7672l",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/8/7/0/7/18707.jpg",
+   "image": "https://miro.co.za/img/p/2/0/0/6/9/20069.jpg",
    "enquiry": true
   },
   {
    "brand": "Ubiquiti",
-   "title": "Ubiquiti UniFi6 Mesh Pro Indoor/Outdoor Dual Band WiFi6 Access Point",
-   "spec": "No PoE Injector included, Indoor AP - 350+ concurrent client capacity,",
-   "price": "R4 694",
-   "handle": "ubiquiti-unifi6-mesh-pro-indoor-outdoor-dual-band-wifi6-access-point-u6-mesh-pro",
-   "url": "/pages/ubiquiti-unifi6-mesh-pro-indoor-outdoor-dual-band-wifi6-access-point-u6-mesh-pro",
+   "title": "Ubiquiti UniFi WiFi 7 Outdoor Access Point",
+   "spec": "No PoE Injector included, 4 Spatial Streams, 250+ connected devices, 2",
+   "price": "R4 735",
+   "handle": "ubiquiti-unifi-wifi-7-outdoor-access-point-u7-outdoor",
+   "url": "/pages/ubiquiti-unifi-wifi-7-outdoor-access-point-u7-outdoor",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/4/0/8/5/14085.jpg",
+   "image": "https://miro.co.za/img/p/1/7/1/4/0/17140.jpg",
    "enquiry": true
   },
   {
-   "brand": "Cambium Networks",
-   "title": "Cambium cnPilot Enterprise WiFi 6 120° Outdoor AP",
-   "spec": "2x2 Dual Band 802.11ax, 30W PoE out, 1 x 2.5 Gb Port, 1 x Gb Port, PoE",
-   "price": "R15 300",
-   "handle": "cambium-cnpilot-enterprise-wifi-6-120-outdoor-ap-cnp-xv-2t1",
-   "url": "/pages/cambium-cnpilot-enterprise-wifi-6-120-outdoor-ap-cnp-xv-2t1",
+   "brand": "TP-Link",
+   "title": "TP-Link EAP225-O Promotion: Buy 20 X EAP225-O And Get 1 Free OC200",
+   "spec": "Buy 5 x TP-EAP670 Get 1 x TP-EAP670 Free",
+   "price": "R21 377",
+   "handle": "tp-link-eap225-o-promotion-buy-20-x-eap225-o-and-get-1-free-oc200",
+   "url": "/pages/tp-link-eap225-o-promotion-buy-20-x-eap225-o-and-get-1-free-oc200",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/8/5/0/0/8500.jpg",
+   "image": "https://miro.co.za/img/p/8/8/7/4/8874.jpg",
    "enquiry": true
   }
  ],
