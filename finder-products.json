@@ -22,14 +22,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/ZL.OTH11.051_default.png"
    },
    {
-    "brand": "Acer",
-    "title": "Acer Lite 15 R3 5400U 8 256 15.6\" FHD IPS SLIM BEZEL Windows 11 Home",
-    "spec": "15.6\" screen",
+    "brand": "Asus",
+    "title": "Asus VivoBook Go 15\" Intel N150 8GB 256GB Win 11 Home Notebook - Mixed Black",
+    "spec": "Intel N150 · 15\" screen · 8GB RAM",
     "price": "R9 065",
-    "handle": "acer-lite-15-r3-5400u-8-256-15-6-fhd-ips-slim-bezel-windows-11-home",
-    "url": "/products/acer-lite-15-r3-5400u-8-256-15-6-fhd-ips-slim-bezel-windows-11-home",
-    "qty": 19,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.DZAEA.002_default.png"
+    "handle": "asus-vivobook-go-15-intel-n150-8gb-256gb-win-11-home-notebook-mixed-black",
+    "url": "/products/asus-vivobook-go-15-intel-n150-8gb-256gb-win-11-home-notebook-mixed-black",
+    "qty": 149,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__42__340b.png"
    },
    {
     "brand": "Asus",
@@ -43,16 +43,26 @@
    },
    {
     "brand": "Lenovo",
-    "title": "Lenovo Ideapad Slim 3 15.6\" Ryzen-3 8GB 256GB Win 11 Home Notebook",
-    "spec": "Ryzen 3 · 15.6\" screen · 8GB RAM",
-    "price": "R12 968",
-    "handle": "lenovo-ideapad-slim-3-15-6-ryzen-3-8gb-256gb-win-11-home-notebook",
-    "url": "/products/lenovo-ideapad-slim-3-15-6-ryzen-3-8gb-256gb-win-11-home-notebook",
-    "qty": 165,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__82__8f75.png"
+    "title": "Lenovo V15 IRU Laptop — Core i3 · 256GB SSD",
+    "spec": "Core i3 · 256GB SSD",
+    "price": "R12 989",
+    "handle": "lenovo-v15-iru-i3-1315u-8gb-base-ddr5-256gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-15-6-fhd-tn-hd-camera-wi-fi-ax-2x2-bt-no-fpr-3-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
+    "url": "/products/lenovo-v15-iru-i3-1315u-8gb-base-ddr5-256gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-15-6-fhd-tn-hd-camera-wi-fi-ax-2x2-bt-no-fpr-3-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
+    "qty": 21,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    }
   ],
   "mid": [
+   {
+    "brand": "Lenovo",
+    "title": "Lenovo V15 Laptop — Core i3 · 256GB SSD",
+    "spec": "Core i3 · 256GB SSD",
+    "price": "R12 989",
+    "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
+    "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
+    "qty": 21,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
+   },
    {
     "brand": "Lenovo",
     "title": "Lenovo V15 Laptop — Core i5 · 512GB SSD",
@@ -305,23 +315,23 @@
    },
    {
     "brand": "Lenovo",
-    "title": "Lenovo TC Neo 30s G5 Desktop PC — Core i5 · 16GB · 512GB SSD (13DK0011SA)",
-    "spec": "Core i5 · 512GB SSD",
-    "price": "R18 511",
-    "handle": "lenovo-tc-neo-30s-g5-intel-core-i5-13420h-4-6-ghz-1x-16gb-ddr5-5200-512gb-ssd-m-2-2280-pcie-4-0x4-nvme-opal-2-0-usb-calliope-keyboard-black-english-eu-usb-calliope-mouse-black-integrated-100-1000m",
-    "url": "/products/lenovo-tc-neo-30s-g5-intel-core-i5-13420h-4-6-ghz-1x-16gb-ddr5-5200-512gb-ssd-m-2-2280-pcie-4-0x4-nvme-opal-2-0-usb-calliope-keyboard-black-english-eu-usb-calliope-mouse-black-integrated-100-1000m",
-    "qty": 26,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/13DK0011SA_default.jpg"
+    "title": "Lenovo Neo 50q G6 Tiny Desktop PC — Core Ultra 5 · 16GB · 512GB SSD (13HR001JSA)",
+    "spec": "Core Ultra 5 · 512GB SSD",
+    "price": "R18 887",
+    "handle": "lenovo-neo-50q-g6-tiny-u5-226v-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-qlc-integrated-windows-11-pro-64-rtl8852be-2x2ax-bluetooth-vesa-mount-internal-speaker-90w-adapter-usb-clp-us-eng-usb-clp-mouse-pub",
+    "url": "/products/lenovo-neo-50q-g6-tiny-u5-226v-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-qlc-integrated-windows-11-pro-64-rtl8852be-2x2ax-bluetooth-vesa-mount-internal-speaker-90w-adapter-usb-clp-us-eng-usb-clp-mouse-pub",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/13HR001JSA_default.png"
    },
    {
-    "brand": "HP",
-    "title": "HP Pro Tower 290 G9 E PCI PC Desktop PC — Core i5 (D6RR1EA)",
+    "brand": "Dell",
+    "title": "Dell Pro Slim Essential QVS1260: Desktop PC — Core i5 · 16GB (BTO004_QVS1260_EMEA)",
     "spec": "Core i5",
-    "price": "R21 255",
-    "handle": "hp-pro-tower-290-g9-e-pci-desktop-pc-intel-core-i5-14500-1-90-ghz-up-to-5-00-ghz-14-cores-20-threads-14th-generation-with-intel-uhd-graphics-770-512gb-m-2-pcie-nvme-2280-value-3x4-ssd-8gb-3200mt-s",
-    "url": "/products/hp-pro-tower-290-g9-e-pci-desktop-pc-intel-core-i5-14500-1-90-ghz-up-to-5-00-ghz-14-cores-20-threads-14th-generation-with-intel-uhd-graphics-770-512gb-m-2-pcie-nvme-2280-value-3x4-ssd-8gb-3200mt-s",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/D6RR1EA_default.jpg"
+    "price": "R21 461",
+    "handle": "dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
+    "url": "/products/dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
+    "qty": 12,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO004_QVS1260_EMEA_default.jpg"
    }
   ],
   "high": [
@@ -650,7 +660,7 @@
     "price": "R2 014",
     "handle": "acer-24-ips-fhd-120hz-monitor-3yr",
     "url": "https://ubratech.co.za/products/acer-24-ips-fhd-120hz-monitor-3yr",
-    "qty": 5,
+    "qty": 4,
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.QE1EE.G08_default.png"
    },
    {
@@ -820,7 +830,7 @@
     "price": "R904",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 395,
+    "qty": 394,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -850,7 +860,7 @@
     "price": "R2 366",
     "handle": "eaton-5e-1200va-gen2-ups",
     "url": "/products/eaton-5e-1200va-gen2-ups",
-    "qty": 37,
+    "qty": 36,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1200UI_66a3.png"
    },
    {
