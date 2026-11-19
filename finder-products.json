@@ -238,18 +238,18 @@
     "price": "R7 880",
     "handle": "pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc",
     "url": "/products/pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc",
-    "qty": 51,
+    "qty": 42,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_HOME_R58G-V1_PCBuilder-AMD-Ryzen-5-3400G-HOME-MASTER-Windows-11-Desktop-PC_wr_01.jpg"
    },
    {
-    "brand": "PCBuilder",
-    "title": "PCBuilder CUBE Intel i5-1235U 8GB DDR4 512GB Windows 11 Home Mini PC",
-    "spec": "8GB RAM",
-    "price": "R9 859",
-    "handle": "pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
-    "url": "/products/pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
-    "qty": 35,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_CUBE_I58G_HOME_V2_PCBuilder-CUBE-Intel-i5-1235U-8GB-DDR4-512GB-Windows-11-Home-Mini-PC_wr_01a.jpg"
+    "brand": "Giada",
+    "title": "Giada D612 i5-1235U 2x DDR4 3200Mhz",
+    "spec": "Desktops",
+    "price": "R8 199",
+    "handle": "giada-d612-i5-1235u-2x-ddr4-3200mhz",
+    "url": "/products/giada-d612-i5-1235u-2x-ddr4-3200mhz",
+    "qty": 91,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2023/02/D612-1235U40N0G-GIA_wr_01.jpeg"
    },
    {
     "brand": "PCBuilder",
@@ -285,23 +285,23 @@
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder Intel i5-12400 HOME MASTER Windows 11 Desktop PC",
-    "spec": "Desktops",
+    "title": "PCBuilder Ryzen 5 5600GT DEFENDER Windows 11 Gaming PC",
+    "spec": "Ryzen 5",
     "price": "R12 809",
-    "handle": "pcbuilder-intel-i5-12400-home-master-windows-11-desktop-pc",
-    "url": "/products/pcbuilder-intel-i5-12400-home-master-windows-11-desktop-pc",
-    "qty": 6,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/04/PCB_HOME_I516G_wr_01a.jpg"
+    "handle": "pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
+    "url": "/products/pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
+    "qty": 44,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_DEFENDER_05_wr_01e.jpg"
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder Ryzen 5 5500 SCOUT Windows 11 Gaming PC",
-    "spec": "Ryzen 5",
-    "price": "R16 753",
-    "handle": "pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
-    "url": "/products/pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
-    "qty": 10,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SCOUT_05_wr_01e.jpg"
+    "title": "PCBuilder FUSION 24\" Intel Core i5-12400 16GB DDR5 1TB Windows 11 AiO Desktop PC",
+    "spec": "Core i5 · 24\" screen · 16GB RAM",
+    "price": "R16 756",
+    "handle": "pcbuilder-fusion-24-intel-core-i5-12400-16gb-ddr5-1tb-windows-11-aio-desktop-pc",
+    "url": "/products/pcbuilder-fusion-24-intel-core-i5-12400-16gb-ddr5-1tb-windows-11-aio-desktop-pc",
+    "qty": 33,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/05/PCB-AIO-FIB24-I5161000-D5_PCBuilder-FUSION-24-inch-Intel-Core-i5-12400-16GB-DDR5-1TB-Windows-11-AiO-Desktop-PC_wr_01a.jpg"
    },
    {
     "brand": "Lenovo",
@@ -1363,7 +1363,7 @@
     "price": "R1 320",
     "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
     "url": "/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
-    "qty": 12,
+    "qty": 15,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg"
    },
    {
@@ -1532,14 +1532,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/PTPL1TBPEC_Patriot-Transporter-Lite-1TB-USB3.2-Type-C-External-Portable-SSD_wr_01.jpg"
    },
    {
-    "brand": "Proline",
-    "title": "Proline KINGSTON 1000G NV3 M.2 PCIe 4.0 NVMe SSD",
-    "spec": "Storage",
-    "price": "R5 344",
-    "handle": "proline-kingston-1000g-nv3-m-2-pcie-4-0-nvme-ssd",
-    "url": "/products/proline-kingston-1000g-nv3-m-2-pcie-4-0-nvme-ssd",
-    "qty": 21,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SNV3SM3/1T0_default.jpg"
+    "brand": "SanDisk",
+    "title": "SanDisk Optimus GX 7100 1TB NVMe SSD",
+    "spec": "1TB NVMe SSD",
+    "price": "R5 203",
+    "handle": "sandisk-optimus-gx-7100-1tb-nvme-ssd",
+    "url": "/products/sandisk-optimus-gx-7100-1tb-nvme-ssd",
+    "qty": 113,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/S/D/SDSP71100TAN_000E0_d4e8.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -1627,13 +1627,13 @@
    },
    {
     "brand": "Asus",
-    "title": "ASUS Prime Radeon RX 9070 GRE EVO OC Edition 12GB GDDR6 Graphics Card",
+    "title": "ASUS Dual GeForce RTX 5060 OC Edition 8GB GDDR7 Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R12 564",
-    "handle": "asus-prime-radeon-rx-9070-gre-evo-oc-edition-12gb-gddr6-graphics-card",
-    "url": "/products/asus-prime-radeon-rx-9070-gre-evo-oc-edition-12gb-gddr6-graphics-card",
-    "qty": 5,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/05/PRIME-RX9070GRE-O12G_ASUS-Prime-Radeon-RX-9070-GRE-EVO-OC-Edition-12GB-GDDR6-Graphics-Card_wr_01a.jpg"
+    "price": "R12 565",
+    "handle": "asus-dual-geforce-rtx-5060-oc-edition-8gb-gddr7-graphics-card",
+    "url": "/products/asus-dual-geforce-rtx-5060-oc-edition-8gb-gddr7-graphics-card",
+    "qty": 29,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/04/DUAL-RTX5060-O8G-WR-01-1.jpg"
    },
    {
     "brand": "Asus",
@@ -1791,7 +1791,7 @@
     "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
     "url": "https://ubratech.co.za/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg",
-    "qty": 12
+    "qty": 15
    },
    {
     "brand": "Xiaomi",
@@ -1872,18 +1872,18 @@
     "price": "R125",
     "handle": "fsp-psu-30w-2-5mm-12v-2-5a-adapter",
     "url": "/products/fsp-psu-30w-2-5mm-12v-2-5a-adapter",
-    "qty": 64,
+    "qty": 59,
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/FSP030-DHAN3_wr_01a.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP Wired 320MK combo",
-    "spec": "Accessories",
-    "price": "R414",
-    "handle": "hp-wired-320mk-combo",
-    "url": "/products/hp-wired-320mk-combo",
-    "qty": 9,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/9SR36UT_default.png"
+    "brand": "Winx",
+    "title": "WINX POWER Max 65W GaN Wall Charger",
+    "spec": "Power Adapter",
+    "price": "R412",
+    "handle": "winx-power-max-65w-gan-wall-charger",
+    "url": "/products/winx-power-max-65w-gan-wall-charger",
+    "qty": 225,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/WX-WC108_WINX-POWER-Max-65W-GaN-Wall-Charger-Black_wr_01.jpg"
    },
    {
     "brand": "HP",
@@ -1938,14 +1938,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B7AA_428e.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Premier Rechargeable Wireless Mouse - MS7421W",
-    "spec": "Wired Mouse",
-    "price": "R747",
-    "handle": "dell-premier-rechargeable-wireless-mouse-ms7421w",
-    "url": "/products/dell-premier-rechargeable-wireless-mouse-ms7421w",
-    "qty": 12,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/570-ABLO_default.jpg"
+    "brand": "Keychron",
+    "title": "Keychron B2 Pro Ultra-Slim 96% Wireless Keyboard - Space Gray",
+    "spec": "Keyboards",
+    "price": "R744",
+    "handle": "keychron-b2-pro-ultra-slim-96-wireless-keyboard-space-gray",
+    "url": "/products/keychron-b2-pro-ultra-slim-96-wireless-keyboard-space-gray",
+    "qty": 87,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/B2P-K1_Keychron-B2-Pro-Ultra-Slim-96-Wireless-Keyboard-Space-Grey_wr_01a.jpg"
    },
    {
     "brand": "Keychron",
@@ -2082,7 +2082,7 @@
     "price": "R9 329",
     "handle": "hikvision-4-4mp-25x-colorvu-ir-network-speed-dome",
     "url": "/products/hikvision-4-4mp-25x-colorvu-ir-network-speed-dome",
-    "qty": 41,
+    "qty": 39,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2SE4C425MWG_E_14F0_09e8.png"
    }
   ],
