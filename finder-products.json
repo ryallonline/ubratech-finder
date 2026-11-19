@@ -116,14 +116,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo E14 G8 PTL Laptop — Core Ultra 7 · 16GB · 512GB SSD (21Y6001RZA)",
-    "spec": "Core Ultra 7 · 512GB SSD",
-    "price": "R28 963",
-    "handle": "lenovo-e14-g8-ptl-u7-355-16gb-ddr5-512gb-ssd-m-2-2242-tlc-g4-integrated-windows-11-pro-64-14-0-wuxga-ag-300nits-fhd-ir-cam-wi-fi-7-802-11be-2x2-bt5-4-y-fpr-3-cell-48whr-65w-usb-c-3pin-za-bklt-kb-us",
-    "url": "/products/lenovo-e14-g8-ptl-u7-355-16gb-ddr5-512gb-ssd-m-2-2242-tlc-g4-integrated-windows-11-pro-64-14-0-wuxga-ag-300nits-fhd-ir-cam-wi-fi-7-802-11be-2x2-bt5-4-y-fpr-3-cell-48whr-65w-usb-c-3pin-za-bklt-kb-us",
-    "qty": 10,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/21Y6001RZA_default.jpg"
+    "brand": "HP",
+    "title": "HP 15S 15.6\" FHD UltraSlim Core 7-150U 16GB 512GB Win 11 Home Silver Notebook",
+    "spec": "Core 7 · 15.6\" screen · 16GB RAM",
+    "price": "R28 965",
+    "handle": "hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
+    "url": "/products/hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
+    "qty": 27,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D6ZS9EA_cc0d.jpg"
    },
    {
     "brand": "Dell",
@@ -158,24 +158,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/CG0K8ET_default.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo Yoga 7 14\" WUXGA OLED Touch Ultra 7-355 16GB 512GB Win 11 Home 2-in-1 Notebook",
-    "spec": "14\" screen · 16GB RAM",
-    "price": "R28 084",
-    "handle": "lenovo-yoga-7-14-wuxga-oled-touch-ultra-7-355-16gb-512gb-win-11-home-2-in-1-notebook",
-    "url": "/products/lenovo-yoga-7-14-wuxga-oled-touch-ultra-7-355-16gb-512gb-win-11-home-2-in-1-notebook",
+    "brand": "Dell",
+    "title": "Dell Alienware 15 Aurora 15.3\" Core-5-210H 16GB 512GB SSD RTX 3050 Win 11 Home Notebook",
+    "spec": "Core 5 · 15.3\" screen · 16GB RAM",
+    "price": "R28 997",
+    "handle": "dell-alienware-15-aurora-15-3-core-5-210h-16gb-512gb-ssd-rtx-3050-win-11-home-notebook",
+    "url": "/products/dell-alienware-15-aurora-15-3-core-5-210h-16gb-512gb-ssd-rtx-3050-win-11-home-notebook",
     "qty": 3,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/8/3/83TC004ESA_704b.jpg"
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__6__868d.png"
    },
    {
     "brand": "Asus",
-    "title": "Asus Zenbook 14 UX3405CA 14\" 3K OLED 120Hz Core U9-285H 16GB 1TB Win 11 Pro Notebook",
-    "spec": "14\" screen · 16GB RAM",
-    "price": "R35 887",
-    "handle": "asus-zenbook-14-ux3405ca-14-3k-oled-120hz-core-u9-285h-16gb-1tb-win-11-pro-notebook",
-    "url": "/products/asus-zenbook-14-ux3405ca-14-3k-oled-120hz-core-u9-285h-16gb-1tb-win-11-pro-notebook",
-    "qty": 51,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_14_UX3405CA_Product_photo_3B_Ponder_Blue_03_62bf.jpg"
+    "title": "Asus Zenbook S16 UM5606GA 16\" 3K OLED 120Hz Ryzen AI 9-465 16GB 1TB Win 11 Pro Notebook",
+    "spec": "Ryzen AI 9 · 16\" screen · 16GB RAM",
+    "price": "R37 650",
+    "handle": "asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
+    "url": "/products/asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
+    "qty": 10,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_S16_UM5606GA_Product_photo_3G_Antrim_Gray_03__1__de3e.jpg"
    },
    {
     "brand": "Dell",
@@ -1219,14 +1219,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/HB112-wr-01a.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP USB-C 100W G6 Black Docking Station",
+    "brand": "Targus",
+    "title": "Targus - USB-C Multi-Function DisplayPort Alt Triple Video with 85W… (DOCK430EUZ)",
     "spec": "Docking Station",
-    "price": "R2 819",
-    "handle": "hp-usb-c-100w-g6-black-docking-station",
-    "url": "/products/hp-usb-c-100w-g6-black-docking-station",
-    "qty": 99,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/X/9X3V1UT_2_1072.jpg"
+    "price": "R2 267",
+    "handle": "targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
+    "url": "/products/targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
+    "qty": 35,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK430EUZ_default.jpg"
    },
    {
     "brand": "Dell",
@@ -1561,7 +1561,7 @@
     "handle": "hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/HSC516U48Z1-16G_Hiksemi-Hiker-16GB-DDR5-4800MHz-Desktop-Memory_wr_01a.jpg",
-    "qty": 10
+    "qty": 8
    },
    {
     "brand": "GeIL",
@@ -1866,14 +1866,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2018/09/N301-10-SV-PRO_wr_01a.jpg"
    },
    {
-    "brand": "Gizzu",
-    "title": "Gizzu 4K60Hz DisplayPort to HDMI Active Adapter",
-    "spec": "Cables And Adapters",
+    "brand": "FSP",
+    "title": "FSP PSU 30W 2.5MM 12V 2.5A Adapter",
+    "spec": "Power Adapter",
     "price": "R125",
-    "handle": "gizzu-4k60hz-displayport-to-hdmi-active-adapter",
-    "url": "/products/gizzu-4k60hz-displayport-to-hdmi-active-adapter",
-    "qty": 60,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/GIZZU-GAPDPHA-45-0004-Edit_1500x1500.jpg"
+    "handle": "fsp-psu-30w-2-5mm-12v-2-5a-adapter",
+    "url": "/products/fsp-psu-30w-2-5mm-12v-2-5a-adapter",
+    "qty": 64,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/FSP030-DHAN3_wr_01a.jpg"
    },
    {
     "brand": "HP",
@@ -1988,7 +1988,7 @@
     "price": "R3 221",
     "handle": "hikvision-4mp-fixed-bullet-network-camera",
     "url": "/products/hikvision-4mp-fixed-bullet-network-camera",
-    "qty": 116,
+    "qty": 115,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_2.8MM_1_e9e9.png"
    },
    {
@@ -2040,7 +2040,7 @@
     "price": "R4 975",
     "handle": "hikvision-4mp-smart-hybrid-light-with-colorvu-motorized-varifocal-bullet-ip-camera",
     "url": "/products/hikvision-4mp-smart-hybrid-light-with-colorvu-motorized-varifocal-bullet-ip-camera",
-    "qty": 76,
+    "qty": 68,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2647G3_LIZSY_2.8_12MM_b442.jpg"
    }
   ],
