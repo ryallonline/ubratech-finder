@@ -74,14 +74,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0078ZA_default.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo V15 G4 IRU Laptop — Core i5 · 512GB SSD",
-    "spec": "Core i5 · 512GB SSD",
-    "price": "R13 725",
-    "handle": "lenovo-v15-g4-iru-i5-13420h-8gb-base-ddr4-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-home-64-15-6-fhd-tn-hd-camera-wi-fi-ax-2x2-bluetooth-n-fpr-2-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
-    "url": "/products/lenovo-v15-g4-iru-i5-13420h-8gb-base-ddr4-512gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-home-64-15-6-fhd-tn-hd-camera-wi-fi-ax-2x2-bluetooth-n-fpr-2-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
-    "qty": 23,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW0077ZA_default.jpg"
+    "brand": "Asus",
+    "title": "Asus VivoBook 15 X1504VAP 15.6\" Core 5-120U 8GB 512GB Win 11 Home Notebook - Quiet Blue",
+    "spec": "Core 5 · 15.6\" screen · 8GB RAM",
+    "price": "R13 347",
+    "handle": "asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
+    "url": "/products/asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
+    "qty": 7,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/X/1/X1504VAP_I382BL0W_a78d.jpg"
    },
    {
     "brand": "Acer",
@@ -94,14 +94,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/NX.ELVEA.001_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP ProBook 4 G1iR 14' Core-5 16GB 512GB Win 11 Pro Notebook",
-    "spec": "Core 5 · 16GB RAM",
-    "price": "R19 601",
-    "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "qty": 8,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
+    "brand": "Acer",
+    "title": "Acer EXO15 51 5183 Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.EMBEA.004)",
+    "spec": "Core Ultra 5 · 512GB SSD",
+    "price": "R19 013",
+    "handle": "acer-exo15-51-5183-intel-core-ultra-5-processor-125u-15-6-fhd-ips-slimbezel-uma-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-53wh-battery-65w",
+    "url": "/products/acer-exo15-51-5183-intel-core-ultra-5-processor-125u-15-6-fhd-ips-slimbezel-uma-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-53wh-battery-65w",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EMBEA.004_default.jpg"
    },
    {
     "brand": "HP",
@@ -126,14 +126,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo E14 G8 PTL Laptop — Core Ultra 7 · 16GB · 512GB SSD (21Y6001RZA)",
-    "spec": "Core Ultra 7 · 512GB SSD",
-    "price": "R28 963",
-    "handle": "lenovo-e14-g8-ptl-u7-355-16gb-ddr5-512gb-ssd-m-2-2242-tlc-g4-integrated-windows-11-pro-64-14-0-wuxga-ag-300nits-fhd-ir-cam-wi-fi-7-802-11be-2x2-bt5-4-y-fpr-3-cell-48whr-65w-usb-c-3pin-za-bklt-kb-us",
-    "url": "/products/lenovo-e14-g8-ptl-u7-355-16gb-ddr5-512gb-ssd-m-2-2242-tlc-g4-integrated-windows-11-pro-64-14-0-wuxga-ag-300nits-fhd-ir-cam-wi-fi-7-802-11be-2x2-bt5-4-y-fpr-3-cell-48whr-65w-usb-c-3pin-za-bklt-kb-us",
-    "qty": 9,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/21Y6001RZA_default.jpg"
+    "brand": "HP",
+    "title": "HP 15S 15.6\" FHD UltraSlim Core 7-150U 16GB 512GB Win 11 Home Silver Notebook",
+    "spec": "Core 7 · 15.6\" screen · 16GB RAM",
+    "price": "R28 965",
+    "handle": "hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
+    "url": "/products/hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
+    "qty": 27,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D6ZS9EA_cc0d.jpg"
    },
    {
     "brand": "HP",
@@ -284,16 +284,6 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro Slim QCS1250 Desktop — Core Ultra 5 · 512GB SSD",
-    "spec": "Performance desktop",
-    "price": "R25 861",
-    "handle": "dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
-    "url": "https://ubratech.co.za/products/dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
-    "qty": 3,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO105_QCS1250_EMEA_default.png"
-   },
-   {
     "brand": "PCBuilder",
     "title": "PCBuilder Ryzen 5 5600GT DEFENDER Windows 11 Gaming PC",
     "spec": "Ryzen 5",
@@ -315,36 +305,26 @@
    },
    {
     "brand": "Lenovo",
-    "title": "Lenovo Neo 50q G6 Tiny Desktop PC — Core Ultra 5 · 16GB · 512GB SSD (13HR001JSA)",
-    "spec": "Core Ultra 5 · 512GB SSD",
-    "price": "R18 887",
-    "handle": "lenovo-neo-50q-g6-tiny-u5-226v-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-qlc-integrated-windows-11-pro-64-rtl8852be-2x2ax-bluetooth-vesa-mount-internal-speaker-90w-adapter-usb-clp-us-eng-usb-clp-mouse-pub",
-    "url": "/products/lenovo-neo-50q-g6-tiny-u5-226v-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-qlc-integrated-windows-11-pro-64-rtl8852be-2x2ax-bluetooth-vesa-mount-internal-speaker-90w-adapter-usb-clp-us-eng-usb-clp-mouse-pub",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/13HR001JSA_default.png"
+    "title": "Lenovo TC Neo 30s G5 Desktop PC — Core i5 · 16GB · 512GB SSD (13DK0011SA)",
+    "spec": "Core i5 · 512GB SSD",
+    "price": "R18 511",
+    "handle": "lenovo-tc-neo-30s-g5-intel-core-i5-13420h-4-6-ghz-1x-16gb-ddr5-5200-512gb-ssd-m-2-2280-pcie-4-0x4-nvme-opal-2-0-usb-calliope-keyboard-black-english-eu-usb-calliope-mouse-black-integrated-100-1000m",
+    "url": "/products/lenovo-tc-neo-30s-g5-intel-core-i5-13420h-4-6-ghz-1x-16gb-ddr5-5200-512gb-ssd-m-2-2280-pcie-4-0x4-nvme-opal-2-0-usb-calliope-keyboard-black-english-eu-usb-calliope-mouse-black-integrated-100-1000m",
+    "qty": 26,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/13DK0011SA_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro Slim Essential QVS1260: Desktop PC — Core i5 · 16GB (BTO004_QVS1260_EMEA)",
+    "brand": "HP",
+    "title": "HP Pro Tower 290 G9 E PCI PC Desktop PC — Core i5 (D6RR1EA)",
     "spec": "Core i5",
-    "price": "R21 461",
-    "handle": "dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
-    "url": "/products/dell-pro-slim-essential-qvs1260-intel-core-i5-14400-12-mb-cache-4-cores-8-threads-up-to-4-7-ghz-16gb-1-x-16gb-ddr5-4800-mt-s-512gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-730-mediatek-wi-fi-6-mt7920-2x2",
-    "qty": 12,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO004_QVS1260_EMEA_default.jpg"
+    "price": "R21 255",
+    "handle": "hp-pro-tower-290-g9-e-pci-desktop-pc-intel-core-i5-14500-1-90-ghz-up-to-5-00-ghz-14-cores-20-threads-14th-generation-with-intel-uhd-graphics-770-512gb-m-2-pcie-nvme-2280-value-3x4-ssd-8gb-3200mt-s",
+    "url": "/products/hp-pro-tower-290-g9-e-pci-desktop-pc-intel-core-i5-14500-1-90-ghz-up-to-5-00-ghz-14-cores-20-threads-14th-generation-with-intel-uhd-graphics-770-512gb-m-2-pcie-nvme-2280-value-3x4-ssd-8gb-3200mt-s",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/D6RR1EA_default.jpg"
    }
   ],
   "high": [
-   {
-    "brand": "Dell",
-    "title": "Dell Pro Slim QCS1250 Desktop — Core Ultra 5 · 512GB SSD",
-    "spec": "Premium desktop",
-    "price": "R25 861",
-    "handle": "dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
-    "url": "https://ubratech.co.za/products/dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
-    "qty": 3,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO105_QCS1250_EMEA_default.png"
-   },
    {
     "brand": "Dell",
     "title": "Dell Pro Micro QCM1250 Desktop — Core Ultra 5 · 16GB",
@@ -366,14 +346,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro Micro QCM1250 Core U5-235T 16GB 512GB Win 11 Pro Desktop",
-    "spec": "16GB RAM",
-    "price": "R26 520",
-    "handle": "dell-pro-micro-qcm1250-core-u5-235t-16gb-512gb-win-11-pro-desktop",
-    "url": "/products/dell-pro-micro-qcm1250-core-u5-235t-16gb-512gb-win-11-pro-desktop",
-    "qty": 18,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/T/BTO106_QCM1250_2eba.jpg"
+    "brand": "Lenovo",
+    "title": "Lenovo M70s G6 Desktop PC — Core Ultra 7 · 16GB · 512GB SSD (12YQ000ESA)",
+    "spec": "Core Ultra 7 · 512GB SSD",
+    "price": "R26 696",
+    "handle": "lenovo-m70s-g6-sff-u7-265-13-tops-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-integrated-windows-11-pro-64-intel-ax211-2x2ax-6e-bluetooth-internal-speaker-usb-trd-us-eng-usb-clp-mouse-pub-fra-ara-eng-1year",
+    "url": "/products/lenovo-m70s-g6-sff-u7-265-13-tops-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-integrated-windows-11-pro-64-intel-ax211-2x2ax-6e-bluetooth-internal-speaker-usb-trd-us-eng-usb-clp-mouse-pub-fra-ara-eng-1year",
+    "qty": 12,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/12YQ000ESA_default.jpg"
    },
    {
     "brand": "Dell",
@@ -1229,14 +1209,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/HB112-wr-01a.jpg"
    },
    {
-    "brand": "Targus",
-    "title": "Targus - USB-C Multi-Function DisplayPort Alt Triple Video with 85W… (DOCK430EUZ)",
+    "brand": "Dell",
+    "title": "Dell Pro 7-in-1 USB-C Mobile Docking Station",
     "spec": "Docking Station",
-    "price": "R2 267",
-    "handle": "targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
-    "url": "/products/targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
-    "qty": 35,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK430EUZ_default.jpg"
+    "price": "R1 489",
+    "handle": "dell-pro-7-in-1-usb-c-mobile-docking-station",
+    "url": "/products/dell-pro-7-in-1-usb-c-mobile-docking-station",
+    "qty": 66,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__23__d7c1.png"
    },
    {
     "brand": "Dell",
@@ -1271,14 +1251,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__23__d7c1.png"
    },
    {
-    "brand": "Port2",
-    "title": "PORT2 x 4K USB-C desktop docking station 11 peripherals 96W",
+    "brand": "Port",
+    "title": "PORT Office docking station 3 X 4 USB-C 11 devices 100W",
     "spec": "Docking Station",
-    "price": "R4 154",
-    "handle": "port2-x-4k-usb-c-desktop-docking-station-11-peripherals-96w",
-    "url": "/products/port2-x-4k-usb-c-desktop-docking-station-11-peripherals-96w",
-    "qty": 6,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901904V2EU_PORT2_x_4K_USB-C_desktop_docking_station_wr_03.png"
+    "price": "R3 535",
+    "handle": "port-office-docking-station-3-x-4-usb-c-11-devices-100w",
+    "url": "/products/port-office-docking-station-3-x-4-usb-c-11-devices-100w",
+    "qty": 4,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901910V2EU_PORT_Office_docking_station_3_X_4_USB-C__wr_01.png"
    },
    {
     "brand": "Dell",
@@ -1357,14 +1337,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS105_wr_01.jpg"
    },
    {
-    "brand": "Logitech",
-    "title": "Logitech H540 USB Computer Headset with HD Sound and On-Ear… (981-000480)",
+    "brand": "Winx",
+    "title": "WINX CALL Pro 2 Mono AI Noise Cancelling Headset",
     "spec": "Headsets",
-    "price": "R675",
-    "handle": "logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
-    "url": "/products/logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
-    "qty": 51,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/981-000480_default.jpg"
+    "price": "R565",
+    "handle": "winx-call-pro-2-mono-ai-noise-cancelling-headset",
+    "url": "/products/winx-call-pro-2-mono-ai-noise-cancelling-headset",
+    "qty": 299,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS113_WINX-CALL-Pro-Wireless-Noise-Cancelling-Mic-Headset-Black_wr_01a.jpg"
    },
    {
     "brand": "Winx",
@@ -1519,7 +1499,7 @@
     "handle": "seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "url": "https://ubratech.co.za/products/seagate-ironwolf-nas-8tb-3-5-sata-internal-hdd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST8000VN004_6faa.jpg",
-    "qty": 58
+    "qty": 60
    },
    {
     "brand": "Kingston",
@@ -1815,13 +1795,13 @@
    },
    {
     "brand": "Redmi",
-    "title": "Redmi Buds 8 Lite - Black",
+    "title": "Redmi Buds 8 Lite - White",
     "spec": "Tv And Audio",
-    "price": "R516",
-    "handle": "redmi-buds-8-lite-black",
-    "url": "/products/redmi-buds-8-lite-black",
-    "qty": 148,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/BHR08OMGL_Xiaomi-Redmi-Buds-8-Lite-Black_wr_01b.jpg"
+    "price": "R510",
+    "handle": "redmi-buds-8-lite-white",
+    "url": "/products/redmi-buds-8-lite-white",
+    "qty": 137,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/BHR08OLGL_Xiaomi-Redmi-Buds-8-Lite-White_wr_01b.jpg"
    },
    {
     "brand": "Nearity",
@@ -1939,23 +1919,23 @@
    },
    {
     "brand": "HP",
-    "title": "HP 400 Quiet Wireless Purple Mouse",
+    "title": "HP 400 Quiet Wireless Maple Mouse",
     "spec": "Wired Mouse",
     "price": "R368",
-    "handle": "hp-400-quiet-wireless-purple-mouse",
-    "url": "/products/hp-400-quiet-wireless-purple-mouse",
-    "qty": 94,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B7AA_428e.jpg"
+    "handle": "hp-400-quiet-wireless-maple-mouse",
+    "url": "/products/hp-400-quiet-wireless-maple-mouse",
+    "qty": 5,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B6AA_e2c9.jpg"
    },
    {
-    "brand": "Keychron",
-    "title": "Keychron B2 Pro Ultra-Slim 96% Wireless Keyboard - Space Gray",
-    "spec": "Keyboards",
-    "price": "R744",
-    "handle": "keychron-b2-pro-ultra-slim-96-wireless-keyboard-space-gray",
-    "url": "/products/keychron-b2-pro-ultra-slim-96-wireless-keyboard-space-gray",
-    "qty": 87,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/B2P-K1_Keychron-B2-Pro-Ultra-Slim-96-Wireless-Keyboard-Space-Grey_wr_01a.jpg"
+    "brand": "Dell",
+    "title": "Dell Premier Rechargeable Wireless Mouse - MS7421W",
+    "spec": "Wired Mouse",
+    "price": "R747",
+    "handle": "dell-premier-rechargeable-wireless-mouse-ms7421w",
+    "url": "/products/dell-premier-rechargeable-wireless-mouse-ms7421w",
+    "qty": 12,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/570-ABLO_default.jpg"
    },
    {
     "brand": "Keychron",
