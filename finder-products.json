@@ -274,6 +274,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    },
    {
+    "brand": "Dell",
+    "title": "Dell Pro Slim QCS1250 Desktop — Core Ultra 5 · 512GB SSD",
+    "spec": "Performance desktop",
+    "price": "R25 861",
+    "handle": "dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
+    "url": "https://ubratech.co.za/products/dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
+    "qty": 12,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO105_QCS1250_EMEA_default.png"
+   },
+   {
     "brand": "PCBuilder",
     "title": "PCBuilder Ryzen 5 5600GT DEFENDER Windows 11 Gaming PC",
     "spec": "Ryzen 5",
@@ -317,6 +327,16 @@
   "high": [
    {
     "brand": "Dell",
+    "title": "Dell Pro Slim QCS1250 Desktop — Core Ultra 5 · 512GB SSD",
+    "spec": "Premium desktop",
+    "price": "R25 861",
+    "handle": "dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
+    "url": "https://ubratech.co.za/products/dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
+    "qty": 12,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO105_QCS1250_EMEA_default.png"
+   },
+   {
+    "brand": "Dell",
     "title": "Dell Pro Micro QCM1250 Desktop — Core Ultra 5 · 16GB",
     "spec": "Premium desktop",
     "price": "R30 039",
@@ -336,14 +356,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo M70s G6 Desktop PC — Core Ultra 7 · 16GB · 512GB SSD (12YQ000ESA)",
-    "spec": "Core Ultra 7 · 512GB SSD",
-    "price": "R26 696",
-    "handle": "lenovo-m70s-g6-sff-u7-265-13-tops-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-integrated-windows-11-pro-64-intel-ax211-2x2ax-6e-bluetooth-internal-speaker-usb-trd-us-eng-usb-clp-mouse-pub-fra-ara-eng-1year",
-    "url": "/products/lenovo-m70s-g6-sff-u7-265-13-tops-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-integrated-windows-11-pro-64-intel-ax211-2x2ax-6e-bluetooth-internal-speaker-usb-trd-us-eng-usb-clp-mouse-pub-fra-ara-eng-1year",
-    "qty": 12,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/12YQ000ESA_default.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro Micro QCM1250 Core U5-235T 16GB 512GB Win 11 Pro Desktop",
+    "spec": "16GB RAM",
+    "price": "R26 520",
+    "handle": "dell-pro-micro-qcm1250-core-u5-235t-16gb-512gb-win-11-pro-desktop",
+    "url": "/products/dell-pro-micro-qcm1250-core-u5-235t-16gb-512gb-win-11-pro-desktop",
+    "qty": 17,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/B/T/BTO106_QCM1250_2eba.jpg"
    },
    {
     "brand": "Dell",
@@ -454,14 +474,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/NH_QZAEA_006_Acer_NITRO_V_15_Gaming_Laptop_156_Intel__wr_01.png"
    },
    {
-    "brand": "Asus",
-    "title": "Asus ROG Strix G16 16\" Core-U9 16GB 1TB Win 11 Home Notebook (G615LP-U91610G0W)",
-    "spec": "16\" screen · 16GB RAM",
-    "price": "R49 293",
-    "handle": "asus-rog-strix-g16-16-core-u9-16gb-1tb-win-11-home-notebook-g615lp-u91610g0w",
-    "url": "/products/asus-rog-strix-g16-16-core-u9-16gb-1tb-win-11-home-notebook-g615lp-u91610g0w",
-    "qty": 3,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__39__3504.png"
+    "brand": "Acer",
+    "title": "Acer Predator HELIOS NEO 16 AI Gaming Laptop 1 Laptop",
+    "spec": "Notebooks",
+    "price": "R49 278",
+    "handle": "acer-predator-helios-neo-16-ai-gaming-laptop-16-intel-ultra-9-290hx-plus-16gb-1tb-rtx-5070-8gb-windows-11-home",
+    "url": "/products/acer-predator-helios-neo-16-ai-gaming-laptop-16-intel-ultra-9-290hx-plus-16gb-1tb-rtx-5070-8gb-windows-11-home",
+    "qty": 14,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/NH_U42EA_003_Acer_Predator_HELIOS_NEO_16_AI_Gaming_La_wr_01.png"
    },
    {
     "brand": "Dell",
@@ -702,7 +722,7 @@
     "price": "R2 681",
     "handle": "dell-24-fhd-monitor-se2426hg-240hz-refresh-rate-certified-by-t-v-rheinland-for-3-star-eye-comfort-resolution-refresh-rate-1920-x-1080-at-240hz-panel-technology-in-plane-switching-ips-technology",
     "url": "/products/dell-24-fhd-monitor-se2426hg-240hz-refresh-rate-certified-by-t-v-rheinland-for-3-star-eye-comfort-resolution-refresh-rate-1920-x-1080-at-240hz-panel-technology-in-plane-switching-ips-technology",
-    "qty": 49,
+    "qty": 44,
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BTTF_default.jpg"
    },
    {
@@ -999,7 +1019,7 @@
     "price": "R2 461",
     "handle": "cudy-be11000-wi-fi7-gigabit-mesh-router",
     "url": "/products/cudy-be11000-wi-fi7-gigabit-mesh-router",
-    "qty": 47,
+    "qty": 51,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/WR11000_Cudy-BE11000-Wi-Fi7-Gigabit-Mesh-Router_wr_01.jpg"
    }
   ],
@@ -1169,16 +1189,6 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900140_0708.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 4-in-1 USB-C Travel Hub (DA225)",
-    "spec": "One cable · power + screens",
-    "price": "R703",
-    "handle": "dell-pro-4-in-1-usb-c-travel-hub-da225",
-    "url": "https://ubratech.co.za/products/dell-pro-4-in-1-usb-c-travel-hub-da225",
-    "qty": 5,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/470-BFBN_default.png"
-   },
-   {
     "brand": "Port",
     "title": "Port Connect USB Type-C to 4-port USB-A 3.0/2.0 Hub",
     "spec": "4 ports",
@@ -1231,14 +1241,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900140_0708.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 7-in-1 USB-C Mobile Docking Station",
+    "brand": "Targus",
+    "title": "Targus - USB-C Multi-Function DisplayPort Alt Triple Video with 85W… (DOCK430EUZ)",
     "spec": "Docking Station",
-    "price": "R1 489",
-    "handle": "dell-pro-7-in-1-usb-c-mobile-docking-station",
-    "url": "/products/dell-pro-7-in-1-usb-c-mobile-docking-station",
-    "qty": 65,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__23__d7c1.png"
+    "price": "R2 267",
+    "handle": "targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
+    "url": "/products/targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
+    "qty": 34,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK430EUZ_default.jpg"
    },
    {
     "brand": "Port2",
@@ -1544,14 +1554,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/GP44GB2666C19SC_GeIL_Pristine_4GB_DDR4_2666MHz_Desktop_M_wr_01.png"
    },
    {
-    "brand": "Kingston",
-    "title": "Kingston 8GB DDR4 3200MHz Memory Module",
+    "brand": "Patriot",
+    "title": "Patriot Vipersteel 16GB 3600MHz DDR4 Desktop Gaming Memory RGB",
     "spec": "Memory",
-    "price": "R2 525",
-    "handle": "kingston-8gb-ddr4-3200mhz-memory-module",
-    "url": "/products/kingston-8gb-ddr4-3200mhz-memory-module",
-    "qty": 32,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/KCP432NS8/8_default.png"
+    "price": "R2 517",
+    "handle": "patriot-vipersteel-16gb-3600mhz-ddr4-desktop-gaming-memory-rgb",
+    "url": "/products/patriot-vipersteel-16gb-3600mhz-ddr4-desktop-gaming-memory-rgb",
+    "qty": 104,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/PVSR416G360C0_wr_-3.jpg"
    },
    {
     "brand": "GeIL",
@@ -1597,23 +1607,33 @@
    },
    {
     "brand": "Asus",
-    "title": "ASUS Dual GeForce RTX 5060 OC Edition 8GB GDDR7 Graphics Card",
+    "title": "ASUS PRIME GeForce RTX 5060 OC 8GB GDDR7 GPU – SFF-Ready Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R12 565",
-    "handle": "asus-dual-geforce-rtx-5060-oc-edition-8gb-gddr7-graphics-card",
-    "url": "/products/asus-dual-geforce-rtx-5060-oc-edition-8gb-gddr7-graphics-card",
-    "qty": 14,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/04/DUAL-RTX5060-O8G-WR-01-1.jpg"
+    "price": "R12 939",
+    "handle": "asus-prime-geforce-rtx-5060-oc-8gb-gddr7-gpu-sff-ready-graphics-card",
+    "url": "/products/asus-prime-geforce-rtx-5060-oc-8gb-gddr7-gpu-sff-ready-graphics-card",
+    "qty": 4,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/PRIME-RTX5060-O8G-WR-01.jpg"
+   },
+   {
+    "brand": "ASRock",
+    "title": "ASRock Radeon RX9070 XT Steel Legend Dark 16GB Graphics Card",
+    "spec": "Graphics Cards",
+    "price": "R27 641",
+    "handle": "asrock-radeon-rx9070-xt-steel-legend-dark-16gb-graphics-card",
+    "url": "/products/asrock-radeon-rx9070-xt-steel-legend-dark-16gb-graphics-card",
+    "qty": 28,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/RX9070XTSTEELLEGENDDARK16_ASROCK-RADEON-RX9070-XT-STEEL-LEGEND-DAR_wr_01.jpg"
    },
    {
     "brand": "Asus",
-    "title": "Asus TUF Gaming GeForce RTX 5080 16GB GDDR7 OC Edition",
+    "title": "ASUS TURBO Radeon AI PRO R9700 32GB GDDR6 Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R41 888",
-    "handle": "asus-tuf-gaming-geforce-rtx-5080-16gb-gddr7-oc-edition",
-    "url": "/products/asus-tuf-gaming-geforce-rtx-5080-16gb-gddr7-oc-edition",
-    "qty": 7,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/TUF-RTX5080-O16G-GAMING-wr-01.jpg"
+    "price": "R46 533",
+    "handle": "asus-turbo-radeon-ai-pro-r9700-32gb-gddr6-graphics-card",
+    "url": "/products/asus-turbo-radeon-ai-pro-r9700-32gb-gddr6-graphics-card",
+    "qty": 4,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/TURBO-AI-PRO-R9700-32G_ASUS-TURBO-Radeon-AI-PRO-R9700-32GB-GDDR6-Graphics-Card_wr_01.jpg"
    }
   ],
   "power": [
@@ -1846,14 +1866,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/GIZZU-GAPDPHA-45-0004-Edit_1500x1500.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP Wired 320MK combo",
-    "spec": "Accessories",
-    "price": "R414",
-    "handle": "hp-wired-320mk-combo",
-    "url": "/products/hp-wired-320mk-combo",
-    "qty": 9,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/9SR36UT_default.png"
+    "brand": "Winx",
+    "title": "WINX POWER Max 65W GaN Wall Charger",
+    "spec": "Power Adapter",
+    "price": "R412",
+    "handle": "winx-power-max-65w-gan-wall-charger",
+    "url": "/products/winx-power-max-65w-gan-wall-charger",
+    "qty": 225,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/WX-WC108_WINX-POWER-Max-65W-GaN-Wall-Charger-Black_wr_01.jpg"
    },
    {
     "brand": "HP",
