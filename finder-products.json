@@ -126,14 +126,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP 15S 15.6\" FHD UltraSlim Core 7-150U 16GB 512GB Win 11 Home Silver Notebook",
-    "spec": "Core 7 · 15.6\" screen · 16GB RAM",
-    "price": "R28 965",
-    "handle": "hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
-    "url": "/products/hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
-    "qty": 27,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D6ZS9EA_cc0d.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 14 Essential PV14255 Laptop — 16GB (PV14255_KRK_501)",
+    "spec": "Notebooks",
+    "price": "R29 001",
+    "handle": "dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
+    "url": "/products/dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
+    "qty": 38,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/PV14255_KRK_501_default.jpg"
    },
    {
     "brand": "HP",
@@ -1127,7 +1127,7 @@
     "price": "R8 667",
     "handle": "lexmark-light-compact-and-fast-the-mx431adn-multifunction-supports-output-up-to-40-pages-per-minute-2-8inch-lcd-touch-display-40ppm-512mb-duplex-100-sheet-mpf-dual-core-1-0-ghz-processor-dadf-scanner",
     "url": "/products/lexmark-light-compact-and-fast-the-mx431adn-multifunction-supports-output-up-to-40-pages-per-minute-2-8inch-lcd-touch-display-40ppm-512mb-duplex-100-sheet-mpf-dual-core-1-0-ghz-processor-dadf-scanner",
-    "qty": 23,
+    "qty": 24,
     "image": "https://s3.amazonaws.com/tarsus.co.za/29S0215_default.jpg"
    }
   ],
@@ -2072,7 +2072,7 @@
     "price": "R9 329",
     "handle": "hikvision-4-4mp-25x-colorvu-ir-network-speed-dome",
     "url": "/products/hikvision-4-4mp-25x-colorvu-ir-network-speed-dome",
-    "qty": 39,
+    "qty": 35,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2SE4C425MWG_E_14F0_09e8.png"
    }
   ],
