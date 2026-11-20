@@ -8,7 +8,7 @@
     "price": "R15 462",
     "handle": "hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
     "url": "https://ubratech.co.za/products/hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
-    "qty": 44,
+    "qty": 43,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/F/DF6L7ET_4f9d.jpg"
    },
    {
@@ -80,7 +80,7 @@
     "price": "R13 347",
     "handle": "asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
     "url": "/products/asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
-    "qty": 7,
+    "qty": 26,
     "image": "https://www.pinnacle.co.za/media/catalog/product/X/1/X1504VAP_I382BL0W_a78d.jpg"
    },
    {
@@ -136,14 +136,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D6ZS9EA_cc0d.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus Zenbook S16 UM5606GA 16\" 3K OLED 120Hz Ryzen AI 9-465 16GB 1TB Win 11 Pro Notebook",
-    "spec": "Ryzen AI 9 · 16\" screen · 16GB RAM",
-    "price": "R37 650",
-    "handle": "asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
-    "url": "/products/asus-zenbook-s16-um5606ga-16-3k-oled-120hz-ryzen-ai-9-465-16gb-1tb-win-11-pro-notebook",
-    "qty": 10,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_S16_UM5606GA_Product_photo_3G_Antrim_Gray_03__1__de3e.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 16 Plus Laptop — Core Ultra 7 · 16GB · 512GB SSD (BTO209_PB16250_EMEA)",
+    "spec": "Core Ultra 7 · 512GB SSD",
+    "price": "R38 282",
+    "handle": "dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-onboard-512-gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro-processor-16",
+    "url": "/products/dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-onboard-512-gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro-processor-16",
+    "qty": 26,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO209_PB16250_EMEA_default.jpg"
    },
    {
     "brand": "Lenovo",
@@ -560,14 +560,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer 27\" IPS FHD 120Hz Monitor 3Yr",
-    "spec": "27\" screen",
-    "price": "R2 391",
-    "handle": "acer-27-ips-fhd-120hz-monitor-3yr",
-    "url": "/products/acer-27-ips-fhd-120hz-monitor-3yr",
-    "qty": 7,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 22 Adjustable Stand E2226HS Monitor",
+    "spec": "Monitors And Displays",
+    "price": "R2 384",
+    "handle": "dell-pro-22-adjustable-stand-monitor-e2226hs-1x-hdmi-1x-dp-1x-vga-integrated-speakers",
+    "url": "/products/dell-pro-22-adjustable-stand-monitor-e2226hs-1x-hdmi-1x-dp-1x-vga-integrated-speakers",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPH_default.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -650,7 +650,7 @@
     "price": "R2 014",
     "handle": "acer-24-ips-fhd-120hz-monitor-3yr",
     "url": "https://ubratech.co.za/products/acer-24-ips-fhd-120hz-monitor-3yr",
-    "qty": 4,
+    "qty": 3,
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.QE1EE.G08_default.png"
    },
    {
@@ -716,14 +716,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
-    "brand": "Dell",
-    "title": "Dell 24'' FHD SE2426HG Monitor (210-BTTF)",
-    "spec": "Monitors And Displays",
-    "price": "R2 681",
-    "handle": "dell-24-fhd-monitor-se2426hg-240hz-refresh-rate-certified-by-t-v-rheinland-for-3-star-eye-comfort-resolution-refresh-rate-1920-x-1080-at-240hz-panel-technology-in-plane-switching-ips-technology",
-    "url": "/products/dell-24-fhd-monitor-se2426hg-240hz-refresh-rate-certified-by-t-v-rheinland-for-3-star-eye-comfort-resolution-refresh-rate-1920-x-1080-at-240hz-panel-technology-in-plane-switching-ips-technology",
-    "qty": 44,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BTTF_default.jpg"
+    "brand": "MSI",
+    "title": "MSI MAG 255F X24 25″ FHD 240Hz IPS Gaming Monitor",
+    "spec": "25\" screen",
+    "price": "R2 661",
+    "handle": "msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
+    "url": "/products/msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
+    "qty": 136,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-X24_MSI-MAG-255F-X24-25-inch-FHD-240Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
     "brand": "HP",
@@ -994,13 +994,13 @@
    },
    {
     "brand": "Cudy",
-    "title": "CUDY AC1200 Mesh Wi-fi system - 2 Pack",
-    "spec": "Router",
-    "price": "R1 064",
-    "handle": "cudy-ac1200-mesh-wi-fi-system-2-pack",
-    "url": "/products/cudy-ac1200-mesh-wi-fi-system-2-pack",
-    "qty": 148,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/M1200_2PACK_-2_CUDY_AC1200_Mesh_Wi-fi_system_-_2_Pack_wr_02.png"
+    "title": "Cudy AX3000 Wi-Fi 6 Mesh Kit 1 Pack - White",
+    "spec": "Wi-Fi 6",
+    "price": "R1 111",
+    "handle": "cudy-ax3000-wi-fi-6-mesh-kit-1-pack-white",
+    "url": "/products/cudy-ax3000-wi-fi-6-mesh-kit-1-pack-white",
+    "qty": 125,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/Cudy_M3000W-1PACK_wr_01a.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -1013,14 +1013,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/DVB4451GL_wr_01.jpg"
    },
    {
-    "brand": "Cudy",
-    "title": "Cudy BE11000 Wi-Fi7 Gigabit Mesh Router",
-    "spec": "Wi-Fi 7",
-    "price": "R2 461",
-    "handle": "cudy-be11000-wi-fi7-gigabit-mesh-router",
-    "url": "/products/cudy-be11000-wi-fi7-gigabit-mesh-router",
-    "qty": 51,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/WR11000_Cudy-BE11000-Wi-Fi7-Gigabit-Mesh-Router_wr_01.jpg"
+    "brand": "TP-Link",
+    "title": "TP-Link AC1900 Whole Home Mesh Wi-Fi Router - 3 Pack",
+    "spec": "Networking And Wireless",
+    "price": "R2 474",
+    "handle": "tp-link-ac1900-whole-home-mesh-wi-fi-router-3-pack",
+    "url": "/products/tp-link-ac1900-whole-home-mesh-wi-fi-router-3-pack",
+    "qty": 44,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/E/DECO_S7_3_PACK_2714.jpg"
    }
   ],
   "house": [
@@ -1309,7 +1309,7 @@
     "price": "R1 390",
     "handle": "targus-usb-c-dual-hdmi-4k-docking-station",
     "url": "/products/targus-usb-c-dual-hdmi-4k-docking-station",
-    "qty": 48,
+    "qty": 46,
     "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK427GL_default.jpg"
    }
   ]
@@ -1866,14 +1866,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/GIZZU-GAPDPHA-45-0004-Edit_1500x1500.jpg"
    },
    {
-    "brand": "Winx",
-    "title": "WINX POWER Max 65W GaN Wall Charger",
-    "spec": "Power Adapter",
-    "price": "R412",
-    "handle": "winx-power-max-65w-gan-wall-charger",
-    "url": "/products/winx-power-max-65w-gan-wall-charger",
-    "qty": 225,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/WX-WC108_WINX-POWER-Max-65W-GaN-Wall-Charger-Black_wr_01.jpg"
+    "brand": "HP",
+    "title": "HP Wired 320MK combo",
+    "spec": "Accessories",
+    "price": "R414",
+    "handle": "hp-wired-320mk-combo",
+    "url": "/products/hp-wired-320mk-combo",
+    "qty": 9,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/9SR36UT_default.png"
    },
    {
     "brand": "HP",
@@ -1934,7 +1934,7 @@
     "price": "R747",
     "handle": "dell-premier-rechargeable-wireless-mouse-ms7421w",
     "url": "/products/dell-premier-rechargeable-wireless-mouse-ms7421w",
-    "qty": 12,
+    "qty": 8,
     "image": "https://s3.amazonaws.com/tarsus.co.za/570-ABLO_default.jpg"
    },
    {
@@ -2227,14 +2227,14 @@
    "enquiry": true
   },
   {
-   "brand": "TP-Link Omada",
-   "title": "TP-Link AX1800 Ceiling Mount Dual-Band Access Point · EAP620 HD",
-   "spec": "574Mbps at  2.4 GHz + 1201Mbps at 5GHz, 1GB LAN, 1000+ Clients,  802.3",
-   "price": "R2 138",
-   "handle": "tp-link-ax1800-ceiling-mount-dual-band-access-point-eap620-hd",
-   "url": "/pages/tp-link-ax1800-ceiling-mount-dual-band-access-point-eap620-hd",
+   "brand": "Grandstream",
+   "title": "Grandstream Enterprise WiFi 7 In-Wall Indoor Access Point",
+   "spec": "3,6 Gbps, 2x2:2 2.4G/5G, 1x 2.5GbE PoE,175m coverage,256 clients, Embe",
+   "price": "R2 128",
+   "handle": "grandstream-enterprise-wifi-7-in-wall-indoor-access-point-gwn7670wm",
+   "url": "/pages/grandstream-enterprise-wifi-7-in-wall-indoor-access-point-gwn7670wm",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/5/4/5/6/5456.jpg",
+   "image": "https://miro.co.za/img/p/1/7/9/3/4/17934.jpg",
    "enquiry": true
   },
   {
@@ -2250,13 +2250,13 @@
   },
   {
    "brand": "Ubiquiti",
-   "title": "Ubiquiti UniFi WiFi 7 Outdoor Access Point",
-   "spec": "No PoE Injector included, 4 Spatial Streams, 250+ connected devices, 2",
-   "price": "R4 735",
-   "handle": "ubiquiti-unifi-wifi-7-outdoor-access-point-u7-outdoor",
-   "url": "/pages/ubiquiti-unifi-wifi-7-outdoor-access-point-u7-outdoor",
+   "title": "Ubiquiti UniFi6 Mesh Pro Indoor/Outdoor Dual Band WiFi6 Access Point",
+   "spec": "No PoE Injector included, Indoor AP - 350+ concurrent client capacity,",
+   "price": "R4 694",
+   "handle": "ubiquiti-unifi6-mesh-pro-indoor-outdoor-dual-band-wifi6-access-point-u6-mesh-pro",
+   "url": "/pages/ubiquiti-unifi6-mesh-pro-indoor-outdoor-dual-band-wifi6-access-point-u6-mesh-pro",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/7/1/4/0/17140.jpg",
+   "image": "https://miro.co.za/img/p/1/4/0/8/5/14085.jpg",
    "enquiry": true
   },
   {
