@@ -248,7 +248,7 @@
     "price": "R7 880",
     "handle": "pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc",
     "url": "/products/pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc",
-    "qty": 41,
+    "qty": 40,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_HOME_R58G-V1_PCBuilder-AMD-Ryzen-5-3400G-HOME-MASTER-Windows-11-Desktop-PC_wr_01.jpg"
    },
    {
@@ -450,7 +450,7 @@
     "price": "R25 185",
     "handle": "asus-tuf-gaming-a16-gaming-laptop-16-ryzen-7-260-16gb-ddr5-rtx-5050-512gb-ssd-windows-11-home-fa608uhi-716512g0w",
     "url": "/products/asus-tuf-gaming-a16-gaming-laptop-16-ryzen-7-260-16gb-ddr5-rtx-5050-512gb-ssd-windows-11-home-fa608uhi-716512g0w",
-    "qty": 14,
+    "qty": 10,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/FA608UHI-716512G0W_Asus_TUF_Gaming_A16_Gaming_Laptop_16_Ryz_wr_01.png"
    },
    {
@@ -618,7 +618,7 @@
     "price": "R35 511",
     "handle": "asus-proart-ips-32-6k-60hz-monitor-with-usb-type-c-96w-pd",
     "url": "/products/asus-proart-ips-32-6k-60hz-monitor-with-usb-type-c-96w-pd",
-    "qty": 10,
+    "qty": 8,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PA32QCV_Asus_ProArt_IPS_32_6K_60Hz_Monitor_with__wr_02.jpg"
    }
   ],
@@ -654,14 +654,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi G24i 2026 24″ 200Hz Full HD 1080p IPS Gaming Monitor",
-    "spec": "24\" screen",
-    "price": "R2 660",
-    "handle": "xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
-    "url": "/products/xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
-    "qty": 203,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6364EU_Xiaomi-G24i-2026-24%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
+    "brand": "MSI",
+    "title": "MSI MAG 255F X24 25″ FHD 240Hz IPS Gaming Monitor",
+    "spec": "25\" screen",
+    "price": "R2 661",
+    "handle": "msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
+    "url": "/products/msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
+    "qty": 136,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-X24_MSI-MAG-255F-X24-25-inch-FHD-240Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -702,18 +702,18 @@
     "price": "R1 486",
     "handle": "hikvision-18-5-borderless-fhd-monitor",
     "url": "/products/hikvision-18-5-borderless-fhd-monitor",
-    "qty": 100,
+    "qty": 98,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
-    "brand": "MSI",
-    "title": "MSI MAG 255F X24 25″ FHD 240Hz IPS Gaming Monitor",
-    "spec": "25\" screen",
-    "price": "R2 661",
-    "handle": "msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
-    "url": "/products/msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
-    "qty": 136,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-X24_MSI-MAG-255F-X24-25-inch-FHD-240Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
+    "brand": "Dell",
+    "title": "Dell 24'' FHD SE2426HG Monitor (210-BTTF)",
+    "spec": "Monitors And Displays",
+    "price": "R2 681",
+    "handle": "dell-24-fhd-monitor-se2426hg-240hz-refresh-rate-certified-by-t-v-rheinland-for-3-star-eye-comfort-resolution-refresh-rate-1920-x-1080-at-240hz-panel-technology-in-plane-switching-ips-technology",
+    "url": "/products/dell-24-fhd-monitor-se2426hg-240hz-refresh-rate-certified-by-t-v-rheinland-for-3-star-eye-comfort-resolution-refresh-rate-1920-x-1080-at-240hz-panel-technology-in-plane-switching-ips-technology",
+    "qty": 49,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BTTF_default.jpg"
    },
    {
     "brand": "HP",
@@ -732,7 +732,7 @@
     "price": "R8 647",
     "handle": "asus-proart-27-qhd-1440p-ips-144hz-monitor-with-usb-type-c-96w-pd",
     "url": "/products/asus-proart-27-qhd-1440p-ips-144hz-monitor-with-usb-type-c-96w-pd",
-    "qty": 22,
+    "qty": 19,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PA278CGRV_Asus_ProArt_27_QHD_1440p_IPS_144Hz_Monit_wr_01.png"
    }
   ]
@@ -810,7 +810,7 @@
     "price": "R904",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 392,
+    "qty": 391,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -979,7 +979,7 @@
     "price": "R437",
     "handle": "cudy-ac1200-wi-fi-mesh-kit-1-pack",
     "url": "/products/cudy-ac1200-wi-fi-mesh-kit-1-pack",
-    "qty": 37,
+    "qty": 46,
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/06/M1200-1PACK_wr_01a.jpg"
    },
    {
@@ -989,7 +989,7 @@
     "price": "R1 064",
     "handle": "cudy-ac1200-mesh-wi-fi-system-2-pack",
     "url": "/products/cudy-ac1200-mesh-wi-fi-system-2-pack",
-    "qty": 61,
+    "qty": 148,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/M1200_2PACK_-2_CUDY_AC1200_Mesh_Wi-fi_system_-_2_Pack_wr_02.png"
    },
    {
@@ -1009,7 +1009,7 @@
     "price": "R2 461",
     "handle": "cudy-be11000-wi-fi7-gigabit-mesh-router",
     "url": "/products/cudy-be11000-wi-fi7-gigabit-mesh-router",
-    "qty": 41,
+    "qty": 47,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/WR11000_Cudy-BE11000-Wi-Fi7-Gigabit-Mesh-Router_wr_01.jpg"
    }
   ],
@@ -1195,28 +1195,28 @@
     "price": "R136",
     "handle": "port-connect-usb-type-c-to-4-port-usb-a-3-0-2-0-hub",
     "url": "/products/port-connect-usb-type-c-to-4-port-usb-a-3-0-2-0-hub",
-    "qty": 73,
+    "qty": 65,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/900160_Port-Connect-USB-Type-C-to-4-port-USB-A-3.0-2.0-Hub_wr_01a.jpg"
    },
    {
     "brand": "Winx",
-    "title": "WINX CONNECT MAX 11-in-1 Type-C Hub",
+    "title": "WINX CONNECT Pro 6-in-1 Type-C Hub",
     "spec": "Docking Station",
-    "price": "R536",
-    "handle": "winx-connect-max-11-in-1-type-c-hub",
-    "url": "/products/winx-connect-max-11-in-1-type-c-hub",
-    "qty": 295,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/HB112-wr-01a.jpg"
+    "price": "R494",
+    "handle": "winx-connect-pro-6-in-1-type-c-hub",
+    "url": "/products/winx-connect-pro-6-in-1-type-c-hub",
+    "qty": 280,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/WINX_WX-HB111_Connect-Pro-6-in-1-Type-C-Hub-45-0116-Edit1500x1500-96DPI.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 7-in-1 USB-C Mobile Docking Station",
+    "brand": "Targus",
+    "title": "Targus - USB-C Multi-Function DisplayPort Alt Triple Video with 85W… (DOCK430EUZ)",
     "spec": "Docking Station",
-    "price": "R1 489",
-    "handle": "dell-pro-7-in-1-usb-c-mobile-docking-station",
-    "url": "/products/dell-pro-7-in-1-usb-c-mobile-docking-station",
-    "qty": 66,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__23__d7c1.png"
+    "price": "R2 267",
+    "handle": "targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
+    "url": "/products/targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
+    "qty": 34,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK430EUZ_default.jpg"
    },
    {
     "brand": "Dell",
@@ -1251,14 +1251,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__23__d7c1.png"
    },
    {
-    "brand": "Port",
-    "title": "PORT Office docking station 3 X 4 USB-C 11 devices 100W",
+    "brand": "Port2",
+    "title": "PORT2 x 4K USB-C desktop docking station 11 peripherals 96W",
     "spec": "Docking Station",
-    "price": "R3 535",
-    "handle": "port-office-docking-station-3-x-4-usb-c-11-devices-100w",
-    "url": "/products/port-office-docking-station-3-x-4-usb-c-11-devices-100w",
-    "qty": 4,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901910V2EU_PORT_Office_docking_station_3_X_4_USB-C__wr_01.png"
+    "price": "R4 154",
+    "handle": "port2-x-4k-usb-c-desktop-docking-station-11-peripherals-96w",
+    "url": "/products/port2-x-4k-usb-c-desktop-docking-station-11-peripherals-96w",
+    "qty": 6,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901904V2EU_PORT2_x_4K_USB-C_desktop_docking_station_wr_03.png"
    },
    {
     "brand": "Dell",
@@ -1551,7 +1551,7 @@
     "handle": "hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "url": "https://ubratech.co.za/products/hiksemi-hiker-16gb-ddr5-4800mhz-desktop-memory",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/HSC516U48Z1-16G_Hiksemi-Hiker-16GB-DDR5-4800MHz-Desktop-Memory_wr_01a.jpg",
-    "qty": 7
+    "qty": 4
    },
    {
     "brand": "GeIL",
@@ -1574,14 +1574,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/KCP432NS8/8_default.png"
    },
    {
-    "brand": "Kingston",
-    "title": "Kingston 16GB DDR4 3200MHz SODIMM",
+    "brand": "GeIL",
+    "title": "GeIL Pristine 32GB DDR4 3200MHz UDIMM Desktop Memory",
     "spec": "Memory",
-    "price": "R4 717",
-    "handle": "kingston-16gb-ddr4-3200mhz-sodimm",
-    "url": "/products/kingston-16gb-ddr4-3200mhz-sodimm",
-    "qty": 51,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/KCP432SD8/16_default.jpg"
+    "price": "R4 406",
+    "handle": "geil-pristine-32gb-ddr4-3200mhz-udimm-desktop-memory",
+    "url": "/products/geil-pristine-32gb-ddr4-3200mhz-udimm-desktop-memory",
+    "qty": 67,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/GP432GB3200C22SC_GeIL-Pristine-32GB-DDR4-3200MHz-UDIMM-Desktop-Memory_wr_01.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -1622,7 +1622,7 @@
     "price": "R12 565",
     "handle": "asus-dual-geforce-rtx-5060-oc-edition-8gb-gddr7-graphics-card",
     "url": "/products/asus-dual-geforce-rtx-5060-oc-edition-8gb-gddr7-graphics-card",
-    "qty": 29,
+    "qty": 14,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/04/DUAL-RTX5060-O8G-WR-01-1.jpg"
    },
    {
@@ -1722,24 +1722,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/06/YTC4040GL_wr_01.jpg"
    },
    {
-    "brand": "Hikvision",
-    "title": "Hikvision Fixed Dome Outdoor Security Camera, 4mm Lens, 2MP",
-    "spec": "2MP",
-    "price": "R1 132",
-    "handle": "hikvision-fixed-dome-outdoor-security-camera-4mm-lens-2mp",
-    "url": "/products/hikvision-fixed-dome-outdoor-security-camera-4mm-lens-2mp",
-    "qty": 16,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/DS-2CV2121G2-IDW-wr-03.jpg"
+    "brand": "Xiaomi",
+    "title": "Xiaomi Smart Humidifier 2",
+    "spec": "Appliances",
+    "price": "R1 121",
+    "handle": "xiaomi-smart-humidifier-2",
+    "url": "/products/xiaomi-smart-humidifier-2",
+    "qty": 199,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/BHR6026EU_wr_01a.jpg"
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi Smart Air Purifier 4 Compact EU",
-    "spec": "Appliances",
-    "price": "R2 048",
-    "handle": "xiaomi-smart-air-purifier-4-compact-eu",
-    "url": "/products/xiaomi-smart-air-purifier-4-compact-eu",
-    "qty": 113,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/06/BHR5860EU_wr_01.jpg"
+    "title": "Xiaomi Smart Doorbell 3S",
+    "spec": "Smart Home",
+    "price": "R2 049",
+    "handle": "xiaomi-smart-doorbell-3s",
+    "url": "/products/xiaomi-smart-doorbell-3s",
+    "qty": 44,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/11/BHR7068GL_wr_01a.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -1761,7 +1761,7 @@
     "handle": "xiaomi-soundbar-2-0ch",
     "url": "https://ubratech.co.za/products/xiaomi-soundbar-2-0ch",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/QBH4286EU_Xiaomi-Soundbar-2.0ch_wr_01.jpg",
-    "qty": 83
+    "qty": 82
    },
    {
     "brand": "Xiaomi",
@@ -1928,24 +1928,24 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B6AA_e2c9.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Premier Rechargeable Wireless Mouse - MS7421W",
-    "spec": "Wired Mouse",
-    "price": "R747",
-    "handle": "dell-premier-rechargeable-wireless-mouse-ms7421w",
-    "url": "/products/dell-premier-rechargeable-wireless-mouse-ms7421w",
-    "qty": 12,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/570-ABLO_default.jpg"
+    "brand": "Keychron",
+    "title": "Keychron B2 Pro Ultra-Slim 96% Wireless Keyboard - Ivory White",
+    "spec": "Keyboards",
+    "price": "R748",
+    "handle": "keychron-b2-pro-ultra-slim-96-wireless-keyboard-ivory-white",
+    "url": "/products/keychron-b2-pro-ultra-slim-96-wireless-keyboard-ivory-white",
+    "qty": 39,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/B2P-K8_Keychron-B2-Pro-Ultra-Slim-96-Wireless-Keyboard-Ivory-White_wr_01a.jpg"
    },
    {
     "brand": "Keychron",
-    "title": "Keychron Q6 HE QMK Full-size Wireless Custom Mechanical Keyboard… (Q6H-P1)",
+    "title": "Keychron Q6 Ultra 100% 8K Hot-Swappable RGB Wireless Keyboard - Red Silk POM Switches",
     "spec": "Keyboards",
     "price": "R4 294",
-    "handle": "keychron-q6-he-qmk-full-size-wireless-custom-mechanical-keyboard-nebula-switch-shell-white",
-    "url": "/products/keychron-q6-he-qmk-full-size-wireless-custom-mechanical-keyboard-nebula-switch-shell-white",
-    "qty": 11,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/07/Q6H-P1_Keychron-Q6-HE-QMK-Full-size-Wireless-Custom-Mechanical-Keyboard-Nebula-Switch-%E2%80%93-Shell-White_wr_01a.jpg"
+    "handle": "keychron-q6-ultra-100-8k-hot-swappable-rgb-wireless-keyboard-red-silk-pom-switches",
+    "url": "/products/keychron-q6-ultra-100-8k-hot-swappable-rgb-wireless-keyboard-red-silk-pom-switches",
+    "qty": 4,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/11/Q6U-M1_Keychron_Q6_Ultra_100_8K_Hot-Swappable_R_wr_01.png"
    }
   ]
  },
@@ -1968,7 +1968,7 @@
     "price": "R2 986",
     "handle": "hikvision-4mp-fixed-mini-bullet-network-camera",
     "url": "/products/hikvision-4mp-fixed-mini-bullet-network-camera",
-    "qty": 58,
+    "qty": 54,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_4MM_1_306c.png"
    },
    {
@@ -2010,7 +2010,7 @@
     "price": "R2 986",
     "handle": "hikvision-4mp-fixed-mini-bullet-network-camera",
     "url": "/products/hikvision-4mp-fixed-mini-bullet-network-camera",
-    "qty": 58,
+    "qty": 54,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_4MM_1_306c.png"
    },
    {
@@ -2052,7 +2052,7 @@
     "price": "R2 986",
     "handle": "hikvision-4mp-fixed-mini-bullet-network-camera",
     "url": "/products/hikvision-4mp-fixed-mini-bullet-network-camera",
-    "qty": 58,
+    "qty": 54,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_4MM_1_306c.png"
    },
    {
