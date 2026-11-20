@@ -228,7 +228,7 @@
     "price": "R5 825",
     "handle": "giada-f108d-intel-n100-1xddr4-3200-mhz-2xhdmi",
     "url": "/products/giada-f108d-intel-n100-1xddr4-3200-mhz-2xhdmi",
-    "qty": 80,
+    "qty": 78,
     "image": "https://www.syntech.co.za/wp-content/uploads/2023/10/F108D-FV-N10040N0G-GIA_wr_01b.jpg"
    },
    {
@@ -280,7 +280,7 @@
     "price": "R12 809",
     "handle": "pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
-    "qty": 44,
+    "qty": 41,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_DEFENDER_05_wr_01e.jpg"
    },
    {
@@ -398,7 +398,7 @@
     "price": "R12 809",
     "handle": "pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
-    "qty": 44,
+    "qty": 41,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_DEFENDER_05_wr_01e.jpg"
    },
    {
@@ -408,7 +408,7 @@
     "price": "R18 132",
     "handle": "asus-tuf-a15-15-6-ryzen-7-8gb-512gb-win-11-home-notebook",
     "url": "/products/asus-tuf-a15-15-6-ryzen-7-8gb-512gb-win-11-home-notebook",
-    "qty": 61,
+    "qty": 58,
     "image": "https://www.pinnacle.co.za/media/catalog/product/F/A/FA506NCG_78512B0W__1__1ce1.png"
    },
    {
@@ -454,14 +454,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/NH_QZAEA_006_Acer_NITRO_V_15_Gaming_Laptop_156_Intel__wr_01.png"
    },
    {
-    "brand": "Acer",
-    "title": "Acer Predator HELIOS NEO 16 AI Gaming Laptop 1 Laptop",
-    "spec": "Notebooks",
-    "price": "R49 278",
-    "handle": "acer-predator-helios-neo-16-ai-gaming-laptop-16-intel-ultra-9-290hx-plus-16gb-1tb-rtx-5070-8gb-windows-11-home",
-    "url": "/products/acer-predator-helios-neo-16-ai-gaming-laptop-16-intel-ultra-9-290hx-plus-16gb-1tb-rtx-5070-8gb-windows-11-home",
-    "qty": 14,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/NH_U42EA_003_Acer_Predator_HELIOS_NEO_16_AI_Gaming_La_wr_01.png"
+    "brand": "Asus",
+    "title": "Asus ROG Strix G16 16\" Core-U9 16GB 1TB Win 11 Home Notebook (G615LP-U91610G0W)",
+    "spec": "16\" screen · 16GB RAM",
+    "price": "R49 293",
+    "handle": "asus-rog-strix-g16-16-core-u9-16gb-1tb-win-11-home-notebook-g615lp-u91610g0w",
+    "url": "/products/asus-rog-strix-g16-16-core-u9-16gb-1tb-win-11-home-notebook-g615lp-u91610g0w",
+    "qty": 3,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__39__3504.png"
    },
    {
     "brand": "Dell",
@@ -492,7 +492,7 @@
     "price": "R12 809",
     "handle": "pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600gt-defender-windows-11-gaming-pc",
-    "qty": 44,
+    "qty": 41,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_DEFENDER_05_wr_01e.jpg"
    },
    {
@@ -526,7 +526,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 321,
+    "qty": 301,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -682,7 +682,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 321,
+    "qty": 301,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg"
    },
    {
@@ -1237,7 +1237,7 @@
     "price": "R1 489",
     "handle": "dell-pro-7-in-1-usb-c-mobile-docking-station",
     "url": "/products/dell-pro-7-in-1-usb-c-mobile-docking-station",
-    "qty": 66,
+    "qty": 65,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__23__d7c1.png"
    },
    {
@@ -1383,13 +1383,13 @@
    },
    {
     "brand": "TP-Link",
-    "title": "TP-Link 5 Port Gigabit Smart Switch",
-    "spec": "5 ports",
-    "price": "R326",
-    "handle": "tp-link-5-port-gigabit-smart-switch",
-    "url": "/products/tp-link-5-port-gigabit-smart-switch",
+    "title": "TP-Link 6 Port Unmanaged POE Desktop Switch",
+    "spec": "6 ports",
+    "price": "R492",
+    "handle": "tp-link-6-port-unmanaged-poe-desktop-switch",
+    "url": "/products/tp-link-6-port-unmanaged-poe-desktop-switch",
     "qty": 13,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG105E_ef37.jpg"
+    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SF1006P_a8c6.png"
    },
    {
     "brand": "Huawei",
@@ -1403,13 +1403,13 @@
    },
    {
     "brand": "Huawei",
-    "title": "Huawei S310-48P4S Ekit 48 Port POE Switch",
+    "title": "Huawei S310-48P4X Ekit 48 Port POE Switch",
     "spec": "48 ports",
     "price": "R6 925",
-    "handle": "huawei-s310-48p4s-ekit-48-port-poe-switch",
-    "url": "/products/huawei-s310-48p4s-ekit-48-port-poe-switch",
-    "qty": 108,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_12a1.png"
+    "handle": "huawei-s310-48p4x-ekit-48-port-poe-switch",
+    "url": "/products/huawei-s310-48p4x-ekit-48-port-poe-switch",
+    "qty": 4,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_fcaa.png"
    },
    {
     "brand": "Tenda",
@@ -1479,7 +1479,7 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 196
+    "qty": 193
    },
    {
     "brand": "Seagate",
@@ -1502,24 +1502,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DTKNG2/64GB_default.jpg"
    },
    {
-    "brand": "Patriot",
-    "title": "Patriot Transporter Lite 1TB USB3.2 Type-C External Portable SSD - Red",
+    "brand": "Targus",
+    "title": "Targus Hyper HyperDrive EcoSmart USB4 SSD Enclosure",
     "spec": "Storage",
-    "price": "R2 139",
-    "handle": "patriot-transporter-lite-1tb-usb3-2-type-c-external-portable-ssd-red",
-    "url": "/products/patriot-transporter-lite-1tb-usb3-2-type-c-external-portable-ssd-red",
-    "qty": 7,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/PTPL1TBPEC_Patriot-Transporter-Lite-1TB-USB3.2-Type-C-External-Portable-SSD_wr_01.jpg"
+    "price": "R2 002",
+    "handle": "targus-hyper-hyperdrive-ecosmart-usb4-ssd-enclosure",
+    "url": "/products/targus-hyper-hyperdrive-ecosmart-usb4-ssd-enclosure",
+    "qty": 5,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/HD5001GL_default.png"
    },
    {
-    "brand": "SanDisk",
-    "title": "SanDisk Optimus GX 7100 1TB NVMe SSD",
-    "spec": "1TB NVMe SSD",
-    "price": "R5 203",
-    "handle": "sandisk-optimus-gx-7100-1tb-nvme-ssd",
-    "url": "/products/sandisk-optimus-gx-7100-1tb-nvme-ssd",
-    "qty": 113,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/S/D/SDSP71100TAN_000E0_d4e8.jpg"
+    "brand": "Kingston",
+    "title": "Kingston 1TB XS1000 External USB 3.2 Gen 2 Portable Solid State Drive",
+    "spec": "Storage",
+    "price": "R5 159",
+    "handle": "kingston-1tb-xs1000-external-usb-3-2-gen-2-portable-solid-state-drive",
+    "url": "/products/kingston-1tb-xs1000-external-usb-3-2-gen-2-portable-solid-state-drive",
+    "qty": 4,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SXS1000/1000G_default.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -1938,7 +1938,7 @@
     "price": "R1 317",
     "handle": "hikvision-2mp-2-8mm-fixed-dome-network-camera",
     "url": "/products/hikvision-2mp-2-8mm-fixed-dome-network-camera",
-    "qty": 379,
+    "qty": 378,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2121G0_LIU_2.8MM_4d7a.jpg"
    },
    {
@@ -1980,7 +1980,7 @@
     "price": "R1 317",
     "handle": "hikvision-2mp-2-8mm-fixed-dome-network-camera",
     "url": "/products/hikvision-2mp-2-8mm-fixed-dome-network-camera",
-    "qty": 379,
+    "qty": 378,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2121G0_LIU_2.8MM_4d7a.jpg"
    },
    {
@@ -2032,7 +2032,7 @@
     "price": "R2 986",
     "handle": "hikvision-4mp-fixed-mini-bullet-network-camera",
     "url": "/products/hikvision-4mp-fixed-mini-bullet-network-camera",
-    "qty": 54,
+    "qty": 53,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_4MM_1_306c.png"
    },
    {
@@ -2207,14 +2207,14 @@
    "enquiry": true
   },
   {
-   "brand": "Grandstream",
-   "title": "Grandstream Enterprise WiFi 7 In-Wall Indoor Access Point",
-   "spec": "3,6 Gbps, 2x2:2 2.4G/5G, 1x 2.5GbE PoE,175m coverage,256 clients, Embe",
-   "price": "R2 128",
-   "handle": "grandstream-enterprise-wifi-7-in-wall-indoor-access-point-gwn7670wm",
-   "url": "/pages/grandstream-enterprise-wifi-7-in-wall-indoor-access-point-gwn7670wm",
+   "brand": "TP-Link Omada",
+   "title": "TP-Link AX1800 Ceiling Mount Dual-Band Access Point · EAP620 HD",
+   "spec": "574Mbps at  2.4 GHz + 1201Mbps at 5GHz, 1GB LAN, 1000+ Clients,  802.3",
+   "price": "R2 138",
+   "handle": "tp-link-ax1800-ceiling-mount-dual-band-access-point-eap620-hd",
+   "url": "/pages/tp-link-ax1800-ceiling-mount-dual-band-access-point-eap620-hd",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/7/9/3/4/17934.jpg",
+   "image": "https://miro.co.za/img/p/5/4/5/6/5456.jpg",
    "enquiry": true
   },
   {
