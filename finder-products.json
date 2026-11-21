@@ -295,13 +295,13 @@
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder Ryzen 5 5500 SCOUT Windows 11 Gaming PC",
-    "spec": "Ryzen 5",
-    "price": "R16 753",
-    "handle": "pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
-    "url": "/products/pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
-    "qty": 10,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SCOUT_05_wr_01e.jpg"
+    "title": "PCBuilder FUSION 24\" Intel Core i5-12400 16GB DDR5 1TB Windows 11 AiO Desktop PC",
+    "spec": "Core i5 · 24\" screen · 16GB RAM",
+    "price": "R16 756",
+    "handle": "pcbuilder-fusion-24-intel-core-i5-12400-16gb-ddr5-1tb-windows-11-aio-desktop-pc",
+    "url": "/products/pcbuilder-fusion-24-intel-core-i5-12400-16gb-ddr5-1tb-windows-11-aio-desktop-pc",
+    "qty": 33,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/05/PCB-AIO-FIB24-I5161000-D5_PCBuilder-FUSION-24-inch-Intel-Core-i5-12400-16GB-DDR5-1TB-Windows-11-AiO-Desktop-PC_wr_01a.jpg"
    },
    {
     "brand": "Lenovo",
@@ -570,14 +570,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPH_default.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer Nitro VG270 27\" IPS FHD 1MS 240HZ Gaming Monitor 3Yr",
+    "brand": "Xiaomi",
+    "title": "Xiaomi G27i 2026 27″ 200Hz Full HD 1080p IPS Gaming Monitor",
     "spec": "27\" screen",
-    "price": "R3 273",
-    "handle": "acer-nitro-vg270-27-ips-fhd-1ms-240hz-gaming-monitor-3yr",
-    "url": "/products/acer-nitro-vg270-27-ips-fhd-1ms-240hz-gaming-monitor-3yr",
-    "qty": 4,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HV0EE.W01_default.jpg"
+    "price": "R3 251",
+    "handle": "xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
+    "url": "/products/xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
+    "qty": 106,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6370EU_Xiaomi-G27i-2026-27%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -592,34 +592,34 @@
   ],
   "creative": [
    {
-    "brand": "Asus",
-    "title": "Asus ProArt Display PA248CNV 24.1\" WUXGA IPS 75Hz Monitor",
-    "spec": "24.1\" screen",
-    "price": "R6 925",
-    "handle": "asus-proart-display-pa248cnv-24-1-wuxga-ips-75hz-monitor",
-    "url": "/products/asus-proart-display-pa248cnv-24-1-wuxga-ips-75hz-monitor",
-    "qty": 18,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/PA248CNV_Asus-ProArt-Display-PA248CNV-24.1-inch-WUXGA-IPS-75Hz-Monitor-Black_wr_01.jpg"
-   },
-   {
-    "brand": "Xiaomi",
-    "title": "Xiaomi G Pro 27i 27\" 2K 1440p Mini LED IPS Gaming Monitor (180Hz, 1ms)",
-    "spec": "27\" screen",
-    "price": "R8 570",
-    "handle": "xiaomi-g-pro-27i-27-2k-1440p-mini-led-ips-gaming-monitor-180hz-1ms",
-    "url": "/products/xiaomi-g-pro-27i-27-2k-1440p-mini-led-ips-gaming-monitor-180hz-1ms",
-    "qty": 49,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/ELA5585EU_Xiaomi-G-Pro-27i_27-inch_2k_qhd_gaming_monitor_wr_01b.jpg"
-   },
-   {
     "brand": "Dell",
-    "title": "Dell P2722HE 27\" FHD IPS Monitor",
+    "title": "Dell Pro 27 Plus QHD USB-C Hub Monitor - P2725DE, 68.6cm (27.0\")",
+    "spec": "27.0\" screen",
+    "price": "R7 244",
+    "handle": "dell-pro-27-plus-qhd-usb-c-hub-monitor-p2725de-68-6cm-27-0",
+    "url": "/products/dell-pro-27-plus-qhd-usb-c-hub-monitor-p2725de-68-6cm-27-0",
+    "qty": 37,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BQSZ_default.jpg"
+   },
+   {
+    "brand": "Asus",
+    "title": "Asus ProArt 27\" QHD 1440p IPS 144Hz Monitor with USB Type-C 96W PD",
     "spec": "27\" screen",
-    "price": "R17 762",
-    "handle": "dell-p2722he-27-fhd-ips-monitor",
-    "url": "/products/dell-p2722he-27-fhd-ips-monitor",
-    "qty": 21,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BMDW_1_c0eb.png"
+    "price": "R8 647",
+    "handle": "asus-proart-27-qhd-1440p-ips-144hz-monitor-with-usb-type-c-96w-pd",
+    "url": "/products/asus-proart-27-qhd-1440p-ips-144hz-monitor-with-usb-type-c-96w-pd",
+    "qty": 19,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PA278CGRV_Asus_ProArt_27_QHD_1440p_IPS_144Hz_Monit_wr_01.png"
+   },
+   {
+    "brand": "Asus",
+    "title": "Asus ROG Strix 27\" QHD OLED 280Hz Gaming Monitor",
+    "spec": "27\" screen",
+    "price": "R19 826",
+    "handle": "asus-rog-strix-27-qhd-oled-280hz-gaming-monitor",
+    "url": "/products/asus-rog-strix-27-qhd-oled-280hz-gaming-monitor",
+    "qty": 5,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_d81d.png"
    },
    {
     "brand": "Asus",
@@ -664,24 +664,24 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg"
    },
    {
-    "brand": "MSI",
-    "title": "MSI MAG 255F X24 25″ FHD 240Hz IPS Gaming Monitor",
-    "spec": "25\" screen",
-    "price": "R2 661",
-    "handle": "msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
-    "url": "/products/msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
-    "qty": 136,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-X24_MSI-MAG-255F-X24-25-inch-FHD-240Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
+    "brand": "Xiaomi",
+    "title": "Xiaomi G24i 2026 24″ 200Hz Full HD 1080p IPS Gaming Monitor",
+    "spec": "24\" screen",
+    "price": "R2 660",
+    "handle": "xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
+    "url": "/products/xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
+    "qty": 203,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6364EU_Xiaomi-G24i-2026-24%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
    },
    {
-    "brand": "Samsung",
-    "title": "Samsung Odyssey G5 Gaming 27\" QHD Monitor (LS27FG530EUXEN)",
-    "spec": "27\" screen",
-    "price": "R4 482",
-    "handle": "samsung-odyssey-g5-gaming-flat-27-display-ips-response-1ms-mprt-ar-16-09-resolution-2560x1440-qhd-rr-200hz-hdmi-x2-dp-headphone-speaker-no-power-supply-external-tilt-yes-swivel-no-pivot-no-height",
-    "url": "/products/samsung-odyssey-g5-gaming-flat-27-display-ips-response-1ms-mprt-ar-16-09-resolution-2560x1440-qhd-rr-200hz-hdmi-x2-dp-headphone-speaker-no-power-supply-external-tilt-yes-swivel-no-pivot-no-height",
-    "qty": 29,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/LS27FG530EUXEN_default.jpg"
+    "brand": "Xiaomi",
+    "title": "Xiaomi Curved Gaming Monitor G34WQi 2026",
+    "spec": "Monitors And Displays",
+    "price": "R6 899",
+    "handle": "xiaomi-curved-gaming-monitor-g34wqi-2026",
+    "url": "/products/xiaomi-curved-gaming-monitor-g34wqi-2026",
+    "qty": 121,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/ELA6562EU_Xiaomi_Curved_Gaming_Monitor_G34WQi_2026_wr_03.png"
    },
    {
     "brand": "Asus",
@@ -726,14 +726,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-X24_MSI-MAG-255F-X24-25-inch-FHD-240Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP Series 3 Pro 27\" FHD IPS Monitor",
-    "spec": "27\" screen",
-    "price": "R3 776",
-    "handle": "hp-series-3-pro-27-fhd-ips-monitor",
-    "url": "/products/hp-series-3-pro-27-fhd-ips-monitor",
-    "qty": 29,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/0/B0CG3UT_30b1.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro P24 23.8\" FHD IPS Monitor",
+    "spec": "23.8\" screen",
+    "price": "R3 455",
+    "handle": "dell-pro-p24-23-8-fhd-ips-monitor",
+    "url": "/products/dell-pro-p24-23-8-fhd-ips-monitor",
+    "qty": 99,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVKM_290f.jpg"
    },
    {
     "brand": "Asus",
@@ -1003,14 +1003,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/Cudy_M3000W-1PACK_wr_01a.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi AC1200 Whole Home Mesh Wi-Fi System (DVB4451GL)",
-    "spec": "Router",
-    "price": "R1 522",
-    "handle": "xiaomi-ac1200-whole-home-mesh-wi-fi-system-2-pack",
-    "url": "/products/xiaomi-ac1200-whole-home-mesh-wi-fi-system-2-pack",
-    "qty": 107,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/DVB4451GL_wr_01.jpg"
+    "brand": "Mercusys",
+    "title": "Mercusys AX3000 Dual-Band Wi-Fi Router (HALO-H80X-2-PACK)",
+    "spec": "Networking And Wireless",
+    "price": "R1 637",
+    "handle": "mercusys-ax3000-dual-band-wi-fi-router-halo-h80x-2-pack",
+    "url": "/products/mercusys-ax3000-dual-band-wi-fi-router-halo-h80x-2-pack",
+    "qty": 71,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/H/A/HALO_H80X_2_PACK_1_33db.png"
    },
    {
     "brand": "TP-Link",
@@ -1035,14 +1035,14 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/E/DECO_M4_3_PACK_b101.jpg"
    },
    {
-    "brand": "Cudy",
-    "title": "Cudy AC1200 Wi-Fi Mesh Kit 3 Pack With Gigabit",
+    "brand": "Xiaomi",
+    "title": "Xiaomi AC1200 Whole Home Mesh Wi-Fi System (DVB4451GL)",
     "spec": "Router",
-    "price": "R1 510",
-    "handle": "cudy-ac1200-wi-fi-mesh-kit-3-pack-with-gigabit",
-    "url": "/products/cudy-ac1200-wi-fi-mesh-kit-3-pack-with-gigabit",
-    "qty": 210,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/10/M1300-3PACK_wr_01.jpg"
+    "price": "R1 522",
+    "handle": "xiaomi-ac1200-whole-home-mesh-wi-fi-system-2-pack",
+    "url": "/products/xiaomi-ac1200-whole-home-mesh-wi-fi-system-2-pack",
+    "qty": 107,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/DVB4451GL_wr_01.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -1148,7 +1148,7 @@
     "brand": "Niimbot",
     "title": "Niimbot D11 Portable Thermal Label Printer",
     "spec": "Pocket-size · phone app labels",
-    "price": "R251",
+    "price": "R378",
     "handle": "niimbot-d11-portable-thermal-label-printer-green",
     "url": "https://ubratech.co.za/products/niimbot-d11-portable-thermal-label-printer-green",
     "image": "https://www.syntech.co.za/wp-content/uploads/2023/09/D11-BL_wr_01a-1.jpg",
@@ -1168,7 +1168,7 @@
     "brand": "Niimbot",
     "title": "Niimbot D11 D110 D101 H1S Thermal Label 12.5x7 Printer",
     "spec": "Printers",
-    "price": "R49",
+    "price": "R76",
     "handle": "niimbot-d11-d110-d101-h1s-thermal-label-12-5x74mm-65-labels-per-roll-yellow-for-cable",
     "url": "/products/niimbot-d11-d110-d101-h1s-thermal-label-12-5x74mm-65-labels-per-roll-yellow-for-cable",
     "qty": 34,
@@ -1274,23 +1274,23 @@
   "legacy": [
    {
     "brand": "Ugreen",
+    "title": "UGREEN 4-Port USB 3.0 Hub · 5Gbps Data Transfer - 0.5m",
+    "spec": "4 ports",
+    "price": "R166",
+    "handle": "ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
+    "url": "/products/ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
+    "qty": 63,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CR113-20290_UGREEN-4-Port-USB-3.0-Hub-with-Micro-USB_wr_01a.jpg"
+   },
+   {
+    "brand": "Ugreen",
     "title": "UGREEN 4-in-1 Type-C Hub · USB 3.0",
     "spec": "Docking Station",
-    "price": "R157",
+    "price": "R198",
     "handle": "ugreen-4-in-1-type-c-hub-usb-3-0-type-c",
     "url": "/products/ugreen-4-in-1-type-c-hub-usb-3-0-type-c",
     "qty": 242,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/cm219-70336-wr-01a.jpg"
-   },
-   {
-    "brand": "Ugreen",
-    "title": "UGREEN 4-Port USB 3.0 Hub with Micro USB · 5Gbps Data Transfer - 1m",
-    "spec": "4 ports",
-    "price": "R174",
-    "handle": "ugreen-4-port-usb-3-0-hub-with-micro-usb-5gbps-data-transfer-1m",
-    "url": "/products/ugreen-4-port-usb-3-0-hub-with-micro-usb-5gbps-data-transfer-1m",
-    "qty": 158,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CR113-20291_UGREEN-4-Port-USB-3.0-Hub-with-Micro-USB-5Gbps-Data-Transfer-%E2%80%93-1m_wr_01.jpg"
    },
    {
     "brand": "Port",
@@ -1337,14 +1337,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS105_wr_01.jpg"
    },
    {
-    "brand": "Winx",
-    "title": "WINX CALL Pro 2 Mono AI Noise Cancelling Headset",
+    "brand": "Logitech",
+    "title": "Logitech H540 USB Computer Headset with HD Sound and On-Ear… (981-000480)",
     "spec": "Headsets",
-    "price": "R565",
-    "handle": "winx-call-pro-2-mono-ai-noise-cancelling-headset",
-    "url": "/products/winx-call-pro-2-mono-ai-noise-cancelling-headset",
-    "qty": 299,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS113_WINX-CALL-Pro-Wireless-Noise-Cancelling-Mic-Headset-Black_wr_01a.jpg"
+    "price": "R675",
+    "handle": "logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
+    "url": "/products/logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
+    "qty": 51,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/981-000480_default.jpg"
    },
    {
     "brand": "Port",
@@ -1522,14 +1522,14 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/HD5001GL_default.png"
    },
    {
-    "brand": "Kingston",
-    "title": "Kingston 1TB XS1000 External USB 3.2 Gen 2 Portable Solid State Drive",
+    "brand": "Proline",
+    "title": "Proline KINGSTON 1000G NV3 M.2 PCIe 4.0 NVMe SSD",
     "spec": "Storage",
-    "price": "R5 159",
-    "handle": "kingston-1tb-xs1000-external-usb-3-2-gen-2-portable-solid-state-drive",
-    "url": "/products/kingston-1tb-xs1000-external-usb-3-2-gen-2-portable-solid-state-drive",
-    "qty": 4,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SXS1000/1000G_default.jpg"
+    "price": "R5 344",
+    "handle": "proline-kingston-1000g-nv3-m-2-pcie-4-0-nvme-ssd",
+    "url": "/products/proline-kingston-1000g-nv3-m-2-pcie-4-0-nvme-ssd",
+    "qty": 20,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SNV3SM3/1T0_default.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -1554,14 +1554,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/GP44GB2666C19SC_GeIL_Pristine_4GB_DDR4_2666MHz_Desktop_M_wr_01.png"
    },
    {
-    "brand": "Kingston",
-    "title": "Kingston 8GB DDR4 3200MHz Memory Module",
+    "brand": "Hiksemi",
+    "title": "Hiksemi Hiker 8GB DDR5 4800MHz Desktop Memory",
     "spec": "Memory",
-    "price": "R2 525",
-    "handle": "kingston-8gb-ddr4-3200mhz-memory-module",
-    "url": "/products/kingston-8gb-ddr4-3200mhz-memory-module",
-    "qty": 32,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/KCP432NS8/8_default.png"
+    "price": "R2 797",
+    "handle": "hiksemi-hiker-8gb-ddr5-4800mhz-desktop-memory",
+    "url": "/products/hiksemi-hiker-8gb-ddr5-4800mhz-desktop-memory",
+    "qty": 109,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/HSC508U48Z1-8G_Hiksemi-Hiker-8GB-DDR5-4800MHz-Desktop-Memory_wr_01a.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -1658,20 +1658,20 @@
     "qty": 293
    },
    {
-    "brand": "FSP",
-    "title": "FSP 350W 80 PLUS Gold ATX Non-modular Power Supply",
+    "brand": "Antec",
+    "title": "Antec Atom V650 Non-Modular Power Supply",
     "spec": "Power Supplies",
-    "price": "R628",
-    "handle": "fsp-350w-80-plus-gold-atx-non-modular-power-supply",
-    "url": "/products/fsp-350w-80-plus-gold-atx-non-modular-power-supply",
-    "qty": 197,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/FSP350-50EGN_FSP_350W_80_PLUS_Gold_ATX_Non-modular_Po_wr_01.png"
+    "price": "R698",
+    "handle": "antec-atom-v650-non-modular-power-supply",
+    "url": "/products/antec-atom-v650-non-modular-power-supply",
+    "qty": 102,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/ATOM-V650_wr_05.jpg"
    },
    {
     "brand": "FSP",
     "title": "FSP VITA BD 850W 80PLUS Bronze ATX3.1 Non-modular Power Supply",
     "spec": "Power Supplies",
-    "price": "R1 258",
+    "price": "R1 585",
     "handle": "fsp-vita-bd-850w-80plus-bronze-atx3-1-non-modular-power-supply",
     "url": "/products/fsp-vita-bd-850w-80plus-bronze-atx3-1-non-modular-power-supply",
     "qty": 11,
@@ -1794,14 +1794,14 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/BHR8930GL_wr_01.jpg"
    },
    {
-    "brand": "Redmi",
-    "title": "Redmi Buds 8 Lite - White",
-    "spec": "Tv And Audio",
-    "price": "R510",
-    "handle": "redmi-buds-8-lite-white",
-    "url": "/products/redmi-buds-8-lite-white",
-    "qty": 137,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/BHR08OLGL_Xiaomi-Redmi-Buds-8-Lite-White_wr_01b.jpg"
+    "brand": "Logitech",
+    "title": "Logitech Compact stereo speakers with 6W peak power. Dual input…",
+    "spec": "Headsets",
+    "price": "R536",
+    "handle": "logitech-compact-stereo-speakers-with-6w-peak-power-dual-input-3-5-mm-aux-for-connecting-two-devices-front-facing-volume-and-headphone-jack",
+    "url": "/products/logitech-compact-stereo-speakers-with-6w-peak-power-dual-input-3-5-mm-aux-for-connecting-two-devices-front-facing-volume-and-headphone-jack",
+    "qty": 5,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/980-000814_default.png"
    },
    {
     "brand": "HP",
@@ -1829,7 +1829,7 @@
     "brand": "Gizzu",
     "title": "Gizzu 2-Port 65W GaN Wall Charger",
     "spec": "Charges laptop & phone",
-    "price": "R213",
+    "price": "R251",
     "handle": "gizzu-2-port-65w-gan-wall-charger",
     "url": "https://ubratech.co.za/products/gizzu-2-port-65w-gan-wall-charger",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/GWCCU65W_Gizzu-2-Port-65W-GaN-Wall-Charger-White_wr_01b.jpg",
@@ -1846,34 +1846,34 @@
     "qty": 22
    },
    {
-    "brand": "Orico",
-    "title": "ORICO Micro USB ChargeSync Cable Silver 1M",
+    "brand": "2",
+    "title": "2 Pin Pc Plug 1.8 Metres Africa",
     "spec": "Cables And Adapters",
-    "price": "R6",
-    "handle": "orico-micro-usb-chargesync-cable-silver-1m",
-    "url": "/products/orico-micro-usb-chargesync-cable-silver-1m",
-    "qty": 115,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2018/09/N301-10-SV-PRO_wr_01a.jpg"
+    "price": "R14",
+    "handle": "2-pin-pc-plug-1-8-metres-africa",
+    "url": "/products/2-pin-pc-plug-1-8-metres-africa",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
     "brand": "Ugreen",
-    "title": "UGREEN USB 2.0 to RS-232 Serial Adapter Cable (USB-A Male to DB9 Male)-Black",
+    "title": "UGREEN NW102 Cat6 U/UTP Flat Ethernet Cable 15m - Black",
     "spec": "Cables And Adapters",
-    "price": "R125",
-    "handle": "ugreen-usb-2-0-to-rs-232-serial-adapter-cable-usb-a-male-to-db9-male-black",
-    "url": "/products/ugreen-usb-2-0-to-rs-232-serial-adapter-cable-usb-a-male-to-db9-male-black",
-    "qty": 277,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/CR104-20222_UGREEN-USB-2.0-to-RS-232-Serial-Adapter-Cable_01.jpg"
+    "price": "R127",
+    "handle": "ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
+    "url": "/products/ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
+    "qty": 109,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/NW102-50172-wr-01.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP Wired 320MK combo",
-    "spec": "Accessories",
-    "price": "R414",
-    "handle": "hp-wired-320mk-combo",
-    "url": "/products/hp-wired-320mk-combo",
-    "qty": 9,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/9SR36UT_default.png"
+    "brand": "Gizzu",
+    "title": "Gizzu USB3.0 Active Extension Cable 10m",
+    "spec": "Cables And Adapters",
+    "price": "R418",
+    "handle": "gizzu-usb3-0-active-extension-cable-10m",
+    "url": "/products/gizzu-usb3-0-active-extension-cable-10m",
+    "qty": 65,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/GCPU3UE10A-0128-Edit1500x1500-96DPI.jpg"
    },
    {
     "brand": "HP",
@@ -1918,24 +1918,24 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/RD-BM-4049_wr_01.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP 400 Quiet Wireless Maple Mouse",
+    "brand": "Port",
+    "title": "Port Pure MAC Wireless Iris Mouse",
     "spec": "Wired Mouse",
-    "price": "R368",
-    "handle": "hp-400-quiet-wireless-maple-mouse",
-    "url": "/products/hp-400-quiet-wireless-maple-mouse",
-    "qty": 5,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B6AA_e2c9.jpg"
+    "price": "R371",
+    "handle": "port-pure-mac-wireless-iris-mouse",
+    "url": "/products/port-pure-mac-wireless-iris-mouse",
+    "qty": 40,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__12__8186.png"
    },
    {
-    "brand": "Keychron",
-    "title": "Keychron B2 Pro Ultra-Slim 96% Wireless Keyboard - Space Gray",
+    "brand": "Logitech",
+    "title": "Logitech G213 Prodigy Gaming Keyboard",
     "spec": "Keyboards",
-    "price": "R749",
-    "handle": "keychron-b2-pro-ultra-slim-96-wireless-keyboard-space-gray",
-    "url": "/products/keychron-b2-pro-ultra-slim-96-wireless-keyboard-space-gray",
-    "qty": 97,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/B2P-K1_Keychron-B2-Pro-Ultra-Slim-96-Wireless-Keyboard-Space-Grey_wr_01a.jpg"
+    "price": "R756",
+    "handle": "logitech-g213-prodigy-gaming-keyboard",
+    "url": "/products/logitech-g213-prodigy-gaming-keyboard",
+    "qty": 4,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/920-008093_default.jpg"
    },
    {
     "brand": "Keychron",
