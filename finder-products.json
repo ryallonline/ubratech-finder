@@ -250,7 +250,7 @@
     "price": "R17 313",
     "handle": "dell-pro-slim-essential-qvs1260-desktop-pc-core-i3-bto001_qvs1260_emea",
     "url": "https://ubratech.co.za/products/dell-pro-slim-essential-qvs1260-desktop-pc-core-i3-bto001_qvs1260_emea",
-    "qty": 8,
+    "qty": 7,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO001_QVS1260_EMEA_default.png"
    },
    {
@@ -260,7 +260,7 @@
     "price": "R20 147",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 50,
+    "qty": 36,
     "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    },
    {
@@ -276,28 +276,28 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2023/10/F108D-FV-N10040N0G-GIA_wr_01b.jpg"
    },
    {
-    "brand": "Giada",
-    "title": "Giada VM27 with N6210 4G DDR4 on board, 64G EMMC on board",
-    "spec": "Desktops",
-    "price": "R7 666",
-    "price_n": 7666,
-    "sku": "VM27-N621042E6G-GIA",
-    "handle": "giada-vm27-with-n6210-4g-ddr4-on-board-64g-emmc-on-board",
-    "url": "/products/giada-vm27-with-n6210-4g-ddr4-on-board-64g-emmc-on-board",
-    "qty": 45,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/VM27-N621042E6G-GIA_wr_01a.jpg"
+    "brand": "PCBuilder",
+    "title": "PCBuilder AMD Ryzen 5 3400G HOME MASTER Windows 11 Desktop PC",
+    "spec": "Ryzen 5",
+    "price": "R7 880",
+    "price_n": 7880,
+    "sku": "PCB_HOME_R58G-V1",
+    "handle": "pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc",
+    "url": "/products/pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc",
+    "qty": 22,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_HOME_R58G-V1_PCBuilder-AMD-Ryzen-5-3400G-HOME-MASTER-Windows-11-Desktop-PC_wr_01.jpg"
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder CUBE Intel i5-1235U 8GB DDR4 512GB Windows 11 Home Mini PC",
-    "spec": "8GB RAM",
-    "price": "R9 859",
-    "price_n": 9859,
-    "sku": "PCB_CUBE_I58G_HOME_V2",
-    "handle": "pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
-    "url": "/products/pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
-    "qty": 35,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_CUBE_I58G_HOME_V2_PCBuilder-CUBE-Intel-i5-1235U-8GB-DDR4-512GB-Windows-11-Home-Mini-PC_wr_01a.jpg"
+    "title": "PCBUiLDER™ CUBE Ryzen 5 3500U 8GB DDR4 512GB Windows 11 Home Mini PC",
+    "spec": "Ryzen 5 · 8GB RAM",
+    "price": "R8 374",
+    "price_n": 8374,
+    "sku": "PCB_CUBE_3500U8GB_HOME",
+    "handle": "pcbuilder-cube-ryzen-5-3500u-8gb-ddr4-512gb-windows-11-home-mini-pc",
+    "url": "/products/pcbuilder-cube-ryzen-5-3500u-8gb-ddr4-512gb-windows-11-home-mini-pc",
+    "qty": 7,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/PCB_CUBE_3500U8GB_HOME_PCBuilder-CUBE-Ryzen-5-3500U-8GB-DDR4-512GB-Windows-11-Home-Mini-PC_wr_01.jpg"
    },
    {
     "brand": "PCBuilder",
@@ -320,7 +320,7 @@
     "price": "R20 147",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 50,
+    "qty": 36,
     "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    },
    {
@@ -347,15 +347,15 @@
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder FUSION 24\" Intel Core i5-12400 16GB DDR5 1TB Windows 11 AiO Desktop PC",
-    "spec": "Core i5 · 24\" screen · 16GB RAM",
-    "price": "R16 756",
-    "price_n": 16756,
-    "sku": "PCB-AIO-FIB24-I5161000-D5",
-    "handle": "pcbuilder-fusion-24-intel-core-i5-12400-16gb-ddr5-1tb-windows-11-aio-desktop-pc",
-    "url": "/products/pcbuilder-fusion-24-intel-core-i5-12400-16gb-ddr5-1tb-windows-11-aio-desktop-pc",
-    "qty": 32,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/05/PCB-AIO-FIB24-I5161000-D5_PCBuilder-FUSION-24-inch-Intel-Core-i5-12400-16GB-DDR5-1TB-Windows-11-AiO-Desktop-PC_wr_01a.jpg"
+    "title": "PCBuilder Ryzen 5 5500 SCOUT Windows 11 Gaming PC",
+    "spec": "Ryzen 5",
+    "price": "R16 753",
+    "price_n": 16753,
+    "sku": "PCB_SCOUT_05",
+    "handle": "pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
+    "url": "/products/pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
+    "qty": 10,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SCOUT_05_wr_01e.jpg"
    },
    {
     "brand": "Lenovo",
@@ -366,7 +366,7 @@
     "sku": "13DK0011SA",
     "handle": "lenovo-tc-neo-30s-g5-intel-core-i5-13420h-4-6-ghz-1x-16gb-ddr5-5200-512gb-ssd-m-2-2280-pcie-4-0x4-nvme-opal-2-0-usb-calliope-keyboard-black-english-eu-usb-calliope-mouse-black-integrated-100-1000m",
     "url": "/products/lenovo-tc-neo-30s-g5-intel-core-i5-13420h-4-6-ghz-1x-16gb-ddr5-5200-512gb-ssd-m-2-2280-pcie-4-0x4-nvme-opal-2-0-usb-calliope-keyboard-black-english-eu-usb-calliope-mouse-black-integrated-100-1000m",
-    "qty": 25,
+    "qty": 20,
     "image": "https://s3.amazonaws.com/tarsus.co.za/13DK0011SA_default.jpg"
    },
    {
@@ -416,16 +416,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro Micro QCM1250 Core U5-235T 16GB 512GB Win 11 Pro Desktop",
-    "spec": "16GB RAM",
-    "price": "R26 520",
-    "price_n": 26520,
-    "sku": "BTO106_QCM1250",
-    "handle": "dell-pro-micro-qcm1250-core-u5-235t-16gb-512gb-win-11-pro-desktop",
-    "url": "/products/dell-pro-micro-qcm1250-core-u5-235t-16gb-512gb-win-11-pro-desktop",
-    "qty": 17,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/T/BTO106_QCM1250_2eba.jpg"
+    "brand": "Lenovo",
+    "title": "Lenovo M70s G6 Desktop PC — Core Ultra 7 · 16GB · 512GB SSD (12YQ000ESA)",
+    "spec": "Core Ultra 7 · 512GB SSD",
+    "price": "R26 696",
+    "price_n": 26696,
+    "sku": "12YQ000ESA",
+    "handle": "lenovo-m70s-g6-sff-u7-265-13-tops-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-integrated-windows-11-pro-64-intel-ax211-2x2ax-6e-bluetooth-internal-speaker-usb-trd-us-eng-usb-clp-mouse-pub-fra-ara-eng-1year",
+    "url": "/products/lenovo-m70s-g6-sff-u7-265-13-tops-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-integrated-windows-11-pro-64-intel-ax211-2x2ax-6e-bluetooth-internal-speaker-usb-trd-us-eng-usb-clp-mouse-pub-fra-ara-eng-1year",
+    "qty": 12,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/12YQ000ESA_default.jpg"
    },
    {
     "brand": "Dell",
@@ -704,16 +704,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BQSZ_default.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus ProArt 27\" QHD 1440p IPS 144Hz Monitor with USB Type-C 96W PD",
-    "spec": "27\" screen",
-    "price": "R8 647",
-    "price_n": 8647,
-    "sku": "PA278CGRV",
-    "handle": "asus-proart-27-qhd-1440p-ips-144hz-monitor-with-usb-type-c-96w-pd",
-    "url": "/products/asus-proart-27-qhd-1440p-ips-144hz-monitor-with-usb-type-c-96w-pd",
-    "qty": 19,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PA278CGRV_Asus_ProArt_27_QHD_1440p_IPS_144Hz_Monit_wr_01.png"
+    "brand": "Dell",
+    "title": "Dell Alienware 27 QHD Monitor (210-BVWB)",
+    "spec": "Monitors And Displays",
+    "price": "R8 897",
+    "price_n": 8897,
+    "sku": "210-BVWB",
+    "handle": "dell-alienware-27-240hz-qd-oled-gaming-monitor-aw2726dm-resolution-refresh-rate-2560-x-1440-at-240hz-adjustable-stand-adjustability-height-pivot-swivel-tilt-display-screen-type-flat-panel-panel",
+    "url": "/products/dell-alienware-27-240hz-qd-oled-gaming-monitor-aw2726dm-resolution-refresh-rate-2560-x-1440-at-240hz-adjustable-stand-adjustability-height-pivot-swivel-tilt-display-screen-type-flat-panel-panel",
+    "qty": 9,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BVWB_default.jpg"
    },
    {
     "brand": "Asus",
@@ -1419,7 +1419,7 @@
     "sku": "29S0215",
     "handle": "lexmark-light-compact-and-fast-the-mx431adn-multifunction-supports-output-up-to-40-pages-per-minute-2-8inch-lcd-touch-display-40ppm-512mb-duplex-100-sheet-mpf-dual-core-1-0-ghz-processor-dadf-scanner",
     "url": "/products/lexmark-light-compact-and-fast-the-mx431adn-multifunction-supports-output-up-to-40-pages-per-minute-2-8inch-lcd-touch-display-40ppm-512mb-duplex-100-sheet-mpf-dual-core-1-0-ghz-processor-dadf-scanner",
-    "qty": 24,
+    "qty": 23,
     "image": "https://s3.amazonaws.com/tarsus.co.za/29S0215_default.jpg"
    }
   ],
@@ -1620,7 +1620,7 @@
     "sku": "DOCK427GL",
     "handle": "targus-usb-c-dual-hdmi-4k-docking-station",
     "url": "/products/targus-usb-c-dual-hdmi-4k-docking-station",
-    "qty": 46,
+    "qty": 36,
     "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK427GL_default.jpg"
    }
   ]
@@ -1904,7 +1904,7 @@
     "sku": "KCP432SS8/8",
     "handle": "kingston-8gb-ddr4-3200mhz-sodimm",
     "url": "/products/kingston-8gb-ddr4-3200mhz-sodimm",
-    "qty": 17,
+    "qty": 18,
     "image": "https://s3.amazonaws.com/tarsus.co.za/KCP432SS8/8_default.jpg"
    },
    {
@@ -2065,7 +2065,7 @@
     "handle": "xiaomi-robot-vacuum-s40c",
     "url": "https://ubratech.co.za/products/xiaomi-robot-vacuum-s40c",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/BHR9664EU_Xiaomi-Robot-Vacuum-S40C_wr_02a-1.jpg",
-    "qty": 114,
+    "qty": 104,
     "sku": "BHR9664EU"
    },
    {
@@ -2081,16 +2081,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/06/YTC4040GL_wr_01.jpg"
    },
    {
-    "brand": "Hikvision",
-    "title": "Hikvision Fixed Dome Outdoor Security Camera, 4mm Lens, 2MP",
-    "spec": "2MP",
-    "price": "R1 132",
-    "price_n": 1132,
-    "sku": "DS-2CV2121G2-IDW-4",
-    "handle": "hikvision-fixed-dome-outdoor-security-camera-4mm-lens-2mp",
-    "url": "/products/hikvision-fixed-dome-outdoor-security-camera-4mm-lens-2mp",
-    "qty": 16,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/DS-2CV2121G2-IDW-wr-03.jpg"
+    "brand": "Xiaomi",
+    "title": "Xiaomi Smart Humidifier 2",
+    "spec": "Appliances",
+    "price": "R1 121",
+    "price_n": 1121,
+    "sku": "BHR6026EU",
+    "handle": "xiaomi-smart-humidifier-2",
+    "url": "/products/xiaomi-smart-humidifier-2",
+    "qty": 199,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/BHR6026EU_wr_01a.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -2248,16 +2248,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/CM748-75073_UGREEN-Bluetooth-6.0-USB-Adapter_hr01.jpeg"
    },
    {
-    "brand": "HP",
-    "title": "HP Wired 320MK combo",
-    "spec": "Accessories",
-    "price": "R414",
-    "price_n": 414,
-    "sku": "9SR36UT",
-    "handle": "hp-wired-320mk-combo",
-    "url": "/products/hp-wired-320mk-combo",
-    "qty": 9,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/9SR36UT_default.png"
+    "brand": "Winx",
+    "title": "WINX POWER Max 65W GaN Wall Charger",
+    "spec": "Power Adapter",
+    "price": "R412",
+    "price_n": 412,
+    "sku": "WX-WC108",
+    "handle": "winx-power-max-65w-gan-wall-charger",
+    "url": "/products/winx-power-max-65w-gan-wall-charger",
+    "qty": 225,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/WX-WC108_WINX-POWER-Max-65W-GaN-Wall-Charger-Black_wr_01.jpg"
    },
    {
     "brand": "HP",
@@ -2316,7 +2316,7 @@
     "sku": "AZ7B4AA",
     "handle": "hp-400-quiet-wireless-blue-mouse",
     "url": "/products/hp-400-quiet-wireless-blue-mouse",
-    "qty": 96,
+    "qty": 13,
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B4AA_ed00.jpg"
    },
    {
@@ -3164,6 +3164,6 @@
    "total": "R30 768"
   }
  ],
- "generated": "2026-11-23T14:02:05Z",
+ "generated": "2026-11-23T15:02:21Z",
  "v": 3
 }
