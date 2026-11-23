@@ -140,7 +140,7 @@
     "sku": "PV15250_RPLU_002_M_HOM",
     "handle": "dell-pro-15-essential-pv15250-i7-1355u-intel-rpl-p-u15-i7-8-layer-pcb-15-6-non-touch-fhd-120hz-wva-ips-anti-glare-250-nit-16gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-fingerprint",
     "url": "/products/dell-pro-15-essential-pv15250-i7-1355u-intel-rpl-p-u15-i7-8-layer-pcb-15-6-non-touch-fhd-120hz-wva-ips-anti-glare-250-nit-16gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-fingerprint",
-    "qty": 24,
+    "qty": 23,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
@@ -156,16 +156,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D6ZS9EA_cc0d.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 16 Plus Laptop — Core Ultra 7 · 16GB · 512GB SSD (BTO209_PB16250_EMEA)",
-    "spec": "Core Ultra 7 · 512GB SSD",
-    "price": "R38 282",
-    "price_n": 38282,
-    "sku": "BTO209_PB16250_EMEA",
-    "handle": "dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-onboard-512-gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro-processor-16",
-    "url": "/products/dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-onboard-512-gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro-processor-16",
-    "qty": 25,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO209_PB16250_EMEA_default.jpg"
+    "brand": "HP",
+    "title": "HP Elitebook 6 G1i 14\" AI Core U7-255U 16GB 512GB Win 11 Pro Notebook",
+    "spec": "14\" screen · 16GB RAM",
+    "price": "R38 451",
+    "price_n": 38451,
+    "sku": "CK8G9EA",
+    "handle": "hp-elitebook-6-g1i-14-ai-core-u7-255u-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/hp-elitebook-6-g1i-14-ai-core-u7-255u-16gb-512gb-win-11-pro-notebook",
+    "qty": 8,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/K/CK8G9EA_80b8.jpg"
    },
    {
     "brand": "Lenovo",
@@ -627,7 +627,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 299,
+    "qty": 300,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -809,7 +809,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 299,
+    "qty": 300,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -2690,16 +2690,16 @@
   },
   {
    "brand": "Grandstream",
-   "title": "Grandstream Enterprise WiFi 7 In-Wall Indoor Access Point",
-   "spec": "3,6 Gbps, 2x2:2 2.4G/5G, 1x 2.5GbE PoE,175m coverage,256 clients, Embe",
-   "price": "R2 128",
-   "price_n": 2128,
-   "uid": "UT-CBAB3810",
-   "pn": "",
-   "handle": "grandstream-enterprise-wifi-7-in-wall-indoor-access-point-gwn7670wm",
-   "url": "/pages/grandstream-enterprise-wifi-7-in-wall-indoor-access-point-gwn7670wm",
+   "title": "Grandstream Enterprise WiFi 7 Indoor Access Point",
+   "spec": "3.6Gbps, Dual-band 2x2:2 MU-MIMO, 256 client devices, 2x 2.5GbE, BLE, ",
+   "price": "R1 997",
+   "price_n": 1997,
+   "uid": "UT-B21A4B32",
+   "pn": "GWN7670E",
+   "handle": "grandstream-enterprise-wifi-7-indoor-access-point-gwn7670e",
+   "url": "/pages/grandstream-enterprise-wifi-7-indoor-access-point-gwn7670e",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/7/9/3/4/17934.jpg",
+   "image": "https://miro.co.za/img/p/1/9/4/6/1/19461.jpg",
    "enquiry": true
   },
   {
@@ -2717,31 +2717,31 @@
    "enquiry": true
   },
   {
-   "brand": "Ubiquiti",
-   "title": "Ubiquiti UniFi6 Mesh Pro Indoor/Outdoor Dual Band WiFi6 Access Point",
-   "spec": "No PoE Injector included, Indoor AP - 350+ concurrent client capacity,",
-   "price": "R4 694",
-   "price_n": 4694,
-   "uid": "UT-E38A72AF",
-   "pn": "U6-MESH-PRO",
-   "handle": "ubiquiti-unifi6-mesh-pro-indoor-outdoor-dual-band-wifi6-access-point-u6-mesh-pro",
-   "url": "/pages/ubiquiti-unifi6-mesh-pro-indoor-outdoor-dual-band-wifi6-access-point-u6-mesh-pro",
+   "brand": "TP-Link Omada",
+   "title": "TP-Link Omada Tri-Band Wi-Fi 7 Outdoor AP",
+   "spec": "1×2.5G RJ45 Port, 688 Mbps (2.4 GHz) + 2882 Mbps (5 GHz) + 5765 Mbps (",
+   "price": "R4 525",
+   "price_n": 4525,
+   "uid": "UT-0ECC68AF",
+   "pn": "EAP772-Outdoor",
+   "handle": "tp-link-omada-tri-band-wi-fi-7-outdoor-ap-eap772-o",
+   "url": "/pages/tp-link-omada-tri-band-wi-fi-7-outdoor-ap-eap772-o",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/4/0/8/5/14085.jpg",
+   "image": "https://miro.co.za/img/p/1/8/1/0/2/18102.jpg",
    "enquiry": true
   },
   {
-   "brand": "TP-Link",
-   "title": "TP-Link EAP225-O Promotion: Buy 20 X EAP225-O And Get 1 Free OC200",
-   "spec": "Buy 5 x TP-EAP670 Get 1 x TP-EAP670 Free",
-   "price": "R21 377",
-   "price_n": 21377,
-   "uid": "UT-BCCD4FFE",
-   "pn": "TP-PROMO9",
-   "handle": "tp-link-eap225-o-promotion-buy-20-x-eap225-o-and-get-1-free-oc200",
-   "url": "/pages/tp-link-eap225-o-promotion-buy-20-x-eap225-o-and-get-1-free-oc200",
+   "brand": "Cambium Networks",
+   "title": "Cambium cnPilot Enterprise WiFi 6 120° Outdoor AP",
+   "spec": "2x2 Dual Band 802.11ax, 30W PoE out, 1 x 2.5 Gb Port, 1 x Gb Port, PoE",
+   "price": "R15 300",
+   "price_n": 15300,
+   "uid": "UT-F53F19CD",
+   "pn": "XV2-2T1XA10-RW",
+   "handle": "cambium-cnpilot-enterprise-wifi-6-120-outdoor-ap-cnp-xv-2t1",
+   "url": "/pages/cambium-cnpilot-enterprise-wifi-6-120-outdoor-ap-cnp-xv-2t1",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/8/8/7/4/8874.jpg",
+   "image": "https://miro.co.za/img/p/8/5/0/0/8500.jpg",
    "enquiry": true
   }
  ],
@@ -3069,7 +3069,7 @@
      "sku": "ST2000VX017",
      "handle": "seagate-skyhawk-surveillance-2tb-3-5-sata-internal-hdd",
      "url": "/products/seagate-skyhawk-surveillance-2tb-3-5-sata-internal-hdd",
-     "qty": 141,
+     "qty": 120,
      "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST2000VX017_9199.jpg",
      "role": "Storage",
      "note": "Built to record all day",
@@ -3176,6 +3176,6 @@
    "total": "R30 768"
   }
  ],
- "generated": "2026-11-23T06:16:22Z",
+ "generated": "2026-11-23T07:02:12Z",
  "v": 3
 }
