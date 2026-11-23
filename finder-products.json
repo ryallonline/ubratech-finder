@@ -272,7 +272,7 @@
     "sku": "F108D-FV-N10040N0G-GIA",
     "handle": "giada-f108d-intel-n100-1xddr4-3200-mhz-2xhdmi",
     "url": "/products/giada-f108d-intel-n100-1xddr4-3200-mhz-2xhdmi",
-    "qty": 78,
+    "qty": 70,
     "image": "https://www.syntech.co.za/wp-content/uploads/2023/10/F108D-FV-N10040N0G-GIA_wr_01b.jpg"
    },
    {
@@ -354,7 +354,7 @@
     "sku": "PCB-AIO-FIB24-I5161000-D5",
     "handle": "pcbuilder-fusion-24-intel-core-i5-12400-16gb-ddr5-1tb-windows-11-aio-desktop-pc",
     "url": "/products/pcbuilder-fusion-24-intel-core-i5-12400-16gb-ddr5-1tb-windows-11-aio-desktop-pc",
-    "qty": 33,
+    "qty": 32,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/05/PCB-AIO-FIB24-I5161000-D5_PCBuilder-FUSION-24-inch-Intel-Core-i5-12400-16GB-DDR5-1TB-Windows-11-AiO-Desktop-PC_wr_01a.jpg"
    },
    {
@@ -637,7 +637,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 275,
+    "qty": 270,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -819,7 +819,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 275,
+    "qty": 270,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -1584,7 +1584,7 @@
     "sku": "CR113-20290",
     "handle": "ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
     "url": "/products/ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
-    "qty": 59,
+    "qty": 56,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CR113-20290_UGREEN-4-Port-USB-3.0-Hub-with-Micro-USB_wr_01a.jpg"
    },
    {
@@ -1830,7 +1830,7 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 193,
+    "qty": 192,
     "sku": "HS-SSD-WAVE-P-1024G"
    },
    {
@@ -1869,16 +1869,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/10/P300P512GM28_wr_01.jpg"
    },
    {
-    "brand": "Proline",
-    "title": "Proline KINGSTON 1000G NV3 M.2 PCIe 4.0 NVMe SSD",
+    "brand": "Kingston",
+    "title": "Kingston 1TB XS1000 External USB 3.2 Gen 2 Portable Solid State Drive",
     "spec": "Storage",
-    "price": "R5 344",
-    "price_n": 5344,
-    "sku": "SNV3SM3-1T0",
-    "handle": "proline-kingston-1000g-nv3-m-2-pcie-4-0-nvme-ssd",
-    "url": "/products/proline-kingston-1000g-nv3-m-2-pcie-4-0-nvme-ssd",
-    "qty": 20,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SNV3SM3/1T0_default.jpg"
+    "price": "R5 159",
+    "price_n": 5159,
+    "sku": "SXS1000/1000G",
+    "handle": "kingston-1tb-xs1000-external-usb-3-2-gen-2-portable-solid-state-drive",
+    "url": "/products/kingston-1tb-xs1000-external-usb-3-2-gen-2-portable-solid-state-drive",
+    "qty": 4,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SXS1000/1000G_default.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -1952,7 +1952,7 @@
     "handle": "asus-tuf-gaming-geforce-rtx-5070-12gb-gddr7-oc-edition",
     "url": "https://ubratech.co.za/products/asus-tuf-gaming-geforce-rtx-5070-12gb-gddr7-oc-edition",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/TUF-RTX5070-O12G-GAMING-wr-01.jpg",
-    "qty": 4,
+    "qty": 3,
     "sku": "TUF-RTX5070-O12G-GAMING"
    },
    {
@@ -2186,16 +2186,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/BHR8930GL_wr_01.jpg"
    },
    {
-    "brand": "Logitech",
-    "title": "Logitech Compact stereo speakers with 6W peak power. Dual input…",
-    "spec": "Headsets",
-    "price": "R536",
-    "price_n": 536,
-    "sku": "980-000814",
-    "handle": "logitech-compact-stereo-speakers-with-6w-peak-power-dual-input-3-5-mm-aux-for-connecting-two-devices-front-facing-volume-and-headphone-jack",
-    "url": "/products/logitech-compact-stereo-speakers-with-6w-peak-power-dual-input-3-5-mm-aux-for-connecting-two-devices-front-facing-volume-and-headphone-jack",
-    "qty": 5,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/980-000814_default.png"
+    "brand": "Ugreen",
+    "title": "UGREEN HiTune S5 Open-Ear TWS Earbuds–Black",
+    "spec": "Tv And Audio",
+    "price": "R516",
+    "price_n": 516,
+    "sku": "WS210-45760",
+    "handle": "ugreen-hitune-s5-open-ear-tws-earbuds-black",
+    "url": "/products/ugreen-hitune-s5-open-ear-tws-earbuds-black",
+    "qty": 8,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/6941876247608_WS210-45760_02.jpg"
    },
    {
     "brand": "HP",
@@ -2258,28 +2258,28 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "ASRock",
-    "title": "ASRock DESKMINI Vesa Mount Kit",
-    "spec": "Accessories",
-    "price": "R127",
-    "price_n": 127,
-    "sku": "90-BXG2T0-A0XCR3W",
-    "handle": "asrock-deskmini-vesa-mount-kit",
-    "url": "/products/asrock-deskmini-vesa-mount-kit",
-    "qty": 5,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/90-BXG2T0-A0XCR3W_wr_01.jpg"
+    "brand": "Ugreen",
+    "title": "UGREEN Cat8 Nylon Braided Ethernet Cable - 40Gbps with Modular Plugs - 5m",
+    "spec": "Cables And Adapters",
+    "price": "R128",
+    "price_n": 128,
+    "sku": "NW153-80433",
+    "handle": "ugreen-cat8-nylon-braided-ethernet-cable-40gbps-with-modular-plugs-5m",
+    "url": "/products/ugreen-cat8-nylon-braided-ethernet-cable-40gbps-with-modular-plugs-5m",
+    "qty": 22,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/nw153-wr-02.jpg"
    },
    {
-    "brand": "TP-Link",
-    "title": "TP-Link AX1800 USB Wireless Adapter",
-    "spec": "Cables And Adapters",
-    "price": "R414",
-    "price_n": 414,
-    "sku": "ARCHER-TX20U",
-    "handle": "tp-link-ax1800-usb-wireless-adapter",
-    "url": "/products/tp-link-ax1800-usb-wireless-adapter",
-    "qty": 9,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/R/ARCHER_TX20U_cdc8.jpg"
+    "brand": "Winx",
+    "title": "WINX POWER Max 65W GaN Wall Charger",
+    "spec": "Power Adapter",
+    "price": "R412",
+    "price_n": 412,
+    "sku": "WX-WC108",
+    "handle": "winx-power-max-65w-gan-wall-charger",
+    "url": "/products/winx-power-max-65w-gan-wall-charger",
+    "qty": 225,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/WX-WC108_WINX-POWER-Max-65W-GaN-Wall-Charger-Black_wr_01.jpg"
    },
    {
     "brand": "HP",
@@ -2452,7 +2452,7 @@
     "sku": "DS-2CD2346G2H-IS2U-SL-2.8MM",
     "handle": "hikvision-4mp-acusense-strobe-light-audible-warning-fixed-turret-ip-camera",
     "url": "/products/hikvision-4mp-acusense-strobe-light-audible-warning-fixed-turret-ip-camera",
-    "qty": 53,
+    "qty": 33,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2346G2H_IS2U_SL_2.8MM_98ea.jpg"
    },
    {
@@ -3079,7 +3079,7 @@
      "sku": "ST2000VX017",
      "handle": "seagate-skyhawk-surveillance-2tb-3-5-sata-internal-hdd",
      "url": "/products/seagate-skyhawk-surveillance-2tb-3-5-sata-internal-hdd",
-     "qty": 120,
+     "qty": 100,
      "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST2000VX017_9199.jpg",
      "role": "Storage",
      "note": "Built to record all day",
@@ -3186,6 +3186,6 @@
    "total": "R30 768"
   }
  ],
- "generated": "2026-11-23T09:03:15Z",
+ "generated": "2026-11-23T10:03:20Z",
  "v": 3
 }
