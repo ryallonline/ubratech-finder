@@ -94,16 +94,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/X/1/X1504VAP_I382BL0W_a78d.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 15 15.6\" Core-i5 8GB 512GB Win 11 Pro Notebook",
-    "spec": "Core i5 · 15.6\" screen · 8GB RAM",
-    "price": "R15 991",
-    "price_n": 15991,
-    "sku": "PV15250_RPLU_001_P8L",
-    "handle": "dell-pro-15-15-6-core-i5-8gb-512gb-win-11-pro-notebook",
-    "url": "/products/dell-pro-15-15-6-core-i5-8gb-512gb-win-11-pro-notebook",
-    "qty": 6,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/P/V/PV15250_RPLU_001_P8L_f32d.jpg"
+    "brand": "Acer",
+    "title": "Acer EXO16 51 53W7 Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.EM3EA.004)",
+    "spec": "Core Ultra 5 · 512GB SSD",
+    "price": "R16 747",
+    "price_n": 16747,
+    "sku": "NX.EM3EA.004",
+    "handle": "acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
+    "url": "/products/acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
+    "qty": 56,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.004_default.jpg"
    },
    {
     "brand": "HP",
@@ -637,7 +637,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 267,
+    "qty": 265,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -819,7 +819,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 267,
+    "qty": 265,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -1262,7 +1262,7 @@
     "sku": "DVB4484GL",
     "handle": "xiaomi-mesh-system-ac1200-3-pack",
     "url": "/products/xiaomi-mesh-system-ac1200-3-pack",
-    "qty": 27,
+    "qty": 75,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/DVB4484GL_wr_01.jpg"
    },
    {
@@ -1508,7 +1508,7 @@
     "sku": "470-BGCG",
     "handle": "dell-pro-7-in-1-usb-c-mobile-docking-station",
     "url": "/products/dell-pro-7-in-1-usb-c-mobile-docking-station",
-    "qty": 65,
+    "qty": 52,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__23__d7c1.png"
    },
    {
@@ -2081,40 +2081,40 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/06/YTC4040GL_wr_01.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi Smart Humidifier 2",
-    "spec": "Appliances",
-    "price": "R1 121",
-    "price_n": 1121,
-    "sku": "BHR6026EU",
-    "handle": "xiaomi-smart-humidifier-2",
-    "url": "/products/xiaomi-smart-humidifier-2",
-    "qty": 199,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/BHR6026EU_wr_01a.jpg"
+    "brand": "Hikvision",
+    "title": "Hikvision Fixed Dome Outdoor Security Camera, 4mm Lens, 2MP",
+    "spec": "2MP",
+    "price": "R1 132",
+    "price_n": 1132,
+    "sku": "DS-2CV2121G2-IDW-4",
+    "handle": "hikvision-fixed-dome-outdoor-security-camera-4mm-lens-2mp",
+    "url": "/products/hikvision-fixed-dome-outdoor-security-camera-4mm-lens-2mp",
+    "qty": 16,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/DS-2CV2121G2-IDW-wr-03.jpg"
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi Smart Air Purifier 4 Compact EU",
-    "spec": "Appliances",
-    "price": "R2 048",
-    "price_n": 2048,
-    "sku": "BHR5860EU",
-    "handle": "xiaomi-smart-air-purifier-4-compact-eu",
-    "url": "/products/xiaomi-smart-air-purifier-4-compact-eu",
-    "qty": 199,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/06/BHR5860EU_wr_01.jpg"
+    "title": "Xiaomi Smart Camera C500 Dual (4MP, 360° PTZ, AI Detection, Night Vision)",
+    "spec": "4MP",
+    "price": "R2 045",
+    "price_n": 2045,
+    "sku": "BHR8755EU",
+    "handle": "xiaomi-smart-camera-c500-dual-4mp-360-ptz-ai-detection-night-vision",
+    "url": "/products/xiaomi-smart-camera-c500-dual-4mp-360-ptz-ai-detection-night-vision",
+    "qty": 21,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/Xiaomi-Smart-Camera-C500-Dual-Front.jpg"
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi Mijia Smart Air Purifier with Humidification Pro",
+    "title": "Xiaomi Smart Double Stack Air Fryer 12L",
     "spec": "Appliances",
-    "price": "R10 240",
-    "price_n": 10240,
-    "sku": "BHR09D9EU",
-    "handle": "xiaomi-mijia-smart-air-purifier-with-humidification-pro",
-    "url": "/products/xiaomi-mijia-smart-air-purifier-with-humidification-pro",
-    "qty": 4,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/BHR09D9EU_Xiaomi_Mijia_Smart_Air_Purifier_with_Hum_wr_01.png"
+    "price": "R4 658",
+    "price_n": 4658,
+    "sku": "BHR0883EU",
+    "handle": "xiaomi-smart-double-stack-air-fryer-12l",
+    "url": "/products/xiaomi-smart-double-stack-air-fryer-12l",
+    "qty": 84,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/BHR0883EU_Xiaomi-Smart-Double-Stack-Air-Fryer-12L_wr_01a.jpg"
    }
   ],
   "audio": [
@@ -2126,7 +2126,7 @@
     "handle": "xiaomi-soundbar-2-0ch",
     "url": "https://ubratech.co.za/products/xiaomi-soundbar-2-0ch",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/QBH4286EU_Xiaomi-Soundbar-2.0ch_wr_01.jpg",
-    "qty": 82,
+    "qty": 113,
     "sku": "QBH4286EU"
    },
    {
@@ -2373,15 +2373,15 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Fixed Bullet Network Camera",
+    "title": "Hikvision 4MP Acusense Strobe Light Audible Warning Fixed Turret IP Camera",
     "spec": "4MP",
-    "price": "R3 221",
-    "price_n": 3221,
-    "sku": "DS-2CD2T46G2H-2I-2.8MM",
-    "handle": "hikvision-4mp-fixed-bullet-network-camera",
-    "url": "/products/hikvision-4mp-fixed-bullet-network-camera",
-    "qty": 103,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_2.8MM_1_e9e9.png"
+    "price": "R3 385",
+    "price_n": 3385,
+    "sku": "DS-2CD2346G2H-IS2U-SL-2.8MM",
+    "handle": "hikvision-4mp-acusense-strobe-light-audible-warning-fixed-turret-ip-camera",
+    "url": "/products/hikvision-4mp-acusense-strobe-light-audible-warning-fixed-turret-ip-camera",
+    "qty": 33,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2346G2H_IS2U_SL_2.8MM_98ea.jpg"
    },
    {
     "brand": "Hikvision",
@@ -2473,15 +2473,15 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Darkfighter Fiexed Bullet IP Camera",
+    "title": "Hikvision 4MP Smart Hybrid ColorVu Bullet IP Camera",
     "spec": "4MP",
-    "price": "R3 533",
-    "price_n": 3533,
-    "sku": "DS-2CD2T46G2H-4I-4MM",
-    "handle": "hikvision-4mp-darkfighter-fiexed-bullet-ip-camera",
-    "url": "/products/hikvision-4mp-darkfighter-fiexed-bullet-ip-camera",
-    "qty": 163,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_4I_4MM_1_ef81.png"
+    "price": "R3 594",
+    "price_n": 3594,
+    "sku": "DS-2CD2T47G3-LIY-2.8MM",
+    "handle": "hikvision-4mp-smart-hybrid-colorvu-bullet-ip-camera",
+    "url": "/products/hikvision-4mp-smart-hybrid-colorvu-bullet-ip-camera",
+    "qty": 17,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__30__be02.png"
    },
    {
     "brand": "Hikvision",
@@ -3057,7 +3057,7 @@
      "sku": "ST2000VX017",
      "handle": "seagate-skyhawk-surveillance-2tb-3-5-sata-internal-hdd",
      "url": "/products/seagate-skyhawk-surveillance-2tb-3-5-sata-internal-hdd",
-     "qty": 95,
+     "qty": 94,
      "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST2000VX017_9199.jpg",
      "role": "Storage",
      "note": "Built to record all day",
@@ -3164,6 +3164,6 @@
    "total": "R30 768"
   }
  ],
- "generated": "2026-11-23T13:02:05Z",
+ "generated": "2026-11-23T14:02:05Z",
  "v": 3
 }
