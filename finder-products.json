@@ -56,7 +56,7 @@
     "sku": "83GW006CZA",
     "handle": "lenovo-v15-iru-i3-1315u-8gb-base-ddr5-256gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-15-6-fhd-tn-hd-camera-wi-fi-ax-2x2-bt-no-fpr-3-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
     "url": "/products/lenovo-v15-iru-i3-1315u-8gb-base-ddr5-256gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-15-6-fhd-tn-hd-camera-wi-fi-ax-2x2-bt-no-fpr-3-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
-    "qty": 12,
+    "qty": 11,
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    }
   ],
@@ -68,7 +68,7 @@
     "price": "R12 989",
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
-    "qty": 12,
+    "qty": 11,
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
@@ -102,7 +102,7 @@
     "sku": "NX.EM3EA.004",
     "handle": "acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
     "url": "/products/acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
-    "qty": 57,
+    "qty": 56,
     "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.004_default.jpg"
    },
    {
@@ -144,16 +144,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 14 Essential PV14255 Laptop — 16GB (PV14255_KRK_501)",
-    "spec": "Notebooks",
-    "price": "R29 001",
-    "price_n": 29001,
-    "sku": "PV14255_KRK_501",
-    "handle": "dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
-    "url": "/products/dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
-    "qty": 38,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/PV14255_KRK_501_default.jpg"
+    "brand": "Lenovo",
+    "title": "Lenovo LOQ 15AHP10 15.6\" Ryzen-7 16GB 1TB Win 11 Home Notebook",
+    "spec": "Ryzen 7 · 15.6\" screen · 16GB RAM",
+    "price": "R29 028",
+    "price_n": 29028,
+    "sku": "83JG001CSA",
+    "handle": "lenovo-loq-15ahp10-15-6-ryzen-7-16gb-1tb-win-11-home-notebook",
+    "url": "/products/lenovo-loq-15ahp10-15-6-ryzen-7-16gb-1tb-win-11-home-notebook",
+    "qty": 14,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/8/3/83JG001CSA__2__40b1.jpg"
    },
    {
     "brand": "HP",
@@ -224,7 +224,7 @@
     "sku": "XPS14DA14260-321TB-OLED",
     "handle": "dell-xps-14-da14260-series-3-intel-core-ultra-x7-processor-358h-16-cores-18mb-cache-up-to-4-8-ghz-copilot-pc-intel-arc-graphics-32gb-lpddr5x-dual-channel-at-9600-mt-s-1tb-m-2-pcie-nvme-ssd-colour",
     "url": "/products/dell-xps-14-da14260-series-3-intel-core-ultra-x7-processor-358h-16-cores-18mb-cache-up-to-4-8-ghz-copilot-pc-intel-arc-graphics-32gb-lpddr5x-dual-channel-at-9600-mt-s-1tb-m-2-pcie-nvme-ssd-colour",
-    "qty": 5,
+    "qty": 4,
     "image": "https://s3.amazonaws.com/tarsus.co.za/XPS14DA14260-321TB-OLED_default.jpg"
    },
    {
@@ -260,7 +260,7 @@
     "price": "R20 147",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 70,
+    "qty": 50,
     "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    },
    {
@@ -320,7 +320,7 @@
     "price": "R20 147",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 70,
+    "qty": 50,
     "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    },
    {
@@ -448,7 +448,7 @@
     "sku": "PW516261-U7-321TB-5G",
     "handle": "dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
     "url": "/products/dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
-    "qty": 19,
+    "qty": 18,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PW516261-U7-321TB-5G_default.jpg"
    }
   ],
@@ -473,7 +473,7 @@
     "sku": "PW516261-U7-321TB-5G",
     "handle": "dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
     "url": "/products/dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
-    "qty": 19,
+    "qty": 18,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PW516261-U7-321TB-5G_default.jpg"
    }
   ]
@@ -637,7 +637,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 270,
+    "qty": 269,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -666,16 +666,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPH_default.jpg"
    },
    {
-    "brand": "MSI",
-    "title": "MSI MAG 275F E20 27\" FHD 200Hz Rapid IPS Gaming Monitor",
+    "brand": "Xiaomi",
+    "title": "Xiaomi G27i 2026 27″ 200Hz Full HD 1080p IPS Gaming Monitor",
     "spec": "27\" screen",
-    "price": "R3 249",
-    "price_n": 3249,
-    "sku": "MAG 275F E20",
-    "handle": "msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
-    "url": "/products/msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
-    "qty": 15,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-275F-E20_MSI-MAG-275F-E20-27inch-FHD-200Hz-Gaming-Montor-wr01.jpeg"
+    "price": "R3 251",
+    "price_n": 3251,
+    "sku": "ELA6370EU",
+    "handle": "xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
+    "url": "/products/xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
+    "qty": 89,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6370EU_Xiaomi-G27i-2026-27%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -700,7 +700,7 @@
     "sku": "210-BQSZ",
     "handle": "dell-pro-27-plus-qhd-usb-c-hub-monitor-p2725de-68-6cm-27-0",
     "url": "/products/dell-pro-27-plus-qhd-usb-c-hub-monitor-p2725de-68-6cm-27-0",
-    "qty": 35,
+    "qty": 31,
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BQSZ_default.jpg"
    },
    {
@@ -819,7 +819,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 270,
+    "qty": 269,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -836,16 +836,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
-    "brand": "MSI",
-    "title": "MSI MAG 255F X24 25″ FHD 240Hz IPS Gaming Monitor",
-    "spec": "25\" screen",
-    "price": "R2 661",
-    "price_n": 2661,
-    "sku": "MAG 255F X24",
-    "handle": "msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
-    "url": "/products/msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
-    "qty": 136,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-X24_MSI-MAG-255F-X24-25-inch-FHD-240Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
+    "brand": "Xiaomi",
+    "title": "Xiaomi G24i 2026 24″ 200Hz Full HD 1080p IPS Gaming Monitor",
+    "spec": "24\" screen",
+    "price": "R2 660",
+    "price_n": 2660,
+    "sku": "ELA6364EU",
+    "handle": "xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
+    "url": "/products/xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
+    "qty": 203,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6364EU_Xiaomi-G24i-2026-24%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
    },
    {
     "brand": "Dell",
@@ -920,7 +920,7 @@
     "sku": "5E1600UI",
     "handle": "eaton-5e-1600va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-1600va-gen2-usb-iec-ups",
-    "qty": 25,
+    "qty": 22,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
    },
    {
@@ -960,7 +960,7 @@
     "price": "R904",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 390,
+    "qty": 385,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png",
     "sku": "DS-UPS1000-SA"
    },
@@ -985,7 +985,7 @@
     "sku": "5E900UI",
     "handle": "eaton-5e-900va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-900va-gen2-usb-iec-ups",
-    "qty": 37,
+    "qty": 33,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E900UI_761f.png"
    },
    {
@@ -1009,7 +1009,7 @@
     "sku": "5E1600UI",
     "handle": "eaton-5e-1600va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-1600va-gen2-usb-iec-ups",
-    "qty": 25,
+    "qty": 22,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
    },
    {
@@ -1035,7 +1035,7 @@
     "price": "R2 879",
     "handle": "eaton-5e-1600va-gen2-usb-iec-ups",
     "url": "https://ubratech.co.za/products/eaton-5e-1600va-gen2-usb-iec-ups",
-    "qty": 25,
+    "qty": 22,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png",
     "sku": "5E1600UI"
    },
@@ -1584,7 +1584,7 @@
     "sku": "CR113-20290",
     "handle": "ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
     "url": "/products/ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
-    "qty": 56,
+    "qty": 55,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CR113-20290_UGREEN-4-Port-USB-3.0-Hub-with-Micro-USB_wr_01a.jpg"
    },
    {
@@ -1651,28 +1651,28 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS105_wr_01.jpg"
    },
    {
-    "brand": "Logitech",
-    "title": "Logitech H540 USB Computer Headset with HD Sound and On-Ear… (981-000480)",
+    "brand": "HP",
+    "title": "HP Poly Mission 415 Monaural USB Wired Headset Classic.",
     "spec": "Headsets",
-    "price": "R675",
-    "price_n": 675,
-    "sku": "981-000480",
-    "handle": "logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
-    "url": "/products/logitech-h540-usb-computer-headset-with-hd-sound-and-on-ear-controls-hd-audio-with-laser-tuned-drivers-and-integrated-eq-for-rich-sound-noise-canceling-mic-reduces-ambient-distractions-on-ear-volume",
-    "qty": 51,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/981-000480_default.jpg"
+    "price": "R704",
+    "price_n": 704,
+    "sku": "C01A9AA",
+    "handle": "hp-poly-mission-415-monaural-usb-wired-headset-classic",
+    "url": "/products/hp-poly-mission-415-monaural-usb-wired-headset-classic",
+    "qty": 35,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/C01A9AA_default.png"
    },
    {
-    "brand": "Port",
-    "title": "Port 912001 Wired Headset",
+    "brand": "Winx",
+    "title": "WINX CALL Elite AI Noise Cancelling Wireless Headset",
     "spec": "Headsets",
-    "price": "R1 245",
-    "price_n": 1245,
-    "sku": "912001",
-    "handle": "port-912001-wired-headset",
-    "url": "/products/port-912001-wired-headset",
-    "qty": 52,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__7439.png"
+    "price": "R1 320",
+    "price_n": 1320,
+    "sku": "WX-HS114",
+    "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
+    "url": "/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
+    "qty": 108,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg"
    },
    {
     "brand": "HP",
@@ -1830,7 +1830,7 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 192,
+    "qty": 172,
     "sku": "HS-SSD-WAVE-P-1024G"
    },
    {
@@ -1857,16 +1857,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DTKNG2/64GB_default.jpg"
    },
    {
-    "brand": "Patriot",
-    "title": "Patriot P300 512GB M.2 PCIe NVMe SSD",
+    "brand": "Targus",
+    "title": "Targus Hyper HyperDrive EcoSmart USB4 SSD Enclosure",
     "spec": "Storage",
-    "price": "R1 988",
-    "price_n": 1988,
-    "sku": "P300P512GM28",
-    "handle": "patriot-p300-512gb-m-2-pcie-nvme-ssd",
-    "url": "/products/patriot-p300-512gb-m-2-pcie-nvme-ssd",
-    "qty": 207,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2021/10/P300P512GM28_wr_01.jpg"
+    "price": "R2 002",
+    "price_n": 2002,
+    "sku": "HD5001GL",
+    "handle": "targus-hyper-hyperdrive-ecosmart-usb4-ssd-enclosure",
+    "url": "/products/targus-hyper-hyperdrive-ecosmart-usb4-ssd-enclosure",
+    "qty": 5,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/HD5001GL_default.png"
    },
    {
     "brand": "Kingston",
@@ -1945,17 +1945,6 @@
   ],
   "graphics": [
    {
-    "brand": "Asus",
-    "title": "Asus TUF Gaming RTX 5070 12GB GDDR7 OC",
-    "spec": "Desktop PCIe · high-detail gaming",
-    "price": "R21 037",
-    "handle": "asus-tuf-gaming-geforce-rtx-5070-12gb-gddr7-oc-edition",
-    "url": "https://ubratech.co.za/products/asus-tuf-gaming-geforce-rtx-5070-12gb-gddr7-oc-edition",
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/TUF-RTX5070-O12G-GAMING-wr-01.jpg",
-    "qty": 3,
-    "sku": "TUF-RTX5070-O12G-GAMING"
-   },
-   {
     "brand": "MSI",
     "title": "MSI Nvidia GeForce GT 710 2GD3H 2GB 64-BIT 4x HDMI Graphics Card",
     "spec": "Graphics Cards",
@@ -1969,27 +1958,27 @@
    },
    {
     "brand": "Asus",
-    "title": "ASUS Dual GeForce RTX 5060 Ti OC Edition 16GB GDDR7 Graphics Card",
+    "title": "ASUS Dual GeForce RTX 5060 OC Edition 8GB GDDR7 Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R20 012",
-    "price_n": 20012,
-    "sku": "DUAL-RTX5060TI-O16G",
-    "handle": "asus-dual-geforce-rtx-5060-ti-oc-edition-16gb-gddr7-graphics-card",
-    "url": "/products/asus-dual-geforce-rtx-5060-ti-oc-edition-16gb-gddr7-graphics-card",
-    "qty": 9,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/04/DUAL-RTX5060TI-O16G-WR-01.jpg"
+    "price": "R12 565",
+    "price_n": 12565,
+    "sku": "DUAL-RTX5060-O8G",
+    "handle": "asus-dual-geforce-rtx-5060-oc-edition-8gb-gddr7-graphics-card",
+    "url": "/products/asus-dual-geforce-rtx-5060-oc-edition-8gb-gddr7-graphics-card",
+    "qty": 13,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/04/DUAL-RTX5060-O8G-WR-01-1.jpg"
    },
    {
-    "brand": "ASRock",
-    "title": "ASRock Radeon RX9070 XT Steel Legend Dark 16GB Graphics Card",
+    "brand": "MSI",
+    "title": "MSI GeForce RTX 5070 Ti 16G VENTUS 3X OC Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R27 641",
-    "price_n": 27641,
-    "sku": "RX9070XTSTEELLEGENDDARK16",
-    "handle": "asrock-radeon-rx9070-xt-steel-legend-dark-16gb-graphics-card",
-    "url": "/products/asrock-radeon-rx9070-xt-steel-legend-dark-16gb-graphics-card",
-    "qty": 28,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/RX9070XTSTEELLEGENDDARK16_ASROCK-RADEON-RX9070-XT-STEEL-LEGEND-DAR_wr_01.jpg"
+    "price": "R29 425",
+    "price_n": 29425,
+    "sku": "RTX5070TIVENTUS3XOC16GB",
+    "handle": "msi-geforce-rtx-5070-ti-16g-ventus-3x-oc-graphics-card",
+    "url": "/products/msi-geforce-rtx-5070-ti-16g-ventus-3x-oc-graphics-card",
+    "qty": 4,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/MSI_RTX5070TIVENTUS3XOC16GB_wr_01a.jpg"
    },
    {
     "brand": "Asus",
@@ -2087,7 +2076,7 @@
     "handle": "xiaomi-robot-vacuum-s40c",
     "url": "https://ubratech.co.za/products/xiaomi-robot-vacuum-s40c",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/BHR9664EU_Xiaomi-Robot-Vacuum-S40C_wr_02a-1.jpg",
-    "qty": 106,
+    "qty": 114,
     "sku": "BHR9664EU"
    },
    {
@@ -2123,7 +2112,7 @@
     "sku": "BHR5860EU",
     "handle": "xiaomi-smart-air-purifier-4-compact-eu",
     "url": "/products/xiaomi-smart-air-purifier-4-compact-eu",
-    "qty": 107,
+    "qty": 199,
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/06/BHR5860EU_wr_01.jpg"
    },
    {
@@ -2170,7 +2159,7 @@
     "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
     "url": "https://ubratech.co.za/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg",
-    "qty": 110,
+    "qty": 108,
     "sku": "WX-HS114"
    },
    {
@@ -2186,28 +2175,28 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/BHR8930GL_wr_01.jpg"
    },
    {
-    "brand": "Ugreen",
-    "title": "UGREEN HiTune S5 Open-Ear TWS Earbuds–Black",
-    "spec": "Tv And Audio",
-    "price": "R516",
-    "price_n": 516,
-    "sku": "WS210-45760",
-    "handle": "ugreen-hitune-s5-open-ear-tws-earbuds-black",
-    "url": "/products/ugreen-hitune-s5-open-ear-tws-earbuds-black",
-    "qty": 8,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/6941876247608_WS210-45760_02.jpg"
+    "brand": "Logitech",
+    "title": "Logitech Compact stereo speakers with 6W peak power. Dual input…",
+    "spec": "Headsets",
+    "price": "R536",
+    "price_n": 536,
+    "sku": "980-000814",
+    "handle": "logitech-compact-stereo-speakers-with-6w-peak-power-dual-input-3-5-mm-aux-for-connecting-two-devices-front-facing-volume-and-headphone-jack",
+    "url": "/products/logitech-compact-stereo-speakers-with-6w-peak-power-dual-input-3-5-mm-aux-for-connecting-two-devices-front-facing-volume-and-headphone-jack",
+    "qty": 5,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/980-000814_default.png"
    },
    {
-    "brand": "HP",
-    "title": "HP HyperX Cloud Stinger 3 Wired Gaming Headset Black",
+    "brand": "Nearity",
+    "title": "Nearity AW-SP100 Wireless Speakerphone",
     "spec": "Headsets",
-    "price": "R1 081",
-    "price_n": 1081,
-    "sku": "BS1T5AA",
-    "handle": "hp-hyperx-cloud-stinger-3-wired-gaming-headset-black",
-    "url": "/products/hp-hyperx-cloud-stinger-3-wired-gaming-headset-black",
-    "qty": 22,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/S/BS1T5AA_5dbd.jpg"
+    "price": "R1 132",
+    "price_n": 1132,
+    "sku": "AW-SP100",
+    "handle": "nearity-aw-sp100-wireless-speakerphone",
+    "url": "/products/nearity-aw-sp100-wireless-speakerphone",
+    "qty": 15,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_Design__67__28ea.png"
    },
    {
     "brand": "Poly",
@@ -2258,28 +2247,28 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "Ugreen",
-    "title": "UGREEN Cat8 Nylon Braided Ethernet Cable - 40Gbps with Modular Plugs - 5m",
-    "spec": "Cables And Adapters",
-    "price": "R128",
-    "price_n": 128,
-    "sku": "NW153-80433",
-    "handle": "ugreen-cat8-nylon-braided-ethernet-cable-40gbps-with-modular-plugs-5m",
-    "url": "/products/ugreen-cat8-nylon-braided-ethernet-cable-40gbps-with-modular-plugs-5m",
-    "qty": 22,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/nw153-wr-02.jpg"
+    "brand": "ASRock",
+    "title": "ASRock DESKMINI Vesa Mount Kit",
+    "spec": "Accessories",
+    "price": "R127",
+    "price_n": 127,
+    "sku": "90-BXG2T0-A0XCR3W",
+    "handle": "asrock-deskmini-vesa-mount-kit",
+    "url": "/products/asrock-deskmini-vesa-mount-kit",
+    "qty": 5,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/90-BXG2T0-A0XCR3W_wr_01.jpg"
    },
    {
-    "brand": "Winx",
-    "title": "WINX POWER Max 65W GaN Wall Charger",
-    "spec": "Power Adapter",
-    "price": "R412",
-    "price_n": 412,
-    "sku": "WX-WC108",
-    "handle": "winx-power-max-65w-gan-wall-charger",
-    "url": "/products/winx-power-max-65w-gan-wall-charger",
-    "qty": 225,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/WX-WC108_WINX-POWER-Max-65W-GaN-Wall-Charger-Black_wr_01.jpg"
+    "brand": "Port",
+    "title": "Port 45W Universal AC Adapter (900096B-EU)",
+    "spec": "Cables And Adapters",
+    "price": "R414",
+    "price_n": 414,
+    "sku": "900096B-EU",
+    "handle": "port-45w-universal-ac-adapter-900096b-eu",
+    "url": "/products/port-45w-universal-ac-adapter-900096b-eu",
+    "qty": 90,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__2__35ed.png"
    },
    {
     "brand": "HP",
@@ -2303,7 +2292,7 @@
     "handle": "logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "url": "https://ubratech.co.za/products/logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "image": "https://s3.amazonaws.com/tarsus.co.za/920-008685_default.jpg",
-    "qty": 47,
+    "qty": 46,
     "sku": "920-008685"
    },
    {
@@ -2528,7 +2517,7 @@
     "sku": "DS-2CE16D0T-EXIPF2.8MM",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 25606,
+    "qty": 25604,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
@@ -2545,15 +2534,15 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 3K 5MP Smart Hybrid Light Audio Fixed Bullet Analogue Camera",
-    "spec": "5MP",
-    "price": "R671",
-    "price_n": 671,
-    "sku": "DS-2CE17K0T-LFS2.8MM",
-    "handle": "hikvision-3k-5mp-smart-hybrid-light-audio-fixed-bullet-analogue-camera",
-    "url": "/products/hikvision-3k-5mp-smart-hybrid-light-audio-fixed-bullet-analogue-camera",
-    "qty": 231,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE17K0T_LFS_1_f1d5.png"
+    "title": "Hikvision 2MP Manual Varifocal Bullet Analogue Camera",
+    "spec": "2MP",
+    "price": "R814",
+    "price_n": 814,
+    "sku": "DS-2CE19D0T-VFIT3F",
+    "handle": "hikvision-2mp-manual-varifocal-bullet-analogue-camera",
+    "url": "/products/hikvision-2mp-manual-varifocal-bullet-analogue-camera",
+    "qty": 43,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE19D0T_VFIT3F_356a.jpg"
    },
    {
     "brand": "Hikvision",
@@ -2578,7 +2567,7 @@
     "sku": "DS-2CE16D0T-EXIPF2.8MM",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 25606,
+    "qty": 25604,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
@@ -2595,15 +2584,15 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 3K 5MP Smart Hybrid Light Audio Fixed Bullet Analogue Camera",
-    "spec": "5MP",
-    "price": "R671",
-    "price_n": 671,
-    "sku": "DS-2CE17K0T-LFS2.8MM",
-    "handle": "hikvision-3k-5mp-smart-hybrid-light-audio-fixed-bullet-analogue-camera",
-    "url": "/products/hikvision-3k-5mp-smart-hybrid-light-audio-fixed-bullet-analogue-camera",
-    "qty": 231,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE17K0T_LFS_1_f1d5.png"
+    "title": "Hikvision 2MP Manual Varifocal Bullet Analogue Camera",
+    "spec": "2MP",
+    "price": "R814",
+    "price_n": 814,
+    "sku": "DS-2CE19D0T-VFIT3F",
+    "handle": "hikvision-2mp-manual-varifocal-bullet-analogue-camera",
+    "url": "/products/hikvision-2mp-manual-varifocal-bullet-analogue-camera",
+    "qty": 43,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE19D0T_VFIT3F_356a.jpg"
    },
    {
     "brand": "Hikvision",
@@ -2628,7 +2617,7 @@
     "sku": "DS-2CE16D0T-EXIPF2.8MM",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 25606,
+    "qty": 25604,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
@@ -2645,15 +2634,15 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 3K 5MP Smart Hybrid Light Audio Fixed Bullet Analogue Camera",
-    "spec": "5MP",
-    "price": "R671",
-    "price_n": 671,
-    "sku": "DS-2CE17K0T-LFS2.8MM",
-    "handle": "hikvision-3k-5mp-smart-hybrid-light-audio-fixed-bullet-analogue-camera",
-    "url": "/products/hikvision-3k-5mp-smart-hybrid-light-audio-fixed-bullet-analogue-camera",
-    "qty": 231,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE17K0T_LFS_1_f1d5.png"
+    "title": "Hikvision 2MP Manual Varifocal Bullet Analogue Camera",
+    "spec": "2MP",
+    "price": "R814",
+    "price_n": 814,
+    "sku": "DS-2CE19D0T-VFIT3F",
+    "handle": "hikvision-2mp-manual-varifocal-bullet-analogue-camera",
+    "url": "/products/hikvision-2mp-manual-varifocal-bullet-analogue-camera",
+    "qty": 43,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE19D0T_VFIT3F_356a.jpg"
    },
    {
     "brand": "Hikvision",
@@ -2685,17 +2674,17 @@
    "enquiry": true
   },
   {
-   "brand": "Teltonika",
-   "title": "Teltonika Wi-Fi 4 Industrial Wireless Access Point",
-   "spec": "Wi-Fi Mesh, Fast Roaming, 2x RJ45 ports (10/100), Integrated Din Rail ",
-   "price": "R1 389",
-   "price_n": 1389,
-   "uid": "UT-6C8D50BD",
-   "pn": "DAP140000000",
-   "handle": "teltonika-wi-fi-4-industrial-wireless-access-point-dap140",
-   "url": "/pages/teltonika-wi-fi-4-industrial-wireless-access-point-dap140",
+   "brand": "Grandstream",
+   "title": "Grandstream Enterprise WiFi 6 In-Wall Indoor Access Point",
+   "spec": "3 Gbps, 2x2:2 2.4G/5G, 1x GbE PoE, 3x GbE,100m coverage,256 clients, E",
+   "price": "R1 318",
+   "price_n": 1318,
+   "uid": "UT-132FD195",
+   "pn": "GWN7604",
+   "handle": "grandstream-enterprise-wifi-6-in-wall-indoor-access-point-gwn7604",
+   "url": "/pages/grandstream-enterprise-wifi-6-in-wall-indoor-access-point-gwn7604",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/6/3/9/2/16392.jpg",
+   "image": "https://miro.co.za/img/p/1/5/3/5/0/15350.jpg",
    "enquiry": true
   },
   {
@@ -2713,17 +2702,17 @@
    "enquiry": true
   },
   {
-   "brand": "Grandstream",
-   "title": "Grandstream Enterprise Outdoor WiFi 7 Long Range Access Point",
-   "spec": "Outdoor Long-Range Dual-Band Wi-Fi 7 Access Point/Bridge, 2x2:2 2.4/5G",
-   "price": "R3 075",
-   "price_n": 3075,
-   "uid": "UT-897D4726",
-   "pn": "GS-GWN7670LR",
-   "handle": "grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
-   "url": "/pages/grandstream-enterprise-outdoor-wifi-7-long-range-access-point-gwn7670lr",
+   "brand": "HPE Networking Instant On",
+   "title": "HPE Networking Instant On WiFi 5 Wave 2 Indoor Access Point",
+   "spec": "Dual band, 802.11ac Wave2, 2033Mbps, PoE excl, GbE uplink port, 4x4:4 ",
+   "price": "R2 971",
+   "price_n": 2971,
+   "uid": "UT-6C793D55",
+   "pn": "R2X06A",
+   "handle": "hpe-networking-instant-on-wifi-5-wave-2-indoor-access-point-ap15",
+   "url": "/pages/hpe-networking-instant-on-wifi-5-wave-2-indoor-access-point-ap15",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/8/7/0/7/18707.jpg",
+   "image": "https://miro.co.za/img/p/1/0/7/2/6/10726.jpg",
    "enquiry": true
   },
   {
@@ -3175,7 +3164,7 @@
      "sku": "5E900UI",
      "handle": "eaton-5e-900va-gen2-usb-iec-ups",
      "url": "/products/eaton-5e-900va-gen2-usb-iec-ups",
-     "qty": 37,
+     "qty": 33,
      "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E900UI_761f.png",
      "role": "Backup power",
      "note": "Covers short power cuts. Not sized for load shedding",
@@ -3186,6 +3175,6 @@
    "total": "R30 768"
   }
  ],
- "generated": "2026-11-23T10:03:20Z",
+ "generated": "2026-11-23T11:04:42Z",
  "v": 3
 }
