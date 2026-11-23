@@ -156,16 +156,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV14255_KRK_501_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP Elitebook 6 G1i 14\" AI Core U7-255U 16GB 512GB Win 11 Pro Notebook",
-    "spec": "14\" screen · 16GB RAM",
-    "price": "R38 451",
-    "price_n": 38451,
-    "sku": "CK8G9EA",
-    "handle": "hp-elitebook-6-g1i-14-ai-core-u7-255u-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/hp-elitebook-6-g1i-14-ai-core-u7-255u-16gb-512gb-win-11-pro-notebook",
-    "qty": 8,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/K/CK8G9EA_80b8.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 16 Plus Laptop — Core Ultra 7 · 16GB · 512GB SSD (BTO209_PB16250_EMEA)",
+    "spec": "Core Ultra 7 · 512GB SSD",
+    "price": "R38 282",
+    "price_n": 38282,
+    "sku": "BTO209_PB16250_EMEA",
+    "handle": "dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-onboard-512-gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro-processor-16",
+    "url": "/products/dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-onboard-512-gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro-processor-16",
+    "qty": 24,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO209_PB16250_EMEA_default.jpg"
    },
    {
     "brand": "Lenovo",
@@ -2248,16 +2248,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/CM748-75073_UGREEN-Bluetooth-6.0-USB-Adapter_hr01.jpeg"
    },
    {
-    "brand": "Winx",
-    "title": "WINX POWER Max 65W GaN Wall Charger",
-    "spec": "Power Adapter",
-    "price": "R412",
-    "price_n": 412,
-    "sku": "WX-WC108",
-    "handle": "winx-power-max-65w-gan-wall-charger",
-    "url": "/products/winx-power-max-65w-gan-wall-charger",
-    "qty": 225,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/WX-WC108_WINX-POWER-Max-65W-GaN-Wall-Charger-Black_wr_01.jpg"
+    "brand": "HP",
+    "title": "HP Wired 320MK combo",
+    "spec": "Accessories",
+    "price": "R414",
+    "price_n": 414,
+    "sku": "9SR36UT",
+    "handle": "hp-wired-320mk-combo",
+    "url": "/products/hp-wired-320mk-combo",
+    "qty": 9,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/9SR36UT_default.png"
    },
    {
     "brand": "HP",
@@ -3164,6 +3164,6 @@
    "total": "R30 768"
   }
  ],
- "generated": "2026-11-23T15:02:21Z",
+ "generated": "2026-11-23T16:01:35Z",
  "v": 3
 }
