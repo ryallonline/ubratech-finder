@@ -95,15 +95,15 @@
    },
    {
     "brand": "Acer",
-    "title": "Acer EXO14 72 51AG Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.ELVEA.001)",
+    "title": "Acer EXO16 51 53W7 Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.EM3EA.004)",
     "spec": "Core Ultra 5 · 512GB SSD",
-    "price": "R17 628",
-    "price_n": 17628,
-    "sku": "NX.ELVEA.001",
-    "handle": "acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
-    "url": "/products/acer-exo14-72-51ag-intel-core-ultra-5-processor-125h-14-wuxga-ips-uma-no-external-video-memory-16-gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-58wh-battery-65w-typec",
-    "qty": 59,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.ELVEA.001_default.jpg"
+    "price": "R16 747",
+    "price_n": 16747,
+    "sku": "NX.EM3EA.004",
+    "handle": "acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
+    "url": "/products/acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
+    "qty": 57,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.004_default.jpg"
    },
    {
     "brand": "Acer",
@@ -144,16 +144,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP 15S 15.6\" FHD UltraSlim Core 7-150U 16GB 512GB Win 11 Home Silver Notebook",
-    "spec": "Core 7 · 15.6\" screen · 16GB RAM",
-    "price": "R28 965",
-    "price_n": 28965,
-    "sku": "D6ZS9EA",
-    "handle": "hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
-    "url": "/products/hp-15s-15-6-fhd-ultraslim-core-7-150u-16gb-512gb-win-11-home-silver-notebook",
-    "qty": 27,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/6/D6ZS9EA_cc0d.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 14 Essential PV14255 Laptop — 16GB (PV14255_KRK_501)",
+    "spec": "Notebooks",
+    "price": "R29 001",
+    "price_n": 29001,
+    "sku": "PV14255_KRK_501",
+    "handle": "dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
+    "url": "/products/dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
+    "qty": 38,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/PV14255_KRK_501_default.jpg"
    },
    {
     "brand": "HP",
@@ -627,7 +627,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 300,
+    "qty": 275,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -809,7 +809,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 300,
+    "qty": 275,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -1156,15 +1156,15 @@
    },
    {
     "brand": "Cudy",
-    "title": "Cudy AX3000 Wi-Fi 6 Mesh Kit 1 Pack - White",
-    "spec": "Wi-Fi 6",
-    "price": "R1 111",
-    "price_n": 1111,
-    "sku": "M3000W 1PACK",
-    "handle": "cudy-ax3000-wi-fi-6-mesh-kit-1-pack-white",
-    "url": "/products/cudy-ax3000-wi-fi-6-mesh-kit-1-pack-white",
-    "qty": 125,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/Cudy_M3000W-1PACK_wr_01a.jpg"
+    "title": "CUDY AC1200 Mesh Wi-fi system - 2 Pack",
+    "spec": "Router",
+    "price": "R1 064",
+    "price_n": 1064,
+    "sku": "M1200 2PACK -2",
+    "handle": "cudy-ac1200-mesh-wi-fi-system-2-pack",
+    "url": "/products/cudy-ac1200-mesh-wi-fi-system-2-pack",
+    "qty": 148,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/M1200_2PACK_-2_CUDY_AC1200_Mesh_Wi-fi_system_-_2_Pack_wr_02.png"
    },
    {
     "brand": "Mercusys",
@@ -1179,16 +1179,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/A/HALO_H80X_2_PACK_1_33db.png"
    },
    {
-    "brand": "TP-Link",
-    "title": "TP-Link AC1900 Whole Home Mesh Wi-Fi Router - 3 Pack",
-    "spec": "Networking And Wireless",
-    "price": "R2 474",
-    "price_n": 2474,
-    "sku": "DECO-S7-3-PACK",
-    "handle": "tp-link-ac1900-whole-home-mesh-wi-fi-router-3-pack",
-    "url": "/products/tp-link-ac1900-whole-home-mesh-wi-fi-router-3-pack",
-    "qty": 44,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/E/DECO_S7_3_PACK_2714.jpg"
+    "brand": "Cudy",
+    "title": "Cudy BE11000 Wi-Fi7 Gigabit Mesh Router",
+    "spec": "Wi-Fi 7",
+    "price": "R2 461",
+    "price_n": 2461,
+    "sku": "WR11000",
+    "handle": "cudy-be11000-wi-fi7-gigabit-mesh-router",
+    "url": "/products/cudy-be11000-wi-fi7-gigabit-mesh-router",
+    "qty": 51,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/WR11000_Cudy-BE11000-Wi-Fi7-Gigabit-Mesh-Router_wr_01.jpg"
    },
    {
     "brand": "TP-Link Deco",
@@ -1637,7 +1637,7 @@
     "sku": "WX-HS105",
     "handle": "winx-call-clear-3-5mm-headset",
     "url": "/products/winx-call-clear-3-5mm-headset",
-    "qty": 210,
+    "qty": 209,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS105_wr_01.jpg"
    },
    {
@@ -2031,15 +2031,15 @@
    },
    {
     "brand": "FSP",
-    "title": "FSP VITA BD 850W 80PLUS Bronze ATX3.1 Non-modular Power Supply",
+    "title": "FSP 350W 80 PLUS Gold ATX Non-modular Power Supply",
     "spec": "Power Supplies",
-    "price": "R1 585",
-    "price_n": 1585,
-    "sku": "VITA-850BD",
-    "handle": "fsp-vita-bd-850w-80plus-bronze-atx3-1-non-modular-power-supply",
-    "url": "/products/fsp-vita-bd-850w-80plus-bronze-atx3-1-non-modular-power-supply",
-    "qty": 11,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/VITA-850BD_FSP-VITA-BD-850W-80PLUS-Bronze-ATX3.1-Non-modular-Power-Supply_wr_01.jpg"
+    "price": "R1 394",
+    "price_n": 1394,
+    "sku": "FSP350-50EGN",
+    "handle": "fsp-350w-80-plus-gold-atx-non-modular-power-supply",
+    "url": "/products/fsp-350w-80-plus-gold-atx-non-modular-power-supply",
+    "qty": 197,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/FSP350-50EGN_FSP_350W_80_PLUS_Gold_ATX_Non-modular_Po_wr_01.png"
    },
    {
     "brand": "Asus",
@@ -3176,6 +3176,6 @@
    "total": "R30 768"
   }
  ],
- "generated": "2026-11-23T07:02:12Z",
+ "generated": "2026-11-23T08:03:26Z",
  "v": 3
 }
