@@ -262,32 +262,32 @@
     "sku": "F108D-FV-N10040N0G-GIA",
     "handle": "giada-f108d-intel-n100-1xddr4-3200-mhz-2xhdmi",
     "url": "/products/giada-f108d-intel-n100-1xddr4-3200-mhz-2xhdmi",
-    "qty": 128,
+    "qty": 78,
     "image": "https://www.syntech.co.za/wp-content/uploads/2023/10/F108D-FV-N10040N0G-GIA_wr_01b.jpg"
    },
    {
-    "brand": "PCBuilder",
-    "title": "PCBuilder AMD Ryzen 5 3400G HOME MASTER Windows 11 Desktop PC",
-    "spec": "Ryzen 5",
-    "price": "R7 880",
-    "price_n": 7880,
-    "sku": "PCB_HOME_R58G-V1",
-    "handle": "pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc",
-    "url": "/products/pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc",
-    "qty": 40,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_HOME_R58G-V1_PCBuilder-AMD-Ryzen-5-3400G-HOME-MASTER-Windows-11-Desktop-PC_wr_01.jpg"
+    "brand": "Giada",
+    "title": "Giada VM27 with N6210 4G DDR4 on board, 64G EMMC on board",
+    "spec": "Desktops",
+    "price": "R7 666",
+    "price_n": 7666,
+    "sku": "VM27-N621042E6G-GIA",
+    "handle": "giada-vm27-with-n6210-4g-ddr4-on-board-64g-emmc-on-board",
+    "url": "/products/giada-vm27-with-n6210-4g-ddr4-on-board-64g-emmc-on-board",
+    "qty": 45,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/VM27-N621042E6G-GIA_wr_01a.jpg"
    },
    {
-    "brand": "Giada",
-    "title": "Giada D612 i5-1235U 2x DDR4 3200Mhz",
-    "spec": "Desktops",
-    "price": "R8 199",
-    "price_n": 8199,
-    "sku": "D612-1235U40N0G-GIA",
-    "handle": "giada-d612-i5-1235u-2x-ddr4-3200mhz",
-    "url": "/products/giada-d612-i5-1235u-2x-ddr4-3200mhz",
-    "qty": 91,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2023/02/D612-1235U40N0G-GIA_wr_01.jpeg"
+    "brand": "PCBuilder",
+    "title": "PCBuilder CUBE Intel i5-1235U 8GB DDR4 512GB Windows 11 Home Mini PC",
+    "spec": "8GB RAM",
+    "price": "R9 859",
+    "price_n": 9859,
+    "sku": "PCB_CUBE_I58G_HOME_V2",
+    "handle": "pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
+    "url": "/products/pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
+    "qty": 35,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_CUBE_I58G_HOME_V2_PCBuilder-CUBE-Intel-i5-1235U-8GB-DDR4-512GB-Windows-11-Home-Mini-PC_wr_01a.jpg"
    },
    {
     "brand": "PCBuilder",
@@ -541,7 +541,7 @@
     "sku": "NH.QZAEA.006",
     "handle": "acer-nitro-v-15-gaming-laptop-15-6-intel-core-7-240h-16gb-512gb-rtx-5060-8gb-windows-11-home",
     "url": "/products/acer-nitro-v-15-gaming-laptop-15-6-intel-core-7-240h-16gb-512gb-rtx-5060-8gb-windows-11-home",
-    "qty": 67,
+    "qty": 65,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/NH_QZAEA_006_Acer_NITRO_V_15_Gaming_Laptop_156_Intel__wr_01.png"
    },
    {
@@ -664,7 +664,7 @@
     "sku": "ELA6370EU",
     "handle": "xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
     "url": "/products/xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
-    "qty": 106,
+    "qty": 81,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6370EU_Xiaomi-G27i-2026-27%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
    },
    {
@@ -1151,7 +1151,7 @@
     "sku": "M1200 1PACK",
     "handle": "cudy-ac1200-wi-fi-mesh-kit-1-pack",
     "url": "/products/cudy-ac1200-wi-fi-mesh-kit-1-pack",
-    "qty": 46,
+    "qty": 40,
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/06/M1200-1PACK_wr_01a.jpg"
    },
    {
@@ -1574,7 +1574,7 @@
     "sku": "CR113-20290",
     "handle": "ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
     "url": "/products/ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
-    "qty": 63,
+    "qty": 59,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CR113-20290_UGREEN-4-Port-USB-3.0-Hub-with-Micro-USB_wr_01a.jpg"
    },
    {
@@ -1847,16 +1847,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DTKNG2/64GB_default.jpg"
    },
    {
-    "brand": "Targus",
-    "title": "Targus Hyper HyperDrive EcoSmart USB4 SSD Enclosure",
+    "brand": "Patriot",
+    "title": "Patriot P300 512GB M.2 PCIe NVMe SSD",
     "spec": "Storage",
-    "price": "R2 002",
-    "price_n": 2002,
-    "sku": "HD5001GL",
-    "handle": "targus-hyper-hyperdrive-ecosmart-usb4-ssd-enclosure",
-    "url": "/products/targus-hyper-hyperdrive-ecosmart-usb4-ssd-enclosure",
-    "qty": 5,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/HD5001GL_default.png"
+    "price": "R1 988",
+    "price_n": 1988,
+    "sku": "P300P512GM28",
+    "handle": "patriot-p300-512gb-m-2-pcie-nvme-ssd",
+    "url": "/products/patriot-p300-512gb-m-2-pcie-nvme-ssd",
+    "qty": 207,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2021/10/P300P512GM28_wr_01.jpg"
    },
    {
     "brand": "Proline",
@@ -1897,28 +1897,28 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/GP44GB2666C19SC_GeIL_Pristine_4GB_DDR4_2666MHz_Desktop_M_wr_01.png"
    },
    {
-    "brand": "Hiksemi",
-    "title": "Hiksemi Hiker 8GB DDR5 4800MHz Desktop Memory",
+    "brand": "Kingston",
+    "title": "Kingston 8GB DDR4 3200MHz SODIMM",
     "spec": "Memory",
-    "price": "R2 797",
-    "price_n": 2797,
-    "sku": "HSC508U48Z1-8G",
-    "handle": "hiksemi-hiker-8gb-ddr5-4800mhz-desktop-memory",
-    "url": "/products/hiksemi-hiker-8gb-ddr5-4800mhz-desktop-memory",
-    "qty": 109,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/HSC508U48Z1-8G_Hiksemi-Hiker-8GB-DDR5-4800MHz-Desktop-Memory_wr_01a.jpg"
+    "price": "R2 525",
+    "price_n": 2525,
+    "sku": "KCP432SS8/8",
+    "handle": "kingston-8gb-ddr4-3200mhz-sodimm",
+    "url": "/products/kingston-8gb-ddr4-3200mhz-sodimm",
+    "qty": 18,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/KCP432SS8/8_default.jpg"
    },
    {
-    "brand": "Hiksemi",
-    "title": "Hiksemi Future RGB 16GBKIT (2x8GB) 3600MHz DDR4 Desktop Gaming Memory Black",
+    "brand": "Kingston",
+    "title": "Kingston 16GB DDR4 3200MHz SODIMM",
     "spec": "Memory",
-    "price": "R4 371",
-    "price_n": 4371,
-    "sku": "HSC416U36C5-8G2",
-    "handle": "hiksemi-future-rgb-16gbkit-2x8gb-3600mhz-ddr4-desktop-gaming-memory-black",
-    "url": "/products/hiksemi-future-rgb-16gbkit-2x8gb-3600mhz-ddr4-desktop-gaming-memory-black",
-    "qty": 8,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/HSC416U36C5-8G2_Hiksemi_Future_RGB_16GBKIT_2x8GB_3600MHz_wr_01.png"
+    "price": "R4 717",
+    "price_n": 4717,
+    "sku": "KCP432SD8/16",
+    "handle": "kingston-16gb-ddr4-3200mhz-sodimm",
+    "url": "/products/kingston-16gb-ddr4-3200mhz-sodimm",
+    "qty": 89,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/KCP432SD8/16_default.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -1954,20 +1954,20 @@
     "sku": "GT7102GD3H4HDMI",
     "handle": "msi-nvidia-geforce-gt-710-2gd3h-2gb-64-bit-4x-hdmi-graphics-card",
     "url": "/products/msi-nvidia-geforce-gt-710-2gd3h-2gb-64-bit-4x-hdmi-graphics-card",
-    "qty": 207,
+    "qty": 205,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/09/GT7102GD3H4HDMI_wr_01.jpg"
    },
    {
     "brand": "Asus",
-    "title": "ASUS PRIME GeForce RTX 5060 OC 8GB GDDR7 GPU – SFF-Ready Graphics Card",
+    "title": "ASUS Dual GeForce RTX 5060 Ti OC Edition 16GB GDDR7 Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R12 939",
-    "price_n": 12939,
-    "sku": "PRIME-RTX5060-O8G",
-    "handle": "asus-prime-geforce-rtx-5060-oc-8gb-gddr7-gpu-sff-ready-graphics-card",
-    "url": "/products/asus-prime-geforce-rtx-5060-oc-8gb-gddr7-gpu-sff-ready-graphics-card",
-    "qty": 4,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/PRIME-RTX5060-O8G-WR-01.jpg"
+    "price": "R20 012",
+    "price_n": 20012,
+    "sku": "DUAL-RTX5060TI-O16G",
+    "handle": "asus-dual-geforce-rtx-5060-ti-oc-edition-16gb-gddr7-graphics-card",
+    "url": "/products/asus-dual-geforce-rtx-5060-ti-oc-edition-16gb-gddr7-graphics-card",
+    "qty": 9,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/04/DUAL-RTX5060TI-O16G-WR-01.jpg"
    },
    {
     "brand": "ASRock",
@@ -2003,7 +2003,7 @@
     "handle": "asus-prime-750w-80-plus-bronze-atx-non-modular-power-supply",
     "url": "https://ubratech.co.za/products/asus-prime-750w-80-plus-bronze-atx-non-modular-power-supply",
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/PRIME-750B-BLACK_Asus-PRIME-750W-80-PLUS-Bronze-ATX-Non-modular-Power-Supply_wr_01a.jpg",
-    "qty": 71,
+    "qty": 51,
     "sku": "PRIME-750B-BLACK"
    },
    {
@@ -2260,16 +2260,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/NW102-50172-wr-01.jpg"
    },
    {
-    "brand": "Gizzu",
-    "title": "Gizzu USB3.0 Active Extension Cable 10m",
+    "brand": "TP-Link",
+    "title": "TP-Link AX1800 USB Wireless Adapter",
     "spec": "Cables And Adapters",
-    "price": "R418",
-    "price_n": 418,
-    "sku": "GCPU3UE10A",
-    "handle": "gizzu-usb3-0-active-extension-cable-10m",
-    "url": "/products/gizzu-usb3-0-active-extension-cable-10m",
-    "qty": 65,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/GCPU3UE10A-0128-Edit1500x1500-96DPI.jpg"
+    "price": "R414",
+    "price_n": 414,
+    "sku": "ARCHER-TX20U",
+    "handle": "tp-link-ax1800-usb-wireless-adapter",
+    "url": "/products/tp-link-ax1800-usb-wireless-adapter",
+    "qty": 9,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/R/ARCHER_TX20U_cdc8.jpg"
    },
    {
     "brand": "HP",
@@ -2321,15 +2321,15 @@
    },
    {
     "brand": "Port",
-    "title": "Port Pure MAC Wireless Iris Mouse",
+    "title": "Port Pure MAC Wireless Copper Rose Mouse",
     "spec": "Wired Mouse",
     "price": "R371",
     "price_n": 371,
-    "sku": "910502",
-    "handle": "port-pure-mac-wireless-iris-mouse",
-    "url": "/products/port-pure-mac-wireless-iris-mouse",
-    "qty": 40,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__12__8186.png"
+    "sku": "910503",
+    "handle": "port-pure-mac-wireless-copper-rose-mouse",
+    "url": "/products/port-pure-mac-wireless-copper-rose-mouse",
+    "qty": 27,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__13__9474.png"
    },
    {
     "brand": "Logitech",
@@ -3176,6 +3176,6 @@
    "total": "R30 768"
   }
  ],
- "generated": "2026-11-23T08:03:26Z",
+ "generated": "2026-11-23T08:29:50Z",
  "v": 3
 }
