@@ -20,7 +20,7 @@
     "sku": "ZL.OTH11.051",
     "handle": "acer-etbook-14-r3-8gb-256gb-14-slim-bezel-windows-11-home-64-single-language",
     "url": "/products/acer-etbook-14-r3-8gb-256gb-14-slim-bezel-windows-11-home-64-single-language",
-    "qty": 16,
+    "qty": 15,
     "image": "https://s3.amazonaws.com/tarsus.co.za/ZL.OTH11.051_default.png"
    },
    {
@@ -90,7 +90,7 @@
     "sku": "X1504VAP-I58512BL4W",
     "handle": "asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
     "url": "/products/asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
-    "qty": 26,
+    "qty": 24,
     "image": "https://www.pinnacle.co.za/media/catalog/product/X/1/X1504VAP_I382BL0W_a78d.jpg"
    },
    {
@@ -157,15 +157,15 @@
    },
    {
     "brand": "HP",
-    "title": "HP Elitebook 6 G1i 14\" AI Core U7-255U 16GB 512GB Win 11 Pro Notebook",
-    "spec": "14\" screen · 16GB RAM",
-    "price": "R38 451",
-    "price_n": 38451,
-    "sku": "CK8G9EA",
-    "handle": "hp-elitebook-6-g1i-14-ai-core-u7-255u-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/hp-elitebook-6-g1i-14-ai-core-u7-255u-16gb-512gb-win-11-pro-notebook",
-    "qty": 8,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/K/CK8G9EA_80b8.jpg"
+    "title": "HP ZBook 8 G1i Laptop — Core Ultra 5 · 24GB · 1TB SSD (DM7P4ES)",
+    "spec": "Core Ultra 5 · 1TB SSD",
+    "price": "R38 809",
+    "price_n": 38809,
+    "sku": "DM7P4ES",
+    "handle": "hp-zbook-8-g1i-14inch-dsc-rtx-500-ada-4gb-u5-225h-lcd-14-0wuxgaagled300uwvafwwanf5mpirlpln-ram-24gb-ddr5-5600-ssd-1tb-pcie4x4-nvme-tlc-ost-w11p6-hp-3y-onsite-mws-supp-no-country-of-origin-restriction",
+    "url": "/products/hp-zbook-8-g1i-14inch-dsc-rtx-500-ada-4gb-u5-225h-lcd-14-0wuxgaagled300uwvafwwanf5mpirlpln-ram-24gb-ddr5-5600-ssd-1tb-pcie4x4-nvme-tlc-ost-w11p6-hp-3y-onsite-mws-supp-no-country-of-origin-restriction",
+    "qty": 13,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DM7P4ES_default.jpg"
    },
    {
     "brand": "Lenovo",
@@ -181,6 +181,16 @@
    }
   ],
   "creator": [
+   {
+    "brand": "HP",
+    "title": "HP ZBook 8 G1i — Core Ultra 7 · 512GB SSD · RTX",
+    "spec": "RTX · Core Ultra 7 · 512GB SSD",
+    "price": "R42 121",
+    "handle": "hp-zbook-8-g1i-laptop-core-ultra-7-512gb-ssd-cg0k8et",
+    "url": "https://ubratech.co.za/products/hp-zbook-8-g1i-laptop-core-ultra-7-512gb-ssd-cg0k8et",
+    "qty": 3,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/CG0K8ET_default.jpg"
+   },
    {
     "brand": "Lenovo",
     "title": "Lenovo Yoga 7 14\" WUXGA OLED Touch Ultra 7-355 16GB 512GB Win 11 Home 2-in-1 Notebook",
@@ -656,16 +666,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPH_default.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi G27i 2026 27″ 200Hz Full HD 1080p IPS Gaming Monitor",
+    "brand": "MSI",
+    "title": "MSI MAG 275F E20 27\" FHD 200Hz Rapid IPS Gaming Monitor",
     "spec": "27\" screen",
-    "price": "R3 251",
-    "price_n": 3251,
-    "sku": "ELA6370EU",
-    "handle": "xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
-    "url": "/products/xiaomi-g27i-2026-27-200hz-full-hd-1080p-ips-gaming-monitor",
-    "qty": 81,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6370EU_Xiaomi-G27i-2026-27%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
+    "price": "R3 249",
+    "price_n": 3249,
+    "sku": "MAG 275F E20",
+    "handle": "msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
+    "url": "/products/msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
+    "qty": 15,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-275F-E20_MSI-MAG-275F-E20-27inch-FHD-200Hz-Gaming-Montor-wr01.jpeg"
    },
    {
     "brand": "Xiaomi",
@@ -690,7 +700,7 @@
     "sku": "210-BQSZ",
     "handle": "dell-pro-27-plus-qhd-usb-c-hub-monitor-p2725de-68-6cm-27-0",
     "url": "/products/dell-pro-27-plus-qhd-usb-c-hub-monitor-p2725de-68-6cm-27-0",
-    "qty": 37,
+    "qty": 35,
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BQSZ_default.jpg"
    },
    {
@@ -898,7 +908,7 @@
     "sku": "5E700UI",
     "handle": "eaton-5e-700va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-700va-gen2-usb-iec-ups",
-    "qty": 34,
+    "qty": 33,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E700UI_33ac.png"
    },
    {
@@ -950,7 +960,7 @@
     "price": "R904",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 391,
+    "qty": 390,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png",
     "sku": "DS-UPS1000-SA"
    },
@@ -963,7 +973,7 @@
     "sku": "5E700UI",
     "handle": "eaton-5e-700va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-700va-gen2-usb-iec-ups",
-    "qty": 34,
+    "qty": 33,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E700UI_33ac.png"
    },
    {
@@ -1038,7 +1048,7 @@
     "sku": "BX2200MI",
     "handle": "apc-backup-ups-2200va-2-2kva-1200w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
     "url": "/products/apc-backup-ups-2200va-2-2kva-1200w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace-notes-line-interactive",
-    "qty": 9,
+    "qty": 8,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BX2200MI_default.jpg"
    },
    {
@@ -1490,16 +1500,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/WINX_WX-HB111_Connect-Pro-6-in-1-Type-C-Hub-45-0116-Edit1500x1500-96DPI.jpg"
    },
    {
-    "brand": "Targus",
-    "title": "Targus - USB-C Multi-Function DisplayPort Alt Triple Video with 85W… (DOCK430EUZ)",
+    "brand": "Dell",
+    "title": "Dell Pro 7-in-1 USB-C Mobile Docking Station",
     "spec": "Docking Station",
-    "price": "R2 267",
-    "price_n": 2267,
-    "sku": "DOCK430EUZ",
-    "handle": "targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
-    "url": "/products/targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
-    "qty": 34,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK430EUZ_default.jpg"
+    "price": "R1 489",
+    "price_n": 1489,
+    "sku": "470-BGCG",
+    "handle": "dell-pro-7-in-1-usb-c-mobile-docking-station",
+    "url": "/products/dell-pro-7-in-1-usb-c-mobile-docking-station",
+    "qty": 65,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__23__d7c1.png"
    },
    {
     "brand": "Dell",
@@ -1540,16 +1550,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK430EUZ_default.jpg"
    },
    {
-    "brand": "Port2",
-    "title": "PORT2 x 4K USB-C desktop docking station 11 peripherals 96W",
+    "brand": "Port",
+    "title": "PORT Office docking station 3 X 4 USB-C 11 devices 100W",
     "spec": "Docking Station",
-    "price": "R4 154",
-    "price_n": 4154,
-    "sku": "901904V2EU",
-    "handle": "port2-x-4k-usb-c-desktop-docking-station-11-peripherals-96w",
-    "url": "/products/port2-x-4k-usb-c-desktop-docking-station-11-peripherals-96w",
-    "qty": 6,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901904V2EU_PORT2_x_4K_USB-C_desktop_docking_station_wr_03.png"
+    "price": "R3 535",
+    "price_n": 3535,
+    "sku": "901910V2EU",
+    "handle": "port-office-docking-station-3-x-4-usb-c-11-devices-100w",
+    "url": "/products/port-office-docking-station-3-x-4-usb-c-11-devices-100w",
+    "qty": 4,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901910V2EU_PORT_Office_docking_station_3_X_4_USB-C__wr_01.png"
    },
    {
     "brand": "Dell",
@@ -1637,7 +1647,7 @@
     "sku": "WX-HS105",
     "handle": "winx-call-clear-3-5mm-headset",
     "url": "/products/winx-call-clear-3-5mm-headset",
-    "qty": 209,
+    "qty": 207,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS105_wr_01.jpg"
    },
    {
@@ -1917,7 +1927,7 @@
     "sku": "KCP432SD8/16",
     "handle": "kingston-16gb-ddr4-3200mhz-sodimm",
     "url": "/products/kingston-16gb-ddr4-3200mhz-sodimm",
-    "qty": 89,
+    "qty": 88,
     "image": "https://s3.amazonaws.com/tarsus.co.za/KCP432SD8/16_default.jpg"
    },
    {
@@ -2248,16 +2258,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "Ugreen",
-    "title": "UGREEN NW102 Cat6 U/UTP Flat Ethernet Cable 15m - Black",
-    "spec": "Cables And Adapters",
+    "brand": "ASRock",
+    "title": "ASRock DESKMINI Vesa Mount Kit",
+    "spec": "Accessories",
     "price": "R127",
     "price_n": 127,
-    "sku": "NW102-50180",
-    "handle": "ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
-    "url": "/products/ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
-    "qty": 109,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/NW102-50172-wr-01.jpg"
+    "sku": "90-BXG2T0-A0XCR3W",
+    "handle": "asrock-deskmini-vesa-mount-kit",
+    "url": "/products/asrock-deskmini-vesa-mount-kit",
+    "qty": 5,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/90-BXG2T0-A0XCR3W_wr_01.jpg"
    },
    {
     "brand": "TP-Link",
@@ -2332,16 +2342,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__13__9474.png"
    },
    {
-    "brand": "Logitech",
-    "title": "Logitech G213 Prodigy Gaming Keyboard",
+    "brand": "Keychron",
+    "title": "Keychron B2 Pro Ultra-Slim 96% Wireless Keyboard - Space Gray",
     "spec": "Keyboards",
-    "price": "R756",
-    "price_n": 756,
-    "sku": "920-008093",
-    "handle": "logitech-g213-prodigy-gaming-keyboard",
-    "url": "/products/logitech-g213-prodigy-gaming-keyboard",
-    "qty": 4,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/920-008093_default.jpg"
+    "price": "R749",
+    "price_n": 749,
+    "sku": "B2P-K1",
+    "handle": "keychron-b2-pro-ultra-slim-96-wireless-keyboard-space-gray",
+    "url": "/products/keychron-b2-pro-ultra-slim-96-wireless-keyboard-space-gray",
+    "qty": 97,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/B2P-K1_Keychron-B2-Pro-Ultra-Slim-96-Wireless-Keyboard-Space-Grey_wr_01a.jpg"
    },
    {
     "brand": "Keychron",
@@ -2373,15 +2383,15 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP 4mm Powered by Darkfighter Fixed Mini Bullet Network Camera",
+    "title": "Hikvision 4MP 2.8mm Powered by Darkfighter Fixed Dome Network Camera",
     "spec": "4MP",
-    "price": "R2 951",
-    "price_n": 2951,
-    "sku": "DS-2CD2046G2H-I-4MM",
-    "handle": "hikvision-4mp-4mm-powered-by-darkfighter-fixed-mini-bullet-network-camera",
-    "url": "/products/hikvision-4mp-4mm-powered-by-darkfighter-fixed-mini-bullet-network-camera",
-    "qty": 90,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_4MM_888c.jpg"
+    "price": "R2 931",
+    "price_n": 2931,
+    "sku": "DS-2CD2146G2H-I-2.8MM",
+    "handle": "hikvision-4mp-2-8mm-powered-by-darkfighter-fixed-dome-network-camera",
+    "url": "/products/hikvision-4mp-2-8mm-powered-by-darkfighter-fixed-dome-network-camera",
+    "qty": 245,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_2.8MM_8f84.png"
    },
    {
     "brand": "Hikvision",
@@ -2423,15 +2433,15 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP 4mm Powered by Darkfighter Fixed Mini Bullet Network Camera",
+    "title": "Hikvision 4MP 2.8mm Powered by Darkfighter Fixed Dome Network Camera",
     "spec": "4MP",
-    "price": "R2 951",
-    "price_n": 2951,
-    "sku": "DS-2CD2046G2H-I-4MM",
-    "handle": "hikvision-4mp-4mm-powered-by-darkfighter-fixed-mini-bullet-network-camera",
-    "url": "/products/hikvision-4mp-4mm-powered-by-darkfighter-fixed-mini-bullet-network-camera",
-    "qty": 90,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_4MM_888c.jpg"
+    "price": "R2 931",
+    "price_n": 2931,
+    "sku": "DS-2CD2146G2H-I-2.8MM",
+    "handle": "hikvision-4mp-2-8mm-powered-by-darkfighter-fixed-dome-network-camera",
+    "url": "/products/hikvision-4mp-2-8mm-powered-by-darkfighter-fixed-dome-network-camera",
+    "qty": 245,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_2.8MM_8f84.png"
    },
    {
     "brand": "Hikvision",
@@ -3176,6 +3186,6 @@
    "total": "R30 768"
   }
  ],
- "generated": "2026-11-23T08:29:50Z",
+ "generated": "2026-11-23T09:03:15Z",
  "v": 3
 }
