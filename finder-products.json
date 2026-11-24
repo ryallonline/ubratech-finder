@@ -49,15 +49,15 @@
    },
    {
     "brand": "Lenovo",
-    "title": "Lenovo V15 IRU Laptop — Core i3 · 256GB SSD",
-    "spec": "Core i3 · 256GB SSD",
-    "price": "R12 989",
-    "price_n": 12989,
-    "sku": "83GW006CZA",
-    "handle": "lenovo-v15-iru-i3-1315u-8gb-base-ddr5-256gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-15-6-fhd-tn-hd-camera-wi-fi-ax-2x2-bt-no-fpr-3-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
-    "url": "/products/lenovo-v15-iru-i3-1315u-8gb-base-ddr5-256gb-ssd-m-2-2242-qlc-g4-integrated-windows-11-pro-64-15-6-fhd-tn-hd-camera-wi-fi-ax-2x2-bt-no-fpr-3-cell-38whr-65w-3pin-za-kb-us-eng-1-year-carry-in",
-    "qty": 11,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
+    "title": "Lenovo Ideapad Slim 3 15.6\" Ryzen-3 8GB 256GB Win 11 Home Notebook",
+    "spec": "Ryzen 3 · 15.6\" screen · 8GB RAM",
+    "price": "R12 968",
+    "price_n": 12968,
+    "sku": "82XQ020KSA",
+    "handle": "lenovo-ideapad-slim-3-15-6-ryzen-3-8gb-256gb-win-11-home-notebook",
+    "url": "/products/lenovo-ideapad-slim-3-15-6-ryzen-3-8gb-256gb-win-11-home-notebook",
+    "qty": 165,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__82__8f75.png"
    }
   ],
   "mid": [
@@ -65,7 +65,7 @@
     "brand": "Lenovo",
     "title": "Lenovo V15 Laptop — Core i3 · 256GB SSD",
     "spec": "Core i3 · 256GB SSD",
-    "price": "R12 989",
+    "price": "R12 591",
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "qty": 11,
@@ -157,15 +157,15 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro 13 Plus Laptop — Core Ultra 7 (BTO212_PB13250_EMEA)",
+    "title": "Dell Pro 13 Premium PA13250 Laptop — Core Ultra 7 (BTO206_PA13250_EMEA)",
     "spec": "Core Ultra 7",
-    "price": "R40 402",
-    "price_n": 40402,
-    "sku": "BTO212_PB13250_EMEA",
-    "handle": "dell-pro-13-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16gb-lpddr5x-8533-mt-s-onboard-512gb-ssd-integrated-intel-arc-graphics-for-intelcore-ultra-7-266v-vpro-processor-16gb",
-    "url": "/products/dell-pro-13-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16gb-lpddr5x-8533-mt-s-onboard-512gb-ssd-integrated-intel-arc-graphics-for-intelcore-ultra-7-266v-vpro-processor-16gb",
-    "qty": 16,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO212_PB13250_EMEA_default.jpg"
+    "price": "R41 225",
+    "price_n": 41225,
+    "sku": "BTO206_PA13250_EMEA",
+    "handle": "dell-pro-13-premium-pa13250-intel-core-ultra-7-266v-series-2-12m-cache-up-to-5-0-ghz-16gb-8533mt-s-lpdddr5-512gb-gen4-ssd-pcie-m-2-13-3-fhd-1920x1200-wide-view-antiglare-400nits-integrated-graphics",
+    "url": "/products/dell-pro-13-premium-pa13250-intel-core-ultra-7-266v-series-2-12m-cache-up-to-5-0-ghz-16gb-8533mt-s-lpdddr5-512gb-gen4-ssd-pcie-m-2-13-3-fhd-1920x1200-wide-view-antiglare-400nits-integrated-graphics",
+    "qty": 17,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO206_PA13250_EMEA_default.jpg"
    },
    {
     "brand": "Lenovo",
@@ -762,7 +762,7 @@
     "sku": "LS24HG314EAXXA",
     "handle": "samsung-value-g3-flat-24in-monitor-144hz-3y-warranty",
     "url": "/products/samsung-value-g3-flat-24in-monitor-144hz-3y-warranty",
-    "qty": 7,
+    "qty": 99,
     "image": "https://s3.amazonaws.com/tarsus.co.za/LS24HG314EAXXA_default.png"
    },
    {
@@ -1896,16 +1896,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/10/P300P512GM28_wr_01.jpg"
    },
    {
-    "brand": "SanDisk",
-    "title": "SanDisk Optimus GX 7100 1TB NVMe SSD",
-    "spec": "1TB NVMe SSD",
-    "price": "R4 945",
-    "price_n": 4945,
-    "sku": "SDSP71100TAN-000E0",
-    "handle": "sandisk-optimus-gx-7100-1tb-nvme-ssd",
-    "url": "/products/sandisk-optimus-gx-7100-1tb-nvme-ssd",
-    "qty": 113,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/S/D/SDSP71100TAN_000E0_d4e8.jpg"
+    "brand": "Hiksemi",
+    "title": "Hiksemi Wave Series 2TB 3D NAND SATA Internal SSD",
+    "spec": "Storage",
+    "price": "R4 897",
+    "price_n": 4897,
+    "sku": "HS-SSD-WAVE-S-2048G",
+    "handle": "hiksemi-wave-series-2tb-3d-nand-sata-internal-ssd",
+    "url": "/products/hiksemi-wave-series-2tb-3d-nand-sata-internal-ssd",
+    "qty": 144,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_S_2048G_1_bc2d.png"
    },
    {
     "brand": "Hiksemi",
@@ -2308,16 +2308,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/VG101-11631_UGreen-VGA-Cable-3M_wr_01a.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP Wired 320MK combo",
-    "spec": "Accessories",
+    "brand": "Port",
+    "title": "Port 45W Universal AC Adapter (900096B-EU)",
+    "spec": "Cables And Adapters",
     "price": "R414",
     "price_n": 414,
-    "sku": "9SR36UT",
-    "handle": "hp-wired-320mk-combo",
-    "url": "/products/hp-wired-320mk-combo",
-    "qty": 9,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/9SR36UT_default.png"
+    "sku": "900096B-EU",
+    "handle": "port-45w-universal-ac-adapter-900096b-eu",
+    "url": "/products/port-45w-universal-ac-adapter-900096b-eu",
+    "qty": 90,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__2__35ed.png"
    },
    {
     "brand": "HP",
@@ -2369,15 +2369,15 @@
    },
    {
     "brand": "HP",
-    "title": "HP 400 Quiet Wireless Black Mouse",
+    "title": "HP 400 Quiet Wireless Purple Mouse",
     "spec": "Wired Mouse",
-    "price": "R371",
-    "price_n": 371,
-    "sku": "AZ7B2AA",
-    "handle": "hp-400-quiet-wireless-black-mouse",
-    "url": "/products/hp-400-quiet-wireless-black-mouse",
-    "qty": 150,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B2AA_dac7.jpg"
+    "price": "R368",
+    "price_n": 368,
+    "sku": "AZ7B7AA",
+    "handle": "hp-400-quiet-wireless-purple-mouse",
+    "url": "/products/hp-400-quiet-wireless-purple-mouse",
+    "qty": 94,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B7AA_428e.jpg"
    },
    {
     "brand": "Dell",
@@ -3128,6 +3128,6 @@
    "total": "R8 552"
   }
  ],
- "generated": "2026-11-24T15:01:44Z",
+ "generated": "2026-11-24T16:02:05Z",
  "v": 3
 }
