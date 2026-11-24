@@ -261,7 +261,7 @@
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "qty": 36,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA-BUN7Q3_default.jpg"
    },
    {
     "brand": "Giada",
@@ -321,7 +321,7 @@
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "qty": 36,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA-BUN7Q3_default.jpg"
    },
    {
     "brand": "Dell",
@@ -2296,16 +2296,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "Ugreen",
-    "title": "UGREEN VG101 VGA Male to Male Cable 3M",
-    "spec": "Cables And Adapters",
-    "price": "R125",
-    "price_n": 125,
-    "sku": "VG101-11631",
-    "handle": "ugreen-vg101-vga-male-to-male-cable-3m",
-    "url": "/products/ugreen-vg101-vga-male-to-male-cable-3m",
-    "qty": 23,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/VG101-11631_UGreen-VGA-Cable-3M_wr_01a.jpg"
+    "brand": "ASRock",
+    "title": "ASRock DESKMINI Vesa Mount Kit",
+    "spec": "Accessories",
+    "price": "R127",
+    "price_n": 127,
+    "sku": "90-BXG2T0-A0XCR3W",
+    "handle": "asrock-deskmini-vesa-mount-kit",
+    "url": "/products/asrock-deskmini-vesa-mount-kit",
+    "qty": 5,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/90-BXG2T0-A0XCR3W_wr_01.jpg"
    },
    {
     "brand": "Port",
@@ -3128,6 +3128,6 @@
    "total": "R8 552"
   }
  ],
- "generated": "2026-11-24T18:01:36Z",
+ "generated": "2026-11-24T19:01:17Z",
  "v": 3
 }
