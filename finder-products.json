@@ -438,7 +438,7 @@
     "sku": "PW516261-U7-321TB-5G",
     "handle": "dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
     "url": "/products/dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
-    "qty": 18,
+    "qty": 19,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PW516261-U7-321TB-5G_default.jpg"
    }
   ],
@@ -463,7 +463,7 @@
     "sku": "PW516261-U7-321TB-5G",
     "handle": "dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
     "url": "/products/dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
-    "qty": 18,
+    "qty": 19,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PW516261-U7-321TB-5G_default.jpg"
    }
   ]
@@ -694,28 +694,28 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BQSZ_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Alienware 27 QHD Monitor (210-BVWB)",
-    "spec": "Monitors And Displays",
-    "price": "R8 897",
-    "price_n": 8897,
-    "sku": "210-BVWB",
-    "handle": "dell-alienware-27-240hz-qd-oled-gaming-monitor-aw2726dm-resolution-refresh-rate-2560-x-1440-at-240hz-adjustable-stand-adjustability-height-pivot-swivel-tilt-display-screen-type-flat-panel-panel",
-    "url": "/products/dell-alienware-27-240hz-qd-oled-gaming-monitor-aw2726dm-resolution-refresh-rate-2560-x-1440-at-240hz-adjustable-stand-adjustability-height-pivot-swivel-tilt-display-screen-type-flat-panel-panel",
-    "qty": 9,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BVWB_default.jpg"
+    "brand": "Asus",
+    "title": "Asus ProArt 27\" QHD 1440p IPS 144Hz Monitor with USB Type-C 96W PD",
+    "spec": "27\" screen",
+    "price": "R8 647",
+    "price_n": 8647,
+    "sku": "PA278CGRV",
+    "handle": "asus-proart-27-qhd-1440p-ips-144hz-monitor-with-usb-type-c-96w-pd",
+    "url": "/products/asus-proart-27-qhd-1440p-ips-144hz-monitor-with-usb-type-c-96w-pd",
+    "qty": 19,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PA278CGRV_Asus_ProArt_27_QHD_1440p_IPS_144Hz_Monit_wr_01.png"
    },
    {
-    "brand": "Asus",
-    "title": "Asus ROG Strix 27\" QHD OLED 280Hz Gaming Monitor",
-    "spec": "27\" screen",
-    "price": "R19 826",
-    "price_n": 19826,
-    "sku": "XG27ACDMS",
-    "handle": "asus-rog-strix-27-qhd-oled-280hz-gaming-monitor",
-    "url": "/products/asus-rog-strix-27-qhd-oled-280hz-gaming-monitor",
-    "qty": 5,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_d81d.png"
+    "brand": "Dell",
+    "title": "Dell UltraSharp U4323QE 42.51\" 4K USB-C Hub Monitor",
+    "spec": "51\" screen",
+    "price": "R21 155",
+    "price_n": 21155,
+    "sku": "210-BFIS",
+    "handle": "dell-ultrasharp-u4323qe-42-51-4k-usb-c-hub-monitor",
+    "url": "/products/dell-ultrasharp-u4323qe-42-51-4k-usb-c-hub-monitor",
+    "qty": 8,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BFIS_e8aa.png"
    },
    {
     "brand": "Asus",
@@ -2227,15 +2227,15 @@
    },
    {
     "brand": "Ugreen",
-    "title": "UGREEN Bluetooth 6.0 USB Adapter",
+    "title": "UGREEN VG101 VGA Male to Male Cable 3M",
     "spec": "Cables And Adapters",
-    "price": "R126",
-    "price_n": 126,
-    "sku": "CM748-75073",
-    "handle": "ugreen-bluetooth-6-0-usb-adapter",
-    "url": "/products/ugreen-bluetooth-6-0-usb-adapter",
-    "qty": 211,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/CM748-75073_UGREEN-Bluetooth-6.0-USB-Adapter_hr01.jpeg"
+    "price": "R125",
+    "price_n": 125,
+    "sku": "VG101-11631",
+    "handle": "ugreen-vg101-vga-male-to-male-cable-3m",
+    "url": "/products/ugreen-vg101-vga-male-to-male-cable-3m",
+    "qty": 25,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/VG101-11631_UGreen-VGA-Cable-3M_wr_01a.jpg"
    },
    {
     "brand": "Winx",
@@ -3154,6 +3154,6 @@
    "total": "R30 768"
   }
  ],
- "generated": "2026-11-24T05:01:51Z",
+ "generated": "2026-11-24T06:02:10Z",
  "v": 3
 }
