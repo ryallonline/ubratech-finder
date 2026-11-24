@@ -90,7 +90,7 @@
     "sku": "X1504VAP-I58512BL4W",
     "handle": "asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
     "url": "/products/asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
-    "qty": 119,
+    "qty": 21,
     "image": "https://www.pinnacle.co.za/media/catalog/product/X/1/X1504VAP_I382BL0W_a78d.jpg"
    },
    {
@@ -114,7 +114,7 @@
     "sku": "C38KYAT",
     "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
     "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "qty": 54,
+    "qty": 52,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
    },
    {
@@ -296,7 +296,7 @@
     "sku": "PCB_CUBE_3500U8GB_HOME",
     "handle": "pcbuilder-cube-ryzen-5-3500u-8gb-ddr4-512gb-windows-11-home-mini-pc",
     "url": "/products/pcbuilder-cube-ryzen-5-3500u-8gb-ddr4-512gb-windows-11-home-mini-pc",
-    "qty": 7,
+    "qty": 15,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/PCB_CUBE_3500U8GB_HOME_PCBuilder-CUBE-Ryzen-5-3500U-8GB-DDR4-512GB-Windows-11-Home-Mini-PC_wr_01.jpg"
    },
    {
@@ -347,15 +347,15 @@
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder Ryzen 5 5500 SCOUT Windows 11 Gaming PC",
-    "spec": "Ryzen 5",
-    "price": "R16 753",
-    "price_n": 16753,
-    "sku": "PCB_SCOUT_05",
-    "handle": "pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
-    "url": "/products/pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
-    "qty": 10,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SCOUT_05_wr_01e.jpg"
+    "title": "PCBuilder FUSION 24\" Intel Core i5-12400 16GB DDR5 1TB Windows 11 AiO Desktop PC",
+    "spec": "Core i5 · 24\" screen · 16GB RAM",
+    "price": "R16 756",
+    "price_n": 16756,
+    "sku": "PCB-AIO-FIB24-I5161000-D5",
+    "handle": "pcbuilder-fusion-24-intel-core-i5-12400-16gb-ddr5-1tb-windows-11-aio-desktop-pc",
+    "url": "/products/pcbuilder-fusion-24-intel-core-i5-12400-16gb-ddr5-1tb-windows-11-aio-desktop-pc",
+    "qty": 32,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/05/PCB-AIO-FIB24-I5161000-D5_PCBuilder-FUSION-24-inch-Intel-Core-i5-12400-16GB-DDR5-1TB-Windows-11-AiO-Desktop-PC_wr_01a.jpg"
    },
    {
     "brand": "Lenovo",
@@ -929,16 +929,16 @@
    },
    {
     "brand": "UPS",
-    "title": "Acconet 1200VA/600W Offline UPS",
-    "spec": "5-10 Minutes Run Time @ 600W Load.",
-    "price": "R1 564",
-    "price_n": 1564,
-    "uid": "UT-CBF6889D",
-    "pn": "DG1000VA + Fuses + Labels + Branding",
-    "handle": "ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
-    "url": "/pages/ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
+    "title": "Acconet 700VA/360W Offline UPS",
+    "spec": "5-10 Minutes Run Time @ 360W Load.",
+    "price": "R994",
+    "price_n": 994,
+    "uid": "UT-658CAD9E",
+    "pn": "DG 600VA + Fuses + Labels + Branding",
+    "handle": "ups-acconet-700va-360w-offline-ups-ac-ups-700",
+    "url": "/pages/ups-acconet-700va-360w-offline-ups-ac-ups-700",
     "qty": 9,
-    "image": "https://miro.co.za/img/p/6/2/0/2/6202.jpg",
+    "image": "https://miro.co.za/img/p/6/1/9/7/6197.jpg",
     "enquiry": true
    }
   ],
@@ -1001,20 +1001,6 @@
     "url": "/products/eaton-5e-1600va-gen2-usb-iec-ups",
     "qty": 22,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
-   },
-   {
-    "brand": "UPS",
-    "title": "Acconet 1200VA/600W Offline UPS",
-    "spec": "5-10 Minutes Run Time @ 600W Load.",
-    "price": "R1 564",
-    "price_n": 1564,
-    "uid": "UT-CBF6889D",
-    "pn": "DG1000VA + Fuses + Labels + Branding",
-    "handle": "ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
-    "url": "/pages/ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/6/2/0/2/6202.jpg",
-    "enquiry": true
    }
   ],
   "multi": [
@@ -1163,7 +1149,7 @@
     "sku": "M1200 2PACK -2",
     "handle": "cudy-ac1200-mesh-wi-fi-system-2-pack",
     "url": "/products/cudy-ac1200-mesh-wi-fi-system-2-pack",
-    "qty": 148,
+    "qty": 143,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/M1200_2PACK_-2_CUDY_AC1200_Mesh_Wi-fi_system_-_2_Pack_wr_02.png"
    },
    {
@@ -1187,7 +1173,7 @@
     "sku": "WR11000",
     "handle": "cudy-be11000-wi-fi7-gigabit-mesh-router",
     "url": "/products/cudy-be11000-wi-fi7-gigabit-mesh-router",
-    "qty": 51,
+    "qty": 48,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/WR11000_Cudy-BE11000-Wi-Fi7-Gigabit-Mesh-Router_wr_01.jpg"
    },
    {
@@ -1205,17 +1191,17 @@
     "enquiry": true
    },
    {
-    "brand": "TP-Link Deco",
-    "title": "TP-Link Deco BE25 BE3600 Wi-Fi 7 Mesh System",
-    "spec": "688 Mbps at 2.4 GHz + 2882 Mbps at 5 GHz,2 × 2.5 Gigabit Ports (WAN/LA",
-    "price": "R2 131",
-    "price_n": 2131,
-    "uid": "UT-D1EA8F19",
-    "pn": "Deco BE25(1-pack)",
-    "handle": "tp-link-deco-be25-be3600-wi-fi-7-mesh-system-decobe25-1p",
-    "url": "/pages/tp-link-deco-be25-be3600-wi-fi-7-mesh-system-decobe25-1p",
+    "brand": "Mercusys",
+    "title": "Mercusys Halo Wi-Fi 7 Mesh System (2-Pack)",
+    "spec": "688 Mbps at 2.4 GHz + 2880 Mbps at 5 GHz, 1× 2.5 Gbps Port (WAN/LAN), ",
+    "price": "R2 385",
+    "price_n": 2385,
+    "uid": "UT-4BA22875",
+    "pn": "",
+    "handle": "mercusys-halo-wi-fi-7-mesh-system-2-pack-mrc-halo-e27be",
+    "url": "/pages/mercusys-halo-wi-fi-7-mesh-system-2-pack-mrc-halo-e27be",
     "qty": 9,
-    "image": "https://miro.co.za/img/p/1/8/3/4/0/18340.jpg",
+    "image": "https://miro.co.za/img/p/2/0/7/6/2/20762.jpg",
     "enquiry": true
    }
   ],
@@ -1637,7 +1623,7 @@
     "sku": "WX-HS105",
     "handle": "winx-call-clear-3-5mm-headset",
     "url": "/products/winx-call-clear-3-5mm-headset",
-    "qty": 207,
+    "qty": 206,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS105_wr_01.jpg"
    },
    {
@@ -1820,7 +1806,7 @@
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 172,
+    "qty": 14,
     "sku": "HS-SSD-WAVE-P-1024G"
    },
    {
@@ -1848,16 +1834,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/HD5001GL_default.png"
    },
    {
-    "brand": "Kingston",
-    "title": "Kingston 1TB XS1000 External USB 3.2 Gen 2 Portable Solid State Drive",
-    "spec": "Storage",
-    "price": "R5 159",
-    "price_n": 5159,
-    "sku": "SXS1000/1000G",
-    "handle": "kingston-1tb-xs1000-external-usb-3-2-gen-2-portable-solid-state-drive",
-    "url": "/products/kingston-1tb-xs1000-external-usb-3-2-gen-2-portable-solid-state-drive",
-    "qty": 4,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SXS1000/1000G_default.jpg"
+    "brand": "SanDisk",
+    "title": "SanDisk Optimus GX 7100 1TB NVMe SSD",
+    "spec": "1TB NVMe SSD",
+    "price": "R4 945",
+    "price_n": 4945,
+    "sku": "SDSP71100TAN-000E0",
+    "handle": "sandisk-optimus-gx-7100-1tb-nvme-ssd",
+    "url": "/products/sandisk-optimus-gx-7100-1tb-nvme-ssd",
+    "qty": 113,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/S/D/SDSP71100TAN_000E0_d4e8.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -1886,16 +1872,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/GP44GB2666C19SC_GeIL_Pristine_4GB_DDR4_2666MHz_Desktop_M_wr_01.png"
    },
    {
-    "brand": "Hiksemi",
-    "title": "Hiksemi Hiker 8GB DDR5 4800MHz Desktop Memory",
+    "brand": "Patriot",
+    "title": "Patriot Vipersteel 16GB 3600MHz DDR4 Desktop Gaming Memory RGB",
     "spec": "Memory",
-    "price": "R2 797",
-    "price_n": 2797,
-    "sku": "HSC508U48Z1-8G",
-    "handle": "hiksemi-hiker-8gb-ddr5-4800mhz-desktop-memory",
-    "url": "/products/hiksemi-hiker-8gb-ddr5-4800mhz-desktop-memory",
-    "qty": 109,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/HSC508U48Z1-8G_Hiksemi-Hiker-8GB-DDR5-4800MHz-Desktop-Memory_wr_01a.jpg"
+    "price": "R2 769",
+    "price_n": 2769,
+    "sku": "PVSR416G360C0",
+    "handle": "patriot-vipersteel-16gb-3600mhz-ddr4-desktop-gaming-memory-rgb",
+    "url": "/products/patriot-vipersteel-16gb-3600mhz-ddr4-desktop-gaming-memory-rgb",
+    "qty": 104,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/PVSR416G360C0_wr_-3.jpg"
    },
    {
     "brand": "Kingston",
@@ -1981,7 +1967,7 @@
     "handle": "asus-prime-750w-80-plus-bronze-atx-non-modular-power-supply",
     "url": "https://ubratech.co.za/products/asus-prime-750w-80-plus-bronze-atx-non-modular-power-supply",
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/PRIME-750B-BLACK_Asus-PRIME-750W-80-PLUS-Bronze-ATX-Non-modular-Power-Supply_wr_01a.jpg",
-    "qty": 50,
+    "qty": 49,
     "sku": "PRIME-750B-BLACK"
    },
    {
@@ -2103,7 +2089,7 @@
     "sku": "BHR0883EU",
     "handle": "xiaomi-smart-double-stack-air-fryer-12l",
     "url": "/products/xiaomi-smart-double-stack-air-fryer-12l",
-    "qty": 84,
+    "qty": 86,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/BHR0883EU_Xiaomi-Smart-Double-Stack-Air-Fryer-12L_wr_01a.jpg"
    }
   ],
@@ -2138,7 +2124,7 @@
     "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
     "url": "https://ubratech.co.za/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg",
-    "qty": 108,
+    "qty": 104,
     "sku": "WX-HS114"
    },
    {
@@ -2226,16 +2212,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "Winx",
-    "title": "WINX VIEW simple car phone holder - Black",
-    "spec": "Power Adapter",
-    "price": "R122",
-    "price_n": 122,
-    "sku": "WX-CC105",
-    "handle": "winx-view-simple-car-phone-holder-black",
-    "url": "/products/winx-view-simple-car-phone-holder-black",
-    "qty": 137,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/06/WX-CC105_WINX-VIEW-simple-car-phone-holder-%E2%80%93-Black_wr_01a.jpg"
+    "brand": "Gizzu",
+    "title": "Gizzu 4K60Hz DisplayPort to HDMI Active Adapter",
+    "spec": "Cables And Adapters",
+    "price": "R125",
+    "price_n": 125,
+    "sku": "GAPDPHA",
+    "handle": "gizzu-4k60hz-displayport-to-hdmi-active-adapter",
+    "url": "/products/gizzu-4k60hz-displayport-to-hdmi-active-adapter",
+    "qty": 22,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/GIZZU-GAPDPHA-45-0004-Edit_1500x1500.jpg"
    },
    {
     "brand": "Winx",
@@ -2306,7 +2292,7 @@
     "sku": "AZ7B2AA",
     "handle": "hp-400-quiet-wireless-black-mouse",
     "url": "/products/hp-400-quiet-wireless-black-mouse",
-    "qty": 152,
+    "qty": 150,
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B2AA_dac7.jpg"
    },
    {
@@ -2496,7 +2482,7 @@
     "sku": "DS-2CE16D0T-EXIPF2.8MM",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 25547,
+    "qty": 25546,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
@@ -2546,7 +2532,7 @@
     "sku": "DS-2CE16D0T-EXIPF2.8MM",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 25547,
+    "qty": 25546,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
@@ -2596,7 +2582,7 @@
     "sku": "DS-2CE16D0T-EXIPF2.8MM",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 25547,
+    "qty": 25546,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
@@ -3047,7 +3033,7 @@
      "sku": "ST2000VX017",
      "handle": "seagate-skyhawk-surveillance-2tb-3-5-sata-internal-hdd",
      "url": "/products/seagate-skyhawk-surveillance-2tb-3-5-sata-internal-hdd",
-     "qty": 95,
+     "qty": 75,
      "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST2000VX017_9199.jpg",
      "role": "Storage",
      "note": "Built to record all day",
@@ -3154,6 +3140,6 @@
    "total": "R30 768"
   }
  ],
- "generated": "2026-11-24T08:01:55Z",
+ "generated": "2026-11-24T09:01:36Z",
  "v": 3
 }
