@@ -114,7 +114,7 @@
     "sku": "C38KYAT",
     "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
     "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "qty": 32,
+    "qty": 31,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
    },
    {
@@ -284,7 +284,7 @@
     "sku": "PCB_HOME_R58G-V1",
     "handle": "pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc",
     "url": "/products/pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc",
-    "qty": 20,
+    "qty": 14,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_HOME_R58G-V1_PCBuilder-AMD-Ryzen-5-3400G-HOME-MASTER-Windows-11-Desktop-PC_wr_01.jpg"
    },
    {
@@ -354,7 +354,7 @@
     "sku": "PCB-AIO-FIB24-I5161000-D5",
     "handle": "pcbuilder-fusion-24-intel-core-i5-12400-16gb-ddr5-1tb-windows-11-aio-desktop-pc",
     "url": "/products/pcbuilder-fusion-24-intel-core-i5-12400-16gb-ddr5-1tb-windows-11-aio-desktop-pc",
-    "qty": 31,
+    "qty": 28,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/05/PCB-AIO-FIB24-I5161000-D5_PCBuilder-FUSION-24-inch-Intel-Core-i5-12400-16GB-DDR5-1TB-Windows-11-AiO-Desktop-PC_wr_01a.jpg"
    },
    {
@@ -652,7 +652,7 @@
     "sku": "B1GM6AS",
     "handle": "hp-series-3-pro-27-fhd-monitor",
     "url": "/products/hp-series-3-pro-27-fhd-monitor",
-    "qty": 49,
+    "qty": 48,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__63__fa1c.png"
    },
    {
@@ -1192,17 +1192,17 @@
     "enquiry": true
    },
    {
-    "brand": "TP-Link Deco",
-    "title": "TP-Link Deco BE25 BE3600 Wi-Fi 7 Mesh System",
-    "spec": "688 Mbps at 2.4 GHz + 2882 Mbps at 5 GHz,2 × 2.5 Gigabit Ports (WAN/LA",
-    "price": "R2 131",
-    "price_n": 2131,
-    "uid": "UT-D1EA8F19",
-    "pn": "Deco BE25(1-pack)",
-    "handle": "tp-link-deco-be25-be3600-wi-fi-7-mesh-system-decobe25-1p",
-    "url": "/pages/tp-link-deco-be25-be3600-wi-fi-7-mesh-system-decobe25-1p",
+    "brand": "Mercusys",
+    "title": "Mercusys Halo Wi-Fi 7 Mesh System (2-Pack)",
+    "spec": "688 Mbps at 2.4 GHz + 2880 Mbps at 5 GHz, 1× 2.5 Gbps Port (WAN/LAN), ",
+    "price": "R2 385",
+    "price_n": 2385,
+    "uid": "UT-4BA22875",
+    "pn": "",
+    "handle": "mercusys-halo-wi-fi-7-mesh-system-2-pack-mrc-halo-e27be",
+    "url": "/pages/mercusys-halo-wi-fi-7-mesh-system-2-pack-mrc-halo-e27be",
     "qty": 9,
-    "image": "https://miro.co.za/img/p/1/8/3/4/0/18340.jpg",
+    "image": "https://miro.co.za/img/p/2/0/7/6/2/20762.jpg",
     "enquiry": true
    }
   ],
@@ -1930,7 +1930,7 @@
     "sku": "GT7102GD3H4HDMI",
     "handle": "msi-nvidia-geforce-gt-710-2gd3h-2gb-64-bit-4x-hdmi-graphics-card",
     "url": "/products/msi-nvidia-geforce-gt-710-2gd3h-2gb-64-bit-4x-hdmi-graphics-card",
-    "qty": 205,
+    "qty": 204,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/09/GT7102GD3H4HDMI_wr_01.jpg"
    },
    {
@@ -1986,7 +1986,7 @@
     "brand": "DeepCool",
     "title": "DeepCool AK400 G2 120mm CPU Air Cooler",
     "spec": "Quiet, effective cooling",
-    "price": "R613",
+    "price": "R715",
     "handle": "deepcool-ak400-g2-120mm-cpu-air-cooler-white",
     "url": "https://ubratech.co.za/products/deepcool-ak400-g2-120mm-cpu-air-cooler-white",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/R-AK400G2-WHNNMN-GJD_DeepCool-AK400-G2-120mm-CPU-Air-Cooler-White_wr_01.jpg",
@@ -2093,15 +2093,15 @@
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi Smart Camera C500 Dual (4MP, 360° PTZ, AI Detection, Night Vision)",
-    "spec": "4MP",
-    "price": "R2 045",
-    "price_n": 2045,
-    "sku": "BHR8755EU",
-    "handle": "xiaomi-smart-camera-c500-dual-4mp-360-ptz-ai-detection-night-vision",
-    "url": "/products/xiaomi-smart-camera-c500-dual-4mp-360-ptz-ai-detection-night-vision",
-    "qty": 21,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/Xiaomi-Smart-Camera-C500-Dual-Front.jpg"
+    "title": "Xiaomi Smart Air Purifier 4 Compact EU",
+    "spec": "Appliances",
+    "price": "R2 048",
+    "price_n": 2048,
+    "sku": "BHR5860EU",
+    "handle": "xiaomi-smart-air-purifier-4-compact-eu",
+    "url": "/products/xiaomi-smart-air-purifier-4-compact-eu",
+    "qty": 199,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/06/BHR5860EU_wr_01.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -2355,7 +2355,7 @@
     "sku": "DS-2CD2121G0-LIU-2.8MM",
     "handle": "hikvision-2mp-2-8mm-fixed-dome-network-camera",
     "url": "/products/hikvision-2mp-2-8mm-fixed-dome-network-camera",
-    "qty": 368,
+    "qty": 358,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2121G0_LIU_2.8MM_4d7a.jpg"
    },
    {
@@ -2405,7 +2405,7 @@
     "sku": "DS-2CD2121G0-LIU-2.8MM",
     "handle": "hikvision-2mp-2-8mm-fixed-dome-network-camera",
     "url": "/products/hikvision-2mp-2-8mm-fixed-dome-network-camera",
-    "qty": 368,
+    "qty": 358,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2121G0_LIU_2.8MM_4d7a.jpg"
    },
    {
@@ -2505,7 +2505,7 @@
     "sku": "DS-2CE16D0T-EXIPF2.8MM",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 25546,
+    "qty": 25543,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
@@ -2555,7 +2555,7 @@
     "sku": "DS-2CE16D0T-EXIPF2.8MM",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 25546,
+    "qty": 25543,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
@@ -2605,7 +2605,7 @@
     "sku": "DS-2CE16D0T-EXIPF2.8MM",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 25546,
+    "qty": 25543,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
@@ -3056,7 +3056,7 @@
      "sku": "ST2000VX017",
      "handle": "seagate-skyhawk-surveillance-2tb-3-5-sata-internal-hdd",
      "url": "/products/seagate-skyhawk-surveillance-2tb-3-5-sata-internal-hdd",
-     "qty": 75,
+     "qty": 73,
      "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST2000VX017_9199.jpg",
      "role": "Storage",
      "note": "Built to record all day",
@@ -3163,6 +3163,6 @@
    "total": "R30 774"
   }
  ],
- "generated": "2026-11-24T12:01:57Z",
+ "generated": "2026-11-24T13:01:34Z",
  "v": 3
 }
