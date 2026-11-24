@@ -36,16 +36,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__42__340b.png"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo Ideapad Slim 3 15.3\" Core-i3 8GB 256GB Win 11 Home Notebook",
-    "spec": "Core i3 · 15.3\" screen · 8GB RAM",
-    "price": "R11 332",
-    "price_n": 11332,
-    "sku": "83RR00YSSA",
-    "handle": "lenovo-ideapad-slim-3-15-3-core-i3-8gb-256gb-win-11-home-notebook",
-    "url": "/products/lenovo-ideapad-slim-3-15-3-core-i3-8gb-256gb-win-11-home-notebook",
-    "qty": 9,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__84__0ee7.png"
+    "brand": "HP",
+    "title": "HP 250R G10 15.6\" Core 3 100U 8GB 512GB Win 11 Pro Silver Notebook",
+    "spec": "Core 3 · 15.6\" screen · 8GB RAM",
+    "price": "R10 930",
+    "price_n": 10930,
+    "sku": "C78E8AT",
+    "handle": "hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
+    "url": "/products/hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
+    "qty": 55,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/7/C78E8AT_98d1.jpg"
    },
    {
     "brand": "Lenovo",
@@ -90,7 +90,7 @@
     "sku": "X1504VAP-I58512BL4W",
     "handle": "asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
     "url": "/products/asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
-    "qty": 21,
+    "qty": 19,
     "image": "https://www.pinnacle.co.za/media/catalog/product/X/1/X1504VAP_I382BL0W_a78d.jpg"
    },
    {
@@ -354,7 +354,7 @@
     "sku": "PCB-AIO-FIB24-I5161000-D5",
     "handle": "pcbuilder-fusion-24-intel-core-i5-12400-16gb-ddr5-1tb-windows-11-aio-desktop-pc",
     "url": "/products/pcbuilder-fusion-24-intel-core-i5-12400-16gb-ddr5-1tb-windows-11-aio-desktop-pc",
-    "qty": 28,
+    "qty": 38,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/05/PCB-AIO-FIB24-I5161000-D5_PCBuilder-FUSION-24-inch-Intel-Core-i5-12400-16GB-DDR5-1TB-Windows-11-AiO-Desktop-PC_wr_01a.jpg"
    },
    {
@@ -645,27 +645,15 @@
    },
    {
     "brand": "HP",
-    "title": "HP Series 3 Pro 27\" FHD Monitor",
+    "title": "HP Series 3 Pro 27\" FHD IPS 5ms Monitor",
     "spec": "27\" screen",
-    "price": "R2 379",
-    "price_n": 2379,
-    "sku": "B1GM6AS",
-    "handle": "hp-series-3-pro-27-fhd-monitor",
-    "url": "/products/hp-series-3-pro-27-fhd-monitor",
-    "qty": 48,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__63__fa1c.png"
-   },
-   {
-    "brand": "HP",
-    "title": "HP Series 3 Pro 24\" FHD Monitor",
-    "spec": "24\" screen",
-    "price": "R3 147",
-    "price_n": 3147,
-    "sku": "9U5C1AA",
-    "handle": "hp-series-3-pro-24-fhd-monitor",
-    "url": "/products/hp-series-3-pro-24-fhd-monitor",
-    "qty": 28,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5C1AA_1ac3.jpg"
+    "price": "R3 214",
+    "price_n": 3214,
+    "sku": "B0CG8AS",
+    "handle": "hp-series-3-pro-27-fhd-ips-5ms-monitor",
+    "url": "/products/hp-series-3-pro-27-fhd-ips-5ms-monitor",
+    "qty": 10,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/B/0/B0CG8AS_da71.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -690,7 +678,7 @@
     "sku": "210-BQSZ",
     "handle": "dell-pro-27-plus-qhd-usb-c-hub-monitor-p2725de-68-6cm-27-0",
     "url": "/products/dell-pro-27-plus-qhd-usb-c-hub-monitor-p2725de-68-6cm-27-0",
-    "qty": 31,
+    "qty": 30,
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BQSZ_default.jpg"
    },
    {
@@ -779,15 +767,15 @@
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi G27Qi 2026 27″ 2K QHD 200Hz Fast IPS Gaming Monitor",
-    "spec": "27\" screen",
-    "price": "R4 240",
-    "price_n": 4240,
-    "sku": "ELA6556EU",
-    "handle": "xiaomi-g27qi-2026-27-2k-qhd-200hz-fast-ips-gaming-monitor",
-    "url": "/products/xiaomi-g27qi-2026-27-2k-qhd-200hz-fast-ips-gaming-monitor",
-    "qty": 90,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6556EU_Xiaomi-G27Qi-2026-27-inch-2K-QHD-200Hz-IPS-Gaming-Monitor_wr_01a.jpg"
+    "title": "Xiaomi Curved Gaming Monitor G34WQi 2026",
+    "spec": "Monitors And Displays",
+    "price": "R6 899",
+    "price_n": 6899,
+    "sku": "ELA6562EU",
+    "handle": "xiaomi-curved-gaming-monitor-g34wqi-2026",
+    "url": "/products/xiaomi-curved-gaming-monitor-g34wqi-2026",
+    "qty": 121,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/ELA6562EU_Xiaomi_Curved_Gaming_Monitor_G34WQi_2026_wr_03.png"
    },
    {
     "brand": "Asus",
@@ -827,16 +815,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
-    "brand": "MSI",
-    "title": "MSI MAG 255F X24 25″ FHD 240Hz IPS Gaming Monitor",
-    "spec": "25\" screen",
-    "price": "R2 661",
-    "price_n": 2661,
-    "sku": "MAG 255F X24",
-    "handle": "msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
-    "url": "/products/msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
-    "qty": 135,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-X24_MSI-MAG-255F-X24-25-inch-FHD-240Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
+    "brand": "Dell",
+    "title": "Dell 24'' FHD SE2426HG Monitor (210-BTTF)",
+    "spec": "Monitors And Displays",
+    "price": "R2 681",
+    "price_n": 2681,
+    "sku": "210-BTTF",
+    "handle": "dell-24-fhd-monitor-se2426hg-240hz-refresh-rate-certified-by-t-v-rheinland-for-3-star-eye-comfort-resolution-refresh-rate-1920-x-1080-at-240hz-panel-technology-in-plane-switching-ips-technology",
+    "url": "/products/dell-24-fhd-monitor-se2426hg-240hz-refresh-rate-certified-by-t-v-rheinland-for-3-star-eye-comfort-resolution-refresh-rate-1920-x-1080-at-240hz-panel-technology-in-plane-switching-ips-technology",
+    "qty": 41,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BTTF_default.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -891,16 +879,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/GUP60W_wr_01.jpg"
    },
    {
-    "brand": "Eaton",
-    "title": "Eaton 5E 700VA GEN2 USB IEC UPS",
-    "spec": "Ups And Power",
-    "price": "R1 310",
-    "price_n": 1310,
-    "sku": "5E700UI",
-    "handle": "eaton-5e-700va-gen2-usb-iec-ups",
-    "url": "/products/eaton-5e-700va-gen2-usb-iec-ups",
-    "qty": 33,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E700UI_33ac.png"
+    "brand": "Hikvision",
+    "title": "Hikvision 1000VA 1KVA UPS",
+    "spec": "1KVA UPS",
+    "price": "R904",
+    "price_n": 904,
+    "sku": "DS-UPS1000-SA",
+    "handle": "hikvision-1000va-1kva-ups",
+    "url": "/products/hikvision-1000va-1kva-ups",
+    "qty": 384,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
     "brand": "Eaton",
@@ -954,18 +942,6 @@
     "qty": 384,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png",
     "sku": "DS-UPS1000-SA"
-   },
-   {
-    "brand": "Eaton",
-    "title": "Eaton 5E 700VA GEN2 USB IEC UPS",
-    "spec": "Ups And Power",
-    "price": "R1 310",
-    "price_n": 1310,
-    "sku": "5E700UI",
-    "handle": "eaton-5e-700va-gen2-usb-iec-ups",
-    "url": "/products/eaton-5e-700va-gen2-usb-iec-ups",
-    "qty": 33,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E700UI_33ac.png"
    },
    {
     "brand": "Eaton",
@@ -1376,6 +1352,17 @@
  "printers": {
   "docs": [
    {
+    "brand": "HP",
+    "title": "HP LaserJet Enterprise MFP M430f All-in-One",
+    "spec": "Laser · sharp text · low running cost",
+    "price": "R11 847",
+    "handle": "hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
+    "url": "https://ubratech.co.za/products/hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
+    "qty": 5,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/3PZ55A_default.png",
+    "sku": "3PZ55A"
+   },
+   {
     "brand": "Canon",
     "title": "Canon PIXMA MG2541S All-in-One Printer (0727C067AA)",
     "spec": "Printers",
@@ -1386,6 +1373,18 @@
     "url": "/products/canon-pixma-mg2541s-inkjet-mfp-3-in-1-a4-grey-a4-mfp-print-copy-and-scan-8ipm-mono-4-0ipm-colour-4800-x-600-print-resolution-600-x-1200-dpi-scan-resolution-60-sheet-rear-tray-manual-duplex-usb-4-ink",
     "qty": 11,
     "image": "https://s3.amazonaws.com/tarsus.co.za/0727C067AA_default.png"
+   },
+   {
+    "brand": "HP",
+    "title": "HP LaserJet Pro 4103dw MFP Mono Printer",
+    "spec": "Printers",
+    "price": "R8 062",
+    "price_n": 8062,
+    "sku": "2Z627A",
+    "handle": "hp-laserjet-pro-4103dw-mfp-mono-printer",
+    "url": "/products/hp-laserjet-pro-4103dw-mfp-mono-printer",
+    "qty": 4,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/2Z627A_default.png"
    },
    {
     "brand": "Lexmark",
@@ -1401,7 +1400,43 @@
    }
   ],
   "photo": [],
-  "volume": [],
+  "volume": [
+   {
+    "brand": "HP",
+    "title": "HP LaserJet Enterprise MFP M430f All-in-One",
+    "spec": "All-in-one · built for an office",
+    "price": "R11 847",
+    "handle": "hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
+    "url": "https://ubratech.co.za/products/hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
+    "qty": 5,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/3PZ55A_default.png",
+    "sku": "3PZ55A"
+   },
+   {
+    "brand": "HP",
+    "title": "HP LaserJet Pro 4103dw MFP Mono Printer",
+    "spec": "Printers",
+    "price": "R8 062",
+    "price_n": 8062,
+    "sku": "2Z627A",
+    "handle": "hp-laserjet-pro-4103dw-mfp-mono-printer",
+    "url": "/products/hp-laserjet-pro-4103dw-mfp-mono-printer",
+    "qty": 4,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/2Z627A_default.png"
+   },
+   {
+    "brand": "HP",
+    "title": "HP LaserJet Enterprise 700 MFP M725dn 3in1 All-in-One Printer (CF066A)",
+    "spec": "Printers",
+    "price": "R58 277",
+    "price_n": 58277,
+    "sku": "CF066A",
+    "handle": "hp-laserjet-enterprise-700-mfp-m725dn-3in1-print-copy-scan-10-30-users-prints-up-to-41ppm-a4-mono-100-sheet-adf-2-x-250-input-trays-250-sheet-output-bin-integrated-nic-walk-up-usb-input-to-print-or",
+    "url": "/products/hp-laserjet-enterprise-700-mfp-m725dn-3in1-print-copy-scan-10-30-users-prints-up-to-41ppm-a4-mono-100-sheet-adf-2-x-250-input-trays-250-sheet-output-bin-integrated-nic-walk-up-usb-input-to-print-or",
+    "qty": 3,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/CF066A_default.jpg"
+   }
+  ],
   "labels": [
    {
     "brand": "Niimbot",
@@ -1461,7 +1496,7 @@
     "sku": "900160",
     "handle": "port-connect-usb-type-c-to-4-port-usb-a-3-0-2-0-hub",
     "url": "/products/port-connect-usb-type-c-to-4-port-usb-a-3-0-2-0-hub",
-    "qty": 59,
+    "qty": 52,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/900160_Port-Connect-USB-Type-C-to-4-port-USB-A-3.0-2.0-Hub_wr_01a.jpg"
    },
    {
@@ -1597,7 +1632,7 @@
     "sku": "DOCK427GL",
     "handle": "targus-usb-c-dual-hdmi-4k-docking-station",
     "url": "/products/targus-usb-c-dual-hdmi-4k-docking-station",
-    "qty": 35,
+    "qty": 34,
     "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK427GL_default.jpg"
    }
   ]
@@ -1873,16 +1908,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/GP44GB2666C19SC_GeIL_Pristine_4GB_DDR4_2666MHz_Desktop_M_wr_01.png"
    },
    {
-    "brand": "Patriot",
-    "title": "Patriot Vipersteel 16GB 3600MHz DDR4 Desktop Gaming Memory RGB",
+    "brand": "Hiksemi",
+    "title": "Hiksemi Hiker 8GB DDR5 4800MHz Desktop Memory",
     "spec": "Memory",
-    "price": "R2 769",
-    "price_n": 2769,
-    "sku": "PVSR416G360C0",
-    "handle": "patriot-vipersteel-16gb-3600mhz-ddr4-desktop-gaming-memory-rgb",
-    "url": "/products/patriot-vipersteel-16gb-3600mhz-ddr4-desktop-gaming-memory-rgb",
-    "qty": 104,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/PVSR416G360C0_wr_-3.jpg"
+    "price": "R2 797",
+    "price_n": 2797,
+    "sku": "HSC508U48Z1-8G",
+    "handle": "hiksemi-hiker-8gb-ddr5-4800mhz-desktop-memory",
+    "url": "/products/hiksemi-hiker-8gb-ddr5-4800mhz-desktop-memory",
+    "qty": 134,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/HSC508U48Z1-8G_Hiksemi-Hiker-8GB-DDR5-4800MHz-Desktop-Memory_wr_01a.jpg"
    },
    {
     "brand": "Kingston",
@@ -2013,7 +2048,7 @@
     "sku": "ATOM V650",
     "handle": "antec-atom-v650-non-modular-power-supply",
     "url": "/products/antec-atom-v650-non-modular-power-supply",
-    "qty": 102,
+    "qty": 101,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/ATOM-V650_wr_05.jpg"
    },
    {
@@ -2236,27 +2271,27 @@
    },
    {
     "brand": "Ugreen",
-    "title": "UGREEN VG101 VGA Male to Male Cable 3M",
+    "title": "UGREEN Bluetooth 6.0 USB Adapter",
     "spec": "Cables And Adapters",
-    "price": "R125",
-    "price_n": 125,
-    "sku": "VG101-11631",
-    "handle": "ugreen-vg101-vga-male-to-male-cable-3m",
-    "url": "/products/ugreen-vg101-vga-male-to-male-cable-3m",
-    "qty": 25,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/VG101-11631_UGreen-VGA-Cable-3M_wr_01a.jpg"
+    "price": "R126",
+    "price_n": 126,
+    "sku": "CM748-75073",
+    "handle": "ugreen-bluetooth-6-0-usb-adapter",
+    "url": "/products/ugreen-bluetooth-6-0-usb-adapter",
+    "qty": 206,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/CM748-75073_UGREEN-Bluetooth-6.0-USB-Adapter_hr01.jpeg"
    },
    {
-    "brand": "Port",
-    "title": "Port 45W Universal AC Adapter (900096B-EU)",
+    "brand": "TP-Link",
+    "title": "TP-Link AX1800 USB Wireless Adapter",
     "spec": "Cables And Adapters",
     "price": "R414",
     "price_n": 414,
-    "sku": "900096B-EU",
-    "handle": "port-45w-universal-ac-adapter-900096b-eu",
-    "url": "/products/port-45w-universal-ac-adapter-900096b-eu",
-    "qty": 90,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__2__35ed.png"
+    "sku": "ARCHER-TX20U",
+    "handle": "tp-link-ax1800-usb-wireless-adapter",
+    "url": "/products/tp-link-ax1800-usb-wireless-adapter",
+    "qty": 9,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/R/ARCHER_TX20U_cdc8.jpg"
    },
    {
     "brand": "HP",
@@ -2287,7 +2322,7 @@
     "brand": "Logitech",
     "title": "Logitech C920s Pro Full-HD Webcam",
     "spec": "Sharp video for calls",
-    "price": "R1 373",
+    "price": "R1 650",
     "handle": "logitech-c920s-pro-full-hd-usb-webcam",
     "url": "https://ubratech.co.za/products/logitech-c920s-pro-full-hd-usb-webcam",
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/960_001252_9ebb.jpg",
@@ -2348,27 +2383,27 @@
   "ip_small": [
    {
     "brand": "Hikvision",
-    "title": "Hikvision 2MP 2.8mm Fixed Dome Network Camera",
+    "title": "Hikvision 2MP Fixed Mini Bullet Network Camera",
     "spec": "2MP",
-    "price": "R1 317",
-    "price_n": 1317,
-    "sku": "DS-2CD2121G0-LIU-2.8MM",
-    "handle": "hikvision-2mp-2-8mm-fixed-dome-network-camera",
-    "url": "/products/hikvision-2mp-2-8mm-fixed-dome-network-camera",
-    "qty": 358,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2121G0_LIU_2.8MM_4d7a.jpg"
+    "price": "R1 310",
+    "price_n": 1310,
+    "sku": "DS-2CD2021G0-LIU-2.8MM",
+    "handle": "hikvision-2mp-fixed-mini-bullet-network-camera",
+    "url": "/products/hikvision-2mp-fixed-mini-bullet-network-camera",
+    "qty": 10,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2021G0_LIU_2.8MM_9325.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP 4mm Powered by Darkfighter Fixed Mini Bullet Network Camera",
+    "title": "Hikvision 4MP 2.8mm Powered by Darkfighter Fixed Dome Network Camera",
     "spec": "4MP",
-    "price": "R2 951",
-    "price_n": 2951,
-    "sku": "DS-2CD2046G2H-I-4MM",
-    "handle": "hikvision-4mp-4mm-powered-by-darkfighter-fixed-mini-bullet-network-camera",
-    "url": "/products/hikvision-4mp-4mm-powered-by-darkfighter-fixed-mini-bullet-network-camera",
-    "qty": 84,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_4MM_888c.jpg"
+    "price": "R2 931",
+    "price_n": 2931,
+    "sku": "DS-2CD2146G2H-I-2.8MM",
+    "handle": "hikvision-4mp-2-8mm-powered-by-darkfighter-fixed-dome-network-camera",
+    "url": "/products/hikvision-4mp-2-8mm-powered-by-darkfighter-fixed-dome-network-camera",
+    "qty": 220,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_2.8MM_8f84.png"
    },
    {
     "brand": "Hikvision",
@@ -2398,27 +2433,27 @@
   "ip_medium": [
    {
     "brand": "Hikvision",
-    "title": "Hikvision 2MP 2.8mm Fixed Dome Network Camera",
+    "title": "Hikvision 2MP Fixed Mini Bullet Network Camera",
     "spec": "2MP",
-    "price": "R1 317",
-    "price_n": 1317,
-    "sku": "DS-2CD2121G0-LIU-2.8MM",
-    "handle": "hikvision-2mp-2-8mm-fixed-dome-network-camera",
-    "url": "/products/hikvision-2mp-2-8mm-fixed-dome-network-camera",
-    "qty": 358,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2121G0_LIU_2.8MM_4d7a.jpg"
+    "price": "R1 310",
+    "price_n": 1310,
+    "sku": "DS-2CD2021G0-LIU-2.8MM",
+    "handle": "hikvision-2mp-fixed-mini-bullet-network-camera",
+    "url": "/products/hikvision-2mp-fixed-mini-bullet-network-camera",
+    "qty": 10,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2021G0_LIU_2.8MM_9325.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP 4mm Powered by Darkfighter Fixed Mini Bullet Network Camera",
+    "title": "Hikvision 4MP 2.8mm Powered by Darkfighter Fixed Dome Network Camera",
     "spec": "4MP",
-    "price": "R2 951",
-    "price_n": 2951,
-    "sku": "DS-2CD2046G2H-I-4MM",
-    "handle": "hikvision-4mp-4mm-powered-by-darkfighter-fixed-mini-bullet-network-camera",
-    "url": "/products/hikvision-4mp-4mm-powered-by-darkfighter-fixed-mini-bullet-network-camera",
-    "qty": 84,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_4MM_888c.jpg"
+    "price": "R2 931",
+    "price_n": 2931,
+    "sku": "DS-2CD2146G2H-I-2.8MM",
+    "handle": "hikvision-4mp-2-8mm-powered-by-darkfighter-fixed-dome-network-camera",
+    "url": "/products/hikvision-4mp-2-8mm-powered-by-darkfighter-fixed-dome-network-camera",
+    "qty": 220,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_2.8MM_8f84.png"
    },
    {
     "brand": "Hikvision",
@@ -2441,7 +2476,7 @@
     "sku": "DS-2CD2647G3-LIZSY-2.8-12MM",
     "handle": "hikvision-4mp-smart-hybrid-light-with-colorvu-motorized-varifocal-bullet-ip-camera",
     "url": "/products/hikvision-4mp-smart-hybrid-light-with-colorvu-motorized-varifocal-bullet-ip-camera",
-    "qty": 68,
+    "qty": 61,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2647G3_LIZSY_2.8_12MM_b442.jpg"
    }
   ],
@@ -2491,7 +2526,7 @@
     "sku": "DS-2SE4C425MWG-E_14F0",
     "handle": "hikvision-4-4mp-25x-colorvu-ir-network-speed-dome",
     "url": "/products/hikvision-4-4mp-25x-colorvu-ir-network-speed-dome",
-    "qty": 392,
+    "qty": 387,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2SE4C425MWG_E_14F0_09e8.png"
    }
   ],
@@ -3056,7 +3091,7 @@
      "sku": "ST2000VX017",
      "handle": "seagate-skyhawk-surveillance-2tb-3-5-sata-internal-hdd",
      "url": "/products/seagate-skyhawk-surveillance-2tb-3-5-sata-internal-hdd",
-     "qty": 73,
+     "qty": 72,
      "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST2000VX017_9199.jpg",
      "role": "Storage",
      "note": "Built to record all day",
@@ -3163,6 +3198,6 @@
    "total": "R30 774"
   }
  ],
- "generated": "2026-11-24T13:01:34Z",
+ "generated": "2026-11-24T14:02:10Z",
  "v": 3
 }
