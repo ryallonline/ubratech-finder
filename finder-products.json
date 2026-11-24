@@ -644,16 +644,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP Series 3 Pro 27\" FHD Monitor",
-    "spec": "27\" screen",
-    "price": "R2 379",
-    "price_n": 2379,
-    "sku": "B1GM6AS",
-    "handle": "hp-series-3-pro-27-fhd-monitor",
-    "url": "/products/hp-series-3-pro-27-fhd-monitor",
-    "qty": 49,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__63__fa1c.png"
+    "brand": "Dell",
+    "title": "Dell Pro 22 Adjustable Stand E2226HS Monitor",
+    "spec": "Monitors And Displays",
+    "price": "R2 384",
+    "price_n": 2384,
+    "sku": "210-BWPH",
+    "handle": "dell-pro-22-adjustable-stand-monitor-e2226hs-1x-hdmi-1x-dp-1x-vga-integrated-speakers",
+    "url": "/products/dell-pro-22-adjustable-stand-monitor-e2226hs-1x-hdmi-1x-dp-1x-vga-integrated-speakers",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPH_default.jpg"
    },
    {
     "brand": "MSI",
@@ -822,7 +822,7 @@
     "sku": "DS-D5019S0-1P0",
     "handle": "hikvision-18-5-borderless-fhd-monitor",
     "url": "/products/hikvision-18-5-borderless-fhd-monitor",
-    "qty": 98,
+    "qty": 90,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
@@ -838,16 +838,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6364EU_Xiaomi-G24i-2026-24%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi A27Qi 2026 27\" inch 120Hz 2K IPS Office Monitor",
-    "spec": "27\" screen",
-    "price": "R3 449",
-    "price_n": 3449,
-    "sku": "ELA6568EU",
-    "handle": "xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
-    "url": "/products/xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
-    "qty": 119,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6568EU_Xiaomi-A27Qi-2026-27-inch-2K-120Hz-IPS-Office-Monitor_wr_01a.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro P24 23.8\" FHD IPS Monitor",
+    "spec": "23.8\" screen",
+    "price": "R3 455",
+    "price_n": 3455,
+    "sku": "210-BVKM",
+    "handle": "dell-pro-p24-23-8-fhd-ips-monitor",
+    "url": "/products/dell-pro-p24-23-8-fhd-ips-monitor",
+    "qty": 99,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVKM_290f.jpg"
    },
    {
     "brand": "Asus",
@@ -2226,28 +2226,28 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "Ugreen",
-    "title": "UGREEN VG101 VGA Male to Male Cable 3M",
-    "spec": "Cables And Adapters",
-    "price": "R125",
-    "price_n": 125,
-    "sku": "VG101-11631",
-    "handle": "ugreen-vg101-vga-male-to-male-cable-3m",
-    "url": "/products/ugreen-vg101-vga-male-to-male-cable-3m",
-    "qty": 25,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/VG101-11631_UGreen-VGA-Cable-3M_wr_01a.jpg"
+    "brand": "Redragon",
+    "title": "REDRAGON METEOR L Gaming WristPad 435x73x20mm",
+    "spec": "Accessories",
+    "price": "R122",
+    "price_n": 122,
+    "sku": "RD-P037",
+    "handle": "redragon-meteor-l-gaming-wristpad-435x73x20mm",
+    "url": "/products/redragon-meteor-l-gaming-wristpad-435x73x20mm",
+    "qty": 98,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/RD-P037_wr_01.jpg"
    },
    {
     "brand": "Winx",
-    "title": "WINX POWER Max 65W GaN Wall Charger",
+    "title": "WINX VIEW Power Phone Holder and Wireless Charger",
     "spec": "Power Adapter",
-    "price": "R412",
-    "price_n": 412,
-    "sku": "WX-WC108",
-    "handle": "winx-power-max-65w-gan-wall-charger",
-    "url": "/products/winx-power-max-65w-gan-wall-charger",
-    "qty": 225,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/WX-WC108_WINX-POWER-Max-65W-GaN-Wall-Charger-Black_wr_01.jpg"
+    "price": "R411",
+    "price_n": 411,
+    "sku": "WX-CC104",
+    "handle": "winx-view-power-phone-holder-and-wireless-charger",
+    "url": "/products/winx-view-power-phone-holder-and-wireless-charger",
+    "qty": 119,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/06/WX-CC104_WINX-VIEW-Power-Phone-Holder-Wireless-Charger_wr_01a.jpg"
    },
    {
     "brand": "HP",
@@ -2363,15 +2363,15 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Acusense Strobe Light Audible Warning Fixed Turret IP Camera",
+    "title": "Hikvision 4MP Fixed Bullet Network Camera",
     "spec": "4MP",
-    "price": "R3 385",
-    "price_n": 3385,
-    "sku": "DS-2CD2346G2H-IS2U-SL-2.8MM",
-    "handle": "hikvision-4mp-acusense-strobe-light-audible-warning-fixed-turret-ip-camera",
-    "url": "/products/hikvision-4mp-acusense-strobe-light-audible-warning-fixed-turret-ip-camera",
-    "qty": 33,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2346G2H_IS2U_SL_2.8MM_98ea.jpg"
+    "price": "R3 221",
+    "price_n": 3221,
+    "sku": "DS-2CD2T46G2H-2I-2.8MM",
+    "handle": "hikvision-4mp-fixed-bullet-network-camera",
+    "url": "/products/hikvision-4mp-fixed-bullet-network-camera",
+    "qty": 103,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_2.8MM_1_e9e9.png"
    },
    {
     "brand": "Hikvision",
@@ -2401,15 +2401,15 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Fixed Mini Bullet Network Camera",
+    "title": "Hikvision 4MP 4mm Powered by Darkfighter Fixed Mini Bullet Network Camera",
     "spec": "4MP",
-    "price": "R2 986",
-    "price_n": 2986,
-    "sku": "DS-2CD2T46G2H-2I-4MM",
-    "handle": "hikvision-4mp-fixed-mini-bullet-network-camera",
-    "url": "/products/hikvision-4mp-fixed-mini-bullet-network-camera",
-    "qty": 53,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_4MM_1_306c.png"
+    "price": "R2 951",
+    "price_n": 2951,
+    "sku": "DS-2CD2046G2H-I-4MM",
+    "handle": "hikvision-4mp-4mm-powered-by-darkfighter-fixed-mini-bullet-network-camera",
+    "url": "/products/hikvision-4mp-4mm-powered-by-darkfighter-fixed-mini-bullet-network-camera",
+    "qty": 90,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_4MM_888c.jpg"
    },
    {
     "brand": "Hikvision",
@@ -3154,6 +3154,6 @@
    "total": "R30 768"
   }
  ],
- "generated": "2026-11-24T06:02:10Z",
+ "generated": "2026-11-24T06:34:36Z",
  "v": 3
 }
