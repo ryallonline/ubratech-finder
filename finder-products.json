@@ -44,7 +44,7 @@
     "sku": "C78E8AT",
     "handle": "hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
     "url": "/products/hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
-    "qty": 55,
+    "qty": 19,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/7/C78E8AT_98d1.jpg"
    },
    {
@@ -90,7 +90,7 @@
     "sku": "X1504VAP-I58512BL4W",
     "handle": "asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
     "url": "/products/asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
-    "qty": 19,
+    "qty": 118,
     "image": "https://www.pinnacle.co.za/media/catalog/product/X/1/X1504VAP_I382BL0W_a78d.jpg"
    },
    {
@@ -284,7 +284,7 @@
     "sku": "PCB_HOME_R58G-V1",
     "handle": "pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc",
     "url": "/products/pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc",
-    "qty": 14,
+    "qty": 22,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_HOME_R58G-V1_PCBuilder-AMD-Ryzen-5-3400G-HOME-MASTER-Windows-11-Desktop-PC_wr_01.jpg"
    },
    {
@@ -296,7 +296,7 @@
     "sku": "PCB_CUBE_3500U8GB_HOME",
     "handle": "pcbuilder-cube-ryzen-5-3500u-8gb-ddr4-512gb-windows-11-home-mini-pc",
     "url": "/products/pcbuilder-cube-ryzen-5-3500u-8gb-ddr4-512gb-windows-11-home-mini-pc",
-    "qty": 15,
+    "qty": 29,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/PCB_CUBE_3500U8GB_HOME_PCBuilder-CUBE-Ryzen-5-3500U-8GB-DDR4-512GB-Windows-11-Home-Mini-PC_wr_01.jpg"
    },
    {
@@ -645,15 +645,27 @@
    },
    {
     "brand": "HP",
-    "title": "HP Series 3 Pro 27\" FHD IPS 5ms Monitor",
+    "title": "HP Series 3 Pro 27\" FHD Monitor",
     "spec": "27\" screen",
-    "price": "R3 214",
-    "price_n": 3214,
-    "sku": "B0CG8AS",
-    "handle": "hp-series-3-pro-27-fhd-ips-5ms-monitor",
-    "url": "/products/hp-series-3-pro-27-fhd-ips-5ms-monitor",
-    "qty": 10,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/0/B0CG8AS_da71.jpg"
+    "price": "R2 379",
+    "price_n": 2379,
+    "sku": "B1GM6AS",
+    "handle": "hp-series-3-pro-27-fhd-monitor",
+    "url": "/products/hp-series-3-pro-27-fhd-monitor",
+    "qty": 48,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__63__fa1c.png"
+   },
+   {
+    "brand": "HP",
+    "title": "HP Series 3 Pro 24\" FHD Monitor",
+    "spec": "24\" screen",
+    "price": "R3 147",
+    "price_n": 3147,
+    "sku": "9U5C1AA",
+    "handle": "hp-series-3-pro-24-fhd-monitor",
+    "url": "/products/hp-series-3-pro-24-fhd-monitor",
+    "qty": 28,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5C1AA_1ac3.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -767,15 +779,15 @@
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi Curved Gaming Monitor G34WQi 2026",
-    "spec": "Monitors And Displays",
-    "price": "R6 899",
-    "price_n": 6899,
-    "sku": "ELA6562EU",
-    "handle": "xiaomi-curved-gaming-monitor-g34wqi-2026",
-    "url": "/products/xiaomi-curved-gaming-monitor-g34wqi-2026",
-    "qty": 121,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/ELA6562EU_Xiaomi_Curved_Gaming_Monitor_G34WQi_2026_wr_03.png"
+    "title": "Xiaomi G27Qi 2026 27″ 2K QHD 200Hz Fast IPS Gaming Monitor",
+    "spec": "27\" screen",
+    "price": "R4 240",
+    "price_n": 4240,
+    "sku": "ELA6556EU",
+    "handle": "xiaomi-g27qi-2026-27-2k-qhd-200hz-fast-ips-gaming-monitor",
+    "url": "/products/xiaomi-g27qi-2026-27-2k-qhd-200hz-fast-ips-gaming-monitor",
+    "qty": 90,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6556EU_Xiaomi-G27Qi-2026-27-inch-2K-QHD-200Hz-IPS-Gaming-Monitor_wr_01a.jpg"
    },
    {
     "brand": "Asus",
@@ -815,16 +827,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
-    "brand": "Dell",
-    "title": "Dell 24'' FHD SE2426HG Monitor (210-BTTF)",
-    "spec": "Monitors And Displays",
-    "price": "R2 681",
-    "price_n": 2681,
-    "sku": "210-BTTF",
-    "handle": "dell-24-fhd-monitor-se2426hg-240hz-refresh-rate-certified-by-t-v-rheinland-for-3-star-eye-comfort-resolution-refresh-rate-1920-x-1080-at-240hz-panel-technology-in-plane-switching-ips-technology",
-    "url": "/products/dell-24-fhd-monitor-se2426hg-240hz-refresh-rate-certified-by-t-v-rheinland-for-3-star-eye-comfort-resolution-refresh-rate-1920-x-1080-at-240hz-panel-technology-in-plane-switching-ips-technology",
-    "qty": 41,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BTTF_default.jpg"
+    "brand": "MSI",
+    "title": "MSI MAG 255F X24 25″ FHD 240Hz IPS Gaming Monitor",
+    "spec": "25\" screen",
+    "price": "R2 661",
+    "price_n": 2661,
+    "sku": "MAG 255F X24",
+    "handle": "msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
+    "url": "/products/msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
+    "qty": 135,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-X24_MSI-MAG-255F-X24-25-inch-FHD-240Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -918,16 +930,16 @@
    },
    {
     "brand": "UPS",
-    "title": "Acconet 700VA/360W Offline UPS",
-    "spec": "5-10 Minutes Run Time @ 360W Load.",
-    "price": "R994",
-    "price_n": 994,
-    "uid": "UT-658CAD9E",
-    "pn": "DG 600VA + Fuses + Labels + Branding",
-    "handle": "ups-acconet-700va-360w-offline-ups-ac-ups-700",
-    "url": "/pages/ups-acconet-700va-360w-offline-ups-ac-ups-700",
+    "title": "Acconet 1200VA/600W Offline UPS",
+    "spec": "5-10 Minutes Run Time @ 600W Load.",
+    "price": "R1 643",
+    "price_n": 1643,
+    "uid": "UT-CBF6889D",
+    "pn": "DG1000VA + Fuses + Labels + Branding",
+    "handle": "ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
+    "url": "/pages/ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
     "qty": 9,
-    "image": "https://miro.co.za/img/p/6/1/9/7/6197.jpg",
+    "image": "https://miro.co.za/img/p/6/2/0/2/6202.jpg",
     "enquiry": true
    }
   ],
@@ -978,6 +990,20 @@
     "url": "/products/eaton-5e-1600va-gen2-usb-iec-ups",
     "qty": 22,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
+   },
+   {
+    "brand": "UPS",
+    "title": "Acconet 1200VA/600W Offline UPS",
+    "spec": "5-10 Minutes Run Time @ 600W Load.",
+    "price": "R1 643",
+    "price_n": 1643,
+    "uid": "UT-CBF6889D",
+    "pn": "DG1000VA + Fuses + Labels + Branding",
+    "handle": "ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
+    "url": "/pages/ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
+    "qty": 9,
+    "image": "https://miro.co.za/img/p/6/2/0/2/6202.jpg",
+    "enquiry": true
    }
   ],
   "multi": [
@@ -1168,17 +1194,17 @@
     "enquiry": true
    },
    {
-    "brand": "Mercusys",
-    "title": "Mercusys Halo Wi-Fi 7 Mesh System (2-Pack)",
-    "spec": "688 Mbps at 2.4 GHz + 2880 Mbps at 5 GHz, 1× 2.5 Gbps Port (WAN/LAN), ",
-    "price": "R2 385",
-    "price_n": 2385,
-    "uid": "UT-4BA22875",
-    "pn": "",
-    "handle": "mercusys-halo-wi-fi-7-mesh-system-2-pack-mrc-halo-e27be",
-    "url": "/pages/mercusys-halo-wi-fi-7-mesh-system-2-pack-mrc-halo-e27be",
+    "brand": "TP-Link Deco",
+    "title": "TP-Link Deco BE25 BE3600 Wi-Fi 7 Mesh System",
+    "spec": "688 Mbps at 2.4 GHz + 2882 Mbps at 5 GHz,2 × 2.5 Gigabit Ports (WAN/LA",
+    "price": "R2 131",
+    "price_n": 2131,
+    "uid": "UT-D1EA8F19",
+    "pn": "Deco BE25(1-pack)",
+    "handle": "tp-link-deco-be25-be3600-wi-fi-7-mesh-system-decobe25-1p",
+    "url": "/pages/tp-link-deco-be25-be3600-wi-fi-7-mesh-system-decobe25-1p",
     "qty": 9,
-    "image": "https://miro.co.za/img/p/2/0/7/6/2/20762.jpg",
+    "image": "https://miro.co.za/img/p/1/8/3/4/0/18340.jpg",
     "enquiry": true
    }
   ],
@@ -1321,16 +1347,16 @@
    },
    {
     "brand": "TP-Link Deco",
-    "title": "TP-Link Deco E4 AC1200 router Whole-Home Mesh System (3 Pack)",
-    "spec": "Wi-Fi router, MU-MIMO, Qualcomm CPU, 2 x FE Ports, Beamforming, Alexa ",
-    "price": "R1 864",
-    "price_n": 1864,
-    "uid": "UT-749C9883",
-    "pn": "Deco E4(3-pack)",
-    "handle": "tp-link-deco-e4-ac1200-router-whole-home-mesh-system-3-pack",
-    "url": "/pages/tp-link-deco-e4-ac1200-router-whole-home-mesh-system-3-pack",
+    "title": "TP-Link Deco BE25 BE3600 Wi-Fi 7 Mesh (3-Pack)",
+    "spec": "4324 Mbps on 5 GHz + 688 Mbps on 2.4 GHz, 2 × 2.5 Gigabit Ports (WAN/L",
+    "price": "R5 773",
+    "price_n": 5773,
+    "uid": "UT-E2E36155",
+    "pn": "Deco BE25(3-pack)",
+    "handle": "tp-link-deco-be25-be3600-wi-fi-7-mesh-3-pack-tp-decobe25-3p",
+    "url": "/pages/tp-link-deco-be25-be3600-wi-fi-7-mesh-3-pack-tp-decobe25-3p",
     "qty": 9,
-    "image": "https://miro.co.za/img/p/3/8/9/4/3894.jpg",
+    "image": "https://miro.co.za/img/p/1/8/3/3/9/18339.jpg",
     "enquiry": true
    },
    {
@@ -1457,7 +1483,7 @@
     "handle": "bixolon-xd3-40t-4-direct-thermal-label-printer",
     "url": "https://ubratech.co.za/products/bixolon-xd3-40t-4-direct-thermal-label-printer",
     "image": "https://www.pinnacle.co.za/media/catalog/product/X/D/XD3_40TEK_PNC_3_ca89.png",
-    "qty": 21,
+    "qty": 20,
     "sku": "XD3-40TEK/PNC"
    },
    {
@@ -1589,27 +1615,27 @@
   "legacy": [
    {
     "brand": "Ugreen",
-    "title": "UGREEN 4-Port USB 3.0 Hub · 5Gbps Data Transfer - 0.5m",
-    "spec": "4 ports",
-    "price": "R166",
-    "price_n": 166,
-    "sku": "CR113-20290",
-    "handle": "ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
-    "url": "/products/ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
-    "qty": 53,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CR113-20290_UGREEN-4-Port-USB-3.0-Hub-with-Micro-USB_wr_01a.jpg"
+    "title": "UGREEN 4-in-1 USB 3.0 Hub - High-Speed 5Gbps Data Transfer - Grey",
+    "spec": "Docking Station",
+    "price": "R120",
+    "price_n": 120,
+    "sku": "CM219-25851",
+    "handle": "ugreen-4-in-1-usb-3-0-hub-high-speed-5gbps-data-transfer-grey",
+    "url": "/products/ugreen-4-in-1-usb-3-0-hub-high-speed-5gbps-data-transfer-grey",
+    "qty": 14,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM219-25851-WR-01.jpg"
    },
    {
     "brand": "Ugreen",
-    "title": "UGREEN 4-in-1 Type-C Hub · USB 3.0",
-    "spec": "Docking Station",
-    "price": "R198",
-    "price_n": 198,
-    "sku": "CM219-70336",
-    "handle": "ugreen-4-in-1-type-c-hub-usb-3-0-type-c",
-    "url": "/products/ugreen-4-in-1-type-c-hub-usb-3-0-type-c",
-    "qty": 228,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/cm219-70336-wr-01a.jpg"
+    "title": "UGREEN 4-Port USB 3.0 Hub with Micro USB · 5Gbps Data Transfer - 1m",
+    "spec": "4 ports",
+    "price": "R174",
+    "price_n": 174,
+    "sku": "CR113-20291",
+    "handle": "ugreen-4-port-usb-3-0-hub-with-micro-usb-5gbps-data-transfer-1m",
+    "url": "/products/ugreen-4-port-usb-3-0-hub-with-micro-usb-5gbps-data-transfer-1m",
+    "qty": 158,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CR113-20291_UGREEN-4-Port-USB-3.0-Hub-with-Micro-USB-5Gbps-Data-Transfer-%E2%80%93-1m_wr_01.jpg"
    },
    {
     "brand": "Port",
@@ -2115,16 +2141,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/06/YTC4040GL_wr_01.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi Smart Humidifier 2",
-    "spec": "Appliances",
-    "price": "R1 121",
-    "price_n": 1121,
-    "sku": "BHR6026EU",
-    "handle": "xiaomi-smart-humidifier-2",
-    "url": "/products/xiaomi-smart-humidifier-2",
-    "qty": 199,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/BHR6026EU_wr_01a.jpg"
+    "brand": "Hikvision",
+    "title": "Hikvision Bullet Wireless Outdoor Security Camera, 2.8mm Lens, 2MP",
+    "spec": "2MP",
+    "price": "R1 098",
+    "price_n": 1098,
+    "sku": "DS-2CV2021G2-IDW-2.8",
+    "handle": "hikvision-bullet-wireless-outdoor-security-camera-2-8mm-lens-2mp",
+    "url": "/products/hikvision-bullet-wireless-outdoor-security-camera-2-8mm-lens-2mp",
+    "qty": 50,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/DS-2CV2021G2-IDW-wr-01.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -2171,7 +2197,7 @@
     "handle": "xiaomi-sound-outdoor-30w-portable-bluetooth-speaker-black",
     "url": "https://ubratech.co.za/products/xiaomi-sound-outdoor-30w-portable-bluetooth-speaker-black",
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/QBH4261GL_wr_01a.jpg",
-    "qty": 180,
+    "qty": 181,
     "sku": "QBH4261GL"
    },
    {
@@ -2271,27 +2297,27 @@
    },
    {
     "brand": "Ugreen",
-    "title": "UGREEN Bluetooth 6.0 USB Adapter",
+    "title": "UGREEN VG101 VGA Male to Male Cable 3M",
     "spec": "Cables And Adapters",
-    "price": "R126",
-    "price_n": 126,
-    "sku": "CM748-75073",
-    "handle": "ugreen-bluetooth-6-0-usb-adapter",
-    "url": "/products/ugreen-bluetooth-6-0-usb-adapter",
-    "qty": 206,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/CM748-75073_UGREEN-Bluetooth-6.0-USB-Adapter_hr01.jpeg"
+    "price": "R125",
+    "price_n": 125,
+    "sku": "VG101-11631",
+    "handle": "ugreen-vg101-vga-male-to-male-cable-3m",
+    "url": "/products/ugreen-vg101-vga-male-to-male-cable-3m",
+    "qty": 23,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/VG101-11631_UGreen-VGA-Cable-3M_wr_01a.jpg"
    },
    {
-    "brand": "TP-Link",
-    "title": "TP-Link AX1800 USB Wireless Adapter",
-    "spec": "Cables And Adapters",
+    "brand": "HP",
+    "title": "HP Wired 320MK combo",
+    "spec": "Accessories",
     "price": "R414",
     "price_n": 414,
-    "sku": "ARCHER-TX20U",
-    "handle": "tp-link-ax1800-usb-wireless-adapter",
-    "url": "/products/tp-link-ax1800-usb-wireless-adapter",
+    "sku": "9SR36UT",
+    "handle": "hp-wired-320mk-combo",
+    "url": "/products/hp-wired-320mk-combo",
     "qty": 9,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/R/ARCHER_TX20U_cdc8.jpg"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/9SR36UT_default.png"
    },
    {
     "brand": "HP",
@@ -2683,17 +2709,17 @@
  },
  "wifi_ap": [
   {
-   "brand": "MikroTik",
-   "title": "MikroTik mAP 2nD - 2.4GHz mini Indoor AP/CPE",
-   "spec": "650MHz CPU, 64MB RAM, 802.11b/g/n dual chain, 2 x 10/100 LAN, RouterOS",
-   "price": "R891",
-   "price_n": 891,
-   "uid": "UT-4E6A680B",
-   "pn": "RBmAP2nD",
-   "handle": "mikrotik-map-2nd-2-4ghz-mini-indoor-ap-cpe",
-   "url": "/pages/mikrotik-map-2nd-2-4ghz-mini-indoor-ap-cpe",
+   "brand": "Ubiquiti",
+   "title": "Ubiquiti UniFi U7 Pro Wall Paintable Flush Mount",
+   "spec": "WIRELESS ACCESS POINTS",
+   "price": "R887",
+   "price_n": 887,
+   "uid": "UT-44881DCA",
+   "pn": "UACC-U7-Pro-Wall-FM",
+   "handle": "ubiquiti-unifi-u7-pro-wall-paintable-flush-mount-uacc-u7-pro-wall-fm",
+   "url": "/pages/ubiquiti-unifi-u7-pro-wall-paintable-flush-mount-uacc-u7-pro-wall-fm",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/4/8/3/1/4831.jpg",
+   "image": "https://miro.co.za/img/p/1/4/0/9/6/14096.jpg",
    "enquiry": true
   },
   {
@@ -2725,17 +2751,17 @@
    "enquiry": true
   },
   {
-   "brand": "HPE Networking Instant On",
-   "title": "HPE Networking Instant On WiFi 5 Wave 2 Indoor Access Point",
-   "spec": "Dual band, 802.11ac Wave2, 2033Mbps, PoE excl, GbE uplink port, 4x4:4 ",
-   "price": "R2 971",
-   "price_n": 2971,
-   "uid": "UT-6C793D55",
-   "pn": "R2X06A",
-   "handle": "hpe-networking-instant-on-wifi-5-wave-2-indoor-access-point-ap15",
-   "url": "/pages/hpe-networking-instant-on-wifi-5-wave-2-indoor-access-point-ap15",
+   "brand": "TP-Link Omada",
+   "title": "TP-Link AX6000 Indoor WiFi 6 Ceiling Mount Access Point",
+   "spec": "1×2.5 Gigabit RJ45 Port, SPEED: 1148Mbps at  2.4 GHz + 4804 Mbps at 5 ",
+   "price": "R2 879",
+   "price_n": 2879,
+   "uid": "UT-347B6492",
+   "pn": "EAP683 UR",
+   "handle": "tp-link-ax6000-indoor-wifi-6-ceiling-mount-access-point-tp-eap683ur",
+   "url": "/pages/tp-link-ax6000-indoor-wifi-6-ceiling-mount-access-point-tp-eap683ur",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/0/7/2/6/10726.jpg",
+   "image": "https://miro.co.za/img/p/1/6/9/8/5/16985.jpg",
    "enquiry": true
   },
   {
@@ -2873,16 +2899,16 @@
    },
    {
     "brand": "TP-Link Omada",
-    "title": "TP-Link AX5400 Ceiling Mount Dual-Band Access Point",
-    "spec": "1×2.5 Gigabit RJ45 Port, 574Mbps at  2.4 GHz + 4804 Mbps at 5 GHz, 802",
-    "price": "R2 385",
-    "price_n": 2385,
-    "uid": "UT-9107FCF8",
-    "pn": "EAP670",
-    "handle": "tp-link-ax5400-ceiling-mount-dual-band-access-point",
-    "url": "/pages/tp-link-ax5400-ceiling-mount-dual-band-access-point",
+    "title": "TP-Link AX5400 Indoor WiFi 6 Ceiling Mount Access Point",
+    "spec": "574 Mbps at 2.4GHz + 4804 Mbps at 5 GHz, 802.3at PoE+ and DC Power(Pow",
+    "price": "R2 303",
+    "price_n": 2303,
+    "uid": "UT-00937137",
+    "pn": "EAP673",
+    "handle": "tp-link-ax5400-indoor-wifi-6-ceiling-mount-access-point-tp-eap673",
+    "url": "/pages/tp-link-ax5400-indoor-wifi-6-ceiling-mount-access-point-tp-eap673",
     "qty": 9,
-    "image": "https://miro.co.za/img/p/8/7/3/5/8735.jpg",
+    "image": "https://miro.co.za/img/p/1/6/9/8/1/16981.jpg",
     "enquiry": true
    },
    {
@@ -3100,104 +3126,8 @@
    ],
    "total_n": 8552,
    "total": "R8 552"
-  },
-  {
-   "id": "office-unifi-24",
-   "slot": "office_small",
-   "name": "Small office network",
-   "blurb": "Router, switch and Wi-Fi from one family, managed from one app.",
-   "badge": "",
-   "mode": "quote",
-   "note": "The price is for the items. Delivery is quoted with your request, before you pay anything. Network cable and fitting are not included.",
-   "parts": [
-    {
-     "brand": "Ubiquiti",
-     "title": "Ubiquiti UniFi Dream Machine Pro",
-     "spec": "All-In-One enterprise network appliance, 10G SFP+ WAN, 8 port Gbps, 1.",
-     "price": "R9 529",
-     "price_n": 9529,
-     "uid": "UT-FE27A5AF",
-     "pn": "UDM-PRO-EU",
-     "handle": "ubiquiti-unifi-dream-machine-pro-with-8-gigabit-and-2sfp-ports-udm-pro",
-     "url": "/pages/ubiquiti-unifi-dream-machine-pro-with-8-gigabit-and-2sfp-ports-udm-pro",
-     "qty": 9,
-     "image": "https://miro.co.za/img/p/1/3/8/3/2/13832.jpg",
-     "enquiry": true,
-     "role": "Router",
-     "note": "Connects the office to the internet and runs the whole network",
-     "kit_qty": 1
-    },
-    {
-     "brand": "Ubiquiti",
-     "title": "Ubiquiti UniFi 24 Port Gigabit Switch, 16 PoE",
-     "spec": "16 x 802.3at PoE+ ports. 2 x SFP ports. 95W total PoE availability",
-     "price": "R9 204",
-     "price_n": 9204,
-     "uid": "UT-9C89402D",
-     "pn": "USW-24-POE",
-     "handle": "ubiquiti-unifi-24-port-gigabit-16-poe-95w-switch-2sfp-usw-24-poe",
-     "url": "/pages/ubiquiti-unifi-24-port-gigabit-16-poe-95w-switch-2sfp-usw-24-poe",
-     "qty": 9,
-     "image": "https://miro.co.za/img/p/1/0/8/1/2/10812.jpg",
-     "enquiry": true,
-     "role": "Switch",
-     "note": "Cabled points for the office, and power for the Wi-Fi units and desk phones",
-     "kit_qty": 1
-    },
-    {
-     "brand": "Ubiquiti",
-     "title": "Ubiquiti UniFi U7 Pro Wi-Fi 7 Access Point",
-     "spec": "No PoE Injector included, 2.5GbE Uplink, 300+ Connections",
-     "price": "R4 387",
-     "price_n": 4387,
-     "uid": "UT-38F1C327",
-     "pn": "U7-Pro",
-     "handle": "ubiquiti-unifi-wifi-7-pro-tri-band-ap-u7-pro",
-     "url": "/pages/ubiquiti-unifi-wifi-7-pro-tri-band-ap-u7-pro",
-     "qty": 9,
-     "image": "https://miro.co.za/img/p/1/3/4/9/1/13491.jpg",
-     "enquiry": true,
-     "role": "Wi-Fi",
-     "note": "Ceiling units, powered by the switch",
-     "kit_qty": 2
-    },
-    {
-     "brand": "Acconet",
-     "title": "Acconet 9U Wall Mount Cabinet",
-     "spec": "Flat Pack, Glass Door",
-     "price": "R1 619",
-     "price_n": 1619,
-     "uid": "UT-D79D7E37",
-     "pn": "WS3-6409",
-     "handle": "acconet-9u-unassembled-fixed-wall-mount-box-450mm",
-     "url": "/pages/acconet-9u-unassembled-fixed-wall-mount-box-450mm",
-     "qty": 9,
-     "image": "https://miro.co.za/img/p/1/3/4/2/2/13422.jpg",
-     "enquiry": true,
-     "role": "Cabinet",
-     "note": "Keeps the equipment tidy, ventilated and out of reach",
-     "kit_qty": 1
-    },
-    {
-     "brand": "Eaton",
-     "title": "Eaton 5E 900VA UPS",
-     "spec": "Ups And Power",
-     "price": "R1 648",
-     "price_n": 1648,
-     "sku": "5E900UI",
-     "handle": "eaton-5e-900va-gen2-usb-iec-ups",
-     "url": "/products/eaton-5e-900va-gen2-usb-iec-ups",
-     "qty": 32,
-     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E900UI_761f.png",
-     "role": "Backup power",
-     "note": "Covers short power cuts. Not sized for load shedding",
-     "kit_qty": 1
-    }
-   ],
-   "total_n": 30774,
-   "total": "R30 774"
   }
  ],
- "generated": "2026-11-24T14:02:10Z",
+ "generated": "2026-11-24T15:01:44Z",
  "v": 3
 }
