@@ -114,7 +114,7 @@
     "sku": "C38KYAT",
     "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
     "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "qty": 52,
+    "qty": 32,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
    },
    {
@@ -145,15 +145,15 @@
    },
    {
     "brand": "Lenovo",
-    "title": "Lenovo E16 G4 PTL Laptop — Core Ultra 7 · 16GB · 512GB SSD (21YC0035ZA)",
-    "spec": "Core Ultra 7 · 512GB SSD",
-    "price": "R29 213",
-    "price_n": 29213,
-    "sku": "21YC0035ZA",
-    "handle": "lenovo-e16-g4-ptl-u7-355-16gb-ddr5-512gb-ssd-m-2-2242-tlc-g4-integrated-windows-11-pro-64-16-0-wuxga-ag-300nits-fhd-ir-cam-wi-fi-7-802-11be-2x2-bt5-4-y-fpr-3-cell-48whr-65w-usb-c-3pin-za-bklt-kb-us",
-    "url": "/products/lenovo-e16-g4-ptl-u7-355-16gb-ddr5-512gb-ssd-m-2-2242-tlc-g4-integrated-windows-11-pro-64-16-0-wuxga-ag-300nits-fhd-ir-cam-wi-fi-7-802-11be-2x2-bt5-4-y-fpr-3-cell-48whr-65w-usb-c-3pin-za-bklt-kb-us",
-    "qty": 66,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/21YC0035ZA_default.png"
+    "title": "Lenovo LOQ 15AHP10 15.6\" Ryzen-7 16GB 1TB Win 11 Home Notebook",
+    "spec": "Ryzen 7 · 15.6\" screen · 16GB RAM",
+    "price": "R29 028",
+    "price_n": 29028,
+    "sku": "83JG001CSA",
+    "handle": "lenovo-loq-15ahp10-15-6-ryzen-7-16gb-1tb-win-11-home-notebook",
+    "url": "/products/lenovo-loq-15ahp10-15-6-ryzen-7-16gb-1tb-win-11-home-notebook",
+    "qty": 14,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/8/3/83JG001CSA__2__40b1.jpg"
    },
    {
     "brand": "Dell",
@@ -272,7 +272,7 @@
     "sku": "F108D-FV-N10040N0G-GIA",
     "handle": "giada-f108d-intel-n100-1xddr4-3200-mhz-2xhdmi",
     "url": "/products/giada-f108d-intel-n100-1xddr4-3200-mhz-2xhdmi",
-    "qty": 70,
+    "qty": 58,
     "image": "https://www.syntech.co.za/wp-content/uploads/2023/10/F108D-FV-N10040N0G-GIA_wr_01b.jpg"
    },
    {
@@ -644,28 +644,28 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 22 Adjustable Stand E2226HS Monitor",
-    "spec": "Monitors And Displays",
-    "price": "R2 384",
-    "price_n": 2384,
-    "sku": "210-BWPH",
-    "handle": "dell-pro-22-adjustable-stand-monitor-e2226hs-1x-hdmi-1x-dp-1x-vga-integrated-speakers",
-    "url": "/products/dell-pro-22-adjustable-stand-monitor-e2226hs-1x-hdmi-1x-dp-1x-vga-integrated-speakers",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPH_default.jpg"
+    "brand": "HP",
+    "title": "HP Series 3 Pro 27\" FHD Monitor",
+    "spec": "27\" screen",
+    "price": "R2 379",
+    "price_n": 2379,
+    "sku": "B1GM6AS",
+    "handle": "hp-series-3-pro-27-fhd-monitor",
+    "url": "/products/hp-series-3-pro-27-fhd-monitor",
+    "qty": 49,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__63__fa1c.png"
    },
    {
     "brand": "HP",
-    "title": "HP Series 3 Pro 27\" FHD IPS 5ms Monitor",
-    "spec": "27\" screen",
-    "price": "R3 214",
-    "price_n": 3214,
-    "sku": "B0CG8AS",
-    "handle": "hp-series-3-pro-27-fhd-ips-5ms-monitor",
-    "url": "/products/hp-series-3-pro-27-fhd-ips-5ms-monitor",
-    "qty": 10,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/0/B0CG8AS_da71.jpg"
+    "title": "HP Series 3 Pro 24\" FHD Monitor",
+    "spec": "24\" screen",
+    "price": "R3 147",
+    "price_n": 3147,
+    "sku": "9U5C1AA",
+    "handle": "hp-series-3-pro-24-fhd-monitor",
+    "url": "/products/hp-series-3-pro-24-fhd-monitor",
+    "qty": 28,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5C1AA_1ac3.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -754,40 +754,40 @@
     "sku": "UM.HE1EE.G08"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi A24i 2026 24″ 144Hz Full HD 1080P IPS Office Monitor",
-    "spec": "24\" screen",
-    "price": "R2 071",
-    "price_n": 2071,
-    "sku": "ELA6416EU",
-    "handle": "xiaomi-a24i-2026-24-144hz-full-hd-1080p-ips-office-monitor",
-    "url": "/products/xiaomi-a24i-2026-24-144hz-full-hd-1080p-ips-office-monitor",
-    "qty": 180,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6416EU_Xiaomi-A24i-2026-24-inch-144Hz-Full-HD-1080P-IPS-Office-Monitor_wr_01a.jpg"
-   },
-   {
-    "brand": "MSI",
-    "title": "MSI MAG 255F X24 25″ FHD 240Hz IPS Gaming Monitor",
-    "spec": "25\" screen",
-    "price": "R2 661",
-    "price_n": 2661,
-    "sku": "MAG 255F X24",
-    "handle": "msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
-    "url": "/products/msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
-    "qty": 135,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-X24_MSI-MAG-255F-X24-25-inch-FHD-240Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
-   },
-   {
-    "brand": "Xiaomi",
-    "title": "Xiaomi Curved Gaming Monitor G34WQi 2026",
+    "brand": "Samsung",
+    "title": "Samsung Value G3 Flat 24in Monitor 144Hz 3Y warranty",
     "spec": "Monitors And Displays",
-    "price": "R6 899",
-    "price_n": 6899,
-    "sku": "ELA6562EU",
-    "handle": "xiaomi-curved-gaming-monitor-g34wqi-2026",
-    "url": "/products/xiaomi-curved-gaming-monitor-g34wqi-2026",
-    "qty": 121,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/ELA6562EU_Xiaomi_Curved_Gaming_Monitor_G34WQi_2026_wr_03.png"
+    "price": "R2 014",
+    "price_n": 2014,
+    "sku": "LS24HG314EAXXA",
+    "handle": "samsung-value-g3-flat-24in-monitor-144hz-3y-warranty",
+    "url": "/products/samsung-value-g3-flat-24in-monitor-144hz-3y-warranty",
+    "qty": 7,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/LS24HG314EAXXA_default.png"
+   },
+   {
+    "brand": "Xiaomi",
+    "title": "Xiaomi G24i 2026 24″ 200Hz Full HD 1080p IPS Gaming Monitor",
+    "spec": "24\" screen",
+    "price": "R2 660",
+    "price_n": 2660,
+    "sku": "ELA6364EU",
+    "handle": "xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
+    "url": "/products/xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
+    "qty": 203,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6364EU_Xiaomi-G24i-2026-24%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
+   },
+   {
+    "brand": "Xiaomi",
+    "title": "Xiaomi G27Qi 2026 27″ 2K QHD 200Hz Fast IPS Gaming Monitor",
+    "spec": "27\" screen",
+    "price": "R4 240",
+    "price_n": 4240,
+    "sku": "ELA6556EU",
+    "handle": "xiaomi-g27qi-2026-27-2k-qhd-200hz-fast-ips-gaming-monitor",
+    "url": "/products/xiaomi-g27qi-2026-27-2k-qhd-200hz-fast-ips-gaming-monitor",
+    "qty": 90,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6556EU_Xiaomi-G27Qi-2026-27-inch-2K-QHD-200Hz-IPS-Gaming-Monitor_wr_01a.jpg"
    },
    {
     "brand": "Asus",
@@ -1192,17 +1192,17 @@
     "enquiry": true
    },
    {
-    "brand": "Mercusys",
-    "title": "Mercusys Halo Wi-Fi 7 Mesh System (2-Pack)",
-    "spec": "688 Mbps at 2.4 GHz + 2880 Mbps at 5 GHz, 1× 2.5 Gbps Port (WAN/LAN), ",
-    "price": "R2 385",
-    "price_n": 2385,
-    "uid": "UT-4BA22875",
-    "pn": "",
-    "handle": "mercusys-halo-wi-fi-7-mesh-system-2-pack-mrc-halo-e27be",
-    "url": "/pages/mercusys-halo-wi-fi-7-mesh-system-2-pack-mrc-halo-e27be",
+    "brand": "TP-Link Deco",
+    "title": "TP-Link Deco BE25 BE3600 Wi-Fi 7 Mesh System",
+    "spec": "688 Mbps at 2.4 GHz + 2882 Mbps at 5 GHz,2 × 2.5 Gigabit Ports (WAN/LA",
+    "price": "R2 131",
+    "price_n": 2131,
+    "uid": "UT-D1EA8F19",
+    "pn": "Deco BE25(1-pack)",
+    "handle": "tp-link-deco-be25-be3600-wi-fi-7-mesh-system-decobe25-1p",
+    "url": "/pages/tp-link-deco-be25-be3600-wi-fi-7-mesh-system-decobe25-1p",
     "qty": 9,
-    "image": "https://miro.co.za/img/p/2/0/7/6/2/20762.jpg",
+    "image": "https://miro.co.za/img/p/1/8/3/4/0/18340.jpg",
     "enquiry": true
    }
   ],
@@ -1485,7 +1485,7 @@
     "sku": "470-BGCG",
     "handle": "dell-pro-7-in-1-usb-c-mobile-docking-station",
     "url": "/products/dell-pro-7-in-1-usb-c-mobile-docking-station",
-    "qty": 52,
+    "qty": 50,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__23__d7c1.png"
    },
    {
@@ -1561,7 +1561,7 @@
     "sku": "CR113-20290",
     "handle": "ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
     "url": "/products/ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
-    "qty": 54,
+    "qty": 53,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CR113-20290_UGREEN-4-Port-USB-3.0-Hub-with-Micro-USB_wr_01a.jpg"
    },
    {
@@ -1711,7 +1711,7 @@
     "sku": "98012201",
     "handle": "huawei-s310-24p4s-24-ports-poe-switch",
     "url": "/products/huawei-s310-24p4s-24-ports-poe-switch",
-    "qty": 171,
+    "qty": 172,
     "image": "https://www.pinnacle.co.za/media/catalog/product/h/u/huawei_switch_s310_24p4s_24ge_ports_4ge_sfp_ports_poe_ac_power_98012201_380436__c994.png"
    },
    {
@@ -1823,16 +1823,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DTKNG2/64GB_default.jpg"
    },
    {
-    "brand": "Targus",
-    "title": "Targus Hyper HyperDrive EcoSmart USB4 SSD Enclosure",
+    "brand": "Patriot",
+    "title": "Patriot P300 512GB M.2 PCIe NVMe SSD",
     "spec": "Storage",
-    "price": "R2 002",
-    "price_n": 2002,
-    "sku": "HD5001GL",
-    "handle": "targus-hyper-hyperdrive-ecosmart-usb4-ssd-enclosure",
-    "url": "/products/targus-hyper-hyperdrive-ecosmart-usb4-ssd-enclosure",
-    "qty": 5,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/HD5001GL_default.png"
+    "price": "R1 988",
+    "price_n": 1988,
+    "sku": "P300P512GM28",
+    "handle": "patriot-p300-512gb-m-2-pcie-nvme-ssd",
+    "url": "/products/patriot-p300-512gb-m-2-pcie-nvme-ssd",
+    "qty": 207,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2021/10/P300P512GM28_wr_01.jpg"
    },
    {
     "brand": "SanDisk",
@@ -1979,7 +1979,7 @@
     "handle": "asus-prime-750w-80-plus-bronze-atx-non-modular-power-supply",
     "url": "https://ubratech.co.za/products/asus-prime-750w-80-plus-bronze-atx-non-modular-power-supply",
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/PRIME-750B-BLACK_Asus-PRIME-750W-80-PLUS-Bronze-ATX-Non-modular-Power-Supply_wr_01a.jpg",
-    "qty": 49,
+    "qty": 48,
     "sku": "PRIME-750B-BLACK"
    },
    {
@@ -2060,7 +2060,7 @@
     "brand": "Xiaomi",
     "title": "Xiaomi Robot Vacuum S40C",
     "spec": "App control · auto cleaning",
-    "price": "R2 728",
+    "price": "R2 790",
     "handle": "xiaomi-robot-vacuum-s40c",
     "url": "https://ubratech.co.za/products/xiaomi-robot-vacuum-s40c",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/BHR9664EU_Xiaomi-Robot-Vacuum-S40C_wr_02a-1.jpg",
@@ -2076,7 +2076,7 @@
     "sku": "YTC4040GL",
     "handle": "xiaomi-wireless-switch",
     "url": "/products/xiaomi-wireless-switch",
-    "qty": 108,
+    "qty": 107,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/06/YTC4040GL_wr_01.jpg"
    },
    {
@@ -2175,28 +2175,28 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/02/RD-H376BR_wr_01.jpg"
    },
    {
-    "brand": "Nearity",
-    "title": "Nearity AW-SP100 Wireless Speakerphone",
-    "spec": "Headsets",
-    "price": "R1 132",
-    "price_n": 1132,
-    "sku": "AW-SP100",
-    "handle": "nearity-aw-sp100-wireless-speakerphone",
-    "url": "/products/nearity-aw-sp100-wireless-speakerphone",
-    "qty": 15,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_Design__67__28ea.png"
+    "brand": "Xiaomi",
+    "title": "Xiaomi Redmi Headphones Neo ANC Wireless Over-Ears - White",
+    "spec": "Tv And Audio",
+    "price": "R1 213",
+    "price_n": 1213,
+    "sku": "BHR08W2GL",
+    "handle": "xiaomi-redmi-headphones-neo-anc-wireless-over-ears-white",
+    "url": "/products/xiaomi-redmi-headphones-neo-anc-wireless-over-ears-white",
+    "qty": 14,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/BHR08W2GL_Redmi-Headphones-Neo-ANC-Wireless-Over-Ears-White_wr_01a.jpg"
    },
    {
-    "brand": "Poly",
-    "title": "Poly Voyager Surround 85 UC Microsoft Teams Certified USB-C Headset",
+    "brand": "HP",
+    "title": "Poly Sync 60 Microsoft Teams Certified Speakerphone",
     "spec": "Headsets",
-    "price": "R6 056",
-    "price_n": 6056,
-    "sku": "8G7T8AA",
-    "handle": "poly-voyager-surround-85-uc-microsoft-teams-certified-usb-c-headset",
-    "url": "/products/poly-voyager-surround-85-uc-microsoft-teams-certified-usb-c-headset",
+    "price": "R9 267",
+    "price_n": 9267,
+    "sku": "77P41AA",
+    "handle": "poly-sync-60-microsoft-teams-certified-speakerphone",
+    "url": "/products/poly-sync-60-microsoft-teams-certified-speakerphone",
     "qty": 3,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/8G7T8AA_default.jpg"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/77P41AA_default.png"
    }
   ],
   "everyday": [
@@ -2367,7 +2367,7 @@
     "sku": "DS-2CD2046G2H-I-4MM",
     "handle": "hikvision-4mp-4mm-powered-by-darkfighter-fixed-mini-bullet-network-camera",
     "url": "/products/hikvision-4mp-4mm-powered-by-darkfighter-fixed-mini-bullet-network-camera",
-    "qty": 90,
+    "qty": 84,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_4MM_888c.jpg"
    },
    {
@@ -2417,7 +2417,7 @@
     "sku": "DS-2CD2046G2H-I-4MM",
     "handle": "hikvision-4mp-4mm-powered-by-darkfighter-fixed-mini-bullet-network-camera",
     "url": "/products/hikvision-4mp-4mm-powered-by-darkfighter-fixed-mini-bullet-network-camera",
-    "qty": 90,
+    "qty": 84,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_4MM_888c.jpg"
    },
    {
@@ -2467,7 +2467,7 @@
     "sku": "DS-2CD2046G2H-I-4MM",
     "handle": "hikvision-4mp-4mm-powered-by-darkfighter-fixed-mini-bullet-network-camera",
     "url": "/products/hikvision-4mp-4mm-powered-by-darkfighter-fixed-mini-bullet-network-camera",
-    "qty": 90,
+    "qty": 84,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_4MM_888c.jpg"
    },
    {
@@ -3163,6 +3163,6 @@
    "total": "R30 774"
   }
  ],
- "generated": "2026-11-24T11:01:40Z",
+ "generated": "2026-11-24T12:01:57Z",
  "v": 3
 }
