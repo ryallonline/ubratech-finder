@@ -236,7 +236,7 @@
     "sku": "AC16251_ARLHX_013_OLED",
     "handle": "dell-alienware-16-intel-core-9-290hx-36mb-up-to-5-5-ghz-32gb-2x16gb-5600mt-s-ddr5-1tb-ssd-pcie-nvme-m-2-16-0-wqxga-2560x1600-oled-240hz-comfortviewplus-nvidia-geforce-rtx-5070-8gb-mediatek-wi-fi-6",
     "url": "/products/dell-alienware-16-intel-core-9-290hx-36mb-up-to-5-5-ghz-32gb-2x16gb-5600mt-s-ddr5-1tb-ssd-pcie-nvme-m-2-16-0-wqxga-2560x1600-oled-240hz-comfortviewplus-nvidia-geforce-rtx-5070-8gb-mediatek-wi-fi-6",
-    "qty": 4,
+    "qty": 6,
     "image": "https://s3.amazonaws.com/tarsus.co.za/AC16251_ARLHX_013_OLED_default.jpg"
    }
   ]
@@ -565,7 +565,7 @@
     "sku": "AC16251_ARLHX_013_OLED",
     "handle": "dell-alienware-16-intel-core-9-290hx-36mb-up-to-5-5-ghz-32gb-2x16gb-5600mt-s-ddr5-1tb-ssd-pcie-nvme-m-2-16-0-wqxga-2560x1600-oled-240hz-comfortviewplus-nvidia-geforce-rtx-5070-8gb-mediatek-wi-fi-6",
     "url": "/products/dell-alienware-16-intel-core-9-290hx-36mb-up-to-5-5-ghz-32gb-2x16gb-5600mt-s-ddr5-1tb-ssd-pcie-nvme-m-2-16-0-wqxga-2560x1600-oled-240hz-comfortviewplus-nvidia-geforce-rtx-5070-8gb-mediatek-wi-fi-6",
-    "qty": 4,
+    "qty": 6,
     "image": "https://s3.amazonaws.com/tarsus.co.za/AC16251_ARLHX_013_OLED_default.jpg"
    }
   ],
@@ -1194,17 +1194,17 @@
     "enquiry": true
    },
    {
-    "brand": "TP-Link Deco",
-    "title": "TP-Link Deco BE25 BE3600 Wi-Fi 7 Mesh System",
-    "spec": "688 Mbps at 2.4 GHz + 2882 Mbps at 5 GHz,2 × 2.5 Gigabit Ports (WAN/LA",
-    "price": "R2 131",
-    "price_n": 2131,
-    "uid": "UT-D1EA8F19",
-    "pn": "Deco BE25(1-pack)",
-    "handle": "tp-link-deco-be25-be3600-wi-fi-7-mesh-system-decobe25-1p",
-    "url": "/pages/tp-link-deco-be25-be3600-wi-fi-7-mesh-system-decobe25-1p",
+    "brand": "Mercusys",
+    "title": "Mercusys Halo Wi-Fi 7 Mesh System (2-Pack)",
+    "spec": "688 Mbps at 2.4 GHz + 2880 Mbps at 5 GHz, 1× 2.5 Gbps Port (WAN/LAN), ",
+    "price": "R2 385",
+    "price_n": 2385,
+    "uid": "UT-4BA22875",
+    "pn": "",
+    "handle": "mercusys-halo-wi-fi-7-mesh-system-2-pack-mrc-halo-e27be",
+    "url": "/pages/mercusys-halo-wi-fi-7-mesh-system-2-pack-mrc-halo-e27be",
     "qty": 9,
-    "image": "https://miro.co.za/img/p/1/8/3/4/0/18340.jpg",
+    "image": "https://miro.co.za/img/p/2/0/7/6/2/20762.jpg",
     "enquiry": true
    }
   ],
@@ -3128,6 +3128,6 @@
    "total": "R8 552"
   }
  ],
- "generated": "2026-11-24T17:01:33Z",
+ "generated": "2026-11-24T18:01:36Z",
  "v": 3
 }
