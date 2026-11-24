@@ -354,7 +354,7 @@
     "sku": "PCB-AIO-FIB24-I5161000-D5",
     "handle": "pcbuilder-fusion-24-intel-core-i5-12400-16gb-ddr5-1tb-windows-11-aio-desktop-pc",
     "url": "/products/pcbuilder-fusion-24-intel-core-i5-12400-16gb-ddr5-1tb-windows-11-aio-desktop-pc",
-    "qty": 32,
+    "qty": 31,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/05/PCB-AIO-FIB24-I5161000-D5_PCBuilder-FUSION-24-inch-Intel-Core-i5-12400-16GB-DDR5-1TB-Windows-11-AiO-Desktop-PC_wr_01a.jpg"
    },
    {
@@ -627,7 +627,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 251,
+    "qty": 248,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -810,7 +810,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 251,
+    "qty": 248,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -930,16 +930,16 @@
    },
    {
     "brand": "UPS",
-    "title": "Acconet 1200VA/600W Offline UPS",
-    "spec": "5-10 Minutes Run Time @ 600W Load.",
-    "price": "R1 643",
-    "price_n": 1643,
-    "uid": "UT-CBF6889D",
-    "pn": "DG1000VA + Fuses + Labels + Branding",
-    "handle": "ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
-    "url": "/pages/ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
+    "title": "Acconet 700VA/360W Offline UPS",
+    "spec": "5-10 Minutes Run Time @ 360W Load.",
+    "price": "R994",
+    "price_n": 994,
+    "uid": "UT-658CAD9E",
+    "pn": "DG 600VA + Fuses + Labels + Branding",
+    "handle": "ups-acconet-700va-360w-offline-ups-ac-ups-700",
+    "url": "/pages/ups-acconet-700va-360w-offline-ups-ac-ups-700",
     "qty": 9,
-    "image": "https://miro.co.za/img/p/6/2/0/2/6202.jpg",
+    "image": "https://miro.co.za/img/p/6/1/9/7/6197.jpg",
     "enquiry": true
    }
   ],
@@ -1002,20 +1002,6 @@
     "url": "/products/eaton-5e-1600va-gen2-usb-iec-ups",
     "qty": 22,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
-   },
-   {
-    "brand": "UPS",
-    "title": "Acconet 1200VA/600W Offline UPS",
-    "spec": "5-10 Minutes Run Time @ 600W Load.",
-    "price": "R1 643",
-    "price_n": 1643,
-    "uid": "UT-CBF6889D",
-    "pn": "DG1000VA + Fuses + Labels + Branding",
-    "handle": "ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
-    "url": "/pages/ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/6/2/0/2/6202.jpg",
-    "enquiry": true
    }
   ],
   "multi": [
@@ -1575,7 +1561,7 @@
     "sku": "CR113-20290",
     "handle": "ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
     "url": "/products/ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
-    "qty": 55,
+    "qty": 54,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CR113-20290_UGREEN-4-Port-USB-3.0-Hub-with-Micro-USB_wr_01a.jpg"
    },
    {
@@ -1706,15 +1692,15 @@
    },
    {
     "brand": "TP-Link",
-    "title": "TP-Link 6 Port Unmanaged POE Desktop Switch",
-    "spec": "6 ports",
-    "price": "R492",
-    "price_n": 492,
-    "sku": "TL-SF1006P",
-    "handle": "tp-link-6-port-unmanaged-poe-desktop-switch",
-    "url": "/products/tp-link-6-port-unmanaged-poe-desktop-switch",
-    "qty": 13,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SF1006P_a8c6.png"
+    "title": "TP-Link 5 Port Gigabit Smart Switch",
+    "spec": "5 ports",
+    "price": "R326",
+    "price_n": 326,
+    "sku": "TL-SG105E",
+    "handle": "tp-link-5-port-gigabit-smart-switch",
+    "url": "/products/tp-link-5-port-gigabit-smart-switch",
+    "qty": 3,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG105E_ef37.jpg"
    },
    {
     "brand": "Huawei",
@@ -1730,15 +1716,15 @@
    },
    {
     "brand": "Huawei",
-    "title": "Huawei S310-48P4X Ekit 48 Port POE Switch",
+    "title": "Huawei S310-48P4S Ekit 48 Port POE Switch",
     "spec": "48 ports",
     "price": "R6 925",
     "price_n": 6925,
-    "sku": "98012385",
-    "handle": "huawei-s310-48p4x-ekit-48-port-poe-switch",
-    "url": "/products/huawei-s310-48p4x-ekit-48-port-poe-switch",
-    "qty": 5,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_fcaa.png"
+    "sku": "98012384",
+    "handle": "huawei-s310-48p4s-ekit-48-port-poe-switch",
+    "url": "/products/huawei-s310-48p4s-ekit-48-port-poe-switch",
+    "qty": 108,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_12a1.png"
    },
    {
     "brand": "Tenda",
@@ -1997,6 +1983,17 @@
     "sku": "PRIME-750B-BLACK"
    },
    {
+    "brand": "DeepCool",
+    "title": "DeepCool AK400 G2 120mm CPU Air Cooler",
+    "spec": "Quiet, effective cooling",
+    "price": "R613",
+    "handle": "deepcool-ak400-g2-120mm-cpu-air-cooler-white",
+    "url": "https://ubratech.co.za/products/deepcool-ak400-g2-120mm-cpu-air-cooler-white",
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/R-AK400G2-WHNNMN-GJD_DeepCool-AK400-G2-120mm-CPU-Air-Cooler-White_wr_01.jpg",
+    "qty": 23,
+    "sku": "R-AK400G2-WHNNMN-GJD"
+   },
+   {
     "brand": "Gizzu",
     "title": "Gizzu 30W 38Wh Mini DC UPS",
     "spec": "Keeps router & fibre online",
@@ -2238,28 +2235,28 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "Gizzu",
-    "title": "Gizzu 4K60Hz DisplayPort to HDMI Active Adapter",
+    "brand": "Ugreen",
+    "title": "UGREEN VG101 VGA Male to Male Cable 3M",
     "spec": "Cables And Adapters",
     "price": "R125",
     "price_n": 125,
-    "sku": "GAPDPHA",
-    "handle": "gizzu-4k60hz-displayport-to-hdmi-active-adapter",
-    "url": "/products/gizzu-4k60hz-displayport-to-hdmi-active-adapter",
-    "qty": 30,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/GIZZU-GAPDPHA-45-0004-Edit_1500x1500.jpg"
+    "sku": "VG101-11631",
+    "handle": "ugreen-vg101-vga-male-to-male-cable-3m",
+    "url": "/products/ugreen-vg101-vga-male-to-male-cable-3m",
+    "qty": 25,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/VG101-11631_UGreen-VGA-Cable-3M_wr_01a.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP Wired 320MK combo",
-    "spec": "Accessories",
+    "brand": "Port",
+    "title": "Port 45W Universal AC Adapter (900096B-EU)",
+    "spec": "Cables And Adapters",
     "price": "R414",
     "price_n": 414,
-    "sku": "9SR36UT",
-    "handle": "hp-wired-320mk-combo",
-    "url": "/products/hp-wired-320mk-combo",
-    "qty": 9,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/9SR36UT_default.png"
+    "sku": "900096B-EU",
+    "handle": "port-45w-universal-ac-adapter-900096b-eu",
+    "url": "/products/port-45w-universal-ac-adapter-900096b-eu",
+    "qty": 90,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__2__35ed.png"
    },
    {
     "brand": "HP",
@@ -3166,6 +3163,6 @@
    "total": "R30 774"
   }
  ],
- "generated": "2026-11-24T10:02:12Z",
+ "generated": "2026-11-24T11:01:40Z",
  "v": 3
 }
