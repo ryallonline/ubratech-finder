@@ -144,28 +144,28 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 14 Essential PV14255 Laptop — 16GB (PV14255_KRK_501)",
-    "spec": "Notebooks",
-    "price": "R29 001",
-    "price_n": 29001,
-    "sku": "PV14255_KRK_501",
-    "handle": "dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
-    "url": "/products/dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
-    "qty": 36,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/PV14255_KRK_501_default.jpg"
+    "brand": "Lenovo",
+    "title": "Lenovo E16 G4 PTL Laptop — Core Ultra 7 · 16GB · 512GB SSD (21YC0035ZA)",
+    "spec": "Core Ultra 7 · 512GB SSD",
+    "price": "R29 213",
+    "price_n": 29213,
+    "sku": "21YC0035ZA",
+    "handle": "lenovo-e16-g4-ptl-u7-355-16gb-ddr5-512gb-ssd-m-2-2242-tlc-g4-integrated-windows-11-pro-64-16-0-wuxga-ag-300nits-fhd-ir-cam-wi-fi-7-802-11be-2x2-bt5-4-y-fpr-3-cell-48whr-65w-usb-c-3pin-za-bklt-kb-us",
+    "url": "/products/lenovo-e16-g4-ptl-u7-355-16gb-ddr5-512gb-ssd-m-2-2242-tlc-g4-integrated-windows-11-pro-64-16-0-wuxga-ag-300nits-fhd-ir-cam-wi-fi-7-802-11be-2x2-bt5-4-y-fpr-3-cell-48whr-65w-usb-c-3pin-za-bklt-kb-us",
+    "qty": 66,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/21YC0035ZA_default.png"
    },
    {
-    "brand": "HP",
-    "title": "HP ZBook 8 G1i Laptop — Core Ultra 5 · 24GB · 1TB SSD (DM7P4ES)",
-    "spec": "Core Ultra 5 · 1TB SSD",
-    "price": "R38 809",
-    "price_n": 38809,
-    "sku": "DM7P4ES",
-    "handle": "hp-zbook-8-g1i-14inch-dsc-rtx-500-ada-4gb-u5-225h-lcd-14-0wuxgaagled300uwvafwwanf5mpirlpln-ram-24gb-ddr5-5600-ssd-1tb-pcie4x4-nvme-tlc-ost-w11p6-hp-3y-onsite-mws-supp-no-country-of-origin-restriction",
-    "url": "/products/hp-zbook-8-g1i-14inch-dsc-rtx-500-ada-4gb-u5-225h-lcd-14-0wuxgaagled300uwvafwwanf5mpirlpln-ram-24gb-ddr5-5600-ssd-1tb-pcie4x4-nvme-tlc-ost-w11p6-hp-3y-onsite-mws-supp-no-country-of-origin-restriction",
-    "qty": 13,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DM7P4ES_default.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 14 Plus Laptop — Core Ultra 5 · 16GB (BTO212_PB14250_EMEA-5G)",
+    "spec": "Core Ultra 5",
+    "price": "R39 945",
+    "price_n": 39945,
+    "sku": "BTO212_PB14250_EMEA-5G",
+    "handle": "dell-pro-14-plus-intel-core-ultra-5-236v-vpro-40-tops-npu-8-cores-up-to-4-7-ghz-16-gb-lpddr5x-8533-mt-s-onboard-512-gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-5-236v-vpro-processor-16",
+    "url": "/products/dell-pro-14-plus-intel-core-ultra-5-236v-vpro-40-tops-npu-8-cores-up-to-4-7-ghz-16-gb-lpddr5x-8533-mt-s-onboard-512-gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-5-236v-vpro-processor-16",
+    "qty": 48,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO212_PB14250_EMEA-5G_default.jpg"
    },
    {
     "brand": "Lenovo",
@@ -330,7 +330,7 @@
     "price": "R25 861",
     "handle": "dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
     "url": "https://ubratech.co.za/products/dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
-    "qty": 12,
+    "qty": 11,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO105_QCS1250_EMEA_default.png"
    },
    {
@@ -390,7 +390,7 @@
     "price": "R25 861",
     "handle": "dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
     "url": "https://ubratech.co.za/products/dell-pro-slim-qcs1250-desktop-pc-core-ultra-5-512gb-ssd-bto105_qcs1250_emea",
-    "qty": 12,
+    "qty": 11,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO105_QCS1250_EMEA_default.png"
    },
    {
@@ -438,7 +438,7 @@
     "sku": "PW516261-U7-321TB-5G",
     "handle": "dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
     "url": "/products/dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
-    "qty": 19,
+    "qty": 18,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PW516261-U7-321TB-5G_default.jpg"
    }
   ],
@@ -463,7 +463,7 @@
     "sku": "PW516261-U7-321TB-5G",
     "handle": "dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
     "url": "/products/dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
-    "qty": 19,
+    "qty": 18,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PW516261-U7-321TB-5G_default.jpg"
    }
   ]
@@ -545,16 +545,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/NH_QZAEA_006_Acer_NITRO_V_15_Gaming_Laptop_156_Intel__wr_01.png"
    },
    {
-    "brand": "Asus",
-    "title": "Asus ROG Strix G16 16\" Core-U9 16GB 1TB Win 11 Home Notebook (G615LP-U91610G0W)",
-    "spec": "16\" screen · 16GB RAM",
-    "price": "R49 293",
-    "price_n": 49293,
-    "sku": "G615LP-U91610G0W",
-    "handle": "asus-rog-strix-g16-16-core-u9-16gb-1tb-win-11-home-notebook-g615lp-u91610g0w",
-    "url": "/products/asus-rog-strix-g16-16-core-u9-16gb-1tb-win-11-home-notebook-g615lp-u91610g0w",
-    "qty": 3,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__39__3504.png"
+    "brand": "Acer",
+    "title": "Acer Predator HELIOS NEO 16 AI Gaming Laptop 1 Laptop",
+    "spec": "Notebooks",
+    "price": "R49 278",
+    "price_n": 49278,
+    "sku": "NH.U42EA.003",
+    "handle": "acer-predator-helios-neo-16-ai-gaming-laptop-16-intel-ultra-9-290hx-plus-16gb-1tb-rtx-5070-8gb-windows-11-home",
+    "url": "/products/acer-predator-helios-neo-16-ai-gaming-laptop-16-intel-ultra-9-290hx-plus-16gb-1tb-rtx-5070-8gb-windows-11-home",
+    "qty": 14,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/NH_U42EA_003_Acer_Predator_HELIOS_NEO_16_AI_Gaming_La_wr_01.png"
    },
    {
     "brand": "Dell",
@@ -627,7 +627,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 265,
+    "qty": 259,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -644,28 +644,28 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 22 Adjustable Stand E2226HS Monitor",
-    "spec": "Monitors And Displays",
-    "price": "R2 384",
-    "price_n": 2384,
-    "sku": "210-BWPH",
-    "handle": "dell-pro-22-adjustable-stand-monitor-e2226hs-1x-hdmi-1x-dp-1x-vga-integrated-speakers",
-    "url": "/products/dell-pro-22-adjustable-stand-monitor-e2226hs-1x-hdmi-1x-dp-1x-vga-integrated-speakers",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPH_default.jpg"
+    "brand": "HP",
+    "title": "HP Series 3 Pro 27\" FHD Monitor",
+    "spec": "27\" screen",
+    "price": "R2 379",
+    "price_n": 2379,
+    "sku": "B1GM6AS",
+    "handle": "hp-series-3-pro-27-fhd-monitor",
+    "url": "/products/hp-series-3-pro-27-fhd-monitor",
+    "qty": 49,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__63__fa1c.png"
    },
    {
-    "brand": "MSI",
-    "title": "MSI MAG 275F E20 27\" FHD 200Hz Rapid IPS Gaming Monitor",
+    "brand": "HP",
+    "title": "HP Series 3 Pro 27\" FHD IPS 5ms Monitor",
     "spec": "27\" screen",
-    "price": "R3 249",
-    "price_n": 3249,
-    "sku": "MAG 275F E20",
-    "handle": "msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
-    "url": "/products/msi-mag-275f-e20-27-fhd-200hz-rapid-ips-gaming-monitor",
-    "qty": 15,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-275F-E20_MSI-MAG-275F-E20-27inch-FHD-200Hz-Gaming-Montor-wr01.jpeg"
+    "price": "R3 214",
+    "price_n": 3214,
+    "sku": "B0CG8AS",
+    "handle": "hp-series-3-pro-27-fhd-ips-5ms-monitor",
+    "url": "/products/hp-series-3-pro-27-fhd-ips-5ms-monitor",
+    "qty": 10,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/B/0/B0CG8AS_da71.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -809,7 +809,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 265,
+    "qty": 259,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -838,16 +838,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6364EU_Xiaomi-G24i-2026-24%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro P24 23.8\" FHD IPS Monitor",
-    "spec": "23.8\" screen",
-    "price": "R3 455",
-    "price_n": 3455,
-    "sku": "210-BVKM",
-    "handle": "dell-pro-p24-23-8-fhd-ips-monitor",
-    "url": "/products/dell-pro-p24-23-8-fhd-ips-monitor",
-    "qty": 99,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVKM_290f.jpg"
+    "brand": "Xiaomi",
+    "title": "Xiaomi A27Qi 2026 27\" inch 120Hz 2K IPS Office Monitor",
+    "spec": "27\" screen",
+    "price": "R3 449",
+    "price_n": 3449,
+    "sku": "ELA6568EU",
+    "handle": "xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
+    "url": "/products/xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
+    "qty": 119,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6568EU_Xiaomi-A27Qi-2026-27-inch-2K-120Hz-IPS-Office-Monitor_wr_01a.jpg"
    },
    {
     "brand": "Asus",
@@ -1478,16 +1478,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/900160_Port-Connect-USB-Type-C-to-4-port-USB-A-3.0-2.0-Hub_wr_01a.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port Connect 5-in-1 USB Type-C 4K Docking Station",
+    "brand": "Winx",
+    "title": "WINX CONNECT Pro 6-in-1 Type-C Hub",
     "spec": "Docking Station",
-    "price": "R305",
-    "price_n": 305,
-    "sku": "900162",
-    "handle": "port-connect-5-in-1-usb-type-c-4k-docking-station",
-    "url": "/products/port-connect-5-in-1-usb-type-c-4k-docking-station",
-    "qty": 70,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/900162_Port-Connect-5-in-1-USB-Type-C-4K-Docking-Station-Grey_wr_01a.jpg"
+    "price": "R494",
+    "price_n": 494,
+    "sku": "WX-HB111",
+    "handle": "winx-connect-pro-6-in-1-type-c-hub",
+    "url": "/products/winx-connect-pro-6-in-1-type-c-hub",
+    "qty": 280,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/WINX_WX-HB111_Connect-Pro-6-in-1-Type-C-Hub-45-0116-Edit1500x1500-96DPI.jpg"
    },
    {
     "brand": "Dell",
@@ -1528,16 +1528,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900140_0708.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 7-in-1 USB-C Mobile Docking Station",
+    "brand": "Targus",
+    "title": "Targus - USB-C Multi-Function DisplayPort Alt Triple Video with 85W… (DOCK430EUZ)",
     "spec": "Docking Station",
-    "price": "R1 489",
-    "price_n": 1489,
-    "sku": "470-BGCG",
-    "handle": "dell-pro-7-in-1-usb-c-mobile-docking-station",
-    "url": "/products/dell-pro-7-in-1-usb-c-mobile-docking-station",
-    "qty": 52,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__23__d7c1.png"
+    "price": "R2 267",
+    "price_n": 2267,
+    "sku": "DOCK430EUZ",
+    "handle": "targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
+    "url": "/products/targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
+    "qty": 34,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK430EUZ_default.jpg"
    },
    {
     "brand": "Port",
@@ -2226,16 +2226,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "Redragon",
-    "title": "REDRAGON METEOR L Gaming WristPad 435x73x20mm",
-    "spec": "Accessories",
+    "brand": "Winx",
+    "title": "WINX VIEW simple car phone holder - Black",
+    "spec": "Power Adapter",
     "price": "R122",
     "price_n": 122,
-    "sku": "RD-P037",
-    "handle": "redragon-meteor-l-gaming-wristpad-435x73x20mm",
-    "url": "/products/redragon-meteor-l-gaming-wristpad-435x73x20mm",
-    "qty": 98,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/RD-P037_wr_01.jpg"
+    "sku": "WX-CC105",
+    "handle": "winx-view-simple-car-phone-holder-black",
+    "url": "/products/winx-view-simple-car-phone-holder-black",
+    "qty": 137,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/06/WX-CC105_WINX-VIEW-simple-car-phone-holder-%E2%80%93-Black_wr_01a.jpg"
    },
    {
     "brand": "Winx",
@@ -2267,7 +2267,7 @@
     "brand": "Logitech",
     "title": "Logitech MK540 Advanced Wireless Combo",
     "spec": "Keyboard & mouse · palm rest",
-    "price": "R842",
+    "price": "R850",
     "handle": "logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "url": "https://ubratech.co.za/products/logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "image": "https://s3.amazonaws.com/tarsus.co.za/920-008685_default.jpg",
@@ -2310,16 +2310,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B2AA_dac7.jpg"
    },
    {
-    "brand": "Keychron",
-    "title": "Keychron B2 Pro Ultra-Slim 96% Wireless Keyboard - Ivory White",
-    "spec": "Keyboards",
-    "price": "R748",
-    "price_n": 748,
-    "sku": "B2P-K8",
-    "handle": "keychron-b2-pro-ultra-slim-96-wireless-keyboard-ivory-white",
-    "url": "/products/keychron-b2-pro-ultra-slim-96-wireless-keyboard-ivory-white",
-    "qty": 39,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/B2P-K8_Keychron-B2-Pro-Ultra-Slim-96-Wireless-Keyboard-Ivory-White_wr_01a.jpg"
+    "brand": "Dell",
+    "title": "Dell Premier Rechargeable Wireless Mouse - MS7421W",
+    "spec": "Wired Mouse",
+    "price": "R747",
+    "price_n": 747,
+    "sku": "570-ABLO",
+    "handle": "dell-premier-rechargeable-wireless-mouse-ms7421w",
+    "url": "/products/dell-premier-rechargeable-wireless-mouse-ms7421w",
+    "qty": 8,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/570-ABLO_default.jpg"
    },
    {
     "brand": "Keychron",
@@ -2346,7 +2346,7 @@
     "sku": "DS-2CD2121G0-LIU-2.8MM",
     "handle": "hikvision-2mp-2-8mm-fixed-dome-network-camera",
     "url": "/products/hikvision-2mp-2-8mm-fixed-dome-network-camera",
-    "qty": 378,
+    "qty": 376,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2121G0_LIU_2.8MM_4d7a.jpg"
    },
    {
@@ -2396,7 +2396,7 @@
     "sku": "DS-2CD2121G0-LIU-2.8MM",
     "handle": "hikvision-2mp-2-8mm-fixed-dome-network-camera",
     "url": "/products/hikvision-2mp-2-8mm-fixed-dome-network-camera",
-    "qty": 378,
+    "qty": 376,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2121G0_LIU_2.8MM_4d7a.jpg"
    },
    {
@@ -2496,7 +2496,7 @@
     "sku": "DS-2CE16D0T-EXIPF2.8MM",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 25592,
+    "qty": 25547,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
@@ -2546,7 +2546,7 @@
     "sku": "DS-2CE16D0T-EXIPF2.8MM",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 25592,
+    "qty": 25547,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
@@ -2596,7 +2596,7 @@
     "sku": "DS-2CE16D0T-EXIPF2.8MM",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 25592,
+    "qty": 25547,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
@@ -3154,6 +3154,6 @@
    "total": "R30 768"
   }
  ],
- "generated": "2026-11-24T07:01:54Z",
+ "generated": "2026-11-24T08:01:55Z",
  "v": 3
 }
