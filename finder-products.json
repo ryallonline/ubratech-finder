@@ -44,7 +44,7 @@
     "sku": "C78E8AT",
     "handle": "hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
     "url": "/products/hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
-    "qty": 19,
+    "qty": 37,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/7/C78E8AT_98d1.jpg"
    },
    {
@@ -145,15 +145,15 @@
    },
    {
     "brand": "Lenovo",
-    "title": "Lenovo LOQ 15AHP10 15.6\" Ryzen-7 16GB 1TB Win 11 Home Notebook",
-    "spec": "Ryzen 7 · 15.6\" screen · 16GB RAM",
-    "price": "R29 028",
-    "price_n": 29028,
-    "sku": "83JG001CSA",
-    "handle": "lenovo-loq-15ahp10-15-6-ryzen-7-16gb-1tb-win-11-home-notebook",
-    "url": "/products/lenovo-loq-15ahp10-15-6-ryzen-7-16gb-1tb-win-11-home-notebook",
-    "qty": 14,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/8/3/83JG001CSA__2__40b1.jpg"
+    "title": "Lenovo E16 G4 PTL Laptop — Core Ultra 7 · 16GB · 512GB SSD (21YC0035ZA)",
+    "spec": "Core Ultra 7 · 512GB SSD",
+    "price": "R29 213",
+    "price_n": 29213,
+    "sku": "21YC0035ZA",
+    "handle": "lenovo-e16-g4-ptl-u7-355-16gb-ddr5-512gb-ssd-m-2-2242-tlc-g4-integrated-windows-11-pro-64-16-0-wuxga-ag-300nits-fhd-ir-cam-wi-fi-7-802-11be-2x2-bt5-4-y-fpr-3-cell-48whr-65w-usb-c-3pin-za-bklt-kb-us",
+    "url": "/products/lenovo-e16-g4-ptl-u7-355-16gb-ddr5-512gb-ssd-m-2-2242-tlc-g4-integrated-windows-11-pro-64-16-0-wuxga-ag-300nits-fhd-ir-cam-wi-fi-7-802-11be-2x2-bt5-4-y-fpr-3-cell-48whr-65w-usb-c-3pin-za-bklt-kb-us",
+    "qty": 66,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/21YC0035ZA_default.png"
    },
    {
     "brand": "Dell",
@@ -406,16 +406,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro Micro QCM1250 Core U5-235T 16GB 512GB Win 11 Pro Desktop",
-    "spec": "16GB RAM",
-    "price": "R26 520",
-    "price_n": 26520,
-    "sku": "BTO106_QCM1250",
-    "handle": "dell-pro-micro-qcm1250-core-u5-235t-16gb-512gb-win-11-pro-desktop",
-    "url": "/products/dell-pro-micro-qcm1250-core-u5-235t-16gb-512gb-win-11-pro-desktop",
-    "qty": 17,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/T/BTO106_QCM1250_2eba.jpg"
+    "brand": "Lenovo",
+    "title": "Lenovo M70s G6 Desktop PC — Core Ultra 7 · 16GB · 512GB SSD (12YQ000ESA)",
+    "spec": "Core Ultra 7 · 512GB SSD",
+    "price": "R26 696",
+    "price_n": 26696,
+    "sku": "12YQ000ESA",
+    "handle": "lenovo-m70s-g6-sff-u7-265-13-tops-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-integrated-windows-11-pro-64-intel-ax211-2x2ax-6e-bluetooth-internal-speaker-usb-trd-us-eng-usb-clp-mouse-pub-fra-ara-eng-1year",
+    "url": "/products/lenovo-m70s-g6-sff-u7-265-13-tops-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-integrated-windows-11-pro-64-intel-ax211-2x2ax-6e-bluetooth-internal-speaker-usb-trd-us-eng-usb-clp-mouse-pub-fra-ara-eng-1year",
+    "qty": 12,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/12YQ000ESA_default.jpg"
    },
    {
     "brand": "Dell",
@@ -645,18 +645,6 @@
    },
    {
     "brand": "HP",
-    "title": "HP Series 3 Pro 27\" FHD Monitor",
-    "spec": "27\" screen",
-    "price": "R2 379",
-    "price_n": 2379,
-    "sku": "B1GM6AS",
-    "handle": "hp-series-3-pro-27-fhd-monitor",
-    "url": "/products/hp-series-3-pro-27-fhd-monitor",
-    "qty": 48,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__63__fa1c.png"
-   },
-   {
-    "brand": "HP",
     "title": "HP Series 3 Pro 24\" FHD Monitor",
     "spec": "24\" screen",
     "price": "R3 147",
@@ -827,16 +815,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
-    "brand": "MSI",
-    "title": "MSI MAG 255F X24 25″ FHD 240Hz IPS Gaming Monitor",
-    "spec": "25\" screen",
-    "price": "R2 661",
-    "price_n": 2661,
-    "sku": "MAG 255F X24",
-    "handle": "msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
-    "url": "/products/msi-mag-255f-x24-25-fhd-240hz-ips-gaming-monitor",
-    "qty": 135,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-X24_MSI-MAG-255F-X24-25-inch-FHD-240Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
+    "brand": "Xiaomi",
+    "title": "Xiaomi G24i 2026 24″ 200Hz Full HD 1080p IPS Gaming Monitor",
+    "spec": "24\" screen",
+    "price": "R2 660",
+    "price_n": 2660,
+    "sku": "ELA6364EU",
+    "handle": "xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
+    "url": "/products/xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
+    "qty": 203,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6364EU_Xiaomi-G24i-2026-24%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -1896,16 +1884,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/10/P300P512GM28_wr_01.jpg"
    },
    {
-    "brand": "Hiksemi",
-    "title": "Hiksemi Wave Series 2TB 3D NAND SATA Internal SSD",
-    "spec": "Storage",
-    "price": "R4 897",
-    "price_n": 4897,
-    "sku": "HS-SSD-WAVE-S-2048G",
-    "handle": "hiksemi-wave-series-2tb-3d-nand-sata-internal-ssd",
-    "url": "/products/hiksemi-wave-series-2tb-3d-nand-sata-internal-ssd",
-    "qty": 144,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_S_2048G_1_bc2d.png"
+    "brand": "SanDisk",
+    "title": "SanDisk Optimus GX 7100 1TB NVMe SSD",
+    "spec": "1TB NVMe SSD",
+    "price": "R4 945",
+    "price_n": 4945,
+    "sku": "SDSP71100TAN-000E0",
+    "handle": "sandisk-optimus-gx-7100-1tb-nvme-ssd",
+    "url": "/products/sandisk-optimus-gx-7100-1tb-nvme-ssd",
+    "qty": 113,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/S/D/SDSP71100TAN_000E0_d4e8.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -2296,28 +2284,28 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "ASRock",
-    "title": "ASRock DESKMINI Vesa Mount Kit",
-    "spec": "Accessories",
-    "price": "R127",
-    "price_n": 127,
-    "sku": "90-BXG2T0-A0XCR3W",
-    "handle": "asrock-deskmini-vesa-mount-kit",
-    "url": "/products/asrock-deskmini-vesa-mount-kit",
-    "qty": 5,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/90-BXG2T0-A0XCR3W_wr_01.jpg"
+    "brand": "Ugreen",
+    "title": "UGREEN Bluetooth 6.0 USB Adapter",
+    "spec": "Cables And Adapters",
+    "price": "R126",
+    "price_n": 126,
+    "sku": "CM748-75073",
+    "handle": "ugreen-bluetooth-6-0-usb-adapter",
+    "url": "/products/ugreen-bluetooth-6-0-usb-adapter",
+    "qty": 206,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/CM748-75073_UGREEN-Bluetooth-6.0-USB-Adapter_hr01.jpeg"
    },
    {
-    "brand": "Port",
-    "title": "Port 45W Universal AC Adapter (900096B-EU)",
-    "spec": "Cables And Adapters",
+    "brand": "HP",
+    "title": "HP Wired 320MK combo",
+    "spec": "Accessories",
     "price": "R414",
     "price_n": 414,
-    "sku": "900096B-EU",
-    "handle": "port-45w-universal-ac-adapter-900096b-eu",
-    "url": "/products/port-45w-universal-ac-adapter-900096b-eu",
-    "qty": 90,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__2__35ed.png"
+    "sku": "9SR36UT",
+    "handle": "hp-wired-320mk-combo",
+    "url": "/products/hp-wired-320mk-combo",
+    "qty": 9,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/9SR36UT_default.png"
    },
    {
     "brand": "HP",
@@ -2345,17 +2333,6 @@
     "sku": "920-008685"
    },
    {
-    "brand": "Logitech",
-    "title": "Logitech C920s Pro Full-HD Webcam",
-    "spec": "Sharp video for calls",
-    "price": "R1 650",
-    "handle": "logitech-c920s-pro-full-hd-usb-webcam",
-    "url": "https://ubratech.co.za/products/logitech-c920s-pro-full-hd-usb-webcam",
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/6/960_001252_9ebb.jpg",
-    "qty": 27,
-    "sku": "960-001252"
-   },
-   {
     "brand": "Redragon",
     "title": "Redragon BM-4049 1200DPI Wired Optical Mouse",
     "spec": "Mice",
@@ -2369,15 +2346,15 @@
    },
    {
     "brand": "HP",
-    "title": "HP 400 Quiet Wireless Purple Mouse",
+    "title": "HP 400 Quiet Wireless Black Mouse",
     "spec": "Wired Mouse",
-    "price": "R368",
-    "price_n": 368,
-    "sku": "AZ7B7AA",
-    "handle": "hp-400-quiet-wireless-purple-mouse",
-    "url": "/products/hp-400-quiet-wireless-purple-mouse",
-    "qty": 94,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B7AA_428e.jpg"
+    "price": "R371",
+    "price_n": 371,
+    "sku": "AZ7B2AA",
+    "handle": "hp-400-quiet-wireless-black-mouse",
+    "url": "/products/hp-400-quiet-wireless-black-mouse",
+    "qty": 150,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B2AA_dac7.jpg"
    },
    {
     "brand": "Dell",
@@ -3128,6 +3105,6 @@
    "total": "R8 552"
   }
  ],
- "generated": "2026-11-24T20:01:23Z",
+ "generated": "2026-11-25T04:01:39Z",
  "v": 3
 }
