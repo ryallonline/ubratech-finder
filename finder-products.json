@@ -164,7 +164,7 @@
     "sku": "BTO206_PA13250_EMEA",
     "handle": "dell-pro-13-premium-pa13250-intel-core-ultra-7-266v-series-2-12m-cache-up-to-5-0-ghz-16gb-8533mt-s-lpdddr5-512gb-gen4-ssd-pcie-m-2-13-3-fhd-1920x1200-wide-view-antiglare-400nits-integrated-graphics",
     "url": "/products/dell-pro-13-premium-pa13250-intel-core-ultra-7-266v-series-2-12m-cache-up-to-5-0-ghz-16gb-8533mt-s-lpdddr5-512gb-gen4-ssd-pcie-m-2-13-3-fhd-1920x1200-wide-view-antiglare-400nits-integrated-graphics",
-    "qty": 17,
+    "qty": 16,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO206_PA13250_EMEA_default.jpg"
    },
    {
@@ -243,6 +243,16 @@
  },
  "desktop": {
   "entry": [
+   {
+    "brand": "Dell",
+    "title": "Dell Pro Slim Essential QVS1260 Desktop — Core i3 8GB 512GB",
+    "spec": "Everyday desktop PC",
+    "price": "R17 313",
+    "handle": "dell-pro-slim-essential-qvs1260-desktop-pc-core-i3-bto001_qvs1260_emea",
+    "url": "https://ubratech.co.za/products/dell-pro-slim-essential-qvs1260-desktop-pc-core-i3-bto001_qvs1260_emea",
+    "qty": 14,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO001_QVS1260_EMEA_default.png"
+   },
    {
     "brand": "Lenovo",
     "title": "Lenovo Neo 50s G6 Desktop — Core Ultra 5 · 16GB · 512GB SSD",
@@ -396,16 +406,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo M70s G6 Desktop PC — Core Ultra 7 · 16GB · 512GB SSD (12YQ000ESA)",
-    "spec": "Core Ultra 7 · 512GB SSD",
-    "price": "R26 696",
-    "price_n": 26696,
-    "sku": "12YQ000ESA",
-    "handle": "lenovo-m70s-g6-sff-u7-265-13-tops-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-integrated-windows-11-pro-64-intel-ax211-2x2ax-6e-bluetooth-internal-speaker-usb-trd-us-eng-usb-clp-mouse-pub-fra-ara-eng-1year",
-    "url": "/products/lenovo-m70s-g6-sff-u7-265-13-tops-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-integrated-windows-11-pro-64-intel-ax211-2x2ax-6e-bluetooth-internal-speaker-usb-trd-us-eng-usb-clp-mouse-pub-fra-ara-eng-1year",
+    "brand": "HP",
+    "title": "HP ProDesk 4 Mini G1i AI Desktop PC — Core Ultra 5 · 16GB (BY6U5ET)",
+    "spec": "Core Ultra 5",
+    "price": "R26 544",
+    "price_n": 26544,
+    "sku": "BY6U5ET",
+    "handle": "hp-prodesk-4-mini-g1i-ai-intel-core-ultra-5-225t-processor-16gb-ddr5-5600-2-slots-max-64gb-512gb-m-2-2280-ssd-no-optical-drive-intel-graphics-windows-11-pro-64-intel-i219-lm-gigabit-network",
+    "url": "/products/hp-prodesk-4-mini-g1i-ai-intel-core-ultra-5-225t-processor-16gb-ddr5-5600-2-slots-max-64gb-512gb-m-2-2280-ssd-no-optical-drive-intel-graphics-windows-11-pro-64-intel-i219-lm-gigabit-network",
     "qty": 11,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/12YQ000ESA_default.jpg"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BY6U5ET_default.jpg"
    },
    {
     "brand": "Dell",
@@ -1153,7 +1163,7 @@
     "sku": "HALO-H80X-2-PACK",
     "handle": "mercusys-ax3000-dual-band-wi-fi-router-halo-h80x-2-pack",
     "url": "/products/mercusys-ax3000-dual-band-wi-fi-router-halo-h80x-2-pack",
-    "qty": 71,
+    "qty": 69,
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/A/HALO_H80X_2_PACK_1_33db.png"
    },
    {
@@ -1386,7 +1396,7 @@
     "sku": "0727C067AA",
     "handle": "canon-pixma-mg2541s-inkjet-mfp-3-in-1-a4-grey-a4-mfp-print-copy-and-scan-8ipm-mono-4-0ipm-colour-4800-x-600-print-resolution-600-x-1200-dpi-scan-resolution-60-sheet-rear-tray-manual-duplex-usb-4-ink",
     "url": "/products/canon-pixma-mg2541s-inkjet-mfp-3-in-1-a4-grey-a4-mfp-print-copy-and-scan-8ipm-mono-4-0ipm-colour-4800-x-600-print-resolution-600-x-1200-dpi-scan-resolution-60-sheet-rear-tray-manual-duplex-usb-4-ink",
-    "qty": 11,
+    "qty": 10,
     "image": "https://s3.amazonaws.com/tarsus.co.za/0727C067AA_default.png"
    },
    {
@@ -1690,16 +1700,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/RD-H889_Redragon-H889-SPECTRA-PRO-Over-Ear-Wireless-Headphones-Black_wr_01a.jpg"
    },
    {
-    "brand": "Nearity",
-    "title": "Nearity AW-EP320 Wireless Headset Microphone",
+    "brand": "Winx",
+    "title": "WINX CALL Elite AI Noise Cancelling Wireless Headset",
     "spec": "Headsets",
-    "price": "R1 573",
-    "price_n": 1573,
-    "sku": "AW-EP320",
-    "handle": "nearity-aw-ep320-wireless-headset-microphone",
-    "url": "/products/nearity-aw-ep320-wireless-headset-microphone",
-    "qty": 5,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_Design__66__4814.png"
+    "price": "R1 320",
+    "price_n": 1320,
+    "sku": "WX-HS114",
+    "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
+    "url": "/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
+    "qty": 114,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg"
    },
    {
     "brand": "HP",
@@ -1736,7 +1746,7 @@
     "price": "R146",
     "handle": "tp-link-8-port-desktop-switch",
     "url": "https://ubratech.co.za/products/tp-link-8-port-desktop-switch",
-    "qty": 38,
+    "qty": 33,
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SF1008D_2687.jpg",
     "sku": "TL-SF1008D"
    },
@@ -1869,32 +1879,32 @@
     "sku": "DTKNG2/64GB",
     "handle": "kingston-64gb-datatraveler-kyson-220mb-s-metal-usb-3-2-gen-1",
     "url": "/products/kingston-64gb-datatraveler-kyson-220mb-s-metal-usb-3-2-gen-1",
-    "qty": 16,
+    "qty": 15,
     "image": "https://s3.amazonaws.com/tarsus.co.za/DTKNG2/64GB_default.jpg"
    },
    {
-    "brand": "Crucial",
-    "title": "Crucial E100 480GB PCIe Gen4 2280 NVMe M.2 SSD",
+    "brand": "Patriot",
+    "title": "Patriot P300 512GB M.2 PCIe NVMe SSD",
     "spec": "Storage",
-    "price": "R2 136",
-    "price_n": 2136,
-    "sku": "CT480E100SSD8",
-    "handle": "crucial-e100-480gb-pcie-gen4-2280-nvme-m-2-ssd",
-    "url": "/products/crucial-e100-480gb-pcie-gen4-2280-nvme-m-2-ssd",
-    "qty": 72,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/CT480E100SSD8_wr_01.jpg"
+    "price": "R1 988",
+    "price_n": 1988,
+    "sku": "P300P512GM28",
+    "handle": "patriot-p300-512gb-m-2-pcie-nvme-ssd",
+    "url": "/products/patriot-p300-512gb-m-2-pcie-nvme-ssd",
+    "qty": 207,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2021/10/P300P512GM28_wr_01.jpg"
    },
    {
-    "brand": "Kingston",
-    "title": "Kingston 1TB XS1000 External USB 3.2 Gen 2 Portable Solid State Drive",
-    "spec": "Storage",
-    "price": "R5 159",
-    "price_n": 5159,
-    "sku": "SXS1000/1000G",
-    "handle": "kingston-1tb-xs1000-external-usb-3-2-gen-2-portable-solid-state-drive",
-    "url": "/products/kingston-1tb-xs1000-external-usb-3-2-gen-2-portable-solid-state-drive",
-    "qty": 4,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SXS1000/1000G_default.jpg"
+    "brand": "SanDisk",
+    "title": "SanDisk Optimus GX 7100 1TB NVMe SSD",
+    "spec": "1TB NVMe SSD",
+    "price": "R4 945",
+    "price_n": 4945,
+    "sku": "SDSP71100TAN-000E0",
+    "handle": "sandisk-optimus-gx-7100-1tb-nvme-ssd",
+    "url": "/products/sandisk-optimus-gx-7100-1tb-nvme-ssd",
+    "qty": 113,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/S/D/SDSP71100TAN_000E0_d4e8.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -2131,15 +2141,15 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision Bullet Wireless Outdoor Security Camera, 2.8mm Lens, 2MP",
+    "title": "Hikvision Fixed Dome Outdoor Security Camera, 4mm Lens, 2MP",
     "spec": "2MP",
-    "price": "R1 098",
-    "price_n": 1098,
-    "sku": "DS-2CV2021G2-IDW-2.8",
-    "handle": "hikvision-bullet-wireless-outdoor-security-camera-2-8mm-lens-2mp",
-    "url": "/products/hikvision-bullet-wireless-outdoor-security-camera-2-8mm-lens-2mp",
-    "qty": 50,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/DS-2CV2021G2-IDW-wr-01.jpg"
+    "price": "R1 132",
+    "price_n": 1132,
+    "sku": "DS-2CV2121G2-IDW-4",
+    "handle": "hikvision-fixed-dome-outdoor-security-camera-4mm-lens-2mp",
+    "url": "/products/hikvision-fixed-dome-outdoor-security-camera-4mm-lens-2mp",
+    "qty": 16,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/DS-2CV2121G2-IDW-wr-03.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -2214,15 +2224,15 @@
    },
    {
     "brand": "Redragon",
-    "title": "Redragon H894 TITAN Wireless Gaming Headset - Black",
+    "title": "REDRAGON Over-Ear AURORA Gaming Headset - Black",
     "spec": "Headsets",
-    "price": "R573",
-    "price_n": 573,
-    "sku": "RD-H894",
-    "handle": "redragon-h894-titan-wireless-gaming-headset-black",
-    "url": "/products/redragon-h894-titan-wireless-gaming-headset-black",
-    "qty": 155,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/RD-H894_Redragon_H894_TITAN_Wireless_Gaming_Head_wr_01.png"
+    "price": "R553",
+    "price_n": 553,
+    "sku": "RD-H376BR",
+    "handle": "redragon-over-ear-aurora-gaming-headset-black",
+    "url": "/products/redragon-over-ear-aurora-gaming-headset-black",
+    "qty": 202,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/02/RD-H376BR_wr_01.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -2297,16 +2307,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/CM748-75073_UGREEN-Bluetooth-6.0-USB-Adapter_hr01.jpeg"
    },
    {
-    "brand": "Port",
-    "title": "Port 45W Universal AC Adapter (900096B-EU)",
-    "spec": "Cables And Adapters",
+    "brand": "HP",
+    "title": "HP Wired 320MK combo",
+    "spec": "Accessories",
     "price": "R414",
     "price_n": 414,
-    "sku": "900096B-EU",
-    "handle": "port-45w-universal-ac-adapter-900096b-eu",
-    "url": "/products/port-45w-universal-ac-adapter-900096b-eu",
-    "qty": 90,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__2__35ed.png"
+    "sku": "9SR36UT",
+    "handle": "hp-wired-320mk-combo",
+    "url": "/products/hp-wired-320mk-combo",
+    "qty": 9,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/9SR36UT_default.png"
    },
    {
     "brand": "HP",
@@ -2346,16 +2356,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/RD-BM-4049_wr_01.jpg"
    },
    {
-    "brand": "Logitech",
-    "title": "Logitech MK235 Wireless Mouse & Keyboard Combo - Black.…",
-    "spec": "Wired Mouse",
-    "price": "R359",
-    "price_n": 359,
-    "sku": "920-007931",
-    "handle": "logitech-mk235-wireless-mouse-keyboard-combo-black-spill-resistant-keyboard-smooth-mouse-long-battery-life-one-usb-nano-receiver",
-    "url": "/products/logitech-mk235-wireless-mouse-keyboard-combo-black-spill-resistant-keyboard-smooth-mouse-long-battery-life-one-usb-nano-receiver",
-    "qty": 28,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/920-007931_default.jpg"
+    "brand": "Redragon",
+    "title": "REDRAGON Mirage Pro 8000DPI RGB Wireless Gaming Mouse - Black",
+    "spec": "Mice",
+    "price": "R360",
+    "price_n": 360,
+    "sku": "RD-M690-PRO",
+    "handle": "redragon-mirage-pro-8000dpi-rgb-wireless-gaming-mouse-black",
+    "url": "/products/redragon-mirage-pro-8000dpi-rgb-wireless-gaming-mouse-black",
+    "qty": 144,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/11/RD-M690-PRO_wr_01.jpg"
    },
    {
     "brand": "Targus",
@@ -3090,22 +3100,22 @@
      "brand": "Seagate",
      "title": "Seagate SkyHawk 2TB Surveillance Drive",
      "spec": "3.5\" screen",
-     "price": "R2 754",
-     "price_n": 2754,
+     "price": "R2 974",
+     "price_n": 2974,
      "sku": "ST2000VX017",
      "handle": "seagate-skyhawk-surveillance-2tb-3-5-sata-internal-hdd",
      "url": "/products/seagate-skyhawk-surveillance-2tb-3-5-sata-internal-hdd",
-     "qty": 68,
+     "qty": 4,
      "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST2000VX017_9199.jpg",
      "role": "Storage",
      "note": "Built to record all day",
      "kit_qty": 1
     }
    ],
-   "total_n": 8552,
-   "total": "R8 552"
+   "total_n": 8772,
+   "total": "R8 772"
   }
  ],
- "generated": "2026-11-25T09:01:34Z",
+ "generated": "2026-11-25T10:02:07Z",
  "v": 3
 }
