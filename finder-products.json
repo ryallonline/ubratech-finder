@@ -140,7 +140,7 @@
     "sku": "PV15250_RPLU_002_M_HOM",
     "handle": "dell-pro-15-essential-pv15250-i7-1355u-intel-rpl-p-u15-i7-8-layer-pcb-15-6-non-touch-fhd-120hz-wva-ips-anti-glare-250-nit-16gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-fingerprint",
     "url": "/products/dell-pro-15-essential-pv15250-i7-1355u-intel-rpl-p-u15-i7-8-layer-pcb-15-6-non-touch-fhd-120hz-wva-ips-anti-glare-250-nit-16gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-fingerprint",
-    "qty": 23,
+    "qty": 38,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
@@ -156,16 +156,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__2__32c0.png"
    },
    {
-    "brand": "HP",
-    "title": "HP Elitebook 8 G2i 14\" Core-i5 16GB 512GB Win 11 Pro Notebook",
-    "spec": "Core i5 · 14\" screen · 16GB RAM",
-    "price": "R42 371",
-    "price_n": 42371,
-    "sku": "DS9B9ET",
-    "handle": "hp-elitebook-8-g2i-14-core-i5-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/hp-elitebook-8-g2i-14-core-i5-16gb-512gb-win-11-pro-notebook",
-    "qty": 4,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__79__7ec4.png"
+    "brand": "Dell",
+    "title": "Dell Pro 16 Plus Laptop — Core Ultra 7 · 16GB (BTO211_PB16250_EMEA)",
+    "spec": "Core Ultra 7",
+    "price": "R42 433",
+    "price_n": 42433,
+    "sku": "BTO211_PB16250_EMEA",
+    "handle": "dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-dual-channel-onboard-512gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro",
+    "url": "/products/dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-dual-channel-onboard-512gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro",
+    "qty": 72,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO211_PB16250_EMEA_default.png"
    },
    {
     "brand": "Lenovo",
@@ -260,8 +260,8 @@
     "price": "R20 147",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 36,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA-BUN7Q3_default.jpg"
+    "qty": 16,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    },
    {
     "brand": "Giada",
@@ -320,8 +320,8 @@
     "price": "R20 147",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 36,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA-BUN7Q3_default.jpg"
+    "qty": 16,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    },
    {
     "brand": "Dell",
@@ -406,28 +406,28 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP ProDesk 4 Mini G1i AI Desktop PC — Core Ultra 5 · 16GB (BY6U5ET)",
-    "spec": "Core Ultra 5",
-    "price": "R26 544",
-    "price_n": 26544,
-    "sku": "BY6U5ET",
-    "handle": "hp-prodesk-4-mini-g1i-ai-intel-core-ultra-5-225t-processor-16gb-ddr5-5600-2-slots-max-64gb-512gb-m-2-2280-ssd-no-optical-drive-intel-graphics-windows-11-pro-64-intel-i219-lm-gigabit-network",
-    "url": "/products/hp-prodesk-4-mini-g1i-ai-intel-core-ultra-5-225t-processor-16gb-ddr5-5600-2-slots-max-64gb-512gb-m-2-2280-ssd-no-optical-drive-intel-graphics-windows-11-pro-64-intel-i219-lm-gigabit-network",
-    "qty": 11,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BY6U5ET_default.jpg"
+    "brand": "Lenovo",
+    "title": "Lenovo M70s G6 Desktop PC — Core Ultra 7 · 16GB · 512GB SSD (12YQ000ESA)",
+    "spec": "Core Ultra 7 · 512GB SSD",
+    "price": "R26 696",
+    "price_n": 26696,
+    "sku": "12YQ000ESA",
+    "handle": "lenovo-m70s-g6-sff-u7-265-13-tops-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-integrated-windows-11-pro-64-intel-ax211-2x2ax-6e-bluetooth-internal-speaker-usb-trd-us-eng-usb-clp-mouse-pub-fra-ara-eng-1year",
+    "url": "/products/lenovo-m70s-g6-sff-u7-265-13-tops-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-integrated-windows-11-pro-64-intel-ax211-2x2ax-6e-bluetooth-internal-speaker-usb-trd-us-eng-usb-clp-mouse-pub-fra-ara-eng-1year",
+    "qty": 10,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/12YQ000ESA_default.jpg"
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro Slim QCS1250 Desktop PC — Core Ultra 7 · 512GB SSD (BTO108_QCS1250_EMEA)",
+    "title": "Dell Pro Micro QCM1250 Desktop PC — Core Ultra 7 · 512GB SSD (BTO107_QCM1250_EMEA)",
     "spec": "Core Ultra 7 · 512GB SSD",
-    "price": "R31 635",
-    "price_n": 31635,
-    "sku": "BTO108_QCS1250_EMEA",
-    "handle": "dell-pro-slim-qcs1250-intel-core-ultra-7-265-13-tops-up-to-5-3-ghz-16gb-1x16gb-5600mt-s-ddr5-512gb-ssd-tlc-integrated-graphics-no-wi-fi-bluetooth-dell-kb216-multimedia-usb-keyboard-dell-ms116-optical",
-    "url": "/products/dell-pro-slim-qcs1250-intel-core-ultra-7-265-13-tops-up-to-5-3-ghz-16gb-1x16gb-5600mt-s-ddr5-512gb-ssd-tlc-integrated-graphics-no-wi-fi-bluetooth-dell-kb216-multimedia-usb-keyboard-dell-ms116-optical",
-    "qty": 16,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO108_QCS1250_EMEA_default.jpg"
+    "price": "R30 235",
+    "price_n": 30235,
+    "sku": "BTO107_QCM1250_EMEA",
+    "handle": "dell-pro-micro-qcm1250-intel-core-ultra-7-265t-13-tops-up-to-5-3-ghz-16gb-1x16-gb-5600mt-s-ddr5-512gb-ssd-pcie-integrated-graphics-intel-dual-band-wireless-ax211-wi-fi-6-6e-bluetooth-dell-kb216",
+    "url": "/products/dell-pro-micro-qcm1250-intel-core-ultra-7-265t-13-tops-up-to-5-3-ghz-16gb-1x16-gb-5600mt-s-ddr5-512gb-ssd-pcie-integrated-graphics-intel-dual-band-wireless-ax211-wi-fi-6-6e-bluetooth-dell-kb216",
+    "qty": 19,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO107_QCM1250_EMEA_default.png"
    },
    {
     "brand": "Dell",
@@ -515,7 +515,7 @@
     "sku": "NH.QYXEA.001",
     "handle": "acer-nitro-v-16-gaming-laptop-16-amd-ryzen-5-16gb-1tb-rtx-5060-8gb-windows-11-home",
     "url": "/products/acer-nitro-v-16-gaming-laptop-16-amd-ryzen-5-16gb-1tb-rtx-5060-8gb-windows-11-home",
-    "qty": 7,
+    "qty": 6,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NH.QYXEA_.001_Acer-NITRO-V-16-Gaming-Laptop-16%E2%80%B3-AMD-Ryzen-5-16GB-1TB-RTX-5060-8GB-Windows-11-Home_wr_001a.jpg"
    }
   ],
@@ -656,16 +656,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP Series 3 Pro 22\" FHD Monitor",
-    "spec": "22\" screen",
-    "price": "R3 034",
-    "price_n": 3034,
-    "sku": "9U5A2AA",
-    "handle": "hp-series-3-pro-22-fhd-monitor",
-    "url": "/products/hp-series-3-pro-22-fhd-monitor",
-    "qty": 26,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5A2AA__1__b014.jpg"
+    "brand": "Acer",
+    "title": "Acer PM161QT 15.6\" FHD Monitor (UM.ZP1EE.009)",
+    "spec": "15.6\" screen",
+    "price": "R2 832",
+    "price_n": 2832,
+    "sku": "UM.ZP1EE.009",
+    "handle": "acer-monitor-commercial-pm161qt-black-flat-15-6-ips-response-time-6ms-resolution-1920x1080-viewing-angle-178-h-178-v-aspect-ratio-16-09-digital-frequency-60hz-interface-hdmi-1-4-2type-c-speaker-yes",
+    "url": "/products/acer-monitor-commercial-pm161qt-black-flat-15-6-ips-response-time-6ms-resolution-1920x1080-viewing-angle-178-h-178-v-aspect-ratio-16-09-digital-frequency-60hz-interface-hdmi-1-4-2type-c-speaker-yes",
+    "qty": 6,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.ZP1EE.009_default.png"
    },
    {
     "brand": "Xiaomi",
@@ -738,7 +738,7 @@
     "price": "R2 112",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 99,
+    "qty": 97,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg",
     "sku": "210-BVCB"
    },
@@ -1575,16 +1575,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900140_0708.jpg"
    },
    {
-    "brand": "Targus",
-    "title": "Targus - USB-C Multi-Function DisplayPort Alt Triple Video with 85W… (DOCK430EUZ)",
+    "brand": "HP",
+    "title": "HP USB-C 100W G6 Black Docking Station",
     "spec": "Docking Station",
-    "price": "R2 267",
-    "price_n": 2267,
-    "sku": "DOCK430EUZ",
-    "handle": "targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
-    "url": "/products/targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
-    "qty": 34,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK430EUZ_default.jpg"
+    "price": "R1 970",
+    "price_n": 1970,
+    "sku": "9X3V1UT",
+    "handle": "hp-usb-c-100w-g6-black-docking-station",
+    "url": "/products/hp-usb-c-100w-g6-black-docking-station",
+    "qty": 5,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/X/9X3V1UT_2_1072.jpg"
    },
    {
     "brand": "Port",
@@ -1688,16 +1688,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS105_wr_01.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP Poly Mission 415 Monaural USB Wired Headset Classic.",
+    "brand": "Redragon",
+    "title": "Redragon H889 SPECTRA PRO Over-Ear Wireless Headphones - Black",
     "spec": "Headsets",
-    "price": "R704",
-    "price_n": 704,
-    "sku": "C01A9AA",
-    "handle": "hp-poly-mission-415-monaural-usb-wired-headset-classic",
-    "url": "/products/hp-poly-mission-415-monaural-usb-wired-headset-classic",
-    "qty": 35,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/C01A9AA_default.png"
+    "price": "R725",
+    "price_n": 725,
+    "sku": "RD-H889",
+    "handle": "redragon-h889-spectra-pro-over-ear-wireless-headphones-black",
+    "url": "/products/redragon-h889-spectra-pro-over-ear-wireless-headphones-black",
+    "qty": 118,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/RD-H889_Redragon-H889-SPECTRA-PRO-Over-Ear-Wireless-Headphones-Black_wr_01a.jpg"
    },
    {
     "brand": "Winx",
@@ -1883,16 +1883,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DTKNG2/64GB_default.jpg"
    },
    {
-    "brand": "SanDisk",
-    "title": "SanDisk Portable SSD 500GB",
+    "brand": "Patriot",
+    "title": "Patriot P300 512GB M.2 PCIe NVMe SSD",
     "spec": "Storage",
-    "price": "R1 986",
-    "price_n": 1986,
-    "sku": "SDSSDE10-500G-G25",
-    "handle": "sandisk-portable-ssd-500gb",
-    "url": "/products/sandisk-portable-ssd-500gb",
-    "qty": 27,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__4__84bd.png"
+    "price": "R1 988",
+    "price_n": 1988,
+    "sku": "P300P512GM28",
+    "handle": "patriot-p300-512gb-m-2-pcie-nvme-ssd",
+    "url": "/products/patriot-p300-512gb-m-2-pcie-nvme-ssd",
+    "qty": 111,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2021/10/P300P512GM28_wr_01.jpg"
    },
    {
     "brand": "SanDisk",
@@ -2039,7 +2039,7 @@
     "handle": "asus-prime-750w-80-plus-bronze-atx-non-modular-power-supply",
     "url": "https://ubratech.co.za/products/asus-prime-750w-80-plus-bronze-atx-non-modular-power-supply",
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/PRIME-750B-BLACK_Asus-PRIME-750W-80-PLUS-Bronze-ATX-Non-modular-Power-Supply_wr_01a.jpg",
-    "qty": 68,
+    "qty": 66,
     "sku": "PRIME-750B-BLACK"
    },
    {
@@ -2235,16 +2235,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/02/RD-H376BR_wr_01.jpg"
    },
    {
-    "brand": "Nearity",
-    "title": "Nearity AW-SP100 Wireless Speakerphone",
-    "spec": "Headsets",
-    "price": "R1 132",
-    "price_n": 1132,
-    "sku": "AW-SP100",
-    "handle": "nearity-aw-sp100-wireless-speakerphone",
-    "url": "/products/nearity-aw-sp100-wireless-speakerphone",
-    "qty": 15,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_Design__67__28ea.png"
+    "brand": "Xiaomi",
+    "title": "Xiaomi Redmi Headphones Neo ANC Wireless Over-Ears - White",
+    "spec": "Tv And Audio",
+    "price": "R1 213",
+    "price_n": 1213,
+    "sku": "BHR08W2GL",
+    "handle": "xiaomi-redmi-headphones-neo-anc-wireless-over-ears-white",
+    "url": "/products/xiaomi-redmi-headphones-neo-anc-wireless-over-ears-white",
+    "qty": 10,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/BHR08W2GL_Redmi-Headphones-Neo-ANC-Wireless-Over-Ears-White_wr_01a.jpg"
    },
    {
     "brand": "HP",
@@ -2303,7 +2303,7 @@
     "sku": "NW102-50180",
     "handle": "ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
     "url": "/products/ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
-    "qty": 26,
+    "qty": 23,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/NW102-50172-wr-01.jpg"
    },
    {
@@ -3116,6 +3116,6 @@
    "total": "R8 772"
   }
  ],
- "generated": "2026-11-25T13:01:30Z",
+ "generated": "2026-11-25T14:02:51Z",
  "v": 3
 }
