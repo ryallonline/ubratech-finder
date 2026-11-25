@@ -261,7 +261,7 @@
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "qty": 16,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA-BUN7Q3_default.jpg"
    },
    {
     "brand": "Giada",
@@ -321,7 +321,7 @@
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "qty": 16,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA-BUN7Q3_default.jpg"
    },
    {
     "brand": "Dell",
@@ -656,16 +656,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer PM161QT 15.6\" FHD Monitor (UM.ZP1EE.009)",
-    "spec": "15.6\" screen",
-    "price": "R2 832",
-    "price_n": 2832,
-    "sku": "UM.ZP1EE.009",
-    "handle": "acer-monitor-commercial-pm161qt-black-flat-15-6-ips-response-time-6ms-resolution-1920x1080-viewing-angle-178-h-178-v-aspect-ratio-16-09-digital-frequency-60hz-interface-hdmi-1-4-2type-c-speaker-yes",
-    "url": "/products/acer-monitor-commercial-pm161qt-black-flat-15-6-ips-response-time-6ms-resolution-1920x1080-viewing-angle-178-h-178-v-aspect-ratio-16-09-digital-frequency-60hz-interface-hdmi-1-4-2type-c-speaker-yes",
-    "qty": 6,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.ZP1EE.009_default.png"
+    "brand": "HP",
+    "title": "HP Series 3 Pro 22\" FHD Monitor",
+    "spec": "22\" screen",
+    "price": "R3 034",
+    "price_n": 3034,
+    "sku": "9U5A2AA",
+    "handle": "hp-series-3-pro-22-fhd-monitor",
+    "url": "/products/hp-series-3-pro-22-fhd-monitor",
+    "qty": 26,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5A2AA__1__b014.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -738,7 +738,7 @@
     "price": "R2 112",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 97,
+    "qty": 92,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg",
     "sku": "210-BVCB"
    },
@@ -778,15 +778,15 @@
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi A27Qi 2026 27\" inch 120Hz 2K IPS Office Monitor",
+    "title": "Xiaomi G27Qi 2026 27″ 2K QHD 200Hz Fast IPS Gaming Monitor",
     "spec": "27\" screen",
-    "price": "R3 449",
-    "price_n": 3449,
-    "sku": "ELA6568EU",
-    "handle": "xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
-    "url": "/products/xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
-    "qty": 115,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6568EU_Xiaomi-A27Qi-2026-27-inch-2K-120Hz-IPS-Office-Monitor_wr_01a.jpg"
+    "price": "R4 240",
+    "price_n": 4240,
+    "sku": "ELA6556EU",
+    "handle": "xiaomi-g27qi-2026-27-2k-qhd-200hz-fast-ips-gaming-monitor",
+    "url": "/products/xiaomi-g27qi-2026-27-2k-qhd-200hz-fast-ips-gaming-monitor",
+    "qty": 90,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6556EU_Xiaomi-G27Qi-2026-27-inch-2K-QHD-200Hz-IPS-Gaming-Monitor_wr_01a.jpg"
    },
    {
     "brand": "Asus",
@@ -1378,6 +1378,17 @@
   "docs": [
    {
     "brand": "HP",
+    "title": "HP LaserJet Pro MFP 4103FDW Mono All-in-One",
+    "spec": "Laser · sharp text · low running cost",
+    "price": "R8 948",
+    "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
+    "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
+    "qty": 93,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg",
+    "sku": "2Z629A"
+   },
+   {
+    "brand": "HP",
     "title": "HP LaserJet Enterprise MFP M430f All-in-One",
     "spec": "Laser · sharp text · low running cost",
     "price": "R11 847",
@@ -1401,6 +1412,18 @@
    },
    {
     "brand": "HP",
+    "title": "HP 410A Yellow LaserJet M452/MFP M477",
+    "spec": "Printers",
+    "price": "R2 974",
+    "price_n": 2974,
+    "sku": "CF412A",
+    "handle": "hp-410a-yellow-laserjet-m452-mfp-m477",
+    "url": "/products/hp-410a-yellow-laserjet-m452-mfp-m477",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/CF412A_default.jpg"
+   },
+   {
+    "brand": "HP",
     "title": "HP LaserJet Pro 4103dw MFP Mono Printer",
     "spec": "Printers",
     "price": "R8 062",
@@ -1410,22 +1433,21 @@
     "url": "/products/hp-laserjet-pro-4103dw-mfp-mono-printer",
     "qty": 4,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z627A_default.png"
-   },
-   {
-    "brand": "Lexmark",
-    "title": "Lexmark Light Printer (29S0215)",
-    "spec": "Printers",
-    "price": "R8 667",
-    "price_n": 8667,
-    "sku": "29S0215",
-    "handle": "lexmark-light-compact-and-fast-the-mx431adn-multifunction-supports-output-up-to-40-pages-per-minute-2-8inch-lcd-touch-display-40ppm-512mb-duplex-100-sheet-mpf-dual-core-1-0-ghz-processor-dadf-scanner",
-    "url": "/products/lexmark-light-compact-and-fast-the-mx431adn-multifunction-supports-output-up-to-40-pages-per-minute-2-8inch-lcd-touch-display-40ppm-512mb-duplex-100-sheet-mpf-dual-core-1-0-ghz-processor-dadf-scanner",
-    "qty": 23,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/29S0215_default.jpg"
    }
   ],
   "photo": [],
   "volume": [
+   {
+    "brand": "HP",
+    "title": "HP LaserJet Pro MFP 4103FDW Mono All-in-One",
+    "spec": "All-in-one · built for an office",
+    "price": "R8 948",
+    "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
+    "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
+    "qty": 93,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg",
+    "sku": "2Z629A"
+   },
    {
     "brand": "HP",
     "title": "HP LaserJet Enterprise MFP M430f All-in-One",
@@ -1557,7 +1579,7 @@
     "sku": "210-BTHZ",
     "handle": "dell-pro-wd25tb5-thunderbolt-5-docking-station",
     "url": "/products/dell-pro-wd25tb5-thunderbolt-5-docking-station",
-    "qty": 5,
+    "qty": 4,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__16__3625.png"
    }
   ],
@@ -1607,7 +1629,7 @@
     "sku": "210-BTHZ",
     "handle": "dell-pro-wd25tb5-thunderbolt-5-docking-station",
     "url": "/products/dell-pro-wd25tb5-thunderbolt-5-docking-station",
-    "qty": 5,
+    "qty": 4,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__16__3625.png"
    }
   ],
@@ -2368,16 +2390,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/11/RD-M690-PRO_wr_01.jpg"
    },
    {
-    "brand": "Redragon",
-    "title": "Redragon EISA 100 Retro RGB Wireless Mechanical Keyboard - Cream/Grey",
-    "spec": "Keyboards",
+    "brand": "Targus",
+    "title": "Targus Midsize Antimicrobial Wireless Keyboard and Mouse Combo Black",
+    "spec": "Wired Mouse",
     "price": "R743",
     "price_n": 743,
-    "sku": "RD-K768WGR-WL",
-    "handle": "redragon-eisa-100-retro-rgb-wireless-mechanical-keyboard-cream-grey",
-    "url": "/products/redragon-eisa-100-retro-rgb-wireless-mechanical-keyboard-cream-grey",
-    "qty": 11,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/RD-K768WGR-WL_Redragon_EISA_100_Retro_RGB_Wireless_Mec_wr_01.png"
+    "sku": "AKM619AMUSZ",
+    "handle": "targus-midsize-antimicrobial-wireless-keyboard-and-mouse-combo-black",
+    "url": "/products/targus-midsize-antimicrobial-wireless-keyboard-and-mouse-combo-black",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/AKM619AMUSZ_default.jpg"
    },
    {
     "brand": "Keychron",
@@ -3116,6 +3138,6 @@
    "total": "R8 772"
   }
  ],
- "generated": "2026-11-25T16:04:00Z",
+ "generated": "2026-11-25T16:06:24Z",
  "v": 3
 }
