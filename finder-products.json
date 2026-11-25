@@ -114,7 +114,7 @@
     "sku": "C38KYAT",
     "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
     "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "qty": 50,
+    "qty": 49,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
    },
    {
@@ -491,7 +491,7 @@
     "sku": "FA506NCG-78512B0W",
     "handle": "asus-tuf-a15-15-6-ryzen-7-8gb-512gb-win-11-home-notebook",
     "url": "/products/asus-tuf-a15-15-6-ryzen-7-8gb-512gb-win-11-home-notebook",
-    "qty": 56,
+    "qty": 41,
     "image": "https://www.pinnacle.co.za/media/catalog/product/F/A/FA506NCG_78512B0W__1__1ce1.png"
    },
    {
@@ -639,7 +639,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 216,
+    "qty": 212,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -706,16 +706,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PA278CGRV_Asus_ProArt_27_QHD_1440p_IPS_144Hz_Monit_wr_01.png"
    },
    {
-    "brand": "Asus",
-    "title": "Asus ROG Strix 27\" QHD OLED 280Hz Gaming Monitor",
+    "brand": "Dell",
+    "title": "Dell P2722HE 27\" FHD IPS Monitor",
     "spec": "27\" screen",
-    "price": "R19 826",
-    "price_n": 19826,
-    "sku": "XG27ACDMS",
-    "handle": "asus-rog-strix-27-qhd-oled-280hz-gaming-monitor",
-    "url": "/products/asus-rog-strix-27-qhd-oled-280hz-gaming-monitor",
-    "qty": 5,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_d81d.png"
+    "price": "R17 762",
+    "price_n": 17762,
+    "sku": "210-BMDW",
+    "handle": "dell-p2722he-27-fhd-ips-monitor",
+    "url": "/products/dell-p2722he-27-fhd-ips-monitor",
+    "qty": 21,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BMDW_1_c0eb.png"
    },
    {
     "brand": "Asus",
@@ -778,15 +778,15 @@
    },
    {
     "brand": "Xiaomi",
-    "title": "Xiaomi G27Qi 2026 27″ 2K QHD 200Hz Fast IPS Gaming Monitor",
+    "title": "Xiaomi A27Qi 2026 27\" inch 120Hz 2K IPS Office Monitor",
     "spec": "27\" screen",
-    "price": "R4 240",
-    "price_n": 4240,
-    "sku": "ELA6556EU",
-    "handle": "xiaomi-g27qi-2026-27-2k-qhd-200hz-fast-ips-gaming-monitor",
-    "url": "/products/xiaomi-g27qi-2026-27-2k-qhd-200hz-fast-ips-gaming-monitor",
-    "qty": 90,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6556EU_Xiaomi-G27Qi-2026-27-inch-2K-QHD-200Hz-IPS-Gaming-Monitor_wr_01a.jpg"
+    "price": "R3 449",
+    "price_n": 3449,
+    "sku": "ELA6568EU",
+    "handle": "xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
+    "url": "/products/xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
+    "qty": 115,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6568EU_Xiaomi-A27Qi-2026-27-inch-2K-120Hz-IPS-Office-Monitor_wr_01a.jpg"
    },
    {
     "brand": "Asus",
@@ -809,7 +809,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 216,
+    "qty": 212,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -2368,16 +2368,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/11/RD-M690-PRO_wr_01.jpg"
    },
    {
-    "brand": "Targus",
-    "title": "Targus Midsize Antimicrobial Wireless Keyboard and Mouse Combo Black",
-    "spec": "Wired Mouse",
+    "brand": "Redragon",
+    "title": "Redragon EISA 100 Retro RGB Wireless Mechanical Keyboard - Cream/Grey",
+    "spec": "Keyboards",
     "price": "R743",
     "price_n": 743,
-    "sku": "AKM619AMUSZ",
-    "handle": "targus-midsize-antimicrobial-wireless-keyboard-and-mouse-combo-black",
-    "url": "/products/targus-midsize-antimicrobial-wireless-keyboard-and-mouse-combo-black",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/AKM619AMUSZ_default.jpg"
+    "sku": "RD-K768WGR-WL",
+    "handle": "redragon-eisa-100-retro-rgb-wireless-mechanical-keyboard-cream-grey",
+    "url": "/products/redragon-eisa-100-retro-rgb-wireless-mechanical-keyboard-cream-grey",
+    "qty": 11,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/RD-K768WGR-WL_Redragon_EISA_100_Retro_RGB_Wireless_Mec_wr_01.png"
    },
    {
     "brand": "Keychron",
@@ -2404,7 +2404,7 @@
     "sku": "DS-2CD2021G0-LIU-2.8MM",
     "handle": "hikvision-2mp-fixed-mini-bullet-network-camera",
     "url": "/products/hikvision-2mp-fixed-mini-bullet-network-camera",
-    "qty": 10,
+    "qty": 240,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2021G0_LIU_2.8MM_9325.png"
    },
    {
@@ -2454,7 +2454,7 @@
     "sku": "DS-2CD2021G0-LIU-2.8MM",
     "handle": "hikvision-2mp-fixed-mini-bullet-network-camera",
     "url": "/products/hikvision-2mp-fixed-mini-bullet-network-camera",
-    "qty": 10,
+    "qty": 240,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2021G0_LIU_2.8MM_9325.png"
    },
    {
@@ -2554,7 +2554,7 @@
     "sku": "DS-2CE16D0T-EXIPF2.8MM",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 25543,
+    "qty": 24867,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
@@ -2604,7 +2604,7 @@
     "sku": "DS-2CE16D0T-EXIPF2.8MM",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 25543,
+    "qty": 24867,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
@@ -2654,7 +2654,7 @@
     "sku": "DS-2CE16D0T-EXIPF2.8MM",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 25543,
+    "qty": 24867,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
@@ -3116,6 +3116,6 @@
    "total": "R8 772"
   }
  ],
- "generated": "2026-11-25T12:01:47Z",
+ "generated": "2026-11-25T13:01:30Z",
  "v": 3
 }
