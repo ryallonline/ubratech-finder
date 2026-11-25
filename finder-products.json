@@ -36,16 +36,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__42__340b.png"
    },
    {
-    "brand": "HP",
-    "title": "HP 250R G10 15.6\" Core 3 100U 8GB 512GB Win 11 Pro Silver Notebook",
+    "brand": "Asus",
+    "title": "Asus VivoBook 15 X1504VAP 15.6\" Core 3-100U 8GB 256GB Win 11 Home Notebook - Quiet Blue",
     "spec": "Core 3 · 15.6\" screen · 8GB RAM",
-    "price": "R10 930",
-    "price_n": 10930,
-    "sku": "C78E8AT",
-    "handle": "hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
-    "url": "/products/hp-250r-g10-15-6-core-3-100u-8gb-512gb-win-11-pro-silver-notebook",
-    "qty": 37,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/7/C78E8AT_98d1.jpg"
+    "price": "R10 451",
+    "price_n": 10451,
+    "sku": "X1504VAP-I382BL0W",
+    "handle": "asus-vivobook-15-x1504vap-15-6-core-3-100u-8gb-256gb-win-11-home-notebook-quiet-blue",
+    "url": "/products/asus-vivobook-15-x1504vap-15-6-core-3-100u-8gb-256gb-win-11-home-notebook-quiet-blue",
+    "qty": 978,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/X/1/X1504VAP_I382BL0W_2231.jpg"
    },
    {
     "brand": "Lenovo",
@@ -144,16 +144,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo E16 G4 PTL Laptop — Core Ultra 7 · 16GB · 512GB SSD (21YC0035ZA)",
-    "spec": "Core Ultra 7 · 512GB SSD",
-    "price": "R29 213",
-    "price_n": 29213,
-    "sku": "21YC0035ZA",
-    "handle": "lenovo-e16-g4-ptl-u7-355-16gb-ddr5-512gb-ssd-m-2-2242-tlc-g4-integrated-windows-11-pro-64-16-0-wuxga-ag-300nits-fhd-ir-cam-wi-fi-7-802-11be-2x2-bt5-4-y-fpr-3-cell-48whr-65w-usb-c-3pin-za-bklt-kb-us",
-    "url": "/products/lenovo-e16-g4-ptl-u7-355-16gb-ddr5-512gb-ssd-m-2-2242-tlc-g4-integrated-windows-11-pro-64-16-0-wuxga-ag-300nits-fhd-ir-cam-wi-fi-7-802-11be-2x2-bt5-4-y-fpr-3-cell-48whr-65w-usb-c-3pin-za-bklt-kb-us",
-    "qty": 66,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/21YC0035ZA_default.png"
+    "brand": "Dell",
+    "title": "Dell Pro 14 Essential PV14255 Laptop — 16GB (PV14255_KRK_501)",
+    "spec": "Notebooks",
+    "price": "R29 001",
+    "price_n": 29001,
+    "sku": "PV14255_KRK_501",
+    "handle": "dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
+    "url": "/products/dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
+    "qty": 35,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/PV14255_KRK_501_default.jpg"
    },
    {
     "brand": "Dell",
@@ -274,7 +274,7 @@
     "sku": "PCB_HOME_R58G-V1",
     "handle": "pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc",
     "url": "/products/pcbuilder-amd-ryzen-5-3400g-home-master-windows-11-desktop-pc",
-    "qty": 22,
+    "qty": 21,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_HOME_R58G-V1_PCBuilder-AMD-Ryzen-5-3400G-HOME-MASTER-Windows-11-Desktop-PC_wr_01.jpg"
    },
    {
@@ -617,7 +617,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 248,
+    "qty": 246,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -799,7 +799,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 248,
+    "qty": 246,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -812,7 +812,7 @@
     "sku": "DS-D5019S0-1P0",
     "handle": "hikvision-18-5-borderless-fhd-monitor",
     "url": "/products/hikvision-18-5-borderless-fhd-monitor",
-    "qty": 90,
+    "qty": 89,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
@@ -888,7 +888,7 @@
     "sku": "DS-UPS1000-SA",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "/products/hikvision-1000va-1kva-ups",
-    "qty": 382,
+    "qty": 376,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -940,7 +940,7 @@
     "price": "R904",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 382,
+    "qty": 376,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png",
     "sku": "DS-UPS1000-SA"
    },
@@ -1678,28 +1678,28 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS105_wr_01.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP Poly Mission 415 Monaural USB Wired Headset Classic.",
+    "brand": "Redragon",
+    "title": "Redragon H889 SPECTRA PRO Over-Ear Wireless Headphones - Black",
     "spec": "Headsets",
-    "price": "R704",
-    "price_n": 704,
-    "sku": "C01A9AA",
-    "handle": "hp-poly-mission-415-monaural-usb-wired-headset-classic",
-    "url": "/products/hp-poly-mission-415-monaural-usb-wired-headset-classic",
-    "qty": 35,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/C01A9AA_default.png"
+    "price": "R725",
+    "price_n": 725,
+    "sku": "RD-H889",
+    "handle": "redragon-h889-spectra-pro-over-ear-wireless-headphones-black",
+    "url": "/products/redragon-h889-spectra-pro-over-ear-wireless-headphones-black",
+    "qty": 118,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/RD-H889_Redragon-H889-SPECTRA-PRO-Over-Ear-Wireless-Headphones-Black_wr_01a.jpg"
    },
    {
-    "brand": "Winx",
-    "title": "WINX CALL Elite AI Noise Cancelling Wireless Headset",
+    "brand": "Nearity",
+    "title": "Nearity AW-EP320 Wireless Headset Microphone",
     "spec": "Headsets",
-    "price": "R1 320",
-    "price_n": 1320,
-    "sku": "WX-HS114",
-    "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
-    "url": "/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
-    "qty": 114,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg"
+    "price": "R1 573",
+    "price_n": 1573,
+    "sku": "AW-EP320",
+    "handle": "nearity-aw-ep320-wireless-headset-microphone",
+    "url": "/products/nearity-aw-ep320-wireless-headset-microphone",
+    "qty": 5,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_Design__66__4814.png"
    },
    {
     "brand": "HP",
@@ -1873,16 +1873,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DTKNG2/64GB_default.jpg"
    },
    {
-    "brand": "Targus",
-    "title": "Targus Hyper HyperDrive EcoSmart USB4 SSD Enclosure",
+    "brand": "Crucial",
+    "title": "Crucial E100 480GB PCIe Gen4 2280 NVMe M.2 SSD",
     "spec": "Storage",
-    "price": "R2 002",
-    "price_n": 2002,
-    "sku": "HD5001GL",
-    "handle": "targus-hyper-hyperdrive-ecosmart-usb4-ssd-enclosure",
-    "url": "/products/targus-hyper-hyperdrive-ecosmart-usb4-ssd-enclosure",
-    "qty": 5,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/HD5001GL_default.png"
+    "price": "R2 136",
+    "price_n": 2136,
+    "sku": "CT480E100SSD8",
+    "handle": "crucial-e100-480gb-pcie-gen4-2280-nvme-m-2-ssd",
+    "url": "/products/crucial-e100-480gb-pcie-gen4-2280-nvme-m-2-ssd",
+    "qty": 72,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/CT480E100SSD8_wr_01.jpg"
    },
    {
     "brand": "Kingston",
@@ -2214,27 +2214,27 @@
    },
    {
     "brand": "Redragon",
-    "title": "REDRAGON Over-Ear AURORA Gaming Headset - Black",
+    "title": "Redragon H894 TITAN Wireless Gaming Headset - Black",
     "spec": "Headsets",
-    "price": "R553",
-    "price_n": 553,
-    "sku": "RD-H376BR",
-    "handle": "redragon-over-ear-aurora-gaming-headset-black",
-    "url": "/products/redragon-over-ear-aurora-gaming-headset-black",
-    "qty": 202,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/02/RD-H376BR_wr_01.jpg"
+    "price": "R573",
+    "price_n": 573,
+    "sku": "RD-H894",
+    "handle": "redragon-h894-titan-wireless-gaming-headset-black",
+    "url": "/products/redragon-h894-titan-wireless-gaming-headset-black",
+    "qty": 155,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/RD-H894_Redragon_H894_TITAN_Wireless_Gaming_Head_wr_01.png"
    },
    {
-    "brand": "HP",
-    "title": "HP HyperX Cloud Stinger 3 Wired Gaming Headset Black",
-    "spec": "Headsets",
-    "price": "R1 081",
-    "price_n": 1081,
-    "sku": "BS1T5AA",
-    "handle": "hp-hyperx-cloud-stinger-3-wired-gaming-headset-black",
-    "url": "/products/hp-hyperx-cloud-stinger-3-wired-gaming-headset-black",
-    "qty": 22,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/S/BS1T5AA_5dbd.jpg"
+    "brand": "Xiaomi",
+    "title": "Xiaomi Redmi Headphones Neo ANC Wireless Over-Ears - White",
+    "spec": "Tv And Audio",
+    "price": "R1 213",
+    "price_n": 1213,
+    "sku": "BHR08W2GL",
+    "handle": "xiaomi-redmi-headphones-neo-anc-wireless-over-ears-white",
+    "url": "/products/xiaomi-redmi-headphones-neo-anc-wireless-over-ears-white",
+    "qty": 14,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/BHR08W2GL_Redmi-Headphones-Neo-ANC-Wireless-Over-Ears-White_wr_01a.jpg"
    },
    {
     "brand": "HP",
@@ -2346,28 +2346,28 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/RD-BM-4049_wr_01.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP 400 Quiet Wireless Black Mouse",
+    "brand": "Logitech",
+    "title": "Logitech MK235 Wireless Mouse & Keyboard Combo - Black.…",
     "spec": "Wired Mouse",
-    "price": "R371",
-    "price_n": 371,
-    "sku": "AZ7B2AA",
-    "handle": "hp-400-quiet-wireless-black-mouse",
-    "url": "/products/hp-400-quiet-wireless-black-mouse",
-    "qty": 150,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B2AA_dac7.jpg"
+    "price": "R359",
+    "price_n": 359,
+    "sku": "920-007931",
+    "handle": "logitech-mk235-wireless-mouse-keyboard-combo-black-spill-resistant-keyboard-smooth-mouse-long-battery-life-one-usb-nano-receiver",
+    "url": "/products/logitech-mk235-wireless-mouse-keyboard-combo-black-spill-resistant-keyboard-smooth-mouse-long-battery-life-one-usb-nano-receiver",
+    "qty": 28,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/920-007931_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Premier Rechargeable Wireless Mouse - MS7421W",
+    "brand": "Targus",
+    "title": "Targus Midsize Antimicrobial Wireless Keyboard and Mouse Combo Black",
     "spec": "Wired Mouse",
-    "price": "R747",
-    "price_n": 747,
-    "sku": "570-ABLO",
-    "handle": "dell-premier-rechargeable-wireless-mouse-ms7421w",
-    "url": "/products/dell-premier-rechargeable-wireless-mouse-ms7421w",
-    "qty": 8,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/570-ABLO_default.jpg"
+    "price": "R743",
+    "price_n": 743,
+    "sku": "AKM619AMUSZ",
+    "handle": "targus-midsize-antimicrobial-wireless-keyboard-and-mouse-combo-black",
+    "url": "/products/targus-midsize-antimicrobial-wireless-keyboard-and-mouse-combo-black",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/AKM619AMUSZ_default.jpg"
    },
    {
     "brand": "Keychron",
@@ -3106,6 +3106,6 @@
    "total": "R8 552"
   }
  ],
- "generated": "2026-11-25T08:02:05Z",
+ "generated": "2026-11-25T09:01:34Z",
  "v": 3
 }
