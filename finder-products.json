@@ -114,7 +114,7 @@
     "sku": "C38KYAT",
     "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
     "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "qty": 51,
+    "qty": 50,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
    },
    {
@@ -144,16 +144,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 14 Essential PV14255 Laptop — 16GB (PV14255_KRK_501)",
-    "spec": "Notebooks",
-    "price": "R29 001",
-    "price_n": 29001,
-    "sku": "PV14255_KRK_501",
-    "handle": "dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
-    "url": "/products/dell-pro-14-essential-pv14255-amd-krk2-ai7-350-u-hw-tpm-16gb-ddr5-5200-mt-s-1tb-m-2-ssd-windows-11-pro-copilot-pc-amd-radeon-graphics-fingerprint-reader-realtek-wi-fi-6-2x2-802-11ax-mu-mimo-bluetooth",
-    "qty": 35,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/PV14255_KRK_501_default.jpg"
+    "brand": "Lenovo",
+    "title": "Lenovo E16 G4 PTL Laptop — Core Ultra 7 · 16GB · 512GB SSD (21YC0035ZA)",
+    "spec": "Core Ultra 7 · 512GB SSD",
+    "price": "R29 213",
+    "price_n": 29213,
+    "sku": "21YC0035ZA",
+    "handle": "lenovo-e16-g4-ptl-u7-355-16gb-ddr5-512gb-ssd-m-2-2242-tlc-g4-integrated-windows-11-pro-64-16-0-wuxga-ag-300nits-fhd-ir-cam-wi-fi-7-802-11be-2x2-bt5-4-y-fpr-3-cell-48whr-65w-usb-c-3pin-za-bklt-kb-us",
+    "url": "/products/lenovo-e16-g4-ptl-u7-355-16gb-ddr5-512gb-ssd-m-2-2242-tlc-g4-integrated-windows-11-pro-64-16-0-wuxga-ag-300nits-fhd-ir-cam-wi-fi-7-802-11be-2x2-bt5-4-y-fpr-3-cell-48whr-65w-usb-c-3pin-za-bklt-kb-us",
+    "qty": 66,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/21YC0035ZA_default.png"
    },
    {
     "brand": "Dell",
@@ -212,7 +212,7 @@
     "sku": "UX3405CA-OU91610BL1X",
     "handle": "asus-zenbook-14-ux3405ca-14-3k-oled-120hz-core-u9-285h-16gb-1tb-win-11-pro-notebook",
     "url": "/products/asus-zenbook-14-ux3405ca-14-3k-oled-120hz-core-u9-285h-16gb-1tb-win-11-pro-notebook",
-    "qty": 51,
+    "qty": 50,
     "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_14_UX3405CA_Product_photo_3B_Ponder_Blue_03_62bf.jpg"
    },
    {
@@ -644,28 +644,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
-    "brand": "Samsung",
-    "title": "Samsung Value G3 Flat 27in Monitor 144Hz 3Y warranty",
-    "spec": "Monitors And Displays",
-    "price": "R2 316",
-    "price_n": 2316,
-    "sku": "LS27HG314EAXXA",
-    "handle": "samsung-value-g3-flat-27in-monitor-144hz-3y-warranty",
-    "url": "/products/samsung-value-g3-flat-27in-monitor-144hz-3y-warranty",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/LS27HG314EAXXA_default.png"
-   },
-   {
     "brand": "HP",
-    "title": "HP Series 3 Pro 24\" FHD Monitor",
-    "spec": "24\" screen",
-    "price": "R3 147",
-    "price_n": 3147,
-    "sku": "9U5C1AA",
-    "handle": "hp-series-3-pro-24-fhd-monitor",
-    "url": "/products/hp-series-3-pro-24-fhd-monitor",
-    "qty": 28,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5C1AA_1ac3.jpg"
+    "title": "HP Series 3 Pro 22\" FHD Monitor",
+    "spec": "22\" screen",
+    "price": "R3 034",
+    "price_n": 3034,
+    "sku": "9U5A2AA",
+    "handle": "hp-series-3-pro-22-fhd-monitor",
+    "url": "/products/hp-series-3-pro-22-fhd-monitor",
+    "qty": 26,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5A2AA__1__b014.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -766,15 +754,15 @@
    },
    {
     "brand": "HP",
-    "title": "HP Series 3 Pro 322pv 21.45\" FHD 100Hz 5ms LED VA Monitor",
-    "spec": "45\" screen",
-    "price": "R2 571",
-    "price_n": 2571,
-    "sku": "HP-9U5A2AA",
-    "handle": "hp-series-3-pro-322pv-21-45-fhd-100hz-5ms-led-va-monitor",
-    "url": "/products/hp-series-3-pro-322pv-21-45-fhd-100hz-5ms-led-va-monitor",
-    "qty": 50,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/H/P/HP_9U5A2AA_9a08.jpg"
+    "title": "HP Series 5 Pro 27\" FHD 120Hz 5ms LED IPS Monitor",
+    "spec": "27\" screen",
+    "price": "R2 517",
+    "price_n": 2517,
+    "sku": "B28F5AS",
+    "handle": "hp-series-5-pro-27-fhd-120hz-5ms-led-ips-monitor",
+    "url": "/products/hp-series-5-pro-27-fhd-120hz-5ms-led-ips-monitor",
+    "qty": 3,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/B/2/B28F5AS_4ff1.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -826,16 +814,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi G24i 2026 24″ 200Hz Full HD 1080p IPS Gaming Monitor",
-    "spec": "24\" screen",
-    "price": "R2 660",
-    "price_n": 2660,
-    "sku": "ELA6364EU",
-    "handle": "xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
-    "url": "/products/xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
-    "qty": 203,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6364EU_Xiaomi-G24i-2026-24%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
+    "brand": "HP",
+    "title": "HP Series 5 Pro 27\" FHD 120Hz 5ms LED IPS Monitor",
+    "spec": "27\" screen",
+    "price": "R2 517",
+    "price_n": 2517,
+    "sku": "B28F5AS",
+    "handle": "hp-series-5-pro-27-fhd-120hz-5ms-led-ips-monitor",
+    "url": "/products/hp-series-5-pro-27-fhd-120hz-5ms-led-ips-monitor",
+    "qty": 3,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/B/2/B28F5AS_4ff1.jpg"
    },
    {
     "brand": "Dell",
@@ -1752,27 +1740,27 @@
    },
    {
     "brand": "TP-Link",
-    "title": "TP-Link 5 Port Gigabit Smart Switch",
-    "spec": "5 ports",
-    "price": "R326",
-    "price_n": 326,
-    "sku": "TL-SG105E",
-    "handle": "tp-link-5-port-gigabit-smart-switch",
-    "url": "/products/tp-link-5-port-gigabit-smart-switch",
-    "qty": 3,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG105E_ef37.jpg"
+    "title": "TP-Link 8 Port Gigabit Desktop Switch",
+    "spec": "8 ports",
+    "price": "R359",
+    "price_n": 359,
+    "sku": "TL-SG1008D",
+    "handle": "tp-link-8-port-gigabit-desktop-switch",
+    "url": "/products/tp-link-8-port-gigabit-desktop-switch",
+    "qty": 24,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008D_a815.png"
    },
    {
-    "brand": "Huawei",
-    "title": "Huawei S310 24P4S 24-Ports POE Switch",
-    "spec": "Networking And Wireless",
-    "price": "R3 776",
-    "price_n": 3776,
-    "sku": "98012201",
-    "handle": "huawei-s310-24p4s-24-ports-poe-switch",
-    "url": "/products/huawei-s310-24p4s-24-ports-poe-switch",
-    "qty": 172,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/h/u/huawei_switch_s310_24p4s_24ge_ports_4ge_sfp_ports_poe_ac_power_98012201_380436__c994.png"
+    "brand": "Hikvision",
+    "title": "Hikvision 4 Port Gigabit Smart Managed Industrial Solar PoE Switch",
+    "spec": "4 ports",
+    "price": "R2 426",
+    "price_n": 2426,
+    "sku": "DS-3T1506HP-EI-UPS",
+    "handle": "hikvision-4-port-gigabit-smart-managed-industrial-solar-poe-switch",
+    "url": "/products/hikvision-4-port-gigabit-smart-managed-industrial-solar-poe-switch",
+    "qty": 7,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__1__0e1c.png"
    },
    {
     "brand": "Huawei",
@@ -2307,16 +2295,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/CM748-75073_UGREEN-Bluetooth-6.0-USB-Adapter_hr01.jpeg"
    },
    {
-    "brand": "HP",
-    "title": "HP Wired 320MK combo",
-    "spec": "Accessories",
+    "brand": "Port",
+    "title": "Port 45W Universal AC Adapter (900096B-EU)",
+    "spec": "Cables And Adapters",
     "price": "R414",
     "price_n": 414,
-    "sku": "9SR36UT",
-    "handle": "hp-wired-320mk-combo",
-    "url": "/products/hp-wired-320mk-combo",
-    "qty": 9,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/9SR36UT_default.png"
+    "sku": "900096B-EU",
+    "handle": "port-45w-universal-ac-adapter-900096b-eu",
+    "url": "/products/port-45w-universal-ac-adapter-900096b-eu",
+    "qty": 90,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__2__35ed.png"
    },
    {
     "brand": "HP",
@@ -2516,7 +2504,7 @@
     "sku": "DS-2CD2046G2H-I-4MM",
     "handle": "hikvision-4mp-4mm-powered-by-darkfighter-fixed-mini-bullet-network-camera",
     "url": "/products/hikvision-4mp-4mm-powered-by-darkfighter-fixed-mini-bullet-network-camera",
-    "qty": 84,
+    "qty": 79,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_4MM_888c.jpg"
    },
    {
@@ -3116,6 +3104,6 @@
    "total": "R8 772"
   }
  ],
- "generated": "2026-11-25T10:02:07Z",
+ "generated": "2026-11-25T11:01:49Z",
  "v": 3
 }
