@@ -114,7 +114,7 @@
     "sku": "C38KYAT",
     "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
     "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "qty": 31,
+    "qty": 51,
     "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
    },
    {
@@ -243,16 +243,6 @@
  },
  "desktop": {
   "entry": [
-   {
-    "brand": "Dell",
-    "title": "Dell Pro Slim Essential QVS1260 Desktop — Core i3 8GB 512GB",
-    "spec": "Everyday desktop PC",
-    "price": "R17 313",
-    "handle": "dell-pro-slim-essential-qvs1260-desktop-pc-core-i3-bto001_qvs1260_emea",
-    "url": "https://ubratech.co.za/products/dell-pro-slim-essential-qvs1260-desktop-pc-core-i3-bto001_qvs1260_emea",
-    "qty": 5,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO001_QVS1260_EMEA_default.png"
-   },
    {
     "brand": "Lenovo",
     "title": "Lenovo Neo 50s G6 Desktop — Core Ultra 5 · 16GB · 512GB SSD",
@@ -414,7 +404,7 @@
     "sku": "12YQ000ESA",
     "handle": "lenovo-m70s-g6-sff-u7-265-13-tops-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-integrated-windows-11-pro-64-intel-ax211-2x2ax-6e-bluetooth-internal-speaker-usb-trd-us-eng-usb-clp-mouse-pub-fra-ara-eng-1year",
     "url": "/products/lenovo-m70s-g6-sff-u7-265-13-tops-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-integrated-windows-11-pro-64-intel-ax211-2x2ax-6e-bluetooth-internal-speaker-usb-trd-us-eng-usb-clp-mouse-pub-fra-ara-eng-1year",
-    "qty": 12,
+    "qty": 11,
     "image": "https://s3.amazonaws.com/tarsus.co.za/12YQ000ESA_default.jpg"
    },
    {
@@ -644,6 +634,18 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
+    "brand": "Samsung",
+    "title": "Samsung Value G3 Flat 27in Monitor 144Hz 3Y warranty",
+    "spec": "Monitors And Displays",
+    "price": "R2 316",
+    "price_n": 2316,
+    "sku": "LS27HG314EAXXA",
+    "handle": "samsung-value-g3-flat-27in-monitor-144hz-3y-warranty",
+    "url": "/products/samsung-value-g3-flat-27in-monitor-144hz-3y-warranty",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/LS27HG314EAXXA_default.png"
+   },
+   {
     "brand": "HP",
     "title": "HP Series 3 Pro 24\" FHD Monitor",
     "spec": "24\" screen",
@@ -732,6 +734,17 @@
    },
    {
     "brand": "Acer",
+    "title": "Acer 24\" IPS FHD 120Hz Monitor",
+    "spec": "High refresh · smooth motion",
+    "price": "R2 014",
+    "handle": "acer-24-ips-fhd-120hz-monitor-3yr",
+    "url": "https://ubratech.co.za/products/acer-24-ips-fhd-120hz-monitor-3yr",
+    "qty": 4,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.QE1EE.G08_default.png",
+    "sku": "UM.QE1EE.G08"
+   },
+   {
+    "brand": "Acer",
     "title": "Acer 27\" IPS FHD 120Hz Monitor",
     "spec": "High refresh · smooth motion",
     "price": "R2 391",
@@ -742,28 +755,16 @@
     "sku": "UM.HE1EE.G08"
    },
    {
-    "brand": "Samsung",
-    "title": "Samsung Value G3 Flat 24in Monitor 144Hz 3Y warranty",
-    "spec": "Monitors And Displays",
-    "price": "R2 014",
-    "price_n": 2014,
-    "sku": "LS24HG314EAXXA",
-    "handle": "samsung-value-g3-flat-24in-monitor-144hz-3y-warranty",
-    "url": "/products/samsung-value-g3-flat-24in-monitor-144hz-3y-warranty",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/LS24HG314EAXXA_default.png"
-   },
-   {
-    "brand": "Xiaomi",
-    "title": "Xiaomi G24i 2026 24″ 200Hz Full HD 1080p IPS Gaming Monitor",
-    "spec": "24\" screen",
-    "price": "R2 660",
-    "price_n": 2660,
-    "sku": "ELA6364EU",
-    "handle": "xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
-    "url": "/products/xiaomi-g24i-2026-24-200hz-full-hd-1080p-ips-gaming-monitor",
-    "qty": 203,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6364EU_Xiaomi-G24i-2026-24%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
+    "brand": "HP",
+    "title": "HP Series 3 Pro 322pv 21.45\" FHD 100Hz 5ms LED VA Monitor",
+    "spec": "45\" screen",
+    "price": "R2 571",
+    "price_n": 2571,
+    "sku": "HP-9U5A2AA",
+    "handle": "hp-series-3-pro-322pv-21-45-fhd-100hz-5ms-led-va-monitor",
+    "url": "/products/hp-series-3-pro-322pv-21-45-fhd-100hz-5ms-led-va-monitor",
+    "qty": 50,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/H/P/HP_9U5A2AA_9a08.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -827,16 +828,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/ELA6364EU_Xiaomi-G24i-2026-24%E2%80%B3-Full-HD-1080p-IPS-Gaming-Monitor_wr_01c.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi A27Qi 2026 27\" inch 120Hz 2K IPS Office Monitor",
-    "spec": "27\" screen",
-    "price": "R3 449",
-    "price_n": 3449,
-    "sku": "ELA6568EU",
-    "handle": "xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
-    "url": "/products/xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
-    "qty": 119,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6568EU_Xiaomi-A27Qi-2026-27-inch-2K-120Hz-IPS-Office-Monitor_wr_01a.jpg"
+    "brand": "Dell",
+    "title": "Dell 24 Plus S2425HSM 23.8\" FHD 1ms IPS Monitor",
+    "spec": "23.8\" screen",
+    "price": "R3 424",
+    "price_n": 3424,
+    "sku": "210-BSZD",
+    "handle": "dell-24-plus-s2425hsm-23-8-fhd-1ms-ips-monitor",
+    "url": "/products/dell-24-plus-s2425hsm-23-8-fhd-1ms-ips-monitor",
+    "qty": 99,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BSZD_165e.jpg"
    },
    {
     "brand": "Asus",
@@ -887,7 +888,7 @@
     "sku": "DS-UPS1000-SA",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "/products/hikvision-1000va-1kva-ups",
-    "qty": 384,
+    "qty": 382,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -939,7 +940,7 @@
     "price": "R904",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 384,
+    "qty": 382,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png",
     "sku": "DS-UPS1000-SA"
    },
@@ -1100,7 +1101,7 @@
     "sku": "SMC3000I",
     "handle": "apc-smart-line-interactive-3000va-3kva-2100w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
     "url": "/products/apc-smart-line-interactive-3000va-3kva-2100w-ups-tower-rack-mount-included-no-rack-type-n-a-network-card-no-battery-yes-battery-type-vrla-warranty-2-years-repair-or-replace",
-    "qty": 4,
+    "qty": 3,
     "image": "https://s3.amazonaws.com/tarsus.co.za/SMC3000I_default.jpg"
    },
    {
@@ -1526,16 +1527,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/WINX_WX-HB111_Connect-Pro-6-in-1-Type-C-Hub-45-0116-Edit1500x1500-96DPI.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 7-in-1 USB-C Mobile Docking Station",
+    "brand": "Targus",
+    "title": "Targus - USB-C Multi-Function DisplayPort Alt Triple Video with 85W… (DOCK430EUZ)",
     "spec": "Docking Station",
-    "price": "R1 489",
-    "price_n": 1489,
-    "sku": "470-BGCG",
-    "handle": "dell-pro-7-in-1-usb-c-mobile-docking-station",
-    "url": "/products/dell-pro-7-in-1-usb-c-mobile-docking-station",
-    "qty": 50,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__23__d7c1.png"
+    "price": "R2 267",
+    "price_n": 2267,
+    "sku": "DOCK430EUZ",
+    "handle": "targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
+    "url": "/products/targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
+    "qty": 34,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK430EUZ_default.jpg"
    },
    {
     "brand": "Dell",
@@ -1576,16 +1577,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK430EUZ_default.jpg"
    },
    {
-    "brand": "Port",
-    "title": "PORT Office docking station 3 X 4 USB-C 11 devices 100W",
+    "brand": "Port2",
+    "title": "PORT2 x 4K USB-C desktop docking station 11 peripherals 96W",
     "spec": "Docking Station",
-    "price": "R3 535",
-    "price_n": 3535,
-    "sku": "901910V2EU",
-    "handle": "port-office-docking-station-3-x-4-usb-c-11-devices-100w",
-    "url": "/products/port-office-docking-station-3-x-4-usb-c-11-devices-100w",
-    "qty": 4,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901910V2EU_PORT_Office_docking_station_3_X_4_USB-C__wr_01.png"
+    "price": "R4 154",
+    "price_n": 4154,
+    "sku": "901904V2EU",
+    "handle": "port2-x-4k-usb-c-desktop-docking-station-11-peripherals-96w",
+    "url": "/products/port2-x-4k-usb-c-desktop-docking-station-11-peripherals-96w",
+    "qty": 6,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901904V2EU_PORT2_x_4K_USB-C_desktop_docking_station_wr_03.png"
    },
    {
     "brand": "Dell",
@@ -1689,16 +1690,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/C01A9AA_default.png"
    },
    {
-    "brand": "Nearity",
-    "title": "Nearity AW-EP320 Wireless Headset Microphone",
+    "brand": "Winx",
+    "title": "WINX CALL Elite AI Noise Cancelling Wireless Headset",
     "spec": "Headsets",
-    "price": "R1 573",
-    "price_n": 1573,
-    "sku": "AW-EP320",
-    "handle": "nearity-aw-ep320-wireless-headset-microphone",
-    "url": "/products/nearity-aw-ep320-wireless-headset-microphone",
-    "qty": 5,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_Design__66__4814.png"
+    "price": "R1 320",
+    "price_n": 1320,
+    "sku": "WX-HS114",
+    "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
+    "url": "/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
+    "qty": 114,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg"
    },
    {
     "brand": "HP",
@@ -1872,28 +1873,28 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DTKNG2/64GB_default.jpg"
    },
    {
-    "brand": "Patriot",
-    "title": "Patriot P300 512GB M.2 PCIe NVMe SSD",
+    "brand": "Targus",
+    "title": "Targus Hyper HyperDrive EcoSmart USB4 SSD Enclosure",
     "spec": "Storage",
-    "price": "R1 988",
-    "price_n": 1988,
-    "sku": "P300P512GM28",
-    "handle": "patriot-p300-512gb-m-2-pcie-nvme-ssd",
-    "url": "/products/patriot-p300-512gb-m-2-pcie-nvme-ssd",
-    "qty": 207,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2021/10/P300P512GM28_wr_01.jpg"
+    "price": "R2 002",
+    "price_n": 2002,
+    "sku": "HD5001GL",
+    "handle": "targus-hyper-hyperdrive-ecosmart-usb4-ssd-enclosure",
+    "url": "/products/targus-hyper-hyperdrive-ecosmart-usb4-ssd-enclosure",
+    "qty": 5,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/HD5001GL_default.png"
    },
    {
-    "brand": "SanDisk",
-    "title": "SanDisk Optimus GX 7100 1TB NVMe SSD",
-    "spec": "1TB NVMe SSD",
-    "price": "R4 945",
-    "price_n": 4945,
-    "sku": "SDSP71100TAN-000E0",
-    "handle": "sandisk-optimus-gx-7100-1tb-nvme-ssd",
-    "url": "/products/sandisk-optimus-gx-7100-1tb-nvme-ssd",
-    "qty": 113,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/S/D/SDSP71100TAN_000E0_d4e8.jpg"
+    "brand": "Kingston",
+    "title": "Kingston 1TB XS1000 External USB 3.2 Gen 2 Portable Solid State Drive",
+    "spec": "Storage",
+    "price": "R5 159",
+    "price_n": 5159,
+    "sku": "SXS1000/1000G",
+    "handle": "kingston-1tb-xs1000-external-usb-3-2-gen-2-portable-solid-state-drive",
+    "url": "/products/kingston-1tb-xs1000-external-usb-3-2-gen-2-portable-solid-state-drive",
+    "qty": 4,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SXS1000/1000G_default.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -2224,16 +2225,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/02/RD-H376BR_wr_01.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi Redmi Headphones Neo ANC Wireless Over-Ears - White",
-    "spec": "Tv And Audio",
-    "price": "R1 213",
-    "price_n": 1213,
-    "sku": "BHR08W2GL",
-    "handle": "xiaomi-redmi-headphones-neo-anc-wireless-over-ears-white",
-    "url": "/products/xiaomi-redmi-headphones-neo-anc-wireless-over-ears-white",
-    "qty": 14,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/BHR08W2GL_Redmi-Headphones-Neo-ANC-Wireless-Over-Ears-White_wr_01a.jpg"
+    "brand": "HP",
+    "title": "HP HyperX Cloud Stinger 3 Wired Gaming Headset Black",
+    "spec": "Headsets",
+    "price": "R1 081",
+    "price_n": 1081,
+    "sku": "BS1T5AA",
+    "handle": "hp-hyperx-cloud-stinger-3-wired-gaming-headset-black",
+    "url": "/products/hp-hyperx-cloud-stinger-3-wired-gaming-headset-black",
+    "qty": 22,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/B/S/BS1T5AA_5dbd.jpg"
    },
    {
     "brand": "HP",
@@ -2284,16 +2285,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "ASRock",
-    "title": "ASRock DESKMINI Vesa Mount Kit",
-    "spec": "Accessories",
-    "price": "R127",
-    "price_n": 127,
-    "sku": "90-BXG2T0-A0XCR3W",
-    "handle": "asrock-deskmini-vesa-mount-kit",
-    "url": "/products/asrock-deskmini-vesa-mount-kit",
-    "qty": 5,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/90-BXG2T0-A0XCR3W_wr_01.jpg"
+    "brand": "Ugreen",
+    "title": "UGREEN Bluetooth 6.0 USB Adapter",
+    "spec": "Cables And Adapters",
+    "price": "R126",
+    "price_n": 126,
+    "sku": "CM748-75073",
+    "handle": "ugreen-bluetooth-6-0-usb-adapter",
+    "url": "/products/ugreen-bluetooth-6-0-usb-adapter",
+    "qty": 206,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/CM748-75073_UGREEN-Bluetooth-6.0-USB-Adapter_hr01.jpeg"
    },
    {
     "brand": "Port",
@@ -3105,6 +3106,6 @@
    "total": "R8 552"
   }
  ],
- "generated": "2026-11-25T07:01:19Z",
+ "generated": "2026-11-25T08:02:05Z",
  "v": 3
 }
