@@ -2307,16 +2307,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/NW102-50172-wr-01.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port 45W Universal AC Adapter (900096B-EU)",
-    "spec": "Cables And Adapters",
+    "brand": "HP",
+    "title": "HP Wired 320MK combo",
+    "spec": "Accessories",
     "price": "R414",
     "price_n": 414,
-    "sku": "900096B-EU",
-    "handle": "port-45w-universal-ac-adapter-900096b-eu",
-    "url": "/products/port-45w-universal-ac-adapter-900096b-eu",
-    "qty": 90,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__2__35ed.png"
+    "sku": "9SR36UT",
+    "handle": "hp-wired-320mk-combo",
+    "url": "/products/hp-wired-320mk-combo",
+    "qty": 9,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/9SR36UT_default.png"
    },
    {
     "brand": "HP",
@@ -2421,15 +2421,15 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Fixed Bullet Network Camera",
+    "title": "Hikvision 4MP Varifocal Bullet IP Camera",
     "spec": "4MP",
-    "price": "R3 221",
-    "price_n": 3221,
-    "sku": "DS-2CD2T46G2H-2I-2.8MM",
-    "handle": "hikvision-4mp-fixed-bullet-network-camera",
-    "url": "/products/hikvision-4mp-fixed-bullet-network-camera",
-    "qty": 103,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_2.8MM_1_e9e9.png"
+    "price": "R3 204",
+    "price_n": 3204,
+    "sku": "DS-2CD2641G0-LIZSU-2.8MM-12MM",
+    "handle": "hikvision-4mp-varifocal-bullet-ip-camera",
+    "url": "/products/hikvision-4mp-varifocal-bullet-ip-camera",
+    "qty": 8,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2641G0_LIZSU_2.8MM_12MM__0a67.png"
    },
    {
     "brand": "Hikvision",
@@ -2471,15 +2471,15 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Acusense Strobe Light Audible Warning Fixed Turret IP Camera",
+    "title": "Hikvision 4MP Fixed Bullet Network Camera",
     "spec": "4MP",
-    "price": "R3 385",
-    "price_n": 3385,
-    "sku": "DS-2CD2346G2H-IS2U-SL-2.8MM",
-    "handle": "hikvision-4mp-acusense-strobe-light-audible-warning-fixed-turret-ip-camera",
-    "url": "/products/hikvision-4mp-acusense-strobe-light-audible-warning-fixed-turret-ip-camera",
-    "qty": 18,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2346G2H_IS2U_SL_2.8MM_98ea.jpg"
+    "price": "R3 221",
+    "price_n": 3221,
+    "sku": "DS-2CD2T46G2H-2I-2.8MM",
+    "handle": "hikvision-4mp-fixed-bullet-network-camera",
+    "url": "/products/hikvision-4mp-fixed-bullet-network-camera",
+    "qty": 103,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_2.8MM_1_e9e9.png"
    },
    {
     "brand": "Hikvision",
@@ -2497,15 +2497,15 @@
   "ip_large": [
    {
     "brand": "Hikvision",
-    "title": "Hikvision 2MP IR and White Light Mini PT Network IP Camera",
+    "title": "Hikvision 2MP Fixed Mini Bullet Network Camera",
     "spec": "2MP",
-    "price": "R1 000",
-    "price_n": 1000,
-    "sku": "DS-2DE2C200MWG-E",
-    "handle": "hikvision-2mp-ir-and-white-light-mini-pt-network-ip-camera",
-    "url": "/products/hikvision-2mp-ir-and-white-light-mini-pt-network-ip-camera",
-    "qty": 103,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2DE2C200MWG_E_1_44a7.png"
+    "price": "R1 310",
+    "price_n": 1310,
+    "sku": "DS-2CD2021G0-LIU-2.8MM",
+    "handle": "hikvision-2mp-fixed-mini-bullet-network-camera",
+    "url": "/products/hikvision-2mp-fixed-mini-bullet-network-camera",
+    "qty": 240,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2021G0_LIU_2.8MM_9325.png"
    },
    {
     "brand": "Hikvision",
@@ -2521,15 +2521,15 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Smart Hybrid ColorVu Bullet IP Camera",
+    "title": "Hikvision 4MP Darkfighter Fiexed Bullet IP Camera",
     "spec": "4MP",
-    "price": "R3 594",
-    "price_n": 3594,
-    "sku": "DS-2CD2T47G3-LIY-2.8MM",
-    "handle": "hikvision-4mp-smart-hybrid-colorvu-bullet-ip-camera",
-    "url": "/products/hikvision-4mp-smart-hybrid-colorvu-bullet-ip-camera",
-    "qty": 17,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__30__be02.png"
+    "price": "R3 533",
+    "price_n": 3533,
+    "sku": "DS-2CD2T46G2H-4I-4MM",
+    "handle": "hikvision-4mp-darkfighter-fiexed-bullet-ip-camera",
+    "url": "/products/hikvision-4mp-darkfighter-fiexed-bullet-ip-camera",
+    "qty": 161,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_4I_4MM_1_ef81.png"
    },
    {
     "brand": "Hikvision",
@@ -3116,6 +3116,6 @@
    "total": "R8 772"
   }
  ],
- "generated": "2026-11-25T15:01:46Z",
+ "generated": "2026-11-25T16:04:00Z",
  "v": 3
 }
