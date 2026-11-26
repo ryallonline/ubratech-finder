@@ -94,40 +94,40 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/X/1/X1504VAP_I382BL0W_a78d.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 15 15.6\" Core-i5 8GB 512GB Win 11 Pro Notebook",
-    "spec": "Core i5 · 15.6\" screen · 8GB RAM",
-    "price": "R15 991",
-    "price_n": 15991,
-    "sku": "PV15250_RPLU_001_P8L",
-    "handle": "dell-pro-15-15-6-core-i5-8gb-512gb-win-11-pro-notebook",
-    "url": "/products/dell-pro-15-15-6-core-i5-8gb-512gb-win-11-pro-notebook",
-    "qty": 97,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/P/V/PV15250_RPLU_001_P8L_f32d.jpg"
+    "brand": "Acer",
+    "title": "Acer EXO16 51 53W7 Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.EM3EA.004)",
+    "spec": "Core Ultra 5 · 512GB SSD",
+    "price": "R16 747",
+    "price_n": 16747,
+    "sku": "NX.EM3EA.004",
+    "handle": "acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
+    "url": "/products/acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
+    "qty": 25,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.004_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP ProBook 4 G1iR 14' Core-5 16GB 512GB Win 11 Pro Notebook",
-    "spec": "Core 5 · 16GB RAM",
-    "price": "R19 601",
-    "price_n": 19601,
-    "sku": "C38KYAT",
-    "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
-    "qty": 46,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
+    "brand": "Acer",
+    "title": "Acer EXO15 51 5183 Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.EMBEA.004)",
+    "spec": "Core Ultra 5 · 512GB SSD",
+    "price": "R19 013",
+    "price_n": 19013,
+    "sku": "NX.EMBEA.004",
+    "handle": "acer-exo15-51-5183-intel-core-ultra-5-processor-125u-15-6-fhd-ips-slimbezel-uma-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-53wh-battery-65w",
+    "url": "/products/acer-exo15-51-5183-intel-core-ultra-5-processor-125u-15-6-fhd-ips-slimbezel-uma-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-53wh-battery-65w",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EMBEA.004_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP ProBook 4 G1a 14\" AI Ryzen 5-230 16GB 512GB Win 11 Pro Notebook",
-    "spec": "Ryzen 5 · 14\" screen · 16GB RAM",
+    "brand": "Asus",
+    "title": "Asus VivoBook S14 Snapdragon X1 16GB 512GB Win 11 Home Notebook",
+    "spec": "Snapdragon X1 · 16GB RAM",
     "price": "R21 406",
     "price_n": 21406,
-    "sku": "C67GLEA",
-    "handle": "hp-probook-4-g1a-14-ai-ryzen-5-230-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/hp-probook-4-g1a-14-ai-ryzen-5-230-16gb-512gb-win-11-pro-notebook",
-    "qty": 54,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/6/C67GCEA_1f78.jpg"
+    "sku": "S5408QA-Q16512G0W",
+    "handle": "asus-vivobook-s14-snapdragon-x1-16gb-512gb-win-11-home-notebook",
+    "url": "/products/asus-vivobook-s14-snapdragon-x1-16gb-512gb-win-11-home-notebook",
+    "qty": 17,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__56__bd0f.png"
    }
   ],
   "high": [
@@ -156,16 +156,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__72__4dde.png"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 16 Plus Laptop — Core Ultra 7 · 16GB (BTO211_PB16250_EMEA)",
-    "spec": "Core Ultra 7",
-    "price": "R42 433",
-    "price_n": 42433,
-    "sku": "BTO211_PB16250_EMEA",
-    "handle": "dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-dual-channel-onboard-512gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro",
-    "url": "/products/dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-dual-channel-onboard-512gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro",
-    "qty": 72,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO211_PB16250_EMEA_default.png"
+    "brand": "Lenovo",
+    "title": "Lenovo T16 G5 PTL Laptop — Core Ultra 7 · 512GB SSD (21WT001TZA)",
+    "spec": "Core Ultra 7 · 512GB SSD",
+    "price": "R42 816",
+    "price_n": 42816,
+    "sku": "21WT001TZA",
+    "handle": "lenovo-t16-g5-ptl-u7-355-16gb-base-soldered-ddr5-512gb-ssd-m-2-2280-tlc-g4-intel-arc-windows-11-pro-64-16-0-wuxga-ag-400nits-5m-rgb-ir-cam-intel-be201-2x2-be-bt-quectel-em061k-4-ai-now-y-scr-y-fpr-4",
+    "url": "/products/lenovo-t16-g5-ptl-u7-355-16gb-base-soldered-ddr5-512gb-ssd-m-2-2280-tlc-g4-intel-arc-windows-11-pro-64-16-0-wuxga-ag-400nits-5m-rgb-ir-cam-intel-be201-2x2-be-bt-quectel-em061k-4-ai-now-y-scr-y-fpr-4",
+    "qty": 13,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/21WT001TZA_default.png"
    },
    {
     "brand": "Lenovo",
@@ -760,8 +760,8 @@
     "brand": "HP",
     "title": "HP Series 3 Pro 322pv 21.45\" FHD 100Hz 5ms LED VA Monitor",
     "spec": "45\" screen",
-    "price": "R2 571",
-    "price_n": 2571,
+    "price": "R2 517",
+    "price_n": 2517,
     "sku": "HP-9U5A2AA",
     "handle": "hp-series-3-pro-322pv-21-45-fhd-100hz-5ms-led-va-monitor",
     "url": "/products/hp-series-3-pro-322pv-21-45-fhd-100hz-5ms-led-va-monitor",
@@ -890,7 +890,7 @@
     "sku": "DS-UPS1000-SA",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "/products/hikvision-1000va-1kva-ups",
-    "qty": 360,
+    "qty": 359,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -942,7 +942,7 @@
     "price": "R904",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 360,
+    "qty": 359,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png",
     "sku": "DS-UPS1000-SA"
    },
@@ -1897,16 +1897,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/M461M2NVME500GB_MSI_M641_500GB_M2_2280_NVMe_SSD_wr_01.png"
    },
    {
-    "brand": "Hiksemi",
-    "title": "Hiksemi City Series E100 2TB 2.5\" SATAIII SSD",
-    "spec": "2.5\" screen",
-    "price": "R6 194",
-    "price_n": 6194,
-    "sku": "HS-SSD-E100-2048G",
-    "handle": "hiksemi-city-series-e100-2tb-2-5-sataiii-ssd",
-    "url": "/products/hiksemi-city-series-e100-2tb-2-5-sataiii-ssd",
-    "qty": 4,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/HS-SSD-E100-2048G_Hiksemi-E100-City-Series-2TB-2.5%E2%80%B3-SATAIII-SSD_wr_01.jpg"
+    "brand": "Proline",
+    "title": "Proline KINGSTON 1000G NV3 M.2 PCIe 4.0 NVMe SSD",
+    "spec": "Storage",
+    "price": "R5 344",
+    "price_n": 5344,
+    "sku": "SNV3SM3-1T0",
+    "handle": "proline-kingston-1000g-nv3-m-2-pcie-4-0-nvme-ssd",
+    "url": "/products/proline-kingston-1000g-nv3-m-2-pcie-4-0-nvme-ssd",
+    "qty": 13,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SNV3SM3/1T0_default.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -2087,7 +2087,7 @@
     "sku": "VITA-850BD",
     "handle": "fsp-vita-bd-850w-80plus-bronze-atx3-1-non-modular-power-supply",
     "url": "/products/fsp-vita-bd-850w-80plus-bronze-atx3-1-non-modular-power-supply",
-    "qty": 8,
+    "qty": 7,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/VITA-850BD_FSP-VITA-BD-850W-80PLUS-Bronze-ATX3.1-Non-modular-Power-Supply_wr_01.jpg"
    },
    {
@@ -2297,16 +2297,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "ASRock",
-    "title": "ASRock DESKMINI Vesa Mount Kit",
-    "spec": "Accessories",
-    "price": "R127",
-    "price_n": 127,
-    "sku": "90-BXG2T0-A0XCR3W",
-    "handle": "asrock-deskmini-vesa-mount-kit",
-    "url": "/products/asrock-deskmini-vesa-mount-kit",
-    "qty": 5,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/90-BXG2T0-A0XCR3W_wr_01.jpg"
+    "brand": "Ugreen",
+    "title": "UGREEN Bluetooth 6.0 USB Adapter",
+    "spec": "Cables And Adapters",
+    "price": "R126",
+    "price_n": 126,
+    "sku": "CM748-75073",
+    "handle": "ugreen-bluetooth-6-0-usb-adapter",
+    "url": "/products/ugreen-bluetooth-6-0-usb-adapter",
+    "qty": 206,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/CM748-75073_UGREEN-Bluetooth-6.0-USB-Adapter_hr01.jpeg"
    },
    {
     "brand": "Redragon",
@@ -3118,6 +3118,6 @@
    "total": "R8 772"
   }
  ],
- "generated": "2026-11-26T12:01:50Z",
+ "generated": "2026-11-26T13:01:45Z",
  "v": 3
 }
