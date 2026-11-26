@@ -682,7 +682,7 @@
     "sku": "210-BQSZ",
     "handle": "dell-pro-27-plus-qhd-usb-c-hub-monitor-p2725de-68-6cm-27-0",
     "url": "/products/dell-pro-27-plus-qhd-usb-c-hub-monitor-p2725de-68-6cm-27-0",
-    "qty": 6,
+    "qty": 30,
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BQSZ_default.jpg"
    },
    {
@@ -730,7 +730,7 @@
     "price": "R2 112",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 9,
+    "qty": 8,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg",
     "sku": "210-BVCB"
    },
@@ -818,16 +818,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
-    "brand": "MSI",
-    "title": "MSI MAG 255F E20 25\" FHD 200Hz Rapid IPS Gaming Monitor",
-    "spec": "25\" screen",
-    "price": "R2 461",
-    "price_n": 2461,
-    "sku": "MAG 255F E20",
-    "handle": "msi-mag-255f-e20-25-fhd-200hz-rapid-ips-gaming-monitor",
-    "url": "/products/msi-mag-255f-e20-25-fhd-200hz-rapid-ips-gaming-monitor",
-    "qty": 7,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-E20_MSI-MAG-255F-E20-25-inch-FHD-200Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
+    "brand": "HP",
+    "title": "HP Series 3 Pro 27\" FHD IPS 5ms Monitor",
+    "spec": "27\" screen",
+    "price": "R2 517",
+    "price_n": 2517,
+    "sku": "B0CG8AS",
+    "handle": "hp-series-3-pro-27-fhd-ips-5ms-monitor",
+    "url": "/products/hp-series-3-pro-27-fhd-ips-5ms-monitor",
+    "qty": 10,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/B/0/B0CG8AS_da71.jpg"
    },
    {
     "brand": "Dell",
@@ -1167,7 +1167,7 @@
     "sku": "WR11000",
     "handle": "cudy-be11000-wi-fi7-gigabit-mesh-router",
     "url": "/products/cudy-be11000-wi-fi7-gigabit-mesh-router",
-    "qty": 48,
+    "qty": 47,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/WR11000_Cudy-BE11000-Wi-Fi7-Gigabit-Mesh-Router_wr_01.jpg"
    },
    {
@@ -1473,7 +1473,7 @@
     "handle": "niimbot-d11-portable-thermal-label-printer-green",
     "url": "https://ubratech.co.za/products/niimbot-d11-portable-thermal-label-printer-green",
     "image": "https://www.syntech.co.za/wp-content/uploads/2023/09/D11-BL_wr_01a-1.jpg",
-    "qty": 156,
+    "qty": 155,
     "sku": "D11-BL"
    },
    {
@@ -1966,7 +1966,7 @@
     "sku": "HSC516U60C4-16G",
     "handle": "hiksemi-future-rgb-16gb-6000mhz-ddr5-desktop-gaming-memory",
     "url": "/products/hiksemi-future-rgb-16gb-6000mhz-ddr5-desktop-gaming-memory",
-    "qty": 72,
+    "qty": 69,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/HSC516U60C4-16G_Hiksemi-Future-RGB-16GB-6000MHz-DDR5-Desktop-Gaming-Memory_wr_01.jpg"
    },
    {
@@ -2308,28 +2308,28 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "Ugreen",
-    "title": "UGREEN Bluetooth 6.0 USB Adapter",
-    "spec": "Cables And Adapters",
-    "price": "R126",
-    "price_n": 126,
-    "sku": "CM748-75073",
-    "handle": "ugreen-bluetooth-6-0-usb-adapter",
-    "url": "/products/ugreen-bluetooth-6-0-usb-adapter",
-    "qty": 206,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/CM748-75073_UGREEN-Bluetooth-6.0-USB-Adapter_hr01.jpeg"
+    "brand": "ASRock",
+    "title": "ASRock DESKMINI Vesa Mount Kit",
+    "spec": "Accessories",
+    "price": "R127",
+    "price_n": 127,
+    "sku": "90-BXG2T0-A0XCR3W",
+    "handle": "asrock-deskmini-vesa-mount-kit",
+    "url": "/products/asrock-deskmini-vesa-mount-kit",
+    "qty": 5,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/90-BXG2T0-A0XCR3W_wr_01.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port 45W Universal AC Adapter (900096B-EU)",
-    "spec": "Cables And Adapters",
+    "brand": "Redragon",
+    "title": "Redragon HARROW Wireless X/D-input(Digital/Analog) PC Controller - Black",
+    "spec": "Accessories",
     "price": "R414",
     "price_n": 414,
-    "sku": "900096B-EU",
-    "handle": "port-45w-universal-ac-adapter-900096b-eu",
-    "url": "/products/port-45w-universal-ac-adapter-900096b-eu",
-    "qty": 90,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__2__35ed.png"
+    "sku": "RD-G808",
+    "handle": "redragon-harrow-wireless-x-d-input-digital-analog-pc-controller-black",
+    "url": "/products/redragon-harrow-wireless-x-d-input-digital-analog-pc-controller-black",
+    "qty": 147,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2018/03/Redragon_RD-G808_wr_01b.jpg"
    },
    {
     "brand": "HP",
@@ -3129,6 +3129,6 @@
    "total": "R8 772"
   }
  ],
- "generated": "2026-11-26T15:01:32Z",
+ "generated": "2026-11-26T16:01:57Z",
  "v": 3
 }
