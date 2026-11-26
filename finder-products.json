@@ -145,15 +145,15 @@
    },
    {
     "brand": "HP",
-    "title": "HP ProBook 4 Ryzen-5 14\" 16GB 512GB Win 11 Pro Notebook",
-    "spec": "Ryzen 5 · 14\" screen · 16GB RAM",
-    "price": "R29 294",
-    "price_n": 29294,
-    "sku": "E40X9ET",
-    "handle": "hp-probook-4-ryzen-5-14-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/hp-probook-4-ryzen-5-14-16gb-512gb-win-11-pro-notebook",
-    "qty": 18,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__2__32c0.png"
+    "title": "HP Probook 4 G2a 16\" Ryzen-5-220 16GB 512GB Win 11 Pro Notebook",
+    "spec": "Ryzen 5 · 16\" screen · 16GB RAM",
+    "price": "R29 376",
+    "price_n": 29376,
+    "sku": "E40X2ET",
+    "handle": "hp-probook-4-g2a-16-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/hp-probook-4-g2a-16-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
+    "qty": 49,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__72__4dde.png"
    },
    {
     "brand": "Dell",
@@ -243,16 +243,6 @@
  },
  "desktop": {
   "entry": [
-   {
-    "brand": "Dell",
-    "title": "Dell Pro Slim Essential QVS1260 Desktop — Core i3 8GB 512GB",
-    "spec": "Everyday desktop PC",
-    "price": "R17 313",
-    "handle": "dell-pro-slim-essential-qvs1260-desktop-pc-core-i3-bto001_qvs1260_emea",
-    "url": "https://ubratech.co.za/products/dell-pro-slim-essential-qvs1260-desktop-pc-core-i3-bto001_qvs1260_emea",
-    "qty": 7,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO001_QVS1260_EMEA_default.png"
-   },
    {
     "brand": "Lenovo",
     "title": "Lenovo Neo 50s G6 Desktop — Core Ultra 5 · 16GB · 512GB SSD",
@@ -347,27 +337,27 @@
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder FUSION 24\" Intel Core i5-12400 16GB DDR5 1TB Windows 11 AiO Desktop PC",
-    "spec": "Core i5 · 24\" screen · 16GB RAM",
-    "price": "R16 756",
-    "price_n": 16756,
-    "sku": "PCB-AIO-FIB24-I5161000-D5",
-    "handle": "pcbuilder-fusion-24-intel-core-i5-12400-16gb-ddr5-1tb-windows-11-aio-desktop-pc",
-    "url": "/products/pcbuilder-fusion-24-intel-core-i5-12400-16gb-ddr5-1tb-windows-11-aio-desktop-pc",
-    "qty": 38,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/05/PCB-AIO-FIB24-I5161000-D5_PCBuilder-FUSION-24-inch-Intel-Core-i5-12400-16GB-DDR5-1TB-Windows-11-AiO-Desktop-PC_wr_01a.jpg"
+    "title": "PCBuilder Ryzen 5 5500 SCOUT Windows 11 Gaming PC",
+    "spec": "Ryzen 5",
+    "price": "R16 753",
+    "price_n": 16753,
+    "sku": "PCB_SCOUT_05",
+    "handle": "pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
+    "url": "/products/pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
+    "qty": 10,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SCOUT_05_wr_01e.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo TC Neo 30s G5 Desktop PC — Core i5 · 16GB · 512GB SSD (13DK0011SA)",
-    "spec": "Core i5 · 512GB SSD",
-    "price": "R18 511",
-    "price_n": 18511,
-    "sku": "13DK0011SA",
-    "handle": "lenovo-tc-neo-30s-g5-intel-core-i5-13420h-4-6-ghz-1x-16gb-ddr5-5200-512gb-ssd-m-2-2280-pcie-4-0x4-nvme-opal-2-0-usb-calliope-keyboard-black-english-eu-usb-calliope-mouse-black-integrated-100-1000m",
-    "url": "/products/lenovo-tc-neo-30s-g5-intel-core-i5-13420h-4-6-ghz-1x-16gb-ddr5-5200-512gb-ssd-m-2-2280-pcie-4-0x4-nvme-opal-2-0-usb-calliope-keyboard-black-english-eu-usb-calliope-mouse-black-integrated-100-1000m",
-    "qty": 20,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/13DK0011SA_default.jpg"
+    "brand": "PCBuilder",
+    "title": "PCBuilder Ryzen 5 5600XT SENTINEL Windows 11 Gaming PC",
+    "spec": "Ryzen 5",
+    "price": "R18 725",
+    "price_n": 18725,
+    "sku": "PCB_SENTINEL_01",
+    "handle": "pcbuilder-ryzen-5-5600xt-sentinel-windows-11-gaming-pc",
+    "url": "/products/pcbuilder-ryzen-5-5600xt-sentinel-windows-11-gaming-pc",
+    "qty": 7,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SENTINEL_01_wr_01e.jpg"
    },
    {
     "brand": "HP",
@@ -639,7 +629,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 212,
+    "qty": 213,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -656,16 +646,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP Series 3 Pro 22\" FHD Monitor",
-    "spec": "22\" screen",
-    "price": "R3 034",
-    "price_n": 3034,
-    "sku": "9U5A2AA",
-    "handle": "hp-series-3-pro-22-fhd-monitor",
-    "url": "/products/hp-series-3-pro-22-fhd-monitor",
-    "qty": 26,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5A2AA__1__b014.jpg"
+    "brand": "Acer",
+    "title": "Acer PM161QT 15.6\" FHD Monitor (UM.ZP1EE.009)",
+    "spec": "15.6\" screen",
+    "price": "R2 832",
+    "price_n": 2832,
+    "sku": "UM.ZP1EE.009",
+    "handle": "acer-monitor-commercial-pm161qt-black-flat-15-6-ips-response-time-6ms-resolution-1920x1080-viewing-angle-178-h-178-v-aspect-ratio-16-09-digital-frequency-60hz-interface-hdmi-1-4-2type-c-speaker-yes",
+    "url": "/products/acer-monitor-commercial-pm161qt-black-flat-15-6-ips-response-time-6ms-resolution-1920x1080-viewing-angle-178-h-178-v-aspect-ratio-16-09-digital-frequency-60hz-interface-hdmi-1-4-2type-c-speaker-yes",
+    "qty": 6,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.ZP1EE.009_default.png"
    },
    {
     "brand": "Xiaomi",
@@ -809,7 +799,7 @@
     "price": "R2 332",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 212,
+    "qty": 213,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -838,16 +828,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/B/2/B28F5AS_4ff1.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell 24 Plus S2425HSM 23.8\" FHD 1ms IPS Monitor",
+    "brand": "HP",
+    "title": "HP Series 3 Pro 23.8\" FHD IPS Monitor",
     "spec": "23.8\" screen",
-    "price": "R3 424",
-    "price_n": 3424,
-    "sku": "210-BSZD",
-    "handle": "dell-24-plus-s2425hsm-23-8-fhd-1ms-ips-monitor",
-    "url": "/products/dell-24-plus-s2425hsm-23-8-fhd-1ms-ips-monitor",
-    "qty": 99,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BSZD_165e.jpg"
+    "price": "R3 273",
+    "price_n": 3273,
+    "sku": "9U5J5UT",
+    "handle": "hp-series-3-pro-23-8-fhd-ips-monitor",
+    "url": "/products/hp-series-3-pro-23-8-fhd-ips-monitor",
+    "qty": 7,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5J5UT_61c4.jpg"
    },
    {
     "brand": "Asus",
@@ -1424,15 +1414,15 @@
    },
    {
     "brand": "HP",
-    "title": "HP LaserJet Pro 4103dw MFP Mono Printer",
+    "title": "HP 410A Magenta LaserJet M452/MFP M477",
     "spec": "Printers",
-    "price": "R8 062",
-    "price_n": 8062,
-    "sku": "2Z627A",
-    "handle": "hp-laserjet-pro-4103dw-mfp-mono-printer",
-    "url": "/products/hp-laserjet-pro-4103dw-mfp-mono-printer",
-    "qty": 4,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/2Z627A_default.png"
+    "price": "R3 110",
+    "price_n": 3110,
+    "sku": "CF413A",
+    "handle": "hp-410a-magenta-laserjet-m452-mfp-m477",
+    "url": "/products/hp-410a-magenta-laserjet-m452-mfp-m477",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/CF413A_default.jpg"
    }
   ],
   "photo": [],
@@ -1458,18 +1448,6 @@
     "qty": 5,
     "image": "https://s3.amazonaws.com/tarsus.co.za/3PZ55A_default.png",
     "sku": "3PZ55A"
-   },
-   {
-    "brand": "HP",
-    "title": "HP LaserJet Pro 4103dw MFP Mono Printer",
-    "spec": "Printers",
-    "price": "R8 062",
-    "price_n": 8062,
-    "sku": "2Z627A",
-    "handle": "hp-laserjet-pro-4103dw-mfp-mono-printer",
-    "url": "/products/hp-laserjet-pro-4103dw-mfp-mono-printer",
-    "qty": 4,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/2Z627A_default.png"
    },
    {
     "brand": "HP",
@@ -1917,16 +1895,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/HD5001GL_default.png"
    },
    {
-    "brand": "SanDisk",
-    "title": "SanDisk Optimus GX 7100 1TB NVMe SSD",
-    "spec": "1TB NVMe SSD",
-    "price": "R4 945",
-    "price_n": 4945,
-    "sku": "SDSP71100TAN-000E0",
-    "handle": "sandisk-optimus-gx-7100-1tb-nvme-ssd",
-    "url": "/products/sandisk-optimus-gx-7100-1tb-nvme-ssd",
-    "qty": 113,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/S/D/SDSP71100TAN_000E0_d4e8.jpg"
+    "brand": "Kingston",
+    "title": "Kingston 1TB XS1000 External USB 3.2 Gen 2 Portable Solid State Drive",
+    "spec": "Storage",
+    "price": "R5 159",
+    "price_n": 5159,
+    "sku": "SXS1000/1000G",
+    "handle": "kingston-1tb-xs1000-external-usb-3-2-gen-2-portable-solid-state-drive",
+    "url": "/products/kingston-1tb-xs1000-external-usb-3-2-gen-2-portable-solid-state-drive",
+    "qty": 4,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SXS1000/1000G_default.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -2317,28 +2295,28 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "Ugreen",
-    "title": "UGREEN NW102 Cat6 U/UTP Flat Ethernet Cable 15m - Black",
-    "spec": "Cables And Adapters",
+    "brand": "ASRock",
+    "title": "ASRock DESKMINI Vesa Mount Kit",
+    "spec": "Accessories",
     "price": "R127",
     "price_n": 127,
-    "sku": "NW102-50180",
-    "handle": "ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
-    "url": "/products/ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
-    "qty": 23,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/NW102-50172-wr-01.jpg"
+    "sku": "90-BXG2T0-A0XCR3W",
+    "handle": "asrock-deskmini-vesa-mount-kit",
+    "url": "/products/asrock-deskmini-vesa-mount-kit",
+    "qty": 5,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/90-BXG2T0-A0XCR3W_wr_01.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP Wired 320MK combo",
-    "spec": "Accessories",
-    "price": "R414",
-    "price_n": 414,
-    "sku": "9SR36UT",
-    "handle": "hp-wired-320mk-combo",
-    "url": "/products/hp-wired-320mk-combo",
-    "qty": 9,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/9SR36UT_default.png"
+    "brand": "Winx",
+    "title": "WINX POWER Max 65W GaN Wall Charger",
+    "spec": "Power Adapter",
+    "price": "R412",
+    "price_n": 412,
+    "sku": "WX-WC108",
+    "handle": "winx-power-max-65w-gan-wall-charger",
+    "url": "/products/winx-power-max-65w-gan-wall-charger",
+    "qty": 225,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/WX-WC108_WINX-POWER-Max-65W-GaN-Wall-Charger-Black_wr_01.jpg"
    },
    {
     "brand": "HP",
@@ -2438,7 +2416,7 @@
     "sku": "DS-2CD2146G2H-I-2.8MM",
     "handle": "hikvision-4mp-2-8mm-powered-by-darkfighter-fixed-dome-network-camera",
     "url": "/products/hikvision-4mp-2-8mm-powered-by-darkfighter-fixed-dome-network-camera",
-    "qty": 214,
+    "qty": 218,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_2.8MM_8f84.png"
    },
    {
@@ -2450,7 +2428,7 @@
     "sku": "DS-2CD2641G0-LIZSU-2.8MM-12MM",
     "handle": "hikvision-4mp-varifocal-bullet-ip-camera",
     "url": "/products/hikvision-4mp-varifocal-bullet-ip-camera",
-    "qty": 8,
+    "qty": 12,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2641G0_LIZSU_2.8MM_12MM__0a67.png"
    },
    {
@@ -2488,7 +2466,7 @@
     "sku": "DS-2CD2146G2H-I-2.8MM",
     "handle": "hikvision-4mp-2-8mm-powered-by-darkfighter-fixed-dome-network-camera",
     "url": "/products/hikvision-4mp-2-8mm-powered-by-darkfighter-fixed-dome-network-camera",
-    "qty": 214,
+    "qty": 218,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_2.8MM_8f84.png"
    },
    {
@@ -3074,70 +3052,7 @@
    ]
   ]
  },
- "kits": [
-  {
-   "id": "cctv-vigi-4",
-   "slot": "cctv_ip_small",
-   "name": "TP-Link VIGI 4MP colour-at-night kit",
-   "blurb": "A colour picture at night, and a recorder with room to add two more of these cameras later.",
-   "badge": "Best value",
-   "mode": "quote",
-   "note": "The price is for the items. Delivery is quoted with your request, before you pay anything. Network cable and fitting are not included.",
-   "parts": [
-    {
-     "brand": "TP-Link VIGI",
-     "title": "TP-Link VIGI 4MP Outdoor Full-Colour PoE Bullet Camera",
-     "spec": "4MP, 2.8mm Fixed Lens, 1/3” Progressive Scan CMOS, H.265+/H.265/H.264+",
-     "price": "R953",
-     "price_n": 953,
-     "uid": "UT-C901214E",
-     "pn": "VIGI C340(2.8mm)",
-     "handle": "tp-link-vigi-4mp-outdoor-full-color-poe-bullet-camera-tp-vigi-c340-28",
-     "url": "/pages/tp-link-vigi-4mp-outdoor-full-color-poe-bullet-camera-tp-vigi-c340-28",
-     "qty": 9,
-     "image": "https://miro.co.za/img/p/1/7/9/2/5/17925.jpg",
-     "enquiry": true,
-     "role": "Cameras",
-     "note": "Colour picture at night",
-     "kit_qty": 4
-    },
-    {
-     "brand": "TP-Link VIGI",
-     "title": "TP-Link VIGI 8-Channel PoE+ NVR",
-     "spec": "H.265+/H.265/H.264+/H.264, 8 ch PoE⁺ (53 W), 80 Mbps in / 60 Mbps out,",
-     "price": "R1 986",
-     "price_n": 1986,
-     "uid": "UT-7B7788FF",
-     "pn": "VIGI NVR1008H-8P",
-     "handle": "tp-link-vigi-nvr1008h-8-channel-8mp-poe-nvr-nvr1008h-8p",
-     "url": "/pages/tp-link-vigi-nvr1008h-8-channel-8mp-poe-nvr-nvr1008h-8p",
-     "qty": 9,
-     "image": "https://miro.co.za/img/p/1/8/0/4/3/18043.jpg",
-     "enquiry": true,
-     "role": "Recorder",
-     "note": "Powers the cameras over the network cable, with room for two more",
-     "kit_qty": 1
-    },
-    {
-     "brand": "Seagate",
-     "title": "Seagate SkyHawk 2TB Surveillance Drive",
-     "spec": "3.5\" screen",
-     "price": "R2 974",
-     "price_n": 2974,
-     "sku": "ST2000VX017",
-     "handle": "seagate-skyhawk-surveillance-2tb-3-5-sata-internal-hdd",
-     "url": "/products/seagate-skyhawk-surveillance-2tb-3-5-sata-internal-hdd",
-     "qty": 4,
-     "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST2000VX017_9199.jpg",
-     "role": "Storage",
-     "note": "Built to record all day",
-     "kit_qty": 1
-    }
-   ],
-   "total_n": 8772,
-   "total": "R8 772"
-  }
- ],
- "generated": "2026-11-25T20:01:18Z",
+ "kits": [],
+ "generated": "2026-11-26T04:01:39Z",
  "v": 3
 }
