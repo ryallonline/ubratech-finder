@@ -44,7 +44,7 @@
     "sku": "X1504VAP-I382BL0W",
     "handle": "asus-vivobook-15-x1504vap-15-6-core-3-100u-8gb-256gb-win-11-home-notebook-quiet-blue",
     "url": "/products/asus-vivobook-15-x1504vap-15-6-core-3-100u-8gb-256gb-win-11-home-notebook-quiet-blue",
-    "qty": 677,
+    "qty": 675,
     "image": "https://www.pinnacle.co.za/media/catalog/product/X/1/X1504VAP_I382BL0W_2231.jpg"
    },
    {
@@ -90,7 +90,7 @@
     "sku": "X1504VAP-I58512BL4W",
     "handle": "asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
     "url": "/products/asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
-    "qty": 118,
+    "qty": 19,
     "image": "https://www.pinnacle.co.za/media/catalog/product/X/1/X1504VAP_I382BL0W_a78d.jpg"
    },
    {
@@ -262,7 +262,7 @@
     "sku": "F108D-FV-N10040N0G-GIA",
     "handle": "giada-f108d-intel-n100-1xddr4-3200-mhz-2xhdmi",
     "url": "/products/giada-f108d-intel-n100-1xddr4-3200-mhz-2xhdmi",
-    "qty": 60,
+    "qty": 58,
     "image": "https://www.syntech.co.za/wp-content/uploads/2023/10/F108D-FV-N10040N0G-GIA_wr_01b.jpg"
    },
    {
@@ -356,7 +356,7 @@
     "sku": "PCB_SENTINEL_01",
     "handle": "pcbuilder-ryzen-5-5600xt-sentinel-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600xt-sentinel-windows-11-gaming-pc",
-    "qty": 7,
+    "qty": 4,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SENTINEL_01_wr_01e.jpg"
    },
    {
@@ -473,16 +473,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_DEFENDER_05_wr_01e.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "Asus TUF A15 15.6\" Ryzen-7 8GB 512GB Win 11 Home Notebook",
-    "spec": "Ryzen 7 · 15.6\" screen · 8GB RAM",
-    "price": "R18 132",
-    "price_n": 18132,
-    "sku": "FA506NCG-78512B0W",
-    "handle": "asus-tuf-a15-15-6-ryzen-7-8gb-512gb-win-11-home-notebook",
-    "url": "/products/asus-tuf-a15-15-6-ryzen-7-8gb-512gb-win-11-home-notebook",
-    "qty": 41,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/F/A/FA506NCG_78512B0W__1__1ce1.png"
+    "brand": "PCBuilder",
+    "title": "PCBuilder Ryzen 5 5600XT SENTINEL Windows 11 Gaming PC",
+    "spec": "Ryzen 5",
+    "price": "R18 725",
+    "price_n": 18725,
+    "sku": "PCB_SENTINEL_01",
+    "handle": "pcbuilder-ryzen-5-5600xt-sentinel-windows-11-gaming-pc",
+    "url": "/products/pcbuilder-ryzen-5-5600xt-sentinel-windows-11-gaming-pc",
+    "qty": 4,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SENTINEL_01_wr_01e.jpg"
    },
    {
     "brand": "Asus",
@@ -511,40 +511,40 @@
   ],
   "ultra": [
    {
+    "brand": "Acer",
+    "title": "Acer NITRO V 15 Gaming Laptop — Ryzen 7",
+    "spec": "Ryzen 7",
+    "price": "R25 627",
+    "price_n": 25627,
+    "sku": "NH.U3NEA.002",
+    "handle": "acer-nitro-v-15-gaming-laptop-15-6-amd-ryzen-7-16gb-512gb-rtx-5050-8gb-windows-11-home",
+    "url": "/products/acer-nitro-v-15-gaming-laptop-15-6-amd-ryzen-7-16gb-512gb-rtx-5050-8gb-windows-11-home",
+    "qty": 12,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NH.U3NEA.002_Acr-NITRO-V-15-Gaming-Laptop-15.6inch_wr01.jpg"
+   },
+   {
     "brand": "Asus",
-    "title": "Asus TUF Gaming A16 Gaming Laptop 16″ · Laptop — Ryzen 7 · 16GB · 512GB SSD (FA608UHI-716512G0W)",
-    "spec": "Ryzen 7 · 16\" screen · 512GB SSD",
-    "price": "R25 185",
-    "price_n": 25185,
-    "sku": "FA608UHI-716512G0W",
-    "handle": "asus-tuf-gaming-a16-gaming-laptop-16-ryzen-7-260-16gb-ddr5-rtx-5050-512gb-ssd-windows-11-home-fa608uhi-716512g0w",
-    "url": "/products/asus-tuf-gaming-a16-gaming-laptop-16-ryzen-7-260-16gb-ddr5-rtx-5050-512gb-ssd-windows-11-home-fa608uhi-716512g0w",
-    "qty": 14,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/FA608UHI-716512G0W_Asus_TUF_Gaming_A16_Gaming_Laptop_16_Ryz_wr_01.png"
+    "title": "Asus TUF Gaming F16 16\" Core-i7 16GB 512GB Win 11 Home Notebook",
+    "spec": "Core i7 · 16\" screen · 16GB RAM",
+    "price": "R34 376",
+    "price_n": 34376,
+    "sku": "FX608JHI-I716512G0W",
+    "handle": "asus-tuf-gaming-f16-16-core-i7-16gb-512gb-win-11-home-notebook",
+    "url": "/products/asus-tuf-gaming-f16-16-core-i7-16gb-512gb-win-11-home-notebook",
+    "qty": 20,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__48__bbef.png"
    },
    {
-    "brand": "Acer",
-    "title": "Acer NITRO V 15 Gaming Laptop 15.6″ · Laptop (NH.QZAEA.006)",
-    "spec": "15.6\" screen",
-    "price": "R32 524",
-    "price_n": 32524,
-    "sku": "NH.QZAEA.006",
-    "handle": "acer-nitro-v-15-gaming-laptop-15-6-intel-core-7-240h-16gb-512gb-rtx-5060-8gb-windows-11-home",
-    "url": "/products/acer-nitro-v-15-gaming-laptop-15-6-intel-core-7-240h-16gb-512gb-rtx-5060-8gb-windows-11-home",
-    "qty": 65,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/NH_QZAEA_006_Acer_NITRO_V_15_Gaming_Laptop_156_Intel__wr_01.png"
-   },
-   {
-    "brand": "Acer",
-    "title": "Acer Predator HELIOS NEO 16 AI Gaming Laptop 1 Laptop",
-    "spec": "Notebooks",
-    "price": "R49 278",
-    "price_n": 49278,
-    "sku": "NH.U42EA.003",
-    "handle": "acer-predator-helios-neo-16-ai-gaming-laptop-16-intel-ultra-9-290hx-plus-16gb-1tb-rtx-5070-8gb-windows-11-home",
-    "url": "/products/acer-predator-helios-neo-16-ai-gaming-laptop-16-intel-ultra-9-290hx-plus-16gb-1tb-rtx-5070-8gb-windows-11-home",
-    "qty": 19,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/NH_U42EA_003_Acer_Predator_HELIOS_NEO_16_AI_Gaming_La_wr_01.png"
+    "brand": "Dell",
+    "title": "Dell Alienware 15 Aurora 15.3\" Core-7 32GB 1TB Win 11 Home Notebook",
+    "spec": "Core 7 · 15.3\" screen · 32GB RAM",
+    "price": "R49 786",
+    "price_n": 49786,
+    "sku": "DA15260_EDB5_SPL",
+    "handle": "dell-alienware-15-aurora-15-3-core-7-32gb-1tb-win-11-home-notebook",
+    "url": "/products/dell-alienware-15-aurora-15-3-core-7-32gb-1tb-win-11-home-notebook",
+    "qty": 17,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__97__74c5.png"
    },
    {
     "brand": "Dell",
@@ -604,7 +604,7 @@
     "sku": "PCB_SENTINEL_01",
     "handle": "pcbuilder-ryzen-5-5600xt-sentinel-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600xt-sentinel-windows-11-gaming-pc",
-    "qty": 7,
+    "qty": 4,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SENTINEL_01_wr_01e.jpg"
    }
   ]
@@ -644,18 +644,6 @@
     "url": "/products/acer-monitor-v206h-flat-19-5-tn-led-response-time-5-ms-resolution-1600-x-900-viewing-angle-178-h-178-v-aspect-ratio-16-09-digital-frequency-100hz-interface-x1-hdmi-1x-vga-speaker-none-power-supply",
     "qty": 99,
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
-   },
-   {
-    "brand": "PCBuilder",
-    "title": "PCBuilder CORE 24 FHD 1080P Office Monitor",
-    "spec": "Monitors And Displays",
-    "price": "R2 265",
-    "price_n": 2265,
-    "sku": "PCB-OM-24",
-    "handle": "pcbuilder-core-24-fhd-1080p-office-monitor",
-    "url": "/products/pcbuilder-core-24-fhd-1080p-office-monitor",
-    "qty": 118,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/11/PCB-OM-24_PCBuilder_CORE_24_FHD_1080P_Office_Monit_wr_01.png"
    },
    {
     "brand": "Asus",
@@ -828,28 +816,28 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
-    "brand": "MSI",
-    "title": "MSI MAG 255F E20 25\" FHD 200Hz Rapid IPS Gaming Monitor",
-    "spec": "25\" screen",
-    "price": "R2 461",
-    "price_n": 2461,
-    "sku": "MAG 255F E20",
-    "handle": "msi-mag-255f-e20-25-fhd-200hz-rapid-ips-gaming-monitor",
-    "url": "/products/msi-mag-255f-e20-25-fhd-200hz-rapid-ips-gaming-monitor",
-    "qty": 7,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-E20_MSI-MAG-255F-E20-25-inch-FHD-200Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 24 Adjustable Stand Monitor - E2426HS 1x HDMI, 1x DP, 1x VGA",
+    "spec": "Monitors And Displays",
+    "price": "R2 435",
+    "price_n": 2435,
+    "sku": "210-BWPM",
+    "handle": "dell-pro-24-adjustable-stand-monitor-e2426hs-1x-hdmi-1x-dp-1x-vga",
+    "url": "/products/dell-pro-24-adjustable-stand-monitor-e2426hs-1x-hdmi-1x-dp-1x-vga",
+    "qty": 4,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BWPM_default.png"
    },
    {
-    "brand": "Acer",
-    "title": "Acer Nitro VG270 27\" IPS FHD 1MS 240HZ Gaming Monitor 3Yr",
-    "spec": "27\" screen",
+    "brand": "HP",
+    "title": "HP Series 3 Pro 23.8\" FHD IPS Monitor",
+    "spec": "23.8\" screen",
     "price": "R3 273",
     "price_n": 3273,
-    "sku": "UM.HV0EE.W01",
-    "handle": "acer-nitro-vg270-27-ips-fhd-1ms-240hz-gaming-monitor-3yr",
-    "url": "/products/acer-nitro-vg270-27-ips-fhd-1ms-240hz-gaming-monitor-3yr",
-    "qty": 3,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HV0EE.W01_default.jpg"
+    "sku": "9U5J5UT",
+    "handle": "hp-series-3-pro-23-8-fhd-ips-monitor",
+    "url": "/products/hp-series-3-pro-23-8-fhd-ips-monitor",
+    "qty": 7,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5J5UT_61c4.jpg"
    },
    {
     "brand": "Asus",
@@ -900,7 +888,7 @@
     "sku": "DS-UPS1000-SA",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "/products/hikvision-1000va-1kva-ups",
-    "qty": 371,
+    "qty": 370,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -952,7 +940,7 @@
     "price": "R904",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 371,
+    "qty": 370,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png",
     "sku": "DS-UPS1000-SA"
    },
@@ -1557,7 +1545,7 @@
     "sku": "470-BGCG",
     "handle": "dell-pro-7-in-1-usb-c-mobile-docking-station",
     "url": "/products/dell-pro-7-in-1-usb-c-mobile-docking-station",
-    "qty": 48,
+    "qty": 47,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__23__d7c1.png"
    },
    {
@@ -1633,7 +1621,7 @@
     "sku": "CM219-25851",
     "handle": "ugreen-4-in-1-usb-3-0-hub-high-speed-5gbps-data-transfer-grey",
     "url": "/products/ugreen-4-in-1-usb-3-0-hub-high-speed-5gbps-data-transfer-grey",
-    "qty": 6,
+    "qty": 3,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM219-25851-WR-01.jpg"
    },
    {
@@ -1895,16 +1883,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DTKNG2/64GB_default.jpg"
    },
    {
-    "brand": "Targus",
-    "title": "Targus Hyper HyperDrive EcoSmart USB4 SSD Enclosure",
+    "brand": "Patriot",
+    "title": "Patriot P300 512GB M.2 PCIe NVMe SSD",
     "spec": "Storage",
-    "price": "R2 002",
-    "price_n": 2002,
-    "sku": "HD5001GL",
-    "handle": "targus-hyper-hyperdrive-ecosmart-usb4-ssd-enclosure",
-    "url": "/products/targus-hyper-hyperdrive-ecosmart-usb4-ssd-enclosure",
-    "qty": 5,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/HD5001GL_default.png"
+    "price": "R1 988",
+    "price_n": 1988,
+    "sku": "P300P512GM28",
+    "handle": "patriot-p300-512gb-m-2-pcie-nvme-ssd",
+    "url": "/products/patriot-p300-512gb-m-2-pcie-nvme-ssd",
+    "qty": 109,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2021/10/P300P512GM28_wr_01.jpg"
    },
    {
     "brand": "Kingston",
@@ -1957,16 +1945,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/PVSR416G360C0_wr_-3.jpg"
    },
    {
-    "brand": "GeIL",
-    "title": "GeIL Pristine 32GB DDR4 3200MHz UDIMM Desktop Memory",
+    "brand": "Hiksemi",
+    "title": "Hiksemi Future RGB 16GB 6000MHz DDR5 Desktop Gaming Memory",
     "spec": "Memory",
-    "price": "R4 978",
-    "price_n": 4978,
-    "sku": "GP432GB3200C22SC",
-    "handle": "geil-pristine-32gb-ddr4-3200mhz-udimm-desktop-memory",
-    "url": "/products/geil-pristine-32gb-ddr4-3200mhz-udimm-desktop-memory",
-    "qty": 67,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/GP432GB3200C22SC_GeIL-Pristine-32GB-DDR4-3200MHz-UDIMM-Desktop-Memory_wr_01.jpg"
+    "price": "R5 053",
+    "price_n": 5053,
+    "sku": "HSC516U60C4-16G",
+    "handle": "hiksemi-future-rgb-16gb-6000mhz-ddr5-desktop-gaming-memory",
+    "url": "/products/hiksemi-future-rgb-16gb-6000mhz-ddr5-desktop-gaming-memory",
+    "qty": 76,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/HSC516U60C4-16G_Hiksemi-Future-RGB-16GB-6000MHz-DDR5-Desktop-Gaming-Memory_wr_01.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -2014,7 +2002,7 @@
     "sku": "DUAL-RTX5060-O8G",
     "handle": "asus-dual-geforce-rtx-5060-oc-edition-8gb-gddr7-graphics-card",
     "url": "/products/asus-dual-geforce-rtx-5060-oc-edition-8gb-gddr7-graphics-card",
-    "qty": 17,
+    "qty": 14,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/04/DUAL-RTX5060-O8G-WR-01-1.jpg"
    },
    {
@@ -2051,7 +2039,7 @@
     "handle": "asus-prime-750w-80-plus-bronze-atx-non-modular-power-supply",
     "url": "https://ubratech.co.za/products/asus-prime-750w-80-plus-bronze-atx-non-modular-power-supply",
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/PRIME-750B-BLACK_Asus-PRIME-750W-80-PLUS-Bronze-ATX-Non-modular-Power-Supply_wr_01a.jpg",
-    "qty": 65,
+    "qty": 64,
     "sku": "PRIME-750B-BLACK"
    },
    {
@@ -2136,7 +2124,7 @@
     "handle": "xiaomi-robot-vacuum-s40c",
     "url": "https://ubratech.co.za/products/xiaomi-robot-vacuum-s40c",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/BHR9664EU_Xiaomi-Robot-Vacuum-S40C_wr_02a-1.jpg",
-    "qty": 103,
+    "qty": 101,
     "sku": "BHR9664EU"
    },
    {
@@ -2307,28 +2295,28 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "Ugreen",
-    "title": "UGREEN NW102 Cat6 U/UTP Flat Ethernet Cable 15m - Black",
-    "spec": "Cables And Adapters",
+    "brand": "ASRock",
+    "title": "ASRock DESKMINI Vesa Mount Kit",
+    "spec": "Accessories",
     "price": "R127",
     "price_n": 127,
-    "sku": "NW102-50180",
-    "handle": "ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
-    "url": "/products/ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
-    "qty": 23,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/NW102-50172-wr-01.jpg"
+    "sku": "90-BXG2T0-A0XCR3W",
+    "handle": "asrock-deskmini-vesa-mount-kit",
+    "url": "/products/asrock-deskmini-vesa-mount-kit",
+    "qty": 5,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/90-BXG2T0-A0XCR3W_wr_01.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP Wired 320MK combo",
-    "spec": "Accessories",
+    "brand": "Port",
+    "title": "Port 45W Universal AC Adapter (900096B-EU)",
+    "spec": "Cables And Adapters",
     "price": "R414",
     "price_n": 414,
-    "sku": "9SR36UT",
-    "handle": "hp-wired-320mk-combo",
-    "url": "/products/hp-wired-320mk-combo",
-    "qty": 9,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/9SR36UT_default.png"
+    "sku": "900096B-EU",
+    "handle": "port-45w-universal-ac-adapter-900096b-eu",
+    "url": "/products/port-45w-universal-ac-adapter-900096b-eu",
+    "qty": 90,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__2__35ed.png"
    },
    {
     "brand": "HP",
@@ -2368,16 +2356,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/RD-BM-4049_wr_01.jpg"
    },
    {
-    "brand": "Winx",
-    "title": "WINX DO Simple Wireless Keyboard and Mouse Combo",
-    "spec": "Keyboards",
-    "price": "R366",
-    "price_n": 366,
-    "sku": "WX-CO101",
-    "handle": "winx-do-simple-wireless-keyboard-and-mouse-combo",
-    "url": "/products/winx-do-simple-wireless-keyboard-and-mouse-combo",
-    "qty": 246,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-CO101_wr_01.jpg"
+    "brand": "HP",
+    "title": "HP 400 Quiet Wireless Pink Mouse",
+    "spec": "Wired Mouse",
+    "price": "R367",
+    "price_n": 367,
+    "sku": "AZ7B5AA",
+    "handle": "hp-400-quiet-wireless-pink-mouse",
+    "url": "/products/hp-400-quiet-wireless-pink-mouse",
+    "qty": 97,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B5AA_da01.jpg"
    },
    {
     "brand": "Targus",
@@ -2400,7 +2388,7 @@
     "sku": "Q6U-M1",
     "handle": "keychron-q6-ultra-100-8k-hot-swappable-rgb-wireless-keyboard-red-silk-pom-switches",
     "url": "/products/keychron-q6-ultra-100-8k-hot-swappable-rgb-wireless-keyboard-red-silk-pom-switches",
-    "qty": 4,
+    "qty": 3,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/11/Q6U-M1_Keychron_Q6_Ultra_100_8K_Hot-Swappable_R_wr_01.png"
    }
   ]
@@ -3128,6 +3116,6 @@
    "total": "R8 772"
   }
  ],
- "generated": "2026-11-26T08:02:10Z",
+ "generated": "2026-11-26T09:02:00Z",
  "v": 3
 }
