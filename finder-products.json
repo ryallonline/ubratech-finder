@@ -44,7 +44,7 @@
     "sku": "X1504VAP-I382BL0W",
     "handle": "asus-vivobook-15-x1504vap-15-6-core-3-100u-8gb-256gb-win-11-home-notebook-quiet-blue",
     "url": "/products/asus-vivobook-15-x1504vap-15-6-core-3-100u-8gb-256gb-win-11-home-notebook-quiet-blue",
-    "qty": 977,
+    "qty": 677,
     "image": "https://www.pinnacle.co.za/media/catalog/product/X/1/X1504VAP_I382BL0W_2231.jpg"
    },
    {
@@ -68,7 +68,7 @@
     "price": "R12 591",
     "handle": "lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
     "url": "https://ubratech.co.za/products/lenovo-v15-iru-laptop-core-i3-256gb-ssd-83gw006cza",
-    "qty": 10,
+    "qty": 5,
     "image": "https://s3.amazonaws.com/tarsus.co.za/83GW006CZA_default.jpg"
    },
    {
@@ -278,16 +278,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/VM27-N621042E6G-GIA_wr_01a.jpg"
    },
    {
-    "brand": "PCBuilder",
-    "title": "PCBUiLDER™ CUBE Ryzen 5 3500U 8GB DDR4 512GB Windows 11 Home Mini PC",
-    "spec": "Ryzen 5 · 8GB RAM",
-    "price": "R8 374",
-    "price_n": 8374,
-    "sku": "PCB_CUBE_3500U8GB_HOME",
-    "handle": "pcbuilder-cube-ryzen-5-3500u-8gb-ddr4-512gb-windows-11-home-mini-pc",
-    "url": "/products/pcbuilder-cube-ryzen-5-3500u-8gb-ddr4-512gb-windows-11-home-mini-pc",
-    "qty": 29,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/PCB_CUBE_3500U8GB_HOME_PCBuilder-CUBE-Ryzen-5-3500U-8GB-DDR4-512GB-Windows-11-Home-Mini-PC_wr_01.jpg"
+    "brand": "Giada",
+    "title": "Giada D612 i5-1235U 2x DDR4 3200Mhz",
+    "spec": "Desktops",
+    "price": "R8 199",
+    "price_n": 8199,
+    "sku": "D612-1235U40N0G-GIA",
+    "handle": "giada-d612-i5-1235u-2x-ddr4-3200mhz",
+    "url": "/products/giada-d612-i5-1235u-2x-ddr4-3200mhz",
+    "qty": 73,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2023/02/D612-1235U40N0G-GIA_wr_01.jpeg"
    },
    {
     "brand": "PCBuilder",
@@ -646,28 +646,28 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
    },
    {
-    "brand": "Samsung",
-    "title": "Samsung Value G3 Flat 27in Monitor 144Hz 3Y warranty",
+    "brand": "PCBuilder",
+    "title": "PCBuilder CORE 24 FHD 1080P Office Monitor",
     "spec": "Monitors And Displays",
-    "price": "R2 316",
-    "price_n": 2316,
-    "sku": "LS27HG314EAXXA",
-    "handle": "samsung-value-g3-flat-27in-monitor-144hz-3y-warranty",
-    "url": "/products/samsung-value-g3-flat-27in-monitor-144hz-3y-warranty",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/LS27HG314EAXXA_default.png"
+    "price": "R2 265",
+    "price_n": 2265,
+    "sku": "PCB-OM-24",
+    "handle": "pcbuilder-core-24-fhd-1080p-office-monitor",
+    "url": "/products/pcbuilder-core-24-fhd-1080p-office-monitor",
+    "qty": 118,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/11/PCB-OM-24_PCBuilder_CORE_24_FHD_1080P_Office_Monit_wr_01.png"
    },
    {
-    "brand": "Acer",
-    "title": "Acer PM161QT 15.6\" FHD Monitor (UM.ZP1EE.009)",
-    "spec": "15.6\" screen",
-    "price": "R2 832",
-    "price_n": 2832,
-    "sku": "UM.ZP1EE.009",
-    "handle": "acer-monitor-commercial-pm161qt-black-flat-15-6-ips-response-time-6ms-resolution-1920x1080-viewing-angle-178-h-178-v-aspect-ratio-16-09-digital-frequency-60hz-interface-hdmi-1-4-2type-c-speaker-yes",
-    "url": "/products/acer-monitor-commercial-pm161qt-black-flat-15-6-ips-response-time-6ms-resolution-1920x1080-viewing-angle-178-h-178-v-aspect-ratio-16-09-digital-frequency-60hz-interface-hdmi-1-4-2type-c-speaker-yes",
-    "qty": 6,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.ZP1EE.009_default.png"
+    "brand": "Asus",
+    "title": "Asus ZenScreen 16\" FHD IPS 60Hz Portable Monitor",
+    "spec": "16\" screen",
+    "price": "R2 731",
+    "price_n": 2731,
+    "sku": "MB16FC",
+    "handle": "asus-zenscreen-16-fhd-ips-60hz-portable-monitor",
+    "url": "/products/asus-zenscreen-16-fhd-ips-60hz-portable-monitor",
+    "qty": 19,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/MB16FC_Asus_ZenScreen_16_FHD_IPS_60Hz_Portable__wr_01.png"
    },
    {
     "brand": "Xiaomi",
@@ -740,7 +740,7 @@
     "price": "R2 112",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 92,
+    "qty": 82,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg",
     "sku": "210-BVCB"
    },
@@ -828,28 +828,28 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
-    "brand": "HP",
-    "title": "HP Series 5 Pro 27\" FHD 120Hz 5ms LED IPS Monitor",
-    "spec": "27\" screen",
-    "price": "R2 517",
-    "price_n": 2517,
-    "sku": "B28F5AS",
-    "handle": "hp-series-5-pro-27-fhd-120hz-5ms-led-ips-monitor",
-    "url": "/products/hp-series-5-pro-27-fhd-120hz-5ms-led-ips-monitor",
-    "qty": 3,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/2/B28F5AS_4ff1.jpg"
+    "brand": "MSI",
+    "title": "MSI MAG 255F E20 25\" FHD 200Hz Rapid IPS Gaming Monitor",
+    "spec": "25\" screen",
+    "price": "R2 461",
+    "price_n": 2461,
+    "sku": "MAG 255F E20",
+    "handle": "msi-mag-255f-e20-25-fhd-200hz-rapid-ips-gaming-monitor",
+    "url": "/products/msi-mag-255f-e20-25-fhd-200hz-rapid-ips-gaming-monitor",
+    "qty": 7,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-E20_MSI-MAG-255F-E20-25-inch-FHD-200Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP Series 3 Pro 23.8\" FHD IPS Monitor",
-    "spec": "23.8\" screen",
+    "brand": "Acer",
+    "title": "Acer Nitro VG270 27\" IPS FHD 1MS 240HZ Gaming Monitor 3Yr",
+    "spec": "27\" screen",
     "price": "R3 273",
     "price_n": 3273,
-    "sku": "9U5J5UT",
-    "handle": "hp-series-3-pro-23-8-fhd-ips-monitor",
-    "url": "/products/hp-series-3-pro-23-8-fhd-ips-monitor",
-    "qty": 7,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5J5UT_61c4.jpg"
+    "sku": "UM.HV0EE.W01",
+    "handle": "acer-nitro-vg270-27-ips-fhd-1ms-240hz-gaming-monitor-3yr",
+    "url": "/products/acer-nitro-vg270-27-ips-fhd-1ms-240hz-gaming-monitor-3yr",
+    "qty": 3,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HV0EE.W01_default.jpg"
    },
    {
     "brand": "Asus",
@@ -900,7 +900,7 @@
     "sku": "DS-UPS1000-SA",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "/products/hikvision-1000va-1kva-ups",
-    "qty": 373,
+    "qty": 371,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -952,7 +952,7 @@
     "price": "R904",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 373,
+    "qty": 371,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png",
     "sku": "DS-UPS1000-SA"
    },
@@ -1587,16 +1587,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/0/900140_0708.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP USB-C 100W G6 Black Docking Station",
+    "brand": "Targus",
+    "title": "Targus - USB-C Multi-Function DisplayPort Alt Triple Video with 85W… (DOCK430EUZ)",
     "spec": "Docking Station",
-    "price": "R1 970",
-    "price_n": 1970,
-    "sku": "9X3V1UT",
-    "handle": "hp-usb-c-100w-g6-black-docking-station",
-    "url": "/products/hp-usb-c-100w-g6-black-docking-station",
-    "qty": 5,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/X/9X3V1UT_2_1072.jpg"
+    "price": "R2 267",
+    "price_n": 2267,
+    "sku": "DOCK430EUZ",
+    "handle": "targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
+    "url": "/products/targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
+    "qty": 33,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK430EUZ_default.jpg"
    },
    {
     "brand": "Port",
@@ -1669,7 +1669,7 @@
     "sku": "DOCK427GL",
     "handle": "targus-usb-c-dual-hdmi-4k-docking-station",
     "url": "/products/targus-usb-c-dual-hdmi-4k-docking-station",
-    "qty": 34,
+    "qty": 33,
     "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK427GL_default.jpg"
    }
   ]
@@ -1875,11 +1875,11 @@
     "brand": "Hiksemi",
     "title": "Hiksemi Wave 1TB PCIe Gen3 NVMe SSD",
     "spec": "M.2 2280 · big speed boost",
-    "price": "R2 743",
+    "price": "R2 914",
     "handle": "hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "url": "https://ubratech.co.za/products/hiksemi-wave-series-1tb-pcie-gen-3-nvme-2280-internal-ssd",
     "image": "https://www.pinnacle.co.za/media/catalog/product/H/S/HS_SSD_WAVE_P_1024G__3__77ee.png",
-    "qty": 171,
+    "qty": 196,
     "sku": "HS-SSD-WAVE-P-1024G"
    },
    {
@@ -1972,8 +1972,8 @@
     "brand": "Hiksemi",
     "title": "Hiksemi Future 32GB 6400MHz 16GB X 2 UDIMM Memory Module",
     "spec": "Memory",
-    "price": "R19 300",
-    "price_n": 19300,
+    "price": "R18 889",
+    "price_n": 18889,
     "sku": "HSC532U64C5-16G-2",
     "handle": "hiksemi-future-32gb-6400mhz-16gb-x-2-udimm-memory-module",
     "url": "/products/hiksemi-future-32gb-6400mhz-16gb-x-2-udimm-memory-module",
@@ -2307,16 +2307,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "ASRock",
-    "title": "ASRock DESKMINI Vesa Mount Kit",
-    "spec": "Accessories",
+    "brand": "Ugreen",
+    "title": "UGREEN NW102 Cat6 U/UTP Flat Ethernet Cable 15m - Black",
+    "spec": "Cables And Adapters",
     "price": "R127",
     "price_n": 127,
-    "sku": "90-BXG2T0-A0XCR3W",
-    "handle": "asrock-deskmini-vesa-mount-kit",
-    "url": "/products/asrock-deskmini-vesa-mount-kit",
-    "qty": 5,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/90-BXG2T0-A0XCR3W_wr_01.jpg"
+    "sku": "NW102-50180",
+    "handle": "ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
+    "url": "/products/ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
+    "qty": 23,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/NW102-50172-wr-01.jpg"
    },
    {
     "brand": "HP",
@@ -3128,6 +3128,6 @@
    "total": "R8 772"
   }
  ],
- "generated": "2026-11-26T07:01:30Z",
+ "generated": "2026-11-26T08:02:10Z",
  "v": 3
 }
