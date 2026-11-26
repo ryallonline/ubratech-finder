@@ -145,27 +145,27 @@
    },
    {
     "brand": "HP",
-    "title": "HP ProBook 4 Ryzen-5 14\" 16GB 512GB Win 11 Pro Notebook",
-    "spec": "Ryzen 5 · 14\" screen · 16GB RAM",
-    "price": "R29 294",
-    "price_n": 29294,
-    "sku": "E40X9ET",
-    "handle": "hp-probook-4-ryzen-5-14-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/hp-probook-4-ryzen-5-14-16gb-512gb-win-11-pro-notebook",
-    "qty": 18,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__2__32c0.png"
+    "title": "HP Probook 4 G2a 16\" Ryzen-5-220 16GB 512GB Win 11 Pro Notebook",
+    "spec": "Ryzen 5 · 16\" screen · 16GB RAM",
+    "price": "R29 376",
+    "price_n": 29376,
+    "sku": "E40X2ET",
+    "handle": "hp-probook-4-g2a-16-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/hp-probook-4-g2a-16-ryzen-5-220-16gb-512gb-win-11-pro-notebook",
+    "qty": 49,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__72__4dde.png"
    },
    {
-    "brand": "HP",
-    "title": "HP Elitebook 8 G2i 14\" Core-i5 16GB 512GB Win 11 Pro Notebook",
-    "spec": "Core i5 · 14\" screen · 16GB RAM",
-    "price": "R42 371",
-    "price_n": 42371,
-    "sku": "DS9B9ET",
-    "handle": "hp-elitebook-8-g2i-14-core-i5-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/hp-elitebook-8-g2i-14-core-i5-16gb-512gb-win-11-pro-notebook",
-    "qty": 4,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__79__7ec4.png"
+    "brand": "Dell",
+    "title": "Dell Pro 16 Plus Laptop — Core Ultra 7 · 16GB (BTO211_PB16250_EMEA)",
+    "spec": "Core Ultra 7",
+    "price": "R42 433",
+    "price_n": 42433,
+    "sku": "BTO211_PB16250_EMEA",
+    "handle": "dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-dual-channel-onboard-512gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro",
+    "url": "/products/dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-dual-channel-onboard-512gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro",
+    "qty": 72,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO211_PB16250_EMEA_default.png"
    },
    {
     "brand": "Lenovo",
@@ -252,7 +252,7 @@
     "sku": "F108D-FV-N10040N0G-GIA",
     "handle": "giada-f108d-intel-n100-1xddr4-3200-mhz-2xhdmi",
     "url": "/products/giada-f108d-intel-n100-1xddr4-3200-mhz-2xhdmi",
-    "qty": 58,
+    "qty": 100,
     "image": "https://www.syntech.co.za/wp-content/uploads/2023/10/F108D-FV-N10040N0G-GIA_wr_01b.jpg"
    },
    {
@@ -619,7 +619,7 @@
     "price": "R2 265",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 57,
+    "qty": 56,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -648,16 +648,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/11/PCB-OM-24_PCBuilder_CORE_24_FHD_1080P_Office_Monit_wr_01.png"
    },
    {
-    "brand": "Asus",
-    "title": "Asus ZenScreen 16\" FHD IPS 60Hz Portable Monitor",
-    "spec": "16\" screen",
-    "price": "R2 731",
-    "price_n": 2731,
-    "sku": "MB16FC",
-    "handle": "asus-zenscreen-16-fhd-ips-60hz-portable-monitor",
-    "url": "/products/asus-zenscreen-16-fhd-ips-60hz-portable-monitor",
-    "qty": 19,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/MB16FC_Asus_ZenScreen_16_FHD_IPS_60Hz_Portable__wr_01.png"
+    "brand": "Acer",
+    "title": "Acer PM161QT 15.6\" FHD Monitor (UM.ZP1EE.009)",
+    "spec": "15.6\" screen",
+    "price": "R2 832",
+    "price_n": 2832,
+    "sku": "UM.ZP1EE.009",
+    "handle": "acer-monitor-commercial-pm161qt-black-flat-15-6-ips-response-time-6ms-resolution-1920x1080-viewing-angle-178-h-178-v-aspect-ratio-16-09-digital-frequency-60hz-interface-hdmi-1-4-2type-c-speaker-yes",
+    "url": "/products/acer-monitor-commercial-pm161qt-black-flat-15-6-ips-response-time-6ms-resolution-1920x1080-viewing-angle-178-h-178-v-aspect-ratio-16-09-digital-frequency-60hz-interface-hdmi-1-4-2type-c-speaker-yes",
+    "qty": 6,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.ZP1EE.009_default.png"
    },
    {
     "brand": "Xiaomi",
@@ -682,7 +682,7 @@
     "sku": "210-BQSZ",
     "handle": "dell-pro-27-plus-qhd-usb-c-hub-monitor-p2725de-68-6cm-27-0",
     "url": "/products/dell-pro-27-plus-qhd-usb-c-hub-monitor-p2725de-68-6cm-27-0",
-    "qty": 30,
+    "qty": 6,
     "image": "https://s3.amazonaws.com/tarsus.co.za/210-BQSZ_default.jpg"
    },
    {
@@ -730,7 +730,7 @@
     "price": "R2 112",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 24,
+    "qty": 17,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg",
     "sku": "210-BVCB"
    },
@@ -758,15 +758,15 @@
    },
    {
     "brand": "HP",
-    "title": "HP Series 5 Pro 27\" FHD 120Hz 5ms LED IPS Monitor",
-    "spec": "27\" screen",
-    "price": "R2 517",
-    "price_n": 2517,
-    "sku": "B28F5AS",
-    "handle": "hp-series-5-pro-27-fhd-120hz-5ms-led-ips-monitor",
-    "url": "/products/hp-series-5-pro-27-fhd-120hz-5ms-led-ips-monitor",
-    "qty": 3,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/B/2/B28F5AS_4ff1.jpg"
+    "title": "HP Series 3 Pro 322pv 21.45\" FHD 100Hz 5ms LED VA Monitor",
+    "spec": "45\" screen",
+    "price": "R2 571",
+    "price_n": 2571,
+    "sku": "HP-9U5A2AA",
+    "handle": "hp-series-3-pro-322pv-21-45-fhd-100hz-5ms-led-va-monitor",
+    "url": "/products/hp-series-3-pro-322pv-21-45-fhd-100hz-5ms-led-va-monitor",
+    "qty": 50,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/H/P/HP_9U5A2AA_9a08.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -777,7 +777,7 @@
     "sku": "ELA6556EU",
     "handle": "xiaomi-g27qi-2026-27-2k-qhd-200hz-fast-ips-gaming-monitor",
     "url": "/products/xiaomi-g27qi-2026-27-2k-qhd-200hz-fast-ips-gaming-monitor",
-    "qty": 89,
+    "qty": 109,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6556EU_Xiaomi-G27Qi-2026-27-inch-2K-QHD-200Hz-IPS-Gaming-Monitor_wr_01a.jpg"
    },
    {
@@ -801,7 +801,7 @@
     "price": "R2 265",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 57,
+    "qty": 56,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -830,16 +830,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/01/MAG-255F-E20_MSI-MAG-255F-E20-25-inch-FHD-200Hz-IPS-Gaming-Monitor-Black_wr_01a.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP Series 3 Pro 23.8\" FHD IPS Monitor",
+    "brand": "Dell",
+    "title": "Dell 24 Plus S2425HSM 23.8\" FHD 1ms IPS Monitor",
     "spec": "23.8\" screen",
-    "price": "R3 273",
-    "price_n": 3273,
-    "sku": "9U5J5UT",
-    "handle": "hp-series-3-pro-23-8-fhd-ips-monitor",
-    "url": "/products/hp-series-3-pro-23-8-fhd-ips-monitor",
-    "qty": 7,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5J5UT_61c4.jpg"
+    "price": "R3 424",
+    "price_n": 3424,
+    "sku": "210-BSZD",
+    "handle": "dell-24-plus-s2425hsm-23-8-fhd-1ms-ips-monitor",
+    "url": "/products/dell-24-plus-s2425hsm-23-8-fhd-1ms-ips-monitor",
+    "qty": 99,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BSZD_165e.jpg"
    },
    {
     "brand": "Asus",
@@ -897,8 +897,8 @@
     "brand": "Eaton",
     "title": "Eaton 5E 1600VA GEN2 USB IEC UPS",
     "spec": "Ups And Power",
-    "price": "R2 879",
-    "price_n": 2879,
+    "price": "R2 972",
+    "price_n": 2972,
     "sku": "5E1600UI",
     "handle": "eaton-5e-1600va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-1600va-gen2-usb-iec-ups",
@@ -974,8 +974,8 @@
     "brand": "Eaton",
     "title": "Eaton 5E 1600VA GEN2 USB IEC UPS",
     "spec": "Ups And Power",
-    "price": "R2 879",
-    "price_n": 2879,
+    "price": "R2 972",
+    "price_n": 2972,
     "sku": "5E1600UI",
     "handle": "eaton-5e-1600va-gen2-usb-iec-ups",
     "url": "/products/eaton-5e-1600va-gen2-usb-iec-ups",
@@ -1002,7 +1002,7 @@
     "brand": "Eaton",
     "title": "Eaton 5E 1600VA UPS",
     "spec": "Backs up a whole desk",
-    "price": "R2 879",
+    "price": "R2 972",
     "handle": "eaton-5e-1600va-gen2-usb-iec-ups",
     "url": "https://ubratech.co.za/products/eaton-5e-1600va-gen2-usb-iec-ups",
     "qty": 22,
@@ -1375,7 +1375,7 @@
     "price": "R8 948",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 92,
+    "qty": 93,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg",
     "sku": "2Z629A"
    },
@@ -1436,7 +1436,7 @@
     "price": "R8 948",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 92,
+    "qty": 93,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg",
     "sku": "2Z629A"
    },
@@ -1885,16 +1885,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DTKNG2/64GB_default.jpg"
    },
    {
-    "brand": "Crucial",
-    "title": "Crucial E100 480GB PCIe Gen4 2280 NVMe M.2 SSD",
+    "brand": "MSI",
+    "title": "MSI M461 500GB M.2 2280 NVMe SSD",
     "spec": "Storage",
-    "price": "R2 136",
-    "price_n": 2136,
-    "sku": "CT480E100SSD8",
-    "handle": "crucial-e100-480gb-pcie-gen4-2280-nvme-m-2-ssd",
-    "url": "/products/crucial-e100-480gb-pcie-gen4-2280-nvme-m-2-ssd",
-    "qty": 65,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/CT480E100SSD8_wr_01.jpg"
+    "price": "R2 236",
+    "price_n": 2236,
+    "sku": "M461M2NVME500GB",
+    "handle": "msi-m461-500gb-m-2-2280-nvme-ssd",
+    "url": "/products/msi-m461-500gb-m-2-2280-nvme-ssd",
+    "qty": 79,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/M461M2NVME500GB_MSI_M641_500GB_M2_2280_NVMe_SSD_wr_01.png"
    },
    {
     "brand": "Hiksemi",
@@ -2004,7 +2004,7 @@
     "sku": "DUAL-RTX5060-O8G",
     "handle": "asus-dual-geforce-rtx-5060-oc-edition-8gb-gddr7-graphics-card",
     "url": "/products/asus-dual-geforce-rtx-5060-oc-edition-8gb-gddr7-graphics-card",
-    "qty": 14,
+    "qty": 6,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/04/DUAL-RTX5060-O8G-WR-01-1.jpg"
    },
    {
@@ -2297,28 +2297,28 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "Ugreen",
-    "title": "UGREEN NW102 Cat6 U/UTP Flat Ethernet Cable 15m - Black",
-    "spec": "Cables And Adapters",
+    "brand": "ASRock",
+    "title": "ASRock DESKMINI Vesa Mount Kit",
+    "spec": "Accessories",
     "price": "R127",
     "price_n": 127,
-    "sku": "NW102-50180",
-    "handle": "ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
-    "url": "/products/ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
-    "qty": 23,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/NW102-50172-wr-01.jpg"
+    "sku": "90-BXG2T0-A0XCR3W",
+    "handle": "asrock-deskmini-vesa-mount-kit",
+    "url": "/products/asrock-deskmini-vesa-mount-kit",
+    "qty": 5,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/90-BXG2T0-A0XCR3W_wr_01.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port 45W Universal AC Adapter (900096B-EU)",
-    "spec": "Cables And Adapters",
+    "brand": "Redragon",
+    "title": "Redragon HARROW Wireless X/D-input(Digital/Analog) PC Controller - Black",
+    "spec": "Accessories",
     "price": "R414",
     "price_n": 414,
-    "sku": "900096B-EU",
-    "handle": "port-45w-universal-ac-adapter-900096b-eu",
-    "url": "/products/port-45w-universal-ac-adapter-900096b-eu",
-    "qty": 90,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__2__35ed.png"
+    "sku": "RD-G808",
+    "handle": "redragon-harrow-wireless-x-d-input-digital-analog-pc-controller-black",
+    "url": "/products/redragon-harrow-wireless-x-d-input-digital-analog-pc-controller-black",
+    "qty": 147,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2018/03/Redragon_RD-G808_wr_01b.jpg"
    },
    {
     "brand": "HP",
@@ -2556,32 +2556,32 @@
     "sku": "DS-2CE16D0T-EXIPF2.8MM",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 24507,
+    "qty": 24495,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 2MP 2.8mm Smart Hybrid Light Lamp Camera with Audio Fixed Bullet Camera",
+    "title": "Hikvision 2MP ColorVu Fixed Turret Analogue Camera",
     "spec": "2MP",
-    "price": "R519",
-    "price_n": 519,
-    "sku": "DS-2CE18D0T-LFS-2.8MM",
-    "handle": "hikvision-2mp-2-8mm-smart-hybrid-light-lamp-camera-with-audio-fixed-bullet-camera",
-    "url": "/products/hikvision-2mp-2-8mm-smart-hybrid-light-lamp-camera-with-audio-fixed-bullet-camera",
-    "qty": 149,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE18D0T_LFS_2.8MM_f4c5.png"
+    "price": "R468",
+    "price_n": 468,
+    "sku": "DS-2CE70DF0T-LPFS-2.8MM",
+    "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
+    "url": "/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
+    "qty": 548,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 3K 5MP ColorVu Smart Hybrid Light Fixed Turret Analogue Camera",
-    "spec": "5MP",
-    "price": "R699",
-    "price_n": 699,
-    "sku": "DS-2CE70KF0T-LPFS-2.8MM",
-    "handle": "hikvision-3k-5mp-colorvu-smart-hybrid-light-fixed-turret-analogue-camera",
-    "url": "/products/hikvision-3k-5mp-colorvu-smart-hybrid-light-fixed-turret-analogue-camera",
-    "qty": 290,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70KF0T_LPFS_2.8MM_0208.jpg"
+    "title": "Hikvision 2MP Manual Varifocal Bullet Analogue Camera",
+    "spec": "2MP",
+    "price": "R814",
+    "price_n": 814,
+    "sku": "DS-2CE19D0T-VFIT3F",
+    "handle": "hikvision-2mp-manual-varifocal-bullet-analogue-camera",
+    "url": "/products/hikvision-2mp-manual-varifocal-bullet-analogue-camera",
+    "qty": 43,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE19D0T_VFIT3F_356a.jpg"
    },
    {
     "brand": "Hikvision",
@@ -2606,32 +2606,32 @@
     "sku": "DS-2CE16D0T-EXIPF2.8MM",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 24507,
+    "qty": 24495,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 2MP 2.8mm Smart Hybrid Light Lamp Camera with Audio Fixed Bullet Camera",
+    "title": "Hikvision 2MP ColorVu Fixed Turret Analogue Camera",
     "spec": "2MP",
-    "price": "R519",
-    "price_n": 519,
-    "sku": "DS-2CE18D0T-LFS-2.8MM",
-    "handle": "hikvision-2mp-2-8mm-smart-hybrid-light-lamp-camera-with-audio-fixed-bullet-camera",
-    "url": "/products/hikvision-2mp-2-8mm-smart-hybrid-light-lamp-camera-with-audio-fixed-bullet-camera",
-    "qty": 149,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE18D0T_LFS_2.8MM_f4c5.png"
+    "price": "R468",
+    "price_n": 468,
+    "sku": "DS-2CE70DF0T-LPFS-2.8MM",
+    "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
+    "url": "/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
+    "qty": 548,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 3K 5MP ColorVu Smart Hybrid Light Fixed Turret Analogue Camera",
-    "spec": "5MP",
-    "price": "R699",
-    "price_n": 699,
-    "sku": "DS-2CE70KF0T-LPFS-2.8MM",
-    "handle": "hikvision-3k-5mp-colorvu-smart-hybrid-light-fixed-turret-analogue-camera",
-    "url": "/products/hikvision-3k-5mp-colorvu-smart-hybrid-light-fixed-turret-analogue-camera",
-    "qty": 290,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70KF0T_LPFS_2.8MM_0208.jpg"
+    "title": "Hikvision 2MP Manual Varifocal Bullet Analogue Camera",
+    "spec": "2MP",
+    "price": "R814",
+    "price_n": 814,
+    "sku": "DS-2CE19D0T-VFIT3F",
+    "handle": "hikvision-2mp-manual-varifocal-bullet-analogue-camera",
+    "url": "/products/hikvision-2mp-manual-varifocal-bullet-analogue-camera",
+    "qty": 43,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE19D0T_VFIT3F_356a.jpg"
    },
    {
     "brand": "Hikvision",
@@ -2656,32 +2656,32 @@
     "sku": "DS-2CE16D0T-EXIPF2.8MM",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 24507,
+    "qty": 24495,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 2MP 2.8mm Smart Hybrid Light Lamp Camera with Audio Fixed Bullet Camera",
+    "title": "Hikvision 2MP ColorVu Fixed Turret Analogue Camera",
     "spec": "2MP",
-    "price": "R519",
-    "price_n": 519,
-    "sku": "DS-2CE18D0T-LFS-2.8MM",
-    "handle": "hikvision-2mp-2-8mm-smart-hybrid-light-lamp-camera-with-audio-fixed-bullet-camera",
-    "url": "/products/hikvision-2mp-2-8mm-smart-hybrid-light-lamp-camera-with-audio-fixed-bullet-camera",
-    "qty": 149,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE18D0T_LFS_2.8MM_f4c5.png"
+    "price": "R468",
+    "price_n": 468,
+    "sku": "DS-2CE70DF0T-LPFS-2.8MM",
+    "handle": "hikvision-2mp-colorvu-fixed-turret-analogue-camera",
+    "url": "/products/hikvision-2mp-colorvu-fixed-turret-analogue-camera",
+    "qty": 548,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70DF0T_LPFS_2.8MM_1_cd82.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 3K 5MP ColorVu Smart Hybrid Light Fixed Turret Analogue Camera",
-    "spec": "5MP",
-    "price": "R699",
-    "price_n": 699,
-    "sku": "DS-2CE70KF0T-LPFS-2.8MM",
-    "handle": "hikvision-3k-5mp-colorvu-smart-hybrid-light-fixed-turret-analogue-camera",
-    "url": "/products/hikvision-3k-5mp-colorvu-smart-hybrid-light-fixed-turret-analogue-camera",
-    "qty": 290,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE70KF0T_LPFS_2.8MM_0208.jpg"
+    "title": "Hikvision 2MP Manual Varifocal Bullet Analogue Camera",
+    "spec": "2MP",
+    "price": "R814",
+    "price_n": 814,
+    "sku": "DS-2CE19D0T-VFIT3F",
+    "handle": "hikvision-2mp-manual-varifocal-bullet-analogue-camera",
+    "url": "/products/hikvision-2mp-manual-varifocal-bullet-analogue-camera",
+    "qty": 43,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE19D0T_VFIT3F_356a.jpg"
    },
    {
     "brand": "Hikvision",
@@ -3118,6 +3118,6 @@
    "total": "R8 772"
   }
  ],
- "generated": "2026-11-26T11:01:30Z",
+ "generated": "2026-11-26T12:01:50Z",
  "v": 3
 }
