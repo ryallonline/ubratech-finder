@@ -264,20 +264,20 @@
     "sku": "VM27-N621042E6G-GIA",
     "handle": "giada-vm27-with-n6210-4g-ddr4-on-board-64g-emmc-on-board",
     "url": "/products/giada-vm27-with-n6210-4g-ddr4-on-board-64g-emmc-on-board",
-    "qty": 25,
+    "qty": 24,
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/VM27-N621042E6G-GIA_wr_01a.jpg"
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBUiLDER™ CUBE Ryzen 5 3500U 8GB DDR4 512GB Windows 11 Home Mini PC",
-    "spec": "Ryzen 5 · 8GB RAM",
-    "price": "R8 374",
-    "price_n": 8374,
-    "sku": "PCB_CUBE_3500U8GB_HOME",
-    "handle": "pcbuilder-cube-ryzen-5-3500u-8gb-ddr4-512gb-windows-11-home-mini-pc",
-    "url": "/products/pcbuilder-cube-ryzen-5-3500u-8gb-ddr4-512gb-windows-11-home-mini-pc",
-    "qty": 29,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/PCB_CUBE_3500U8GB_HOME_PCBuilder-CUBE-Ryzen-5-3500U-8GB-DDR4-512GB-Windows-11-Home-Mini-PC_wr_01.jpg"
+    "title": "PCBuilder CUBE Intel i5-1235U 8GB DDR4 512GB Windows 11 Home Mini PC",
+    "spec": "8GB RAM",
+    "price": "R9 859",
+    "price_n": 9859,
+    "sku": "PCB_CUBE_I58G_HOME_V2",
+    "handle": "pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
+    "url": "/products/pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
+    "qty": 33,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_CUBE_I58G_HOME_V2_PCBuilder-CUBE-Intel-i5-1235U-8GB-DDR4-512GB-Windows-11-Home-Mini-PC_wr_01a.jpg"
    },
    {
     "brand": "PCBuilder",
@@ -495,7 +495,7 @@
     "sku": "NH.QYXEA.001",
     "handle": "acer-nitro-v-16-gaming-laptop-16-amd-ryzen-5-16gb-1tb-rtx-5060-8gb-windows-11-home",
     "url": "/products/acer-nitro-v-16-gaming-laptop-16-amd-ryzen-5-16gb-1tb-rtx-5060-8gb-windows-11-home",
-    "qty": 6,
+    "qty": 7,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NH.QYXEA_.001_Acer-NITRO-V-16-Gaming-Laptop-16%E2%80%B3-AMD-Ryzen-5-16GB-1TB-RTX-5060-8GB-Windows-11-Home_wr_001a.jpg"
    }
   ],
@@ -814,7 +814,7 @@
     "sku": "DS-D5019S0-1P0",
     "handle": "hikvision-18-5-borderless-fhd-monitor",
     "url": "/products/hikvision-18-5-borderless-fhd-monitor",
-    "qty": 89,
+    "qty": 88,
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__29__e8a1.png"
    },
    {
@@ -878,7 +878,7 @@
     "sku": "GUP60W",
     "handle": "gizzu-60w-65wh-17600mah-mini-poe-dc-ups-lithium-black",
     "url": "/products/gizzu-60w-65wh-17600mah-mini-poe-dc-ups-lithium-black",
-    "qty": 295,
+    "qty": 291,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/GUP60W_wr_01.jpg"
    },
    {
@@ -1923,6 +1923,17 @@
   ],
   "memory": [
    {
+    "brand": "GeIL",
+    "title": "GeIL Orion RGB 16GB 6000MHz DDR5 Gaming Memory",
+    "spec": "Fast RGB · gaming desktops",
+    "price": "R5 822",
+    "handle": "geil-orion-rgb-16gb-6000mhz-ddr5-desktop-gaming-memory-grey",
+    "url": "https://ubratech.co.za/products/geil-orion-rgb-16gb-6000mhz-ddr5-desktop-gaming-memory-grey",
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/GAVSG516GB6000C36CSC_Geil-Orion-V-RGB-16GB-6000MHz-DDR5-Desktop-Gaming-Memory-Grey_wr_01.jpg",
+    "qty": 5,
+    "sku": "GAVSG516GB6000C36CSC"
+   },
+   {
     "brand": "Hiksemi",
     "title": "Hiksemi Future 8GB 1600MHz 8GB X 1 SO-DIMM Memory Module",
     "spec": "Memory",
@@ -1947,16 +1958,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/PVSR416G360C0_wr_-3.jpg"
    },
    {
-    "brand": "GeIL",
-    "title": "GeIL Pristine 32GB DDR4 3200MHz UDIMM Desktop Memory",
+    "brand": "Hiksemi",
+    "title": "Hiksemi Future RGB 16GB 6000MHz DDR5 Desktop Gaming Memory",
     "spec": "Memory",
-    "price": "R4 978",
-    "price_n": 4978,
-    "sku": "GP432GB3200C22SC",
-    "handle": "geil-pristine-32gb-ddr4-3200mhz-udimm-desktop-memory",
-    "url": "/products/geil-pristine-32gb-ddr4-3200mhz-udimm-desktop-memory",
-    "qty": 67,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/GP432GB3200C22SC_GeIL-Pristine-32GB-DDR4-3200MHz-UDIMM-Desktop-Memory_wr_01.jpg"
+    "price": "R5 053",
+    "price_n": 5053,
+    "sku": "HSC516U60C4-16G",
+    "handle": "hiksemi-future-rgb-16gb-6000mhz-ddr5-desktop-gaming-memory",
+    "url": "/products/hiksemi-future-rgb-16gb-6000mhz-ddr5-desktop-gaming-memory",
+    "qty": 72,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/HSC516U60C4-16G_Hiksemi-Future-RGB-16GB-6000MHz-DDR5-Desktop-Gaming-Memory_wr_01.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -2309,16 +2320,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/CM748-75073_UGREEN-Bluetooth-6.0-USB-Adapter_hr01.jpeg"
    },
    {
-    "brand": "Redragon",
-    "title": "Redragon HARROW Wireless X/D-input(Digital/Analog) PC Controller - Black",
-    "spec": "Accessories",
+    "brand": "Port",
+    "title": "Port 45W Universal AC Adapter (900096B-EU)",
+    "spec": "Cables And Adapters",
     "price": "R414",
     "price_n": 414,
-    "sku": "RD-G808",
-    "handle": "redragon-harrow-wireless-x-d-input-digital-analog-pc-controller-black",
-    "url": "/products/redragon-harrow-wireless-x-d-input-digital-analog-pc-controller-black",
-    "qty": 147,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2018/03/Redragon_RD-G808_wr_01b.jpg"
+    "sku": "900096B-EU",
+    "handle": "port-45w-universal-ac-adapter-900096b-eu",
+    "url": "/products/port-45w-universal-ac-adapter-900096b-eu",
+    "qty": 90,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__2__35ed.png"
    },
    {
     "brand": "HP",
@@ -2442,7 +2453,7 @@
     "sku": "DS-2CD2641G0-LIZSU-2.8MM-12MM",
     "handle": "hikvision-4mp-varifocal-bullet-ip-camera",
     "url": "/products/hikvision-4mp-varifocal-bullet-ip-camera",
-    "qty": 96,
+    "qty": 84,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2641G0_LIZSU_2.8MM_12MM__0a67.png"
    }
   ],
@@ -3118,6 +3129,6 @@
    "total": "R8 772"
   }
  ],
- "generated": "2026-11-26T14:01:45Z",
+ "generated": "2026-11-26T15:01:32Z",
  "v": 3
 }
