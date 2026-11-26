@@ -626,10 +626,10 @@
     "brand": "Dell",
     "title": "Dell SE2726HM 27\" FHD Monitor",
     "spec": "Crisp everyday screen",
-    "price": "R2 332",
+    "price": "R2 265",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 213,
+    "qty": 59,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -644,6 +644,18 @@
     "url": "/products/acer-monitor-v206h-flat-19-5-tn-led-response-time-5-ms-resolution-1600-x-900-viewing-angle-178-h-178-v-aspect-ratio-16-09-digital-frequency-100hz-interface-x1-hdmi-1x-vga-speaker-none-power-supply",
     "qty": 99,
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
+   },
+   {
+    "brand": "Samsung",
+    "title": "Samsung Value G3 Flat 27in Monitor 144Hz 3Y warranty",
+    "spec": "Monitors And Displays",
+    "price": "R2 316",
+    "price_n": 2316,
+    "sku": "LS27HG314EAXXA",
+    "handle": "samsung-value-g3-flat-27in-monitor-144hz-3y-warranty",
+    "url": "/products/samsung-value-g3-flat-27in-monitor-144hz-3y-warranty",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/LS27HG314EAXXA_default.png"
    },
    {
     "brand": "Acer",
@@ -796,10 +808,10 @@
     "brand": "Dell",
     "title": "Dell SE2726HM 27\" FHD Monitor",
     "spec": "Slim bezel · great for lots of windows",
-    "price": "R2 332",
+    "price": "R2 265",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 213,
+    "qty": 59,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -1883,16 +1895,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DTKNG2/64GB_default.jpg"
    },
    {
-    "brand": "Targus",
-    "title": "Targus Hyper HyperDrive EcoSmart USB4 SSD Enclosure",
+    "brand": "Crucial",
+    "title": "Crucial E100 480GB PCIe Gen4 2280 NVMe M.2 SSD",
     "spec": "Storage",
-    "price": "R2 002",
-    "price_n": 2002,
-    "sku": "HD5001GL",
-    "handle": "targus-hyper-hyperdrive-ecosmart-usb4-ssd-enclosure",
-    "url": "/products/targus-hyper-hyperdrive-ecosmart-usb4-ssd-enclosure",
-    "qty": 5,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/HD5001GL_default.png"
+    "price": "R2 136",
+    "price_n": 2136,
+    "sku": "CT480E100SSD8",
+    "handle": "crucial-e100-480gb-pcie-gen4-2280-nvme-m-2-ssd",
+    "url": "/products/crucial-e100-480gb-pcie-gen4-2280-nvme-m-2-ssd",
+    "qty": 65,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/12/CT480E100SSD8_wr_01.jpg"
    },
    {
     "brand": "Kingston",
@@ -2356,16 +2368,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/RD-BM-4049_wr_01.jpg"
    },
    {
-    "brand": "Redragon",
-    "title": "REDRAGON Mirage Pro 8000DPI RGB Wireless Gaming Mouse - Black",
-    "spec": "Mice",
-    "price": "R360",
-    "price_n": 360,
-    "sku": "RD-M690-PRO",
-    "handle": "redragon-mirage-pro-8000dpi-rgb-wireless-gaming-mouse-black",
-    "url": "/products/redragon-mirage-pro-8000dpi-rgb-wireless-gaming-mouse-black",
-    "qty": 144,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/11/RD-M690-PRO_wr_01.jpg"
+    "brand": "Winx",
+    "title": "WINX DO Simple Wireless Keyboard and Mouse Combo",
+    "spec": "Keyboards",
+    "price": "R366",
+    "price_n": 366,
+    "sku": "WX-CO101",
+    "handle": "winx-do-simple-wireless-keyboard-and-mouse-combo",
+    "url": "/products/winx-do-simple-wireless-keyboard-and-mouse-combo",
+    "qty": 246,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-CO101_wr_01.jpg"
    },
    {
     "brand": "Targus",
@@ -2428,7 +2440,7 @@
     "sku": "DS-2CD2641G0-LIZSU-2.8MM-12MM",
     "handle": "hikvision-4mp-varifocal-bullet-ip-camera",
     "url": "/products/hikvision-4mp-varifocal-bullet-ip-camera",
-    "qty": 12,
+    "qty": 11,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2641G0_LIZSU_2.8MM_12MM__0a67.png"
    },
    {
@@ -3052,7 +3064,70 @@
    ]
   ]
  },
- "kits": [],
- "generated": "2026-11-26T05:01:09Z",
+ "kits": [
+  {
+   "id": "cctv-vigi-4",
+   "slot": "cctv_ip_small",
+   "name": "TP-Link VIGI 4MP colour-at-night kit",
+   "blurb": "A colour picture at night, and a recorder with room to add two more of these cameras later.",
+   "badge": "Best value",
+   "mode": "quote",
+   "note": "The price is for the items. Delivery is quoted with your request, before you pay anything. Network cable and fitting are not included.",
+   "parts": [
+    {
+     "brand": "TP-Link VIGI",
+     "title": "TP-Link VIGI 4MP Outdoor Full-Colour PoE Bullet Camera",
+     "spec": "4MP, 2.8mm Fixed Lens, 1/3” Progressive Scan CMOS, H.265+/H.265/H.264+",
+     "price": "R953",
+     "price_n": 953,
+     "uid": "UT-C901214E",
+     "pn": "VIGI C340(2.8mm)",
+     "handle": "tp-link-vigi-4mp-outdoor-full-color-poe-bullet-camera-tp-vigi-c340-28",
+     "url": "/pages/tp-link-vigi-4mp-outdoor-full-color-poe-bullet-camera-tp-vigi-c340-28",
+     "qty": 9,
+     "image": "https://miro.co.za/img/p/1/7/9/2/5/17925.jpg",
+     "enquiry": true,
+     "role": "Cameras",
+     "note": "Colour picture at night",
+     "kit_qty": 4
+    },
+    {
+     "brand": "TP-Link VIGI",
+     "title": "TP-Link VIGI 8-Channel PoE+ NVR",
+     "spec": "H.265+/H.265/H.264+/H.264, 8 ch PoE⁺ (53 W), 80 Mbps in / 60 Mbps out,",
+     "price": "R1 986",
+     "price_n": 1986,
+     "uid": "UT-7B7788FF",
+     "pn": "VIGI NVR1008H-8P",
+     "handle": "tp-link-vigi-nvr1008h-8-channel-8mp-poe-nvr-nvr1008h-8p",
+     "url": "/pages/tp-link-vigi-nvr1008h-8-channel-8mp-poe-nvr-nvr1008h-8p",
+     "qty": 9,
+     "image": "https://miro.co.za/img/p/1/8/0/4/3/18043.jpg",
+     "enquiry": true,
+     "role": "Recorder",
+     "note": "Powers the cameras over the network cable, with room for two more",
+     "kit_qty": 1
+    },
+    {
+     "brand": "Seagate",
+     "title": "Seagate SkyHawk 2TB Surveillance Drive",
+     "spec": "3.5\" screen",
+     "price": "R2 974",
+     "price_n": 2974,
+     "sku": "ST2000VX017",
+     "handle": "seagate-skyhawk-surveillance-2tb-3-5-sata-internal-hdd",
+     "url": "/products/seagate-skyhawk-surveillance-2tb-3-5-sata-internal-hdd",
+     "qty": 4,
+     "image": "https://www.pinnacle.co.za/media/catalog/product/S/T/ST2000VX017_9199.jpg",
+     "role": "Storage",
+     "note": "Built to record all day",
+     "kit_qty": 1
+    }
+   ],
+   "total_n": 8772,
+   "total": "R8 772"
+  }
+ ],
+ "generated": "2026-11-26T06:02:10Z",
  "v": 3
 }
