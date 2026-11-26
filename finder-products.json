@@ -902,34 +902,6 @@
     "url": "/products/eaton-5e-1600va-gen2-usb-iec-ups",
     "qty": 22,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
-   },
-   {
-    "brand": "Acconet",
-    "title": "Acconet Mini UPS DC Jack Input 12V 2.3A",
-    "spec": "13200mAh Battery, 4 Way Cable - 1x USB, 1x 9V, 2x 12V, no PSU included",
-    "price": "R252",
-    "price_n": 252,
-    "uid": "UT-A2383B31",
-    "pn": "UDS 360-2 DC UPS",
-    "handle": "acconet-mini-ups-dc-jack-input-12v-2-3a-ac-ups-mini-v2",
-    "url": "/pages/acconet-mini-ups-dc-jack-input-12v-2-3a-ac-ups-mini-v2",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/9/8/9/0/9890.jpg",
-    "enquiry": true
-   },
-   {
-    "brand": "UPS",
-    "title": "Acconet 1200VA/600W Offline UPS",
-    "spec": "5-10 Minutes Run Time @ 600W Load.",
-    "price": "R1 643",
-    "price_n": 1643,
-    "uid": "UT-CBF6889D",
-    "pn": "DG1000VA + Fuses + Labels + Branding",
-    "handle": "ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
-    "url": "/pages/ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/6/2/0/2/6202.jpg",
-    "enquiry": true
    }
   ],
   "desk": [
@@ -979,20 +951,6 @@
     "url": "/products/eaton-5e-1600va-gen2-usb-iec-ups",
     "qty": 22,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1600UI_ed30.png"
-   },
-   {
-    "brand": "UPS",
-    "title": "Acconet 1200VA/600W Offline UPS",
-    "spec": "5-10 Minutes Run Time @ 600W Load.",
-    "price": "R1 643",
-    "price_n": 1643,
-    "uid": "UT-CBF6889D",
-    "pn": "DG1000VA + Fuses + Labels + Branding",
-    "handle": "ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
-    "url": "/pages/ups-acconet-1200va-600w-offline-ups-ac-ups-1000",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/6/2/0/2/6202.jpg",
-    "enquiry": true
    }
   ],
   "multi": [
@@ -1167,34 +1125,6 @@
     "url": "/products/cudy-be11000-wi-fi7-gigabit-mesh-router",
     "qty": 48,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/WR11000_Cudy-BE11000-Wi-Fi7-Gigabit-Mesh-Router_wr_01.jpg"
-   },
-   {
-    "brand": "TP-Link Deco",
-    "title": "TP-Link Deco E4 AC1200 router Whole-Home Mesh System (1 Pack)",
-    "spec": "Wi-Fi router, MU-MIMO, Qualcomm CPU, 2 x FE Ports, Beamforming, , Alex",
-    "price": "R665",
-    "price_n": 665,
-    "uid": "UT-E63E8598",
-    "pn": "Deco E4(1-Pack)",
-    "handle": "tp-link-deco-e4-ac1200-router-whole-home-mesh-system-1-pack",
-    "url": "/pages/tp-link-deco-e4-ac1200-router-whole-home-mesh-system-1-pack",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/3/0/1/7/3017.jpg",
-    "enquiry": true
-   },
-   {
-    "brand": "Mercusys",
-    "title": "Mercusys Halo Wi-Fi 7 Mesh System (2-Pack)",
-    "spec": "688 Mbps at 2.4 GHz + 2880 Mbps at 5 GHz, 1× 2.5 Gbps Port (WAN/LAN), ",
-    "price": "R2 385",
-    "price_n": 2385,
-    "uid": "UT-4BA22875",
-    "pn": "",
-    "handle": "mercusys-halo-wi-fi-7-mesh-system-2-pack-mrc-halo-e27be",
-    "url": "/pages/mercusys-halo-wi-fi-7-mesh-system-2-pack-mrc-halo-e27be",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/2/0/7/6/2/20762.jpg",
-    "enquiry": true
    }
   ],
   "house": [
@@ -1256,34 +1186,6 @@
     "url": "/products/xiaomi-mesh-system-be3600-pro-3-pack",
     "qty": 10,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/DVB4480GL_Xiaomi-BE3600-Pro-Dual-Band-Mesh-Router-3-Pack_hr01a.jpeg"
-   },
-   {
-    "brand": "TP-Link Deco",
-    "title": "TP-Link Deco E4 AC1200 router Whole-Home Mesh System (2 Pack)",
-    "spec": "Wi-Fi router, MU-MIMO, Qualcomm CPU, 2 x FE Ports, Beamforming, Alexa ",
-    "price": "R1 243",
-    "price_n": 1243,
-    "uid": "UT-A81CCEFB",
-    "pn": "Deco E4(2-pack)",
-    "handle": "tp-link-deco-e4-ac1200-router-whole-home-mesh-system-2-pack",
-    "url": "/pages/tp-link-deco-e4-ac1200-router-whole-home-mesh-system-2-pack",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/3/0/2/2/3022.jpg",
-    "enquiry": true
-   },
-   {
-    "brand": "TP-Link Deco",
-    "title": "TP-Link Deco BE25 BE3600 Wi-Fi 7 Mesh (3-Pack)",
-    "spec": "4324 Mbps on 5 GHz + 688 Mbps on 2.4 GHz, 2 × 2.5 Gigabit Ports (WAN/L",
-    "price": "R5 773",
-    "price_n": 5773,
-    "uid": "UT-E2E36155",
-    "pn": "Deco BE25(3-pack)",
-    "handle": "tp-link-deco-be25-be3600-wi-fi-7-mesh-3-pack-tp-decobe25-3p",
-    "url": "/pages/tp-link-deco-be25-be3600-wi-fi-7-mesh-3-pack-tp-decobe25-3p",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/1/8/3/3/9/18339.jpg",
-    "enquiry": true
    }
   ],
   "large": [
@@ -1333,34 +1235,6 @@
     "url": "/products/asus-zenwifi-bt8-tri-band-wi-fi-7-mesh-system-2-pack",
     "qty": 3,
     "image": "https://www.pinnacle.co.za/media/catalog/product/B/T/BT8_2PK_79b7.jpg"
-   },
-   {
-    "brand": "TP-Link Deco",
-    "title": "TP-Link Deco BE25 BE3600 Wi-Fi 7 Mesh (3-Pack)",
-    "spec": "4324 Mbps on 5 GHz + 688 Mbps on 2.4 GHz, 2 × 2.5 Gigabit Ports (WAN/L",
-    "price": "R5 773",
-    "price_n": 5773,
-    "uid": "UT-E2E36155",
-    "pn": "Deco BE25(3-pack)",
-    "handle": "tp-link-deco-be25-be3600-wi-fi-7-mesh-3-pack-tp-decobe25-3p",
-    "url": "/pages/tp-link-deco-be25-be3600-wi-fi-7-mesh-3-pack-tp-decobe25-3p",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/1/8/3/3/9/18339.jpg",
-    "enquiry": true
-   },
-   {
-    "brand": "TP-Link Deco",
-    "title": "TP-Link Deco Wi-Fi 7 Mesh System (3-Pack)",
-    "spec": "Speeds of 5760 Mbps on 6 GHz, 4320 Mbps on 5 GHz, and 574 Mbps on 2.4 ",
-    "price": "R10 658",
-    "price_n": 10658,
-    "uid": "UT-634EF190",
-    "pn": "Deco BE65(3-pack)",
-    "handle": "tp-link-deco-wi-fi-7-mesh-system-3-pack-tp-decobe65-3p",
-    "url": "/pages/tp-link-deco-wi-fi-7-mesh-system-3-pack-tp-decobe65-3p",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/1/7/6/6/0/17660.jpg",
-    "enquiry": true
    }
   ]
  },
@@ -1785,34 +1659,6 @@
     "url": "/products/huawei-s310-48p4s-ekit-48-port-poe-switch",
     "qty": 108,
     "image": "https://www.pinnacle.co.za/media/catalog/product/9/8/98012383_1_12a1.png"
-   },
-   {
-    "brand": "Tenda",
-    "title": "Tenda 5-Port Fast Ethernet Switch",
-    "spec": "Desktop/Wall-mountable, 5-port 10/100Mbps, Plug and Play, 5v PSU inclu",
-    "price": "R95",
-    "price_n": 95,
-    "uid": "UT-E0F5A5D0",
-    "pn": "S105",
-    "handle": "tenda-5-port-fast-ethernet-switch-s105",
-    "url": "/pages/tenda-5-port-fast-ethernet-switch-s105",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/1/5/1/1/1511.jpg",
-    "enquiry": true
-   },
-   {
-    "brand": "BDCOM",
-    "title": "BDCOM 48 Port Gigabit SFP - Switch - Dual PSU optional",
-    "spec": "Managed - Layer 3, 48 GBE auto-adaptive SFP ports, 4 Combo GBE ports, ",
-    "price": "R21 236",
-    "price_n": 21236,
-    "uid": "UT-6545C37E",
-    "pn": "S3756F",
-    "handle": "bdcom-48-port-gigabit-sfp-switch-dual-psu-optional",
-    "url": "/pages/bdcom-48-port-gigabit-sfp-switch-dual-psu-optional",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/1/5/6/156.jpg",
-    "enquiry": true
    }
   ],
   "rack": [
@@ -1826,34 +1672,6 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/GS2018PS2_wr_01.jpg",
     "qty": 8,
     "sku": "GS2018PS2"
-   },
-   {
-    "brand": "Acconet",
-    "title": "Acconet 4U Unassembled Fixed Wall Mount Box 450mm",
-    "spec": "Flat Pack, Glass Door",
-    "price": "R1 299",
-    "price_n": 1299,
-    "uid": "UT-89D2D16A",
-    "pn": "WS3-6404",
-    "handle": "acconet-4u-unassembled-fixed-wall-mount-box-450mm",
-    "url": "/pages/acconet-4u-unassembled-fixed-wall-mount-box-450mm",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/1/3/4/2/6/13426.jpg",
-    "enquiry": true
-   },
-   {
-    "brand": "Acconet",
-    "title": "Acconet 20U Outdoor Ventilated Cabinet",
-    "spec": "Unit excludes fans, 2mm - 304 mild steel, door 1.6mm MS, 1000H x 600W ",
-    "price": "R15 740",
-    "price_n": 15740,
-    "uid": "UT-1D3E60DB",
-    "pn": "20U-CABINET-IP55",
-    "handle": "acconet-20u-outdoor-ventilated-cabinet-rm-cab-20u-ip55-out",
-    "url": "/pages/acconet-20u-outdoor-ventilated-cabinet-rm-cab-20u-ip55-out",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/5/2/1/3/5213.jpg",
-    "enquiry": true
    }
   ]
  },
@@ -2695,225 +2513,11 @@
    }
   ]
  },
- "wifi_ap": [
-  {
-   "brand": "Ubiquiti",
-   "title": "Ubiquiti UniFi U7 Pro Wall Paintable Flush Mount",
-   "spec": "WIRELESS ACCESS POINTS",
-   "price": "R887",
-   "price_n": 887,
-   "uid": "UT-44881DCA",
-   "pn": "UACC-U7-Pro-Wall-FM",
-   "handle": "ubiquiti-unifi-u7-pro-wall-paintable-flush-mount-uacc-u7-pro-wall-fm",
-   "url": "/pages/ubiquiti-unifi-u7-pro-wall-paintable-flush-mount-uacc-u7-pro-wall-fm",
-   "qty": 9,
-   "image": "https://miro.co.za/img/p/1/4/0/9/6/14096.jpg",
-   "enquiry": true
-  },
-  {
-   "brand": "Teltonika",
-   "title": "Teltonika Wi-Fi 4 Industrial Wireless Access Point",
-   "spec": "Wi-Fi Mesh, Fast Roaming, 2x RJ45 ports (10/100), Integrated Din Rail ",
-   "price": "R1 389",
-   "price_n": 1389,
-   "uid": "UT-6C8D50BD",
-   "pn": "DAP140000000",
-   "handle": "teltonika-wi-fi-4-industrial-wireless-access-point-dap140",
-   "url": "/pages/teltonika-wi-fi-4-industrial-wireless-access-point-dap140",
-   "qty": 9,
-   "image": "https://miro.co.za/img/p/1/6/3/9/2/16392.jpg",
-   "enquiry": true
-  },
-  {
-   "brand": "TP-Link Omada",
-   "title": "TP-Link Omada BE3600 Ceiling Mount Wi-Fi 7 Access Point",
-   "spec": "1×2.5G RJ45 Port, 688Mbps at 2.4 GHz + 4324 Mbps at 5 GHz, 802.3at PoE",
-   "price": "R2 056",
-   "price_n": 2056,
-   "uid": "UT-854B5586",
-   "pn": "EAP723",
-   "handle": "tp-link-omada-be3600-ceiling-mount-wi-fi-7-access-point-tp-eap723",
-   "url": "/pages/tp-link-omada-be3600-ceiling-mount-wi-fi-7-access-point-tp-eap723",
-   "qty": 9,
-   "image": "https://miro.co.za/img/p/1/6/9/5/7/16957.jpg",
-   "enquiry": true
-  },
-  {
-   "brand": "TP-Link Omada",
-   "title": "TP-Link AX6000 Indoor WiFi 6 Ceiling Mount Access Point",
-   "spec": "1×2.5 Gigabit RJ45 Port, SPEED: 1148Mbps at  2.4 GHz + 4804 Mbps at 5 ",
-   "price": "R2 879",
-   "price_n": 2879,
-   "uid": "UT-347B6492",
-   "pn": "EAP683 UR",
-   "handle": "tp-link-ax6000-indoor-wifi-6-ceiling-mount-access-point-tp-eap683ur",
-   "url": "/pages/tp-link-ax6000-indoor-wifi-6-ceiling-mount-access-point-tp-eap683ur",
-   "qty": 9,
-   "image": "https://miro.co.za/img/p/1/6/9/8/5/16985.jpg",
-   "enquiry": true
-  },
-  {
-   "brand": "TP-Link Omada",
-   "title": "TP-Link Omada Tri-Band Wi-Fi 7 Outdoor AP",
-   "spec": "1×2.5G RJ45 Port, 688 Mbps (2.4 GHz) + 2882 Mbps (5 GHz) + 5765 Mbps (",
-   "price": "R4 525",
-   "price_n": 4525,
-   "uid": "UT-0ECC68AF",
-   "pn": "EAP772-Outdoor",
-   "handle": "tp-link-omada-tri-band-wi-fi-7-outdoor-ap-eap772-o",
-   "url": "/pages/tp-link-omada-tri-band-wi-fi-7-outdoor-ap-eap772-o",
-   "qty": 9,
-   "image": "https://miro.co.za/img/p/1/8/1/0/2/18102.jpg",
-   "enquiry": true
-  },
-  {
-   "brand": "Cambium Networks",
-   "title": "Cambium cnPilot Enterprise WiFi 6 120° Outdoor AP",
-   "spec": "2x2 Dual Band 802.11ax, 30W PoE out, 1 x 2.5 Gb Port, 1 x Gb Port, PoE",
-   "price": "R15 530",
-   "price_n": 15530,
-   "uid": "UT-F53F19CD",
-   "pn": "XV2-2T1XA10-RW",
-   "handle": "cambium-cnpilot-enterprise-wifi-6-120-outdoor-ap-cnp-xv-2t1",
-   "url": "/pages/cambium-cnpilot-enterprise-wifi-6-120-outdoor-ap-cnp-xv-2t1",
-   "qty": 9,
-   "image": "https://miro.co.za/img/p/8/5/0/0/8500.jpg",
-   "enquiry": true
-  }
- ],
+ "wifi_ap": [],
  "smallbiz": {
-  "router": [
-   {
-    "brand": "MikroTik",
-    "title": "MikroTik hEX PoE - Desktop PoE Router with 5 Gb, 1 SFP and 1 USB port",
-    "spec": "800MHz CPU, 128MB RAM, RouterOS L4, PoE in/port 2-5 PoE out, 12 V - 57",
-    "price": "R1 791",
-    "price_n": 1791,
-    "uid": "UT-FD99CA6D",
-    "pn": "RB960PGS",
-    "handle": "mikrotik-hex-poe-desktop-poe-router-with-5-gb-1-sfp-and-1-usb-port",
-    "url": "/pages/mikrotik-hex-poe-desktop-poe-router-with-5-gb-1-sfp-and-1-usb-port",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/9/5/2/952.jpg",
-    "enquiry": true
-   },
-   {
-    "brand": "MikroTik",
-    "title": "MikroTik Heavy Duty 7 Gigabit 1x2.5Gbps 1 SFP+ Router · MT-RB5009UG+S+IN",
-    "spec": "4x 1.4GHz CPU, 1GB RAM, RouterOS L5, 802.3af/at",
-    "price": "R4 450",
-    "price_n": 4450,
-    "uid": "UT-7966E2A8",
-    "pn": "RB5009UG+S+IN",
-    "handle": "mikrotik-heavy-duty-7-gigabit-1x2-5gbps-1-sfp-router-mt-rb5009ug-s-in",
-    "url": "/pages/mikrotik-heavy-duty-7-gigabit-1x2-5gbps-1-sfp-router-mt-rb5009ug-s-in",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/5/5/2/7/5527.jpg",
-    "enquiry": true
-   },
-   {
-    "brand": "MikroTik",
-    "title": "MikroTik Cloud Core 16 Port Gigabit 2SFP+ Passive Cooling Router · MT-RBCCR2004-16G-2S+PC",
-    "spec": "4 x 1.2GHz CPU, 4GB RAM, 128MB NAND storage, RouterOS v7 L6",
-    "price": "R8 809",
-    "price_n": 8809,
-    "uid": "UT-362B4A65",
-    "pn": "CCR2004-16G-2S+PC",
-    "handle": "mikrotik-cloud-core-16-port-gigabit-2sfp-passive-cooling-router-mt-rbccr2004-16g-2s-pc",
-    "url": "/pages/mikrotik-cloud-core-16-port-gigabit-2sfp-passive-cooling-router-mt-rbccr2004-16g-2s-pc",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/6/3/3/1/6331.jpg",
-    "enquiry": true
-   }
-  ],
-  "switch": [
-   {
-    "brand": "BDCOM",
-    "title": "BDCOM 16-Port 10/100 POE switch, 16 POE ports, 2 x 1000Mbps Combo ports",
-    "spec": "Unmanaged - 240W POE, Cooling fan, AC220V power supply Included",
-    "price": "R2 782",
-    "price_n": 2782,
-    "uid": "UT-4F4468D1",
-    "pn": "S1218-16P",
-    "handle": "bdcom-16-port-10-100-poe-switch-16-poe-ports-2-x-1000mbps-combo-ports",
-    "url": "/pages/bdcom-16-port-10-100-poe-switch-16-poe-ports-2-x-1000mbps-combo-ports",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/6/3/0/5/6305.jpg",
-    "enquiry": true
-   },
-   {
-    "brand": "BDCOM",
-    "title": "BDCOM 16 Port Gigabit PoE Switch",
-    "spec": "Managed - 16 x GB PoE Ports and 4 x SFP Ports, Layer 2",
-    "price": "R5 791",
-    "price_n": 5791,
-    "uid": "UT-8144DA6B",
-    "pn": "S2520-P",
-    "handle": "bdcom-16-port-gigabit-poe-switch",
-    "url": "/pages/bdcom-16-port-gigabit-poe-switch",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/8/4/6/3/8463.jpg",
-    "enquiry": true
-   },
-   {
-    "brand": "Ubiquiti",
-    "title": "Ubiquiti UniFi 24 Port Gigabit 16 PoE 95W Switch 2SFP",
-    "spec": "16 x 802.3at PoE+ ports. 2 x SFP ports. 95W total PoE availability",
-    "price": "R9 204",
-    "price_n": 9204,
-    "uid": "UT-9C89402D",
-    "pn": "USW-24-POE",
-    "handle": "ubiquiti-unifi-24-port-gigabit-16-poe-95w-switch-2sfp-usw-24-poe",
-    "url": "/pages/ubiquiti-unifi-24-port-gigabit-16-poe-95w-switch-2sfp-usw-24-poe",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/1/0/8/1/2/10812.jpg",
-    "enquiry": true
-   }
-  ],
-  "wifi": [
-   {
-    "brand": "Grandstream",
-    "title": "Grandstream Enterprise WiFi 6 Indoor Access Point",
-    "spec": "3Gbps, 2×2:2 2.4G, 3×3:2 5G, 1x GbE, 256 client devices, Embedded Cont",
-    "price": "R1 203",
-    "price_n": 1203,
-    "uid": "UT-8D6FBEBE",
-    "pn": "GWN7660E",
-    "handle": "grandstream-enterprise-wifi-6-indoor-access-point-gwn7660e",
-    "url": "/pages/grandstream-enterprise-wifi-6-indoor-access-point-gwn7660e",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/1/8/7/6/8/18768.jpg",
-    "enquiry": true
-   },
-   {
-    "brand": "TP-Link Omada",
-    "title": "TP-Link AX5400 Indoor WiFi 6 Ceiling Mount Access Point",
-    "spec": "574 Mbps at 2.4GHz + 4804 Mbps at 5 GHz, 802.3at PoE+ and DC Power(Pow",
-    "price": "R2 303",
-    "price_n": 2303,
-    "uid": "UT-00937137",
-    "pn": "EAP673",
-    "handle": "tp-link-ax5400-indoor-wifi-6-ceiling-mount-access-point-tp-eap673",
-    "url": "/pages/tp-link-ax5400-indoor-wifi-6-ceiling-mount-access-point-tp-eap673",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/1/6/9/8/1/16981.jpg",
-    "enquiry": true
-   },
-   {
-    "brand": "Ubiquiti",
-    "title": "Ubiquiti UniFi Wi-Fi 7 Pro XGS Indoor Access Point",
-    "spec": "POE++, No PoE Injector included, 8 Spatial Streams, 500+ connected dev",
-    "price": "R7 394",
-    "price_n": 7394,
-    "uid": "UT-EA187C13",
-    "pn": "U7-Pro-XGS",
-    "handle": "ubiquiti-unifi-wi-fi-7-pro-xgs-indoor-access-point-u7-pro-xgs",
-    "url": "/pages/ubiquiti-unifi-wi-fi-7-pro-xgs-indoor-access-point-u7-pro-xgs",
-    "qty": 9,
-    "image": "https://miro.co.za/img/p/1/6/8/4/7/16847.jpg",
-    "enquiry": true
-   }
-  ]
+  "router": [],
+  "switch": [],
+  "wifi": []
  },
  "companions": {
   "cctv": [
@@ -3053,6 +2657,6 @@
   ]
  },
  "kits": [],
- "generated": "2026-11-26T04:01:39Z",
+ "generated": "2026-11-26T04:35:36Z",
  "v": 3
 }
