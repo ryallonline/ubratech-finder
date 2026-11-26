@@ -90,7 +90,7 @@
     "sku": "X1504VAP-I58512BL4W",
     "handle": "asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
     "url": "/products/asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
-    "qty": 118,
+    "qty": 19,
     "image": "https://www.pinnacle.co.za/media/catalog/product/X/1/X1504VAP_I382BL0W_a78d.jpg"
    },
    {
@@ -102,7 +102,7 @@
     "sku": "PV15250_RPLU_001_P8L",
     "handle": "dell-pro-15-15-6-core-i5-8gb-512gb-win-11-pro-notebook",
     "url": "/products/dell-pro-15-15-6-core-i5-8gb-512gb-win-11-pro-notebook",
-    "qty": 98,
+    "qty": 97,
     "image": "https://www.pinnacle.co.za/media/catalog/product/P/V/PV15250_RPLU_001_P8L_f32d.jpg"
    },
    {
@@ -268,28 +268,28 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/08/VM27-N621042E6G-GIA_wr_01a.jpg"
    },
    {
-    "brand": "Giada",
-    "title": "Giada D612 i5-1235U 2x DDR4 3200Mhz",
-    "spec": "Desktops",
-    "price": "R8 199",
-    "price_n": 8199,
-    "sku": "D612-1235U40N0G-GIA",
-    "handle": "giada-d612-i5-1235u-2x-ddr4-3200mhz",
-    "url": "/products/giada-d612-i5-1235u-2x-ddr4-3200mhz",
-    "qty": 73,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2023/02/D612-1235U40N0G-GIA_wr_01.jpeg"
+    "brand": "PCBuilder",
+    "title": "PCBUiLDER™ CUBE Ryzen 5 3500U 8GB DDR4 512GB Windows 11 Home Mini PC",
+    "spec": "Ryzen 5 · 8GB RAM",
+    "price": "R8 374",
+    "price_n": 8374,
+    "sku": "PCB_CUBE_3500U8GB_HOME",
+    "handle": "pcbuilder-cube-ryzen-5-3500u-8gb-ddr4-512gb-windows-11-home-mini-pc",
+    "url": "/products/pcbuilder-cube-ryzen-5-3500u-8gb-ddr4-512gb-windows-11-home-mini-pc",
+    "qty": 29,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/PCB_CUBE_3500U8GB_HOME_PCBuilder-CUBE-Ryzen-5-3500U-8GB-DDR4-512GB-Windows-11-Home-Mini-PC_wr_01.jpg"
    },
    {
     "brand": "PCBuilder",
-    "title": "PCBuilder CUBE Intel Core 3-100U 8GB DDR5 512GB Windows 11 Home Mini PC",
-    "spec": "Core 3 · 8GB RAM",
-    "price": "R11 337",
-    "price_n": 11337,
-    "sku": "PCB_CUBE_100U8G_HOME",
-    "handle": "pcbuilder-cube-intel-core-3-100u-8gb-ddr5-512gb-windows-11-home-mini-pc",
-    "url": "/products/pcbuilder-cube-intel-core-3-100u-8gb-ddr5-512gb-windows-11-home-mini-pc",
+    "title": "PCBuilder CUBE Intel i5-1235U 16GB DDR4 1TB Windows 11 Home Mini PC",
+    "spec": "16GB RAM",
+    "price": "R11 826",
+    "price_n": 11826,
+    "sku": "PCB_CUBE_I516G_HOME",
+    "handle": "pcbuilder-cube-intel-i5-1235u-16gb-ddr4-1tb-windows-11-home-mini-pc",
+    "url": "/products/pcbuilder-cube-intel-i5-1235u-16gb-ddr4-1tb-windows-11-home-mini-pc",
     "qty": 12,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/PCB_CUBE_100U8G_HOME_PCBuilder-CUBE-Intel-Core-3-100U-8GB-DDR5-512GB-Windows-11-Home-Mini-PC_wr_01.jpg"
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/PCB_CUBE_I516G_HOME_PCBuilder-CUBE-i5-1235U-16GB-DDR4-1TB-Windows-11-Home-Mini-PC_wr_01a.jpg"
    }
   ],
   "mid": [
@@ -334,7 +334,7 @@
     "sku": "PCB_SCOUT_05",
     "handle": "pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
-    "qty": 10,
+    "qty": 9,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SCOUT_05_wr_01e.jpg"
    },
    {
@@ -582,7 +582,7 @@
     "sku": "PCB_SCOUT_05",
     "handle": "pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5500-scout-windows-11-gaming-pc",
-    "qty": 10,
+    "qty": 9,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SCOUT_05_wr_01e.jpg"
    },
    {
@@ -619,7 +619,7 @@
     "price": "R2 265",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 58,
+    "qty": 57,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -801,7 +801,7 @@
     "price": "R2 265",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 58,
+    "qty": 57,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -890,7 +890,7 @@
     "sku": "DS-UPS1000-SA",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "/products/hikvision-1000va-1kva-ups",
-    "qty": 370,
+    "qty": 360,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -942,7 +942,7 @@
     "price": "R904",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 370,
+    "qty": 360,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png",
     "sku": "DS-UPS1000-SA"
    },
@@ -1527,28 +1527,28 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/900160_Port-Connect-USB-Type-C-to-4-port-USB-A-3.0-2.0-Hub_wr_01a.jpg"
    },
    {
-    "brand": "Winx",
-    "title": "WINX CONNECT Pro 6-in-1 Type-C Hub",
+    "brand": "Port",
+    "title": "Port Connect 5-in-1 USB Type-C 4K Docking Station",
     "spec": "Docking Station",
-    "price": "R494",
-    "price_n": 494,
-    "sku": "WX-HB111",
-    "handle": "winx-connect-pro-6-in-1-type-c-hub",
-    "url": "/products/winx-connect-pro-6-in-1-type-c-hub",
-    "qty": 280,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/WINX_WX-HB111_Connect-Pro-6-in-1-Type-C-Hub-45-0116-Edit1500x1500-96DPI.jpg"
+    "price": "R305",
+    "price_n": 305,
+    "sku": "900162",
+    "handle": "port-connect-5-in-1-usb-type-c-4k-docking-station",
+    "url": "/products/port-connect-5-in-1-usb-type-c-4k-docking-station",
+    "qty": 67,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/900162_Port-Connect-5-in-1-USB-Type-C-4K-Docking-Station-Grey_wr_01a.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 7-in-1 USB-C Mobile Docking Station",
+    "brand": "Targus",
+    "title": "Targus - USB-C Multi-Function DisplayPort Alt Triple Video with 85W… (DOCK430EUZ)",
     "spec": "Docking Station",
-    "price": "R1 489",
-    "price_n": 1489,
-    "sku": "470-BGCG",
-    "handle": "dell-pro-7-in-1-usb-c-mobile-docking-station",
-    "url": "/products/dell-pro-7-in-1-usb-c-mobile-docking-station",
-    "qty": 47,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__23__d7c1.png"
+    "price": "R2 267",
+    "price_n": 2267,
+    "sku": "DOCK430EUZ",
+    "handle": "targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
+    "url": "/products/targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
+    "qty": 33,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK430EUZ_default.jpg"
    },
    {
     "brand": "Dell",
@@ -1589,16 +1589,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK430EUZ_default.jpg"
    },
    {
-    "brand": "Port",
-    "title": "PORT Office docking station 3 X 4 USB-C 11 devices 100W",
+    "brand": "Port2",
+    "title": "PORT2 x 4K USB-C desktop docking station 11 peripherals 96W",
     "spec": "Docking Station",
-    "price": "R3 535",
-    "price_n": 3535,
-    "sku": "901910V2EU",
-    "handle": "port-office-docking-station-3-x-4-usb-c-11-devices-100w",
-    "url": "/products/port-office-docking-station-3-x-4-usb-c-11-devices-100w",
-    "qty": 4,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901910V2EU_PORT_Office_docking_station_3_X_4_USB-C__wr_01.png"
+    "price": "R4 154",
+    "price_n": 4154,
+    "sku": "901904V2EU",
+    "handle": "port2-x-4k-usb-c-desktop-docking-station-11-peripherals-96w",
+    "url": "/products/port2-x-4k-usb-c-desktop-docking-station-11-peripherals-96w",
+    "qty": 6,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901904V2EU_PORT2_x_4K_USB-C_desktop_docking_station_wr_03.png"
    },
    {
     "brand": "Dell",
@@ -1698,7 +1698,7 @@
     "sku": "RD-H889",
     "handle": "redragon-h889-spectra-pro-over-ear-wireless-headphones-black",
     "url": "/products/redragon-h889-spectra-pro-over-ear-wireless-headphones-black",
-    "qty": 118,
+    "qty": 117,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/RD-H889_Redragon-H889-SPECTRA-PRO-Over-Ear-Wireless-Headphones-Black_wr_01a.jpg"
    },
    {
@@ -1710,7 +1710,7 @@
     "sku": "WX-HS114",
     "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
     "url": "/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
-    "qty": 112,
+    "qty": 116,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg"
    },
    {
@@ -2075,7 +2075,7 @@
     "sku": "ATOM V650",
     "handle": "antec-atom-v650-non-modular-power-supply",
     "url": "/products/antec-atom-v650-non-modular-power-supply",
-    "qty": 119,
+    "qty": 117,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/ATOM-V650_wr_05.jpg"
    },
    {
@@ -2209,7 +2209,7 @@
     "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
     "url": "https://ubratech.co.za/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg",
-    "qty": 112,
+    "qty": 116,
     "sku": "WX-HS114"
    },
    {
@@ -2237,16 +2237,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/RD-H894_Redragon_H894_TITAN_Wireless_Gaming_Head_wr_01.png"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi Redmi Headphones Neo ANC Wireless Over-Ears - White",
-    "spec": "Tv And Audio",
-    "price": "R1 213",
-    "price_n": 1213,
-    "sku": "BHR08W2GL",
-    "handle": "xiaomi-redmi-headphones-neo-anc-wireless-over-ears-white",
-    "url": "/products/xiaomi-redmi-headphones-neo-anc-wireless-over-ears-white",
-    "qty": 10,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/BHR08W2GL_Redmi-Headphones-Neo-ANC-Wireless-Over-Ears-White_wr_01a.jpg"
+    "brand": "Nearity",
+    "title": "Nearity AW-SP100 Wireless Speakerphone",
+    "spec": "Headsets",
+    "price": "R1 132",
+    "price_n": 1132,
+    "sku": "AW-SP100",
+    "handle": "nearity-aw-sp100-wireless-speakerphone",
+    "url": "/products/nearity-aw-sp100-wireless-speakerphone",
+    "qty": 15,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_Design__67__28ea.png"
    },
    {
     "brand": "HP",
@@ -2297,16 +2297,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "ASRock",
-    "title": "ASRock DESKMINI Vesa Mount Kit",
-    "spec": "Accessories",
+    "brand": "Ugreen",
+    "title": "UGREEN NW102 Cat6 U/UTP Flat Ethernet Cable 15m - Black",
+    "spec": "Cables And Adapters",
     "price": "R127",
     "price_n": 127,
-    "sku": "90-BXG2T0-A0XCR3W",
-    "handle": "asrock-deskmini-vesa-mount-kit",
-    "url": "/products/asrock-deskmini-vesa-mount-kit",
-    "qty": 5,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/90-BXG2T0-A0XCR3W_wr_01.jpg"
+    "sku": "NW102-50180",
+    "handle": "ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
+    "url": "/products/ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
+    "qty": 23,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/NW102-50172-wr-01.jpg"
    },
    {
     "brand": "Port",
@@ -2411,27 +2411,27 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP 2.8mm Powered by Darkfighter Fixed Dome Network Camera",
+    "title": "Hikvision 4MP Fixed Minin Bullet Network Camera",
     "spec": "4MP",
-    "price": "R2 931",
-    "price_n": 2931,
-    "sku": "DS-2CD2146G2H-I-2.8MM",
-    "handle": "hikvision-4mp-2-8mm-powered-by-darkfighter-fixed-dome-network-camera",
-    "url": "/products/hikvision-4mp-2-8mm-powered-by-darkfighter-fixed-dome-network-camera",
-    "qty": 218,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_2.8MM_8f84.png"
+    "price": "R2 727",
+    "price_n": 2727,
+    "sku": "DS-2CD2046G2H-I-2.8MM",
+    "handle": "hikvision-4mp-fixed-minin-bullet-network-camera",
+    "url": "/products/hikvision-4mp-fixed-minin-bullet-network-camera",
+    "qty": 186,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_2.8MM_1_1e43.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Fixed Bullet Network Camera",
+    "title": "Hikvision 4MP Acusense Strobe Light Audible Warning Fixed Turret IP Camera",
     "spec": "4MP",
-    "price": "R3 221",
-    "price_n": 3221,
-    "sku": "DS-2CD2T46G2H-2I-2.8MM",
-    "handle": "hikvision-4mp-fixed-bullet-network-camera",
-    "url": "/products/hikvision-4mp-fixed-bullet-network-camera",
-    "qty": 103,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_2.8MM_1_e9e9.png"
+    "price": "R3 385",
+    "price_n": 3385,
+    "sku": "DS-2CD2346G2H-IS2U-SL-2.8MM",
+    "handle": "hikvision-4mp-acusense-strobe-light-audible-warning-fixed-turret-ip-camera",
+    "url": "/products/hikvision-4mp-acusense-strobe-light-audible-warning-fixed-turret-ip-camera",
+    "qty": 18,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2346G2H_IS2U_SL_2.8MM_98ea.jpg"
    },
    {
     "brand": "Hikvision",
@@ -2556,7 +2556,7 @@
     "sku": "DS-2CE16D0T-EXIPF2.8MM",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 24867,
+    "qty": 24507,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
@@ -2606,7 +2606,7 @@
     "sku": "DS-2CE16D0T-EXIPF2.8MM",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 24867,
+    "qty": 24507,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
@@ -2656,7 +2656,7 @@
     "sku": "DS-2CE16D0T-EXIPF2.8MM",
     "handle": "hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
     "url": "/products/hikvision-2mp-2-8mm-20m-ir-bullet-analog-camera",
-    "qty": 24867,
+    "qty": 24507,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CE16D0T_EXIPF2.8MM_be9e.jpg"
    },
    {
@@ -3118,6 +3118,6 @@
    "total": "R8 772"
   }
  ],
- "generated": "2026-11-26T10:02:10Z",
+ "generated": "2026-11-26T11:01:30Z",
  "v": 3
 }
