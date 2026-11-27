@@ -90,7 +90,7 @@
     "sku": "X1504VAP-I58512BL4W",
     "handle": "asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
     "url": "/products/asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
-    "qty": 118,
+    "qty": 19,
     "image": "https://www.pinnacle.co.za/media/catalog/product/X/1/X1504VAP_I382BL0W_a78d.jpg"
    },
    {
@@ -145,15 +145,15 @@
    },
    {
     "brand": "HP",
-    "title": "HP ProBook 4 Ryzen-5 14\" 16GB 512GB Win 11 Pro Notebook",
-    "spec": "Ryzen 5 · 14\" screen · 16GB RAM",
-    "price": "R29 294",
-    "price_n": 29294,
-    "sku": "E40X9ET",
-    "handle": "hp-probook-4-ryzen-5-14-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/hp-probook-4-ryzen-5-14-16gb-512gb-win-11-pro-notebook",
-    "qty": 18,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__2__32c0.png"
+    "title": "HP Probook 4 G2a 16\" Ryzen-7-250 16GB 512GB Win 11 Pro Notebook",
+    "spec": "Ryzen 7 · 16\" screen · 16GB RAM",
+    "price": "R29 660",
+    "price_n": 29660,
+    "sku": "E40X3ET",
+    "handle": "hp-probook-4-g2a-16-ryzen-7-250-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/hp-probook-4-g2a-16-ryzen-7-250-16gb-512gb-win-11-pro-notebook",
+    "qty": 7,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__81__3cd2.png"
    },
    {
     "brand": "Lenovo",
@@ -241,7 +241,7 @@
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "qty": 7,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA-BUN7Q3_default.jpg"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    },
    {
     "brand": "Giada",
@@ -301,7 +301,7 @@
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "qty": 7,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA-BUN7Q3_default.jpg"
+    "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    },
    {
     "brand": "Dell",
@@ -386,16 +386,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo M70s G6 Desktop PC — Core Ultra 7 · 16GB · 512GB SSD (12YQ000ESA)",
-    "spec": "Core Ultra 7 · 512GB SSD",
-    "price": "R26 696",
-    "price_n": 26696,
-    "sku": "12YQ000ESA",
-    "handle": "lenovo-m70s-g6-sff-u7-265-13-tops-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-integrated-windows-11-pro-64-intel-ax211-2x2ax-6e-bluetooth-internal-speaker-usb-trd-us-eng-usb-clp-mouse-pub-fra-ara-eng-1year",
-    "url": "/products/lenovo-m70s-g6-sff-u7-265-13-tops-16gb-ddr5-512gb-ssd-m-2-2280-nvme-g4-integrated-windows-11-pro-64-intel-ax211-2x2ax-6e-bluetooth-internal-speaker-usb-trd-us-eng-usb-clp-mouse-pub-fra-ara-eng-1year",
-    "qty": 10,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/12YQ000ESA_default.jpg"
+    "brand": "HP",
+    "title": "HP ProDesk 4 SFF G1i AI PC Desktop PC — Core Ultra 5 · 16GB · 512GB SSD (9H7N7ET)",
+    "spec": "Core Ultra 5 · 512GB SSD",
+    "price": "R26 896",
+    "price_n": 26896,
+    "sku": "9H7N7ET",
+    "handle": "hp-prodesk-4-sff-g1i-desktop-ai-pc-intel-core-ultra-5-225-16gb-ddr5-5600-mt-s-2-slots-max-64gb-512-gb-pcie-nvme-m-2-ssd-no-optical-drive-intel-graphics-windows-11-pro-intel-wi-fi-6e-ax211-2x2-and",
+    "url": "/products/hp-prodesk-4-sff-g1i-desktop-ai-pc-intel-core-ultra-5-225-16gb-ddr5-5600-mt-s-2-slots-max-64gb-512-gb-pcie-nvme-m-2-ssd-no-optical-drive-intel-graphics-windows-11-pro-intel-wi-fi-6e-ax211-2x2-and",
+    "qty": 29,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/9H7N7ET_default.png"
    },
    {
     "brand": "Dell",
@@ -406,7 +406,7 @@
     "sku": "BTO108_QCS1250_EMEA",
     "handle": "dell-pro-slim-qcs1250-intel-core-ultra-7-265-13-tops-up-to-5-3-ghz-16gb-1x16gb-5600mt-s-ddr5-512gb-ssd-tlc-integrated-graphics-no-wi-fi-bluetooth-dell-kb216-multimedia-usb-keyboard-dell-ms116-optical",
     "url": "/products/dell-pro-slim-qcs1250-intel-core-ultra-7-265-13-tops-up-to-5-3-ghz-16gb-1x16gb-5600mt-s-ddr5-512gb-ssd-tlc-integrated-graphics-no-wi-fi-bluetooth-dell-kb216-multimedia-usb-keyboard-dell-ms116-optical",
-    "qty": 16,
+    "qty": 15,
     "image": "https://s3.amazonaws.com/tarsus.co.za/BTO108_QCS1250_EMEA_default.jpg"
    },
    {
@@ -648,16 +648,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/11/PCB-OM-24_PCBuilder_CORE_24_FHD_1080P_Office_Monit_wr_01.png"
    },
    {
-    "brand": "Acer",
-    "title": "Acer PM161QT 15.6\" FHD Monitor (UM.ZP1EE.009)",
-    "spec": "15.6\" screen",
-    "price": "R2 832",
-    "price_n": 2832,
-    "sku": "UM.ZP1EE.009",
-    "handle": "acer-monitor-commercial-pm161qt-black-flat-15-6-ips-response-time-6ms-resolution-1920x1080-viewing-angle-178-h-178-v-aspect-ratio-16-09-digital-frequency-60hz-interface-hdmi-1-4-2type-c-speaker-yes",
-    "url": "/products/acer-monitor-commercial-pm161qt-black-flat-15-6-ips-response-time-6ms-resolution-1920x1080-viewing-angle-178-h-178-v-aspect-ratio-16-09-digital-frequency-60hz-interface-hdmi-1-4-2type-c-speaker-yes",
-    "qty": 6,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/UM.ZP1EE.009_default.png"
+    "brand": "HP",
+    "title": "HP Series 3 Pro 22\" FHD Monitor",
+    "spec": "22\" screen",
+    "price": "R3 034",
+    "price_n": 3034,
+    "sku": "9U5A2AA",
+    "handle": "hp-series-3-pro-22-fhd-monitor",
+    "url": "/products/hp-series-3-pro-22-fhd-monitor",
+    "qty": 26,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/9/U/9U5A2AA__1__b014.jpg"
    },
    {
     "brand": "Xiaomi",
@@ -674,16 +674,16 @@
   ],
   "creative": [
    {
-    "brand": "Dell",
-    "title": "Dell Pro 27 Plus QHD USB-C Hub Monitor - P2725DE, 68.6cm (27.0\")",
-    "spec": "27.0\" screen",
-    "price": "R7 244",
-    "price_n": 7244,
-    "sku": "210-BQSZ",
-    "handle": "dell-pro-27-plus-qhd-usb-c-hub-monitor-p2725de-68-6cm-27-0",
-    "url": "/products/dell-pro-27-plus-qhd-usb-c-hub-monitor-p2725de-68-6cm-27-0",
-    "qty": 30,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BQSZ_default.jpg"
+    "brand": "Asus",
+    "title": "Asus ProArt Display PA248CNV 24.1\" WUXGA IPS 75Hz Monitor",
+    "spec": "24.1\" screen",
+    "price": "R7 462",
+    "price_n": 7462,
+    "sku": "PA248CNV",
+    "handle": "asus-proart-display-pa248cnv-24-1-wuxga-ips-75hz-monitor",
+    "url": "/products/asus-proart-display-pa248cnv-24-1-wuxga-ips-75hz-monitor",
+    "qty": 17,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/PA248CNV_Asus-ProArt-Display-PA248CNV-24.1-inch-WUXGA-IPS-75Hz-Monitor-Black_wr_01.jpg"
    },
    {
     "brand": "Asus",
@@ -698,16 +698,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PA278CGRV_Asus_ProArt_27_QHD_1440p_IPS_144Hz_Monit_wr_01.png"
    },
    {
-    "brand": "Dell",
-    "title": "Dell P2722HE 27\" FHD IPS Monitor",
+    "brand": "Asus",
+    "title": "Asus ROG Strix 27\" QHD OLED 280Hz Gaming Monitor",
     "spec": "27\" screen",
-    "price": "R17 762",
-    "price_n": 17762,
-    "sku": "210-BMDW",
-    "handle": "dell-p2722he-27-fhd-ips-monitor",
-    "url": "/products/dell-p2722he-27-fhd-ips-monitor",
-    "qty": 21,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BMDW_1_c0eb.png"
+    "price": "R19 826",
+    "price_n": 19826,
+    "sku": "XG27ACDMS",
+    "handle": "asus-rog-strix-27-qhd-oled-280hz-gaming-monitor",
+    "url": "/products/asus-rog-strix-27-qhd-oled-280hz-gaming-monitor",
+    "qty": 5,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_d81d.png"
    },
    {
     "brand": "Asus",
@@ -830,16 +830,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/B/0/B0CG8AS_da71.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell 24 Plus S2425HSM 23.8\" FHD 1ms IPS Monitor",
-    "spec": "23.8\" screen",
-    "price": "R3 424",
-    "price_n": 3424,
-    "sku": "210-BSZD",
-    "handle": "dell-24-plus-s2425hsm-23-8-fhd-1ms-ips-monitor",
-    "url": "/products/dell-24-plus-s2425hsm-23-8-fhd-1ms-ips-monitor",
-    "qty": 99,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BSZD_165e.jpg"
+    "brand": "Xiaomi",
+    "title": "Xiaomi A27Qi 2026 27\" inch 120Hz 2K IPS Office Monitor",
+    "spec": "27\" screen",
+    "price": "R3 449",
+    "price_n": 3449,
+    "sku": "ELA6568EU",
+    "handle": "xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
+    "url": "/products/xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
+    "qty": 112,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6568EU_Xiaomi-A27Qi-2026-27-inch-2K-120Hz-IPS-Office-Monitor_wr_01a.jpg"
    },
    {
     "brand": "Asus",
@@ -1539,28 +1539,28 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/900162_Port-Connect-5-in-1-USB-Type-C-4K-Docking-Station-Grey_wr_01a.jpg"
    },
    {
-    "brand": "Targus",
-    "title": "Targus - USB-C Multi-Function DisplayPort Alt Triple Video with 85W… (DOCK430EUZ)",
+    "brand": "Dell",
+    "title": "Dell Pro 7-in-1 USB-C Mobile Docking Station",
     "spec": "Docking Station",
-    "price": "R2 267",
-    "price_n": 2267,
-    "sku": "DOCK430EUZ",
-    "handle": "targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
-    "url": "/products/targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
-    "qty": 33,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK430EUZ_default.jpg"
+    "price": "R1 489",
+    "price_n": 1489,
+    "sku": "470-BGCG",
+    "handle": "dell-pro-7-in-1-usb-c-mobile-docking-station",
+    "url": "/products/dell-pro-7-in-1-usb-c-mobile-docking-station",
+    "qty": 47,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__23__d7c1.png"
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro WD25TB5 Thunderbolt 5 Docking Station",
+    "title": "Dell Pro SD25 USB-C Smart Docking Station",
     "spec": "Docking Station",
-    "price": "R7 243",
-    "price_n": 7243,
-    "sku": "210-BTHZ",
-    "handle": "dell-pro-wd25tb5-thunderbolt-5-docking-station",
-    "url": "/products/dell-pro-wd25tb5-thunderbolt-5-docking-station",
+    "price": "R4 740",
+    "price_n": 4740,
+    "sku": "210-BRFM",
+    "handle": "dell-pro-sd25-usb-c-smart-docking-station",
+    "url": "/products/dell-pro-sd25-usb-c-smart-docking-station",
     "qty": 4,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__16__3625.png"
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRFM_8aa0.jpg"
    }
   ],
   "mac": [
@@ -1589,28 +1589,28 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK430EUZ_default.jpg"
    },
    {
-    "brand": "Port2",
-    "title": "PORT2 x 4K USB-C desktop docking station 11 peripherals 96W",
+    "brand": "Port",
+    "title": "PORT Office docking station 3 X 4 USB-C 11 devices 100W",
     "spec": "Docking Station",
-    "price": "R4 154",
-    "price_n": 4154,
-    "sku": "901904V2EU",
-    "handle": "port2-x-4k-usb-c-desktop-docking-station-11-peripherals-96w",
-    "url": "/products/port2-x-4k-usb-c-desktop-docking-station-11-peripherals-96w",
-    "qty": 6,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901904V2EU_PORT2_x_4K_USB-C_desktop_docking_station_wr_03.png"
+    "price": "R3 535",
+    "price_n": 3535,
+    "sku": "901910V2EU",
+    "handle": "port-office-docking-station-3-x-4-usb-c-11-devices-100w",
+    "url": "/products/port-office-docking-station-3-x-4-usb-c-11-devices-100w",
+    "qty": 4,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/09/901910V2EU_PORT_Office_docking_station_3_X_4_USB-C__wr_01.png"
    },
    {
     "brand": "Dell",
-    "title": "Dell Pro WD25TB5 Thunderbolt 5 Docking Station",
+    "title": "Dell Pro SD25 USB-C Smart Docking Station",
     "spec": "Docking Station",
-    "price": "R7 243",
-    "price_n": 7243,
-    "sku": "210-BTHZ",
-    "handle": "dell-pro-wd25tb5-thunderbolt-5-docking-station",
-    "url": "/products/dell-pro-wd25tb5-thunderbolt-5-docking-station",
+    "price": "R4 740",
+    "price_n": 4740,
+    "sku": "210-BRFM",
+    "handle": "dell-pro-sd25-usb-c-smart-docking-station",
+    "url": "/products/dell-pro-sd25-usb-c-smart-docking-station",
     "qty": 4,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__16__3625.png"
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BRFM_8aa0.jpg"
    }
   ],
   "legacy": [
@@ -2320,16 +2320,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/NW102-50172-wr-01.jpg"
    },
    {
-    "brand": "Redragon",
-    "title": "Redragon HARROW Wireless X/D-input(Digital/Analog) PC Controller - Black",
+    "brand": "HP",
+    "title": "HP Wired 320MK combo",
     "spec": "Accessories",
     "price": "R414",
     "price_n": 414,
-    "sku": "RD-G808",
-    "handle": "redragon-harrow-wireless-x-d-input-digital-analog-pc-controller-black",
-    "url": "/products/redragon-harrow-wireless-x-d-input-digital-analog-pc-controller-black",
-    "qty": 147,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2018/03/Redragon_RD-G808_wr_01b.jpg"
+    "sku": "9SR36UT",
+    "handle": "hp-wired-320mk-combo",
+    "url": "/products/hp-wired-320mk-combo",
+    "qty": 7,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/9SR36UT_default.png"
    },
    {
     "brand": "HP",
@@ -3129,6 +3129,6 @@
    "total": "R8 772"
   }
  ],
- "generated": "2026-11-26T20:01:40Z",
+ "generated": "2026-11-27T04:01:37Z",
  "v": 3
 }
