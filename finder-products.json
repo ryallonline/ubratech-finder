@@ -5,10 +5,10 @@
     "brand": "HP",
     "title": "HP 250 G9 15.6\" Core i3 16GB 256GB Win 11 Pro Notebook",
     "spec": "Core i3 · 16GB RAM · 256GB SSD",
-    "price": "R13 536",
+    "price": "R12 768",
     "handle": "hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
     "url": "https://ubratech.co.za/products/hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
-    "qty": 48,
+    "qty": 43,
     "image": "https://s3.amazonaws.com/tarsus.co.za/DF6L7ET%238GB_default.jpg"
    },
    {
@@ -24,16 +24,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/ZL.OTH11.051_default.png"
    },
    {
-    "brand": "Acer",
-    "title": "Acer Lite 15 R3 5400U 8 256 15.6\" FHD IPS SLIM BEZEL Windows 11 Home",
-    "spec": "15.6\" screen",
+    "brand": "Asus",
+    "title": "Asus VivoBook Go 15\" Intel N150 8GB 256GB Win 11 Home Notebook - Mixed Black",
+    "spec": "Intel N150 · 15\" screen · 8GB RAM",
     "price": "R9 065",
     "price_n": 9065,
-    "sku": "NX.DZAEA.002",
-    "handle": "acer-lite-15-r3-5400u-8-256-15-6-fhd-ips-slim-bezel-windows-11-home",
-    "url": "/products/acer-lite-15-r3-5400u-8-256-15-6-fhd-ips-slim-bezel-windows-11-home",
-    "qty": 11,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.DZAEA.002_default.png"
+    "sku": "E1504TA-N82B0W",
+    "handle": "asus-vivobook-go-15-intel-n150-8gb-256gb-win-11-home-notebook-mixed-black",
+    "url": "/products/asus-vivobook-go-15-intel-n150-8gb-256gb-win-11-home-notebook-mixed-black",
+    "qty": 149,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__42__340b.png"
    },
    {
     "brand": "Asus",
@@ -94,28 +94,28 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/X/1/X1504VAP_I382BL0W_a78d.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 15 15.6\" Core-i5 8GB 512GB Win 11 Pro Notebook",
+    "brand": "HP",
+    "title": "HP 250R G10 15.6\" Core-i5 8GB 512GB Win 11 Pro Silver Notebook",
     "spec": "Core i5 · 15.6\" screen · 8GB RAM",
-    "price": "R15 991",
-    "price_n": 15991,
-    "sku": "PV15250_RPLU_001_P8L",
-    "handle": "dell-pro-15-15-6-core-i5-8gb-512gb-win-11-pro-notebook",
-    "url": "/products/dell-pro-15-15-6-core-i5-8gb-512gb-win-11-pro-notebook",
-    "qty": 4,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/P/V/PV15250_RPLU_001_P8L_f32d.jpg"
+    "price": "R16 369",
+    "price_n": 16369,
+    "sku": "C78E7AT",
+    "handle": "hp-250r-g10-15-6-core-i5-8gb-512gb-win-11-pro-silver-notebook",
+    "url": "/products/hp-250r-g10-15-6-core-i5-8gb-512gb-win-11-pro-silver-notebook",
+    "qty": 99,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/7/C78E7AT_7923.jpg"
    },
    {
-    "brand": "Acer",
-    "title": "Acer EXO15 51 5183 Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.EMBEA.004)",
-    "spec": "Core Ultra 5 · 512GB SSD",
-    "price": "R19 013",
-    "price_n": 19013,
-    "sku": "NX.EMBEA.004",
-    "handle": "acer-exo15-51-5183-intel-core-ultra-5-processor-125u-15-6-fhd-ips-slimbezel-uma-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-53wh-battery-65w",
-    "url": "/products/acer-exo15-51-5183-intel-core-ultra-5-processor-125u-15-6-fhd-ips-slimbezel-uma-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-wi-fi6-bt-2x2-ax-bt-2m-full-hd-camera-53wh-battery-65w",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EMBEA.004_default.jpg"
+    "brand": "HP",
+    "title": "HP ProBook 4 G1iR 14' Core-5 16GB 512GB Win 11 Pro Notebook",
+    "spec": "Core 5 · 16GB RAM",
+    "price": "R19 190",
+    "price_n": 19190,
+    "sku": "C38KYAT",
+    "handle": "hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/hp-probook-4-g1ir-14-core-5-16gb-512gb-win-11-pro-notebook",
+    "qty": 13,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/C/3/C38KYAT_6615.jpg"
    },
    {
     "brand": "Asus",
@@ -144,16 +144,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell 14 Plus Laptop — Core Ultra 5 · 512GB SSD (DB04250_LNL_202_HOM)",
-    "spec": "Core Ultra 5 · 512GB SSD",
-    "price": "R29 604",
-    "price_n": 29604,
-    "sku": "DB04250_LNL_202_HOM",
-    "handle": "dell-14-plus-2in1-db04250-intel-core-ultra-5-226v-8m-cache-up-to-4-5-ghz-14-0-fhd-1920x1200-wide-view-antiglare-touch-300nits-16gb-8533mt-s-lpddr5x-512gb-ssd-pcie-nvme-m-2-graphics-intel-arch",
-    "url": "/products/dell-14-plus-2in1-db04250-intel-core-ultra-5-226v-8m-cache-up-to-4-5-ghz-14-0-fhd-1920x1200-wide-view-antiglare-touch-300nits-16gb-8533mt-s-lpddr5x-512gb-ssd-pcie-nvme-m-2-graphics-intel-arch",
-    "qty": 19,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/DB04250_LNL_202_HOM_default.png"
+    "brand": "HP",
+    "title": "HP Probook 4 G2a 16\" Ryzen-7-250 16GB 512GB Win 11 Pro Notebook",
+    "spec": "Ryzen 7 · 16\" screen · 16GB RAM",
+    "price": "R29 660",
+    "price_n": 29660,
+    "sku": "E40X3ET",
+    "handle": "hp-probook-4-g2a-16-ryzen-7-250-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/hp-probook-4-g2a-16-ryzen-7-250-16gb-512gb-win-11-pro-notebook",
+    "qty": 7,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__81__3cd2.png"
    },
    {
     "brand": "Dell",
@@ -207,15 +207,15 @@
    },
    {
     "brand": "Dell",
-    "title": "Dell XPS 14 DA14260 Series 3 Laptop — 32GB (XPS14DA14260-321TB-OLED)",
-    "spec": "Notebooks",
-    "price": "R76 268",
-    "price_n": 76268,
-    "sku": "XPS14DA14260-321TB-OLED",
-    "handle": "dell-xps-14-da14260-series-3-intel-core-ultra-x7-processor-358h-16-cores-18mb-cache-up-to-4-8-ghz-copilot-pc-intel-arc-graphics-32gb-lpddr5x-dual-channel-at-9600-mt-s-1tb-m-2-pcie-nvme-ssd-colour",
-    "url": "/products/dell-xps-14-da14260-series-3-intel-core-ultra-x7-processor-358h-16-cores-18mb-cache-up-to-4-8-ghz-copilot-pc-intel-arc-graphics-32gb-lpddr5x-dual-channel-at-9600-mt-s-1tb-m-2-pcie-nvme-ssd-colour",
-    "qty": 3,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/XPS14DA14260-321TB-OLED_default.jpg"
+    "title": "Dell Alienware 16 Aurora 16\" RTX 5060 Core-7 32GB 1TB Win 11 Pro Notebook",
+    "spec": "Core 7 · 16\" screen · 32GB RAM",
+    "price": "R64 627",
+    "price_n": 64627,
+    "sku": "AC16250_RPLH-R_010",
+    "handle": "dell-alienware-16-aurora-16-rtx-5060-core-7-32gb-1tb-win-11-pro-notebook",
+    "url": "/products/dell-alienware-16-aurora-16-rtx-5060-core-7-32gb-1tb-win-11-pro-notebook",
+    "qty": 9,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/C/AC16250_RPLH_R_010_7f52.jpg"
    },
    {
     "brand": "Dell",
@@ -619,7 +619,7 @@
     "price": "R2 265",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 48,
+    "qty": 45,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -662,16 +662,16 @@
   ],
   "creative": [
    {
-    "brand": "Asus",
-    "title": "Asus ProArt Display PA248CNV 24.1\" WUXGA IPS 75Hz Monitor",
-    "spec": "24.1\" screen",
-    "price": "R7 462",
-    "price_n": 7462,
-    "sku": "PA248CNV",
-    "handle": "asus-proart-display-pa248cnv-24-1-wuxga-ips-75hz-monitor",
-    "url": "/products/asus-proart-display-pa248cnv-24-1-wuxga-ips-75hz-monitor",
-    "qty": 17,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/PA248CNV_Asus-ProArt-Display-PA248CNV-24.1-inch-WUXGA-IPS-75Hz-Monitor-Black_wr_01.jpg"
+    "brand": "Dell",
+    "title": "Dell Pro 27 Plus QHD USB-C Hub Monitor - P2725DE, 68.6cm (27.0\")",
+    "spec": "27.0\" screen",
+    "price": "R7 244",
+    "price_n": 7244,
+    "sku": "210-BQSZ",
+    "handle": "dell-pro-27-plus-qhd-usb-c-hub-monitor-p2725de-68-6cm-27-0",
+    "url": "/products/dell-pro-27-plus-qhd-usb-c-hub-monitor-p2725de-68-6cm-27-0",
+    "qty": 6,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/210-BQSZ_default.jpg"
    },
    {
     "brand": "Asus",
@@ -686,16 +686,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PA278CGRV_Asus_ProArt_27_QHD_1440p_IPS_144Hz_Monit_wr_01.png"
    },
    {
-    "brand": "Asus",
-    "title": "Asus ROG Strix 27\" QHD OLED 280Hz Gaming Monitor",
+    "brand": "Dell",
+    "title": "Dell P2722HE 27\" FHD IPS Monitor",
     "spec": "27\" screen",
-    "price": "R19 826",
-    "price_n": 19826,
-    "sku": "XG27ACDMS",
-    "handle": "asus-rog-strix-27-qhd-oled-280hz-gaming-monitor",
-    "url": "/products/asus-rog-strix-27-qhd-oled-280hz-gaming-monitor",
-    "qty": 5,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1_d81d.png"
+    "price": "R17 762",
+    "price_n": 17762,
+    "sku": "210-BMDW",
+    "handle": "dell-p2722he-27-fhd-ips-monitor",
+    "url": "/products/dell-p2722he-27-fhd-ips-monitor",
+    "qty": 21,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BMDW_1_c0eb.png"
    },
    {
     "brand": "Asus",
@@ -718,7 +718,7 @@
     "price": "R2 112",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 11,
+    "qty": 7,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg",
     "sku": "210-BVCB"
    },
@@ -801,7 +801,7 @@
     "price": "R2 265",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 48,
+    "qty": 45,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -830,16 +830,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/B/0/B0CG8AS_da71.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell 24 Plus S2425HSM 23.8\" FHD 1ms IPS Monitor",
-    "spec": "23.8\" screen",
-    "price": "R3 424",
-    "price_n": 3424,
-    "sku": "210-BSZD",
-    "handle": "dell-24-plus-s2425hsm-23-8-fhd-1ms-ips-monitor",
-    "url": "/products/dell-24-plus-s2425hsm-23-8-fhd-1ms-ips-monitor",
-    "qty": 99,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BSZD_165e.jpg"
+    "brand": "Xiaomi",
+    "title": "Xiaomi A27Qi 2026 27\" inch 120Hz 2K IPS Office Monitor",
+    "spec": "27\" screen",
+    "price": "R3 449",
+    "price_n": 3449,
+    "sku": "ELA6568EU",
+    "handle": "xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
+    "url": "/products/xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
+    "qty": 112,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6568EU_Xiaomi-A27Qi-2026-27-inch-2K-120Hz-IPS-Office-Monitor_wr_01a.jpg"
    },
    {
     "brand": "Asus",
@@ -1585,7 +1585,7 @@
     "sku": "DOCK430EUZ",
     "handle": "targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
     "url": "/products/targus-usb-c-multi-function-displayport-alt-triple-video-with-85w-power-supports-single-4k-or-dual-2k-video-via-two-displayport-1-4-and-one-hdmi-2-0-monitor-port-1-usb-c-3-2-gen2-port-10gbps-1-usb-3",
-    "qty": 33,
+    "qty": 31,
     "image": "https://s3.amazonaws.com/tarsus.co.za/DOCK430EUZ_default.jpg"
    },
    {
@@ -1710,7 +1710,7 @@
     "sku": "981-001407",
     "handle": "logitech-headset-zone-300-black-bt-n-a-emea28i-935-dual-noise-cancelling-mics-20-hour-battery-multi-device-support",
     "url": "/products/logitech-headset-zone-300-black-bt-n-a-emea28i-935-dual-noise-cancelling-mics-20-hour-battery-multi-device-support",
-    "qty": 16,
+    "qty": 15,
     "image": "https://s3.amazonaws.com/tarsus.co.za/981-001407_default.png"
    },
    {
@@ -2263,8 +2263,8 @@
     "brand": "HP",
     "title": "Poly Sync 60 Microsoft Teams Certified Speakerphone",
     "spec": "Headsets",
-    "price": "R9 267",
-    "price_n": 9267,
+    "price": "R9 153",
+    "price_n": 9153,
     "sku": "77P41AA",
     "handle": "poly-sync-60-microsoft-teams-certified-speakerphone",
     "url": "/products/poly-sync-60-microsoft-teams-certified-speakerphone",
@@ -2320,16 +2320,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/90-BXG2T0-A0XCR3W_wr_01.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP Wired 320MK combo",
-    "spec": "Accessories",
+    "brand": "Port",
+    "title": "Port 45W Universal AC Adapter (900096B-EU)",
+    "spec": "Cables And Adapters",
     "price": "R414",
     "price_n": 414,
-    "sku": "9SR36UT",
-    "handle": "hp-wired-320mk-combo",
-    "url": "/products/hp-wired-320mk-combo",
-    "qty": 7,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/9SR36UT_default.png"
+    "sku": "900096B-EU",
+    "handle": "port-45w-universal-ac-adapter-900096b-eu",
+    "url": "/products/port-45w-universal-ac-adapter-900096b-eu",
+    "qty": 90,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__2__35ed.png"
    },
    {
     "brand": "HP",
@@ -2381,16 +2381,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B5AA_da01.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Premier Rechargeable Wireless Mouse - MS7421W",
+    "brand": "Targus",
+    "title": "Targus Midsize Antimicrobial Wireless Keyboard and Mouse Combo Black",
     "spec": "Wired Mouse",
-    "price": "R747",
-    "price_n": 747,
-    "sku": "570-ABLO",
-    "handle": "dell-premier-rechargeable-wireless-mouse-ms7421w",
-    "url": "/products/dell-premier-rechargeable-wireless-mouse-ms7421w",
-    "qty": 8,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/570-ABLO_default.jpg"
+    "price": "R743",
+    "price_n": 743,
+    "sku": "AKM619AMUSZ",
+    "handle": "targus-midsize-antimicrobial-wireless-keyboard-and-mouse-combo-black",
+    "url": "/products/targus-midsize-antimicrobial-wireless-keyboard-and-mouse-combo-black",
+    "qty": 99,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/AKM619AMUSZ_default.jpg"
    },
    {
     "brand": "Keychron",
@@ -3129,6 +3129,6 @@
    "total": "R8 772"
   }
  ],
- "generated": "2026-11-27T11:01:19Z",
+ "generated": "2026-11-27T12:01:22Z",
  "v": 3
 }
