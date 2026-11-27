@@ -90,7 +90,7 @@
     "sku": "X1504VAP-I58512BL4W",
     "handle": "asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
     "url": "/products/asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
-    "qty": 118,
+    "qty": 19,
     "image": "https://www.pinnacle.co.za/media/catalog/product/X/1/X1504VAP_I382BL0W_a78d.jpg"
    },
    {
@@ -102,7 +102,7 @@
     "sku": "PV15250_RPLU_001_P8L",
     "handle": "dell-pro-15-15-6-core-i5-8gb-512gb-win-11-pro-notebook",
     "url": "/products/dell-pro-15-15-6-core-i5-8gb-512gb-win-11-pro-notebook",
-    "qty": 54,
+    "qty": 9,
     "image": "https://www.pinnacle.co.za/media/catalog/product/P/V/PV15250_RPLU_001_P8L_f32d.jpg"
    },
    {
@@ -2370,15 +2370,15 @@
    },
    {
     "brand": "HP",
-    "title": "HP 400 Quiet Wireless Maple Mouse",
+    "title": "HP 400 Quiet Wireless Pink Mouse",
     "spec": "Wired Mouse",
-    "price": "R368",
-    "price_n": 368,
-    "sku": "AZ7B6AA",
-    "handle": "hp-400-quiet-wireless-maple-mouse",
-    "url": "/products/hp-400-quiet-wireless-maple-mouse",
-    "qty": 5,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B6AA_e2c9.jpg"
+    "price": "R367",
+    "price_n": 367,
+    "sku": "AZ7B5AA",
+    "handle": "hp-400-quiet-wireless-pink-mouse",
+    "url": "/products/hp-400-quiet-wireless-pink-mouse",
+    "qty": 97,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B5AA_da01.jpg"
    },
    {
     "brand": "Dell",
@@ -2453,7 +2453,7 @@
     "sku": "DS-2CD2641G0-LIZSU-2.8MM-12MM",
     "handle": "hikvision-4mp-varifocal-bullet-ip-camera",
     "url": "/products/hikvision-4mp-varifocal-bullet-ip-camera",
-    "qty": 88,
+    "qty": 87,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2641G0_LIZSU_2.8MM_12MM__0a67.png"
    }
   ],
@@ -3129,6 +3129,6 @@
    "total": "R8 772"
   }
  ],
- "generated": "2026-11-27T08:01:46Z",
+ "generated": "2026-11-27T09:01:52Z",
  "v": 3
 }
