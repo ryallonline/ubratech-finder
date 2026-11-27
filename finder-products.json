@@ -1616,27 +1616,27 @@
   "legacy": [
    {
     "brand": "Ugreen",
-    "title": "UGREEN 4-in-1 USB 3.0 Hub - High-Speed 5Gbps Data Transfer - Grey",
-    "spec": "Docking Station",
-    "price": "R120",
-    "price_n": 120,
-    "sku": "CM219-25851",
-    "handle": "ugreen-4-in-1-usb-3-0-hub-high-speed-5gbps-data-transfer-grey",
-    "url": "/products/ugreen-4-in-1-usb-3-0-hub-high-speed-5gbps-data-transfer-grey",
-    "qty": 3,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CM219-25851-WR-01.jpg"
+    "title": "UGREEN 4-Port USB 3.0 Hub · 5Gbps Data Transfer - 0.5m",
+    "spec": "4 ports",
+    "price": "R166",
+    "price_n": 166,
+    "sku": "CR113-20290",
+    "handle": "ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
+    "url": "/products/ugreen-4-port-usb-3-0-hub-5gbps-data-transfer-0-5m",
+    "qty": 57,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CR113-20290_UGREEN-4-Port-USB-3.0-Hub-with-Micro-USB_wr_01a.jpg"
    },
    {
     "brand": "Ugreen",
-    "title": "UGREEN 4-Port USB 3.0 Hub with Micro USB · 5Gbps Data Transfer - 1m",
-    "spec": "4 ports",
-    "price": "R174",
-    "price_n": 174,
-    "sku": "CR113-20291",
-    "handle": "ugreen-4-port-usb-3-0-hub-with-micro-usb-5gbps-data-transfer-1m",
-    "url": "/products/ugreen-4-port-usb-3-0-hub-with-micro-usb-5gbps-data-transfer-1m",
-    "qty": 156,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/CR113-20291_UGREEN-4-Port-USB-3.0-Hub-with-Micro-USB-5Gbps-Data-Transfer-%E2%80%93-1m_wr_01.jpg"
+    "title": "UGREEN 4-in-1 Type-C Hub · USB 3.0",
+    "spec": "Docking Station",
+    "price": "R198",
+    "price_n": 198,
+    "sku": "CM219-70336",
+    "handle": "ugreen-4-in-1-type-c-hub-usb-3-0-type-c",
+    "url": "/products/ugreen-4-in-1-type-c-hub-usb-3-0-type-c",
+    "qty": 223,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/cm219-70336-wr-01a.jpg"
    },
    {
     "brand": "Port",
@@ -1754,27 +1754,27 @@
    },
    {
     "brand": "TP-Link",
-    "title": "TP-Link 8 Port Gigabit Desktop Switch",
-    "spec": "8 ports",
-    "price": "R359",
-    "price_n": 359,
-    "sku": "TL-SG1008D",
-    "handle": "tp-link-8-port-gigabit-desktop-switch",
-    "url": "/products/tp-link-8-port-gigabit-desktop-switch",
-    "qty": 4,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008D_a815.png"
+    "title": "TP-Link 5 Port Gigabit Smart Switch",
+    "spec": "5 ports",
+    "price": "R326",
+    "price_n": 326,
+    "sku": "TL-SG105E",
+    "handle": "tp-link-5-port-gigabit-smart-switch",
+    "url": "/products/tp-link-5-port-gigabit-smart-switch",
+    "qty": 3,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG105E_ef37.jpg"
    },
    {
-    "brand": "Hikvision",
-    "title": "Hikvision 4 Port Gigabit Smart Managed Industrial Solar PoE Switch",
-    "spec": "4 ports",
-    "price": "R2 426",
-    "price_n": 2426,
-    "sku": "DS-3T1506HP-EI-UPS",
-    "handle": "hikvision-4-port-gigabit-smart-managed-industrial-solar-poe-switch",
-    "url": "/products/hikvision-4-port-gigabit-smart-managed-industrial-solar-poe-switch",
-    "qty": 7,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__1__0e1c.png"
+    "brand": "Huawei",
+    "title": "Huawei S310 24P4S 24-Ports POE Switch",
+    "spec": "Networking And Wireless",
+    "price": "R3 776",
+    "price_n": 3776,
+    "sku": "98012201",
+    "handle": "huawei-s310-24p4s-24-ports-poe-switch",
+    "url": "/products/huawei-s310-24p4s-24-ports-poe-switch",
+    "qty": 169,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/h/u/huawei_switch_s310_24p4s_24ge_ports_4ge_sfp_ports_poe_ac_power_98012201_380436__c994.png"
    },
    {
     "brand": "Huawei",
@@ -1946,16 +1946,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/HSC308S16Z1-8G_wr_-2.jpg"
    },
    {
-    "brand": "Patriot",
-    "title": "Patriot Vipersteel 16GB 3600MHz DDR4 Desktop Gaming Memory RGB",
+    "brand": "Hiksemi",
+    "title": "Hiksemi Hiker 8GB DDR5 4800MHz Desktop Memory",
     "spec": "Memory",
-    "price": "R2 769",
-    "price_n": 2769,
-    "sku": "PVSR416G360C0",
-    "handle": "patriot-vipersteel-16gb-3600mhz-ddr4-desktop-gaming-memory-rgb",
-    "url": "/products/patriot-vipersteel-16gb-3600mhz-ddr4-desktop-gaming-memory-rgb",
-    "qty": 104,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/PVSR416G360C0_wr_-3.jpg"
+    "price": "R2 797",
+    "price_n": 2797,
+    "sku": "HSC508U48Z1-8G",
+    "handle": "hiksemi-hiker-8gb-ddr5-4800mhz-desktop-memory",
+    "url": "/products/hiksemi-hiker-8gb-ddr5-4800mhz-desktop-memory",
+    "qty": 182,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/HSC508U48Z1-8G_Hiksemi-Hiker-8GB-DDR5-4800MHz-Desktop-Memory_wr_01a.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -1985,50 +1985,27 @@
   "graphics": [
    {
     "brand": "Asus",
-    "title": "Asus TUF Gaming RTX 5070 12GB GDDR7 OC",
-    "spec": "Desktop PCIe · high-detail gaming",
-    "price": "R21 031",
-    "handle": "asus-tuf-gaming-geforce-rtx-5070-12gb-gddr7-oc-edition",
-    "url": "https://ubratech.co.za/products/asus-tuf-gaming-geforce-rtx-5070-12gb-gddr7-oc-edition",
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/TUF-RTX5070-O12G-GAMING-wr-01.jpg",
-    "qty": 5,
-    "sku": "TUF-RTX5070-O12G-GAMING"
-   },
-   {
-    "brand": "MSI",
-    "title": "MSI Nvidia GeForce GT 710 2GD3H 2GB 64-BIT 4x HDMI Graphics Card",
+    "title": "ASUS Dual GeForce RTX 5060 Ti OC Edition 16GB GDDR7 Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R1 347",
-    "price_n": 1347,
-    "sku": "GT7102GD3H4HDMI",
-    "handle": "msi-nvidia-geforce-gt-710-2gd3h-2gb-64-bit-4x-hdmi-graphics-card",
-    "url": "/products/msi-nvidia-geforce-gt-710-2gd3h-2gb-64-bit-4x-hdmi-graphics-card",
-    "qty": 202,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/09/GT7102GD3H4HDMI_wr_01.jpg"
+    "price": "R20 012",
+    "price_n": 20012,
+    "sku": "DUAL-RTX5060TI-O16G",
+    "handle": "asus-dual-geforce-rtx-5060-ti-oc-edition-16gb-gddr7-graphics-card",
+    "url": "/products/asus-dual-geforce-rtx-5060-ti-oc-edition-16gb-gddr7-graphics-card",
+    "qty": 21,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/04/DUAL-RTX5060TI-O16G-WR-01.jpg"
    },
    {
     "brand": "Asus",
-    "title": "ASUS Dual GeForce RTX 5060 OC Edition 8GB GDDR7 Graphics Card",
+    "title": "ASUS UGen Intel Arc Pro B70 32GB GDDR6 Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R12 565",
-    "price_n": 12565,
-    "sku": "DUAL-RTX5060-O8G",
-    "handle": "asus-dual-geforce-rtx-5060-oc-edition-8gb-gddr7-graphics-card",
-    "url": "/products/asus-dual-geforce-rtx-5060-oc-edition-8gb-gddr7-graphics-card",
-    "qty": 6,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/04/DUAL-RTX5060-O8G-WR-01-1.jpg"
-   },
-   {
-    "brand": "ASRock",
-    "title": "ASRock Radeon RX9070 XT Steel Legend Dark 16GB Graphics Card",
-    "spec": "Graphics Cards",
-    "price": "R27 643",
-    "price_n": 27643,
-    "sku": "RX9070XTSTEELLEGENDDARK16",
-    "handle": "asrock-radeon-rx9070-xt-steel-legend-dark-16gb-graphics-card",
-    "url": "/products/asrock-radeon-rx9070-xt-steel-legend-dark-16gb-graphics-card",
-    "qty": 28,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/RX9070XTSTEELLEGENDDARK16_ASROCK-RADEON-RX9070-XT-STEEL-LEGEND-DAR_wr_01.jpg"
+    "price": "R38 163",
+    "price_n": 38163,
+    "sku": "UGEN-ARC-PRO-B70-32G",
+    "handle": "asus-ugen-intel-arc-pro-b70-32gb-gddr6-graphics-card",
+    "url": "/products/asus-ugen-intel-arc-pro-b70-32gb-gddr6-graphics-card",
+    "qty": 7,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/11/UGEN-ARC-PRO-B70-32G_ASUS-UGen-Intel-Arc-Pro-B70-32GB-GDDR6-Graphics-Card_wr_0.jpg"
    },
    {
     "brand": "Asus",
@@ -2308,28 +2285,28 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "Ugreen",
-    "title": "UGREEN NW102 Cat6 U/UTP Flat Ethernet Cable 15m - Black",
-    "spec": "Cables And Adapters",
+    "brand": "ASRock",
+    "title": "ASRock DESKMINI Vesa Mount Kit",
+    "spec": "Accessories",
     "price": "R127",
     "price_n": 127,
-    "sku": "NW102-50180",
-    "handle": "ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
-    "url": "/products/ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
-    "qty": 23,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/NW102-50172-wr-01.jpg"
+    "sku": "90-BXG2T0-A0XCR3W",
+    "handle": "asrock-deskmini-vesa-mount-kit",
+    "url": "/products/asrock-deskmini-vesa-mount-kit",
+    "qty": 5,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/90-BXG2T0-A0XCR3W_wr_01.jpg"
    },
    {
-    "brand": "Redragon",
-    "title": "Redragon HARROW Wireless X/D-input(Digital/Analog) PC Controller - Black",
-    "spec": "Accessories",
-    "price": "R414",
-    "price_n": 414,
-    "sku": "RD-G808",
-    "handle": "redragon-harrow-wireless-x-d-input-digital-analog-pc-controller-black",
-    "url": "/products/redragon-harrow-wireless-x-d-input-digital-analog-pc-controller-black",
-    "qty": 147,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2018/03/Redragon_RD-G808_wr_01b.jpg"
+    "brand": "Winx",
+    "title": "WINX POWER Max 65W GaN Wall Charger",
+    "spec": "Power Adapter",
+    "price": "R412",
+    "price_n": 412,
+    "sku": "WX-WC108",
+    "handle": "winx-power-max-65w-gan-wall-charger",
+    "url": "/products/winx-power-max-65w-gan-wall-charger",
+    "qty": 225,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/05/WX-WC108_WINX-POWER-Max-65W-GaN-Wall-Charger-Black_wr_01.jpg"
    },
    {
     "brand": "HP",
@@ -3129,6 +3106,6 @@
    "total": "R8 772"
   }
  ],
- "generated": "2026-11-27T14:01:37Z",
+ "generated": "2026-11-27T15:01:29Z",
  "v": 3
 }
