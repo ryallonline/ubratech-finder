@@ -8,7 +8,7 @@
     "price": "R12 768",
     "handle": "hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
     "url": "https://ubratech.co.za/products/hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
-    "qty": 43,
+    "qty": 42,
     "image": "https://s3.amazonaws.com/tarsus.co.za/DF6L7ET%238GB_default.jpg"
    },
    {
@@ -44,7 +44,7 @@
     "sku": "X1504VAP-I382BL0W",
     "handle": "asus-vivobook-15-x1504vap-15-6-core-3-100u-8gb-256gb-win-11-home-notebook-quiet-blue",
     "url": "/products/asus-vivobook-15-x1504vap-15-6-core-3-100u-8gb-256gb-win-11-home-notebook-quiet-blue",
-    "qty": 674,
+    "qty": 672,
     "image": "https://www.pinnacle.co.za/media/catalog/product/X/1/X1504VAP_I382BL0W_2231.jpg"
    },
    {
@@ -94,16 +94,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/X/1/X1504VAP_I382BL0W_a78d.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP 250R G10 15.6\" Core-i5 8GB 512GB Win 11 Pro Silver Notebook",
-    "spec": "Core i5 · 15.6\" screen · 8GB RAM",
-    "price": "R16 369",
-    "price_n": 16369,
-    "sku": "C78E7AT",
-    "handle": "hp-250r-g10-15-6-core-i5-8gb-512gb-win-11-pro-silver-notebook",
-    "url": "/products/hp-250r-g10-15-6-core-i5-8gb-512gb-win-11-pro-silver-notebook",
-    "qty": 99,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/C/7/C78E7AT_7923.jpg"
+    "brand": "Acer",
+    "title": "Acer EXO16 51 53W7 Laptop — Core Ultra 5 · 16GB · 512GB SSD (NX.EM3EA.004)",
+    "spec": "Core Ultra 5 · 512GB SSD",
+    "price": "R16 747",
+    "price_n": 16747,
+    "sku": "NX.EM3EA.004",
+    "handle": "acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
+    "url": "/products/acer-exo16-51-53w7-intel-core-ultra-5-processor-115u-16-wuxga-ips-uma-no-external-video-memory-16gb-lpddr5-memory-512gb-pcie-nvme-ssd-n-wifi6-bt-2x2-ax-bt-n-2m-full-hd-camera-53wh-battery-65w-typec",
+    "qty": 24,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/NX.EM3EA.004_default.jpg"
    },
    {
     "brand": "HP",
@@ -140,7 +140,7 @@
     "sku": "PV15250_RPLU_002_M_HOM",
     "handle": "dell-pro-15-essential-pv15250-i7-1355u-intel-rpl-p-u15-i7-8-layer-pcb-15-6-non-touch-fhd-120hz-wva-ips-anti-glare-250-nit-16gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-fingerprint",
     "url": "/products/dell-pro-15-essential-pv15250-i7-1355u-intel-rpl-p-u15-i7-8-layer-pcb-15-6-non-touch-fhd-120hz-wva-ips-anti-glare-250-nit-16gb-ddr5-4400-mt-s-512-gb-m-2-pcie-nvme-ssd-intel-uhd-graphics-fingerprint",
-    "qty": 37,
+    "qty": 33,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
@@ -156,16 +156,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__81__3cd2.png"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Pro 16 Plus Laptop — Core Ultra 7 · 16GB (BTO211_PB16250_EMEA)",
-    "spec": "Core Ultra 7",
-    "price": "R42 433",
-    "price_n": 42433,
-    "sku": "BTO211_PB16250_EMEA",
-    "handle": "dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-dual-channel-onboard-512gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro",
-    "url": "/products/dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-dual-channel-onboard-512gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro",
-    "qty": 72,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO211_PB16250_EMEA_default.png"
+    "brand": "HP",
+    "title": "HP Elitebook 8 G2i 14\" Core-i5 16GB 512GB Win 11 Pro Notebook",
+    "spec": "Core i5 · 14\" screen · 16GB RAM",
+    "price": "R42 371",
+    "price_n": 42371,
+    "sku": "DS9B9ET",
+    "handle": "hp-elitebook-8-g2i-14-core-i5-16gb-512gb-win-11-pro-notebook",
+    "url": "/products/hp-elitebook-8-g2i-14-core-i5-16gb-512gb-win-11-pro-notebook",
+    "qty": 4,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__79__7ec4.png"
    },
    {
     "brand": "Lenovo",
@@ -202,7 +202,7 @@
     "sku": "UX3405CA-OU91610BL1X",
     "handle": "asus-zenbook-14-ux3405ca-14-3k-oled-120hz-core-u9-285h-16gb-1tb-win-11-pro-notebook",
     "url": "/products/asus-zenbook-14-ux3405ca-14-3k-oled-120hz-core-u9-285h-16gb-1tb-win-11-pro-notebook",
-    "qty": 50,
+    "qty": 49,
     "image": "https://www.pinnacle.co.za/media/catalog/product/Z/e/Zenbook_14_UX3405CA_Product_photo_3B_Ponder_Blue_03_62bf.jpg"
    },
    {
@@ -619,7 +619,7 @@
     "price": "R2 265",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 45,
+    "qty": 44,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -753,7 +753,7 @@
     "sku": "LS24HG314EAXXA",
     "handle": "samsung-value-g3-flat-24in-monitor-144hz-3y-warranty",
     "url": "/products/samsung-value-g3-flat-24in-monitor-144hz-3y-warranty",
-    "qty": 84,
+    "qty": 69,
     "image": "https://s3.amazonaws.com/tarsus.co.za/LS24HG314EAXXA_default.png"
    },
    {
@@ -801,7 +801,7 @@
     "price": "R2 265",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 45,
+    "qty": 44,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -967,7 +967,7 @@
     "sku": "5E1200UI",
     "handle": "eaton-5e-1200va-gen2-ups",
     "url": "/products/eaton-5e-1200va-gen2-ups",
-    "qty": 35,
+    "qty": 34,
     "image": "https://www.pinnacle.co.za/media/catalog/product/5/E/5E1200UI_66a3.png"
    },
    {
@@ -2320,16 +2320,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/NW102-50172-wr-01.jpg"
    },
    {
-    "brand": "Port",
-    "title": "Port 45W Universal AC Adapter (900096B-EU)",
-    "spec": "Cables And Adapters",
+    "brand": "Redragon",
+    "title": "Redragon HARROW Wireless X/D-input(Digital/Analog) PC Controller - Black",
+    "spec": "Accessories",
     "price": "R414",
     "price_n": 414,
-    "sku": "900096B-EU",
-    "handle": "port-45w-universal-ac-adapter-900096b-eu",
-    "url": "/products/port-45w-universal-ac-adapter-900096b-eu",
-    "qty": 90,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_design__2__35ed.png"
+    "sku": "RD-G808",
+    "handle": "redragon-harrow-wireless-x-d-input-digital-analog-pc-controller-black",
+    "url": "/products/redragon-harrow-wireless-x-d-input-digital-analog-pc-controller-black",
+    "qty": 147,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2018/03/Redragon_RD-G808_wr_01b.jpg"
    },
    {
     "brand": "HP",
@@ -2453,7 +2453,7 @@
     "sku": "DS-2CD2641G0-LIZSU-2.8MM-12MM",
     "handle": "hikvision-4mp-varifocal-bullet-ip-camera",
     "url": "/products/hikvision-4mp-varifocal-bullet-ip-camera",
-    "qty": 87,
+    "qty": 73,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2641G0_LIZSU_2.8MM_12MM__0a67.png"
    }
   ],
@@ -2553,7 +2553,7 @@
     "sku": "DS-2SE4C425MWG-E_14F0",
     "handle": "hikvision-4-4mp-25x-colorvu-ir-network-speed-dome",
     "url": "/products/hikvision-4-4mp-25x-colorvu-ir-network-speed-dome",
-    "qty": 382,
+    "qty": 357,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2SE4C425MWG_E_14F0_09e8.png"
    }
   ],
@@ -3129,6 +3129,6 @@
    "total": "R8 772"
   }
  ],
- "generated": "2026-11-27T13:01:39Z",
+ "generated": "2026-11-27T14:01:37Z",
  "v": 3
 }
