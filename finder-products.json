@@ -259,8 +259,8 @@
     "brand": "Giada",
     "title": "Giada VM27 with N6210 4G DDR4 on board, 64G EMMC on board",
     "spec": "Desktops",
-    "price": "R7 666",
-    "price_n": 7666,
+    "price": "R7 664",
+    "price_n": 7664,
     "sku": "VM27-N621042E6G-GIA",
     "handle": "giada-vm27-with-n6210-4g-ddr4-on-board-64g-emmc-on-board",
     "url": "/products/giada-vm27-with-n6210-4g-ddr4-on-board-64g-emmc-on-board",
@@ -1167,7 +1167,7 @@
     "sku": "WR11000",
     "handle": "cudy-be11000-wi-fi7-gigabit-mesh-router",
     "url": "/products/cudy-be11000-wi-fi7-gigabit-mesh-router",
-    "qty": 47,
+    "qty": 45,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/WR11000_Cudy-BE11000-Wi-Fi7-Gigabit-Mesh-Router_wr_01.jpg"
    },
    {
@@ -1686,7 +1686,7 @@
     "sku": "WX-HS105",
     "handle": "winx-call-clear-3-5mm-headset",
     "url": "/products/winx-call-clear-3-5mm-headset",
-    "qty": 206,
+    "qty": 201,
     "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-HS105_wr_01.jpg"
    },
    {
@@ -1897,16 +1897,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/M461M2NVME500GB_MSI_M641_500GB_M2_2280_NVMe_SSD_wr_01.png"
    },
    {
-    "brand": "Proline",
-    "title": "Proline KINGSTON 1000G NV3 M.2 PCIe 4.0 NVMe SSD",
-    "spec": "Storage",
-    "price": "R5 344",
-    "price_n": 5344,
-    "sku": "SNV3SM3-1T0",
-    "handle": "proline-kingston-1000g-nv3-m-2-pcie-4-0-nvme-ssd",
-    "url": "/products/proline-kingston-1000g-nv3-m-2-pcie-4-0-nvme-ssd",
-    "qty": 13,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/SNV3SM3/1T0_default.jpg"
+    "brand": "Hiksemi",
+    "title": "Hiksemi City Series E100 2TB 2.5\" SATAIII SSD",
+    "spec": "2.5\" screen",
+    "price": "R6 194",
+    "price_n": 6194,
+    "sku": "HS-SSD-E100-2048G",
+    "handle": "hiksemi-city-series-e100-2tb-2-5-sataiii-ssd",
+    "url": "/products/hiksemi-city-series-e100-2tb-2-5-sataiii-ssd",
+    "qty": 3,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/HS-SSD-E100-2048G_Hiksemi-E100-City-Series-2TB-2.5%E2%80%B3-SATAIII-SSD_wr_01.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -1987,7 +1987,7 @@
     "brand": "Asus",
     "title": "Asus TUF Gaming RTX 5070 12GB GDDR7 OC",
     "spec": "Desktop PCIe · high-detail gaming",
-    "price": "R21 037",
+    "price": "R21 031",
     "handle": "asus-tuf-gaming-geforce-rtx-5070-12gb-gddr7-oc-edition",
     "url": "https://ubratech.co.za/products/asus-tuf-gaming-geforce-rtx-5070-12gb-gddr7-oc-edition",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/TUF-RTX5070-O12G-GAMING-wr-01.jpg",
@@ -2022,8 +2022,8 @@
     "brand": "ASRock",
     "title": "ASRock Radeon RX9070 XT Steel Legend Dark 16GB Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R27 641",
-    "price_n": 27641,
+    "price": "R27 643",
+    "price_n": 27643,
     "sku": "RX9070XTSTEELLEGENDDARK16",
     "handle": "asrock-radeon-rx9070-xt-steel-legend-dark-16gb-graphics-card",
     "url": "/products/asrock-radeon-rx9070-xt-steel-legend-dark-16gb-graphics-card",
@@ -2032,15 +2032,15 @@
    },
    {
     "brand": "Asus",
-    "title": "Asus TUF Gaming GeForce RTX 5080 16GB GDDR7 OC Edition",
+    "title": "ASUS TURBO Radeon AI PRO R9700 32GB GDDR6 Graphics Card",
     "spec": "Graphics Cards",
-    "price": "R46 536",
-    "price_n": 46536,
-    "sku": "TUF-RTX5080-O16G-GAMING",
-    "handle": "asus-tuf-gaming-geforce-rtx-5080-16gb-gddr7-oc-edition",
-    "url": "/products/asus-tuf-gaming-geforce-rtx-5080-16gb-gddr7-oc-edition",
-    "qty": 6,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/TUF-RTX5080-O16G-GAMING-wr-01.jpg"
+    "price": "R46 538",
+    "price_n": 46538,
+    "sku": "TURBO-AI-PRO-R9700-32G",
+    "handle": "asus-turbo-radeon-ai-pro-r9700-32gb-gddr6-graphics-card",
+    "url": "/products/asus-turbo-radeon-ai-pro-r9700-32gb-gddr6-graphics-card",
+    "qty": 5,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/TURBO-AI-PRO-R9700-32G_ASUS-TURBO-Radeon-AI-PRO-R9700-32GB-GDDR6-Graphics-Card_wr_01.jpg"
    }
   ],
   "power": [
@@ -2052,7 +2052,7 @@
     "handle": "asus-prime-750w-80-plus-bronze-atx-non-modular-power-supply",
     "url": "https://ubratech.co.za/products/asus-prime-750w-80-plus-bronze-atx-non-modular-power-supply",
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/PRIME-750B-BLACK_Asus-PRIME-750W-80-PLUS-Bronze-ATX-Non-modular-Power-Supply_wr_01a.jpg",
-    "qty": 64,
+    "qty": 63,
     "sku": "PRIME-750B-BLACK"
    },
    {
@@ -2090,23 +2090,23 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/ATOM-V650_wr_05.jpg"
    },
    {
-    "brand": "FSP",
-    "title": "FSP VITA BD 850W 80PLUS Bronze ATX3.1 Non-modular Power Supply",
+    "brand": "Asus",
+    "title": "ASUS Prime 850W 80PLUS Gold Black Edition PCIe 5.0 Modular Power Supply",
     "spec": "Power Supplies",
-    "price": "R1 585",
-    "price_n": 1585,
-    "sku": "VITA-850BD",
-    "handle": "fsp-vita-bd-850w-80plus-bronze-atx3-1-non-modular-power-supply",
-    "url": "/products/fsp-vita-bd-850w-80plus-bronze-atx3-1-non-modular-power-supply",
-    "qty": 7,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/VITA-850BD_FSP-VITA-BD-850W-80PLUS-Bronze-ATX3.1-Non-modular-Power-Supply_wr_01.jpg"
+    "price": "R1 857",
+    "price_n": 1857,
+    "sku": "PRIME-850G",
+    "handle": "asus-prime-850w-80plus-gold-black-edition-pcie-5-0-modular-power-supply",
+    "url": "/products/asus-prime-850w-80plus-gold-black-edition-pcie-5-0-modular-power-supply",
+    "qty": 56,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PRIME-850G_ASUS_Prime_850W_80PLUS_Gold_Black_Editio_wr_01.png"
    },
    {
     "brand": "Asus",
     "title": "ASUS TUF Gaming 1200W Gold PSU",
     "spec": "Power Supplies",
-    "price": "R3 536",
-    "price_n": 3536,
+    "price": "R3 537",
+    "price_n": 3537,
     "sku": "TUF-GAMING-1200G",
     "handle": "asus-tuf-gaming-1200w-gold-psu",
     "url": "/products/asus-tuf-gaming-1200w-gold-psu",
@@ -2209,7 +2209,7 @@
     "handle": "xiaomi-sound-outdoor-30w-portable-bluetooth-speaker-black",
     "url": "https://ubratech.co.za/products/xiaomi-sound-outdoor-30w-portable-bluetooth-speaker-black",
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/QBH4261GL_wr_01a.jpg",
-    "qty": 181,
+    "qty": 180,
     "sku": "QBH4261GL"
    },
    {
@@ -2308,16 +2308,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "ASRock",
-    "title": "ASRock DESKMINI Vesa Mount Kit",
-    "spec": "Accessories",
+    "brand": "Ugreen",
+    "title": "UGREEN NW102 Cat6 U/UTP Flat Ethernet Cable 15m - Black",
+    "spec": "Cables And Adapters",
     "price": "R127",
     "price_n": 127,
-    "sku": "90-BXG2T0-A0XCR3W",
-    "handle": "asrock-deskmini-vesa-mount-kit",
-    "url": "/products/asrock-deskmini-vesa-mount-kit",
-    "qty": 5,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/90-BXG2T0-A0XCR3W_wr_01.jpg"
+    "sku": "NW102-50180",
+    "handle": "ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
+    "url": "/products/ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
+    "qty": 23,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/NW102-50172-wr-01.jpg"
    },
    {
     "brand": "Port",
@@ -2369,28 +2369,28 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/RD-BM-4049_wr_01.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP 400 Quiet Wireless Pink Mouse",
-    "spec": "Wired Mouse",
-    "price": "R367",
-    "price_n": 367,
-    "sku": "AZ7B5AA",
-    "handle": "hp-400-quiet-wireless-pink-mouse",
-    "url": "/products/hp-400-quiet-wireless-pink-mouse",
-    "qty": 97,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/A/Z/AZ7B5AA_da01.jpg"
+    "brand": "Winx",
+    "title": "WINX DO Simple Wireless Keyboard and Mouse Combo",
+    "spec": "Keyboards",
+    "price": "R366",
+    "price_n": 366,
+    "sku": "WX-CO101",
+    "handle": "winx-do-simple-wireless-keyboard-and-mouse-combo",
+    "url": "/products/winx-do-simple-wireless-keyboard-and-mouse-combo",
+    "qty": 246,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2021/07/WX-CO101_wr_01.jpg"
    },
    {
-    "brand": "Targus",
-    "title": "Targus Midsize Antimicrobial Wireless Keyboard and Mouse Combo Black",
+    "brand": "Dell",
+    "title": "Dell Premier Rechargeable Wireless Mouse - MS7421W",
     "spec": "Wired Mouse",
-    "price": "R743",
-    "price_n": 743,
-    "sku": "AKM619AMUSZ",
-    "handle": "targus-midsize-antimicrobial-wireless-keyboard-and-mouse-combo-black",
-    "url": "/products/targus-midsize-antimicrobial-wireless-keyboard-and-mouse-combo-black",
-    "qty": 99,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/AKM619AMUSZ_default.jpg"
+    "price": "R747",
+    "price_n": 747,
+    "sku": "570-ABLO",
+    "handle": "dell-premier-rechargeable-wireless-mouse-ms7421w",
+    "url": "/products/dell-premier-rechargeable-wireless-mouse-ms7421w",
+    "qty": 8,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/570-ABLO_default.jpg"
    },
    {
     "brand": "Keychron",
@@ -2472,27 +2472,27 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP 2.8mm Powered by Darkfighter Fixed Dome Network Camera",
+    "title": "Hikvision 4MP Fixed Minin Bullet Network Camera",
     "spec": "4MP",
-    "price": "R2 931",
-    "price_n": 2931,
-    "sku": "DS-2CD2146G2H-I-2.8MM",
-    "handle": "hikvision-4mp-2-8mm-powered-by-darkfighter-fixed-dome-network-camera",
-    "url": "/products/hikvision-4mp-2-8mm-powered-by-darkfighter-fixed-dome-network-camera",
-    "qty": 218,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2146G2H_I_2.8MM_8f84.png"
+    "price": "R2 727",
+    "price_n": 2727,
+    "sku": "DS-2CD2046G2H-I-2.8MM",
+    "handle": "hikvision-4mp-fixed-minin-bullet-network-camera",
+    "url": "/products/hikvision-4mp-fixed-minin-bullet-network-camera",
+    "qty": 185,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2046G2H_I_2.8MM_1_1e43.png"
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Acusense Strobe Light Audible Warning Fixed Turret IP Camera",
+    "title": "Hikvision 4MP Acusense Bullet Camera",
     "spec": "4MP",
-    "price": "R3 385",
-    "price_n": 3385,
-    "sku": "DS-2CD2346G2H-IS2U-SL-2.8MM",
-    "handle": "hikvision-4mp-acusense-strobe-light-audible-warning-fixed-turret-ip-camera",
-    "url": "/products/hikvision-4mp-acusense-strobe-light-audible-warning-fixed-turret-ip-camera",
-    "qty": 18,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2346G2H_IS2U_SL_2.8MM_98ea.jpg"
+    "price": "R3 533",
+    "price_n": 3533,
+    "sku": "DS-2CD2T46G2H-4I-2.8MM",
+    "handle": "hikvision-4mp-acusense-bullet-camera",
+    "url": "/products/hikvision-4mp-acusense-bullet-camera",
+    "qty": 10,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_4I_2.8MM_9cd8.png"
    },
    {
     "brand": "Hikvision",
@@ -2553,7 +2553,7 @@
     "sku": "DS-2SE4C425MWG-E_14F0",
     "handle": "hikvision-4-4mp-25x-colorvu-ir-network-speed-dome",
     "url": "/products/hikvision-4-4mp-25x-colorvu-ir-network-speed-dome",
-    "qty": 387,
+    "qty": 382,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2SE4C425MWG_E_14F0_09e8.png"
    }
   ],
@@ -2752,17 +2752,17 @@
    "enquiry": true
   },
   {
-   "brand": "HPE Networking Instant On",
-   "title": "HPE Networking Instant On WiFi 5 Wave 2 Indoor Access Point",
-   "spec": "Dual band, 802.11ac Wave2, 2033Mbps, PoE excl, GbE uplink port, 4x4:4 ",
-   "price": "R2 971",
-   "price_n": 2971,
-   "uid": "UT-6C793D55",
-   "pn": "R2X06A",
-   "handle": "hpe-networking-instant-on-wifi-5-wave-2-indoor-access-point-ap15",
-   "url": "/pages/hpe-networking-instant-on-wifi-5-wave-2-indoor-access-point-ap15",
+   "brand": "TP-Link Omada",
+   "title": "TP-Link AX6000 Indoor WiFi 6 Ceiling Mount Access Point",
+   "spec": "1×2.5 Gigabit RJ45 Port, SPEED: 1148Mbps at  2.4 GHz + 4804 Mbps at 5 ",
+   "price": "R2 879",
+   "price_n": 2879,
+   "uid": "UT-347B6492",
+   "pn": "EAP683 UR",
+   "handle": "tp-link-ax6000-indoor-wifi-6-ceiling-mount-access-point-tp-eap683ur",
+   "url": "/pages/tp-link-ax6000-indoor-wifi-6-ceiling-mount-access-point-tp-eap683ur",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/0/7/2/6/10726.jpg",
+   "image": "https://miro.co.za/img/p/1/6/9/8/5/16985.jpg",
    "enquiry": true
   },
   {
@@ -3129,6 +3129,6 @@
    "total": "R8 772"
   }
  ],
- "generated": "2026-11-27T12:01:22Z",
+ "generated": "2026-11-27T13:01:39Z",
  "v": 3
 }
