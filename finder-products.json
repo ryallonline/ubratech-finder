@@ -8,7 +8,7 @@
     "price": "R12 768",
     "handle": "hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
     "url": "https://ubratech.co.za/products/hp-250rg9-bu-ids-uma-core3-100u-250r-g9-lcd-laptop-df6l7et",
-    "qty": 42,
+    "qty": 41,
     "image": "https://s3.amazonaws.com/tarsus.co.za/DF6L7ET%238GB_default.jpg"
    },
    {
@@ -90,7 +90,7 @@
     "sku": "X1504VAP-I58512BL4W",
     "handle": "asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
     "url": "/products/asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
-    "qty": 19,
+    "qty": 118,
     "image": "https://www.pinnacle.co.za/media/catalog/product/X/1/X1504VAP_I382BL0W_a78d.jpg"
    },
    {
@@ -247,8 +247,8 @@
     "brand": "Giada",
     "title": "Giada F108D Intel N100 1xDDR4 3200 Mhz 2xHDMI",
     "spec": "Intel N100",
-    "price": "R5 825",
-    "price_n": 5825,
+    "price": "R5 827",
+    "price_n": 5827,
     "sku": "F108D-FV-N10040N0G-GIA",
     "handle": "giada-f108d-intel-n100-1xddr4-3200-mhz-2xhdmi",
     "url": "/products/giada-f108d-intel-n100-1xddr4-3200-mhz-2xhdmi",
@@ -276,7 +276,7 @@
     "sku": "PCB_CUBE_I58G_HOME_V2",
     "handle": "pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
     "url": "/products/pcbuilder-cube-intel-i5-1235u-8gb-ddr4-512gb-windows-11-home-mini-pc",
-    "qty": 33,
+    "qty": 32,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PCB_CUBE_I58G_HOME_V2_PCBuilder-CUBE-Intel-i5-1235U-8GB-DDR4-512GB-Windows-11-Home-Mini-PC_wr_01a.jpg"
    },
    {
@@ -288,7 +288,7 @@
     "sku": "PCB_CUBE_I516G_HOME",
     "handle": "pcbuilder-cube-intel-i5-1235u-16gb-ddr4-1tb-windows-11-home-mini-pc",
     "url": "/products/pcbuilder-cube-intel-i5-1235u-16gb-ddr4-1tb-windows-11-home-mini-pc",
-    "qty": 12,
+    "qty": 11,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/PCB_CUBE_I516G_HOME_PCBuilder-CUBE-i5-1235U-16GB-DDR4-1TB-Windows-11-Home-Mini-PC_wr_01a.jpg"
    }
   ],
@@ -346,7 +346,7 @@
     "sku": "PCB_SENTINEL_01",
     "handle": "pcbuilder-ryzen-5-5600xt-sentinel-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600xt-sentinel-windows-11-gaming-pc",
-    "qty": 4,
+    "qty": 3,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SENTINEL_01_wr_01e.jpg"
    },
    {
@@ -377,8 +377,8 @@
     "brand": "Asus",
     "title": "Asus ROG G700 Intel Ultra 5 255F Gaming PC · 16GB DDR5 · 1TB SSD · Win 11 Home",
     "spec": "1TB SSD",
-    "price": "R22 664",
-    "price_n": 22664,
+    "price": "R22 670",
+    "price_n": 22670,
     "sku": "G700TF-05225F129W",
     "handle": "asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
     "url": "/products/asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
@@ -418,7 +418,7 @@
     "sku": "PW516261-U7-321TB-5G",
     "handle": "dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
     "url": "/products/dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
-    "qty": 17,
+    "qty": 16,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PW516261-U7-321TB-5G_default.jpg"
    }
   ],
@@ -427,7 +427,7 @@
     "brand": "Asus",
     "title": "Asus ROG G700 Gaming PC — Ultra 5 255F · 16GB DDR5 · 1TB SSD",
     "spec": "Creator-capable tower · Win 11",
-    "price": "R22 664",
+    "price": "R22 670",
     "handle": "asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
     "url": "https://ubratech.co.za/products/asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg",
@@ -443,7 +443,7 @@
     "sku": "PW516261-U7-321TB-5G",
     "handle": "dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
     "url": "/products/dell-pro-precision-5-16-pw516261-intel-core-ultra-7-366h-18mb-16-cores-484-16-threads-up-to-4-8-ghz-turbo-up-to-80w-turbo-32gb-lpcamm2-8533mt-s-dual-channel-1tb-ssd-gen-4-nvidia-rtx-pro-500-blackwell",
-    "qty": 17,
+    "qty": 16,
     "image": "https://s3.amazonaws.com/tarsus.co.za/PW516261-U7-321TB-5G_default.jpg"
    }
   ]
@@ -471,15 +471,15 @@
     "sku": "PCB_SENTINEL_01",
     "handle": "pcbuilder-ryzen-5-5600xt-sentinel-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600xt-sentinel-windows-11-gaming-pc",
-    "qty": 4,
+    "qty": 3,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SENTINEL_01_wr_01e.jpg"
    },
    {
     "brand": "Asus",
     "title": "Asus ROG G700 Intel Ultra 5 255F Gaming PC · 16GB DDR5 · 1TB SSD · Win 11 Home",
     "spec": "1TB SSD",
-    "price": "R22 664",
-    "price_n": 22664,
+    "price": "R22 670",
+    "price_n": 22670,
     "sku": "G700TF-05225F129W",
     "handle": "asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
     "url": "/products/asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
@@ -488,53 +488,53 @@
    },
    {
     "brand": "Acer",
-    "title": "Acer NITRO V 16 Gaming Laptop 16″ · Laptop — Ryzen 5",
-    "spec": "Ryzen 5 · 16\" screen",
-    "price": "R24 630",
-    "price_n": 24630,
-    "sku": "NH.QYXEA.001",
-    "handle": "acer-nitro-v-16-gaming-laptop-16-amd-ryzen-5-16gb-1tb-rtx-5060-8gb-windows-11-home",
-    "url": "/products/acer-nitro-v-16-gaming-laptop-16-amd-ryzen-5-16gb-1tb-rtx-5060-8gb-windows-11-home",
-    "qty": 7,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NH.QYXEA_.001_Acer-NITRO-V-16-Gaming-Laptop-16%E2%80%B3-AMD-Ryzen-5-16GB-1TB-RTX-5060-8GB-Windows-11-Home_wr_001a.jpg"
-   }
-  ],
-  "ultra": [
-   {
-    "brand": "Acer",
     "title": "Acer NITRO V 15 Gaming Laptop — Ryzen 7",
     "spec": "Ryzen 7",
-    "price": "R25 627",
-    "price_n": 25627,
+    "price": "R24 637",
+    "price_n": 24637,
     "sku": "NH.U3NEA.002",
     "handle": "acer-nitro-v-15-gaming-laptop-15-6-amd-ryzen-7-16gb-512gb-rtx-5050-8gb-windows-11-home",
     "url": "/products/acer-nitro-v-15-gaming-laptop-15-6-amd-ryzen-7-16gb-512gb-rtx-5050-8gb-windows-11-home",
     "qty": 12,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NH.U3NEA.002_Acr-NITRO-V-15-Gaming-Laptop-15.6inch_wr01.jpg"
+   }
+  ],
+  "ultra": [
+   {
+    "brand": "Acer",
+    "title": "Acer NITRO V 15 Gaming Laptop 15.6″ · Laptop — Ryzen 7",
+    "spec": "Ryzen 7 · 15.6\" screen",
+    "price": "R26 605",
+    "price_n": 26605,
+    "sku": "NH.U3PEA.001",
+    "handle": "acer-nitro-v-15-gaming-laptop-15-6-amd-ryzen-7-16gb-512gb-rtx-5060-8gb-windows-11-home",
+    "url": "/products/acer-nitro-v-15-gaming-laptop-15-6-amd-ryzen-7-16gb-512gb-rtx-5060-8gb-windows-11-home",
+    "qty": 16,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/NH.U3PEA.001_Acer-NITRO-V-15-Gaming-Laptop-15.6-inch-AMD-Ryzen-7-16GB-512GB-RTX-5060-8GB-Windows-11-Home_wr_02a-1.jpg"
    },
    {
     "brand": "Asus",
-    "title": "Asus TUF Gaming F16 16\" Core-i7 16GB 512GB Win 11 Home Notebook",
-    "spec": "Core i7 · 16\" screen · 16GB RAM",
-    "price": "R34 376",
-    "price_n": 34376,
-    "sku": "FX608JHI-I716512G0W",
-    "handle": "asus-tuf-gaming-f16-16-core-i7-16gb-512gb-win-11-home-notebook",
-    "url": "/products/asus-tuf-gaming-f16-16-core-i7-16gb-512gb-win-11-home-notebook",
-    "qty": 20,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__48__bbef.png"
+    "title": "Asus TUF Gaming A16 FA608UMI Laptop — Ryzen 7",
+    "spec": "Ryzen 7",
+    "price": "R35 636",
+    "price_n": 35636,
+    "sku": "FA608UMI-716512G0W",
+    "handle": "asus-tuf-gaming-a16-fa608umi-16-rtx5060-8gb-ryzen-7-250-16gb-512gb-win-11-home-gaming-notebook",
+    "url": "/products/asus-tuf-gaming-a16-fa608umi-16-rtx5060-8gb-ryzen-7-250-16gb-512gb-win-11-home-gaming-notebook",
+    "qty": 42,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/A/S/ASUS_TUF__GAMING_A16_Jaeger_Grey_02_L__1__f770.jpg"
    },
    {
-    "brand": "Dell",
-    "title": "Dell Alienware 15 Aurora 15.3\" Core-7 32GB 1TB Win 11 Home Notebook",
-    "spec": "Core 7 · 15.3\" screen · 32GB RAM",
-    "price": "R49 786",
-    "price_n": 49786,
-    "sku": "DA15260_EDB5_SPL",
-    "handle": "dell-alienware-15-aurora-15-3-core-7-32gb-1tb-win-11-home-notebook",
-    "url": "/products/dell-alienware-15-aurora-15-3-core-7-32gb-1tb-win-11-home-notebook",
-    "qty": 17,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__97__74c5.png"
+    "brand": "Acer",
+    "title": "Acer Predator HELIOS NEO 16 AI Gaming Laptop 1 Laptop",
+    "spec": "Notebooks",
+    "price": "R50 255",
+    "price_n": 50255,
+    "sku": "NH.U42EA.003",
+    "handle": "acer-predator-helios-neo-16-ai-gaming-laptop-16-intel-ultra-9-290hx-plus-16gb-1tb-rtx-5070-8gb-windows-11-home",
+    "url": "/products/acer-predator-helios-neo-16-ai-gaming-laptop-16-intel-ultra-9-290hx-plus-16gb-1tb-rtx-5070-8gb-windows-11-home",
+    "qty": 19,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2026/08/NH_U42EA_003_Acer_Predator_HELIOS_NEO_16_AI_Gaming_La_wr_01.png"
    },
    {
     "brand": "Dell",
@@ -554,7 +554,7 @@
     "brand": "Asus",
     "title": "Asus ROG G700 Gaming PC — Ultra 5 255F · 16GB DDR5 · 1TB SSD",
     "spec": "Gaming tower · Win 11 Home",
-    "price": "R22 664",
+    "price": "R22 670",
     "handle": "asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
     "url": "https://ubratech.co.za/products/asus-rog-g700-intel-ultra-5-255f-gaming-pc-16gb-ddr5-1tb-ssd-win-11-home",
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/G700TF-05225F129W_Asus-ROG-G700-Intel-Ultra-5-255F-Gaming-PC_wr_01.jpg",
@@ -594,7 +594,7 @@
     "sku": "PCB_SENTINEL_01",
     "handle": "pcbuilder-ryzen-5-5600xt-sentinel-windows-11-gaming-pc",
     "url": "/products/pcbuilder-ryzen-5-5600xt-sentinel-windows-11-gaming-pc",
-    "qty": 4,
+    "qty": 3,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PCB_SENTINEL_01_wr_01e.jpg"
    }
   ]
@@ -656,7 +656,7 @@
     "sku": "ELA6221EU",
     "handle": "xiaomi-a27ui-27-60hz-4k-ips-office-monitor",
     "url": "/products/xiaomi-a27ui-27-60hz-4k-ips-office-monitor",
-    "qty": 47,
+    "qty": 46,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6221EU_Xiaomi-A27Ui-27-inch-60Hz-4K-IPS-Office-Monitor_wr_01b.jpg"
    }
   ],
@@ -677,8 +677,8 @@
     "brand": "Asus",
     "title": "Asus ProArt 27\" QHD 1440p IPS 144Hz Monitor with USB Type-C 96W PD",
     "spec": "27\" screen",
-    "price": "R8 647",
-    "price_n": 8647,
+    "price": "R8 652",
+    "price_n": 8652,
     "sku": "PA278CGRV",
     "handle": "asus-proart-27-qhd-1440p-ips-144hz-monitor-with-usb-type-c-96w-pd",
     "url": "/products/asus-proart-27-qhd-1440p-ips-144hz-monitor-with-usb-type-c-96w-pd",
@@ -701,8 +701,8 @@
     "brand": "Asus",
     "title": "Asus ProArt IPS 32\" 6K 60Hz Monitor with USB Type-C 96W PD",
     "spec": "32\" screen",
-    "price": "R35 511",
-    "price_n": 35511,
+    "price": "R35 515",
+    "price_n": 35515,
     "sku": "PA32QCV",
     "handle": "asus-proart-ips-32-6k-60hz-monitor-with-usb-type-c-96w-pd",
     "url": "/products/asus-proart-ips-32-6k-60hz-monitor-with-usb-type-c-96w-pd",
@@ -718,7 +718,7 @@
     "price": "R2 112",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 7,
+    "qty": 5,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg",
     "sku": "210-BVCB"
    },
@@ -753,7 +753,7 @@
     "sku": "LS24HG314EAXXA",
     "handle": "samsung-value-g3-flat-24in-monitor-144hz-3y-warranty",
     "url": "/products/samsung-value-g3-flat-24in-monitor-144hz-3y-warranty",
-    "qty": 69,
+    "qty": 64,
     "image": "https://s3.amazonaws.com/tarsus.co.za/LS24HG314EAXXA_default.png"
    },
    {
@@ -777,15 +777,15 @@
     "sku": "ELA6556EU",
     "handle": "xiaomi-g27qi-2026-27-2k-qhd-200hz-fast-ips-gaming-monitor",
     "url": "/products/xiaomi-g27qi-2026-27-2k-qhd-200hz-fast-ips-gaming-monitor",
-    "qty": 109,
+    "qty": 106,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6556EU_Xiaomi-G27Qi-2026-27-inch-2K-QHD-200Hz-IPS-Gaming-Monitor_wr_01a.jpg"
    },
    {
     "brand": "Asus",
     "title": "ASUS ProArt Display PA27UCDMR 27-inch 4K UHD QD-OLED 240Hz Professional Monitor",
     "spec": "Monitors And Displays",
-    "price": "R35 511",
-    "price_n": 35511,
+    "price": "R35 515",
+    "price_n": 35515,
     "sku": "PA27UCDMR",
     "handle": "asus-proart-display-pa27ucdmr-27-inch-4k-uhd-qd-oled-240hz-professional-monitor",
     "url": "/products/asus-proart-display-pa27ucdmr-27-inch-4k-uhd-qd-oled-240hz-professional-monitor",
@@ -845,8 +845,8 @@
     "brand": "Asus",
     "title": "Asus ProArt 27\" QHD 1440p IPS 144Hz Monitor with USB Type-C 96W PD",
     "spec": "27\" screen",
-    "price": "R8 647",
-    "price_n": 8647,
+    "price": "R8 652",
+    "price_n": 8652,
     "sku": "PA278CGRV",
     "handle": "asus-proart-27-qhd-1440p-ips-144hz-monitor-with-usb-type-c-96w-pd",
     "url": "/products/asus-proart-27-qhd-1440p-ips-144hz-monitor-with-usb-type-c-96w-pd",
@@ -861,8 +861,8 @@
     "brand": "Gizzu",
     "title": "GIZZU 30W 38Wh 10400mAh Mini DC UPS - Black",
     "spec": "Ups And Power",
-    "price": "R336",
-    "price_n": 336,
+    "price": "R346",
+    "price_n": 346,
     "sku": "GU30WPRO",
     "handle": "gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "url": "/products/gizzu-30w-38wh-10400mah-mini-dc-ups-black",
@@ -873,8 +873,8 @@
     "brand": "Gizzu",
     "title": "GIZZU 60W 65Wh 17600mAh Mini POE DC UPS Lithium - Black",
     "spec": "Ups And Power",
-    "price": "R481",
-    "price_n": 481,
+    "price": "R485",
+    "price_n": 485,
     "sku": "GUP60W",
     "handle": "gizzu-60w-65wh-17600mah-mini-poe-dc-ups-lithium-black",
     "url": "/products/gizzu-60w-65wh-17600mah-mini-poe-dc-ups-lithium-black",
@@ -1167,7 +1167,7 @@
     "sku": "WR11000",
     "handle": "cudy-be11000-wi-fi7-gigabit-mesh-router",
     "url": "/products/cudy-be11000-wi-fi7-gigabit-mesh-router",
-    "qty": 45,
+    "qty": 44,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/03/WR11000_Cudy-BE11000-Wi-Fi7-Gigabit-Mesh-Router_wr_01.jpg"
    },
    {
@@ -1220,7 +1220,7 @@
     "sku": "DVB4451GL",
     "handle": "xiaomi-ac1200-whole-home-mesh-wi-fi-system-2-pack",
     "url": "/products/xiaomi-ac1200-whole-home-mesh-wi-fi-system-2-pack",
-    "qty": 107,
+    "qty": 105,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/06/DVB4451GL_wr_01.jpg"
    },
    {
@@ -1375,7 +1375,7 @@
     "price": "R8 948",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 91,
+    "qty": 90,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg",
     "sku": "2Z629A"
    },
@@ -1436,7 +1436,7 @@
     "price": "R8 948",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 91,
+    "qty": 90,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg",
     "sku": "2Z629A"
    },
@@ -1523,7 +1523,7 @@
     "sku": "900160",
     "handle": "port-connect-usb-type-c-to-4-port-usb-a-3-0-2-0-hub",
     "url": "/products/port-connect-usb-type-c-to-4-port-usb-a-3-0-2-0-hub",
-    "qty": 46,
+    "qty": 42,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/08/900160_Port-Connect-USB-Type-C-to-4-port-USB-A-3.0-2.0-Hub_wr_01a.jpg"
    },
    {
@@ -1635,7 +1635,7 @@
     "sku": "CM219-70336",
     "handle": "ugreen-4-in-1-type-c-hub-usb-3-0-type-c",
     "url": "/products/ugreen-4-in-1-type-c-hub-usb-3-0-type-c",
-    "qty": 223,
+    "qty": 218,
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/cm219-70336-wr-01a.jpg"
    },
    {
@@ -1806,8 +1806,8 @@
     "brand": "BDCOM",
     "title": "BDCOM 48 Port Gigabit SFP - Switch - Dual PSU optional",
     "spec": "Managed - Layer 3, 48 GBE auto-adaptive SFP ports, 4 Combo GBE ports, ",
-    "price": "R21 236",
-    "price_n": 21236,
+    "price": "R21 263",
+    "price_n": 21263,
     "uid": "UT-6545C37E",
     "pn": "S3756F",
     "handle": "bdcom-48-port-gigabit-sfp-switch-dual-psu-optional",
@@ -1822,7 +1822,7 @@
     "brand": "Cudy",
     "title": "Cudy 16-Port Layer 2 Managed Gigabit PoE Switch",
     "spec": "Managed · PoE for cameras & APs",
-    "price": "R4 108",
+    "price": "R4 105",
     "handle": "cudy-16-port-layer-2-managed-gigabit-poe-switch",
     "url": "https://ubratech.co.za/products/cudy-16-port-layer-2-managed-gigabit-poe-switch",
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/GS2018PS2_wr_01.jpg",
@@ -1833,8 +1833,8 @@
     "brand": "Acconet",
     "title": "Acconet 4U Unassembled Fixed Wall Mount Box 450mm",
     "spec": "Flat Pack, Glass Door",
-    "price": "R1 299",
-    "price_n": 1299,
+    "price": "R1 300",
+    "price_n": 1300,
     "uid": "UT-89D2D16A",
     "pn": "WS3-6404",
     "handle": "acconet-4u-unassembled-fixed-wall-mount-box-450mm",
@@ -1885,35 +1885,35 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/DTKNG2/64GB_default.jpg"
    },
    {
-    "brand": "MSI",
-    "title": "MSI M461 500GB M.2 2280 NVMe SSD",
+    "brand": "Hiksemi",
+    "title": "Hiksemi Future Lite 512GB M.2 NVME Solid State Drive",
     "spec": "Storage",
-    "price": "R2 236",
-    "price_n": 2236,
-    "sku": "M461M2NVME500GB",
-    "handle": "msi-m461-500gb-m-2-2280-nvme-ssd",
-    "url": "/products/msi-m461-500gb-m-2-2280-nvme-ssd",
-    "qty": 79,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/M461M2NVME500GB_MSI_M641_500GB_M2_2280_NVMe_SSD_wr_01.png"
+    "price": "R2 265",
+    "price_n": 2265,
+    "sku": "HS-SSD-FUTURE-L-512G",
+    "handle": "hiksemi-future-lite-512gb-m-2-nvme-solid-state-drive",
+    "url": "/products/hiksemi-future-lite-512gb-m-2-nvme-solid-state-drive",
+    "qty": 37,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/10/HS-SSD-FUTURE-L-512G_HIKSEMI-Future-Lite-512GB-M.2-NVME-Solid-State-Drive_wr_01.jpg"
    },
    {
-    "brand": "Hiksemi",
-    "title": "Hiksemi City Series E100 2TB 2.5\" SATAIII SSD",
-    "spec": "2.5\" screen",
-    "price": "R6 194",
-    "price_n": 6194,
-    "sku": "HS-SSD-E100-2048G",
-    "handle": "hiksemi-city-series-e100-2tb-2-5-sataiii-ssd",
-    "url": "/products/hiksemi-city-series-e100-2tb-2-5-sataiii-ssd",
-    "qty": 3,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/HS-SSD-E100-2048G_Hiksemi-E100-City-Series-2TB-2.5%E2%80%B3-SATAIII-SSD_wr_01.jpg"
+    "brand": "Kingston",
+    "title": "Kingston 1TB XS1000 External USB 3.2 Gen 2 Portable Solid State Drive",
+    "spec": "Storage",
+    "price": "R5 159",
+    "price_n": 5159,
+    "sku": "SXS1000/1000G",
+    "handle": "kingston-1tb-xs1000-external-usb-3-2-gen-2-portable-solid-state-drive",
+    "url": "/products/kingston-1tb-xs1000-external-usb-3-2-gen-2-portable-solid-state-drive",
+    "qty": 4,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/SXS1000/1000G_default.jpg"
    },
    {
     "brand": "Hiksemi",
     "title": "Hiksemi D300 PRO Tantalum Capacitor 1920GB SATA III Enterprise SSD",
     "spec": "Storage",
-    "price": "R32 703",
-    "price_n": 32703,
+    "price": "R33 665",
+    "price_n": 33665,
     "sku": "HS-SSD-D300-PRO-1920G",
     "handle": "hiksemi-d300-pro-tantalum-capacitor-1920gb-sata-iii-enterprise-ssd",
     "url": "/products/hiksemi-d300-pro-tantalum-capacitor-1920gb-sata-iii-enterprise-ssd",
@@ -1926,7 +1926,7 @@
     "brand": "GeIL",
     "title": "GeIL Orion RGB 16GB 6000MHz DDR5 Gaming Memory",
     "spec": "Fast RGB · gaming desktops",
-    "price": "R5 822",
+    "price": "R5 815",
     "handle": "geil-orion-rgb-16gb-6000mhz-ddr5-desktop-gaming-memory-grey",
     "url": "https://ubratech.co.za/products/geil-orion-rgb-16gb-6000mhz-ddr5-desktop-gaming-memory-grey",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/09/GAVSG516GB6000C36CSC_Geil-Orion-V-RGB-16GB-6000MHz-DDR5-Desktop-Gaming-Memory-Grey_wr_01.jpg",
@@ -1942,15 +1942,15 @@
     "sku": "HSC308S16Z1-8G",
     "handle": "hiksemi-future-8gb-1600mhz-8gb-x-1-so-dimm-memory-module",
     "url": "/products/hiksemi-future-8gb-1600mhz-8gb-x-1-so-dimm-memory-module",
-    "qty": 103,
+    "qty": 102,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/HSC308S16Z1-8G_wr_-2.jpg"
    },
    {
     "brand": "Hiksemi",
     "title": "Hiksemi Hiker 8GB DDR5 4800MHz Desktop Memory",
     "spec": "Memory",
-    "price": "R2 797",
-    "price_n": 2797,
+    "price": "R2 788",
+    "price_n": 2788,
     "sku": "HSC508U48Z1-8G",
     "handle": "hiksemi-hiker-8gb-ddr5-4800mhz-desktop-memory",
     "url": "/products/hiksemi-hiker-8gb-ddr5-4800mhz-desktop-memory",
@@ -1958,16 +1958,16 @@
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/11/HSC508U48Z1-8G_Hiksemi-Hiker-8GB-DDR5-4800MHz-Desktop-Memory_wr_01a.jpg"
    },
    {
-    "brand": "Hiksemi",
-    "title": "Hiksemi Future RGB 16GB 6000MHz DDR5 Desktop Gaming Memory",
+    "brand": "Patriot",
+    "title": "Patriot Vipersteel 32GB KIT (2x16GB) 3600MHz DDR4 Desktop Gaming Memory RGB",
     "spec": "Memory",
-    "price": "R5 053",
-    "price_n": 5053,
-    "sku": "HSC516U60C4-16G",
-    "handle": "hiksemi-future-rgb-16gb-6000mhz-ddr5-desktop-gaming-memory",
-    "url": "/products/hiksemi-future-rgb-16gb-6000mhz-ddr5-desktop-gaming-memory",
-    "qty": 69,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2024/10/HSC516U60C4-16G_Hiksemi-Future-RGB-16GB-6000MHz-DDR5-Desktop-Gaming-Memory_wr_01.jpg"
+    "price": "R5 036",
+    "price_n": 5036,
+    "sku": "PVSR432G360C8K",
+    "handle": "patriot-vipersteel-32gb-kit-2x16gb-3600mhz-ddr4-desktop-gaming-memory-rgb",
+    "url": "/products/patriot-vipersteel-32gb-kit-2x16gb-3600mhz-ddr4-desktop-gaming-memory-rgb",
+    "qty": 170,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2024/08/PVSR432G360C8K_wr_01.jpg"
    },
    {
     "brand": "Hiksemi",
@@ -1985,18 +1985,6 @@
   "graphics": [
    {
     "brand": "Asus",
-    "title": "ASUS Dual GeForce RTX 5060 Ti OC Edition 16GB GDDR7 Graphics Card",
-    "spec": "Graphics Cards",
-    "price": "R20 012",
-    "price_n": 20012,
-    "sku": "DUAL-RTX5060TI-O16G",
-    "handle": "asus-dual-geforce-rtx-5060-ti-oc-edition-16gb-gddr7-graphics-card",
-    "url": "/products/asus-dual-geforce-rtx-5060-ti-oc-edition-16gb-gddr7-graphics-card",
-    "qty": 21,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/04/DUAL-RTX5060TI-O16G-WR-01.jpg"
-   },
-   {
-    "brand": "Asus",
     "title": "ASUS UGen Intel Arc Pro B70 32GB GDDR6 Graphics Card",
     "spec": "Graphics Cards",
     "price": "R38 163",
@@ -2004,7 +1992,7 @@
     "sku": "UGEN-ARC-PRO-B70-32G",
     "handle": "asus-ugen-intel-arc-pro-b70-32gb-gddr6-graphics-card",
     "url": "/products/asus-ugen-intel-arc-pro-b70-32gb-gddr6-graphics-card",
-    "qty": 7,
+    "qty": 6,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/11/UGEN-ARC-PRO-B70-32G_ASUS-UGen-Intel-Arc-Pro-B70-32GB-GDDR6-Graphics-Card_wr_0.jpg"
    },
    {
@@ -2029,7 +2017,7 @@
     "handle": "asus-prime-750w-80-plus-bronze-atx-non-modular-power-supply",
     "url": "https://ubratech.co.za/products/asus-prime-750w-80-plus-bronze-atx-non-modular-power-supply",
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/02/PRIME-750B-BLACK_Asus-PRIME-750W-80-PLUS-Bronze-ATX-Non-modular-Power-Supply_wr_01a.jpg",
-    "qty": 63,
+    "qty": 59,
     "sku": "PRIME-750B-BLACK"
    },
    {
@@ -2047,7 +2035,7 @@
     "brand": "Gizzu",
     "title": "Gizzu 30W 38Wh Mini DC UPS",
     "spec": "Keeps router & fibre online",
-    "price": "R336",
+    "price": "R346",
     "handle": "gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "url": "https://ubratech.co.za/products/gizzu-30w-38wh-10400mah-mini-dc-ups-black",
     "image": "https://www.syntech.co.za/wp-content/uploads/2022/07/GU30WPRO_wr_01a.jpg",
@@ -2058,25 +2046,25 @@
     "brand": "Antec",
     "title": "Antec Atom V650 Non-Modular Power Supply",
     "spec": "Power Supplies",
-    "price": "R698",
-    "price_n": 698,
+    "price": "R719",
+    "price_n": 719,
     "sku": "ATOM V650",
     "handle": "antec-atom-v650-non-modular-power-supply",
     "url": "/products/antec-atom-v650-non-modular-power-supply",
-    "qty": 117,
+    "qty": 118,
     "image": "https://www.syntech.co.za/wp-content/uploads/2024/07/ATOM-V650_wr_05.jpg"
    },
    {
-    "brand": "Asus",
-    "title": "ASUS Prime 850W 80PLUS Gold Black Edition PCIe 5.0 Modular Power Supply",
+    "brand": "FSP",
+    "title": "FSP VITA BD 850W 80PLUS Bronze ATX3.1 Non-modular Power Supply",
     "spec": "Power Supplies",
-    "price": "R1 857",
-    "price_n": 1857,
-    "sku": "PRIME-850G",
-    "handle": "asus-prime-850w-80plus-gold-black-edition-pcie-5-0-modular-power-supply",
-    "url": "/products/asus-prime-850w-80plus-gold-black-edition-pcie-5-0-modular-power-supply",
-    "qty": 56,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/07/PRIME-850G_ASUS_Prime_850W_80PLUS_Gold_Black_Editio_wr_01.png"
+    "price": "R1 582",
+    "price_n": 1582,
+    "sku": "VITA-850BD",
+    "handle": "fsp-vita-bd-850w-80plus-bronze-atx3-1-non-modular-power-supply",
+    "url": "/products/fsp-vita-bd-850w-80plus-bronze-atx3-1-non-modular-power-supply",
+    "qty": 7,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/VITA-850BD_FSP-VITA-BD-850W-80PLUS-Bronze-ATX3.1-Non-modular-Power-Supply_wr_01.jpg"
    },
    {
     "brand": "Asus",
@@ -2094,8 +2082,8 @@
     "brand": "Asus",
     "title": "ASUS Pro WS 3000W Platinum ATX3.1 Modular Power Supply",
     "spec": "Power Supplies",
-    "price": "R17 684",
-    "price_n": 17684,
+    "price": "R17 686",
+    "price_n": 17686,
     "sku": "ASUS-PRO-WS-3000P",
     "handle": "asus-pro-ws-3000w-platinum-atx3-1-modular-power-supply",
     "url": "/products/asus-pro-ws-3000w-platinum-atx3-1-modular-power-supply",
@@ -2197,7 +2185,7 @@
     "handle": "winx-call-elite-ai-noise-cancelling-wireless-headset",
     "url": "https://ubratech.co.za/products/winx-call-elite-ai-noise-cancelling-wireless-headset",
     "image": "https://www.syntech.co.za/wp-content/uploads/2025/06/WX-HS114_WINX-CALL-Elite-AI-Noise-Cancelling-Wireless-Headset-Black_wr_01a.jpg",
-    "qty": 116,
+    "qty": 115,
     "sku": "WX-HS114"
    },
    {
@@ -2221,20 +2209,20 @@
     "sku": "RD-H894",
     "handle": "redragon-h894-titan-wireless-gaming-headset-black",
     "url": "/products/redragon-h894-titan-wireless-gaming-headset-black",
-    "qty": 153,
+    "qty": 151,
     "image": "https://www.syntech.co.za/wp-content/uploads/2026/10/RD-H894_Redragon_H894_TITAN_Wireless_Gaming_Head_wr_01.png"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi Redmi Headphones Neo ANC Wireless Over-Ears - White",
-    "spec": "Tv And Audio",
-    "price": "R1 213",
-    "price_n": 1213,
-    "sku": "BHR08W2GL",
-    "handle": "xiaomi-redmi-headphones-neo-anc-wireless-over-ears-white",
-    "url": "/products/xiaomi-redmi-headphones-neo-anc-wireless-over-ears-white",
-    "qty": 10,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/04/BHR08W2GL_Redmi-Headphones-Neo-ANC-Wireless-Over-Ears-White_wr_01a.jpg"
+    "brand": "Nearity",
+    "title": "Nearity AW-SP100 Wireless Speakerphone",
+    "spec": "Headsets",
+    "price": "R1 132",
+    "price_n": 1132,
+    "sku": "AW-SP100",
+    "handle": "nearity-aw-sp100-wireless-speakerphone",
+    "url": "/products/nearity-aw-sp100-wireless-speakerphone",
+    "qty": 15,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/U/n/Untitled_Design__67__28ea.png"
    },
    {
     "brand": "HP",
@@ -2285,16 +2273,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "ASRock",
-    "title": "ASRock DESKMINI Vesa Mount Kit",
-    "spec": "Accessories",
-    "price": "R127",
-    "price_n": 127,
-    "sku": "90-BXG2T0-A0XCR3W",
-    "handle": "asrock-deskmini-vesa-mount-kit",
-    "url": "/products/asrock-deskmini-vesa-mount-kit",
-    "qty": 5,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/90-BXG2T0-A0XCR3W_wr_01.jpg"
+    "brand": "Gizzu",
+    "title": "Gizzu 4K Type-C to DisplayPort Cable 1.8m Poly",
+    "spec": "Cables And Adapters",
+    "price": "R126",
+    "price_n": 126,
+    "sku": "GCPCDP18",
+    "handle": "gizzu-4k-type-c-to-displayport-cable-1-8m-poly",
+    "url": "/products/gizzu-4k-type-c-to-displayport-cable-1-8m-poly",
+    "qty": 119,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2023/08/GCPCDP18_wr_01.jpg"
    },
    {
     "brand": "Winx",
@@ -2371,15 +2359,15 @@
    },
    {
     "brand": "Keychron",
-    "title": "Keychron Q6 Ultra 100% 8K Hot-Swappable RGB Wireless Keyboard - Red Silk POM Switches",
+    "title": "Keychron Q6 HE QMK Full-size Wireless Custom Mechanical Keyboard… (Q6H-P1)",
     "spec": "Keyboards",
     "price": "R4 294",
     "price_n": 4294,
-    "sku": "Q6U-M1",
-    "handle": "keychron-q6-ultra-100-8k-hot-swappable-rgb-wireless-keyboard-red-silk-pom-switches",
-    "url": "/products/keychron-q6-ultra-100-8k-hot-swappable-rgb-wireless-keyboard-red-silk-pom-switches",
-    "qty": 3,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/11/Q6U-M1_Keychron_Q6_Ultra_100_8K_Hot-Swappable_R_wr_01.png"
+    "sku": "Q6H-P1",
+    "handle": "keychron-q6-he-qmk-full-size-wireless-custom-mechanical-keyboard-nebula-switch-shell-white",
+    "url": "/products/keychron-q6-he-qmk-full-size-wireless-custom-mechanical-keyboard-nebula-switch-shell-white",
+    "qty": 16,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2025/07/Q6H-P1_Keychron-Q6-HE-QMK-Full-size-Wireless-Custom-Mechanical-Keyboard-Nebula-Switch-%E2%80%93-Shell-White_wr_01a.jpg"
    }
   ]
  },
@@ -2690,8 +2678,8 @@
    "brand": "Ubiquiti",
    "title": "Ubiquiti UniFi U7 Pro Wall Paintable Flush Mount",
    "spec": "WIRELESS ACCESS POINTS",
-   "price": "R887",
-   "price_n": 887,
+   "price": "R888",
+   "price_n": 888,
    "uid": "UT-44881DCA",
    "pn": "UACC-U7-Pro-Wall-FM",
    "handle": "ubiquiti-unifi-u7-pro-wall-paintable-flush-mount-uacc-u7-pro-wall-fm",
@@ -2704,8 +2692,8 @@
    "brand": "Grandstream",
    "title": "Grandstream Enterprise in-Wall WiFi 5 Wave 2 Indoor Access Point",
    "spec": "2.03Gbps, 5GHz 4x4 MU-MIMO,2GHz 2x2 MIMO,Embedded control",
-   "price": "R1 397",
-   "price_n": 1397,
+   "price": "R1 399",
+   "price_n": 1399,
    "uid": "UT-75A223AE",
    "pn": "GWN7624",
    "handle": "grandstream-enterprise-in-wall-wifi-5-wave-2-indoor-access-point-gwn7624",
@@ -2805,8 +2793,8 @@
     "brand": "MikroTik",
     "title": "MikroTik Cloud Core 16 Port Gigabit 2SFP+ Passive Cooling Router · MT-RBCCR2004-16G-2S+PC",
     "spec": "4 x 1.2GHz CPU, 4GB RAM, 128MB NAND storage, RouterOS v7 L6",
-    "price": "R8 809",
-    "price_n": 8809,
+    "price": "R8 765",
+    "price_n": 8765,
     "uid": "UT-362B4A65",
     "pn": "CCR2004-16G-2S+PC",
     "handle": "mikrotik-cloud-core-16-port-gigabit-2sfp-passive-cooling-router-mt-rbccr2004-16g-2s-pc",
@@ -2849,8 +2837,8 @@
     "brand": "Ubiquiti",
     "title": "Ubiquiti UniFi 24 Port Gigabit 16 PoE 95W Switch 2SFP",
     "spec": "16 x 802.3at PoE+ ports. 2 x SFP ports. 95W total PoE availability",
-    "price": "R9 204",
-    "price_n": 9204,
+    "price": "R9 188",
+    "price_n": 9188,
     "uid": "UT-9C89402D",
     "pn": "USW-24-POE",
     "handle": "ubiquiti-unifi-24-port-gigabit-16-poe-95w-switch-2sfp-usw-24-poe",
@@ -2865,8 +2853,8 @@
     "brand": "Grandstream",
     "title": "Grandstream Enterprise WiFi 6 Indoor Access Point",
     "spec": "3Gbps, 2×2:2 2.4G, 3×3:2 5G, 1x GbE, 256 client devices, Embedded Cont",
-    "price": "R1 203",
-    "price_n": 1203,
+    "price": "R1 200",
+    "price_n": 1200,
     "uid": "UT-8D6FBEBE",
     "pn": "GWN7660E",
     "handle": "grandstream-enterprise-wifi-6-indoor-access-point-gwn7660e",
@@ -2893,8 +2881,8 @@
     "brand": "Ubiquiti",
     "title": "Ubiquiti UniFi Wi-Fi 7 Pro XGS Indoor Access Point",
     "spec": "POE++, No PoE Injector included, 8 Spatial Streams, 500+ connected dev",
-    "price": "R7 394",
-    "price_n": 7394,
+    "price": "R7 377",
+    "price_n": 7377,
     "uid": "UT-EA187C13",
     "pn": "U7-Pro-XGS",
     "handle": "ubiquiti-unifi-wi-fi-7-pro-xgs-indoor-access-point-u7-pro-xgs",
@@ -3106,6 +3094,6 @@
    "total": "R8 772"
   }
  ],
- "generated": "2026-11-27T15:01:29Z",
+ "generated": "2026-11-27T16:02:03Z",
  "v": 3
 }
