@@ -32,7 +32,7 @@
     "sku": "NX.DZAEA.002",
     "handle": "acer-lite-15-r3-5400u-8-256-15-6-fhd-ips-slim-bezel-windows-11-home",
     "url": "/products/acer-lite-15-r3-5400u-8-256-15-6-fhd-ips-slim-bezel-windows-11-home",
-    "qty": 12,
+    "qty": 11,
     "image": "https://s3.amazonaws.com/tarsus.co.za/NX.DZAEA.002_default.png"
    },
    {
@@ -90,7 +90,7 @@
     "sku": "X1504VAP-I58512BL4W",
     "handle": "asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
     "url": "/products/asus-vivobook-15-x1504vap-15-6-core-5-120u-8gb-512gb-win-11-home-notebook-quiet-blue",
-    "qty": 19,
+    "qty": 118,
     "image": "https://www.pinnacle.co.za/media/catalog/product/X/1/X1504VAP_I382BL0W_a78d.jpg"
    },
    {
@@ -102,7 +102,7 @@
     "sku": "PV15250_RPLU_001_P8L",
     "handle": "dell-pro-15-15-6-core-i5-8gb-512gb-win-11-pro-notebook",
     "url": "/products/dell-pro-15-15-6-core-i5-8gb-512gb-win-11-pro-notebook",
-    "qty": 9,
+    "qty": 4,
     "image": "https://www.pinnacle.co.za/media/catalog/product/P/V/PV15250_RPLU_001_P8L_f32d.jpg"
    },
    {
@@ -144,16 +144,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/PV15250_RPLU_002_M_HOM_default.jpg"
    },
    {
-    "brand": "HP",
-    "title": "HP Probook 4 G2a 16\" Ryzen-7-250 16GB 512GB Win 11 Pro Notebook",
-    "spec": "Ryzen 7 · 16\" screen · 16GB RAM",
-    "price": "R29 660",
-    "price_n": 29660,
-    "sku": "E40X3ET",
-    "handle": "hp-probook-4-g2a-16-ryzen-7-250-16gb-512gb-win-11-pro-notebook",
-    "url": "/products/hp-probook-4-g2a-16-ryzen-7-250-16gb-512gb-win-11-pro-notebook",
-    "qty": 7,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__81__3cd2.png"
+    "brand": "Dell",
+    "title": "Dell 14 Plus Laptop — Core Ultra 5 · 512GB SSD (DB04250_LNL_202_HOM)",
+    "spec": "Core Ultra 5 · 512GB SSD",
+    "price": "R29 604",
+    "price_n": 29604,
+    "sku": "DB04250_LNL_202_HOM",
+    "handle": "dell-14-plus-2in1-db04250-intel-core-ultra-5-226v-8m-cache-up-to-4-5-ghz-14-0-fhd-1920x1200-wide-view-antiglare-touch-300nits-16gb-8533mt-s-lpddr5x-512gb-ssd-pcie-nvme-m-2-graphics-intel-arch",
+    "url": "/products/dell-14-plus-2in1-db04250-intel-core-ultra-5-226v-8m-cache-up-to-4-5-ghz-14-0-fhd-1920x1200-wide-view-antiglare-touch-300nits-16gb-8533mt-s-lpddr5x-512gb-ssd-pcie-nvme-m-2-graphics-intel-arch",
+    "qty": 19,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/DB04250_LNL_202_HOM_default.png"
    },
    {
     "brand": "Dell",
@@ -718,7 +718,7 @@
     "price": "R2 112",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 12,
+    "qty": 11,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg",
     "sku": "210-BVCB"
    },
@@ -890,7 +890,7 @@
     "sku": "DS-UPS1000-SA",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "/products/hikvision-1000va-1kva-ups",
-    "qty": 349,
+    "qty": 348,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -942,7 +942,7 @@
     "price": "R904",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 349,
+    "qty": 348,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png",
     "sku": "DS-UPS1000-SA"
    },
@@ -2308,16 +2308,16 @@
     "image": "https://s3.amazonaws.com/tarsus.co.za/SHUKO-PLUG_default.png"
    },
    {
-    "brand": "Ugreen",
-    "title": "UGREEN NW102 Cat6 U/UTP Flat Ethernet Cable 15m - Black",
-    "spec": "Cables And Adapters",
+    "brand": "ASRock",
+    "title": "ASRock DESKMINI Vesa Mount Kit",
+    "spec": "Accessories",
     "price": "R127",
     "price_n": 127,
-    "sku": "NW102-50180",
-    "handle": "ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
-    "url": "/products/ugreen-nw102-cat6-u-utp-flat-ethernet-cable-15m-black",
-    "qty": 23,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2025/02/NW102-50172-wr-01.jpg"
+    "sku": "90-BXG2T0-A0XCR3W",
+    "handle": "asrock-deskmini-vesa-mount-kit",
+    "url": "/products/asrock-deskmini-vesa-mount-kit",
+    "qty": 5,
+    "image": "https://www.syntech.co.za/wp-content/uploads/2022/02/90-BXG2T0-A0XCR3W_wr_01.jpg"
    },
    {
     "brand": "HP",
@@ -2434,15 +2434,15 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Acusense Strobe Light Audible Warning Fixed Turret IP Camera",
+    "title": "Hikvision 4MP Fixed Bullet Network Camera",
     "spec": "4MP",
-    "price": "R3 385",
-    "price_n": 3385,
-    "sku": "DS-2CD2346G2H-IS2U-SL-2.8MM",
-    "handle": "hikvision-4mp-acusense-strobe-light-audible-warning-fixed-turret-ip-camera",
-    "url": "/products/hikvision-4mp-acusense-strobe-light-audible-warning-fixed-turret-ip-camera",
-    "qty": 18,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2346G2H_IS2U_SL_2.8MM_98ea.jpg"
+    "price": "R3 221",
+    "price_n": 3221,
+    "sku": "DS-2CD2T46G2H-2I-2.8MM",
+    "handle": "hikvision-4mp-fixed-bullet-network-camera",
+    "url": "/products/hikvision-4mp-fixed-bullet-network-camera",
+    "qty": 103,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_2I_2.8MM_1_e9e9.png"
    },
    {
     "brand": "Hikvision",
@@ -2534,15 +2534,15 @@
    },
    {
     "brand": "Hikvision",
-    "title": "Hikvision 4MP Acusense 4mm Strobe Light and Audible Warning Fixed…",
+    "title": "Hikvision 4MP Darkfighter Fiexed Bullet IP Camera",
     "spec": "4MP",
-    "price": "R3 656",
-    "price_n": 3656,
-    "sku": "DS-2CD2T46G2H-IS2U-SL-4MM",
-    "handle": "hikvision-4mp-acusense-4mm-strobe-light-and-audible-warning-fixed-bullet-network-ip-camera",
-    "url": "/products/hikvision-4mp-acusense-4mm-strobe-light-and-audible-warning-fixed-bullet-network-ip-camera",
-    "qty": 64,
-    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_IS2U_SL_4MM_8444.jpg"
+    "price": "R3 533",
+    "price_n": 3533,
+    "sku": "DS-2CD2T46G2H-4I-4MM",
+    "handle": "hikvision-4mp-darkfighter-fiexed-bullet-ip-camera",
+    "url": "/products/hikvision-4mp-darkfighter-fiexed-bullet-ip-camera",
+    "qty": 161,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_2CD2T46G2H_4I_4MM_1_ef81.png"
    },
    {
     "brand": "Hikvision",
@@ -3129,6 +3129,6 @@
    "total": "R8 772"
   }
  ],
- "generated": "2026-11-27T09:01:52Z",
+ "generated": "2026-11-27T10:01:19Z",
  "v": 3
 }
