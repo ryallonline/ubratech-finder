@@ -102,7 +102,7 @@
     "sku": "PV15250_RPLU_001_P8L",
     "handle": "dell-pro-15-15-6-core-i5-8gb-512gb-win-11-pro-notebook",
     "url": "/products/dell-pro-15-15-6-core-i5-8gb-512gb-win-11-pro-notebook",
-    "qty": 399,
+    "qty": 54,
     "image": "https://www.pinnacle.co.za/media/catalog/product/P/V/PV15250_RPLU_001_P8L_f32d.jpg"
    },
    {
@@ -156,16 +156,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/1/_/1__81__3cd2.png"
    },
    {
-    "brand": "Lenovo",
-    "title": "Lenovo T16 G5 PTL Laptop — Core Ultra 7 · 512GB SSD (21WT001TZA)",
-    "spec": "Core Ultra 7 · 512GB SSD",
-    "price": "R42 816",
-    "price_n": 42816,
-    "sku": "21WT001TZA",
-    "handle": "lenovo-t16-g5-ptl-u7-355-16gb-base-soldered-ddr5-512gb-ssd-m-2-2280-tlc-g4-intel-arc-windows-11-pro-64-16-0-wuxga-ag-400nits-5m-rgb-ir-cam-intel-be201-2x2-be-bt-quectel-em061k-4-ai-now-y-scr-y-fpr-4",
-    "url": "/products/lenovo-t16-g5-ptl-u7-355-16gb-base-soldered-ddr5-512gb-ssd-m-2-2280-tlc-g4-intel-arc-windows-11-pro-64-16-0-wuxga-ag-400nits-5m-rgb-ir-cam-intel-be201-2x2-be-bt-quectel-em061k-4-ai-now-y-scr-y-fpr-4",
-    "qty": 13,
-    "image": "https://s3.amazonaws.com/tarsus.co.za/21WT001TZA_default.png"
+    "brand": "Dell",
+    "title": "Dell Pro 16 Plus Laptop — Core Ultra 7 · 16GB (BTO211_PB16250_EMEA)",
+    "spec": "Core Ultra 7",
+    "price": "R42 433",
+    "price_n": 42433,
+    "sku": "BTO211_PB16250_EMEA",
+    "handle": "dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-dual-channel-onboard-512gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro",
+    "url": "/products/dell-pro-16-plus-intel-core-ultra-7-266v-vpro-48-tops-npu-8-cores-up-to-5-0-ghz-16-gb-lpddr5x-8533-mt-s-dual-channel-onboard-512gb-ssd-integrated-intel-arc-graphics-for-intel-core-ultra-7-266v-vpro",
+    "qty": 72,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/BTO211_PB16250_EMEA_default.png"
    },
    {
     "brand": "Lenovo",
@@ -240,7 +240,7 @@
     "price": "R20 147",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 7,
+    "qty": 6,
     "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    },
    {
@@ -300,7 +300,7 @@
     "price": "R20 147",
     "handle": "lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
     "url": "https://ubratech.co.za/products/lenovo-neo-50s-g6-desktop-pc-core-ultra-5-16gb-512gb-ssd-13dm0038sa",
-    "qty": 7,
+    "qty": 6,
     "image": "https://s3.amazonaws.com/tarsus.co.za/13DM0038SA_default.png"
    },
    {
@@ -619,7 +619,7 @@
     "price": "R2 265",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 56,
+    "qty": 48,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -634,18 +634,6 @@
     "url": "/products/acer-monitor-v206h-flat-19-5-tn-led-response-time-5-ms-resolution-1600-x-900-viewing-angle-178-h-178-v-aspect-ratio-16-09-digital-frequency-100hz-interface-x1-hdmi-1x-vga-speaker-none-power-supply",
     "qty": 99,
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.IV6EE.024_default.jpg"
-   },
-   {
-    "brand": "PCBuilder",
-    "title": "PCBuilder CORE 24 FHD 1080P Office Monitor",
-    "spec": "Monitors And Displays",
-    "price": "R2 265",
-    "price_n": 2265,
-    "sku": "PCB-OM-24",
-    "handle": "pcbuilder-core-24-fhd-1080p-office-monitor",
-    "url": "/products/pcbuilder-core-24-fhd-1080p-office-monitor",
-    "qty": 118,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/11/PCB-OM-24_PCBuilder_CORE_24_FHD_1080P_Office_Monit_wr_01.png"
    },
    {
     "brand": "HP",
@@ -730,7 +718,7 @@
     "price": "R2 112",
     "handle": "dell-se2426h-24-fhd-gaming-monitor",
     "url": "https://ubratech.co.za/products/dell-se2426h-24-fhd-gaming-monitor",
-    "qty": 8,
+    "qty": 12,
     "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BVCB_66b9.jpg",
     "sku": "210-BVCB"
    },
@@ -755,6 +743,18 @@
     "qty": 6,
     "image": "https://s3.amazonaws.com/tarsus.co.za/UM.HE1EE.G08_default.jpg",
     "sku": "UM.HE1EE.G08"
+   },
+   {
+    "brand": "Samsung",
+    "title": "Samsung Value G3 Flat 24in Monitor 144Hz 3Y warranty",
+    "spec": "Monitors And Displays",
+    "price": "R1 812",
+    "price_n": 1812,
+    "sku": "LS24HG314EAXXA",
+    "handle": "samsung-value-g3-flat-24in-monitor-144hz-3y-warranty",
+    "url": "/products/samsung-value-g3-flat-24in-monitor-144hz-3y-warranty",
+    "qty": 84,
+    "image": "https://s3.amazonaws.com/tarsus.co.za/LS24HG314EAXXA_default.png"
    },
    {
     "brand": "HP",
@@ -801,7 +801,7 @@
     "price": "R2 265",
     "handle": "dell-se2726hm-27-fhd-monitor",
     "url": "https://ubratech.co.za/products/dell-se2726hm-27-fhd-monitor",
-    "qty": 56,
+    "qty": 48,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/e/Dell_210BVCC_Monitor_New_47d6.jpg",
     "sku": "210-BVCC"
    },
@@ -830,16 +830,16 @@
     "image": "https://www.pinnacle.co.za/media/catalog/product/B/0/B0CG8AS_da71.jpg"
    },
    {
-    "brand": "Xiaomi",
-    "title": "Xiaomi A27Qi 2026 27\" inch 120Hz 2K IPS Office Monitor",
-    "spec": "27\" screen",
-    "price": "R3 449",
-    "price_n": 3449,
-    "sku": "ELA6568EU",
-    "handle": "xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
-    "url": "/products/xiaomi-a27qi-2026-27-inch-120hz-2k-ips-office-monitor",
-    "qty": 112,
-    "image": "https://www.syntech.co.za/wp-content/uploads/2026/03/ELA6568EU_Xiaomi-A27Qi-2026-27-inch-2K-120Hz-IPS-Office-Monitor_wr_01a.jpg"
+    "brand": "Dell",
+    "title": "Dell 24 Plus S2425HSM 23.8\" FHD 1ms IPS Monitor",
+    "spec": "23.8\" screen",
+    "price": "R3 424",
+    "price_n": 3424,
+    "sku": "210-BSZD",
+    "handle": "dell-24-plus-s2425hsm-23-8-fhd-1ms-ips-monitor",
+    "url": "/products/dell-24-plus-s2425hsm-23-8-fhd-1ms-ips-monitor",
+    "qty": 99,
+    "image": "https://www.pinnacle.co.za/media/catalog/product/2/1/210_BSZD_165e.jpg"
    },
    {
     "brand": "Asus",
@@ -890,7 +890,7 @@
     "sku": "DS-UPS1000-SA",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "/products/hikvision-1000va-1kva-ups",
-    "qty": 359,
+    "qty": 349,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png"
    },
    {
@@ -942,7 +942,7 @@
     "price": "R904",
     "handle": "hikvision-1000va-1kva-ups",
     "url": "https://ubratech.co.za/products/hikvision-1000va-1kva-ups",
-    "qty": 359,
+    "qty": 349,
     "image": "https://www.pinnacle.co.za/media/catalog/product/D/S/DS_UPS1000_SA_f2fc.png",
     "sku": "DS-UPS1000-SA"
    },
@@ -1375,7 +1375,7 @@
     "price": "R8 948",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 93,
+    "qty": 91,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg",
     "sku": "2Z629A"
    },
@@ -1386,7 +1386,7 @@
     "price": "R11 847",
     "handle": "hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
     "url": "https://ubratech.co.za/products/hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
-    "qty": 5,
+    "qty": 4,
     "image": "https://s3.amazonaws.com/tarsus.co.za/3PZ55A_default.png",
     "sku": "3PZ55A"
    },
@@ -1436,7 +1436,7 @@
     "price": "R8 948",
     "handle": "hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
     "url": "https://ubratech.co.za/products/hp-laserjet-pro-mfp-4103fdw-mono-printer-40-ppm-1-10-users-mobile-print-wi-fi-50-page-auto-feeder-capacitive-2-7-touchscreen-flatbed-scanner-monthly-duty-cycle-80000-pages",
-    "qty": 93,
+    "qty": 91,
     "image": "https://s3.amazonaws.com/tarsus.co.za/2Z629A_default.jpg",
     "sku": "2Z629A"
    },
@@ -1447,7 +1447,7 @@
     "price": "R11 847",
     "handle": "hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
     "url": "https://ubratech.co.za/products/hp-laserjet-enterprise-mfp-m430f-print-copy-scan-fax-up-to-40ppm-duty-cycle-100000-pages-rmpv-up-tp-4800-3-10-users",
-    "qty": 5,
+    "qty": 4,
     "image": "https://s3.amazonaws.com/tarsus.co.za/3PZ55A_default.png",
     "sku": "3PZ55A"
    },
@@ -1705,12 +1705,12 @@
     "brand": "Logitech",
     "title": "Logitech Headset-Zone 300-Black- BT-N/A-EMEA28i-935, dual…",
     "spec": "Headsets",
-    "price": "R1 394",
-    "price_n": 1394,
+    "price": "R1 423",
+    "price_n": 1423,
     "sku": "981-001407",
     "handle": "logitech-headset-zone-300-black-bt-n-a-emea28i-935-dual-noise-cancelling-mics-20-hour-battery-multi-device-support",
     "url": "/products/logitech-headset-zone-300-black-bt-n-a-emea28i-935-dual-noise-cancelling-mics-20-hour-battery-multi-device-support",
-    "qty": 36,
+    "qty": 16,
     "image": "https://s3.amazonaws.com/tarsus.co.za/981-001407_default.png"
    },
    {
@@ -1761,7 +1761,7 @@
     "sku": "TL-SG1008D",
     "handle": "tp-link-8-port-gigabit-desktop-switch",
     "url": "/products/tp-link-8-port-gigabit-desktop-switch",
-    "qty": 24,
+    "qty": 4,
     "image": "https://www.pinnacle.co.za/media/catalog/product/T/L/TL_SG1008D_a815.png"
    },
    {
@@ -2353,7 +2353,7 @@
     "handle": "logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "url": "https://ubratech.co.za/products/logitech-mk540-advanced-wireless-mouse-keyboard-combo-black-ergonomic-keyboard-with-palm-rest-ambidextrous-mouse-unifying-receiver",
     "image": "https://s3.amazonaws.com/tarsus.co.za/920-008685_default.jpg",
-    "qty": 44,
+    "qty": 43,
     "sku": "920-008685"
    },
    {
@@ -2724,17 +2724,17 @@
    "enquiry": true
   },
   {
-   "brand": "Teltonika",
-   "title": "Teltonika Wi-Fi 4 Industrial Wireless Access Point",
-   "spec": "Wi-Fi Mesh, Fast Roaming, 2x RJ45 ports (10/100), Integrated Din Rail ",
-   "price": "R1 389",
-   "price_n": 1389,
-   "uid": "UT-6C8D50BD",
-   "pn": "DAP140000000",
-   "handle": "teltonika-wi-fi-4-industrial-wireless-access-point-dap140",
-   "url": "/pages/teltonika-wi-fi-4-industrial-wireless-access-point-dap140",
+   "brand": "Grandstream",
+   "title": "Grandstream Enterprise in-Wall WiFi 5 Wave 2 Indoor Access Point",
+   "spec": "2.03Gbps, 5GHz 4x4 MU-MIMO,2GHz 2x2 MIMO,Embedded control",
+   "price": "R1 397",
+   "price_n": 1397,
+   "uid": "UT-75A223AE",
+   "pn": "GWN7624",
+   "handle": "grandstream-enterprise-in-wall-wifi-5-wave-2-indoor-access-point-gwn7624",
+   "url": "/pages/grandstream-enterprise-in-wall-wifi-5-wave-2-indoor-access-point-gwn7624",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/6/3/9/2/16392.jpg",
+   "image": "https://miro.co.za/img/p/1/5/8/3/3/15833.jpg",
    "enquiry": true
   },
   {
@@ -2752,17 +2752,17 @@
    "enquiry": true
   },
   {
-   "brand": "TP-Link Omada",
-   "title": "TP-Link AX6000 Indoor WiFi 6 Ceiling Mount Access Point",
-   "spec": "1×2.5 Gigabit RJ45 Port, SPEED: 1148Mbps at  2.4 GHz + 4804 Mbps at 5 ",
-   "price": "R2 879",
-   "price_n": 2879,
-   "uid": "UT-347B6492",
-   "pn": "EAP683 UR",
-   "handle": "tp-link-ax6000-indoor-wifi-6-ceiling-mount-access-point-tp-eap683ur",
-   "url": "/pages/tp-link-ax6000-indoor-wifi-6-ceiling-mount-access-point-tp-eap683ur",
+   "brand": "HPE Networking Instant On",
+   "title": "HPE Networking Instant On WiFi 5 Wave 2 Indoor Access Point",
+   "spec": "Dual band, 802.11ac Wave2, 2033Mbps, PoE excl, GbE uplink port, 4x4:4 ",
+   "price": "R2 971",
+   "price_n": 2971,
+   "uid": "UT-6C793D55",
+   "pn": "R2X06A",
+   "handle": "hpe-networking-instant-on-wifi-5-wave-2-indoor-access-point-ap15",
+   "url": "/pages/hpe-networking-instant-on-wifi-5-wave-2-indoor-access-point-ap15",
    "qty": 9,
-   "image": "https://miro.co.za/img/p/1/6/9/8/5/16985.jpg",
+   "image": "https://miro.co.za/img/p/1/0/7/2/6/10726.jpg",
    "enquiry": true
   },
   {
@@ -2811,17 +2811,17 @@
     "enquiry": true
    },
    {
-    "brand": "MikroTik",
-    "title": "MikroTik Heavy Duty 7 Gigabit 1x2.5Gbps 1 SFP+ Router · MT-RB5009UG+S+IN",
-    "spec": "4x 1.4GHz CPU, 1GB RAM, RouterOS L5, 802.3af/at",
-    "price": "R4 450",
-    "price_n": 4450,
-    "uid": "UT-7966E2A8",
-    "pn": "RB5009UG+S+IN",
-    "handle": "mikrotik-heavy-duty-7-gigabit-1x2-5gbps-1-sfp-router-mt-rb5009ug-s-in",
-    "url": "/pages/mikrotik-heavy-duty-7-gigabit-1x2-5gbps-1-sfp-router-mt-rb5009ug-s-in",
+    "brand": "Ubiquiti",
+    "title": "Ubiquiti UniFi 4-Port Security Gateway Pro-version",
+    "spec": "4 Gbps full line rate Layer 3 forwarding, 1+ million packets per secon",
+    "price": "R3 794",
+    "price_n": 3794,
+    "uid": "UT-47FF06C6",
+    "pn": "USG-PRO-4-U",
+    "handle": "ubiquiti-unifi-4-port-security-gateway-pro-version-usg-pro-4",
+    "url": "/pages/ubiquiti-unifi-4-port-security-gateway-pro-version-usg-pro-4",
     "qty": 9,
-    "image": "https://miro.co.za/img/p/5/5/2/7/5527.jpg",
+    "image": "https://miro.co.za/img/p/1/5/3/6/1/15361.jpg",
     "enquiry": true
    },
    {
@@ -3129,6 +3129,6 @@
    "total": "R8 772"
   }
  ],
- "generated": "2026-11-27T07:01:39Z",
+ "generated": "2026-11-27T08:01:46Z",
  "v": 3
 }
