@@ -753,7 +753,7 @@
     "sku": "LS24HG314EAXXA",
     "handle": "samsung-value-g3-flat-24in-monitor-144hz-3y-warranty",
     "url": "/products/samsung-value-g3-flat-24in-monitor-144hz-3y-warranty",
-    "qty": 64,
+    "qty": 63,
     "image": "https://s3.amazonaws.com/tarsus.co.za/LS24HG314EAXXA_default.png"
    },
    {
@@ -3094,6 +3094,6 @@
    "total": "R8 772"
   }
  ],
- "generated": "2026-11-27T19:01:19Z",
+ "generated": "2026-11-27T20:01:17Z",
  "v": 3
 }
